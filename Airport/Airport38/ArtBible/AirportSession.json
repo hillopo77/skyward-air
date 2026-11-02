@@ -1,0 +1,85 @@
+{
+  "status": "READY",
+  "pass_id": 10,
+  "revision": 38,
+  "runtime_sha256": "386abcbba34423154b32548059e5b58ddc65a4c52dd25d1d198b7744d160da10",
+  "journey": {
+    "checked_in": false,
+    "bag_accepted": false,
+    "security": false,
+    "boarding": false,
+    "aboard": false
+  },
+  "held": null,
+  "driving": null,
+  "spectator": false,
+  "native_physics_bodies": 19,
+  "events": [
+    {
+      "event": "Character39 art ready",
+      "time_s": 0.21900000000005093,
+      "characters": 42,
+      "skeleton": "/Game/Characters39/Meshes/SKEL_Character39.SKEL_Character39",
+      "source_fit": "fixed-length rig plus authored seated contact morphs",
+      "native_fit": "root capture required"
+    },
+    {
+      "event": "Clear arrival26 ready",
+      "time_s": 0.25,
+      "initial_exit": "checkin",
+      "high_dpi": "project enabled",
+      "profile": "FastTAA"
+    },
+    {
+      "event": "Airside38 installed",
+      "time_s": 0.26599999999962165,
+      "aircraft_offset_m": [
+        16,
+        0,
+        0
+      ],
+      "bridge_components": 16,
+      "interlock": true
+    },
+    {
+      "event": "Authoritative journey38 installed",
+      "time_s": 0.26599999999962165,
+      "automatic_doors": 14,
+      "receiver_bays": 2
+    },
+    {
+      "event": "Airport38 measured final rendering",
+      "time_s": 0.43800000000010186,
+      "profile": "Airport38 Native Stable",
+      "resolution": "native viewport 100%",
+      "settings_measured": true
+    },
+    {
+      "event": "Airport38 integrated",
+      "time_s": 0.46900000000005093,
+      "reviews": 5,
+      "fix_assignments": 5
+    },
+    {
+      "event": "Prop picked up",
+      "time_s": 1.719000000000051,
+      "actor": "Friend03 Claw Hammer"
+    },
+    {
+      "event": "Native tow couplings bound",
+      "time_s": 1.7969999999995707,
+      "count": 2
+    }
+  ],
+  "frame_statistics": {
+    "frames": 75420,
+    "average_fps": 58.53814105264531,
+    "p95_ms": 21.852299999409297,
+    "maximum_ms": 55.318800000350166
+  },
+  "player_source": [
+    -47.0,
+    -12.45,
+    1.62
+  ]
+}

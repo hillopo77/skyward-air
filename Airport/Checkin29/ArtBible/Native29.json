@@ -1,0 +1,12 @@
+{
+  "status": "SUCCESS",
+  "started": 1793196155.9149475,
+  "map": "/Game/Airport29/L_Airport_Checkin29",
+  "finished": 1793196183.3128636,
+  "source_sha256": "12a166fb9b93a3b5e6506fd1f10d1329a93becb3367e5928dfb067c5fbe703cf",
+  "families": 8,
+  "triangles": 304236,
+  "counters": 2,
+  "queue_passengers": 3,
+  "unchanged_boundary": true
+}

@@ -1,0 +1,24 @@
+{
+  "status": "READY",
+  "map": "/Game/Airport34/L_Airport_Terminal34",
+  "zone": "landsidecorridor",
+  "player": [
+    -41.209315857753545,
+    -6.256733430894157,
+    1.9367061029245256
+  ],
+  "journey": {
+    "checked_in": false,
+    "security": false,
+    "boarding": false,
+    "aboard": false
+  },
+  "controlled_doors": {
+    "Screening entry24 leaf 0": 0,
+    "Screening entry24 leaf 1": 0,
+    "Screening exit24 leaf 0": 0,
+    "Screening exit24 leaf 1": 0,
+    "Staff service leaf24": 0
+  },
+  "updated": 1793267005.3649728
+}

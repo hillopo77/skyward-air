@@ -1,0 +1,201 @@
+{
+  "scope": "Private Blender process reads current saved master; no master/export writes",
+  "saved_master": false,
+  "passes": [
+    {
+      "pass_id": 1,
+      "check": "Original evaluated neutral shape and current derived shape retained through recenter",
+      "vertices": 736,
+      "results": [
+        {
+          "actor": "Flight39 flap 00",
+          "vertices": 199,
+          "max_neutral_world_error_m": 0.0,
+          "max_original_evaluated_geometry_error_m": 0.0
+        },
+        {
+          "actor": "Flight39 flap 01",
+          "vertices": 170,
+          "max_neutral_world_error_m": 0.0,
+          "max_original_evaluated_geometry_error_m": 9.5367431640625e-07
+        },
+        {
+          "actor": "Flight39 flap 06",
+          "vertices": 199,
+          "max_neutral_world_error_m": 0.0,
+          "max_original_evaluated_geometry_error_m": 1.9073486328125e-06
+        },
+        {
+          "actor": "Flight39 flap 07",
+          "vertices": 168,
+          "max_neutral_world_error_m": 0.0,
+          "max_original_evaluated_geometry_error_m": 1.9073486328125e-06
+        }
+      ]
+    },
+    {
+      "pass_id": 2,
+      "check": "Physical hinge symmetry plus actual neutral/5deg/15deg mirrored deflected vertices",
+      "pairs": [
+        {
+          "left": "Flight39 flap 00",
+          "right": "Flight39 flap 06",
+          "pivot_error_m": 0.0,
+          "axis_vector_error": 0.0,
+          "deflected_geometry": [
+            {
+              "angle": 0,
+              "max_mirrored_surface_error_m": 1.9073486328125e-06,
+              "points": 132
+            },
+            {
+              "angle": 5,
+              "max_mirrored_surface_error_m": 1.9073486328125e-06,
+              "points": 132
+            },
+            {
+              "angle": 15,
+              "max_mirrored_surface_error_m": 1.9073486328125e-06,
+              "points": 132
+            }
+          ]
+        },
+        {
+          "left": "Flight39 flap 01",
+          "right": "Flight39 flap 07",
+          "pivot_error_m": 0.0,
+          "axis_vector_error": 0.0,
+          "deflected_geometry": [
+            {
+              "angle": 0,
+              "max_mirrored_surface_error_m": 0.0,
+              "points": 132
+            },
+            {
+              "angle": 5,
+              "max_mirrored_surface_error_m": 1.9082797281243946e-06,
+              "points": 132
+            },
+            {
+              "angle": 15,
+              "max_mirrored_surface_error_m": 2.6973983046972182e-06,
+              "points": 132
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pass_id": 3,
+      "check": "Repeated current-master upgrade leaves metadata and all evaluated neutral vertices identical",
+      "idempotent": true
+    }
+  ],
+  "passed": true,
+  "changed_assets": [
+    "SM_AP_F39Surface_00",
+    "SM_AP_F39Surface_01",
+    "SM_AP_F39Surface_06",
+    "SM_AP_F39Surface_07"
+  ],
+  "patch": {
+    "version": 1,
+    "changed_assets": [
+      "SM_AP_F39Surface_00",
+      "SM_AP_F39Surface_01",
+      "SM_AP_F39Surface_06",
+      "SM_AP_F39Surface_07"
+    ],
+    "records": [
+      {
+        "actor": "Flight39 flap 00",
+        "asset": "SM_AP_F39Surface_00",
+        "old_pivot": [
+          13.699999809265137,
+          17.780363082885742,
+          -1.1600000858306885
+        ],
+        "pivot": [
+          13.699999809265137,
+          17.78036117553711,
+          -1.159999966621399
+        ],
+        "axis": [
+          -0.9950828552246094,
+          0.08213772624731064,
+          0.05534899979829788
+        ],
+        "neutral_world_error_m": 0.0,
+        "vertices_checked": 199,
+        "changed": true
+      },
+      {
+        "actor": "Flight39 flap 01",
+        "asset": "SM_AP_F39Surface_01",
+        "old_pivot": [
+          11.542598724365234,
+          17.95844078063965,
+          -1.0053725242614746
+        ],
+        "pivot": [
+          11.54259967803955,
+          17.95844078063965,
+          -1.0399999618530273
+        ],
+        "axis": [
+          -0.9833953380584717,
+          0.16988635063171387,
+          0.0638154074549675
+        ],
+        "neutral_world_error_m": 0.0,
+        "vertices_checked": 170,
+        "changed": true
+      },
+      {
+        "actor": "Flight39 flap 06",
+        "asset": "SM_AP_F39Surface_06",
+        "old_pivot": [
+          18.299999237060547,
+          17.780363082885742,
+          -1.1600000858306885
+        ],
+        "pivot": [
+          18.299999237060547,
+          17.78036117553711,
+          -1.159999966621399
+        ],
+        "axis": [
+          0.9950828552246094,
+          0.08213772624731064,
+          0.05534899979829788
+        ],
+        "neutral_world_error_m": 0.0,
+        "vertices_checked": 199,
+        "changed": true
+      },
+      {
+        "actor": "Flight39 flap 07",
+        "asset": "SM_AP_F39Surface_07",
+        "old_pivot": [
+          20.457401275634766,
+          17.95844078063965,
+          -1.0746275186538696
+        ],
+        "pivot": [
+          20.457401275634766,
+          17.95844078063965,
+          -1.0399999618530273
+        ],
+        "axis": [
+          0.9833953380584717,
+          0.16988635063171387,
+          0.0638154074549675
+        ],
+        "neutral_world_error_m": 0.0,
+        "vertices_checked": 168,
+        "changed": true
+      }
+    ],
+    "scope": "Only four existing inner flap actuators; neutral evaluated vertices retained"
+  }
+}

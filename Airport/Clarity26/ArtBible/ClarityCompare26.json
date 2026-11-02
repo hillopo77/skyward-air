@@ -1,0 +1,79 @@
+{
+  "status": "SUCCESS",
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\Compare26_OriginalTAA_Still.png",
+      "sha256": "0470a4ccf5821f9da7a358c63c5508f80e1eff2922627f8b89c65170bec23702",
+      "profile": "OriginalTAA",
+      "kind": "still"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\Compare26_OriginalTAA_Moving.png",
+      "sha256": "cb906bed722a3ae68ec68843a3242c7fe7b3d86ba80e5c7a3138f8681129cf5c",
+      "profile": "OriginalTAA",
+      "kind": "moving"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\Compare26_ClearNative_Still.png",
+      "sha256": "d336ba7283fe568c6aa4600e90515c29c43305fae722f3f1851e71f124b3023d",
+      "profile": "ClearNative",
+      "kind": "still"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\Compare26_ClearNative_Moving.png",
+      "sha256": "0ea3d7370f66636fd406a0ec3400ea5cec88005553b88c8d9fef436f0e984e5f",
+      "profile": "ClearNative",
+      "kind": "moving"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\Compare26_Clear115_Still.png",
+      "sha256": "062705316a3a4469259dcf5e8abed9e11c5158e9e2b570c6d3ca95204061b8cf",
+      "profile": "Clear115",
+      "kind": "still"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\Compare26_Clear115_Moving.png",
+      "sha256": "44886954083681f548bb616399743b5f602b9d564a18db5e1c6964c2a1593e01",
+      "profile": "Clear115",
+      "kind": "moving"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\Compare26_FastTAA_Still.png",
+      "sha256": "d3340d0e855187f83fd78e52967a6fea4b4e9732d2a834c2143d5cdeb7848742",
+      "profile": "FastTAA",
+      "kind": "still"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\Compare26_FastTAA_Moving.png",
+      "sha256": "fe01b71f4d3498acbed20e74d741a0b06d0764067cb5bb7338c8707e536b7f25",
+      "profile": "FastTAA",
+      "kind": "moving"
+    }
+  ],
+  "checks": [
+    {
+      "profile": "OriginalTAA",
+      "average_fps": 42.46094927783054,
+      "p95_ms": 49.62329939007759
+    },
+    {
+      "profile": "ClearNative",
+      "average_fps": 56.768604440688954,
+      "p95_ms": 18.75220239162445
+    },
+    {
+      "profile": "Clear115",
+      "average_fps": 57.28520046830098,
+      "p95_ms": 18.69780197739601
+    },
+    {
+      "profile": "FastTAA",
+      "average_fps": 56.315664657225135,
+      "p95_ms": 19.78909969329834
+    }
+  ],
+  "viewport": [
+    1600,
+    1000
+  ]
+}

@@ -1,0 +1,5755 @@
+{
+ "volumes": {
+  "PostProcessVolume": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.25999999046325684,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 6900.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDDF1330) {x: 0.960000, y: 0.960000, z: 0.960000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.15000000596046448,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "Airport clean daylight grade": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.25999999046325684,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 6900.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDDF0530) {x: 0.960000, y: 0.960000, z: 0.960000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.15000000596046448,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "Airport26 journey overlay": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.25999999046325684,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": false,
+   "override_ambient_occlusion_radius": false,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 6900.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDDF8330) {x: 0.960000, y: 0.960000, z: 0.960000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.5,
+   "ambient_occlusion_radius": 200.0,
+   "bloom_intensity": 0.15000000596046448,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "Entrance27 local surface separation": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.2800000011920929,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 7000.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDDF9130) {x: 0.950000, y: 0.950000, z: 0.950000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.699999988079071,
+   "ambient_occlusion_radius": 180.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "Checkin33 warm welcoming grade": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.2800000011920929,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 7000.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDE12130) {x: 0.950000, y: 0.950000, z: 0.950000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.699999988079071,
+   "ambient_occlusion_radius": 180.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "AP38 warm grade entrancefoyer": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.30000001192092896,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 7000.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDE12F30) {x: 0.950000, y: 0.950000, z: 0.950000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.699999988079071,
+   "ambient_occlusion_radius": 180.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "AP38 warm grade checkin": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.30000001192092896,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 7000.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDE13D30) {x: 0.950000, y: 0.950000, z: 0.950000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.699999988079071,
+   "ambient_occlusion_radius": 180.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "AP38 warm grade publicreturn": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.2800000011920929,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 7000.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDE14B30) {x: 0.950000, y: 0.950000, z: 0.950000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.699999988079071,
+   "ambient_occlusion_radius": 180.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "AP38 warm grade landsidecorridor": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.30000001192092896,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 7000.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDDF2130) {x: 0.950000, y: 0.950000, z: 0.950000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.699999988079071,
+   "ambient_occlusion_radius": 180.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "AP38 warm grade security": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.2800000011920929,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 7000.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDDF2F30) {x: 0.950000, y: 0.950000, z: 0.950000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.699999988079071,
+   "ambient_occlusion_radius": 180.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "AP38 warm grade recovery": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.2800000011920929,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 7000.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDDF3D30) {x: 0.950000, y: 0.950000, z: 0.950000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.699999988079071,
+   "ambient_occlusion_radius": 180.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "AP38 warm grade concourse": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.2800000011920929,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 7000.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDDF4B30) {x: 0.950000, y: 0.950000, z: 0.950000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.699999988079071,
+   "ambient_occlusion_radius": 180.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "AP38 warm grade gate07": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.2800000011920929,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 7000.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDDF5930) {x: 0.950000, y: 0.950000, z: 0.950000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.699999988079071,
+   "ambient_occlusion_radius": 180.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "AP38 warm grade gate08": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.2800000011920929,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 7000.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDDF6730) {x: 0.950000, y: 0.950000, z: 0.950000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.699999988079071,
+   "ambient_occlusion_radius": 180.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "AP38 warm grade cafefoyer": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.2800000011920929,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 7000.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDDF7530) {x: 0.950000, y: 0.950000, z: 0.950000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.699999988079071,
+   "ambient_occlusion_radius": 180.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "AP38 warm grade cafe": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.2800000011920929,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 7000.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDDF9F30) {x: 0.950000, y: 0.950000, z: 0.950000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.699999988079071,
+   "ambient_occlusion_radius": 180.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "AP38 warm grade amenitylobby": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.2800000011920929,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 7000.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDDFAD30) {x: 0.950000, y: 0.950000, z: 0.950000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.699999988079071,
+   "ambient_occlusion_radius": 180.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "AP38 warm grade amenities": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.2800000011920929,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 7000.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDDFBB30) {x: 0.950000, y: 0.950000, z: 0.950000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.699999988079071,
+   "ambient_occlusion_radius": 180.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "AP38 warm grade operations": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.2800000011920929,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 7000.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDDFC930) {x: 0.950000, y: 0.950000, z: 0.950000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.699999988079071,
+   "ambient_occlusion_radius": 180.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "AP38 warm grade gate07entry": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.2800000011920929,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 7000.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDDFD730) {x: 0.950000, y: 0.950000, z: 0.950000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.699999988079071,
+   "ambient_occlusion_radius": 180.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "AP38 warm grade baggageservice": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.2800000011920929,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 7000.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDDFE530) {x: 0.950000, y: 0.950000, z: 0.950000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.699999988079071,
+   "ambient_occlusion_radius": 180.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "AP38 warm grade arrivals": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.2800000011920929,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 7000.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDDFF330) {x: 0.950000, y: 0.950000, z: 0.950000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.699999988079071,
+   "ambient_occlusion_radius": 180.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "AP38 warm grade arrivalsreturn": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.2800000011920929,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 7000.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDE10530) {x: 0.950000, y: 0.950000, z: 0.950000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.699999988079071,
+   "ambient_occlusion_radius": 180.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.18000000715255737
+  },
+  "AP38 warm grade publicreturneast": {
+   "override_ambient_cubemap_intensity": true,
+   "ambient_cubemap_intensity": 0.2800000011920929,
+   "override_white_temp": true,
+   "override_color_contrast": true,
+   "override_ambient_occlusion_intensity": true,
+   "override_ambient_occlusion_radius": true,
+   "override_bloom_intensity": true,
+   "override_vignette_intensity": true,
+   "white_temp": 7000.0,
+   "color_contrast": "<Struct 'Vector4' (0x00000000CDE11330) {x: 0.950000, y: 0.950000, z: 0.950000, w: 1.000000}>",
+   "ambient_occlusion_intensity": 0.699999988079071,
+   "ambient_occlusion_radius": 180.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.18000000715255737
+  }
+ },
+ "mobility": {
+  "SM_Plane_AnalogDashboard": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Controls": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_CockpitShell": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_ExteriorAirframe": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_LandingGear": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Seat.016": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Seat.017": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Main galley between business and economy": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_CrewJumpseat": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_CrewJumpseat.001": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Lavatory_R": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Lavatory_L": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_FlightdeckSystems": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_ForwardVestibule": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_ClassDivider": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_CockpitEntry": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_FittedCarpet07": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Business 01 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Business 01 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Business 02 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Business 02 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 03 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 03 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 03 D E": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 04 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 04 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 04 D E": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 05 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 05 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 05 D E": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 06 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 06 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 06 D E": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 07 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 07 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 07 D E": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 08 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 08 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 08 D E": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 09 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 09 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 09 D E": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 10 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 10 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 10 D E": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 11 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 11 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 11 D E": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 12 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 12 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy 12 D E": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_CabinFinish09": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Exit structure10 bay00": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cabin frame10 00": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 01": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 01": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 01": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 02": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 02": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 02": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cabin frame10 02": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 03": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 03": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 03": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_R bay10 03": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_L bay10 03": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 04": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 04": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_R bay10 04": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_L bay10 04": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cabin frame10 04": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 05": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 05": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 05": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_R bay10 05": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_L bay10 05": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 06": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 06": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 06": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_R bay10 06": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_L bay10 06": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cabin frame10 06": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 07": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 07": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 07": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 08": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 08": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 08": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cabin frame10 08": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 09": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 09": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 09": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_R bay10 09": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_L bay10 09": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 10": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 10": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 10": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_R bay10 10": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_L bay10 10": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cabin frame10 10": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 11": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 11": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 11": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_R bay10 11": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_L bay10 11": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_R bay10 12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_L bay10 12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cabin frame10 12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 13": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 13": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 13": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_R bay10 13": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_L bay10 13": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 14": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 14": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 14": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_R bay10 14": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_L bay10 14": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cabin frame10 14": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 15": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 15": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 15": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_R bay10 15": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_L bay10 15": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 16": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 16": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 16": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_R bay10 16": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_L bay10 16": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cabin frame10 16": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 17": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 17": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 17": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_R bay10 17": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_L bay10 17": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 18": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 18": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 18": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_R bay10 18": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_L bay10 18": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cabin frame10 18": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 19": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 19": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 19": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_R bay10 19": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Rack_L bay10 19": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Exit structure10 bay20": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cabin frame10 20": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 21": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 21": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 21": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 22": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 22": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 22": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cabin frame10 22": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 23": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 23": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 23": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 24": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 24": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 24": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cabin frame10 24": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_R bay10 25": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_WindowWall_L bay10 25": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_OuterWindowBarrel bay10 25": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_Floor": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_CrewAmenities07": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Aft preparation L": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Aft preparation R": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "SM_Plane_AftService10": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Aft crew station L": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Aft crew station R": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Forward lower cargo pressure bay": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Forward exterior cargo door": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Aft crew solid bulkhead mounts11": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Forward emergency equipment11": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Forward dispatch11": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Mid linen11": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Mid water waste11": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Mid galley fitted crew systems11": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Aft dispatch11": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Aft waste linen11": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Aft room fitted crew systems11": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Private suite 01 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Private suite 02 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Private suite 01 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Private suite 02 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Forward lower cargo hold": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Forward lower cargo stair": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Suite personal fittings 01 L": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Suite personal fittings 02 L": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Suite personal fittings 01 R": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Suite personal fittings 02 R": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Pressure door articulated hinge bearings12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Mid_lower_oven_power": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Mid_lower_oven_heat_indicator": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Mid_upper_oven_power": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Mid_upper_oven_heat_indicator": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Mid_coffee_brew": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Mid_coffee_coffee_stream": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Mid_coffee_brew_indicator": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Mid_wash_tap": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Mid_wash_water_stream": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Rear_L_lower_oven_power": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Rear_L_lower_oven_heat_indicator": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Rear_L_upper_oven_power": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Rear_L_upper_oven_heat_indicator": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Rear_L_coffee_brew": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Rear_L_coffee_coffee_stream": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Rear_L_coffee_brew_indicator": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Rear_R_lower_oven_power": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Rear_R_lower_oven_heat_indicator": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Rear_R_upper_oven_power": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Rear_R_upper_oven_heat_indicator": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Rear_R_coffee_brew": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Rear_R_coffee_coffee_stream": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Rear_R_coffee_brew_indicator": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Mid main phone base12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Mid port phone base12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Mid starboard phone base12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Rear port phone base12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Rear starboard phone base12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 0112": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 01 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 01 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 01 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 01 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 0212": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 02 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 02 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 02 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 02 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 0312": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Centre PSU ceiling attachment 03": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 03 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 03 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 03 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 03 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 0412": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Centre PSU ceiling attachment 04": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 04 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 04 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 04 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 04 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 0512": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 05 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 05 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 05 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 05 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 0612": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 06 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 06 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 06 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 06 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 0712": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Centre PSU ceiling attachment 07": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 07 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 07 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 07 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 07 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 0812": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Centre PSU ceiling attachment 08": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 08 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 08 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 08 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 08 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 0912": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 09 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 09 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 09 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 09 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 1012": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 10 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 10 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 10 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 10 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 1112": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Centre PSU ceiling attachment 11": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 11 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 11 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 11 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 11 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 1212": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Centre PSU ceiling attachment 12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 12 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 12 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 12 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 12 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 1312": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 13 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 13 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 13 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 13 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 1412": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 14 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 14 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 14 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 14 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 1512": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Centre PSU ceiling attachment 15": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 15 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 15 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 15 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 15 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 1612": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Centre PSU ceiling attachment 16": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 16 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 16 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 16 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 16 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 1712": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 17 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 17 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 17 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 17 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 1812": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 18 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 18 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 18 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 18 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 1912": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Centre PSU ceiling attachment 19": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 19 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 19 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 19 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 19 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 2012": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Centre PSU ceiling attachment 20": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 20 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 20 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 20 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 20 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 2112": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 21 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 21 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 21 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 21 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 2212": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 22 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 22 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 22 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 22 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 2312": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Centre PSU ceiling attachment 23": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 23 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 23 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 23 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 23 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 2412": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Centre PSU ceiling attachment 24": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 24 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 24 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 24 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 24 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 2512": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 25 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 25 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 25 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 25 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 2612": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 26 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 26 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 26 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 26 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 2712": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Centre PSU ceiling attachment 27": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 27 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 27 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 27 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 27 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 2812": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Centre PSU ceiling attachment 28": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 28 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 28 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 28 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 28 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 2912": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 29 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 29 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 29 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 29 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 3012": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 30 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 30 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 30 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 30 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 3112": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Centre PSU ceiling attachment 31": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 31 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 31 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 31 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 31 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 3212": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Centre PSU ceiling attachment 32": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 32 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 32 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 32 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 32 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 3312": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 33 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 33 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 33 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 33 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 3412": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 34 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 34 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 34 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 34 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 3512": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Centre PSU ceiling attachment 35": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 35 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 35 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 35 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 35 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 3612": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Centre PSU ceiling attachment 36": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 36 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 36 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 36 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 36 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 3712": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 37 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 37 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 37 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 37 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 3812": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 38 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 38 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 38 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 38 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 3912": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Centre PSU ceiling attachment 39": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 39 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 39 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 39 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 39 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Passenger service unit 4012": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Centre PSU ceiling attachment 40": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 40 ReadKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 40 CallKey12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 40 ReadIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "PSU 40 CallIndicator12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Crew handbook wall sleeve 112": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Crew handbook wall sleeve 212": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cockpit radar phosphor graphics12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Lavatory R tap water12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Lavatory R flush button12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Lavatory R flush water12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Lavatory L tap water12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Lavatory L flush button12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Lavatory L flush water12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 03A12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 03D12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 03E12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 03K12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 04A12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 04D12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 04E12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 04K12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 05A12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 05D12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 05E12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 05K12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 06A12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 06D12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 06E12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 06K12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 07A12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 07D12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 07E12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 07K12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 08A12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 08D12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 08E12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 08K12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 09A12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 09D12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 09E12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 09K12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 10A12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 10D12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 10E12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 10K12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 11A12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 11D12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 11E12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy display 11K12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy first-row display mount 03A12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy first-row display 03A12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy first-row display mount 03D12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy first-row display 03D12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy first-row display mount 03E12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy first-row display 03E12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy first-row display mount 03K12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Economy first-row display 03K12": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Galley utility enclosure13": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Lavatory fitted ceiling closures13": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Lavatory status module R13": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Lavatory occupancy R13": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Lavatory occupied shutter R13": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Lavatory status module L13": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Lavatory occupancy L13": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Lavatory occupied shutter L13": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Rear extinguisher -113": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Rear extinguisher 113": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cockpit supported cabin-light station 213": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cockpit supported cabin-light station 513": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Lavatory inside release L13": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Lavatory inside release R13": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay01 tier0 CarrySpinner 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay01 tier1 PlywoodCrate 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay02 tier0 SmallParcel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay02 tier0 Weekender 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay02 tier1 CarrySpinner 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay02 tier1 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay03 tier0 CheckedLaid 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay03 tier1 InstrumentCase 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay04 tier0 LongMailer 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay04 tier1 ExpeditionDuffel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay05 tier0 CrewEquipment 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay05 tier0 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay05 tier1 MediumParcel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay05 tier1 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay06 tier0 ExpeditionDuffel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay06 tier1 Weekender 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay07 tier0 Weekender 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay07 tier0 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay07 tier1 CheckedSpinner 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay08 tier0 CarrySpinner 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay08 tier1 PlywoodCrate 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay09 tier0 SmallParcel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay09 tier0 Weekender 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay09 tier1 CarrySpinner 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay09 tier1 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay10 tier0 CheckedLaid 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay10 tier1 InstrumentCase 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay11 tier0 LongMailer 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay11 tier1 ExpeditionDuffel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay12 tier0 CrewEquipment 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay12 tier0 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay12 tier1 MediumParcel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay12 tier1 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay13 tier0 ExpeditionDuffel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay13 tier1 Weekender 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay14 tier0 Weekender 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay14 tier0 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay14 tier1 CheckedSpinner 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay15 tier0 CarrySpinner 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay15 tier1 PlywoodCrate 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay16 tier0 SmallParcel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay16 tier0 Weekender 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay16 tier1 CarrySpinner 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay16 tier1 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay17 tier0 CheckedLaid 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay17 tier1 InstrumentCase 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay18 tier0 LongMailer 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay18 tier1 ExpeditionDuffel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay19 tier0 CrewEquipment 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay19 tier0 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay19 tier1 MediumParcel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay19 tier1 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay20 tier0 ExpeditionDuffel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay20 tier1 Weekender 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay21 tier0 Weekender 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay21 tier0 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay21 tier1 CheckedSpinner 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay22 tier0 CarrySpinner 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 -1 bay22 tier1 PlywoodCrate 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay01 tier0 CheckedLaid 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay01 tier1 InstrumentCase 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay02 tier0 LongMailer 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay02 tier1 ExpeditionDuffel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay03 tier0 CrewEquipment 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay03 tier0 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay03 tier1 MediumParcel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay03 tier1 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay04 tier0 ExpeditionDuffel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay04 tier1 Weekender 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay05 tier0 Weekender 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay05 tier0 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay05 tier1 CheckedSpinner 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay06 tier0 CarrySpinner 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay06 tier1 PlywoodCrate 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay07 tier0 SmallParcel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay07 tier0 Weekender 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay07 tier1 CarrySpinner 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay07 tier1 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay08 tier0 CheckedLaid 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay08 tier1 InstrumentCase 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay09 tier0 LongMailer 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay09 tier1 ExpeditionDuffel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay10 tier0 CrewEquipment 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay10 tier0 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay10 tier1 MediumParcel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay10 tier1 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay11 tier0 ExpeditionDuffel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay11 tier1 Weekender 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay12 tier0 Weekender 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay12 tier0 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay12 tier1 CheckedSpinner 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay13 tier0 CarrySpinner 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay13 tier1 PlywoodCrate 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay14 tier0 SmallParcel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay14 tier0 Weekender 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay14 tier1 CarrySpinner 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay14 tier1 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay15 tier0 CheckedLaid 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay15 tier1 InstrumentCase 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay16 tier0 LongMailer 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay16 tier1 ExpeditionDuffel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay17 tier0 CrewEquipment 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay17 tier0 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay17 tier1 MediumParcel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay17 tier1 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay18 tier0 ExpeditionDuffel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay18 tier1 Weekender 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay19 tier0 Weekender 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay19 tier0 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay19 tier1 CheckedSpinner 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay20 tier0 CarrySpinner 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay20 tier1 PlywoodCrate 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay21 tier0 SmallParcel 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay21 tier0 Weekender 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay21 tier1 CarrySpinner 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay21 tier1 SmallParcel 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay22 tier0 CheckedLaid 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Cargo15 +1 bay22 tier1 InstrumentCase 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_CrewBusiness-1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_CrewBusiness1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_ServiceCentre9.4": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_ServiceSide(9.4, -1)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_ServiceSide(9.4, 1)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_ServiceCentre12.4": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_ServiceSide(12.4, -1)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_ServiceSide(12.4, 1)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_RearPressure": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_RearServiceBank": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_LavOuterR": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_LavRearR": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Vanity10R": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Toilet10R": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_LavOuterL": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_LavRearL": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Vanity10L": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Toilet10L": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_CockpitSide10-1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_CockpitSide101": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Galley10": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_FrontWindscreen10": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_CockpitEquipment": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_ObserverSeat": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Business 01 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Business 01 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Business 02 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Business 02 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 03 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 03 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 03 D E": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 04 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 04 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 04 D E": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 05 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 05 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 05 D E": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 06 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 06 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 06 D E": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 07 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 07 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 07 D E": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 08 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 08 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 08 D E": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 09 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 09 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 09 D E": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 10 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 10 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 10 D E": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 11 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 11 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 11 D E": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 12 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 12 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Economy 12 D E": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Pilot_-1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_CockpitConsole10_-1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Seat10_Pilot_1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_CockpitConsole10_1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_ThrottlePedestal10": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_AftCrewSeat11_-1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_AftCrewSeat11_1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_SM_Plane_ForwardDispatch11": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_SM_Plane_MidSide11_L": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_SM_Plane_MidSide11_R": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_SM_Plane_AftDispatch11": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_SM_Plane_AftWaste11": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_LavForward11_R": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_LavInboardFront11_R": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_LavInboardAft11_R": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_LavForward11_L": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_LavInboardFront11_L": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_LavInboardAft11_L": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Suite11_1L_Front": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Suite11_1L_Rear": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Suite11_1L_Pocket": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Suite11_1L_Console": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Suite11_1L_Ottoman": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Suite11_2L_Front": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Suite11_2L_Rear": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Suite11_2L_Pocket": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Suite11_2L_Console": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Suite11_2L_Ottoman": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Suite11_1R_Front": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Suite11_1R_Rear": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Suite11_1R_Pocket": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Suite11_1R_Console": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Suite11_1R_Ottoman": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Suite11_2R_Front": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Suite11_2R_Rear": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Suite11_2R_Pocket": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Suite11_2R_Console": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_Suite11_2R_Ottoman": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldSide11-1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(-1, 1)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(-1, 2)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(-1, 3)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(-1, 4)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(-1, 5)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(-1, 6)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(-1, 7)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(-1, 8)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(-1, 9)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(-1, 10)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(-1, 11)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(-1, 12)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldSide111": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(1, 1)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(1, 2)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(1, 3)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(1, 4)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(1, 5)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(1, 6)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(1, 7)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(1, 8)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(1, 9)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(1, 10)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(1, 11)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack11(1, 12)": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRear11": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_CabinSide12_-1_0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_CabinSide12_-1_1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_CabinSide12_-1_2": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_CabinSide12_1_0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_CabinSide12_1_1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_CabinSide12_1_2": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldFront12_PortNotch": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldFront12_Starboard": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack13_-1_1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack13_-1_2": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack13_-1_3": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack13_-1_4": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack13_-1_5": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack13_-1_6": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack13_-1_7": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack13_-1_8": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack13_-1_9": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack13_-1_10": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack13_1_1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack13_1_2": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack13_1_3": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack13_1_4": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack13_1_5": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack13_1_6": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack13_1_7": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack13_1_8": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack13_1_9": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "COL_HoldRack13_1_10": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 01 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 02 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 03 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 04 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 05 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 06 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 07 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 08 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 09 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 10 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 11 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 12 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 13 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 14 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 15 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 16 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 17 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 18 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 19 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 20 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 21 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 22 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 23 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 24 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 25 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 26 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 27 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 28 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 29 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 30 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 31 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 32 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 33 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 34 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 35 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 36 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 37 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 38 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 39 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 40 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 41 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 42 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 43 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 44 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 45 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 46 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 47 R18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Window shade 48 L18 frame": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Self-service passenger31": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Check-in agent 01": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Queue passenger 3": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Check-in agent 02": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Queue passenger 6": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Security pilot": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Gate pilot": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Caf\u00e9 barista": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Information host": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Waiting passenger 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Waiting passenger 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Waiting passenger 2": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Waiting passenger 3": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Waiting passenger 4": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Waiting passenger 5": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Waiting passenger 6": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Waiting passenger 7": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Caf\u00e9 passenger 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Caf\u00e9 passenger 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Gallery passenger 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Gallery passenger 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Cabin passenger 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Cabin passenger 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Cabin passenger 2": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Cabin passenger 3": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Cabin passenger 4": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Cabin passenger 5": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Business passenger": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Additional waiting passenger 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Additional waiting passenger 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Additional waiting passenger 2": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Additional waiting passenger 3": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Additional waiting passenger 4": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Additional waiting passenger 5": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Additional waiting passenger 6": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Additional waiting passenger 7": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Arrivals passenger 0": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "CH12COLL Arrivals passenger 1": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Check-in desk 01": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Bag drop belt 01": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Check-in desk 02": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Bag drop belt 02": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Security portal 01": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Security belt 01": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Security portal 02": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Security belt 02": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Gate A07 boarding desk": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Reclaim carousel 01": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Flight39 coherent physical apron taxiway runway": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Flight39 extended graded airfield": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "Flight39 runway taxi markings and optics": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "B40 worn Business 01 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "B40 worn Business 01 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "B40 worn Business 02 A": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  },
+  "B40 worn Business 02 K": {
+   "mobility": "<ComponentMobility.STATIC: 0>"
+  }
+ },
+ "sun": {
+  "Airport daylight": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "light_source_angle": 5.0,
+   "dynamic_shadow_distance_stationary_light": 0.0,
+   "volumetric_scattering_intensity": 6.0
+  }
+ },
+ "lights": {
+  "AP38 practical 000 welcome": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 001 welcome": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": false,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 002 checkin_task": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 003 checkin_task": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": false,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 004 checkin_task": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 005 checkin_task": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": false,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 006 checkin_task": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 007 checkin_task": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 008 exit_circulation": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 009 exit_circulation": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 010 exit_circulation": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 011 exit_circulation": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 012 circulation": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 013 circulation": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 014 circulation": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 015 circulation": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 016 screening_task": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 017 screening_task": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 018 screening_task": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 019 screening_task": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 020 screening_task": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 021 screening_task": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 022 repack_task": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 023 repack_task": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 024 wayfinding": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 025 wayfinding": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 026 wayfinding": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 027 lounge": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 028 lounge": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 029 lounge": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 030 lounge": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 031 lounge": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 032 lounge": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 033 lounge": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 034 lounge": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 035 lounge": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 036 lounge": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 037 cafe_welcome": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 038 cafe_dining": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 039 cafe_dining": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 040 cafe_dining": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 041 gallery_reading": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 042 cafe_dining": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 043 cafe_dining": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 044 cafe_dining": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 045 cafe_dining": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 046 cafe_dining": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 047 cafe_dining": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 048 amenity_circulation": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 049 amenity_circulation": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 050 washroom": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 051 washroom": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 052 washroom": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 053 washroom": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 054 staff_task": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 055 staff_task": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 056 lounge_arrival": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 057 lounge_arrival": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 058 baggage_task": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 059 reclaim_task": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 060 reclaim_task": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 061 reclaim_task": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 062 reclaim_task": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 35.0,
+   "barn_door_length": 40.0
+  },
+  "AP38 practical 063 exit_circulation": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 064 exit_circulation": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": true,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 065 entrance_canopy": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": false,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 066 entrance_canopy": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": false,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 067 entrance_canopy": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": false,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 068 covered_forecourt": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": false,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 069 covered_forecourt": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": false,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 070 covered_forecourt": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": false,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 071 covered_forecourt": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": false,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 072 covered_forecourt": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": false,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  },
+  "AP38 practical 073 covered_forecourt": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "cast_shadows": false,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0
+  }
+ },
+ "sky": {
+  "Airport hemisphere fill": {
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "intensity": 36.0,
+   "lower_hemisphere_is_black": false,
+   "volumetric_scattering_intensity": 0.30000001192092896
+  }
+ },
+ "lightmass": {
+  "world": {
+   "num_indirect_lighting_bounces": 3,
+   "num_sky_lighting_bounces": 1,
+   "use_ambient_occlusion": false,
+   "direct_illumination_occlusion_fraction": 0.5,
+   "indirect_illumination_occlusion_fraction": 1.0,
+   "volumetric_lightmap_detail_cell_size": 200.0,
+   "indirect_lighting_smoothness": 1.0
+  }
+ },
+ "shadow": {
+  "Compact departures display": {
+   "cast_shadow": true
+  },
+  "Finished Grounds34": {
+   "cast_shadow": true
+  },
+  "Airport38 role-based down-facing practical fixtures": {
+   "cast_shadow": true
+  },
+  "Flight39 coherent physical apron taxiway runway": {
+   "cast_shadow": true
+  },
+  "Flight39 extended graded airfield": {
+   "cast_shadow": true
+  },
+  "Flight39 runway taxi markings and optics": {
+   "cast_shadow": true
+  },
+  "CH12COLL Security greeter": {
+   "cast_shadow": true
+  },
+  "P46 header mount Header0": {
+   "cast_shadow": true
+  },
+  "P46 header mount Header1": {
+   "cast_shadow": true
+  },
+  "Landside departures board46": {
+   "cast_shadow": true
+  },
+  "Airport46 ground skirt": {
+   "cast_shadow": true
+  },
+  "Airport47 landside road paint": {
+   "cast_shadow": true
+  },
+  "Landside poster47 0": {
+   "cast_shadow": true
+  },
+  "COL_CockpitFloor47": {
+   "cast_shadow": true
+  },
+  "Airport38 exterior glazing and observation panes": {
+   "cast_shadow": true
+  },
+  "Cafe tabletop setting36 2": {
+   "cast_shadow": true
+  },
+  "Cafe tabletop setting36 3": {
+   "cast_shadow": true
+  },
+  "Cafe extra table36 0": {
+   "cast_shadow": true
+  },
+  "Cafe extra chair36 0": {
+   "cast_shadow": true
+  },
+  "Cafe extra chair36 1": {
+   "cast_shadow": true
+  },
+  "Cafe extra table36 1": {
+   "cast_shadow": true
+  },
+  "Cafe extra chair36 2": {
+   "cast_shadow": true
+  },
+  "Cafe extra chair36 3": {
+   "cast_shadow": true
+  },
+  "Plant1224_1771": {
+   "cast_shadow": true
+  },
+  "Plant1224_1773": {
+   "cast_shadow": true
+  },
+  "Plant1224_1827": {
+   "cast_shadow": true
+  },
+  "Plant1224_1828": {
+   "cast_shadow": true
+  },
+  "ChargingTable24_1759": {
+   "cast_shadow": true
+  },
+  "ChargingTable24_1769": {
+   "cast_shadow": true
+  },
+  "A07 upholstered sofa36": {
+   "cast_shadow": true
+  },
+  "A07 lounge coffee table36": {
+   "cast_shadow": true
+  },
+  "A08 upholstered sofa36": {
+   "cast_shadow": true
+  },
+  "A08 lounge coffee table36": {
+   "cast_shadow": true
+  },
+  "ChargingTable24_1797": {
+   "cast_shadow": true
+  },
+  "Gallery table46 0": {
+   "cast_shadow": true
+  },
+  "Gallery chair46 0": {
+   "cast_shadow": true
+  },
+  "Gallery chair46 1": {
+   "cast_shadow": true
+  },
+  "Gallery table46 1": {
+   "cast_shadow": true
+  },
+  "Gallery chair46 2": {
+   "cast_shadow": true
+  },
+  "Gallery chair46 3": {
+   "cast_shadow": true
+  },
+  "Gallery planter46": {
+   "cast_shadow": true
+  },
+  "A07 lounge bench24 0": {
+   "cast_shadow": true
+  },
+  "A07 lounge bench24 1": {
+   "cast_shadow": true
+  },
+  "A08 lounge bench24 0": {
+   "cast_shadow": true
+  },
+  "A08 lounge bench24 1": {
+   "cast_shadow": true
+  },
+  "A08 lounge bench24 2": {
+   "cast_shadow": true
+  },
+  "RetailShelf24_1834": {
+   "cast_shadow": true
+  },
+  "Concourse information totem46": {
+   "cast_shadow": true
+  }
+ },
+ "meshes": {
+  "/Engine/BasicShapes/Sphere.Sphere": {
+   "light_map_resolution": 32,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport34/Meshes/SM_AP_ControlTower34.SM_AP_ControlTower34": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport34/Meshes/SM_AP_Apron34.SM_AP_Apron34": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport34/Meshes/SM_AP_HangarFinish34.SM_AP_HangarFinish34": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport34/Meshes/SM_AP_Grounds34.SM_AP_Grounds34": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Flow03Meshes/SM_AP_GalleryStair35.SM_AP_GalleryStair35": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport12/Meshes/SM_AP_Slab.SM_AP_Slab": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport12/Meshes/SM_AP_MobileStairs.SM_AP_MobileStairs": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Meshes/SM_AP_P38B_parking_pad.SM_AP_P38B_parking_pad": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/FinalServiceMeshes38/SM_AP_BaggageDetail38.SM_AP_BaggageDetail38": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Flow03Meshes/SM_AP_RetainedCraft38.SM_AP_RetainedCraft38": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 3
+  },
+  "/Game/Airport38/Ugly43Meshes/SM_AP_Floors38.SM_AP_Floors38": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Ugly43Meshes/SM_AP_Ceilings38.SM_AP_Ceilings38": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 2
+  },
+  "/Game/Airport38/Flow03Meshes/SM_AP_Roofs38.SM_AP_Roofs38": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 2
+  },
+  "/Game/Airport38/Ugly43Meshes/SM_AP_Walls38.SM_AP_Walls38": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 2
+  },
+  "/Game/Airport38/Flow03Meshes/SM_AP_Glazing38.SM_AP_Glazing38": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Meshes/SM_AP_Canopy38.SM_AP_Canopy38": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Flow03Meshes/SM_AP_Wayfinding38.SM_AP_Wayfinding38": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 2
+  },
+  "/Game/Airport38/Flow03Meshes/SM_AP_Attachments38.SM_AP_Attachments38": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 2
+  },
+  "/Game/Airport38/Flow03Meshes/SM_AP_Transitions39.SM_AP_Transitions39": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 2
+  },
+  "/Game/Airport38/Flow03Meshes/SM_AP_RouteHierarchy39.SM_AP_RouteHierarchy39": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport12/Meshes/SM_AP_Asphalt.SM_AP_Asphalt": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Ugly43Meshes/SM_AP_TerminalWallFinish43.SM_AP_TerminalWallFinish43": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 2
+  },
+  "/Game/Airport10/Meshes/SM_AP_Tree.SM_AP_Tree": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Pass46Meshes/SM_AP_P46RooftopPlant.SM_AP_P46RooftopPlant": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 2
+  },
+  "/Game/Airport38/Pass46Meshes/SM_AP_P46GroundSkirt.SM_AP_P46GroundSkirt": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport12/Meshes/SM_AP_Tree.SM_AP_Tree": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Pass47Meshes/SM_AP_P47AirsideRoad.SM_AP_P47AirsideRoad": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Pass47Meshes/SM_AP_P47LandsideRoad.SM_AP_P47LandsideRoad": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Pass48Meshes/SM_AP_P48Ceilings.SM_AP_P48Ceilings": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Pass48Meshes/SM_AP_P48Exterior.SM_AP_P48Exterior": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Pass48Meshes/SM_AP_P48Features.SM_AP_P48Features": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Pass48Meshes/SM_AP_P50Hall.SM_AP_P50Hall": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Pass48Meshes/SM_AP_P50Landmarks.SM_AP_P50Landmarks": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Pass48Meshes/SM_AP_P51Fitout.SM_AP_P51Fitout": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Pass48Meshes/SM_AP_P50Tree.SM_AP_P50Tree": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Ugly43Meshes/SM_AP_BaggageBackdrop43.SM_AP_BaggageBackdrop43": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Pass47Meshes/SM_AP_P47SignFaces.SM_AP_P47SignFaces": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 2
+  },
+  "/Game/Airport38/Assembly02Meshes/SM_AP_Scanner38.SM_AP_Scanner38": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Meshes/SM_AP_Recycling38.SM_AP_Recycling38": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport34/Meshes/SM_AP_GroundPower34.SM_AP_GroundPower34": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Assemblies41Meshes/SM_AP_Bench34_Hardware40.SM_AP_Bench34_Hardware40": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Assembly02Meshes/SM_AP_Bakery36.SM_AP_Bakery36": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Meshes/SM_AP_StaffStorage38.SM_AP_StaffStorage38": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport12/Meshes/SM_AP_FireStand11.SM_AP_FireStand11": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport36/FinalPolish36/SM_AP_Bins36.SM_AP_Bins36": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Assembly02Meshes/SM_AP_OvalTable36.SM_AP_OvalTable36": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Meshes/SM_AP_TrayStation38.SM_AP_TrayStation38": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  },
+  "/Game/Airport38/Mount01Meshes/SM_AP_PreparationGuide38.SM_AP_PreparationGuide38": {
+   "light_map_resolution": 64,
+   "light_map_coordinate_index": 1
+  }
+ },
+ "lightmap_type": {
+  "Check-in desk 01": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Check-in desk 02": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "X-ray scanner 01": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "X-ray scanner 02": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Gate A07 boarding desk": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Gate A08 boarding desk": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Recycling24_1810": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Recycling24_1830": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Recycling24_1831": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Foyer information and departures25": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Safety station 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "GroundPower12_1954": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Recompose bench24": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "A07 lounge bench24 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "A07 lounge bench24 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "A08 lounge bench24 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "A08 lounge bench24 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "A08 lounge bench24 2": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "BakeryCounter24_1778": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "RegisterCounter24_1779": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "TeaCounter24_1780": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Gallery bench24 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Gallery bench24 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Vanity24_1808": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Operations workstation24": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "RetailShelf24_1814": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "RetailShelf24_1815": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "RetailShelf24_1832": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "RetailShelf24_1833": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "RetailShelf24_1834": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Finished HangarFinish34": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Safety station 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Safety station 2": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Safety station 3": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Safety station 4": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Cafe waste sorting36 entry": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Cafe waste sorting36 service": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Gallery waste sorting36": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "A07 lounge coffee table36": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "A08 lounge coffee table36": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "A08 waste sorting36": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Lane 01 tray station38": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Lane 02 tray station38": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Bag receiving bed38 01": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Bag receiving bed38 02": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport38 role-based down-facing practical fixtures": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Security preparation mounted guide38": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Concourse alcove bench46 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Concourse alcove bench46 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Concourse waste sorting46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Concourse information totem46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Concourse recycling46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Cafe approach waste sorting46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "WC passage recycling46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Landside waste sorting46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Arrivals bench46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Arrivals waste sorting46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Arrivals recycling46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Arrivals exit waste sorting46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Operations storage46 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Operations storage46 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Operations recycling46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Operations waste sorting46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "A07 entry bench46 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "A07 entry bench46 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "A07 entry recycling46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Public return waste sorting46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Gallery table46 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Gallery table46 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport48 oak baffle ceilings and lighting": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 landside hall": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Extinguisher powder effect": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Self-service kiosk24 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Self-service kiosk24 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Security operator24 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Gate A07 flight display": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Plant1224_1761": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Gate A08 flight display": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Plant1224_1771": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Plant1224_1772": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Plant1224_1773": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Poly Haven coffee cart24": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "WC release 0 outside": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "WC release 0 inside": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "WC release 1 outside": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "WC release 1 inside": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Plant1224_1824": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Plant1224_1825": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Plant1224_1826": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Plant1224_1827": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Plant1224_1828": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Plant1224_1829": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Security camera24": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Concourse camera24": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "AP COLL Self-service kiosk24 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "AP COLL Self-service kiosk24 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "AP COLL Poly Haven coffee cart24": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Foyer two-seat waiting bench25": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Check-in waiting bench29": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Check-in service header29 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Check-in service header29 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Queue entry marker29": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Check-in waiting details30": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Queue post31 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Queue post31 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Queue post31 2": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Queue post31 3": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Queue post31 4": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Queue post31 5": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Queue ribbon31 6": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Queue ribbon31 7": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Queue ribbon31 8": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Queue ribbon31 9": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "ChargingTable24_1749": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "ChargingTable24_1759": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "ChargingTable24_1769": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "CafeTable24_1782": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "CafeChair24_1783": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "CafeChair24_1784": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "CafeTable24_1785": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "CafeChair24_1786": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "CafeChair24_1787": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "CafeTable24_1788": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "CafeChair24_1789": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "CafeChair24_1790": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "CafeTable24_1791": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "CafeChair24_1792": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "CafeChair24_1793": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "ChargingTable24_1797": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Toilet24_1798": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Toilet24_1803": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Tray24_1719": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Tray24_1720": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Tray24_1721": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Tray24_1722": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "OperatorChair24_1724": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Stanchion24_1725": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Stanchion24_1726": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "QueueArrow24_1727": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Tray24_1732": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Tray24_1733": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Tray24_1734": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Tray24_1735": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Stanchion24_1738": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Stanchion24_1739": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "QueueArrow24_1740": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "OperatorChair24_1813": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Crafted GalleryStair35": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Cafe tabletop setting36 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Cafe tabletop setting36 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Cafe tabletop setting36 2": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Cafe tabletop setting36 3": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "A07 upholstered sofa36": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "A08 upholstered sofa36": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Cafe extra table36 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Cafe extra chair36 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Cafe extra chair36 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Cafe extra table36 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Cafe extra chair36 2": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Cafe extra chair36 3": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "MobileStairs12_1953": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Security belt 01 emergency stop38": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Security belt 02 emergency stop38": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Bag drop belt 01 emergency stop38": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Bag drop belt 02 emergency stop38": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Lane 01 receiving station38": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Lane 02 receiving station38": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Fitted cafe cabinet joints38": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Bridge38 pivot chamber": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Bridge38 terminal neck": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Bridge38 departure control": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Baggage handling fitted details38": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Cloud Nine supported cup saucer38": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport38 retained crafted furniture and artwork": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport38 mounted legible route cues": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Trolley24_1820": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Trolley24_1821": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Trolley24_1822": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Trolley24_1823": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport38 verified architectural attachments": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport39 fitted room transitions": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport39 restrained route hierarchy": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "YellowMarking12_1849": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "YellowMarking12_1850": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "YellowMarking12_1851": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport43 baggage service backdrop": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Concourse departures board46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Concourse charging bar46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Concourse planter46 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Cafe approach planter46 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Cafe approach bench46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Cafe approach plant46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "WC passage bench46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "WC passage plant46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "WC passage planter46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Landside corridor bench46 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Landside corridor bench46 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Landside charging bar46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Landside planter46 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Landside planter46 2": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Arrivals reclaim board46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Arrivals trolley rank46 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Arrivals trolley rank46 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Arrivals trolley rank46 2": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Arrivals planter46 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Arrivals planter46 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Operations break table46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Operations break chair46 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Operations break chair46 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Operations plant46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "A07 entry planter46 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "A07 entry planter46 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Public return bench46 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Public return bench46 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Public return planter46 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Public return planter46 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Public return trolley46 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Public return trolley46 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Gallery chair46 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Gallery chair46 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Gallery chair46 2": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Gallery chair46 3": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Gallery planter46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Forecourt streetlight46 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Forecourt streetlight46 3": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Forecourt tree46 2": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Forecourt garden bench46 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Verge tree47 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Verge tree47 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Verge streetlight47 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Verge streetlight47 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport47 corrected sign faces": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport47 landside facade signage": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Public return poster47 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Public return poster47 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Public return poster47 2": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Landside poster47 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Recovery poster47 0": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Recovery poster47 1": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "P54 Landside corridor bench46 0 twin": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "P54 Landside corridor bench46 1 twin": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport48 interior feature pieces": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport51 hall fit-out": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport48 tree 00": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport48 tree 01": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport48 tree 02": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport48 tree 03": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport48 tree 04": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport48 tree 05": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport48 tree 06": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport48 tree 07": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport48 tree 08": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport48 tree 09": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport48 tree 10": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport48 tree 11": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport48 tree 12": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car ivory 00": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car ivory 01": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car ivory 02": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car ivory 03": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car ivory 04": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car ivory 05": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car ivory 06": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car navy 00": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car navy 01": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car navy 02": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car navy 03": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car navy 04": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car navy 05": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car navy 06": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car red 00": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car red 01": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car red 02": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car red 03": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car red 04": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car red 05": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car red 06": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car steel 00": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car steel 01": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car steel 02": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car steel 03": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car steel 04": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car steel 05": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car steel 06": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car steel 07": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car steel 08": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car steel 09": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car teal 00": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car teal 01": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car yellow 00": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car yellow 01": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car yellow 02": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car yellow 03": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 car yellow 04": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 00": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 01": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 02": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 03": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 04": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 05": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 06": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 07": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 08": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 09": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 10": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 11": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 12": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 13": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 14": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 15": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 16": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 17": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 18": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 19": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 20": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 21": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 22": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 23": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 24": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 25": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 26": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 27": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 28": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 29": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 30": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 31": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 32": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 33": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 34": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 35": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 36": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 37": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 38": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 39": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 40": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 41": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 42": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 43": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 44": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 45": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 46": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 47": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 48": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 49": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 50": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 51": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 52": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 53": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 54": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 55": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 56": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 57": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 58": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 59": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 60": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 61": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 62": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 63": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 64": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 65": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 66": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 67": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 68": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 69": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 70": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 71": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 72": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 73": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 74": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 75": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 76": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 77": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 78": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 79": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 80": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 81": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 82": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 83": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 84": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 85": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 86": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 87": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 88": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 89": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 90": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 91": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 92": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 93": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 94": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 95": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 96": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 97": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 98": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 99": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 100": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 101": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 102": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 103": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 104": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 105": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 106": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 107": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 108": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport50 avenue tree 109": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport60 cafe fit-out": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport60 cafe floor": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport60 cafe sun shafts": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport60 cafe tree 00": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport60 cafe tree 01": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport60 cafe upholstery": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport62 gate lounges": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport62 gate lounge upholstery": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport62 gate lounge floors": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport62 lounge tree 00": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport62 lounge tree 01": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport62 lounge tree 02": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport62 lounge tree 03": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport62 lounge tree 04": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport63 gallery lounge": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport63 gallery upholstery": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport63 gallery rug": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport62 lounge tree 05": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport62 lounge tree 06": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport62 lounge tree 07": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport62 lounge tree 08": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  },
+  "Airport64 cafe stair": {
+   "lightmap_type": "<LightmapType.DEFAULT: 0>"
+  }
+ },
+ "lightmass_light": {
+  "Airport daylight": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 000 welcome": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 001 welcome": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 002 checkin_task": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 003 checkin_task": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 004 checkin_task": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 005 checkin_task": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 006 checkin_task": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 007 checkin_task": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 008 exit_circulation": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 009 exit_circulation": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 010 exit_circulation": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 011 exit_circulation": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 012 circulation": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 013 circulation": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 014 circulation": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 015 circulation": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 016 screening_task": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 017 screening_task": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 018 screening_task": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 019 screening_task": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 020 screening_task": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 021 screening_task": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 022 repack_task": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 023 repack_task": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 024 wayfinding": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 025 wayfinding": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 026 wayfinding": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 027 lounge": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 028 lounge": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 029 lounge": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 030 lounge": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 031 lounge": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 032 lounge": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 033 lounge": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 034 lounge": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 035 lounge": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 036 lounge": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 037 cafe_welcome": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 038 cafe_dining": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 039 cafe_dining": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 040 cafe_dining": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 041 gallery_reading": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 042 cafe_dining": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 043 cafe_dining": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 044 cafe_dining": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 045 cafe_dining": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 046 cafe_dining": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 047 cafe_dining": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 048 amenity_circulation": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 049 amenity_circulation": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 050 washroom": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 051 washroom": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 052 washroom": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 053 washroom": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 054 staff_task": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 055 staff_task": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 056 lounge_arrival": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 057 lounge_arrival": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 058 baggage_task": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 059 reclaim_task": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 060 reclaim_task": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 061 reclaim_task": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 062 reclaim_task": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 063 exit_circulation": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 064 exit_circulation": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 065 entrance_canopy": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 066 entrance_canopy": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 067 entrance_canopy": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 068 covered_forecourt": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 069 covered_forecourt": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 070 covered_forecourt": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 071 covered_forecourt": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 072 covered_forecourt": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "AP38 practical 073 covered_forecourt": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient hall 00": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient hall 10": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient hall 20": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient gate08 00": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient gate08 01": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient gate07 00": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient gate07 01": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient arrivals 00": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient publicreturn 0": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient publicreturn 1": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient publicreturn 2": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient security 0": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient security 1": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient recovery 0": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient concourse 0": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient concourse 1": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient concourse 2": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient cafefoyer 0": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient cafe 0": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient cafe 1": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient cafe 2": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient amenitylobby 0": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient amenitylobby 1": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient amenities 0": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient operations 0": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient operations 1": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient gate07entry 0": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient gate07entry 1": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient baggageservice 0": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient arrivalsreturn 0": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient publicreturneast 0": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient publicreturn 3": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient publicreturn 4": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient security 2": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient security 3": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient security 4": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient security 5": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient security 6": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient security 7": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient security 8": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient recovery 1": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient concourse 3": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient cafe 3": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient cafe 4": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient cafe 5": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient cafe 6": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient cafe 7": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient cafe 8": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient cafe 9": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient cafe 10": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient cafe 11": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient amenities 1": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient amenities 2": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 ambient amenities 3": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 canopy downlight 0": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 canopy downlight 1": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 canopy downlight 2": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 canopy downlight 3": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 canopy downlight 4": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 canopy downlight 5": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 cafe deck downlight 0": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 cafe deck downlight 1": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 cafe deck downlight 2": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 cafe deck downlight 3": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 cafe deck downlight 4": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 cafe deck downlight 5": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 cafe floor lamp 0": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 cafe floor lamp 1": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 lounge lamp 0": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 lounge lamp 1": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 gallery lamp 0": {
+   "indirect_lighting_saturation": 1.0
+  },
+  "P55 gallery lamp 1": {
+   "indirect_lighting_saturation": 1.0
+  }
+ },
+ "moved": {
+  "AP38 practical 042 cafe_dining": {
+   "relative_location": "<Struct 'Vector' (0x00000000C8B66F80) {x: -4050.000000, y: -1900.000000, z: 423.100000}>"
+  },
+  "AP38 practical 043 cafe_dining": {
+   "relative_location": "<Struct 'Vector' (0x00000000C8B68380) {x: -4050.000000, y: -2500.000000, z: 423.100000}>"
+  },
+  "AP38 practical 044 cafe_dining": {
+   "relative_location": "<Struct 'Vector' (0x00000000C8B68D80) {x: -4050.000000, y: -3100.000000, z: 423.100000}>"
+  },
+  "AP38 practical 045 cafe_dining": {
+   "relative_location": "<Struct 'Vector' (0x00000000C8B69780) {x: -3483.333333, y: -1900.000000, z: 423.100000}>"
+  },
+  "AP38 practical 046 cafe_dining": {
+   "relative_location": "<Struct 'Vector' (0x00000000C8B6A180) {x: -3483.333333, y: -2500.000000, z: 423.100000}>"
+  },
+  "AP38 practical 047 cafe_dining": {
+   "relative_location": "<Struct 'Vector' (0x00000000C8B6AB80) {x: -3483.333333, y: -3100.000000, z: 423.100000}>"
+  }
+ },
+ "sun_rot": {
+  "Airport daylight": {
+   "relative_rotation": "<Struct 'Rotator' (0x00000000CE365598) {pitch: -40.000000, yaw: -40.000000, roll: -0.000000}>"
+  }
+ }
+}

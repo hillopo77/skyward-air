@@ -1,0 +1,1617 @@
+{
+  "ready": true,
+  "key": "E",
+  "seated": null,
+  "door_target": 0,
+  "floor_z_m": 0.0,
+  "floor_name": "Covered forecourt",
+  "movables": {
+    "Overhead bin R 04": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin R 05": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin R 06": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin R 07": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin R 10": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin R 11": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin R 12": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin R 13": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin R 14": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin R 15": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin R 16": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin R 17": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin R 18": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin R 19": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin R 20": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin L 04": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin L 05": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin L 06": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin L 07": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin L 10": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin L 11": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin L 12": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin L 13": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin L 14": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin L 15": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin L 16": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin L 17": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin L 18": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin L 19": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Overhead bin L 20": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Forward first aid door11": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Lavatory R door \u2014 hinge pivot": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Lavatory L door \u2014 hinge pivot": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Flight crew equipment locker11": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Suite privacy door 01 A": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Suite privacy door 02 A": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Suite privacy door 01 K": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Suite privacy door 02 K": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Lower cargo stair hatch": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Aircraft door 1L": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Aircraft door 2L": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Aircraft door 1R": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Aircraft door 2R": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Mid_meals_cart": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Mid_lower_oven_door": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Mid_upper_oven_door": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Mid_crockery": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Mid_cleaning": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Mid_cutlery_drawer": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Mid_coffee_reservoir": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Mid_upper_supplies": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_L_meal_cart": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_L_supplies": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_L_lower_oven_door": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_L_upper_oven_door": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_L_coffee_reservoir": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_L_upper_cups": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_R_meal_cart": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_R_supplies": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_R_lower_oven_door": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_R_upper_oven_door": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_R_coffee_reservoir": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_R_upper_cups": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_centre_left": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_centre_right": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_upper_left": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_upper_right": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Forward_dispatch_locker": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Forward_dispatch_drawer_1": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Forward_dispatch_drawer_2": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Forward_dispatch_drawer_3": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_dispatch_locker": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_dispatch_drawer_1": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_dispatch_drawer_2": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_dispatch_drawer_3": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_service_locker": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_service_drawer_1": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_service_drawer_2": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear_service_drawer_3": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Mid_port_service_locker": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Mid_port_service_drawer_1": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Mid_port_service_drawer_2": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Mid_port_service_drawer_3": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Mid_starboard_service_locker": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Mid_starboard_service_drawer_1": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Mid_starboard_service_drawer_2": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Mid_starboard_service_drawer_3": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Mid main phone receiver12": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Mid port phone receiver12": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Mid starboard phone receiver12": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear port phone receiver12": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Rear starboard phone receiver12": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Lavatory R vanity cupboard12": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Lavatory R service cover12": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Lavatory R toilet lid12": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Lavatory L vanity cupboard12": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Lavatory L service cover12": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Lavatory L toilet lid12": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Crew fold pan 0112": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Crew fold pan 0212": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Crew fold pan 0312": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Crew fold pan 0412": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Crew service handbook cover 112": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Crew service handbook cover 212": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 0117": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 0217": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 0317": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 0417": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 0517": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 0617": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 0717": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 0817": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 0917": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 1017": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 1117": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 1217": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 1317": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 1417": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 1517": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 1617": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 1717": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 1817": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 1917": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 2017": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 2117": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 2217": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 2317": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 2417": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 2517": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 2617": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 2717": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 2817": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 2917": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 3017": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 3117": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 3217": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 3317": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 3417": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 3517": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Economy folding tray 3617": {
+      "open": false,
+      "fraction": 0.0
+    },
+    "Window shade 01 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 02 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 03 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 04 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 05 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 06 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 07 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 08 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 09 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 10 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 11 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 12 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 13 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 14 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 15 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 16 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 17 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 18 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 19 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 20 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 21 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 22 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 23 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 24 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 25 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 26 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 27 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 28 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 29 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 30 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 31 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 32 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 33 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 34 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 35 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 36 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 37 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 38 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 39 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 40 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 41 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 42 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 43 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 44 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 45 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 46 L18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 47 R18": {
+      "open": true,
+      "fraction": 1.0
+    },
+    "Window shade 48 L18": {
+      "open": true,
+      "fraction": 1.0
+    }
+  },
+  "screen_pages": {
+    "Private suite 01 A": 0,
+    "Private suite 01 K": 0,
+    "Private suite 02 A": 0,
+    "Private suite 02 K": 0,
+    "Economy display 03A12": 0,
+    "Economy display 03D12": 0,
+    "Economy display 03E12": 0,
+    "Economy display 03K12": 0,
+    "Economy display 04A12": 0,
+    "Economy display 04D12": 0,
+    "Economy display 04E12": 0,
+    "Economy display 04K12": 0,
+    "Economy display 05A12": 0,
+    "Economy display 05D12": 0,
+    "Economy display 05E12": 0,
+    "Economy display 05K12": 0,
+    "Economy display 06A12": 0,
+    "Economy display 06D12": 0,
+    "Economy display 06E12": 0,
+    "Economy display 06K12": 0,
+    "Economy display 07A12": 0,
+    "Economy display 07D12": 0,
+    "Economy display 07E12": 0,
+    "Economy display 07K12": 0,
+    "Economy display 08A12": 0,
+    "Economy display 08D12": 0,
+    "Economy display 08E12": 0,
+    "Economy display 08K12": 0,
+    "Economy display 09A12": 0,
+    "Economy display 09D12": 0,
+    "Economy display 09E12": 0,
+    "Economy display 09K12": 0,
+    "Economy display 10A12": 0,
+    "Economy display 10D12": 0,
+    "Economy display 10E12": 0,
+    "Economy display 10K12": 0,
+    "Economy display 11A12": 0,
+    "Economy display 11D12": 0,
+    "Economy display 11E12": 0,
+    "Economy display 11K12": 0,
+    "Economy first-row display 03A12": 0,
+    "Economy first-row display 03D12": 0,
+    "Economy first-row display 03E12": 0,
+    "Economy first-row display 03K12": 0
+  },
+  "controls": {
+    "Mid_lower_oven_power": {
+      "state": 0,
+      "label": "Standby"
+    },
+    "Mid_upper_oven_power": {
+      "state": 0,
+      "label": "Standby"
+    },
+    "Mid_coffee_brew": {
+      "state": 0,
+      "label": "Ready"
+    },
+    "Mid_wash_tap": {
+      "state": 0,
+      "label": "Off"
+    },
+    "Rear_L_lower_oven_power": {
+      "state": 0,
+      "label": "Standby"
+    },
+    "Rear_L_upper_oven_power": {
+      "state": 0,
+      "label": "Standby"
+    },
+    "Rear_L_coffee_brew": {
+      "state": 0,
+      "label": "Ready"
+    },
+    "Rear_R_lower_oven_power": {
+      "state": 0,
+      "label": "Standby"
+    },
+    "Rear_R_upper_oven_power": {
+      "state": 0,
+      "label": "Standby"
+    },
+    "Rear_R_coffee_brew": {
+      "state": 0,
+      "label": "Ready"
+    },
+    "Lavatory R waste flap12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "Lavatory R mixer lever12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "Lavatory R flush button12": {
+      "state": 0,
+      "label": "Ready"
+    },
+    "Lavatory L waste flap12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "Lavatory L mixer lever12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "Lavatory L flush button12": {
+      "state": 0,
+      "label": "Ready"
+    },
+    "PSU 01 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 01 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 01 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 02 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 02 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 02 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 03 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 03 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 03 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 04 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 04 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 04 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 05 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 05 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 05 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 06 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 06 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 06 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 07 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 07 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 07 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 08 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 08 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 08 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 09 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 09 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 09 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 10 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 10 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 10 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 11 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 11 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 11 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 12 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 12 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 12 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 13 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 13 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 13 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 14 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 14 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 14 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 15 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 15 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 15 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 16 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 16 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 16 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 17 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 17 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 17 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 18 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 18 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 18 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 19 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 19 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 19 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 20 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 20 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 20 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 21 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 21 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 21 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 22 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 22 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 22 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 23 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 23 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 23 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 24 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 24 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 24 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 25 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 25 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 25 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 26 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 26 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 26 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 27 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 27 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 27 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 28 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 28 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 28 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 29 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 29 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 29 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 30 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 30 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 30 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 31 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 31 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 31 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 32 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 32 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 32 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 33 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 33 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 33 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 34 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 34 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 34 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 35 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 35 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 35 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 36 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 36 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 36 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 37 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 37 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 37 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 38 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 38 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 38 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 39 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 39 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 39 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "PSU 40 Gasper12": {
+      "state": 0,
+      "label": "Closed"
+    },
+    "PSU 40 ReadKey12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "PSU 40 CallKey12": {
+      "state": 0,
+      "label": "Clear"
+    },
+    "Pilot headset L12": {
+      "state": 0,
+      "label": "Monitor off"
+    },
+    "Pilot headset R12": {
+      "state": 0,
+      "label": "Monitor off"
+    },
+    "Cockpit NAV switch12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "Cockpit FUEL switch12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "Cockpit PUMP switch12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "Cockpit CABIN switch12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "Cockpit AIR switch12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "Cockpit AUX switch12": {
+      "state": 0,
+      "label": "Off"
+    },
+    "Cockpit overhead switch 0112": {
+      "state": 0,
+      "label": "Off"
+    },
+    "Cockpit overhead switch 0212": {
+      "state": 0,
+      "label": "Off"
+    },
+    "Cockpit overhead switch 0312": {
+      "state": 0,
+      "label": "Set"
+    },
+    "Cockpit overhead switch 0412": {
+      "state": 1,
+      "label": "Auto"
+    },
+    "Cockpit overhead switch 0512": {
+      "state": 1,
+      "label": "Auto"
+    },
+    "Cockpit overhead switch 0612": {
+      "state": 1,
+      "label": "Auto"
+    },
+    "Cockpit overhead switch 0712": {
+      "state": 1,
+      "label": "Auto"
+    },
+    "Cockpit overhead switch 0812": {
+      "state": 1,
+      "label": "Auto"
+    },
+    "Cockpit overhead switch 0912": {
+      "state": 1,
+      "label": "Auto"
+    },
+    "Cockpit overhead switch 1012": {
+      "state": 0,
+      "label": "Off"
+    },
+    "Cockpit overhead switch 1112": {
+      "state": 1,
+      "label": "Auto"
+    },
+    "Cockpit overhead switch 1212": {
+      "state": 1,
+      "label": "Auto"
+    },
+    "Cockpit overhead switch 1312": {
+      "state": 1,
+      "label": "Auto"
+    },
+    "Cockpit overhead switch 1412": {
+      "state": 1,
+      "label": "Auto"
+    },
+    "Cockpit overhead switch 1512": {
+      "state": 1,
+      "label": "Auto"
+    },
+    "Cockpit overhead switch 1612": {
+      "state": 1,
+      "label": "Auto"
+    },
+    "Cockpit overhead switch 1712": {
+      "state": 1,
+      "label": "Auto"
+    },
+    "Cockpit overhead switch 1812": {
+      "state": 1,
+      "label": "Auto"
+    },
+    "Cockpit side pushbutton 0112": {
+      "state": 0,
+      "label": "Off"
+    },
+    "Cockpit side pushbutton 0212": {
+      "state": 0,
+      "label": "Off"
+    },
+    "Cockpit side pushbutton 0312": {
+      "state": 0,
+      "label": "Off"
+    },
+    "Cockpit side pushbutton 0412": {
+      "state": 0,
+      "label": "Off"
+    },
+    "Cockpit side pushbutton 0512": {
+      "state": 0,
+      "label": "Off"
+    },
+    "Cockpit side pushbutton 0612": {
+      "state": 0,
+      "label": "Off"
+    },
+    "Cockpit status pushlight 112": {
+      "state": 0,
+      "label": "Ready"
+    },
+    "Cockpit status pushlight 212": {
+      "state": 0,
+      "label": "Ready"
+    },
+    "Cockpit emergency test 112": {
+      "state": 0,
+      "label": "Ready"
+    },
+    "Cockpit emergency test 212": {
+      "state": 0,
+      "label": "Ready"
+    },
+    "Cockpit side rotary 112": {
+      "state": 2,
+      "label": "Bright"
+    },
+    "Cockpit side rotary 212": {
+      "state": 2,
+      "label": "Bright"
+    },
+    "Cockpit side rotary 312": {
+      "state": 2,
+      "label": "Bright"
+    },
+    "Cockpit side rotary 412": {
+      "state": 2,
+      "label": "Bright"
+    },
+    "Cockpit side rotary 512": {
+      "state": 2,
+      "label": "Bright"
+    },
+    "Cockpit side rotary 612": {
+      "state": 2,
+      "label": "Bright"
+    },
+    "Cockpit quadrant lever 112": {
+      "state": 0,
+      "label": "Idle"
+    },
+    "Cockpit quadrant lever 212": {
+      "state": 0,
+      "label": "Idle"
+    },
+    "Cockpit quadrant lever 312": {
+      "state": 0,
+      "label": "Retracted"
+    },
+    "Cockpit quadrant lever 412": {
+      "state": 0,
+      "label": "Up"
+    },
+    "Business belt release 112": {
+      "state": 1,
+      "label": "Released / stowed"
+    },
+    "Business belt release 212": {
+      "state": 1,
+      "label": "Released / stowed"
+    },
+    "Business belt release 312": {
+      "state": 0,
+      "label": "Fastened"
+    },
+    "Business belt release 412": {
+      "state": 1,
+      "label": "Released / stowed"
+    },
+    "Crew harness release 112": {
+      "state": 0,
+      "label": "Harness ready"
+    },
+    "Crew harness release 212": {
+      "state": 0,
+      "label": "Harness ready"
+    },
+    "Crew harness release 312": {
+      "state": 0,
+      "label": "Harness ready"
+    },
+    "Crew harness release 412": {
+      "state": 0,
+      "label": "Harness ready"
+    },
+    "Galley water isolation13": {
+      "state": 0,
+      "label": "Supply on"
+    },
+    "Galley power isolation13": {
+      "state": 0,
+      "label": "Supply on"
+    },
+    "Lavatory occupancy R13": {
+      "state": 0,
+      "label": "Vacant"
+    },
+    "Lavatory occupancy L13": {
+      "state": 0,
+      "label": "Vacant"
+    }
+  },
+  "inspecting": null,
+  "profile": "1280x720 / 100.0% native viewport / TAA16.0 / weight0.10000000149011612 / filter1.0",
+  "rendering_measured38": {
+    "name": "Airport38 Native Stable",
+    "viewport": [
+      1280,
+      720
+    ],
+    "settings": {
+      "r.AntiAliasingMethod": 2.0,
+      "r.ScreenPercentage": 100.0,
+      "r.DynamicRes.OperationMode": 0.0,
+      "r.TemporalAASamples": 16.0,
+      "r.TemporalAACurrentFrameWeight": 0.10000000149011612,
+      "r.TemporalAAFilterSize": 1.0,
+      "r.TemporalAA.Quality": 2.0,
+      "r.Tonemapper.Sharpen": 0.10000000149011612,
+      "r.MotionBlurQuality": 0.0,
+      "r.DepthOfFieldQuality": 0.0,
+      "r.SceneColorFringeQuality": 0.0,
+      "r.MaxAnisotropy": 16.0,
+      "r.Shadow.MaxResolution": 4096.0
+    },
+    "internal_render_extent_approx": [
+      1280,
+      720
+    ],
+    "native_resolution": true,
+    "grain_policy": "zero in AP38 grade; not inferred from a CVar",
+    "updated": 1793655753.421264
+  }
+}

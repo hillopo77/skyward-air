@@ -1,0 +1,510 @@
+{
+  "status": "SUCCESS",
+  "asset_root": "/Game/CharacterPack_Oct30",
+  "characters": [
+    {
+      "name": "Teal_Character",
+      "mesh": "/Game/CharacterPack_Oct30/Meshes/SK_Teal_Character.SK_Teal_Character",
+      "skeleton": "/Game/CharacterPack_Oct30/Meshes/SK_Teal_Character_Skeleton.SK_Teal_Character_Skeleton",
+      "source_bones": 54,
+      "height_cm": 189.9352103392955,
+      "animations": {
+        "Running": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Teal_Character/AN_Running.AN_Running",
+          "frames": 39,
+          "duration": 1.2666666666666666
+        },
+        "Walking": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Teal_Character/AN_Walking.AN_Walking",
+          "frames": 32,
+          "duration": 1.0333333333333334
+        },
+        "Jogging": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Teal_Character/AN_Jogging.AN_Jogging",
+          "frames": 78,
+          "duration": 2.566666666666667
+        },
+        "RunningJump": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Teal_Character/AN_RunningJump.AN_RunningJump",
+          "frames": 28,
+          "duration": 0.9
+        },
+        "JoyfulJump": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Teal_Character/AN_JoyfulJump.AN_JoyfulJump",
+          "frames": 57,
+          "duration": 1.8666666666666667
+        },
+        "StandingIdle": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Teal_Character/AN_StandingIdle.AN_StandingIdle",
+          "frames": 181,
+          "duration": 6.0
+        },
+        "CrouchedWalking": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Teal_Character/AN_CrouchedWalking.AN_CrouchedWalking",
+          "frames": 52,
+          "duration": 1.7
+        },
+        "CrawlBackwards": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Teal_Character/AN_CrawlBackwards.AN_CrawlBackwards",
+          "frames": 120,
+          "duration": 3.966666666666667
+        },
+        "Sitting": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Teal_Character/AN_Sitting.AN_Sitting",
+          "frames": 36,
+          "duration": 1.1666666666666667
+        },
+        "Salute": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Teal_Character/AN_Salute.AN_Salute",
+          "frames": 86,
+          "duration": 2.8333333333333335
+        },
+        "GoofyRunning": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Teal_Character/AN_GoofyRunning.AN_GoofyRunning",
+          "frames": 20,
+          "duration": 0.6333333333333333
+        },
+        "DancingMaraschinoStep": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Teal_Character/AN_DancingMaraschinoStep.AN_DancingMaraschinoStep",
+          "frames": 98,
+          "duration": 3.2333333333333334
+        },
+        "DancingTwerk": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Teal_Character/AN_DancingTwerk.AN_DancingTwerk",
+          "frames": 457,
+          "duration": 15.2
+        },
+        "DwarfIdle": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Teal_Character/AN_DwarfIdle.AN_DwarfIdle",
+          "frames": 211,
+          "duration": 7.0
+        },
+        "Flair": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Teal_Character/AN_Flair.AN_Flair",
+          "frames": 31,
+          "duration": 1.0
+        },
+        "HipHopDancing": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Teal_Character/AN_HipHopDancing.AN_HipHopDancing",
+          "frames": 414,
+          "duration": 13.766666666666667
+        },
+        "HipHopDancing2": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Teal_Character/AN_HipHopDancing2.AN_HipHopDancing2",
+          "frames": 135,
+          "duration": 4.466666666666667
+        },
+        "SalsaDancing2": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Teal_Character/AN_SalsaDancing2.AN_SalsaDancing2",
+          "frames": 136,
+          "duration": 4.5
+        },
+        "SnakeHipHopDance": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Teal_Character/AN_SnakeHipHopDance.AN_SnakeHipHopDance",
+          "frames": 459,
+          "duration": 15.266666666666667
+        },
+        "SwingDancing": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Teal_Character/AN_SwingDancing.AN_SwingDancing",
+          "frames": 742,
+          "duration": 24.7
+        },
+        "TwistDance": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Teal_Character/AN_TwistDance.AN_TwistDance",
+          "frames": 284,
+          "duration": 9.433333333333334
+        }
+      },
+      "material": "/Game/CharacterPack_Oct30/Materials/M_Teal_Character.M_Teal_Character"
+    },
+    {
+      "name": "Police_Officer",
+      "mesh": "/Game/CharacterPack_Oct30/Meshes/SK_Police_Officer.SK_Police_Officer",
+      "skeleton": "/Game/CharacterPack_Oct30/Meshes/SK_Police_Officer_Skeleton.SK_Police_Officer_Skeleton",
+      "source_bones": 54,
+      "height_cm": 190.28260803222656,
+      "animations": {
+        "Running": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Police_Officer/AN_Running.AN_Running",
+          "frames": 39,
+          "duration": 1.2666666666666666
+        },
+        "Walking": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Police_Officer/AN_Walking.AN_Walking",
+          "frames": 32,
+          "duration": 1.0333333333333334
+        },
+        "Jogging": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Police_Officer/AN_Jogging.AN_Jogging",
+          "frames": 78,
+          "duration": 2.566666666666667
+        },
+        "RunningJump": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Police_Officer/AN_RunningJump.AN_RunningJump",
+          "frames": 28,
+          "duration": 0.9
+        },
+        "JoyfulJump": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Police_Officer/AN_JoyfulJump.AN_JoyfulJump",
+          "frames": 57,
+          "duration": 1.8666666666666667
+        },
+        "StandingIdle": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Police_Officer/AN_StandingIdle.AN_StandingIdle",
+          "frames": 181,
+          "duration": 6.0
+        },
+        "CrouchedWalking": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Police_Officer/AN_CrouchedWalking.AN_CrouchedWalking",
+          "frames": 52,
+          "duration": 1.7
+        },
+        "CrawlBackwards": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Police_Officer/AN_CrawlBackwards.AN_CrawlBackwards",
+          "frames": 120,
+          "duration": 3.966666666666667
+        },
+        "Sitting": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Police_Officer/AN_Sitting.AN_Sitting",
+          "frames": 36,
+          "duration": 1.1666666666666667
+        },
+        "Salute": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Police_Officer/AN_Salute.AN_Salute",
+          "frames": 86,
+          "duration": 2.8333333333333335
+        },
+        "GoofyRunning": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Police_Officer/AN_GoofyRunning.AN_GoofyRunning",
+          "frames": 20,
+          "duration": 0.6333333333333333
+        },
+        "DancingMaraschinoStep": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Police_Officer/AN_DancingMaraschinoStep.AN_DancingMaraschinoStep",
+          "frames": 98,
+          "duration": 3.2333333333333334
+        },
+        "DancingTwerk": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Police_Officer/AN_DancingTwerk.AN_DancingTwerk",
+          "frames": 457,
+          "duration": 15.2
+        },
+        "DwarfIdle": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Police_Officer/AN_DwarfIdle.AN_DwarfIdle",
+          "frames": 211,
+          "duration": 7.0
+        },
+        "Flair": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Police_Officer/AN_Flair.AN_Flair",
+          "frames": 31,
+          "duration": 1.0
+        },
+        "HipHopDancing": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Police_Officer/AN_HipHopDancing.AN_HipHopDancing",
+          "frames": 414,
+          "duration": 13.766666666666667
+        },
+        "HipHopDancing2": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Police_Officer/AN_HipHopDancing2.AN_HipHopDancing2",
+          "frames": 135,
+          "duration": 4.466666666666667
+        },
+        "SalsaDancing2": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Police_Officer/AN_SalsaDancing2.AN_SalsaDancing2",
+          "frames": 136,
+          "duration": 4.5
+        },
+        "SnakeHipHopDance": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Police_Officer/AN_SnakeHipHopDance.AN_SnakeHipHopDance",
+          "frames": 459,
+          "duration": 15.266666666666667
+        },
+        "SwingDancing": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Police_Officer/AN_SwingDancing.AN_SwingDancing",
+          "frames": 742,
+          "duration": 24.7
+        },
+        "TwistDance": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Police_Officer/AN_TwistDance.AN_TwistDance",
+          "frames": 284,
+          "duration": 9.433333333333334
+        }
+      },
+      "material": "/Game/CharacterPack_Oct30/Materials/M_Police_Officer.M_Police_Officer"
+    },
+    {
+      "name": "Red_Suit",
+      "mesh": "/Game/CharacterPack_Oct30/Meshes/SK_Red_Suit.SK_Red_Suit",
+      "skeleton": "/Game/CharacterPack_Oct30/Meshes/SK_Red_Suit_Skeleton.SK_Red_Suit_Skeleton",
+      "source_bones": 54,
+      "height_cm": 189.7113128406345,
+      "animations": {
+        "Running": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Red_Suit/AN_Running.AN_Running",
+          "frames": 39,
+          "duration": 1.2666666666666666
+        },
+        "Walking": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Red_Suit/AN_Walking.AN_Walking",
+          "frames": 32,
+          "duration": 1.0333333333333334
+        },
+        "Jogging": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Red_Suit/AN_Jogging.AN_Jogging",
+          "frames": 78,
+          "duration": 2.566666666666667
+        },
+        "RunningJump": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Red_Suit/AN_RunningJump.AN_RunningJump",
+          "frames": 28,
+          "duration": 0.9
+        },
+        "JoyfulJump": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Red_Suit/AN_JoyfulJump.AN_JoyfulJump",
+          "frames": 57,
+          "duration": 1.8666666666666667
+        },
+        "StandingIdle": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Red_Suit/AN_StandingIdle.AN_StandingIdle",
+          "frames": 181,
+          "duration": 6.0
+        },
+        "CrouchedWalking": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Red_Suit/AN_CrouchedWalking.AN_CrouchedWalking",
+          "frames": 52,
+          "duration": 1.7
+        },
+        "CrawlBackwards": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Red_Suit/AN_CrawlBackwards.AN_CrawlBackwards",
+          "frames": 120,
+          "duration": 3.966666666666667
+        },
+        "Sitting": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Red_Suit/AN_Sitting.AN_Sitting",
+          "frames": 36,
+          "duration": 1.1666666666666667
+        },
+        "Salute": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Red_Suit/AN_Salute.AN_Salute",
+          "frames": 86,
+          "duration": 2.8333333333333335
+        },
+        "GoofyRunning": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Red_Suit/AN_GoofyRunning.AN_GoofyRunning",
+          "frames": 20,
+          "duration": 0.6333333333333333
+        },
+        "DancingMaraschinoStep": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Red_Suit/AN_DancingMaraschinoStep.AN_DancingMaraschinoStep",
+          "frames": 98,
+          "duration": 3.2333333333333334
+        },
+        "DancingTwerk": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Red_Suit/AN_DancingTwerk.AN_DancingTwerk",
+          "frames": 457,
+          "duration": 15.2
+        },
+        "DwarfIdle": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Red_Suit/AN_DwarfIdle.AN_DwarfIdle",
+          "frames": 211,
+          "duration": 7.0
+        },
+        "Flair": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Red_Suit/AN_Flair.AN_Flair",
+          "frames": 31,
+          "duration": 1.0
+        },
+        "HipHopDancing": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Red_Suit/AN_HipHopDancing.AN_HipHopDancing",
+          "frames": 414,
+          "duration": 13.766666666666667
+        },
+        "HipHopDancing2": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Red_Suit/AN_HipHopDancing2.AN_HipHopDancing2",
+          "frames": 135,
+          "duration": 4.466666666666667
+        },
+        "SalsaDancing2": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Red_Suit/AN_SalsaDancing2.AN_SalsaDancing2",
+          "frames": 136,
+          "duration": 4.5
+        },
+        "SnakeHipHopDance": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Red_Suit/AN_SnakeHipHopDance.AN_SnakeHipHopDance",
+          "frames": 459,
+          "duration": 15.266666666666667
+        },
+        "SwingDancing": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Red_Suit/AN_SwingDancing.AN_SwingDancing",
+          "frames": 742,
+          "duration": 24.7
+        },
+        "TwistDance": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Red_Suit/AN_TwistDance.AN_TwistDance",
+          "frames": 284,
+          "duration": 9.433333333333334
+        }
+      },
+      "material": "/Game/CharacterPack_Oct30/Materials/M_Red_Suit.M_Red_Suit",
+      "model_update": {
+        "utc": "2026-11-01T21:29:03.620725+00:00",
+        "source_sha256": "27c310a1e2e66dd0f3cc934f296e8debe8843e94c77c06b0ff80524a8374e97c",
+        "corrections": [
+          "Continuous rounded rear contour",
+          "Filled front trouser pinch",
+          "One burgundy fabric for jacket and trousers"
+        ]
+      }
+    },
+    {
+      "name": "Coat_Character",
+      "mesh": "/Game/CharacterPack_Oct30/Meshes/SK_Coat_Character.SK_Coat_Character",
+      "skeleton": "/Game/CharacterPack_Oct30/Meshes/SK_Coat_Character_Skeleton.SK_Coat_Character_Skeleton",
+      "source_bones": 58,
+      "height_cm": 190.20350646972656,
+      "animations": {
+        "Running": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Coat_Character/AN_Running.AN_Running",
+          "frames": 39,
+          "duration": 1.2666666666666666
+        },
+        "Walking": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Coat_Character/AN_Walking.AN_Walking",
+          "frames": 32,
+          "duration": 1.0333333333333334
+        },
+        "Jogging": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Coat_Character/AN_Jogging.AN_Jogging",
+          "frames": 78,
+          "duration": 2.566666666666667
+        },
+        "RunningJump": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Coat_Character/AN_RunningJump.AN_RunningJump",
+          "frames": 28,
+          "duration": 0.9
+        },
+        "JoyfulJump": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Coat_Character/AN_JoyfulJump.AN_JoyfulJump",
+          "frames": 57,
+          "duration": 1.8666666666666667
+        },
+        "StandingIdle": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Coat_Character/AN_StandingIdle.AN_StandingIdle",
+          "frames": 181,
+          "duration": 6.0
+        },
+        "CrouchedWalking": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Coat_Character/AN_CrouchedWalking.AN_CrouchedWalking",
+          "frames": 52,
+          "duration": 1.7
+        },
+        "CrawlBackwards": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Coat_Character/AN_CrawlBackwards.AN_CrawlBackwards",
+          "frames": 120,
+          "duration": 3.966666666666667
+        },
+        "Sitting": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Coat_Character/AN_Sitting.AN_Sitting",
+          "frames": 36,
+          "duration": 1.1666666666666667
+        },
+        "Salute": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Coat_Character/AN_Salute.AN_Salute",
+          "frames": 86,
+          "duration": 2.8333333333333335
+        },
+        "GoofyRunning": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Coat_Character/AN_GoofyRunning.AN_GoofyRunning",
+          "frames": 20,
+          "duration": 0.6333333333333333
+        },
+        "DancingMaraschinoStep": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Coat_Character/AN_DancingMaraschinoStep.AN_DancingMaraschinoStep",
+          "frames": 98,
+          "duration": 3.2333333333333334
+        },
+        "DancingTwerk": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Coat_Character/AN_DancingTwerk.AN_DancingTwerk",
+          "frames": 457,
+          "duration": 15.2
+        },
+        "DwarfIdle": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Coat_Character/AN_DwarfIdle.AN_DwarfIdle",
+          "frames": 211,
+          "duration": 7.0
+        },
+        "Flair": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Coat_Character/AN_Flair.AN_Flair",
+          "frames": 31,
+          "duration": 1.0
+        },
+        "HipHopDancing": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Coat_Character/AN_HipHopDancing.AN_HipHopDancing",
+          "frames": 414,
+          "duration": 13.766666666666667
+        },
+        "HipHopDancing2": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Coat_Character/AN_HipHopDancing2.AN_HipHopDancing2",
+          "frames": 135,
+          "duration": 4.466666666666667
+        },
+        "SalsaDancing2": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Coat_Character/AN_SalsaDancing2.AN_SalsaDancing2",
+          "frames": 136,
+          "duration": 4.5
+        },
+        "SnakeHipHopDance": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Coat_Character/AN_SnakeHipHopDance.AN_SnakeHipHopDance",
+          "frames": 459,
+          "duration": 15.266666666666667
+        },
+        "SwingDancing": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Coat_Character/AN_SwingDancing.AN_SwingDancing",
+          "frames": 742,
+          "duration": 24.7
+        },
+        "TwistDance": {
+          "asset": "/Game/CharacterPack_Oct30/Animations/Coat_Character/AN_TwistDance.AN_TwistDance",
+          "frames": 284,
+          "duration": 9.433333333333334
+        }
+      },
+      "material": "/Game/CharacterPack_Oct30/Materials/M_Coat_Character.M_Coat_Character"
+    }
+  ],
+  "seconds": 34.5,
+  "wheel": {
+    "status": "SUCCESS",
+    "asset": "/Game/CharacterPack_Oct30/UI/WBP_EmoteWheel.WBP_EmoteWheel",
+    "class": "/Game/CharacterPack_Oct30/UI/WBP_EmoteWheel.WBP_EmoteWheel_C",
+    "buttons": [
+      "Emote0",
+      "Emote1",
+      "Emote2",
+      "Emote3",
+      "Emote4",
+      "Emote5",
+      "Emote6",
+      "Emote7",
+      "PreviousPage",
+      "NextPage",
+      "Character0",
+      "Character1",
+      "Character2",
+      "Character3",
+      "CloseWheel"
+    ],
+    "root": "CanvasPanel_0"
+  },
+  "validation": "Skyward_Integration_Validation.json",
+  "installed_project": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject",
+  "controls": {
+    "emote_wheel": "Z",
+    "select_emote": "Click or 1–8",
+    "pages": "Arrows or page buttons",
+    "character": "Character buttons or F7",
+    "cancel": "Escape or Z",
+    "stop_emote": "WASD",
+    "view": "V"
+  }
+}

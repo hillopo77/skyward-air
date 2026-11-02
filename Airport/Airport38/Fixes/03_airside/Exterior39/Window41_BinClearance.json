@@ -1,0 +1,231 @@
+{
+  "scope": "Read-only original separate bin leaves and complete PSU vertices against frozenWindow41 geometry",
+  "passed": true,
+  "actual_roof_spans": [
+    {
+      "side": "L",
+      "min_max_absx_m": [
+        1.100000023841858,
+        2.251615047454834
+      ],
+      "objects": [
+        "Continuous acoustic ceiling shoulder09.001"
+      ],
+      "all_kit_objects": [
+        "Fitted lower kick panel.001",
+        "Recessed continuous warm escape strip.001",
+        "Continuous acoustic ceiling shoulder09.001",
+        "W40 single curved laminated optical pane.002",
+        "W41 continuous fitted liner with formed mechanism recess",
+        "W41 continuous rolled collar shields actual guide channels"
+      ]
+    },
+    {
+      "side": "R",
+      "min_max_absx_m": [
+        1.100000023841858,
+        2.251615047454834
+      ],
+      "objects": [
+        "Continuous acoustic ceiling shoulder09.004"
+      ],
+      "all_kit_objects": [
+        "Fitted lower kick panel.004",
+        "Recessed continuous warm escape strip.004",
+        "Continuous acoustic ceiling shoulder09.004",
+        "W40 single curved laminated optical pane.003",
+        "W41 continuous fitted liner with formed mechanism recess.001",
+        "W41 continuous rolled collar shields actual guide channels.001"
+      ]
+    }
+  ],
+  "minimum_pressure_skin_clearance_m": 0.38190745518724833,
+  "minimum_absx_of_complete_assemblies_m": 1.1397264003753662,
+  "unchanged_central_ceiling_strip_clearance_m": 0.03972640037536612,
+  "vertex_samples": 1689680,
+  "ceiling_triangle_pairs": 1350,
+  "failures": [],
+  "failure_count": 0,
+  "actual_motion_axes_and_amounts": {
+    "Overhead bin R 04": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": 78
+    },
+    "Overhead bin R 05": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": 78
+    },
+    "Overhead bin R 06": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": 78
+    },
+    "Overhead bin R 07": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": 78
+    },
+    "Overhead bin R 10": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": 78
+    },
+    "Overhead bin R 11": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": 78
+    },
+    "Overhead bin R 12": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": 78
+    },
+    "Overhead bin R 13": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": 78
+    },
+    "Overhead bin R 14": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": 78
+    },
+    "Overhead bin R 15": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": 78
+    },
+    "Overhead bin R 16": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": 78
+    },
+    "Overhead bin R 17": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": 78
+    },
+    "Overhead bin R 18": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": 78
+    },
+    "Overhead bin R 19": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": 78
+    },
+    "Overhead bin R 20": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": 78
+    },
+    "Overhead bin L 04": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": -78
+    },
+    "Overhead bin L 05": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": -78
+    },
+    "Overhead bin L 06": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": -78
+    },
+    "Overhead bin L 07": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": -78
+    },
+    "Overhead bin L 10": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": -78
+    },
+    "Overhead bin L 11": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": -78
+    },
+    "Overhead bin L 12": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": -78
+    },
+    "Overhead bin L 13": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": -78
+    },
+    "Overhead bin L 14": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": -78
+    },
+    "Overhead bin L 15": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": -78
+    },
+    "Overhead bin L 16": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": -78
+    },
+    "Overhead bin L 17": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": -78
+    },
+    "Overhead bin L 18": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": -78
+    },
+    "Overhead bin L 19": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": -78
+    },
+    "Overhead bin L 20": {
+      "type": "rotate",
+      "axis": "y",
+      "duration": 0.8,
+      "amount_degrees": -78
+    }
+  }
+}

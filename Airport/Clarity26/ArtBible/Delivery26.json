@@ -1,0 +1,95 @@
+{
+  "status": "SUCCESS",
+  "map": "/Game/Airport26/L_Airport_Clarity26",
+  "map_sha256": "81f8c8c2492bddbe310c70f491354d46c6c7a1fb60bf57d18d10b4db5b01a507",
+  "source_sha256": "31d0a243dbdf1af25dea3a79e85c20903cc16acefbdce8e4ab1f2143b753c8bb",
+  "layout_sha256": "d359bc8b6482c8d0108e02714a2aeb3af585d823d880ba01028890cd983cec69",
+  "checks": 33,
+  "continuous_walk": true,
+  "teleports": 0,
+  "boarding_verified": true,
+  "profile": "FastTAA",
+  "actual_capture_viewport": [
+    1600,
+    1000
+  ],
+  "native_viewport_capture": true,
+  "photos": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\00_FirstPersonArrival.png",
+      "sha256": "2af90f8e5c86e7b71484c23806477ab18ddce621db258fd12aced90f8cd472f8",
+      "view": "00_FirstPersonArrival"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\01_EntryDecision.png",
+      "sha256": "d195c03f4b280d017d42b1553f68827ca2e8f4805899b0e10ef8d182af40ae09",
+      "view": "01_EntryDecision"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\02_StartHere.png",
+      "sha256": "c4c7c0df1f3fb673fe29d7c88d5f998a9e137b592776f60b932366e569c26743",
+      "view": "02_StartHere"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\03_WelcomeSequence.png",
+      "sha256": "1cdb221c96a34bd5de0bbc93375285177cea32c9b6c986b235abe870dbed9b55",
+      "view": "03_WelcomeSequence"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\04_ThroughCheckin.png",
+      "sha256": "d970ac4d8d9ac3348e8218978bc0090dfe021ff0bb6acd53ee02b093c9935447",
+      "view": "04_ThroughCheckin"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\05_AfterCheckin.png",
+      "sha256": "4abb0ccc7557a936d472931a0991d7ecf36d141715d2bf84aa8144eae6ed0831",
+      "view": "05_AfterCheckin"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\06_WarmEntrance.png",
+      "sha256": "1bb56035ae939a07ac8c8ba4c96ef863dc698c1800a3f5b07d8ed7278b6239e6",
+      "view": "06_WarmEntrance"
+    }
+  ],
+  "route_captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\QA26_01_FirstStep.png",
+      "sha256": "60dd009aad2768f508d64b58db87644c9cdcdccfcdc8f536931366a05137e478",
+      "phase": "CheckIn",
+      "position": [
+        -48.495208684936046,
+        -12.5,
+        1.62
+      ]
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\QA26_02_NextSecurity.png",
+      "sha256": "72fb8893ab84a9692a0247493b63c45bc4f1dd52ded042557a6c8e549c96a1f5",
+      "phase": "Security",
+      "position": [
+        -30.600383549269104,
+        -7.452946675532724,
+        1.62
+      ]
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\QA26_03_Aboard.png",
+      "sha256": "b83f5939a071cf55141d92d0860fd8455e71a420fc51da8f45beb8ced3dd28b4",
+      "phase": "Seat",
+      "position": [
+        -1.0767366637637588,
+        0.6749892395462183,
+        1.62
+      ]
+    }
+  ],
+  "dependencies": {
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_runtime.py": "b0f8a92dbeb28a6b41612bbfeede15e60a90f94ec9ad95ae2f59d24e66a89ba3",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_clarity26.py": "23cc269bd2c3233eb77cdd7aa889babd7b810268a3ce49c881b8c9a5eea1a274",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\arrival26_qa.py": "49b924f9991714d118e1c809d1cb6b1ca74bef1436ecbcc77340a2c24594a097",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\arrival26_photos.py": "42336a04c4f643b7e6199e253111e1807ff7759d093195ef9a97e08db721079d",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_capture.py": "032647c84ab4bfd0b25792bc528dfac4716200225946634f211de0803051ea3d",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_rooms24.py": "e5ecf057814f520e1e8398001203501444a957aa1dd3144ab667f3941a2b8641",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Config\\DefaultEngine.ini": "a005fcc7fa13443faff6f96a014b8eaa80795b9cbdc2d11ba5590781e4f9922b"
+  }
+}

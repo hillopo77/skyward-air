@@ -1,0 +1,93 @@
+{
+ "CH12 Waiting passenger 6": [
+  -29.53,
+  23.4,
+  0.0,
+  90.0,
+  "A08 viewing terrace tier 1"
+ ],
+ "CH12 Additional waiting passenger 0": [
+  -29.53,
+  24.3,
+  0.0,
+  90.0,
+  "A08 viewing terrace tier 1"
+ ],
+ "CH12 Additional waiting passenger 1": [
+  -29.53,
+  27.5,
+  0.0,
+  90.0,
+  "A08 viewing terrace tier 1"
+ ],
+ "CH12 Additional waiting passenger 3": [
+  -29.53,
+  29.9,
+  0.0,
+  90.0,
+  "A08 viewing terrace tier 1"
+ ],
+ "CH12 Additional waiting passenger 4": [
+  -30.43,
+  25.6,
+  0.45,
+  90.0,
+  "A08 viewing terrace tier 2"
+ ],
+ "CH12 Additional waiting passenger 5": [
+  -30.43,
+  28.7,
+  0.45,
+  90.0,
+  "A08 viewing terrace tier 2"
+ ],
+ "CH12 Additional waiting passenger 2": [
+  -30.43,
+  30.6,
+  0.45,
+  90.0,
+  "A08 viewing terrace tier 2"
+ ],
+ "CH12 Waiting passenger 0": [
+  -21.02,
+  8.47,
+  0.0,
+  -160.9,
+  "A07 wave bench"
+ ],
+ "CH12 Waiting passenger 1": [
+  -18.41,
+  7.92,
+  0.0,
+  148.0,
+  "A07 wave bench"
+ ],
+ "CH12 Waiting passenger 2": [
+  -16.3,
+  7.28,
+  0.0,
+  -163.4,
+  "A07 wave bench"
+ ],
+ "CH12 Waiting passenger 3": [
+  -20.05,
+  7.88,
+  0.0,
+  -8.0,
+  "A07 wave bench"
+ ],
+ "CH12 Waiting passenger 4": [
+  -17.63,
+  6.67,
+  0.0,
+  -21.4,
+  "A07 wave bench"
+ ],
+ "CH12 Waiting passenger 5": [
+  -15.76,
+  6.71,
+  0.0,
+  23.5,
+  "A07 wave bench"
+ ]
+}

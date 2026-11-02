@@ -1,0 +1,61 @@
+{
+  "date_published": 1585605600,
+  "name": "Coffee Cart 01",
+  "old_id": 17,
+  "categories": [
+    "appliances",
+    "props",
+    "furniture",
+    "office"
+  ],
+  "type": 2,
+  "tags": [
+    "table",
+    "metal",
+    "shelf",
+    "plastic",
+    "cart",
+    "coffee",
+    "portable",
+    "wheels",
+    "tea",
+    "coffee maker",
+    "mobile",
+    "catering"
+  ],
+  "authors": {
+    "Joe Seabuhr": "All"
+  },
+  "max_resolution": [
+    4096,
+    4096
+  ],
+  "polycount": 27659,
+  "texel_density": 1759.6964739422806,
+  "dimensions": [
+    2167.636811733246,
+    1073.2900500297546,
+    1717.6724136807024
+  ],
+  "files_hash": "9a4acb5ef57be1f96cd1af66af66d2a798139a24",
+  "sponsors": [
+    "297038",
+    "84390067"
+  ],
+  "description": "Free 4K model - industrial metal coffee cart with commercial brewer, glass carafes, storage cabinet, lower shelf bin, power cord and red caster wheels.",
+  "category_id": "42ae5c98-8e4b-5162-a481-57a1eff29af3",
+  "category": "Furniture/Storage Furniture/Carts & Trolleys",
+  "attributes": {
+    "condition": [
+      "clean"
+    ],
+    "material": [
+      "metal",
+      "glass",
+      "plastic"
+    ]
+  },
+  "img_version": "fd89d2cb",
+  "download_count": 44857,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/CoffeeCart_01.png?width=256&height=256&format=webp&v=fd89d2cb"
+}

@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "source_sha256": "fd965424639e18dfbd040ba1c4b968167a824b148e5eb0b95e6332ec7e88c3a4",
+  "materials": [
+    {
+      "name": "MI_Plane_SkyGlass18",
+      "transmission": 1.0,
+      "roughness": 0.1599999964237213,
+      "ior": 1.4500000476837158
+    },
+    {
+      "name": "MI_Plane_SkyGlass18.001",
+      "transmission": 1.0,
+      "roughness": 0.014999999664723873,
+      "ior": 1.0800000429153442
+    }
+  ],
+  "diagnosis": "Editable source optical surfaces already transmit. Opaque appearance was the native duplicate-name classifier, now repaired. Master unchanged."
+}

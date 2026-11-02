@@ -1,0 +1,1141 @@
+[
+  {
+    "asset": "SM_AP_SprayCloud11",
+    "name": "Extinguisher powder effect",
+    "location": [
+      0,
+      0,
+      -100
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 7,
+    "collision": false
+  },
+  {
+    "asset": "SM_AP_ServiceDesk30",
+    "name": "Check-in desk 01",
+    "location": [
+      -30.3,
+      -10.6,
+      0
+    ],
+    "rotation_degrees": -90,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Belt",
+    "name": "Bag drop belt 01",
+    "location": [
+      -27.9,
+      -12.0,
+      0
+    ],
+    "rotation_degrees": -90,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_ServiceDesk30",
+    "name": "Check-in desk 02",
+    "location": [
+      -30.3,
+      -14.6,
+      0
+    ],
+    "rotation_degrees": -90,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Belt",
+    "name": "Bag drop belt 02",
+    "location": [
+      -27.9,
+      -16.0,
+      0
+    ],
+    "rotation_degrees": -90,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Kiosk",
+    "name": "Self-service kiosk24 0",
+    "location": [
+      -40.5,
+      -8.65,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Kiosk",
+    "name": "Self-service kiosk24 1",
+    "location": [
+      -38.4,
+      -8.65,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Portal34",
+    "name": "Security portal 01",
+    "location": [
+      -45.5,
+      3,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Belt",
+    "name": "Security belt 01",
+    "location": [
+      -43.15,
+      3,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Scanner34",
+    "name": "X-ray scanner 01",
+    "location": [
+      -43.15,
+      3,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Tray",
+    "name": "Tray24_1719",
+    "location": [
+      -43.15,
+      0.7999999999999998,
+      0.0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": false
+  },
+  {
+    "asset": "SM_AP_Tray",
+    "name": "Tray24_1720",
+    "location": [
+      -43.15,
+      0.7999999999999998,
+      0.12
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": false
+  },
+  {
+    "asset": "SM_AP_Tray",
+    "name": "Tray24_1721",
+    "location": [
+      -43.15,
+      0.7999999999999998,
+      0.24
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": false
+  },
+  {
+    "asset": "SM_AP_Tray",
+    "name": "Tray24_1722",
+    "location": [
+      -43.15,
+      0.7999999999999998,
+      0.36
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": false
+  },
+  {
+    "asset": "SM_AP_Portal34",
+    "name": "Security portal 02",
+    "location": [
+      -39.75,
+      3,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Belt",
+    "name": "Security belt 02",
+    "location": [
+      -37.4,
+      3,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Scanner34",
+    "name": "X-ray scanner 02",
+    "location": [
+      -37.4,
+      3,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Tray",
+    "name": "Tray24_1732",
+    "location": [
+      -37.4,
+      0.7999999999999998,
+      0.0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": false
+  },
+  {
+    "asset": "SM_AP_Tray",
+    "name": "Tray24_1733",
+    "location": [
+      -37.4,
+      0.7999999999999998,
+      0.12
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": false
+  },
+  {
+    "asset": "SM_AP_Tray",
+    "name": "Tray24_1734",
+    "location": [
+      -37.4,
+      0.7999999999999998,
+      0.24
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": false
+  },
+  {
+    "asset": "SM_AP_Tray",
+    "name": "Tray24_1735",
+    "location": [
+      -37.4,
+      0.7999999999999998,
+      0.36
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": false
+  },
+  {
+    "asset": "SM_AP_Charging34",
+    "name": "ChargingTable24_1749",
+    "location": [
+      -32.75,
+      1.65,
+      0
+    ],
+    "rotation_degrees": -90,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Counter34",
+    "name": "Gate A07 boarding desk",
+    "location": [
+      -17.5,
+      -2.0,
+      0
+    ],
+    "rotation_degrees": -90,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Charging34",
+    "name": "ChargingTable24_1759",
+    "location": [
+      -15.1,
+      8.6,
+      0
+    ],
+    "rotation_degrees": -90,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Plant12",
+    "name": "Plant1224_1761",
+    "location": [
+      -24.4,
+      0,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": false
+  },
+  {
+    "asset": "SM_AP_Counter34",
+    "name": "Gate A08 boarding desk",
+    "location": [
+      -30.2,
+      20,
+      0
+    ],
+    "rotation_degrees": 90,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Charging34",
+    "name": "ChargingTable24_1769",
+    "location": [
+      -25.1,
+      22,
+      0
+    ],
+    "rotation_degrees": -90,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Plant12",
+    "name": "Plant1224_1771",
+    "location": [
+      -24.4,
+      16.8,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": false
+  },
+  {
+    "asset": "SM_AP_Plant12",
+    "name": "Plant1224_1772",
+    "location": [
+      -30.9,
+      4.0,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": false
+  },
+  {
+    "asset": "SM_AP_Plant12",
+    "name": "Plant1224_1773",
+    "location": [
+      -30.6,
+      16.5,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": false
+  },
+  {
+    "asset": "SM_AP_Espresso36",
+    "name": "Poly Haven coffee cart24",
+    "location": [
+      -47.5,
+      31.5,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Bakery36",
+    "name": "BakeryCounter24_1778",
+    "location": [
+      -45.5,
+      31.5,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_POS36",
+    "name": "RegisterCounter24_1779",
+    "location": [
+      -43.5,
+      31.5,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Tea36",
+    "name": "TeaCounter24_1780",
+    "location": [
+      -41.5,
+      31.5,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Charging34",
+    "name": "ChargingTable24_1797",
+    "location": [
+      -47.5,
+      33,
+      3.15
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Toilet34",
+    "name": "Toilet24_1798",
+    "location": [
+      -21.0,
+      -4.2,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Toilet34",
+    "name": "Toilet24_1803",
+    "location": [
+      -17.1,
+      -4.2,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Vanity34",
+    "name": "Vanity24_1808",
+    "location": [
+      -18.7,
+      -11.2,
+      0
+    ],
+    "rotation_degrees": 180,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Recycling",
+    "name": "Recycling24_1810",
+    "location": [
+      -15.2,
+      -11,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Counter34",
+    "name": "Operations workstation24",
+    "location": [
+      -46,
+      14.8,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Storage34",
+    "name": "RetailShelf24_1814",
+    "location": [
+      -48.2,
+      12.5,
+      0
+    ],
+    "rotation_degrees": 90,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Storage34",
+    "name": "RetailShelf24_1815",
+    "location": [
+      -39,
+      13,
+      0
+    ],
+    "rotation_degrees": -90,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Carousel34",
+    "name": "Reclaim carousel 01",
+    "location": [
+      -19.4,
+      -17.0,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      0.48,
+      0.75,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Trolley",
+    "name": "Trolley24_1820",
+    "location": [
+      -46,
+      -21.2,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Trolley",
+    "name": "Trolley24_1821",
+    "location": [
+      -42,
+      -21.2,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Trolley",
+    "name": "Trolley24_1822",
+    "location": [
+      -38,
+      -21.2,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Trolley",
+    "name": "Trolley24_1823",
+    "location": [
+      -34,
+      -21.2,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Planter27",
+    "name": "Plant1224_1824",
+    "location": [
+      -48.25,
+      -15.8,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": false
+  },
+  {
+    "asset": "SM_AP_Planter27",
+    "name": "Plant1224_1825",
+    "location": [
+      -48.3,
+      -8.85,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": false
+  },
+  {
+    "asset": "SM_AP_Planter27",
+    "name": "Plant1224_1826",
+    "location": [
+      -27.0,
+      -17.2,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": false
+  },
+  {
+    "asset": "SM_AP_Plant12",
+    "name": "Plant1224_1827",
+    "location": [
+      -14.9,
+      3.0,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": false
+  },
+  {
+    "asset": "SM_AP_Plant12",
+    "name": "Plant1224_1828",
+    "location": [
+      -15.0,
+      9.8,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": false
+  },
+  {
+    "asset": "SM_AP_Plant12",
+    "name": "Plant1224_1829",
+    "location": [
+      -33.4,
+      32.5,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": false
+  },
+  {
+    "asset": "SM_AP_Recycling",
+    "name": "Recycling24_1830",
+    "location": [
+      -48.3,
+      -10.05,
+      0
+    ],
+    "rotation_degrees": 90,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Recycling",
+    "name": "Recycling24_1831",
+    "location": [
+      -33.4,
+      25.7,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Storage34",
+    "name": "RetailShelf24_1832",
+    "location": [
+      -47,
+      33.6,
+      3.15
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Storage34",
+    "name": "RetailShelf24_1833",
+    "location": [
+      -45,
+      33.6,
+      3.15
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Storage34",
+    "name": "RetailShelf24_1834",
+    "location": [
+      -43,
+      33.6,
+      3.15
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true
+  },
+  {
+    "asset": "SM_AP_Extinguisher11",
+    "name": "Usable extinguisher 0",
+    "location": [
+      -43.5,
+      -17.15,
+      0.48
+    ],
+    "rotation_degrees": -90,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true,
+    "physics": true,
+    "mass": 5.5,
+    "stowed": true
+  },
+  {
+    "asset": "SM_AP_Extinguisher11",
+    "name": "Usable extinguisher 1",
+    "location": [
+      -26.4,
+      -5.0,
+      0.48
+    ],
+    "rotation_degrees": 90,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true,
+    "physics": true,
+    "mass": 5.5,
+    "stowed": true
+  },
+  {
+    "asset": "SM_AP_Extinguisher11",
+    "name": "Usable extinguisher 2",
+    "location": [
+      -37.1,
+      9.4,
+      0.48
+    ],
+    "rotation_degrees": 180,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true,
+    "physics": true,
+    "mass": 5.5,
+    "stowed": true
+  },
+  {
+    "asset": "SM_AP_Extinguisher11",
+    "name": "Usable extinguisher 3",
+    "location": [
+      -15.100000000000001,
+      16.9,
+      0.48
+    ],
+    "rotation_degrees": -90,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true,
+    "physics": true,
+    "mass": 5.5,
+    "stowed": true
+  },
+  {
+    "asset": "SM_AP_Extinguisher11",
+    "name": "Usable extinguisher 4",
+    "location": [
+      -33,
+      32.3,
+      0.48
+    ],
+    "rotation_degrees": 180,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true,
+    "physics": true,
+    "mass": 5.5,
+    "stowed": true
+  },
+  {
+    "asset": "SM_AP_PH_Succulent24",
+    "name": "Small potted plant24",
+    "location": [
+      -35.25,
+      0.25,
+      1.06
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "stage": 10,
+    "collision": true,
+    "physics": true,
+    "mass": 0.8
+  },
+  {
+    "asset": "SM_AP_OvalTable36",
+    "name": "A07 lounge coffee table36",
+    "location": [
+      -18.5,
+      7.2,
+      0
+    ],
+    "rotation_degrees": 0,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "collision": true,
+    "stage": 10
+  },
+  {
+    "asset": "SM_AP_OvalTable36",
+    "name": "A08 lounge coffee table36",
+    "location": [
+      -26.4,
+      27.4,
+      0
+    ],
+    "rotation_degrees": 90,
+    "scale": [
+      1,
+      1,
+      1
+    ],
+    "collision": true,
+    "stage": 10
+  }
+]

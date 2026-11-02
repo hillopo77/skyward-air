@@ -1,0 +1,49 @@
+{
+  "status": "SUCCESS",
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\00_FirstPersonArrival.png",
+      "sha256": "2af90f8e5c86e7b71484c23806477ab18ddce621db258fd12aced90f8cd472f8",
+      "view": "00_FirstPersonArrival"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\01_EntryDecision.png",
+      "sha256": "d195c03f4b280d017d42b1553f68827ca2e8f4805899b0e10ef8d182af40ae09",
+      "view": "01_EntryDecision"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\02_StartHere.png",
+      "sha256": "c4c7c0df1f3fb673fe29d7c88d5f998a9e137b592776f60b932366e569c26743",
+      "view": "02_StartHere"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\03_WelcomeSequence.png",
+      "sha256": "1cdb221c96a34bd5de0bbc93375285177cea32c9b6c986b235abe870dbed9b55",
+      "view": "03_WelcomeSequence"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\04_ThroughCheckin.png",
+      "sha256": "d970ac4d8d9ac3348e8218978bc0090dfe021ff0bb6acd53ee02b093c9935447",
+      "view": "04_ThroughCheckin"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\05_AfterCheckin.png",
+      "sha256": "4abb0ccc7557a936d472931a0991d7ecf36d141715d2bf84aa8144eae6ed0831",
+      "view": "05_AfterCheckin"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\06_WarmEntrance.png",
+      "sha256": "1bb56035ae939a07ac8c8ba4c96ef863dc698c1800a3f5b07d8ed7278b6239e6",
+      "view": "06_WarmEntrance"
+    }
+  ],
+  "viewport": [
+    1600,
+    1000
+  ],
+  "profile": "FastTAA",
+  "native_viewport_capture": true,
+  "runtime_sha256": "b0f8a92dbeb28a6b41612bbfeede15e60a90f94ec9ad95ae2f59d24e66a89ba3",
+  "started": 1793189387.0274048,
+  "finished": 1793189399.507738
+}

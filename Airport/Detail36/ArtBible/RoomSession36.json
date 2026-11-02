@@ -1,0 +1,24 @@
+{
+  "status": "READY",
+  "map": "/Game/Airport36/L_Airport_Detail36",
+  "zone": "gate07",
+  "player": [
+    -18.335483324956105,
+    0.28847925030837296,
+    2.495254667112283
+  ],
+  "journey": {
+    "checked_in": true,
+    "security": true,
+    "boarding": false,
+    "aboard": false
+  },
+  "controlled_doors": {
+    "Screening entry24 leaf 0": 0,
+    "Screening entry24 leaf 1": 0,
+    "Screening exit24 leaf 0": 0,
+    "Screening exit24 leaf 1": 0,
+    "Staff service leaf24": 0
+  },
+  "updated": 1793276168.400343
+}

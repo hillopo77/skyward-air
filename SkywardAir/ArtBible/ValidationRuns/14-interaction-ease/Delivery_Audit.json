@@ -1,0 +1,89 @@
+{
+  "status": "SUCCESS",
+  "interaction_revision": "14",
+  "geometry_revision": "13",
+  "runtime_sha256": "9d2309bd5cee852412c5a9244f0c64ac2922e887db5c0382b8204cd2b0a1d475",
+  "source_sha256": "022f2968fa97ac1d2561ea8b4c20605d15c6aaeed653e0b0eb861d8d69217a6f",
+  "checks": [
+    {
+      "name": "fresh action report succeeded",
+      "passed": true
+    },
+    {
+      "name": "live aiming comparison succeeded",
+      "passed": true
+    },
+    {
+      "name": "both interaction reports match current runtime",
+      "passed": true
+    },
+    {
+      "name": "geometry unchanged from verified revision13",
+      "passed": true
+    },
+    {
+      "name": "native assets match saved source and manifest",
+      "passed": true
+    },
+    {
+      "name": "every fresh configuration check passed",
+      "passed": true,
+      "count": 12
+    },
+    {
+      "name": "every fresh interactions check passed",
+      "passed": true,
+      "count": 1484
+    },
+    {
+      "name": "every fresh barriers check passed",
+      "passed": true,
+      "count": 12
+    },
+    {
+      "name": "previous walking evidence is explicitly separate",
+      "passed": true
+    },
+    {
+      "name": "every exact aiming target retained",
+      "passed": true
+    },
+    {
+      "name": "off-centre small-control targeting improved",
+      "passed": true,
+      "samples": 120,
+      "old_matches": 59,
+      "matches": 102
+    },
+    {
+      "name": "off-centre inspection targeting improved",
+      "passed": true,
+      "samples": 64,
+      "old_matches": 50,
+      "matches": 64
+    },
+    {
+      "name": "all six closed barriers retested",
+      "passed": true
+    },
+    {
+      "name": "three current native screenshots captured",
+      "passed": true
+    },
+    {
+      "name": "floor logic unchanged",
+      "passed": true
+    },
+    {
+      "name": "source README preserved byte for byte",
+      "passed": true
+    },
+    {
+      "name": "nearby filtering contains conservative opening sweeps",
+      "passed": true,
+      "max_sweep_m": 3.284124578220838,
+      "max_reach_m": 2.65,
+      "coarse_bound_m": 6.5
+    }
+  ]
+}

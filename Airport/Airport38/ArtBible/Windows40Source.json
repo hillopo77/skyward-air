@@ -1,0 +1,1053 @@
+{
+  "status": "SUCCESS",
+  "passes": [
+    {
+      "module": "Fixes/03_airside/Exterior39/window40.py",
+      "result": {
+        "version": 1,
+        "changed_assets": [
+          "SM_AP_W40WindowWallL",
+          "SM_AP_W40WindowWallR",
+          "SM_AP_W40PressureWindows",
+          "SM_AP_W40CargoBayWindows",
+          "SM_AP_W40ShadeFrameL",
+          "SM_AP_W40ShadeFrameR",
+          "SM_AP_W40RackL",
+          "SM_AP_W40RackR",
+          "SM_AP_W40ShadeHandleL",
+          "SM_AP_W40ShadeHandleR"
+        ],
+        "kit_details": {
+          "SM_AP_W40WindowWallL": {
+            "removed": [
+              "Thin formed cabin liner around actual window.001",
+              "Continuous tapered window reveal and rolled thin lip.001",
+              "Fine window interior trim bead.001",
+              "Laminated passenger glazing09.001",
+              "Retractable shade top cassette.001",
+              "Shade recessed grip.001"
+            ],
+            "clear_aperture": {
+              "width": 0.7,
+              "height": 1.0,
+              "radius": 0.16,
+              "centre_z": 1.46
+            },
+            "liner_skin_margin_m": 0.035,
+            "pane_count": 1
+          },
+          "SM_AP_W40WindowWallR": {
+            "removed": [
+              "Thin formed cabin liner around actual window",
+              "Continuous tapered window reveal and rolled thin lip",
+              "Fine window interior trim bead",
+              "Laminated passenger glazing09",
+              "Retractable shade top cassette",
+              "Shade recessed grip"
+            ],
+            "clear_aperture": {
+              "width": 0.7,
+              "height": 1.0,
+              "radius": 0.16,
+              "centre_z": 1.46
+            },
+            "liner_skin_margin_m": 0.035,
+            "pane_count": 1
+          },
+          "SM_AP_W40PressureWindows": {
+            "removed": [
+              "Fitted pressure skin09 with actual aperture Blue09.001",
+              "Fitted pressure skin09 with actual aperture LiveryGold.001",
+              "Fitted pressure skin09 with actual aperture Paint09.001",
+              "Fitted pressure skin09 with actual aperture.001 Blue09.001",
+              "Fitted pressure skin09 with actual aperture.001 LiveryGold.001",
+              "Fitted pressure skin09 with actual aperture.001 Paint09.001",
+              "E39 continuous swept opaque weather gasket.002",
+              "E39 continuous swept opaque weather gasket.003"
+            ],
+            "gasket_radius_m": 0.0024,
+            "matched_actual_aperture": true
+          },
+          "SM_AP_W40CargoBayWindows": {
+            "removed": [
+              "Flush glazing weather seal09.004",
+              "Flush glazing weather seal09.005",
+              "Fitted pressure skin09 with actual aperture Blue09.001",
+              "Fitted pressure skin09 with actual aperture LiveryGold.001",
+              "Fitted pressure skin09 with actual aperture Paint09.001",
+              "Fitted pressure skin09 with actual aperture.001 Blue09.001",
+              "Fitted pressure skin09 with actual aperture.001 LiveryGold.001",
+              "Fitted pressure skin09 with actual aperture.001 Paint09.001"
+            ],
+            "gasket_radius_m": 0.0024,
+            "matched_actual_aperture": true
+          },
+          "SM_AP_W40ShadeFrameL": {
+            "removed": [
+              "E39 continuous formed open C guide.004",
+              "E39 retained guide felt.004",
+              "E39 continuous formed open C guide.005",
+              "E39 retained guide felt.005",
+              "E39 curved hollow shade pocket shell.002",
+              "E39 rounded pocket feed lip.002",
+              "E39 pocket end cap return.004",
+              "E39 pocket end cap return.005"
+            ],
+            "feed_z": 2.045,
+            "top_z": 2.325,
+            "open_below": true,
+            "full_aperture_top": 1.96,
+            "switch_face_preserved": true,
+            "tapered_switch_mount_attaches_to_guide": true
+          },
+          "SM_AP_W40ShadeFrameR": {
+            "removed": [
+              "E39 continuous formed open C guide.004",
+              "E39 retained guide felt.004",
+              "E39 continuous formed open C guide.005",
+              "E39 retained guide felt.005",
+              "E39 curved hollow shade pocket shell.002",
+              "E39 rounded pocket feed lip.002",
+              "E39 pocket end cap return.004",
+              "E39 pocket end cap return.005"
+            ],
+            "feed_z": 2.045,
+            "top_z": 2.325,
+            "open_below": true,
+            "full_aperture_top": 1.96,
+            "switch_face_preserved": true,
+            "tapered_switch_mount_attaches_to_guide": true
+          },
+          "SM_AP_W40RackL": {
+            "changed": [
+              "Fixed overhead cavity10 service underbody.001",
+              "Bin fixed luggage floor10.001",
+              "Fixed overhead cavity10 curved crown.001",
+              "Fixed overhead cavity10 end cheek.002",
+              "Fixed overhead cavity10 end cheek.003"
+            ],
+            "hinges_doors_contents_psu_mounts_unchanged": true,
+            "unchanged_psu_interface_absx_max": 2.01,
+            "rear_upper_limit_x": 2.025,
+            "cassette_service_gap_m": 0.035
+          },
+          "SM_AP_W40RackR": {
+            "changed": [
+              "Fixed overhead cavity10 service underbody",
+              "Bin fixed luggage floor10",
+              "Fixed overhead cavity10 curved crown",
+              "Fixed overhead cavity10 end cheek",
+              "Fixed overhead cavity10 end cheek.001"
+            ],
+            "hinges_doors_contents_psu_mounts_unchanged": true,
+            "unchanged_psu_interface_absx_max": 2.01,
+            "rear_upper_limit_x": 2.025,
+            "cassette_service_gap_m": 0.035
+          },
+          "SM_AP_W40ShadeHandleL": {
+            "removed": [
+              "Formed overlapping window shade section18.001",
+              "Retained shade finger pull18"
+            ],
+            "actual_recess_depth_m": 0.004,
+            "leaf_thickness_m": 0.012,
+            "raised_pull_removed": true
+          },
+          "SM_AP_W40ShadeHandleR": {
+            "removed": [
+              "Formed overlapping window shade section18.003",
+              "Retained shade finger pull18.001"
+            ],
+            "actual_recess_depth_m": 0.004,
+            "leaf_thickness_m": 0.012,
+            "raised_pull_removed": true
+          }
+        },
+        "source_instances": [
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 01",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 02",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 03",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 04",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 05",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 06",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 07",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 08",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 09",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 10",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 11",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 12",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 13",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 14",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 15",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 16",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 17",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 18",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 19",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 21",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 22",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 23",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 24",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 25",
+            "asset": "SM_AP_W40WindowWallL"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 01",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 02",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 03",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 04",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 05",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 06",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 07",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 08",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 09",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 10",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 11",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 12",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 13",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 14",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 15",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 16",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 17",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 18",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 19",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 21",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 22",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 23",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 24",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_WindowWall_R bay10 25",
+            "asset": "SM_AP_W40WindowWallR"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 01",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 02",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 03",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 05",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 06",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 07",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 08",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 09",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 10",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 11",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 12",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 13",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 14",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 15",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 16",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 17",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 18",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 19",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 21",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 22",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 23",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 24",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 25",
+            "asset": "SM_AP_W40PressureWindows"
+          },
+          {
+            "actor": "Forward lower cargo pressure bay",
+            "asset": "SM_AP_W40CargoBayWindows"
+          },
+          {
+            "actor": "Window shade 02 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 04 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 06 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 08 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 10 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 12 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 14 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 16 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 18 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 20 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 22 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 24 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 26 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 28 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 30 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 32 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 34 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 36 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 38 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 40 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 42 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 44 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 46 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 48 L18 frame",
+            "asset": "SM_AP_W40ShadeFrameL"
+          },
+          {
+            "actor": "Window shade 01 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 03 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 05 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 07 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 09 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 11 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 13 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 15 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 17 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 19 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 21 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 23 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 25 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 27 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 29 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 31 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 33 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 35 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 37 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 39 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 41 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 43 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 45 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "Window shade 47 R18 frame",
+            "asset": "SM_AP_W40ShadeFrameR"
+          },
+          {
+            "actor": "SM_Plane_Rack_L bay10 03",
+            "asset": "SM_AP_W40RackL"
+          },
+          {
+            "actor": "SM_Plane_Rack_L bay10 04",
+            "asset": "SM_AP_W40RackL"
+          },
+          {
+            "actor": "SM_Plane_Rack_L bay10 05",
+            "asset": "SM_AP_W40RackL"
+          },
+          {
+            "actor": "SM_Plane_Rack_L bay10 06",
+            "asset": "SM_AP_W40RackL"
+          },
+          {
+            "actor": "SM_Plane_Rack_L bay10 09",
+            "asset": "SM_AP_W40RackL"
+          },
+          {
+            "actor": "SM_Plane_Rack_L bay10 10",
+            "asset": "SM_AP_W40RackL"
+          },
+          {
+            "actor": "SM_Plane_Rack_L bay10 11",
+            "asset": "SM_AP_W40RackL"
+          },
+          {
+            "actor": "SM_Plane_Rack_L bay10 12",
+            "asset": "SM_AP_W40RackL"
+          },
+          {
+            "actor": "SM_Plane_Rack_L bay10 13",
+            "asset": "SM_AP_W40RackL"
+          },
+          {
+            "actor": "SM_Plane_Rack_L bay10 14",
+            "asset": "SM_AP_W40RackL"
+          },
+          {
+            "actor": "SM_Plane_Rack_L bay10 15",
+            "asset": "SM_AP_W40RackL"
+          },
+          {
+            "actor": "SM_Plane_Rack_L bay10 16",
+            "asset": "SM_AP_W40RackL"
+          },
+          {
+            "actor": "SM_Plane_Rack_L bay10 17",
+            "asset": "SM_AP_W40RackL"
+          },
+          {
+            "actor": "SM_Plane_Rack_L bay10 18",
+            "asset": "SM_AP_W40RackL"
+          },
+          {
+            "actor": "SM_Plane_Rack_L bay10 19",
+            "asset": "SM_AP_W40RackL"
+          },
+          {
+            "actor": "SM_Plane_Rack_R bay10 03",
+            "asset": "SM_AP_W40RackR"
+          },
+          {
+            "actor": "SM_Plane_Rack_R bay10 04",
+            "asset": "SM_AP_W40RackR"
+          },
+          {
+            "actor": "SM_Plane_Rack_R bay10 05",
+            "asset": "SM_AP_W40RackR"
+          },
+          {
+            "actor": "SM_Plane_Rack_R bay10 06",
+            "asset": "SM_AP_W40RackR"
+          },
+          {
+            "actor": "SM_Plane_Rack_R bay10 09",
+            "asset": "SM_AP_W40RackR"
+          },
+          {
+            "actor": "SM_Plane_Rack_R bay10 10",
+            "asset": "SM_AP_W40RackR"
+          },
+          {
+            "actor": "SM_Plane_Rack_R bay10 11",
+            "asset": "SM_AP_W40RackR"
+          },
+          {
+            "actor": "SM_Plane_Rack_R bay10 12",
+            "asset": "SM_AP_W40RackR"
+          },
+          {
+            "actor": "SM_Plane_Rack_R bay10 13",
+            "asset": "SM_AP_W40RackR"
+          },
+          {
+            "actor": "SM_Plane_Rack_R bay10 14",
+            "asset": "SM_AP_W40RackR"
+          },
+          {
+            "actor": "SM_Plane_Rack_R bay10 15",
+            "asset": "SM_AP_W40RackR"
+          },
+          {
+            "actor": "SM_Plane_Rack_R bay10 16",
+            "asset": "SM_AP_W40RackR"
+          },
+          {
+            "actor": "SM_Plane_Rack_R bay10 17",
+            "asset": "SM_AP_W40RackR"
+          },
+          {
+            "actor": "SM_Plane_Rack_R bay10 18",
+            "asset": "SM_AP_W40RackR"
+          },
+          {
+            "actor": "SM_Plane_Rack_R bay10 19",
+            "asset": "SM_AP_W40RackR"
+          },
+          {
+            "actor": "Window shade 02 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 04 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 06 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 08 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 10 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 12 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 14 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 16 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 18 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 20 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 22 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 24 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 26 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 28 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 30 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 32 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 34 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 36 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 38 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 40 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 42 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 44 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 46 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 48 L18",
+            "asset": "SM_AP_W40ShadeHandleL"
+          },
+          {
+            "actor": "Window shade 01 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 03 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 05 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 07 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 09 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 11 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 13 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 15 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 17 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 19 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 21 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 23 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 25 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 27 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 29 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 31 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 33 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 35 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 37 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 39 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 41 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 43 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 45 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          },
+          {
+            "actor": "Window shade 47 R18",
+            "asset": "SM_AP_W40ShadeHandleR"
+          }
+        ],
+        "source_shade_parts_fitted": 240
+      }
+    }
+  ],
+  "unused_empty_material_slots": [],
+  "pending_assets": {
+    "SM_AP_W40WindowWallL": "complex",
+    "SM_AP_W40WindowWallR": "complex",
+    "SM_AP_W40PressureWindows": "complex",
+    "SM_AP_W40CargoBayWindows": "complex",
+    "SM_AP_W40ShadeFrameL": "complex",
+    "SM_AP_W40ShadeFrameR": "complex",
+    "SM_AP_W40RackL": "complex",
+    "SM_AP_W40RackR": "complex",
+    "SM_AP_W40ShadeHandleL": "complex",
+    "SM_AP_W40ShadeHandleR": "complex"
+  },
+  "glass39": {
+    "presets": {
+      "Terminal": {
+        "tint": [
+          0.25,
+          0.47,
+          0.49,
+          1
+        ],
+        "opacity": 0.13,
+        "edge": 0.3,
+        "roughness": 0.18,
+        "specular": 0.48
+      },
+      "Bridge": {
+        "tint": [
+          0.24,
+          0.46,
+          0.48,
+          1
+        ],
+        "opacity": 0.12,
+        "edge": 0.28,
+        "roughness": 0.19,
+        "specular": 0.46
+      },
+      "Cabin": {
+        "tint": [
+          0.29,
+          0.52,
+          0.56,
+          1
+        ],
+        "opacity": 0.09,
+        "edge": 0.24,
+        "roughness": 0.16,
+        "specular": 0.48
+      },
+      "Cockpit": {
+        "tint": [
+          0.3,
+          0.53,
+          0.57,
+          1
+        ],
+        "opacity": 0.085,
+        "edge": 0.23,
+        "roughness": 0.17,
+        "specular": 0.48
+      }
+    },
+    "source_materials": [
+      "MI_AP_Glass",
+      "MI_AP_Glass.001",
+      "MI_AP_Glass.002",
+      "MI_AP_P36Glass",
+      "MI_AP_P38AGlass",
+      "MI_AP_P38BGlass"
+    ],
+    "design": "Subtle blue-green tint, soft specular and stronger glancing edges. No procedural dirt or distortion. Instrument glass excluded."
+  },
+  "changed_assets": [
+    "SM_AP_W40CargoBayWindows",
+    "SM_AP_W40PressureWindows",
+    "SM_AP_W40RackL",
+    "SM_AP_W40RackR",
+    "SM_AP_W40ShadeFrameL",
+    "SM_AP_W40ShadeFrameR",
+    "SM_AP_W40ShadeHandleL",
+    "SM_AP_W40ShadeHandleR",
+    "SM_AP_W40WindowWallL",
+    "SM_AP_W40WindowWallR"
+  ],
+  "families": 118,
+  "source_sha256": "cb4b367ccf466847eb6f447426776a4d51ad2af6eca2e49a9d01afdb84cc0bbc",
+  "retired_names": []
+}

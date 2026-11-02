@@ -1,0 +1,356 @@
+{
+ "rooms": [
+  {
+   "name": "landsidehall",
+   "rect": [
+    -49,
+    -26,
+    -18,
+    -4
+   ],
+   "ceiling": 6.6,
+   "axis": "x",
+   "pitch": 0.3,
+   "lights": [
+    -15.5,
+    -10.5,
+    -6.0
+   ],
+   "trace_from": 4.6,
+   "ceiling_label": "Airport50 landside hall",
+   "wave": {
+    "amp": 0.6,
+    "length": 10,
+    "bands": [
+     0.45,
+     0.75
+    ]
+   },
+   "covers": [
+    "entrancefoyer",
+    "checkin",
+    "landsidecorridor"
+   ]
+  },
+  {
+   "name": "publicreturn",
+   "rect": [
+    -49,
+    -26,
+    -22,
+    -18
+   ],
+   "ceiling": 3.2,
+   "axis": "x",
+   "pitch": 0.3,
+   "lights": [
+    -20.0
+   ]
+  },
+  {
+   "name": "security",
+   "rect": [
+    -49,
+    -36,
+    -4,
+    10
+   ],
+   "ceiling": 3.5,
+   "axis": "y",
+   "pitch": 0.3,
+   "lights": [
+    -45.75,
+    -39.25
+   ],
+   "wave": {
+    "amp": 0.28,
+    "length": 7,
+    "bands": [
+     0.29,
+     0.43
+    ]
+   }
+  },
+  {
+   "name": "recovery",
+   "rect": [
+    -36,
+    -32,
+    0,
+    10
+   ],
+   "ceiling": 3.4,
+   "axis": "y",
+   "pitch": 0.3,
+   "lights": [
+    -34.0
+   ],
+   "wave": {
+    "amp": 0.22,
+    "length": 6,
+    "bands": [
+     0.26,
+     0.37
+    ]
+   }
+  },
+  {
+   "name": "concourse",
+   "rect": [
+    -32,
+    -26,
+    -4,
+    14
+   ],
+   "ceiling": 3.4,
+   "axis": "y",
+   "pitch": 0.3,
+   "lights": [
+    -29.0
+   ],
+   "wave": {
+    "amp": 0.28,
+    "length": 7,
+    "bands": [
+     0.29,
+     0.43
+    ]
+   }
+  },
+  {
+   "name": "gate07",
+   "rect": [
+    -23,
+    -14,
+    -3,
+    10
+   ],
+   "ceiling": 6.4,
+   "axis": "y",
+   "pitch": 0.3,
+   "lights": [
+    -20.75,
+    -16.25
+   ],
+   "wave": {
+    "amp": 0.5,
+    "length": 9,
+    "bands": [
+     0.4,
+     0.65
+    ]
+   },
+   "trace_from": 4.6,
+   "ceiling_label": "Airport50 landside hall"
+  },
+  {
+   "name": "gate07entry",
+   "rect": [
+    -26,
+    -23,
+    -1,
+    10
+   ],
+   "ceiling": 3.4,
+   "axis": "y",
+   "pitch": 0.3,
+   "lights": [
+    -24.5
+   ]
+  },
+  {
+   "name": "gate08",
+   "rect": [
+    -32,
+    -24,
+    14,
+    34
+   ],
+   "ceiling": 6.4,
+   "axis": "y",
+   "pitch": 0.3,
+   "lights": [
+    -30.0,
+    -26.0
+   ],
+   "wave": {
+    "amp": 0.5,
+    "length": 9,
+    "bands": [
+     0.4,
+     0.65
+    ]
+   },
+   "trace_from": 4.6,
+   "ceiling_label": "Airport50 landside hall"
+  },
+  {
+   "name": "cafefoyer",
+   "rect": [
+    -38,
+    -32,
+    10,
+    16
+   ],
+   "ceiling": 3.4,
+   "axis": "x",
+   "pitch": 0.3,
+   "lights": [
+    13.0
+   ],
+   "wave": {
+    "amp": 0.24,
+    "length": 6,
+    "bands": [
+     0.27,
+     0.39
+    ]
+   }
+  },
+  {
+   "name": "amenitylobby",
+   "rect": [
+    -26,
+    -23,
+    -12,
+    -1
+   ],
+   "ceiling": 3.0,
+   "axis": "y",
+   "pitch": 0.3,
+   "lights": [
+    -24.5
+   ]
+  },
+  {
+   "name": "arrivals",
+   "rect": [
+    -22,
+    -14,
+    -22,
+    -12
+   ],
+   "ceiling": 6.4,
+   "axis": "y",
+   "pitch": 0.3,
+   "lights": [
+    -20.0,
+    -16.0
+   ],
+   "wave": {
+    "amp": 0.5,
+    "length": 9,
+    "bands": [
+     0.4,
+     0.65
+    ]
+   },
+   "trace_from": 4.6,
+   "ceiling_label": "Airport50 landside hall"
+  },
+  {
+   "name": "arrivalsreturn",
+   "rect": [
+    -25,
+    -22,
+    -22,
+    -18.5
+   ],
+   "ceiling": 3.6,
+   "axis": "x",
+   "pitch": 0.3,
+   "lights": [
+    -20.25
+   ]
+  },
+  {
+   "name": "cafe_low",
+   "rect": [
+    -41,
+    -32,
+    16,
+    34
+   ],
+   "ceiling": 4.4,
+   "axis": "y",
+   "pitch": 0.3,
+   "lights": [
+    -40.5,
+    -34.833
+   ],
+   "wave": {
+    "amp": 0.4,
+    "length": 8,
+    "bands": [
+     0.35,
+     0.55
+    ]
+   }
+  },
+  {
+   "name": "cafe_high",
+   "rect": [
+    -49,
+    -41,
+    16,
+    34
+   ],
+   "ceiling": 6.8,
+   "axis": "y",
+   "pitch": 0.3,
+   "lights": [
+    -46.167
+   ],
+   "trace_from": 5.0,
+   "wave": {
+    "amp": 0.7,
+    "length": 10,
+    "bands": [
+     0.5,
+     0.85
+    ]
+   }
+  },
+  {
+   "name": "canopy",
+   "rect": [
+    -61.25,
+    -52.75,
+    -21.25,
+    -3.25
+   ],
+   "ceiling": 3.69,
+   "axis": "y",
+   "pitch": 0.3,
+   "lights": [
+    -58.7,
+    -55.2
+   ],
+   "ceiling_label": "Airport38 coherent covered forecourt",
+   "depth": 0.08,
+   "band_mid": 0.05
+  }
+ ],
+ "feature_pendants": [],
+ "feature_pendants_retired58": [
+  [
+   -37.67,
+   19.0,
+   3.0,
+   4.4
+  ],
+  [
+   -37.67,
+   25.0,
+   3.0,
+   4.4
+  ],
+  [
+   -37.67,
+   31.0,
+   3.0,
+   4.4
+  ]
+ ],
+ "cafe_flush": 6.8
+}

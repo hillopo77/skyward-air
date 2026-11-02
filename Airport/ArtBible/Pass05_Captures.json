@@ -1,0 +1,39 @@
+{
+  "status": "SUCCESS",
+  "pass_id": 5,
+  "pass_name": "Passenger amenities, lounge, cafe and furnished gates",
+  "captures": [
+    {
+      "file": "Pass05_01_Entrance.png",
+      "sha256": "e3481ca8efd2e51d8eb62ea0a3ec7f7acde6e6bffa29876c67804d9f43f16706",
+      "camera": "01_Entrance"
+    },
+    {
+      "file": "Pass05_03_Security.png",
+      "sha256": "73f0fba8ee3b299d1f8463294d5db4e49c185dfb1b77705605c7175c6d07ebac",
+      "camera": "03_Security"
+    },
+    {
+      "file": "Pass05_06_Gate.png",
+      "sha256": "a52ca5d1e2a89a125aad428f86eeecdbc9a9a2010a4aebecc1dd4e2acecb1b17",
+      "camera": "06_Gate"
+    },
+    {
+      "file": "Pass05_05_Concourse.png",
+      "sha256": "8379e4af5f3a51f7698a2a3192a4a93ad926c912fd4f3b170896d82a65517886",
+      "camera": "05_Concourse"
+    },
+    {
+      "file": "Pass05_12_Cafe.png",
+      "sha256": "fd82318a8452c4fa598855c206c55495bd521d2d7c4d81729668ade0f09d01b6",
+      "camera": "12_Cafe"
+    },
+    {
+      "file": "Pass05_08_Lounge.png",
+      "sha256": "f6c6dfabb4ebc246d96d59f5b9438ac6e381d04e559f9f42f2496616a711a29e",
+      "camera": "08_Lounge"
+    }
+  ],
+  "runtime_sha256": "cb71573c3626e1e41e1d4ff77d8698cde23dea7052d46f92f1a550abec8d3cdc",
+  "native_bodies": 0
+}

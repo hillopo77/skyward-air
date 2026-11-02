@@ -1,0 +1,142 @@
+{
+  "SM_Plane_OuterWindowBarrel": [
+    [
+      -0.8,
+      [
+        2.583895206451416,
+        "Continuous circular belly painted BluePaint08"
+      ]
+    ],
+    [
+      -0.5,
+      [
+        2.742392063140869,
+        "Continuous circular belly painted BluePaint08"
+      ]
+    ],
+    [
+      -0.4,
+      [
+        2.7869739532470703,
+        "Continuous circular belly painted BluePaint08"
+      ]
+    ],
+    [
+      -0.3,
+      null
+    ],
+    [
+      -0.2,
+      null
+    ],
+    [
+      0,
+      null
+    ],
+    [
+      1.4,
+      null
+    ],
+    [
+      2.2,
+      [
+        2.7869277000427246,
+        "Curved pressure skin with actual aperture.001 painted Paint08"
+      ]
+    ],
+    [
+      2.6,
+      [
+        2.5838146209716797,
+        "Curved pressure skin with actual aperture.001 painted Paint08"
+      ]
+    ],
+    [
+      2.8,
+      [
+        2.4541807174682617,
+        "Continuous circular crown"
+      ]
+    ],
+    [
+      3.0,
+      [
+        2.3010873794555664,
+        "Continuous circular crown"
+      ]
+    ]
+  ],
+  "SM_Plane_DoorBay07": [
+    [
+      -0.8,
+      [
+        2.583895206451416,
+        "Continuous circular belly.001 painted BluePaint08"
+      ]
+    ],
+    [
+      -0.5,
+      [
+        2.742392063140869,
+        "Continuous circular belly.001 painted BluePaint08"
+      ]
+    ],
+    [
+      -0.4,
+      [
+        2.7869739532470703,
+        "Curved pressure skin with actual aperture.003 painted BluePaint08"
+      ]
+    ],
+    [
+      -0.3,
+      [
+        2.8273754119873047,
+        "Curved pressure skin with actual aperture.003 painted BluePaint08"
+      ]
+    ],
+    [
+      -0.2,
+      [
+        2.864076614379883,
+        "Curved pressure skin with actual aperture.003 painted BluePaint08"
+      ]
+    ],
+    [
+      0,
+      [
+        2.926866054534912,
+        "Curved pressure skin with actual aperture.003 painted LiveryGold"
+      ]
+    ],
+    [
+      1.4,
+      null
+    ],
+    [
+      2.2,
+      [
+        2.7868990898132324,
+        "Curved pressure skin with actual aperture.003 painted Paint08"
+      ]
+    ],
+    [
+      2.6,
+      null
+    ],
+    [
+      2.8,
+      [
+        2.4541807174682617,
+        "Continuous circular crown.001"
+      ]
+    ],
+    [
+      3.0,
+      [
+        2.3010873794555664,
+        "Continuous circular crown.001"
+      ]
+    ]
+  ]
+}

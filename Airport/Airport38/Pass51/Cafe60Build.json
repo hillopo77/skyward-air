@@ -1,0 +1,35 @@
+{
+ "status": "SUCCESS",
+ "asset": "SM_AP_P60Cafe",
+ "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\CafeBuild\\SM_AP_P60Cafe.fbx",
+ "materials": [
+  "MI_AP_P43TOak",
+  "MI_AP_P27Walnut",
+  "MI_AP_P27Teal",
+  "MI_AP_P38ANavy",
+  "MI_AP_P27Steel",
+  "MI_AP_P36Black",
+  "MI_AP_P38AGold",
+  "MI_AP_P51SignGlow",
+  "MI_AP_P51Soffit",
+  "MI_AP_P34Carpet",
+  "MI_AP_P36Terracotta",
+  "MI_AP_P34Cream",
+  "MI_AP_P38ASage",
+  "MI_AP_Leaf",
+  "MI_AP_LightLeaf",
+  "MI_AP_P36Sand",
+  "MI_AP_P38AText"
+ ],
+ "polygons": 76704,
+ "trees": [
+  [
+   -48.35,
+   16.85
+  ],
+  [
+   -48.35,
+   19.9
+  ]
+ ]
+}

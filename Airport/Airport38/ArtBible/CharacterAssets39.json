@@ -1,0 +1,877 @@
+{
+  "status": "SUCCESS",
+  "started": 1793307659.918418,
+  "import": {
+    "status": "ASSETS_IMPORTED",
+    "characters": 11,
+    "animations": 7
+  },
+  "finished": 1793307715.0928242,
+  "lods": {
+    "status": "GENERATED_COUNTS_VERIFIED_REQUIRES_NATIVE_VISUAL_FPS",
+    "assets": [
+      {
+        "asset": "/Game/Characters39/Meshes/SK_CH39_PlayerBlue",
+        "vertices_by_lod": [
+          67010,
+          27545,
+          15271,
+          8659
+        ],
+        "base_vertices_unchanged": true,
+        "settings": "/Game/Characters39/LODSettings/LOD39_PlayerBlue.LOD39_PlayerBlue",
+        "morphs": [
+          "Blink",
+          "LookLeft",
+          "LookRight",
+          "SeatFit_Seated",
+          "SeatFit_CafeSeated",
+          "SeatFit_CabinSeated",
+          "SeatFit_LuxurySeated"
+        ],
+        "ratios": [
+          1.0,
+          0.41105805103715864,
+          0.2278913594985823,
+          0.12921951947470528
+        ]
+      },
+      {
+        "asset": "/Game/Characters39/Meshes/SK_CH39_PassengerHoodie",
+        "vertices_by_lod": [
+          81399,
+          33292,
+          18343,
+          10382
+        ],
+        "base_vertices_unchanged": true,
+        "settings": "/Game/Characters39/LODSettings/LOD39_PassengerHoodie.LOD39_PassengerHoodie",
+        "morphs": [
+          "Blink",
+          "LookLeft",
+          "LookRight",
+          "SeatFit_Seated",
+          "SeatFit_CafeSeated",
+          "SeatFit_CabinSeated",
+          "SeatFit_LuxurySeated"
+        ],
+        "ratios": [
+          1.0,
+          0.4089976535338272,
+          0.2253467487315569,
+          0.12754456442953846
+        ]
+      },
+      {
+        "asset": "/Game/Characters39/Meshes/SK_CH39_PassengerTourist",
+        "vertices_by_lod": [
+          79799,
+          32673,
+          18000,
+          10214
+        ],
+        "base_vertices_unchanged": true,
+        "settings": "/Game/Characters39/LODSettings/LOD39_PassengerTourist.LOD39_PassengerTourist",
+        "morphs": [
+          "Blink",
+          "LookLeft",
+          "LookRight",
+          "SeatFit_Seated",
+          "SeatFit_CafeSeated",
+          "SeatFit_CabinSeated",
+          "SeatFit_LuxurySeated"
+        ],
+        "ratios": [
+          1.0,
+          0.4094412210679332,
+          0.22556673642526848,
+          0.1279965914359829
+        ]
+      },
+      {
+        "asset": "/Game/Characters39/Meshes/SK_CH39_PassengerCrew",
+        "vertices_by_lod": [
+          79701,
+          32695,
+          18023,
+          10207
+        ],
+        "base_vertices_unchanged": true,
+        "settings": "/Game/Characters39/LODSettings/LOD39_PassengerCrew.LOD39_PassengerCrew",
+        "morphs": [
+          "Blink",
+          "LookLeft",
+          "LookRight",
+          "SeatFit_Seated",
+          "SeatFit_CafeSeated",
+          "SeatFit_CabinSeated",
+          "SeatFit_LuxurySeated"
+        ],
+        "ratios": [
+          1.0,
+          0.4102206998657482,
+          0.22613267085732927,
+          0.1280661472252544
+        ]
+      },
+      {
+        "asset": "/Game/Characters39/Meshes/SK_CH39_PassengerSenior",
+        "vertices_by_lod": [
+          79351,
+          32544,
+          17953,
+          10147
+        ],
+        "base_vertices_unchanged": true,
+        "settings": "/Game/Characters39/LODSettings/LOD39_PassengerSenior.LOD39_PassengerSenior",
+        "morphs": [
+          "Blink",
+          "LookLeft",
+          "LookRight",
+          "SeatFit_Seated",
+          "SeatFit_CafeSeated",
+          "SeatFit_CabinSeated",
+          "SeatFit_LuxurySeated"
+        ],
+        "ratios": [
+          1.0,
+          0.4101271565575733,
+          0.2262479363839145,
+          0.12787488500459981
+        ]
+      },
+      {
+        "asset": "/Game/Characters39/Meshes/SK_CH39_SecurityGuard",
+        "vertices_by_lod": [
+          79735,
+          30412,
+          15406,
+          7784
+        ],
+        "base_vertices_unchanged": true,
+        "settings": "/Game/Characters39/LODSettings/LOD39_SecurityGuard.LOD39_SecurityGuard",
+        "morphs": [
+          "Blink",
+          "LookLeft",
+          "LookRight",
+          "SeatFit_Seated",
+          "SeatFit_CafeSeated",
+          "SeatFit_CabinSeated",
+          "SeatFit_LuxurySeated"
+        ],
+        "ratios": [
+          1.0,
+          0.3814134319934784,
+          0.19321502476954913,
+          0.09762337743776259
+        ]
+      },
+      {
+        "asset": "/Game/Characters39/Meshes/SK_CH39_PlayerYellow",
+        "vertices_by_lod": [
+          67010,
+          27545,
+          15271,
+          8659
+        ],
+        "base_vertices_unchanged": true,
+        "settings": "/Game/Characters39/LODSettings/LOD39_PlayerYellow.LOD39_PlayerYellow",
+        "morphs": [
+          "Blink",
+          "LookLeft",
+          "LookRight",
+          "SeatFit_Seated",
+          "SeatFit_CafeSeated",
+          "SeatFit_CabinSeated",
+          "SeatFit_LuxurySeated"
+        ],
+        "ratios": [
+          1.0,
+          0.41105805103715864,
+          0.2278913594985823,
+          0.12921951947470528
+        ]
+      },
+      {
+        "asset": "/Game/Characters39/Meshes/SK_CH39_PlayerRed",
+        "vertices_by_lod": [
+          67010,
+          27545,
+          15271,
+          8659
+        ],
+        "base_vertices_unchanged": true,
+        "settings": "/Game/Characters39/LODSettings/LOD39_PlayerRed.LOD39_PlayerRed",
+        "morphs": [
+          "Blink",
+          "LookLeft",
+          "LookRight",
+          "SeatFit_Seated",
+          "SeatFit_CafeSeated",
+          "SeatFit_CabinSeated",
+          "SeatFit_LuxurySeated"
+        ],
+        "ratios": [
+          1.0,
+          0.41105805103715864,
+          0.2278913594985823,
+          0.12921951947470528
+        ]
+      },
+      {
+        "asset": "/Game/Characters39/Meshes/SK_CH39_PlayerGreen",
+        "vertices_by_lod": [
+          67010,
+          27545,
+          15271,
+          8659
+        ],
+        "base_vertices_unchanged": true,
+        "settings": "/Game/Characters39/LODSettings/LOD39_PlayerGreen.LOD39_PlayerGreen",
+        "morphs": [
+          "Blink",
+          "LookLeft",
+          "LookRight",
+          "SeatFit_Seated",
+          "SeatFit_CafeSeated",
+          "SeatFit_CabinSeated",
+          "SeatFit_LuxurySeated"
+        ],
+        "ratios": [
+          1.0,
+          0.41105805103715864,
+          0.2278913594985823,
+          0.12921951947470528
+        ]
+      },
+      {
+        "asset": "/Game/Characters39/Meshes/SK_CH39_PlayerPurple",
+        "vertices_by_lod": [
+          67010,
+          27545,
+          15271,
+          8659
+        ],
+        "base_vertices_unchanged": true,
+        "settings": "/Game/Characters39/LODSettings/LOD39_PlayerPurple.LOD39_PlayerPurple",
+        "morphs": [
+          "Blink",
+          "LookLeft",
+          "LookRight",
+          "SeatFit_Seated",
+          "SeatFit_CafeSeated",
+          "SeatFit_CabinSeated",
+          "SeatFit_LuxurySeated"
+        ],
+        "ratios": [
+          1.0,
+          0.41105805103715864,
+          0.2278913594985823,
+          0.12921951947470528
+        ]
+      }
+    ],
+    "plan": [
+      {
+        "ratio": 1.0,
+        "screen_size": 1.0
+      },
+      {
+        "ratio": 0.38,
+        "screen_size": 0.42
+      },
+      {
+        "ratio": 0.14,
+        "screen_size": 0.18
+      },
+      {
+        "ratio": 0.06,
+        "screen_size": 0.075
+      }
+    ],
+    "behavior": "LOD0 untouched; morphs remapped, no bones removed, volume1, seam edges retained, face/hand bones prioritized; actual counts verified below",
+    "limits": "Count reduction is not native visual/FPS validation. Root must inspect LOD transitions, faces/blink and seated silhouettes.",
+    "seconds": 656.541919708252
+  },
+  "guard_uv39": {
+    "status": "REIMPORTED_GUARD_PRIMARY_UV_REQUIRES_NATIVE_LOG_AND_MORPH_QA",
+    "asset": "/Game/Characters39/Meshes/SK_CH39_SecurityGuard",
+    "import_fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Characters\\Revision39\\Exports\\ImportAdapters\\SK_CH39_SecurityGuard_UVPrimary39.fbx",
+    "adapter": {
+      "status": "METADATA_COPY_VERIFIED_REQUIRES_NATIVE_REIMPORT_LOD_QA",
+      "source_fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Characters\\Revision39\\Exports\\FBX\\SK_CH39_SecurityGuard.fbx",
+      "source_fbx_sha256": "3b00a7c1ccd9267e7bd9d4b9b0714e3894bb23a4f4e1fde3872a83696af59810",
+      "import_fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Characters\\Revision39\\Exports\\ImportAdapters\\SK_CH39_SecurityGuard_UVPrimary39.fbx",
+      "import_fbx_sha256": "de91377928f8ce92143b86dce577f7034c49355d85f61011a2ea5533cb2da6ef",
+      "changes": [
+        {
+          "layer": 0,
+          "before": "UVMap",
+          "after": "UVChannel_2"
+        },
+        {
+          "layer": 1,
+          "before": "UV0",
+          "after": "UVChannel_1"
+        }
+      ],
+      "authored_primary_sections": [
+        {
+          "material_index": 0,
+          "material": "CH39_DarkSkin",
+          "bounds": [
+            0.1771990805864334,
+            0.3544522821903229,
+            0.822800874710083,
+            0.9368863701820374
+          ],
+          "half_extent": [
+            0.3228008970618248,
+            0.29121704399585724
+          ]
+        },
+        {
+          "material_index": 1,
+          "material": "CH39_Security",
+          "bounds": [
+            0.18213853240013123,
+            0.3836997151374817,
+            0.8178384900093079,
+            0.9494817852973938
+          ],
+          "half_extent": [
+            0.3178499788045883,
+            0.28289103507995605
+          ]
+        },
+        {
+          "material_index": 2,
+          "material": "CH39_Navy",
+          "bounds": [
+            0.3157118856906891,
+            0.050124697387218475,
+            0.684288740158081,
+            0.46616631746292114
+          ],
+          "half_extent": [
+            0.18428842723369598,
+            0.20802081003785133
+          ]
+        },
+        {
+          "material_index": 3,
+          "material": "CH39_Leather",
+          "bounds": [
+            0.3412315547466278,
+            0.00832018069922924,
+            0.6587684750556946,
+            0.07872596383094788
+          ],
+          "half_extent": [
+            0.1587684601545334,
+            0.03520289156585932
+          ]
+        },
+        {
+          "material_index": 4,
+          "material": "CH39_Rubber",
+          "bounds": [
+            0.3108333349227905,
+            0.0024619679898023605,
+            0.6891666650772095,
+            0.920047402381897
+          ],
+          "half_extent": [
+            0.18916666507720947,
+            0.4587927171960473
+          ]
+        },
+        {
+          "material_index": 5,
+          "material": "CH39_Sole",
+          "bounds": [
+            0.3726229667663574,
+            0.06239691749215126,
+            0.6273770332336426,
+            0.06908808648586273
+          ],
+          "half_extent": [
+            0.12737703323364258,
+            0.0033455844968557358
+          ]
+        },
+        {
+          "material_index": 6,
+          "material": "CH39_Ivory",
+          "bounds": [
+            0.42743054032325745,
+            0.45923686027526855,
+            0.5955133438110352,
+            0.6510494351387024
+          ],
+          "half_extent": [
+            0.08404140174388885,
+            0.09590628743171692
+          ]
+        },
+        {
+          "material_index": 7,
+          "material": "CH39_Gold",
+          "bounds": [
+            0.3916666805744171,
+            0.5679000020027161,
+            0.4333333373069763,
+            0.5982473492622375
+          ],
+          "half_extent": [
+            0.020833328366279602,
+            0.015173673629760742
+          ]
+        },
+        {
+          "material_index": 8,
+          "material": "CH39_Metal",
+          "bounds": [
+            0.4820833206176758,
+            0.44283947348594666,
+            0.6970833539962769,
+            0.4979052245616913
+          ],
+          "half_extent": [
+            0.10750001668930054,
+            0.027532875537872314
+          ]
+        },
+        {
+          "material_index": 9,
+          "material": "CH39_Radio",
+          "bounds": [
+            0.36500000953674316,
+            0.45605525374412537,
+            0.7045833468437195,
+            0.6183158159255981
+          ],
+          "half_extent": [
+            0.16979166865348816,
+            0.08113028109073639
+          ]
+        },
+        {
+          "material_index": 10,
+          "material": "CH39_Mouth",
+          "bounds": [
+            0.304833322763443,
+            0.7247070670127869,
+            0.6951666474342346,
+            0.7902947068214417
+          ],
+          "half_extent": [
+            0.1951666623353958,
+            0.03279381990432739
+          ]
+        },
+        {
+          "material_index": 11,
+          "material": "CH39_Eye",
+          "bounds": [
+            0.3383333384990692,
+            0.7710895538330078,
+            0.6616666913032532,
+            0.8732051849365234
+          ],
+          "half_extent": [
+            0.16166667640209198,
+            0.05105781555175781
+          ]
+        },
+        {
+          "material_index": 12,
+          "material": "CH39_Pupil",
+          "bounds": [
+            0.4008333384990692,
+            0.8043474555015564,
+            0.5991666913032532,
+            0.8296419978141785
+          ],
+          "half_extent": [
+            0.09916667640209198,
+            0.012647271156311035
+          ]
+        },
+        {
+          "material_index": 13,
+          "material": "CH39_BlackHair",
+          "bounds": [
+            0.31261515617370605,
+            0.8239418864250183,
+            0.6765133738517761,
+            0.9576414823532104
+          ],
+          "half_extent": [
+            0.18194910883903503,
+            0.06684979796409607
+          ]
+        }
+      ],
+      "semantic_objects_sha256": "a5c1248df3d0f883d732731a187715e29668aea3e7a7385b5633a1edebf309ca",
+      "semantic_connections_sha256": "13c41ffc632ead939a702eed2cfc8b6d408461c03db4fb02821ccb6d16e34a13",
+      "exact_payload_preserved": "All FBX Objects/Connections values and arrays identical after ONLY the two UV-set name changes; writer header timestamp encoding may differ.",
+      "engine_rule": "FbxSkeletalMeshImport.cpp3315..3336: name UVChannel_1 selects primary coordinate set; LODUtilities.cpp1176 tests section UV0 extent.",
+      "source_policy": "Original frozen FBX, blend, vertex positions, topology, normals, skin weights, morph arrays, material slots and animation files untouched."
+    },
+    "before_bounds_cm": {
+      "origin": [
+        -1.9073486328125e-06,
+        8.198585510253906,
+        91.20982384681702
+      ],
+      "extent": [
+        38.73610877990723,
+        26.498584747314453,
+        90.74204993247986
+      ],
+      "radius": 92.3877056780657
+    },
+    "before_vertices_by_lod": [
+      78017,
+      29544,
+      11030,
+      4811
+    ],
+    "after_bounds_cm": {
+      "origin": [
+        -1.9073486328125e-06,
+        8.198585510253906,
+        91.20982384681702
+      ],
+      "extent": [
+        38.73610877990723,
+        26.498584747314453,
+        90.74204993247986
+      ],
+      "radius": 92.3877056780657
+    },
+    "maximum_bound_error_cm": 0.0,
+    "skeleton": "/Game/Characters39/Meshes/SKEL_Character39.SKEL_Character39",
+    "morphs": [
+      "Blink",
+      "LookLeft",
+      "LookRight",
+      "SeatFit_CabinSeated",
+      "SeatFit_CafeSeated",
+      "SeatFit_LuxurySeated",
+      "SeatFit_Seated"
+    ],
+    "material_slots": [
+      "CH39_DarkSkin",
+      "CH39_Security",
+      "CH39_Navy",
+      "CH39_Leather",
+      "CH39_Rubber",
+      "CH39_Sole",
+      "CH39_Ivory",
+      "CH39_Gold",
+      "CH39_Metal",
+      "CH39_Radio",
+      "CH39_Mouth",
+      "CH39_Eye",
+      "CH39_Pupil",
+      "CH39_BlackHair"
+    ],
+    "only_asset_mutated": "/Game/Characters39/Meshes/SK_CH39_SecurityGuard",
+    "lod_result": {
+      "status": "GENERATED_COUNTS_VERIFIED_REQUIRES_NATIVE_VISUAL_FPS",
+      "assets": [
+        {
+          "asset": "/Game/Characters39/Meshes/SK_CH39_PlayerBlue",
+          "vertices_by_lod": [
+            67010,
+            27545,
+            15271,
+            8659
+          ],
+          "base_vertices_unchanged": true,
+          "settings": "/Game/Characters39/LODSettings/LOD39_PlayerBlue.LOD39_PlayerBlue",
+          "morphs": [
+            "Blink",
+            "LookLeft",
+            "LookRight",
+            "SeatFit_Seated",
+            "SeatFit_CafeSeated",
+            "SeatFit_CabinSeated",
+            "SeatFit_LuxurySeated"
+          ],
+          "ratios": [
+            1.0,
+            0.41105805103715864,
+            0.2278913594985823,
+            0.12921951947470528
+          ]
+        },
+        {
+          "asset": "/Game/Characters39/Meshes/SK_CH39_PassengerHoodie",
+          "vertices_by_lod": [
+            81399,
+            33292,
+            18343,
+            10382
+          ],
+          "base_vertices_unchanged": true,
+          "settings": "/Game/Characters39/LODSettings/LOD39_PassengerHoodie.LOD39_PassengerHoodie",
+          "morphs": [
+            "Blink",
+            "LookLeft",
+            "LookRight",
+            "SeatFit_Seated",
+            "SeatFit_CafeSeated",
+            "SeatFit_CabinSeated",
+            "SeatFit_LuxurySeated"
+          ],
+          "ratios": [
+            1.0,
+            0.4089976535338272,
+            0.2253467487315569,
+            0.12754456442953846
+          ]
+        },
+        {
+          "asset": "/Game/Characters39/Meshes/SK_CH39_PassengerTourist",
+          "vertices_by_lod": [
+            79799,
+            32673,
+            18000,
+            10214
+          ],
+          "base_vertices_unchanged": true,
+          "settings": "/Game/Characters39/LODSettings/LOD39_PassengerTourist.LOD39_PassengerTourist",
+          "morphs": [
+            "Blink",
+            "LookLeft",
+            "LookRight",
+            "SeatFit_Seated",
+            "SeatFit_CafeSeated",
+            "SeatFit_CabinSeated",
+            "SeatFit_LuxurySeated"
+          ],
+          "ratios": [
+            1.0,
+            0.4094412210679332,
+            0.22556673642526848,
+            0.1279965914359829
+          ]
+        },
+        {
+          "asset": "/Game/Characters39/Meshes/SK_CH39_PassengerCrew",
+          "vertices_by_lod": [
+            79701,
+            32695,
+            18023,
+            10207
+          ],
+          "base_vertices_unchanged": true,
+          "settings": "/Game/Characters39/LODSettings/LOD39_PassengerCrew.LOD39_PassengerCrew",
+          "morphs": [
+            "Blink",
+            "LookLeft",
+            "LookRight",
+            "SeatFit_Seated",
+            "SeatFit_CafeSeated",
+            "SeatFit_CabinSeated",
+            "SeatFit_LuxurySeated"
+          ],
+          "ratios": [
+            1.0,
+            0.4102206998657482,
+            0.22613267085732927,
+            0.1280661472252544
+          ]
+        },
+        {
+          "asset": "/Game/Characters39/Meshes/SK_CH39_PassengerSenior",
+          "vertices_by_lod": [
+            79351,
+            32544,
+            17953,
+            10147
+          ],
+          "base_vertices_unchanged": true,
+          "settings": "/Game/Characters39/LODSettings/LOD39_PassengerSenior.LOD39_PassengerSenior",
+          "morphs": [
+            "Blink",
+            "LookLeft",
+            "LookRight",
+            "SeatFit_Seated",
+            "SeatFit_CafeSeated",
+            "SeatFit_CabinSeated",
+            "SeatFit_LuxurySeated"
+          ],
+          "ratios": [
+            1.0,
+            0.4101271565575733,
+            0.2262479363839145,
+            0.12787488500459981
+          ]
+        },
+        {
+          "asset": "/Game/Characters39/Meshes/SK_CH39_PlayerYellow",
+          "vertices_by_lod": [
+            67010,
+            27545,
+            15271,
+            8659
+          ],
+          "base_vertices_unchanged": true,
+          "settings": "/Game/Characters39/LODSettings/LOD39_PlayerYellow.LOD39_PlayerYellow",
+          "morphs": [
+            "Blink",
+            "LookLeft",
+            "LookRight",
+            "SeatFit_Seated",
+            "SeatFit_CafeSeated",
+            "SeatFit_CabinSeated",
+            "SeatFit_LuxurySeated"
+          ],
+          "ratios": [
+            1.0,
+            0.41105805103715864,
+            0.2278913594985823,
+            0.12921951947470528
+          ]
+        },
+        {
+          "asset": "/Game/Characters39/Meshes/SK_CH39_PlayerRed",
+          "vertices_by_lod": [
+            67010,
+            27545,
+            15271,
+            8659
+          ],
+          "base_vertices_unchanged": true,
+          "settings": "/Game/Characters39/LODSettings/LOD39_PlayerRed.LOD39_PlayerRed",
+          "morphs": [
+            "Blink",
+            "LookLeft",
+            "LookRight",
+            "SeatFit_Seated",
+            "SeatFit_CafeSeated",
+            "SeatFit_CabinSeated",
+            "SeatFit_LuxurySeated"
+          ],
+          "ratios": [
+            1.0,
+            0.41105805103715864,
+            0.2278913594985823,
+            0.12921951947470528
+          ]
+        },
+        {
+          "asset": "/Game/Characters39/Meshes/SK_CH39_PlayerGreen",
+          "vertices_by_lod": [
+            67010,
+            27545,
+            15271,
+            8659
+          ],
+          "base_vertices_unchanged": true,
+          "settings": "/Game/Characters39/LODSettings/LOD39_PlayerGreen.LOD39_PlayerGreen",
+          "morphs": [
+            "Blink",
+            "LookLeft",
+            "LookRight",
+            "SeatFit_Seated",
+            "SeatFit_CafeSeated",
+            "SeatFit_CabinSeated",
+            "SeatFit_LuxurySeated"
+          ],
+          "ratios": [
+            1.0,
+            0.41105805103715864,
+            0.2278913594985823,
+            0.12921951947470528
+          ]
+        },
+        {
+          "asset": "/Game/Characters39/Meshes/SK_CH39_PlayerPurple",
+          "vertices_by_lod": [
+            67010,
+            27545,
+            15271,
+            8659
+          ],
+          "base_vertices_unchanged": true,
+          "settings": "/Game/Characters39/LODSettings/LOD39_PlayerPurple.LOD39_PlayerPurple",
+          "morphs": [
+            "Blink",
+            "LookLeft",
+            "LookRight",
+            "SeatFit_Seated",
+            "SeatFit_CafeSeated",
+            "SeatFit_CabinSeated",
+            "SeatFit_LuxurySeated"
+          ],
+          "ratios": [
+            1.0,
+            0.41105805103715864,
+            0.2278913594985823,
+            0.12921951947470528
+          ]
+        },
+        {
+          "asset": "/Game/Characters39/Meshes/SK_CH39_SecurityGuard",
+          "vertices_by_lod": [
+            83656,
+            33984,
+            14822,
+            7258
+          ],
+          "base_vertices_unchanged": true,
+          "settings": "/Game/Characters39/LODSettings/LOD39_SecurityGuard.LOD39_SecurityGuard",
+          "morphs": [
+            "Blink",
+            "LookLeft",
+            "LookRight",
+            "SeatFit_Seated",
+            "SeatFit_CafeSeated",
+            "SeatFit_CabinSeated",
+            "SeatFit_LuxurySeated"
+          ],
+          "ratios": [
+            1.0,
+            0.40623505785598163,
+            0.1771779669121163,
+            0.08676006502821076
+          ]
+        }
+      ],
+      "plan": [
+        {
+          "ratio": 1.0,
+          "screen_size": 1.0
+        },
+        {
+          "ratio": 0.38,
+          "screen_size": 0.42
+        },
+        {
+          "ratio": 0.14,
+          "screen_size": 0.18
+        },
+        {
+          "ratio": 0.06,
+          "screen_size": 0.075
+        }
+      ],
+      "behavior": "LOD0 untouched; morphs remapped, no bones removed, volume1, seam edges retained, face/hand bones prioritized; actual counts verified below",
+      "limits": "Count reduction is not native visual/FPS validation. Root must inspect LOD transitions, faces/blink and seated silhouettes.",
+      "seconds": 35.353081464767456
+    },
+    "seconds": 55.004904985427856,
+    "after_vertices_by_lod": [
+      83656,
+      33984,
+      14822,
+      7258
+    ],
+    "note": "Authored UV0 promoted through verified Unreal UVChannel_1 naming. Inspect latest LOD log for absence of UV remap warning and inspect blinking/seated morphs at reduced levels. Vertex counts may change because UV corner splits are now correct; source geometry is identical."
+  }
+}

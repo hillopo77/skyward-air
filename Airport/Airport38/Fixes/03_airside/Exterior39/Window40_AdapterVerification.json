@@ -1,0 +1,17 @@
+{
+  "scope": "Offline API contract only; no native engine launch",
+  "passed": true,
+  "native_targets": 198,
+  "source_asset_families": 10,
+  "unrelated_airframe_gear_untouched": true,
+  "native_transform_preservation": true,
+  "native_repeat_safe": true,
+  "curved_mechanisms": 48,
+  "curved_parts": 240,
+  "carrier_conversion_checked_states": [
+    0,
+    0.5,
+    1
+  ],
+  "runtime_repeat_safe": true
+}

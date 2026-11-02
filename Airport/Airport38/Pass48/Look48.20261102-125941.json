@@ -1,0 +1,122 @@
+{
+ "status": "SUCCESS",
+ "airside": null,
+ "captures": [
+  {
+   "name": "S71_sec_entry",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\S71_sec_entry.png"
+  },
+  {
+   "name": "S71_sec_feature",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\S71_sec_feature.png"
+  },
+  {
+   "name": "S71_sec_wall",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\S71_sec_wall.png"
+  },
+  {
+   "name": "S71_sec_blade",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\S71_sec_blade.png"
+  },
+  {
+   "name": "S71_sec_lane",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\S71_sec_lane.png"
+  },
+  {
+   "name": "S71_sec_tunnel",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\S71_sec_tunnel.png"
+  },
+  {
+   "name": "S71_sec_north",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\S71_sec_north.png"
+  },
+  {
+   "name": "S71_sec_back",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\S71_sec_back.png"
+  },
+  {
+   "name": "S71_sec_bench",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\S71_sec_bench.png"
+  },
+  {
+   "name": "S71_wc_entry",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\S71_wc_entry.png"
+  },
+  {
+   "name": "S71_wc_vanity",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\S71_wc_vanity.png"
+  },
+  {
+   "name": "S71_wc_basin",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\S71_wc_basin.png"
+  },
+  {
+   "name": "S71_wc_fronts",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\S71_wc_fronts.png"
+  },
+  {
+   "name": "S71_wc_east",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\S71_wc_east.png"
+  },
+  {
+   "name": "S71_wc_west",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\S71_wc_west.png"
+  },
+  {
+   "name": "S71_wc_cubicle",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\S71_wc_cubicle.png"
+  },
+  {
+   "name": "S71_wcp_n",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\S71_wcp_n.png"
+  },
+  {
+   "name": "S71_wcp_s",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\S71_wcp_s.png"
+  },
+  {
+   "name": "S71_wcp_bench",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\S71_wcp_bench.png"
+  },
+  {
+   "name": "E71_ext0",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\E71_ext0.png"
+  },
+  {
+   "name": "E71_ext0_side",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\E71_ext0_side.png"
+  },
+  {
+   "name": "E71_ext1",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\E71_ext1.png"
+  },
+  {
+   "name": "E71_ext1_side",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\E71_ext1_side.png"
+  },
+  {
+   "name": "E71_ext2",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\E71_ext2.png"
+  },
+  {
+   "name": "E71_ext2_side",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\E71_ext2_side.png"
+  },
+  {
+   "name": "E71_ext3",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\E71_ext3.png"
+  },
+  {
+   "name": "E71_ext3_side",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\E71_ext3_side.png"
+  },
+  {
+   "name": "E71_ext4",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\E71_ext4.png"
+  },
+  {
+   "name": "E71_ext4_side",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\S71\\E71_ext4_side.png"
+  }
+ ]
+}

@@ -1,0 +1,142 @@
+{
+  "status": "SUCCESS",
+  "step": 9,
+  "total": 9,
+  "captures": [
+    {
+      "name": "E1_elbow_outer_inside",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\E1_elbow_outer_inside.png",
+      "eye": [
+        -1.6,
+        -3.4,
+        1.5
+      ],
+      "target": [
+        -2.3,
+        -4.8,
+        0.15
+      ],
+      "sha256": "caaefe80a06866b91916b065d9dd48cfa6356021a6132df2a1e3357939a32515"
+    },
+    {
+      "name": "E2_elbow_outer_low",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\E2_elbow_outer_low.png",
+      "eye": [
+        -1.6,
+        -3.8,
+        0.55
+      ],
+      "target": [
+        -2.4,
+        -4.75,
+        0.05
+      ],
+      "sha256": "2a96da68c1cd78428c92994aaecf736a467678985470e7bc09fc23ac40b8bcde"
+    },
+    {
+      "name": "E3_elbow_outer_exterior",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\E3_elbow_outer_exterior.png",
+      "eye": [
+        -3.2,
+        -8.0,
+        1.2
+      ],
+      "target": [
+        -1.9,
+        -4.55,
+        0.1
+      ],
+      "sha256": "45a55644939d4b3f2b2d36aac3d9a21c33d5d8b843621f0422be247365e4c1dc"
+    },
+    {
+      "name": "E4_elbow_outer_under",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\E4_elbow_outer_under.png",
+      "eye": [
+        -1.0,
+        -7.0,
+        -1.8
+      ],
+      "target": [
+        -2.0,
+        -4.6,
+        0.0
+      ],
+      "sha256": "26bd6e599e9e73a6eddce562916761b5f733518047fadf1391c00fdfd4378857"
+    },
+    {
+      "name": "E5_bankB_outer_corner",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\E5_bankB_outer_corner.png",
+      "eye": [
+        -0.2,
+        -3.6,
+        1.2
+      ],
+      "target": [
+        -1.2,
+        -4.7,
+        0.1
+      ],
+      "sha256": "ae968cd2c8a7e44ed581b9860c5ad4c6e82eea00139be22f5f8ad1105fc94158"
+    },
+    {
+      "name": "E6_bankB_inner_cab",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\E6_bankB_inner_cab.png",
+      "eye": [
+        8.6,
+        0.4,
+        1.5
+      ],
+      "target": [
+        10.0,
+        1.72,
+        0.2
+      ],
+      "sha256": "a1aa7d3dd92bd73731cb6e348fbd6ff58538b0f956be2644eef9d894e8de101d"
+    },
+    {
+      "name": "E7_cab_north",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\E7_cab_north.png",
+      "eye": [
+        11.6,
+        0.3,
+        1.5
+      ],
+      "target": [
+        10.8,
+        2.0,
+        0.25
+      ],
+      "sha256": "a301fce983c9b09eba64a54bd73490c2e42d037c8039520bd2d75c00c4163713"
+    },
+    {
+      "name": "E8_cab_north_exterior",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\E8_cab_north_exterior.png",
+      "eye": [
+        11.0,
+        4.5,
+        1.6
+      ],
+      "target": [
+        10.9,
+        1.95,
+        0.2
+      ],
+      "sha256": "76b4d1a89308964cab0665283605ff3737c12048c76cac23a4cc9196ef7de1c4"
+    },
+    {
+      "name": "E9_bridge_context",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\E9_bridge_context.png",
+      "eye": [
+        2.0,
+        -12.0,
+        6.0
+      ],
+      "target": [
+        -1.5,
+        -3.6,
+        0.5
+      ],
+      "sha256": "7ba67d885682889fa0ec8314d6231cac9015ebcee6b0e082471fc8eefe8bbcb9"
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "revision": "12",
+  "status": "SUCCESS",
+  "source_file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\Plane.blend",
+  "source_sha256": "718cd6c2845211682a6eac6057aed830bfcc02e185a01c5032b68cf2e8431000",
+  "checked_at_utc": "2026-10-24T18:45:04Z",
+  "method": "Current saved evaluated meshes; measured each fork against its actual nearest roller, matching gold channel side return and top web. No authoring helper imported or applied; no source saved.",
+  "checks": [
+    {
+      "test": "SM_Plane_SuiteDoor11_L contains both real bogie/wheel pairs and a hollow extrusion",
+      "passed": true,
+      "forks": 4,
+      "wheels": 2,
+      "side_returns": 2,
+      "top_webs": 1
+    },
+    {
+      "test": "SM_Plane_SuiteDoor11_L / DoorDetail11 roller bogie fork mounted cheek has measured wheel/channel clearance and retained top attachment",
+      "passed": true,
+      "asset": "SM_Plane_SuiteDoor11_L",
+      "fork": "DoorDetail11 roller bogie fork mounted cheek",
+      "actual_fork_x_m": [
+        -0.014000000432133675,
+        -0.010499999858438969
+      ],
+      "wheel": "Privacy leaf lower captive roller11",
+      "actual_wheel_x_m": [
+        -0.009999998845160007,
+        0.009999998845160007
+      ],
+      "side_return": "DoorDetail11 moving lower extrusion side return",
+      "actual_channel_return_x_m": [
+        -0.020999999716877937,
+        -0.014999998733401299
+      ],
+      "wheel_clearance_m": 0.0005000010132789612,
+      "channel_clearance_m": 0.000999998301267624,
+      "top_web_engagement_m": 0.001999996602535248,
+      "inside_14mm_channel_envelope": true
+    },
+    {
+      "test": "SM_Plane_SuiteDoor11_L / DoorDetail11 roller bogie fork mounted cheek.001 has measured wheel/channel clearance and retained top attachment",
+      "passed": true,
+      "asset": "SM_Plane_SuiteDoor11_L",
+      "fork": "DoorDetail11 roller bogie fork mounted cheek.001",
+      "actual_fork_x_m": [
+        0.010499999858438969,
+        0.014000000432133675
+      ],
+      "wheel": "Privacy leaf lower captive roller11",
+      "actual_wheel_x_m": [
+        -0.009999998845160007,
+        0.009999998845160007
+      ],
+      "side_return": "DoorDetail11 moving lower extrusion side return.001",
+      "actual_channel_return_x_m": [
+        0.014999998733401299,
+        0.020999999716877937
+      ],
+      "wheel_clearance_m": 0.0005000010132789612,
+      "channel_clearance_m": 0.000999998301267624,
+      "top_web_engagement_m": 0.001999996602535248,
+      "inside_14mm_channel_envelope": true
+    },
+    {
+      "test": "SM_Plane_SuiteDoor11_L / DoorDetail11 roller bogie fork mounted cheek.002 has measured wheel/channel clearance and retained top attachment",
+      "passed": true,
+      "asset": "SM_Plane_SuiteDoor11_L",
+      "fork": "DoorDetail11 roller bogie fork mounted cheek.002",
+      "actual_fork_x_m": [
+        -0.014000000432133675,
+        -0.010499999858438969
+      ],
+      "wheel": "Privacy leaf lower captive roller11.001",
+      "actual_wheel_x_m": [
+        -0.009999998845160007,
+        0.009999998845160007
+      ],
+      "side_return": "DoorDetail11 moving lower extrusion side return",
+      "actual_channel_return_x_m": [
+        -0.020999999716877937,
+        -0.014999998733401299
+      ],
+      "wheel_clearance_m": 0.0005000010132789612,
+      "channel_clearance_m": 0.000999998301267624,
+      "top_web_engagement_m": 0.001999996602535248,
+      "inside_14mm_channel_envelope": true
+    },
+    {
+      "test": "SM_Plane_SuiteDoor11_L / DoorDetail11 roller bogie fork mounted cheek.003 has measured wheel/channel clearance and retained top attachment",
+      "passed": true,
+      "asset": "SM_Plane_SuiteDoor11_L",
+      "fork": "DoorDetail11 roller bogie fork mounted cheek.003",
+      "actual_fork_x_m": [
+        0.010499999858438969,
+        0.014000000432133675
+      ],
+      "wheel": "Privacy leaf lower captive roller11.001",
+      "actual_wheel_x_m": [
+        -0.009999998845160007,
+        0.009999998845160007
+      ],
+      "side_return": "DoorDetail11 moving lower extrusion side return.001",
+      "actual_channel_return_x_m": [
+        0.014999998733401299,
+        0.020999999716877937
+      ],
+      "wheel_clearance_m": 0.0005000010132789612,
+      "channel_clearance_m": 0.000999998301267624,
+      "top_web_engagement_m": 0.001999996602535248,
+      "inside_14mm_channel_envelope": true
+    },
+    {
+      "test": "SM_Plane_SuiteDoor11_R contains both real bogie/wheel pairs and a hollow extrusion",
+      "passed": true,
+      "forks": 4,
+      "wheels": 2,
+      "side_returns": 2,
+      "top_webs": 1
+    },
+    {
+      "test": "SM_Plane_SuiteDoor11_R / DoorDetail11 roller bogie fork mounted cheek.004 has measured wheel/channel clearance and retained top attachment",
+      "passed": true,
+      "asset": "SM_Plane_SuiteDoor11_R",
+      "fork": "DoorDetail11 roller bogie fork mounted cheek.004",
+      "actual_fork_x_m": [
+        -0.014000000432133675,
+        -0.010499999858438969
+      ],
+      "wheel": "Privacy leaf lower captive roller11.002",
+      "actual_wheel_x_m": [
+        -0.009999998845160007,
+        0.009999998845160007
+      ],
+      "side_return": "DoorDetail11 moving lower extrusion side return.002",
+      "actual_channel_return_x_m": [
+        -0.020999999716877937,
+        -0.014999998733401299
+      ],
+      "wheel_clearance_m": 0.0005000010132789612,
+      "channel_clearance_m": 0.000999998301267624,
+      "top_web_engagement_m": 0.001999996602535248,
+      "inside_14mm_channel_envelope": true
+    },
+    {
+      "test": "SM_Plane_SuiteDoor11_R / DoorDetail11 roller bogie fork mounted cheek.005 has measured wheel/channel clearance and retained top attachment",
+      "passed": true,
+      "asset": "SM_Plane_SuiteDoor11_R",
+      "fork": "DoorDetail11 roller bogie fork mounted cheek.005",
+      "actual_fork_x_m": [
+        0.010499999858438969,
+        0.014000000432133675
+      ],
+      "wheel": "Privacy leaf lower captive roller11.002",
+      "actual_wheel_x_m": [
+        -0.009999998845160007,
+        0.009999998845160007
+      ],
+      "side_return": "DoorDetail11 moving lower extrusion side return.003",
+      "actual_channel_return_x_m": [
+        0.014999998733401299,
+        0.020999999716877937
+      ],
+      "wheel_clearance_m": 0.0005000010132789612,
+      "channel_clearance_m": 0.000999998301267624,
+      "top_web_engagement_m": 0.001999996602535248,
+      "inside_14mm_channel_envelope": true
+    },
+    {
+      "test": "SM_Plane_SuiteDoor11_R / DoorDetail11 roller bogie fork mounted cheek.006 has measured wheel/channel clearance and retained top attachment",
+      "passed": true,
+      "asset": "SM_Plane_SuiteDoor11_R",
+      "fork": "DoorDetail11 roller bogie fork mounted cheek.006",
+      "actual_fork_x_m": [
+        -0.014000000432133675,
+        -0.010499999858438969
+      ],
+      "wheel": "Privacy leaf lower captive roller11.003",
+      "actual_wheel_x_m": [
+        -0.009999998845160007,
+        0.009999998845160007
+      ],
+      "side_return": "DoorDetail11 moving lower extrusion side return.002",
+      "actual_channel_return_x_m": [
+        -0.020999999716877937,
+        -0.014999998733401299
+      ],
+      "wheel_clearance_m": 0.0005000010132789612,
+      "channel_clearance_m": 0.000999998301267624,
+      "top_web_engagement_m": 0.001999996602535248,
+      "inside_14mm_channel_envelope": true
+    },
+    {
+      "test": "SM_Plane_SuiteDoor11_R / DoorDetail11 roller bogie fork mounted cheek.007 has measured wheel/channel clearance and retained top attachment",
+      "passed": true,
+      "asset": "SM_Plane_SuiteDoor11_R",
+      "fork": "DoorDetail11 roller bogie fork mounted cheek.007",
+      "actual_fork_x_m": [
+        0.010499999858438969,
+        0.014000000432133675
+      ],
+      "wheel": "Privacy leaf lower captive roller11.003",
+      "actual_wheel_x_m": [
+        -0.009999998845160007,
+        0.009999998845160007
+      ],
+      "side_return": "DoorDetail11 moving lower extrusion side return.003",
+      "actual_channel_return_x_m": [
+        0.014999998733401299,
+        0.020999999716877937
+      ],
+      "wheel_clearance_m": 0.0005000010132789612,
+      "channel_clearance_m": 0.000999998301267624,
+      "top_web_engagement_m": 0.001999996602535248,
+      "inside_14mm_channel_envelope": true
+    },
+    {
+      "test": "All eight source-kit fork cheeks were measured",
+      "passed": true,
+      "source_forks": 8,
+      "physical_door_instances": 4
+    },
+    {
+      "test": "Source bytes unchanged during read-only measurements",
+      "passed": true
+    }
+  ],
+  "measurements": [
+    {
+      "asset": "SM_Plane_SuiteDoor11_L",
+      "fork": "DoorDetail11 roller bogie fork mounted cheek",
+      "actual_fork_x_m": [
+        -0.014000000432133675,
+        -0.010499999858438969
+      ],
+      "wheel": "Privacy leaf lower captive roller11",
+      "actual_wheel_x_m": [
+        -0.009999998845160007,
+        0.009999998845160007
+      ],
+      "side_return": "DoorDetail11 moving lower extrusion side return",
+      "actual_channel_return_x_m": [
+        -0.020999999716877937,
+        -0.014999998733401299
+      ],
+      "wheel_clearance_m": 0.0005000010132789612,
+      "channel_clearance_m": 0.000999998301267624,
+      "top_web_engagement_m": 0.001999996602535248,
+      "inside_14mm_channel_envelope": true
+    },
+    {
+      "asset": "SM_Plane_SuiteDoor11_L",
+      "fork": "DoorDetail11 roller bogie fork mounted cheek.001",
+      "actual_fork_x_m": [
+        0.010499999858438969,
+        0.014000000432133675
+      ],
+      "wheel": "Privacy leaf lower captive roller11",
+      "actual_wheel_x_m": [
+        -0.009999998845160007,
+        0.009999998845160007
+      ],
+      "side_return": "DoorDetail11 moving lower extrusion side return.001",
+      "actual_channel_return_x_m": [
+        0.014999998733401299,
+        0.020999999716877937
+      ],
+      "wheel_clearance_m": 0.0005000010132789612,
+      "channel_clearance_m": 0.000999998301267624,
+      "top_web_engagement_m": 0.001999996602535248,
+      "inside_14mm_channel_envelope": true
+    },
+    {
+      "asset": "SM_Plane_SuiteDoor11_L",
+      "fork": "DoorDetail11 roller bogie fork mounted cheek.002",
+      "actual_fork_x_m": [
+        -0.014000000432133675,
+        -0.010499999858438969
+      ],
+      "wheel": "Privacy leaf lower captive roller11.001",
+      "actual_wheel_x_m": [
+        -0.009999998845160007,
+        0.009999998845160007
+      ],
+      "side_return": "DoorDetail11 moving lower extrusion side return",
+      "actual_channel_return_x_m": [
+        -0.020999999716877937,
+        -0.014999998733401299
+      ],
+      "wheel_clearance_m": 0.0005000010132789612,
+      "channel_clearance_m": 0.000999998301267624,
+      "top_web_engagement_m": 0.001999996602535248,
+      "inside_14mm_channel_envelope": true
+    },
+    {
+      "asset": "SM_Plane_SuiteDoor11_L",
+      "fork": "DoorDetail11 roller bogie fork mounted cheek.003",
+      "actual_fork_x_m": [
+        0.010499999858438969,
+        0.014000000432133675
+      ],
+      "wheel": "Privacy leaf lower captive roller11.001",
+      "actual_wheel_x_m": [
+        -0.009999998845160007,
+        0.009999998845160007
+      ],
+      "side_return": "DoorDetail11 moving lower extrusion side return.001",
+      "actual_channel_return_x_m": [
+        0.014999998733401299,
+        0.020999999716877937
+      ],
+      "wheel_clearance_m": 0.0005000010132789612,
+      "channel_clearance_m": 0.000999998301267624,
+      "top_web_engagement_m": 0.001999996602535248,
+      "inside_14mm_channel_envelope": true
+    },
+    {
+      "asset": "SM_Plane_SuiteDoor11_R",
+      "fork": "DoorDetail11 roller bogie fork mounted cheek.004",
+      "actual_fork_x_m": [
+        -0.014000000432133675,
+        -0.010499999858438969
+      ],
+      "wheel": "Privacy leaf lower captive roller11.002",
+      "actual_wheel_x_m": [
+        -0.009999998845160007,
+        0.009999998845160007
+      ],
+      "side_return": "DoorDetail11 moving lower extrusion side return.002",
+      "actual_channel_return_x_m": [
+        -0.020999999716877937,
+        -0.014999998733401299
+      ],
+      "wheel_clearance_m": 0.0005000010132789612,
+      "channel_clearance_m": 0.000999998301267624,
+      "top_web_engagement_m": 0.001999996602535248,
+      "inside_14mm_channel_envelope": true
+    },
+    {
+      "asset": "SM_Plane_SuiteDoor11_R",
+      "fork": "DoorDetail11 roller bogie fork mounted cheek.005",
+      "actual_fork_x_m": [
+        0.010499999858438969,
+        0.014000000432133675
+      ],
+      "wheel": "Privacy leaf lower captive roller11.002",
+      "actual_wheel_x_m": [
+        -0.009999998845160007,
+        0.009999998845160007
+      ],
+      "side_return": "DoorDetail11 moving lower extrusion side return.003",
+      "actual_channel_return_x_m": [
+        0.014999998733401299,
+        0.020999999716877937
+      ],
+      "wheel_clearance_m": 0.0005000010132789612,
+      "channel_clearance_m": 0.000999998301267624,
+      "top_web_engagement_m": 0.001999996602535248,
+      "inside_14mm_channel_envelope": true
+    },
+    {
+      "asset": "SM_Plane_SuiteDoor11_R",
+      "fork": "DoorDetail11 roller bogie fork mounted cheek.006",
+      "actual_fork_x_m": [
+        -0.014000000432133675,
+        -0.010499999858438969
+      ],
+      "wheel": "Privacy leaf lower captive roller11.003",
+      "actual_wheel_x_m": [
+        -0.009999998845160007,
+        0.009999998845160007
+      ],
+      "side_return": "DoorDetail11 moving lower extrusion side return.002",
+      "actual_channel_return_x_m": [
+        -0.020999999716877937,
+        -0.014999998733401299
+      ],
+      "wheel_clearance_m": 0.0005000010132789612,
+      "channel_clearance_m": 0.000999998301267624,
+      "top_web_engagement_m": 0.001999996602535248,
+      "inside_14mm_channel_envelope": true
+    },
+    {
+      "asset": "SM_Plane_SuiteDoor11_R",
+      "fork": "DoorDetail11 roller bogie fork mounted cheek.007",
+      "actual_fork_x_m": [
+        0.010499999858438969,
+        0.014000000432133675
+      ],
+      "wheel": "Privacy leaf lower captive roller11.003",
+      "actual_wheel_x_m": [
+        -0.009999998845160007,
+        0.009999998845160007
+      ],
+      "side_return": "DoorDetail11 moving lower extrusion side return.003",
+      "actual_channel_return_x_m": [
+        0.014999998733401299,
+        0.020999999716877937
+      ],
+      "wheel_clearance_m": 0.0005000010132789612,
+      "channel_clearance_m": 0.000999998301267624,
+      "top_web_engagement_m": 0.001999996602535248,
+      "inside_14mm_channel_envelope": true
+    }
+  ],
+  "limits": [
+    "This is a bounded saved-source mechanical fitting check. Native motion, walking and visual acceptance are separate evidence."
+  ]
+}

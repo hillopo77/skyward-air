@@ -1,0 +1,16 @@
+{
+  "status": "READY",
+  "map": "/Game/Airport34/L_Airport_Terminal34",
+  "viewport": [
+    1920,
+    1080
+  ],
+  "journey": {
+    "checked_in": false,
+    "bag_accepted": false,
+    "security": false,
+    "boarding": false,
+    "aboard": false
+  },
+  "updated": 1793267005.4671078
+}

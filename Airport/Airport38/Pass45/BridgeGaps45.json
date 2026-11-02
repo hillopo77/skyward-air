@@ -1,0 +1,69 @@
+{
+  "step_m": 0.05,
+  "polygons": [
+    {
+      "name": "Bridge38 terminal neck",
+      "area_m2": 4.75,
+      "z": 0
+    },
+    {
+      "name": "Bridge38 bank A",
+      "area_m2": 28.117,
+      "z": 0
+    },
+    {
+      "name": "Bridge38 bank B",
+      "area_m2": 28.79,
+      "z": 0
+    },
+    {
+      "name": "Bridge38 docking cab",
+      "area_m2": 8.54,
+      "z": 0
+    },
+    {
+      "name": "Bridge38 pivot",
+      "area_m2": 6.262,
+      "z": 0.008
+    },
+    {
+      "name": "Bridge38 elbow",
+      "area_m2": 5.68,
+      "z": 0.008
+    },
+    {
+      "name": "Bridge38 cab mitre",
+      "area_m2": 6.31,
+      "z": 0.008
+    }
+  ],
+  "enclosed_gap_area_m2": 0.0125,
+  "blobs": [
+    {
+      "index": 0,
+      "cells": 3,
+      "area_m2": 0.0075,
+      "x_min": 9.0,
+      "x_max": 9.0,
+      "y_min": 1.359,
+      "y_max": 1.459,
+      "centroid": [
+        9.0,
+        1.409
+      ]
+    },
+    {
+      "index": 1,
+      "cells": 2,
+      "area_m2": 0.005,
+      "x_min": -10.55,
+      "x_max": -10.55,
+      "y_min": 1.409,
+      "y_max": 1.459,
+      "centroid": [
+        -10.55,
+        1.434
+      ]
+    }
+  ]
+}

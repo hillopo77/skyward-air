@@ -1,0 +1,27 @@
+{
+  "scope": "Independent saved-master assembly scrutiny, evaluated meshes and all-room screenshot contact sheet, with full-size review of defects",
+  "source_inventory": "AssemblyInventory38.json",
+  "parts_inspected": 7163,
+  "evaluated_triangles": 2099725,
+  "patch": "secondary_patch38.apply(ctx)",
+  "targeted_asset_ids": ["SM_AP_Attachments38", "SM_AP_RetainedCraft38", "SM_AP_Wayfinding38"],
+  "instance_updates": ["Compact departures display"],
+  "findings": [
+    {"id":"AT01", "status":"ROOT_OWNS_FIX", "part":"Preparation instruction panel35", "evidence":"QA38_FailureWalk.png", "problem":"Retained panel is unsupported above the table. Root replaces it with desktop guide and folded-steel brackets."},
+    {"id":"AT02", "status":"PATCHED_SOURCE", "part":"A08 wall-mounted oak backing / A08 A08 NORTH LOUNGE", "evidence":["13_Concourse.png","14_A08Marker.png"], "bounds_before":{"board_z":[3.15,3.47],"text_z":[3.23275,3.40775],"ceiling_underside":3.4}, "repair":"Board center3.26,height0.22; font0.18. All geometry remains below3.38."},
+    {"id":"AT03", "status":"PATCHED_SOURCE", "actor":"Compact departures display", "problem":"Screen front pointed -X into the x=-43 wall, only82mm away. Check-in passengers saw its back.", "before":{"location":[-42.76,-10.2,2.2],"rotation_degrees":-90}, "after":{"location":[-42.847,-10.2,2.2],"rotation_degrees":90}, "repair":"Front now faces+X into check-in; rear meets wallx=-42.91."},
+    {"id":"AT04", "status":"PATCHED_SOURCE", "actors":["Gate A07 flight display","Gate A08 flight display"], "evidence":["17_A08Interior.png","26_A07Desks.png"], "measured_gap_to_glazing_m":[0.2295,0.2795], "repair":"Two actual rods/saddles/ceiling shoes per display connect housing to ceiling."},
+    {"id":"AT05", "status":"PATCHED_SOURCE", "part":"Lounge original travel art frame36.004", "bounds":{"min":[-20.1,9.81,1.475],"max":[-16.9,9.91,2.725]}, "measured_gap_to_mullion_m":0.049, "repair":"Top/bottom frame-rail clamps bolt to existing full-height mullionx=-18.5."},
+    {"id":"AT06", "status":"PATCHED_SOURCE", "part":"Cafe supported menu backing35.003", "evidence":["23_Cafe.png","24_CafeService.png"], "bounds":{"min":[-46.6,33.82,1.43],"max":[-42,33.9,2.53]}, "measured_gap_to_glazing_m":0.088, "repair":"Original menu captured on a fitted support wall touching floor and actual gallery-deck underside2.87."},
+    {"id":"AT07", "status":"PATCHED_SOURCE", "part":"Cloud Nine beam fascia36.002", "evidence":"24_CafeService.png", "bounds":{"min":[-48.05,31.285,2.365],"max":[-40.55,31.415,2.735]}, "measured_gap_to_deck_m":0.134, "repair":"Two threaded hangers, upper shoes and captured lower brackets."},
+    {"id":"AT08", "status":"PATCHED_SOURCE", "problem":"Open side of lower dining soffit exposes plenum from gallery.", "evidence":"25_Gallery.png", "before_ray":{"start":[-41.5,29,5.5],"direction":[1,0,0],"length":1}, "repair":"Two fitted vertical fascias close x=-41 between lower soffit top4.56 and higher ceiling6.8."},
+    {"id":"AT09", "status":"PATCHED_SOURCE", "part":"Mounted clock rim25.003", "measured_gap_to_wall_m":0.022, "repair":"Actual backing plate intersects both wall and clock rim."},
+    {"id":"AT10", "status":"PATCHED_SOURCE", "problem":"Authored plaques retained7.5–17.5mm offsets without captured mounting hardware.", "repair":"Four captive standoffs per mounted plaque intersect wood backing and structural wall."},
+    {"id":"AT11", "status":"UNRESOLVED_NEXT_ARCHITECTURE_TURN", "problem":"Unequal-height shared floor-plan boundaries become exterior roof steps but lack plenum infill above taller ceiling.", "example":{"axis":"x","k":16,"x_range":[-49,-32],"open_z":[6.96,7.16]}, "proof_ray":{"start":[-45,15.5,7.06],"direction":[0,1,0],"length":1}, "required_repair":"Integrate missing step infills in the exact shell union. Separate box patches create corner contact candidates; do not repeat that approach."},
+    {"id":"AT12", "status":"UNRESOLVED_NEXT_ARCHITECTURE_TURN", "asset":"SM_AP_Glazing38", "problem":"Expanded checker finds duplicated mullion surfaces, previously excluded by its default asset-name filter.", "examples":["Widely spaced matte mullion38.029 / .030","Widely spaced matte mullion38.003 / .004"], "required_repair":"Remove duplicate frames and genuinely union corner/transom junctions, then check active glazing geometry explicitly."},
+    {"id":"AT13", "status":"REQUIRES_EXPOSURE_CLASSIFICATION", "asset":"SM_AP_GalleryStair35", "problem":"Expanded checker reports original gallery/internal contact planes. These are candidates rather than established visible flicker; inspect before altering stair geometry."},
+    {"id":"AT14", "status":"EQUIPMENT_AGENT_OWNS_FIX", "problem":"A08 rear artwork unsupported in front of glazing; Vanity34 mirror/carcase/leaf gaps. Coordinated with fix2 to prevent duplicate edits."},
+    {"id":"AT15", "status":"ROOT_AIRSIDE_HANDOFF", "evidence":["30_BridgeWing.png","32_Exterior.png"], "actors":["CH12 Cabin passenger 0","CH12 Cabin passenger 1","CH12 Cabin passenger 2","CH12 Cabin passenger 3","CH12 Cabin passenger 4","CH12 Cabin passenger 5","CH12 Business passenger"], "problem":"Stale seated cabin placements remain on apron without chairs after aircraft translation.", "positions":{"cabin_x":[-1.868,1.868],"cabin_y":[14.075,23.525],"cabin_z":0.03,"business":[-1.52,7.65,0.12]}}
+  ],
+  "limits":"No Unreal actions performed. Center rays are attachment evidence, not blanket whole-map success. Native visibility, text/material contrast and final gameplay still require root review."
+}

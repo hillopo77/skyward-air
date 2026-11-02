@@ -1,0 +1,464 @@
+{
+  "status": "SUCCESS",
+  "method": {
+    "inset_cm": 3.0,
+    "tolerance_cm": 12.0,
+    "rule": "unsupported = no geometry within tolerance in any of six directions, traced from inside each bounding face"
+  },
+  "checked": 210,
+  "total": 1692,
+  "skipped": 1479,
+  "simulating": 3,
+  "unsupported": [
+    {
+      "actor": "CH12HAND L",
+      "mesh": "SM_CH12_ViewHand_L",
+      "centre": [
+        0.33,
+        0.12,
+        -100.0
+      ],
+      "extent_cm": [
+        40.2,
+        24.2,
+        4.9
+      ],
+      "drop_to_floor_cm": null
+    },
+    {
+      "actor": "CH12HAND R",
+      "mesh": "SM_CH12_ViewHand_R",
+      "centre": [
+        -0.33,
+        0.12,
+        -100.0
+      ],
+      "extent_cm": [
+        40.2,
+        24.2,
+        4.9
+      ],
+      "drop_to_floor_cm": null
+    },
+    {
+      "actor": "Extinguisher powder effect",
+      "mesh": "SM_AP_SprayCloud11",
+      "centre": [
+        -0.03,
+        -1.3,
+        -100.02
+      ],
+      "extent_cm": [
+        56.3,
+        116.0,
+        57.2
+      ],
+      "drop_to_floor_cm": null
+    },
+    {
+      "actor": "Gate A07 flight display",
+      "mesh": "SM_AP_ScreenBoard",
+      "centre": [
+        -14.3,
+        5.8,
+        2.4
+      ],
+      "extent_cm": [
+        6.0,
+        98.4,
+        53.8
+      ],
+      "drop_to_floor_cm": -2.5
+    },
+    {
+      "actor": "Gate A08 flight display",
+      "mesh": "SM_AP_ScreenBoard",
+      "centre": [
+        -24.35,
+        26.8,
+        2.45
+      ],
+      "extent_cm": [
+        6.0,
+        98.4,
+        53.8
+      ],
+      "drop_to_floor_cm": -2.5
+    },
+    {
+      "actor": "WC release 0 inside",
+      "mesh": "SM_AP_DoorRelease",
+      "centre": [
+        -20.55,
+        -6.78,
+        1.13
+      ],
+      "extent_cm": [
+        7.0,
+        3.0,
+        11.0
+      ],
+      "drop_to_floor_cm": -2.7
+    },
+    {
+      "actor": "WC release 1 inside",
+      "mesh": "SM_AP_DoorRelease",
+      "centre": [
+        -16.65,
+        -6.78,
+        1.13
+      ],
+      "extent_cm": [
+        7.0,
+        3.0,
+        11.0
+      ],
+      "drop_to_floor_cm": -2.7
+    },
+    {
+      "actor": "Check-in service header29 0",
+      "mesh": "SM_AP_Header130",
+      "centre": [
+        -30.31,
+        -11.6,
+        2.85
+      ],
+      "extent_cm": [
+        10.7,
+        167.0,
+        33.0
+      ],
+      "drop_to_floor_cm": -2.6
+    },
+    {
+      "actor": "Check-in service header29 1",
+      "mesh": "SM_AP_Header230",
+      "centre": [
+        -30.31,
+        -14.6,
+        2.85
+      ],
+      "extent_cm": [
+        10.7,
+        167.0,
+        33.0
+      ],
+      "drop_to_floor_cm": -2.6
+    },
+    {
+      "actor": "Queue ribbon31 6",
+      "mesh": "SM_AP_QueueRibbon30",
+      "centre": [
+        -35.95,
+        -13.95,
+        0.97
+      ],
+      "extent_cm": [
+        75.0,
+        1.5,
+        3.3
+      ],
+      "drop_to_floor_cm": -2.8
+    },
+    {
+      "actor": "Queue ribbon31 7",
+      "mesh": "SM_AP_QueueRibbon30",
+      "centre": [
+        -35.95,
+        -12.05,
+        0.97
+      ],
+      "extent_cm": [
+        75.0,
+        1.5,
+        3.3
+      ],
+      "drop_to_floor_cm": -2.8
+    },
+    {
+      "actor": "Queue ribbon31 8",
+      "mesh": "SM_AP_QueueRibbon30",
+      "centre": [
+        -34.2,
+        -13.95,
+        0.97
+      ],
+      "extent_cm": [
+        100.0,
+        1.5,
+        3.3
+      ],
+      "drop_to_floor_cm": -2.8
+    },
+    {
+      "actor": "Queue ribbon31 9",
+      "mesh": "SM_AP_QueueRibbon30",
+      "centre": [
+        -34.2,
+        -12.05,
+        0.97
+      ],
+      "extent_cm": [
+        100.0,
+        1.5,
+        3.3
+      ],
+      "drop_to_floor_cm": -2.8
+    },
+    {
+      "actor": "Gallery bench24 0",
+      "mesh": "SM_AP_Bench34_Hardware40",
+      "centre": [
+        -46.8,
+        31.28,
+        3.73
+      ],
+      "extent_cm": [
+        111.7,
+        36.0,
+        57.9
+      ],
+      "drop_to_floor_cm": -2.5
+    },
+    {
+      "actor": "Gallery bench24 1",
+      "mesh": "SM_AP_Bench34_Hardware40",
+      "centre": [
+        -42.22,
+        28.8,
+        3.73
+      ],
+      "extent_cm": [
+        36.0,
+        111.7,
+        57.9
+      ],
+      "drop_to_floor_cm": -2.2
+    },
+    {
+      "actor": "Crafted GalleryStair35",
+      "mesh": "SM_AP_GalleryStair35",
+      "centre": [
+        -45.0,
+        25.6,
+        2.1
+      ],
+      "extent_cm": [
+        402.6,
+        842.2,
+        213.3
+      ],
+      "drop_to_floor_cm": -2.9
+    },
+    {
+      "actor": "Gallery waste sorting36",
+      "mesh": "SM_AP_Bins36",
+      "centre": [
+        -42.0,
+        26.49,
+        3.53
+      ],
+      "extent_cm": [
+        39.2,
+        19.9,
+        37.6
+      ],
+      "drop_to_floor_cm": -2.2
+    },
+    {
+      "actor": "Bridge38 bank A sleeve 00",
+      "mesh": "SM_AP_P38B_A00",
+      "centre": [
+        -10.54,
+        0.05,
+        1.35
+      ],
+      "extent_cm": [
+        215.7,
+        211.5,
+        154.0
+      ],
+      "drop_to_floor_cm": -2.4
+    },
+    {
+      "actor": "Bridge38 bank A sleeve 01",
+      "mesh": "SM_AP_P38B_A01",
+      "centre": [
+        -8.05,
+        -0.96,
+        1.34
+      ],
+      "extent_cm": [
+        214.3,
+        208.0,
+        152.4
+      ],
+      "drop_to_floor_cm": -2.1
+    },
+    {
+      "actor": "Bridge38 bank A sleeve 02",
+      "mesh": "SM_AP_P38B_A02",
+      "centre": [
+        -5.55,
+        -1.97,
+        1.33
+      ],
+      "extent_cm": [
+        212.9,
+        204.5,
+        150.9
+      ],
+      "drop_to_floor_cm": -2.1
+    },
+    {
+      "actor": "Bridge38 bank A sleeve 03",
+      "mesh": "SM_AP_P38B_A03",
+      "centre": [
+        -3.06,
+        -2.97,
+        1.32
+      ],
+      "extent_cm": [
+        211.5,
+        201.0,
+        149.4
+      ],
+      "drop_to_floor_cm": -2.1
+    },
+    {
+      "actor": "Bridge38 bank B sleeve 00",
+      "mesh": "SM_AP_P38B_B00",
+      "centre": [
+        0.08,
+        -3.04,
+        1.35
+      ],
+      "extent_cm": [
+        210.4,
+        202.6,
+        154.0
+      ],
+      "drop_to_floor_cm": -2.1
+    },
+    {
+      "actor": "Bridge38 bank B sleeve 01",
+      "mesh": "SM_AP_P38B_B01",
+      "centre": [
+        2.29,
+        -2.25,
+        1.34
+      ],
+      "extent_cm": [
+        209.1,
+        199.1,
+        152.4
+      ],
+      "drop_to_floor_cm": -2.1
+    },
+    {
+      "actor": "Bridge38 bank B sleeve 02",
+      "mesh": "SM_AP_P38B_B02",
+      "centre": [
+        4.5,
+        -1.46,
+        1.33
+      ],
+      "extent_cm": [
+        207.8,
+        195.6,
+        150.9
+      ],
+      "drop_to_floor_cm": -2.1
+    },
+    {
+      "actor": "Bridge38 bank B sleeve 03",
+      "mesh": "SM_AP_P38B_B03",
+      "centre": [
+        6.71,
+        -0.68,
+        1.32
+      ],
+      "extent_cm": [
+        206.6,
+        192.0,
+        149.4
+      ],
+      "drop_to_floor_cm": -2.1
+    },
+    {
+      "actor": "Bridge38 bank B sleeve 04",
+      "mesh": "SM_AP_P38B_B04",
+      "centre": [
+        8.92,
+        0.11,
+        1.31
+      ],
+      "extent_cm": [
+        205.3,
+        188.5,
+        147.8
+      ],
+      "drop_to_floor_cm": -2.1
+    },
+    {
+      "actor": "Bridge38 terminal neck",
+      "mesh": "SM_AP_P38B_terminal_neck",
+      "centre": [
+        -13.05,
+        0.68,
+        1.34
+      ],
+      "extent_cm": [
+        95.0,
+        150.0,
+        150.0
+      ],
+      "drop_to_floor_cm": -2.8
+    },
+    {
+      "actor": "Bridge38 docking cab",
+      "mesh": "SM_AP_P38B_docking_cab",
+      "centre": [
+        12.26,
+        0.63,
+        1.29
+      ],
+      "extent_cm": [
+        176.4,
+        156.6,
+        156.2
+      ],
+      "drop_to_floor_cm": -2.1
+    },
+    {
+      "actor": "Ground crew parking bay38",
+      "mesh": "SM_AP_P38B_parking_pad",
+      "centre": [
+        -11.0,
+        67.75,
+        -3.75
+      ],
+      "extent_cm": [
+        150.0,
+        1425.0,
+        19.0
+      ],
+      "drop_to_floor_cm": null
+    },
+    {
+      "actor": "Airport43 baggage service backdrop",
+      "mesh": "SM_AP_BaggageBackdrop43",
+      "centre": [
+        -26.06,
+        -13.0,
+        1.89
+      ],
+      "extent_cm": [
+        14.5,
+        499.1,
+        179.3
+      ],
+      "drop_to_floor_cm": -2.9
+    }
+  ]
+}

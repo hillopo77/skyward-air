@@ -1,0 +1,8 @@
+{
+  "revision": "09",
+  "status": "SUCCESS",
+  "test": "Evaluated interior geometry, including bevel/subdivision results, contained within pressure body between y=0 and23.99m, above floor; exterior assemblies excluded",
+  "tolerance_m": 0.003,
+  "vertices_tested": 1645480,
+  "outliers": {}
+}

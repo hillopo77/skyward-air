@@ -1,0 +1,39 @@
+{
+  "status": "SUCCESS",
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Prototype27\\Screenshots\\P2\\00_Gameplay.png",
+      "sha256": "3a54301057646ed3be200915989632b8adf90e1a0856df9a0f5bef70610134ac",
+      "view": "00_Gameplay"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Prototype27\\Screenshots\\P2\\01_Arrival.png",
+      "sha256": "81f0c8781fcc0f7553af382232f02e4ad4a7225ab1a0dd8bb33236f5b111bdf5",
+      "view": "01_Arrival"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Prototype27\\Screenshots\\P2\\02_WelcomeDesk.png",
+      "sha256": "58073786abbd3564a658fba1641399c2dea790ccfa05cd3b0831f07dd823bad9",
+      "view": "02_WelcomeDesk"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Prototype27\\Screenshots\\P2\\03_Seating.png",
+      "sha256": "344af002c8572cdd78325c0dcdee990633f423ee3f93a2870d6e05ac165ecba5",
+      "view": "03_Seating"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Prototype27\\Screenshots\\P2\\05_FromDesk.png",
+      "sha256": "e3b9c0ef605f579b183fd4068b28b5b936728e44b98731c8d63b06f7fc21cc63",
+      "view": "05_FromDesk"
+    }
+  ],
+  "viewport": [
+    1920,
+    1080
+  ],
+  "profile": "FastTAA",
+  "native_viewport_capture": true,
+  "runtime_sha256": "2f1d07c0cf3e2ed402f761d3daa1295bc6f0e84b4bb5075277544dbac538ec54",
+  "started": 1793191166.488398,
+  "finished": 1793191176.3500996
+}

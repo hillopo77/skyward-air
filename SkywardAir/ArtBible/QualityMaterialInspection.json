@@ -1,0 +1,418 @@
+{
+  "materials": {
+    "MI_Plane_Blue": {
+      "parent": "/Game/Art/Materials/M_StylizedOpaque.M_StylizedOpaque",
+      "base": "<Struct 'LinearColor' (0x00000000E96994E0) {r: 0.016807, g: 0.111932, b: 0.679542, a: 1.000000}>",
+      "rough": 0.7300000190734863,
+      "surface": 1.0,
+      "opacity": 0.0
+    },
+    "MI_Plane_DisplayBlack": {
+      "parent": "/Game/Art/Materials/M_StylizedOpaque.M_StylizedOpaque",
+      "base": "<Struct 'LinearColor' (0x00000000E96984E0) {r: 0.001821, g: 0.004777, b: 0.013702, a: 1.000000}>",
+      "rough": 0.800000011920929,
+      "surface": 0.0,
+      "opacity": 0.0
+    },
+    "MI_Plane_Dial": {
+      "parent": "/Game/Art/Materials/M_StylizedOpaque.M_StylizedOpaque",
+      "base": "<Struct 'LinearColor' (0x00000000E96994A0) {r: 0.005605, g: 0.009721, b: 0.014444, a: 1.000000}>",
+      "rough": 0.5799999833106995,
+      "surface": 0.0,
+      "opacity": 0.0
+    },
+    "MI_Plane_InstrumentGlass": {
+      "parent": "/Game/Art/Materials/M_WindowGlass.M_WindowGlass",
+      "base": "<Struct 'LinearColor' (0x00000000E96995A0) {r: 0.000000, g: 0.000000, b: 0.000000, a: 1.000000}>",
+      "rough": 0.0,
+      "surface": 0.0,
+      "opacity": 0.017999999225139618
+    },
+    "MI_Plane_Glass": {
+      "parent": "/Game/Art/Materials/M_WindowGlass.M_WindowGlass",
+      "base": "<Struct 'LinearColor' (0x00000000E9699420) {r: 0.000000, g: 0.000000, b: 0.000000, a: 1.000000}>",
+      "rough": 0.0,
+      "surface": 0.0,
+      "opacity": 0.05999999865889549
+    }
+  },
+  "slots": {
+    "SM_Plane_Seat": [
+      [
+        "MI_Plane_White",
+        "/Game/Art/Materials/Instances/MI_Plane_White.MI_Plane_White"
+      ],
+      [
+        "MI_Plane_Blue",
+        "/Game/Art/Materials/Instances/MI_Plane_Blue.MI_Plane_Blue"
+      ],
+      [
+        "MI_Plane_BlueSeam",
+        "/Game/Art/Materials/Instances/MI_Plane_BlueSeam.MI_Plane_BlueSeam"
+      ],
+      [
+        "MI_Plane_Black",
+        "/Game/Art/Materials/Instances/MI_Plane_Black.MI_Plane_Black"
+      ],
+      [
+        "MI_Plane_Wood",
+        "/Game/Art/Materials/Instances/MI_Plane_Wood.MI_Plane_Wood"
+      ],
+      [
+        "MI_Plane_Metal",
+        "/Game/Art/Materials/Instances/MI_Plane_Metal.MI_Plane_Metal"
+      ],
+      [
+        "MI_Plane_Rack",
+        "/Game/Art/Materials/Instances/MI_Plane_Rack.MI_Plane_Rack"
+      ],
+      [
+        "MI_Plane_Belt",
+        "/Game/Art/Materials/Instances/MI_Plane_Belt.MI_Plane_Belt"
+      ],
+      [
+        "MI_Plane_LiveryGold",
+        "/Game/Art/Materials/Instances/MI_Plane_LiveryGold.MI_Plane_LiveryGold"
+      ],
+      [
+        "MI_Plane_Piping",
+        "/Game/Art/Materials/Instances/MI_Plane_Piping.MI_Plane_Piping"
+      ],
+      [
+        "MI_Plane_Stitch",
+        "/Game/Art/Materials/Instances/MI_Plane_Stitch.MI_Plane_Stitch"
+      ],
+      [
+        "MI_Plane_ArmInset",
+        "/Game/Art/Materials/Instances/MI_Plane_ArmInset.MI_Plane_ArmInset"
+      ],
+      [
+        "MI_Plane_Rubber",
+        "/Game/Art/Materials/Instances/MI_Plane_Rubber.MI_Plane_Rubber"
+      ],
+      [
+        "MI_Plane_WarmInk",
+        "/Game/Art/Materials/Instances/MI_Plane_WarmInk.MI_Plane_WarmInk"
+      ],
+      [
+        "MI_Plane_PanelEdge",
+        "/Game/Art/Materials/Instances/MI_Plane_PanelEdge.MI_Plane_PanelEdge"
+      ]
+    ],
+    "SM_Plane_AnalogDashboard": [
+      [
+        "MI_Plane_Black",
+        "/Game/Art/Materials/Instances/MI_Plane_Black.MI_Plane_Black"
+      ],
+      [
+        "MI_Plane_Panel",
+        "/Game/Art/Materials/Instances/MI_Plane_Panel.MI_Plane_Panel"
+      ],
+      [
+        "MI_Plane_PanelEdge",
+        "/Game/Art/Materials/Instances/MI_Plane_PanelEdge.MI_Plane_PanelEdge"
+      ],
+      [
+        "MI_Plane_Metal",
+        "/Game/Art/Materials/Instances/MI_Plane_Metal.MI_Plane_Metal"
+      ],
+      [
+        "MI_Plane_Dial",
+        "/Game/Art/Materials/Instances/MI_Plane_Dial.MI_Plane_Dial"
+      ],
+      [
+        "MI_Plane_Ink",
+        "/Game/Art/Materials/Instances/MI_Plane_Ink.MI_Plane_Ink"
+      ],
+      [
+        "MI_Plane_Glass",
+        "/Game/Art/Materials/Instances/MI_Plane_Glass.MI_Plane_Glass"
+      ],
+      [
+        "MI_Plane_Radar",
+        "/Game/Art/Materials/Instances/MI_Plane_Radar.MI_Plane_Radar"
+      ],
+      [
+        "MI_Plane_RadarInk",
+        "/Game/Art/Materials/Instances/MI_Plane_RadarInk.MI_Plane_RadarInk"
+      ],
+      [
+        "MI_Plane_Frame",
+        "/Game/Art/Materials/Instances/MI_Plane_Frame.MI_Plane_Frame"
+      ],
+      [
+        "MI_Plane_LiveryGold",
+        "/Game/Art/Materials/Instances/MI_Plane_LiveryGold.MI_Plane_LiveryGold"
+      ],
+      [
+        "MI_Plane_AmberLED",
+        "/Game/Art/Materials/Instances/MI_Plane_AmberLED.MI_Plane_AmberLED"
+      ],
+      [
+        "MI_Plane_GreenLED",
+        "/Game/Art/Materials/Instances/MI_Plane_GreenLED.MI_Plane_GreenLED"
+      ],
+      [
+        "MI_Plane_RedLED",
+        "/Game/Art/Materials/Instances/MI_Plane_RedLED.MI_Plane_RedLED"
+      ],
+      [
+        "MI_Plane_Red",
+        "/Game/Art/Materials/Instances/MI_Plane_Red.MI_Plane_Red"
+      ],
+      [
+        "MI_Plane_InstrumentGlass",
+        "/Game/Art/Materials/Instances/MI_Plane_InstrumentGlass.MI_Plane_InstrumentGlass"
+      ],
+      [
+        "MI_Plane_Rubber",
+        "/Game/Art/Materials/Instances/MI_Plane_Rubber.MI_Plane_Rubber"
+      ],
+      [
+        "MI_Plane_WarmInk",
+        "/Game/Art/Materials/Instances/MI_Plane_WarmInk.MI_Plane_WarmInk"
+      ],
+      [
+        "MI_Plane_GaugeAmber",
+        "/Game/Art/Materials/Instances/MI_Plane_GaugeAmber.MI_Plane_GaugeAmber"
+      ],
+      [
+        "MI_Plane_GaugeBlue",
+        "/Game/Art/Materials/Instances/MI_Plane_GaugeBlue.MI_Plane_GaugeBlue"
+      ],
+      [
+        "MI_Plane_GaugeBrown",
+        "/Game/Art/Materials/Instances/MI_Plane_GaugeBrown.MI_Plane_GaugeBrown"
+      ]
+    ],
+    "SM_Plane_CockpitShell": [
+      [
+        "MI_Plane_Carpet",
+        "/Game/Art/Materials/Instances/MI_Plane_Carpet.MI_Plane_Carpet"
+      ],
+      [
+        "MI_Plane_Glass",
+        "/Game/Art/Materials/Instances/MI_Plane_Glass.MI_Plane_Glass"
+      ],
+      [
+        "MI_Plane_White",
+        "/Game/Art/Materials/Instances/MI_Plane_White.MI_Plane_White"
+      ],
+      [
+        "MI_Plane_Frame",
+        "/Game/Art/Materials/Instances/MI_Plane_Frame.MI_Plane_Frame"
+      ],
+      [
+        "MI_Plane_Black",
+        "/Game/Art/Materials/Instances/MI_Plane_Black.MI_Plane_Black"
+      ],
+      [
+        "MI_Plane_Dial",
+        "/Game/Art/Materials/Instances/MI_Plane_Dial.MI_Plane_Dial"
+      ],
+      [
+        "MI_Plane_Ink",
+        "/Game/Art/Materials/Instances/MI_Plane_Ink.MI_Plane_Ink"
+      ],
+      [
+        "MI_Plane_LiveryBlue",
+        "/Game/Art/Materials/Instances/MI_Plane_LiveryBlue.MI_Plane_LiveryBlue"
+      ],
+      [
+        "MI_Plane_Lamp",
+        "/Game/Art/Materials/Instances/MI_Plane_Lamp.MI_Plane_Lamp"
+      ],
+      [
+        "MI_Plane_DisplayOrange",
+        "/Game/Art/Materials/Instances/MI_Plane_DisplayOrange.MI_Plane_DisplayOrange"
+      ]
+    ]
+  },
+  "lights": [
+    {
+      "name": "Rack practical",
+      "intensity": 276.0,
+      "shadows": true
+    },
+    {
+      "name": "Rack practical.001",
+      "intensity": 276.0,
+      "shadows": true
+    },
+    {
+      "name": "Soft window daylight",
+      "intensity": 520.0,
+      "shadows": false
+    },
+    {
+      "name": "Soft window daylight.001",
+      "intensity": 520.0,
+      "shadows": false
+    },
+    {
+      "name": "Rack practical.002",
+      "intensity": 276.0,
+      "shadows": true
+    },
+    {
+      "name": "Rack practical.003",
+      "intensity": 276.0,
+      "shadows": true
+    },
+    {
+      "name": "Soft window daylight.002",
+      "intensity": 520.0,
+      "shadows": false
+    },
+    {
+      "name": "Soft window daylight.003",
+      "intensity": 520.0,
+      "shadows": false
+    },
+    {
+      "name": "Rack practical.004",
+      "intensity": 276.0,
+      "shadows": true
+    },
+    {
+      "name": "Rack practical.005",
+      "intensity": 276.0,
+      "shadows": true
+    },
+    {
+      "name": "Soft window daylight.004",
+      "intensity": 520.0,
+      "shadows": false
+    },
+    {
+      "name": "Soft window daylight.005",
+      "intensity": 520.0,
+      "shadows": false
+    },
+    {
+      "name": "Rack practical.006",
+      "intensity": 276.0,
+      "shadows": true
+    },
+    {
+      "name": "Rack practical.007",
+      "intensity": 276.0,
+      "shadows": true
+    },
+    {
+      "name": "Soft window daylight.006",
+      "intensity": 520.0,
+      "shadows": false
+    },
+    {
+      "name": "Soft window daylight.007",
+      "intensity": 520.0,
+      "shadows": false
+    },
+    {
+      "name": "Rack practical.008",
+      "intensity": 276.0,
+      "shadows": true
+    },
+    {
+      "name": "Rack practical.009",
+      "intensity": 276.0,
+      "shadows": true
+    },
+    {
+      "name": "Soft window daylight.008",
+      "intensity": 520.0,
+      "shadows": false
+    },
+    {
+      "name": "Soft window daylight.009",
+      "intensity": 520.0,
+      "shadows": false
+    },
+    {
+      "name": "Rack practical.010",
+      "intensity": 276.0,
+      "shadows": true
+    },
+    {
+      "name": "Rack practical.011",
+      "intensity": 276.0,
+      "shadows": true
+    },
+    {
+      "name": "Soft window daylight.010",
+      "intensity": 520.0,
+      "shadows": false
+    },
+    {
+      "name": "Soft window daylight.011",
+      "intensity": 520.0,
+      "shadows": false
+    },
+    {
+      "name": "Cockpit daylight",
+      "intensity": 2520.0,
+      "shadows": true
+    },
+    {
+      "name": "Cockpit ceiling practical",
+      "intensity": 456.0,
+      "shadows": true
+    },
+    {
+      "name": "Afternoon sun",
+      "intensity": 200.0,
+      "shadows": true
+    },
+    {
+      "name": "Ceiling bounce approximation",
+      "intensity": 200.0,
+      "shadows": false
+    },
+    {
+      "name": "Soft indirect fill",
+      "intensity": 280.0,
+      "shadows": false
+    },
+    {
+      "name": "Ceiling bounce approximation",
+      "intensity": 200.0,
+      "shadows": false
+    },
+    {
+      "name": "Soft indirect fill",
+      "intensity": 280.0,
+      "shadows": false
+    },
+    {
+      "name": "Ceiling bounce approximation",
+      "intensity": 200.0,
+      "shadows": false
+    },
+    {
+      "name": "Soft indirect fill",
+      "intensity": 280.0,
+      "shadows": false
+    },
+    {
+      "name": "Ceiling bounce approximation",
+      "intensity": 200.0,
+      "shadows": false
+    },
+    {
+      "name": "Soft indirect fill",
+      "intensity": 280.0,
+      "shadows": false
+    },
+    {
+      "name": "Ceiling bounce approximation",
+      "intensity": 120.0,
+      "shadows": false
+    },
+    {
+      "name": "Soft indirect fill",
+      "intensity": 280.0,
+      "shadows": false
+    }
+  ]
+}

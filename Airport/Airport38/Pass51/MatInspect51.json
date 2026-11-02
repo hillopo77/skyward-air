@@ -1,0 +1,839 @@
+{
+ "status": "SUCCESS",
+ "mats": {
+  "MI_AP_WarmLED": [
+   {
+    "path": "/Game/Airport10/Materials/Instances/MI_AP_WarmLED",
+    "parent": "/Game/Airport10/Materials/M_AP_Opaque.M_AP_Opaque",
+    "s": {
+     "Specular": 0.4000000059604645,
+     "Roughness": 0.30000001192092896,
+     "Emission": 36.0,
+     "Metallic": 0.0
+    },
+    "v": {
+     "BaseColor": [
+      1.0,
+      0.768,
+      0.407
+     ]
+    },
+    "t": {
+     "DetailNormal": "T_AP_Polymer_Normal"
+    }
+   },
+   {
+    "path": "/Game/Airport12/Materials/Instances/MI_AP_WarmLED",
+    "parent": "/Game/Airport12/Materials/M_AP_Opaque.M_AP_Opaque",
+    "s": {
+     "Specular": 0.4000000059604645,
+     "Metallic": 0.0,
+     "Roughness": 0.30000001192092896,
+     "Emission": 36.0
+    },
+    "v": {
+     "BaseColor": [
+      1.0,
+      0.768,
+      0.407
+     ]
+    },
+    "t": {
+     "DetailNormal": "T_AP_Polymer_Normal"
+    }
+   },
+   {
+    "path": "/Game/Airport23/Materials/Instances/MI_AP_WarmLED",
+    "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+    "s": {
+     "NormalStrength": 0.07000000029802322,
+     "Metallic": 0.0,
+     "Roughness": 0.5199999809265137,
+     "Specular": 0.30000001192092896,
+     "Emission": 36.0
+    },
+    "v": {
+     "BaseColor": [
+      1.0,
+      0.768,
+      0.407
+     ]
+    },
+    "t": {
+     "DetailNormal": "T_AP_Polymer_Normal"
+    }
+   }
+  ],
+  "MI_AP_WhiteLED": [
+   {
+    "path": "/Game/Airport10/Materials/Instances/MI_AP_WhiteLED",
+    "parent": "/Game/Airport10/Materials/M_AP_Opaque.M_AP_Opaque",
+    "s": {
+     "Specular": 0.4000000059604645,
+     "Roughness": 0.3499999940395355,
+     "Emission": 36.0,
+     "Metallic": 0.0
+    },
+    "v": {
+     "BaseColor": [
+      0.807,
+      0.913,
+      1.0
+     ]
+    },
+    "t": {
+     "DetailNormal": "T_AP_Polymer_Normal"
+    }
+   },
+   {
+    "path": "/Game/Airport12/Materials/Instances/MI_AP_WhiteLED",
+    "parent": "/Game/Airport12/Materials/M_AP_Opaque.M_AP_Opaque",
+    "s": {
+     "Specular": 0.4000000059604645,
+     "Metallic": 0.0,
+     "Roughness": 0.3499999940395355,
+     "Emission": 36.0
+    },
+    "v": {
+     "BaseColor": [
+      0.807,
+      0.913,
+      1.0
+     ]
+    },
+    "t": {
+     "DetailNormal": "T_AP_Polymer_Normal"
+    }
+   },
+   {
+    "path": "/Game/Airport23/Materials/Instances/MI_AP_WhiteLED",
+    "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+    "s": {
+     "NormalStrength": 0.07000000029802322,
+     "Metallic": 0.0,
+     "Roughness": 0.5199999809265137,
+     "Specular": 0.30000001192092896,
+     "Emission": 36.0
+    },
+    "v": {
+     "BaseColor": [
+      0.807,
+      0.913,
+      1.0
+     ]
+    },
+    "t": {
+     "DetailNormal": "T_AP_Polymer_Normal"
+    }
+   }
+  ],
+  "MI_AP_F25LED": [
+   {
+    "path": "/Game/Airport25/Materials/MI_AP_F25LED",
+    "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+    "s": {
+     "NormalStrength": 0.02500000037252903,
+     "Metallic": 0.0,
+     "Roughness": 0.5,
+     "Specular": 0.23999999463558197,
+     "Emission": 8.0
+    },
+    "v": {
+     "BaseColor": [
+      1.0,
+      0.745,
+      0.418
+     ]
+    },
+    "t": {
+     "DetailNormal": "T_AP_Polymer_Normal"
+    }
+   }
+  ],
+  "MI_AP_P27Limestone": [
+   {
+    "path": "/Game/Airport27/P2/Materials/MI_AP_P27Limestone",
+    "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+    "s": {
+     "NormalStrength": 0.0,
+     "Metallic": 0.0,
+     "Roughness": 0.7300000190734863,
+     "Specular": 0.2199999988079071,
+     "Emission": 0.0
+    },
+    "v": {
+     "BaseColor": [
+      0.371,
+      0.328,
+      0.246
+     ]
+    },
+    "t": {
+     "DetailNormal": "T_AP_Polymer_Normal"
+    }
+   },
+   {
+    "path": "/Game/Airport27/P3/Materials/MI_AP_P27Limestone",
+    "parent": "/Game/Airport27/Materials/M_Surface27.M_Surface27",
+    "s": {
+     "NormalStrength": 0.07999999821186066,
+     "Metallic": 0.0,
+     "Specular": 0.2199999988079071
+    },
+    "v": {
+     "UVScale": [
+      0.9,
+      0.9,
+      0.0
+     ],
+     "Tint": [
+      1.0,
+      1.0,
+      1.0
+     ]
+    },
+    "t": {
+     "ColorMap": "T27_Stone_Color",
+     "DetailNormal": "T27_Stone_Normal",
+     "RoughMap": "T27_Stone_Rough"
+    }
+   },
+   {
+    "path": "/Game/Airport27/P4/Materials/MI_AP_P27Limestone",
+    "parent": "/Game/Airport27/Materials/M_Surface27.M_Surface27",
+    "s": {
+     "NormalStrength": 0.07999999821186066,
+     "Metallic": 0.0,
+     "Specular": 0.2199999988079071
+    },
+    "v": {
+     "UVScale": [
+      0.9,
+      0.9,
+      0.0
+     ],
+     "Tint": [
+      1.0,
+      1.0,
+      1.0
+     ]
+    },
+    "t": {
+     "ColorMap": "T27_Stone_Color",
+     "DetailNormal": "T27_Stone_Normal",
+     "RoughMap": "T27_Stone_Rough"
+    }
+   },
+   {
+    "path": "/Game/Airport27/P5/Materials/MI_AP_P27Limestone",
+    "parent": "/Game/Airport27/Materials/M_Surface27.M_Surface27",
+    "s": {
+     "NormalStrength": 0.07999999821186066,
+     "Metallic": 0.0,
+     "Specular": 0.2199999988079071
+    },
+    "v": {
+     "UVScale": [
+      0.9,
+      0.9,
+      0.0
+     ],
+     "Tint": [
+      1.0,
+      1.0,
+      1.0
+     ]
+    },
+    "t": {
+     "ColorMap": "T27_Stone_Color",
+     "DetailNormal": "T27_Stone_Normal",
+     "RoughMap": "T27_Stone_Rough"
+    }
+   },
+   {
+    "path": "/Game/Airport31/Materials/MI_AP_P27Limestone",
+    "parent": "/Game/Airport27/Materials/M_Surface27.M_Surface27",
+    "s": {
+     "NormalStrength": 0.054999999701976776,
+     "Metallic": 0.0,
+     "Specular": 0.12999999523162842
+    },
+    "v": {
+     "UVScale": [
+      0.9,
+      0.9,
+      0.0
+     ],
+     "Tint": [
+      1.0,
+      1.0,
+      1.0
+     ]
+    },
+    "t": {
+     "ColorMap": "T27_Stone_Color",
+     "DetailNormal": "T27_Stone_Normal",
+     "RoughMap": "T27_Stone_Rough"
+    }
+   }
+  ],
+  "MI_AP_P27Walnut": [
+   {
+    "path": "/Game/Airport27/P2/Materials/MI_AP_P27Walnut",
+    "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+    "s": {
+     "NormalStrength": 0.0,
+     "Metallic": 0.0,
+     "Roughness": 0.6200000047683716,
+     "Specular": 0.2199999988079071,
+     "Emission": 0.0
+    },
+    "v": {
+     "BaseColor": [
+      0.216,
+      0.102,
+      0.048
+     ]
+    },
+    "t": {
+     "DetailNormal": "T_AP_Polymer_Normal"
+    }
+   },
+   {
+    "path": "/Game/Airport27/P3/Materials/MI_AP_P27Walnut",
+    "parent": "/Game/Airport27/Materials/M_Surface27.M_Surface27",
+    "s": {
+     "NormalStrength": 0.18000000715255737,
+     "Metallic": 0.0,
+     "Specular": 0.2199999988079071
+    },
+    "v": {
+     "UVScale": [
+      0.7,
+      1.3,
+      0.0
+     ],
+     "Tint": [
+      0.67,
+      0.67,
+      0.67
+     ]
+    },
+    "t": {
+     "ColorMap": "T27_Oak_Color",
+     "DetailNormal": "T27_Oak_Normal",
+     "RoughMap": "T27_Oak_Rough"
+    }
+   },
+   {
+    "path": "/Game/Airport27/P4/Materials/MI_AP_P27Walnut",
+    "parent": "/Game/Airport27/Materials/M_Surface27.M_Surface27",
+    "s": {
+     "NormalStrength": 0.18000000715255737,
+     "Metallic": 0.0,
+     "Specular": 0.2199999988079071
+    },
+    "v": {
+     "UVScale": [
+      0.7,
+      1.3,
+      0.0
+     ],
+     "Tint": [
+      0.67,
+      0.67,
+      0.67
+     ]
+    },
+    "t": {
+     "ColorMap": "T27_Oak_Color",
+     "DetailNormal": "T27_Oak_Normal",
+     "RoughMap": "T27_Oak_Rough"
+    }
+   },
+   {
+    "path": "/Game/Airport27/P5/Materials/MI_AP_P27Walnut",
+    "parent": "/Game/Airport27/Materials/M_Surface27.M_Surface27",
+    "s": {
+     "NormalStrength": 0.18000000715255737,
+     "Metallic": 0.0,
+     "Specular": 0.2199999988079071
+    },
+    "v": {
+     "UVScale": [
+      0.7,
+      1.3,
+      0.0
+     ],
+     "Tint": [
+      0.67,
+      0.67,
+      0.67
+     ]
+    },
+    "t": {
+     "ColorMap": "T27_Oak_Color",
+     "DetailNormal": "T27_Oak_Normal",
+     "RoughMap": "T27_Oak_Rough"
+    }
+   },
+   {
+    "path": "/Game/Airport31/Materials/MI_AP_P27Walnut",
+    "parent": "/Game/Airport27/Materials/M_Surface27.M_Surface27",
+    "s": {
+     "NormalStrength": 0.054999999701976776,
+     "Metallic": 0.0,
+     "Specular": 0.12999999523162842
+    },
+    "v": {
+     "UVScale": [
+      0.7,
+      1.3,
+      0.0
+     ],
+     "Tint": [
+      0.67,
+      0.67,
+      0.67
+     ]
+    },
+    "t": {
+     "ColorMap": "T27_Oak_Color",
+     "DetailNormal": "T27_Oak_Normal",
+     "RoughMap": "T27_Oak_Rough"
+    }
+   }
+  ],
+  "MI_AP_P30Carpet": [
+   {
+    "path": "/Game/Airport30/Materials/MI_AP_P30Carpet",
+    "parent": "/Game/Airport38/Pass49/Materials/M_AP_Ground49.M_AP_Ground49",
+    "s": {
+     "Metallic": 0.0,
+     "TileMetres": 3.0,
+     "MacroLow": 1.0,
+     "MacroMetres": 70.0,
+     "MacroHigh": 1.0,
+     "RoughnessScale": 1.0,
+     "Specular": 0.20000000298023224
+    },
+    "v": {
+     "Tint": [
+      1.0,
+      1.0,
+      1.0
+     ]
+    },
+    "t": {
+     "GroundColourRoughness": "T_AP_Carpet48",
+     "MacroVariation": "T_AP_Macro49"
+    }
+   }
+  ],
+  "MI_AP_P30Opal": [
+   {
+    "path": "/Game/Airport30/Materials/MI_AP_P30Opal",
+    "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+    "s": {
+     "NormalStrength": 0.0,
+     "Metallic": 0.0,
+     "Roughness": 0.5,
+     "Specular": 0.25,
+     "Emission": 14.0
+    },
+    "v": {
+     "BaseColor": [
+      0.965,
+      0.784,
+      0.491
+     ]
+    },
+    "t": {
+     "DetailNormal": "T_AP_Polymer_Normal"
+    }
+   }
+  ],
+  "MI_AP_P33WarmOpal": [
+   {
+    "path": "/Game/Airport33/Materials/MI_AP_P33WarmOpal",
+    "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+    "s": {
+     "NormalStrength": 0.0,
+     "Metallic": 0.0,
+     "Roughness": 0.5,
+     "Specular": 0.25,
+     "Emission": 45.0
+    },
+    "v": {
+     "BaseColor": [
+      0.96,
+      0.88,
+      0.72
+     ]
+    },
+    "t": {
+     "DetailNormal": "T_AP_Polymer_Normal"
+    }
+   }
+  ],
+  "MI_AP_P34LED": [
+   {
+    "path": "/Game/Airport34/Materials/MI_AP_P34LED",
+    "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+    "s": {
+     "NormalStrength": 0.0,
+     "Metallic": 0.0,
+     "Roughness": 0.550000011920929,
+     "Specular": 0.20000000298023224,
+     "Emission": 32.0
+    },
+    "v": {
+     "BaseColor": [
+      1.0,
+      0.799,
+      0.527
+     ]
+    },
+    "t": {
+     "DetailNormal": "T_AP_Polymer_Normal"
+    }
+   }
+  ],
+  "MI_AP_P34Stone": [
+   {
+    "path": "/Game/Airport34/Materials/MI_AP_P34Stone",
+    "parent": "/Game/Airport27/Materials/M_Surface27.M_Surface27",
+    "s": {
+     "NormalStrength": 0.03500000014901161,
+     "Metallic": 0.0,
+     "Specular": 0.15000000596046448
+    },
+    "v": {
+     "UVScale": [
+      1.1,
+      1.1,
+      0.0
+     ],
+     "Tint": [
+      1.07,
+      1.04,
+      0.96
+     ]
+    },
+    "t": {
+     "ColorMap": "T27_Stone_Color",
+     "DetailNormal": "T27_Stone_Normal",
+     "RoughMap": "T27_Stone_Rough"
+    }
+   }
+  ],
+  "MI_AP_P37Opal": [
+   {
+    "path": "/Game/Airport37/Materials/MI_AP_P37Opal",
+    "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+    "s": {
+     "NormalStrength": 0.0,
+     "Metallic": 0.0,
+     "Roughness": 0.699999988079071,
+     "Specular": 0.11999999731779099,
+     "Emission": 10.0
+    },
+    "v": {
+     "BaseColor": [
+      0.88,
+      0.738,
+      0.509
+     ]
+    },
+    "t": {
+     "DetailNormal": "T_AP_Polymer_Normal"
+    }
+   }
+  ],
+  "MI_AP_P43TBronze": [
+   {
+    "path": "/Game/Airport38/Finish43/MI_AP_P43TBronze",
+    "parent": "/Game/Airport38/Finish43/M_AP_Finish43_Bronze.M_AP_Finish43_Bronze",
+    "s": {
+     "Roughness": 0.44999998807907104,
+     "Metallic": 0.36000001430511475,
+     "Specular": 0.27000001072883606
+    },
+    "v": {
+     "BaseColor": [
+      0.392,
+      0.262,
+      0.122
+     ]
+    },
+    "t": {}
+   }
+  ],
+  "MI_AP_P43TFloor": [
+   {
+    "path": "/Game/Airport38/Finish43/MI_AP_P43TFloor",
+    "parent": "/Game/Airport38/Pass48/Materials/M_AP_Finish48.M_AP_Finish48",
+    "s": {
+     "RoughnessScale": 1.0,
+     "Emissive": 0.0,
+     "MetreUVScale": 0.3333333432674408,
+     "Metallic": 0.0,
+     "Specular": 0.550000011920929
+    },
+    "v": {
+     "Tint": [
+      1.0,
+      1.0,
+      1.0
+     ]
+    },
+    "t": {
+     "FinishColourRoughness": "T_AP_Floor48"
+    }
+   },
+   {
+    "path": "/Game/Airport38/Materials/MI_AP_P43TFloor",
+    "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+    "s": {
+     "NormalStrength": 0.0,
+     "Metallic": 0.0,
+     "Roughness": 0.6299999952316284,
+     "Specular": 0.18000000715255737,
+     "Emission": 0.0
+    },
+    "v": {
+     "BaseColor": [
+      0.631,
+      0.591,
+      0.503
+     ]
+    },
+    "t": {
+     "DetailNormal": "T_AP_Polymer_Normal"
+    }
+   }
+  ],
+  "MI_AP_P43TOak": [
+   {
+    "path": "/Game/Airport38/Finish43/MI_AP_P43TOak",
+    "parent": "/Game/Airport38/Pass48/Materials/M_AP_Finish48.M_AP_Finish48",
+    "s": {
+     "RoughnessScale": 1.0,
+     "Emissive": 0.0,
+     "MetreUVScale": 0.5,
+     "Metallic": 0.0,
+     "Specular": 0.3499999940395355
+    },
+    "v": {
+     "Tint": [
+      1.0,
+      1.0,
+      1.0
+     ]
+    },
+    "t": {
+     "FinishColourRoughness": "T_AP_Oak48"
+    }
+   },
+   {
+    "path": "/Game/Airport38/Materials/MI_AP_P43TOak",
+    "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+    "s": {
+     "NormalStrength": 0.0,
+     "Metallic": 0.0,
+     "Roughness": 0.6000000238418579,
+     "Specular": 0.18000000715255737,
+     "Emission": 0.0
+    },
+    "v": {
+     "BaseColor": [
+      0.503,
+      0.309,
+      0.153
+     ]
+    },
+    "t": {
+     "DetailNormal": "T_AP_Polymer_Normal"
+    }
+   }
+  ],
+  "MI_AP_P43TText": [
+   {
+    "path": "/Game/Airport38/Finish43/MI_AP_P43TText",
+    "parent": "/Game/Airport38/Finish43/M_AP_Finish43_Text.M_AP_Finish43_Text",
+    "s": {
+     "Roughness": 0.7599999904632568,
+     "Metallic": 0.0,
+     "Specular": 0.27000001072883606
+    },
+    "v": {
+     "BaseColor": [
+      0.88,
+      0.807,
+      0.658
+     ]
+    },
+    "t": {}
+   },
+   {
+    "path": "/Game/Airport38/Materials/MI_AP_P43TText",
+    "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+    "s": {
+     "NormalStrength": 0.0,
+     "Metallic": 0.0,
+     "Roughness": 0.7599999904632568,
+     "Specular": 0.18000000715255737,
+     "Emission": 0.0
+    },
+    "v": {
+     "BaseColor": [
+      0.88,
+      0.807,
+      0.658
+     ]
+    },
+    "t": {
+     "DetailNormal": "T_AP_Polymer_Normal"
+    }
+   }
+  ],
+  "MI_AP_P38AGold": [
+   {
+    "path": "/Game/Airport38/Materials/MI_AP_P38AGold",
+    "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+    "s": {
+     "NormalStrength": 0.0,
+     "Metallic": 0.07999999821186066,
+     "Roughness": 0.6600000262260437,
+     "Specular": 0.18000000715255737,
+     "Emission": 0.0
+    },
+    "v": {
+     "BaseColor": [
+      0.716,
+      0.479,
+      0.109
+     ]
+    },
+    "t": {
+     "DetailNormal": "T_AP_Polymer_Normal"
+    }
+   }
+  ],
+  "MI_AP_P38ANavy": [
+   {
+    "path": "/Game/Airport38/Materials/MI_AP_P38ANavy",
+    "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+    "s": {
+     "NormalStrength": 0.0,
+     "Metallic": 0.0,
+     "Roughness": 0.8199999928474426,
+     "Specular": 0.18000000715255737,
+     "Emission": 0.0
+    },
+    "v": {
+     "BaseColor": [
+      0.009,
+      0.048,
+      0.06
+     ]
+    },
+    "t": {
+     "DetailNormal": "T_AP_Polymer_Normal"
+    }
+   }
+  ],
+  "MI_AP_P38AOpal": [
+   {
+    "path": "/Game/Airport38/Materials/MI_AP_P38AOpal",
+    "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+    "s": {
+     "NormalStrength": 0.0,
+     "Metallic": 0.0,
+     "Roughness": 0.6499999761581421,
+     "Specular": 0.18000000715255737,
+     "Emission": 3.0
+    },
+    "v": {
+     "BaseColor": [
+      1.0,
+      0.815,
+      0.552
+     ]
+    },
+    "t": {
+     "DetailNormal": "T_AP_Polymer_Normal"
+    }
+   }
+  ],
+  "MI_AP_P38AStone": [
+   {
+    "path": "/Game/Airport38/Materials/MI_AP_P38AStone",
+    "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+    "s": {
+     "NormalStrength": 0.0,
+     "Metallic": 0.0,
+     "Roughness": 0.7200000286102295,
+     "Specular": 0.18000000715255737,
+     "Emission": 0.0
+    },
+    "v": {
+     "BaseColor": [
+      0.584,
+      0.515,
+      0.376
+     ]
+    },
+    "t": {
+     "DetailNormal": "T_AP_Polymer_Normal"
+    }
+   }
+  ],
+  "MI_AP_P38AText": [
+   {
+    "path": "/Game/Airport38/Materials/MI_AP_P38AText",
+    "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+    "s": {
+     "NormalStrength": 0.0,
+     "Metallic": 0.0,
+     "Roughness": 0.7200000286102295,
+     "Specular": 0.18000000715255737,
+     "Emission": 0.0
+    },
+    "v": {
+     "BaseColor": [
+      0.888,
+      0.784,
+      0.521
+     ]
+    },
+    "t": {
+     "DetailNormal": "T_AP_Polymer_Normal"
+    }
+   }
+  ],
+  "MI_AP_P38BLED": [
+   {
+    "path": "/Game/Airport38/Materials/MI_AP_P38BLED",
+    "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+    "s": {
+     "NormalStrength": 0.0,
+     "Metallic": 0.0,
+     "Roughness": 0.3799999952316284,
+     "Specular": 0.18000000715255737,
+     "Emission": 2.4000000953674316
+    },
+    "v": {
+     "BaseColor": [
+      1.0,
+      0.823,
+      0.558
+     ]
+    },
+    "t": {
+     "DetailNormal": "T_AP_Polymer_Normal"
+    }
+   }
+  ]
+ }
+}

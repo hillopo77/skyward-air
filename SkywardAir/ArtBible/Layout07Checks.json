@@ -1,0 +1,154 @@
+{
+  "revision": "07",
+  "status": "SUCCESS",
+  "tests": [
+    {
+      "test": "Window-side business only; four seats and no middle chairs",
+      "passed": true
+    },
+    {
+      "test": "24 economy places in 1-2-1",
+      "passed": true
+    },
+    {
+      "test": "Two dedicated crew seats without passenger IFE",
+      "passed": true
+    },
+    {
+      "test": "Furnishing instance scales unchanged",
+      "passed": true
+    },
+    {
+      "test": "Main galley is between classes",
+      "passed": true
+    },
+    {
+      "test": "Two lavatories retained",
+      "passed": true
+    },
+    {
+      "test": "Shell change is 10 percent",
+      "passed": true
+    },
+    {
+      "test": "Four actual passenger/service door assemblies",
+      "passed": true
+    },
+    {
+      "test": "Cockpit door starts visibly closed",
+      "passed": true
+    },
+    {
+      "test": "No repeating carpet bindings remain",
+      "passed": true
+    },
+    {
+      "test": "Five continuous carpet/service floor zones",
+      "passed": true
+    },
+    {
+      "test": "Carpet UV orientation and origin agree across every zone",
+      "passed": true
+    },
+    {
+      "test": "Two hollow modeled engine nacelles",
+      "passed": true
+    },
+    {
+      "test": "60 solid swept fan blades",
+      "passed": true
+    },
+    {
+      "test": "Two shaped airfoil wings retained",
+      "passed": true
+    },
+    {
+      "test": "Closed tapered tail cone modeled",
+      "passed": true
+    },
+    {
+      "test": "All source vertices finite",
+      "passed": true
+    },
+    {
+      "test": "Printed source labels keep positive transforms",
+      "passed": true
+    },
+    {
+      "test": "No character instances",
+      "passed": true
+    }
+  ],
+  "layout": {
+    "revision": "07",
+    "shell_scale": 1.1,
+    "furnishing_scale": 1,
+    "business_seats": 4,
+    "economy_seats": 24,
+    "passenger_seats": 28,
+    "business_rows": [
+      3.2,
+      4.8
+    ],
+    "economy_rows": [
+      8.0,
+      9.22,
+      10.44,
+      11.66,
+      12.879999999999999,
+      14.1
+    ],
+    "class_divider_y_m": 7.55,
+    "main_galley_y_m": 6.435,
+    "business_centre_clear_width_m": 2.7,
+    "cockpit_front_y_m": -4.213,
+    "door_ids": [
+      "1L",
+      "1R",
+      "2L",
+      "2R"
+    ],
+    "carpet": "Continuous fitted zones; globally aligned UVs; no transverse bay bindings."
+  },
+  "scene_instance_counts": {
+    "SM_Plane_WindowWall_R": 10,
+    "SM_Plane_WindowWall_L": 10,
+    "SM_Plane_Floor": 12,
+    "SM_Plane_Rack_R": 12,
+    "SM_Plane_Rack_L": 12,
+    "SM_Plane_OuterWindowBarrel": 10,
+    "SM_Plane_ArchRib": 7,
+    "SM_Plane_AnalogDashboard": 1,
+    "SM_Plane_Controls": 1,
+    "SM_Plane_CockpitShell": 1,
+    "SM_Plane_ExteriorAirframe": 1,
+    "SM_Plane_LandingGear": 1,
+    "SM_Plane_PilotSeat07": 2,
+    "SM_Plane_CaseCoral": 4,
+    "SM_Plane_CaseOchre": 4,
+    "SM_Plane_CaseTeal": 2,
+    "SM_Plane_CockpitDoor": 1,
+    "SM_Plane_ForwardGalley_L": 1,
+    "SM_Plane_ForwardGalley_R": 1,
+    "SM_Plane_AftGalley": 1,
+    "SM_Plane_CrewJumpseat": 2,
+    "SM_Plane_AftServiceShell": 1,
+    "SM_Plane_Lavatory_R": 1,
+    "SM_Plane_LavatoryDoor_R": 1,
+    "SM_Plane_Lavatory_L": 1,
+    "SM_Plane_LavatoryDoor_L": 1,
+    "SM_Plane_FlightdeckSystems": 1,
+    "SM_Plane_CabinPlacards": 1,
+    "SM_Plane_ForwardVestibule": 1,
+    "SM_Plane_ClassDivider": 1,
+    "SM_Plane_CockpitEntry": 1,
+    "SM_Plane_FittedCarpet07": 1,
+    "SM_Plane_LuxurySeat": 4,
+    "SM_Plane_Seat": 12,
+    "SM_Plane_SeatPair": 6,
+    "SM_Plane_CrewAmenities07": 1,
+    "SM_Plane_DoorBay07": 2,
+    "SM_Plane_PassengerDoor07_L": 2,
+    "SM_Plane_PassengerDoor07_R": 2
+  }
+}

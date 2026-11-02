@@ -1,0 +1,18 @@
+{
+  "status": "SUCCESS",
+  "room_rect": [
+    -43,
+    -26,
+    -18,
+    -8
+  ],
+  "room_boundaries_unchanged": true,
+  "counters": 2,
+  "queues": 1,
+  "queue_passengers": 3,
+  "queue_width_m": 1.9,
+  "counter_spacing_m": 4.0,
+  "changed": 11,
+  "removed": 21,
+  "added": 19
+}

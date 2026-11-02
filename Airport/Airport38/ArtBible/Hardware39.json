@@ -1,0 +1,17 @@
+{
+  "engine": "Unreal5.8.3 Development Editor game",
+  "render_api": "D3D11 SM5",
+  "gpu": "NVIDIA GeForce RTX 3060 Laptop GPU",
+  "viewport": [
+    1920,
+    1080
+  ],
+  "screen_percentage": 100,
+  "evidence": [
+    "LogInit: Engine Version: 5.8.3-0+UE5",
+    "LogInit: OS: Windows 11 (25H2) [10.0.26200.9711] (), CPU: AMD Ryzen 7 6800H with Radeon Graphics         , GPU: AMD Radeon(TM) Graphics",
+    "[2026.10.29-21.11.43:731][  0]LogMemory: Physical Memory: 12108.38 MB used,  3520.43 MB free, 15628.81 MB total"
+  ],
+  "source_log": "FlightJourney39.log",
+  "sampling": "No concurrent DCC/import jobs; fixed native renderer settings"
+}

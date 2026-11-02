@@ -1,0 +1,907 @@
+{
+  "status": "PASS",
+  "context": {
+    "schema": 1,
+    "installed": 1793390391.2146804,
+    "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+    "layout_sha256": "37a70bcaa86e64177a54875e97b291492bfe6f953d4c9be35a03ba41a26ec446",
+    "map": "/Game/Airport38/L_Airport_Repair38",
+    "runtime_sha256": {
+      "airport_runtime.py": "d3113561e325d2be28c68242c38fc1689b1c7ec28a88c5be01f26a1a2a6e14fd",
+      "characters12_runtime.py": "2baf24f676c974d64148dc0ac01601f18e41a7b8ef272ee3b2d3ecca9ab9702f",
+      "characters39_runtime.py": "ce2f96525f828235bb15b76a1a22ce75e0bac3c093787ca867d08726619befd4",
+      "chair_runtime39.py": "ccf2ae35b0d653748317438ce32da575118aa781924e92466babee8f89640677",
+      "airport_repair38.py": "e1685edf17f195fb2757dd287d4241e1cd8f91917c21bbae6bb8b6b267d81370",
+      "airport_airside38.py": "31464373653eb0ebe376d93339388ba296db5761768f7596b9c8ac1d2fc58e02",
+      "airside_math38.py": "82a72c5b4192b6bcf3116d06b2d33a4171086dc75b05d975545f28bb04dd8393",
+      "airport_rendering38.py": "8c7825a5d8586bde0ef12a7a81e622b5806bc5ea9bbfa05ae5cc267ee1ec1f9d",
+      "rendering38.py": "f3c603037c1aad0a30bd7213eeef3b29f5cdd8d624ecb4ed6e143aff15ee4303",
+      "airport_journey38.py": "756cffcd497620a155d7807a8bc7975697d8f70550007320719eaaeae820f1af",
+      "equipment_displays38.py": "139a8755859d677b0722c8a51a643f031fdf9c159b5653b03348f8cfae011a35",
+      "exterior39.py": "5518ef6c3ea4ae3a5193cba1be5f4eb84bde613902fee4ee707959e56d08577a",
+      "window40.py": "0ab782922c3e525edfeb7b0fa0b876d212b2f08fb61a9b198b34600f2ad9ed24",
+      "airport_flight39.py": "b28a5a0f1155b7c8b266984bc3ec7cc1767a218bdb155ab31120ec9dcd000120",
+      "flight39_model.py": "f6f0a7b608a620ce97835302c857ada35536bedf57afc9507a9329532d490c51",
+      "flight39_frame.py": "1fa5f5b8ef84b22707e025e3770725024f54d57acbc29b304407ad06fd3eaaf0",
+      "flight39_envelope.py": "8ec3af9e6b90af952e47a680562e37b7ebd65ab62041d5c4ce063de7cc3f7872",
+      "flight39_driver.py": "3c26d3ff32a303f05c37f1f91977c05ee7c1e4fe26e9c403581f0ffd0b828854",
+      "qa_flight39.py": "66a6311ba66cefb847b1fdbe212175fc5fc902f553bacfe0b0ac86f3bb18cbac",
+      "locomotion40.py": "225dbfddfc75d329f2f7bee0189bc0268d62ede3bb13d0a747f37b52032d52fa",
+      "lifecycle43.py": "c8c35d29da996baf52abab808b6418d6e1e99e13c43b6dc6c37a2c7dcc667dbb",
+      "window41.py": "88d296e718020c35a8f07021fdab698f9af1bd64f71947fb8c5dcd1a41b51367",
+      "business_belt40.py": "d685d29031cc3ab386d3c9a10a70882dd692a2dd1fe6eabffc8e3cfc0781226f",
+      "business_belt41.py": "c52c5cadc82f458dddc284a90d7d32e52a892fa05f845dd8bee1e9ce2af61bb1",
+      "window42.py": "950639750b6a4e1747701365719911aa224205bb03ce6f8b4be1e962b4513f97",
+      "aircraft_finish42.py": "61f30bf6b98556683aa3dd327535d03873bdde5891469c7e903904fcce6f2dcf",
+      "console_surface43.py": "b1860dad6d37083ac287f1b33edb37427367fcb5843d76aacead22d1d0c6a485"
+    }
+  },
+  "body": "Physical luggage 01",
+  "setup": "Same bag picked up at the airport, physically scanned and carried aboard in the fresh route; normal release in flight. No body teleport.",
+  "samples": [
+    {
+      "t": 0.09400000000005093,
+      "local_com": [
+        16.035974797943606,
+        -1.8737521490636573,
+        0.9205188131888442
+      ],
+      "native_relative_speed_m_s": 2.44965371834745,
+      "world_speed_m_s": 18.673246500722833,
+      "relative_speed_m_s": 2.44965371834745,
+      "registered": true
+    },
+    {
+      "t": 0.125,
+      "local_com": [
+        16.04014986172055,
+        -1.9174475700845346,
+        0.8445618200102446
+      ],
+      "native_relative_speed_m_s": 2.6942803865247704,
+      "world_speed_m_s": 50.01776809311932,
+      "relative_speed_m_s": 2.6942803865247704,
+      "registered": true
+    },
+    {
+      "t": 0.1570000000001528,
+      "local_com": [
+        16.04387231812002,
+        -1.955460664662769,
+        0.7679383668788238
+      ],
+      "native_relative_speed_m_s": 2.923539949407501,
+      "world_speed_m_s": 142.15834603553742,
+      "relative_speed_m_s": 2.923539949407501,
+      "registered": true
+    },
+    {
+      "t": 0.18800000000010186,
+      "local_com": [
+        16.047705539995025,
+        -1.9936431497455647,
+        0.6798079463864064
+      ],
+      "native_relative_speed_m_s": 3.168178041504705,
+      "world_speed_m_s": 112.23419679077577,
+      "relative_speed_m_s": 3.168178041504705,
+      "registered": true
+    },
+    {
+      "t": 0.21900000000005093,
+      "local_com": [
+        16.05150133805632,
+        -2.0304818950705794,
+        0.5833177025018255
+      ],
+      "native_relative_speed_m_s": 3.4171297589322696,
+      "world_speed_m_s": 96.52295047772735,
+      "relative_speed_m_s": 3.4171297589322696,
+      "registered": true
+    },
+    {
+      "t": 0.25,
+      "local_com": [
+        16.05516951506491,
+        -2.065160148182497,
+        0.48131149095697934
+      ],
+      "native_relative_speed_m_s": 3.66276892586334,
+      "world_speed_m_s": 100.29968025809177,
+      "relative_speed_m_s": 3.66276892586334,
+      "registered": true
+    },
+    {
+      "t": 0.2820000000001528,
+      "local_com": [
+        16.05904063723873,
+        -2.1007421375863147,
+        0.3640068066295919
+      ],
+      "native_relative_speed_m_s": 3.9263471793090536,
+      "world_speed_m_s": 103.11592803525022,
+      "relative_speed_m_s": 3.9263471793090536,
+      "registered": true
+    },
+    {
+      "t": 0.31300000000010186,
+      "local_com": [
+        16.04780277763374,
+        -2.125096860790336,
+        0.33370337463943167
+      ],
+      "native_relative_speed_m_s": 1.4140902811458695,
+      "world_speed_m_s": 94.08226970077007,
+      "relative_speed_m_s": 1.4140902811458695,
+      "registered": true
+    },
+    {
+      "t": 0.34400000000005093,
+      "local_com": [
+        16.03574238851166,
+        -2.143667444254888,
+        0.36389354146693015
+      ],
+      "native_relative_speed_m_s": 1.144085269774972,
+      "world_speed_m_s": 103.45029667210319,
+      "relative_speed_m_s": 1.144085269774972,
+      "registered": true
+    },
+    {
+      "t": 0.375,
+      "local_com": [
+        16.023805056679283,
+        -2.1610794185661097,
+        0.3845546750686662
+      ],
+      "native_relative_speed_m_s": 0.9018967492208394,
+      "world_speed_m_s": 97.29447526812534,
+      "relative_speed_m_s": 0.9018967492208394,
+      "registered": true
+    },
+    {
+      "t": 0.4070000000001528,
+      "local_com": [
+        16.011745910486084,
+        -2.177674288265932,
+        0.3959602065823518
+      ],
+      "native_relative_speed_m_s": 0.7091621993805398,
+      "world_speed_m_s": 98.34162489920489,
+      "relative_speed_m_s": 0.7091621993805398,
+      "registered": true
+    },
+    {
+      "t": 0.43800000000010186,
+      "local_com": [
+        15.999612121144231,
+        -2.1933520807735,
+        0.3977327987290705
+      ],
+      "native_relative_speed_m_s": 0.6191106569571271,
+      "world_speed_m_s": 101.2322792192315,
+      "relative_speed_m_s": 0.6191106569571271,
+      "registered": true
+    },
+    {
+      "t": 0.46900000000005093,
+      "local_com": [
+        15.987390506151707,
+        -2.2080970734596463,
+        0.38956267918034426
+      ],
+      "native_relative_speed_m_s": 0.6770068022881374,
+      "world_speed_m_s": 94.3092072053346,
+      "relative_speed_m_s": 0.6770068022881374,
+      "registered": true
+    },
+    {
+      "t": 0.5,
+      "local_com": [
+        15.975768706139537,
+        -2.221147420361467,
+        0.37255443186456977
+      ],
+      "native_relative_speed_m_s": 0.8436318064995711,
+      "world_speed_m_s": 96.02057402620966,
+      "relative_speed_m_s": 0.8436318064995711,
+      "registered": true
+    },
+    {
+      "t": 0.5320000000001528,
+      "local_com": [
+        15.963807335893673,
+        -2.2335593442749677,
+        0.345345729470954
+      ],
+      "native_relative_speed_m_s": 1.0760047164529607,
+      "world_speed_m_s": 104.88321364799891,
+      "relative_speed_m_s": 1.0760047164529607,
+      "registered": true
+    },
+    {
+      "t": 0.5630000000001019,
+      "local_com": [
+        15.94960681671069,
+        -2.247266429438214,
+        0.3225076927565478
+      ],
+      "native_relative_speed_m_s": 0.7952523385328505,
+      "world_speed_m_s": 96.1872098443865,
+      "relative_speed_m_s": 0.7952523385328505,
+      "registered": true
+    },
+    {
+      "t": 0.5940000000000509,
+      "local_com": [
+        15.930192508299985,
+        -2.258173332361778,
+        0.3334637348333293
+      ],
+      "native_relative_speed_m_s": 0.7913311990149126,
+      "world_speed_m_s": 93.74122246556595,
+      "relative_speed_m_s": 0.7913311990149126,
+      "registered": true
+    },
+    {
+      "t": 0.6409999999996217,
+      "local_com": [
+        15.906585609984495,
+        -2.262103194674512,
+        0.3440922050207839
+      ],
+      "native_relative_speed_m_s": 0.8110048297175486,
+      "world_speed_m_s": 94.69030558671764,
+      "relative_speed_m_s": 0.8110048297175486,
+      "registered": true
+    },
+    {
+      "t": 0.6719999999995707,
+      "local_com": [
+        15.883204016584806,
+        -2.2631868212305313,
+        0.3521861036676053
+      ],
+      "native_relative_speed_m_s": 0.7349551199246277,
+      "world_speed_m_s": 92.96023818014277,
+      "relative_speed_m_s": 0.7349551199246277,
+      "registered": true
+    },
+    {
+      "t": 0.7039999999997235,
+      "local_com": [
+        15.861888434610622,
+        -2.262758081086597,
+        0.357192765131758
+      ],
+      "native_relative_speed_m_s": 0.6800594304787951,
+      "world_speed_m_s": 99.01993233209235,
+      "relative_speed_m_s": 0.6800594304787951,
+      "registered": true
+    },
+    {
+      "t": 0.7349999999996726,
+      "local_com": [
+        15.84032604345769,
+        -2.261403053675915,
+        0.35944485382406305
+      ],
+      "native_relative_speed_m_s": 0.6463940173407644,
+      "world_speed_m_s": 109.43865966662048,
+      "relative_speed_m_s": 0.6463940173407644,
+      "registered": true
+    },
+    {
+      "t": 0.7820000000001528,
+      "local_com": [
+        15.819434528645996,
+        -2.258428858323259,
+        0.35923190896352564
+      ],
+      "native_relative_speed_m_s": 0.6304082488544706,
+      "world_speed_m_s": 94.44579908238126,
+      "relative_speed_m_s": 0.6304082488544706,
+      "registered": true
+    },
+    {
+      "t": 0.8130000000001019,
+      "local_com": [
+        15.796515403812267,
+        -2.2568900878192175,
+        0.35587827040455416
+      ],
+      "native_relative_speed_m_s": 0.7151792465865924,
+      "world_speed_m_s": 97.28017020727152,
+      "relative_speed_m_s": 0.7151792465865924,
+      "registered": true
+    },
+    {
+      "t": 0.8440000000000509,
+      "local_com": [
+        15.772933968106678,
+        -2.254822888935146,
+        0.34806343223659175
+      ],
+      "native_relative_speed_m_s": 0.761036373600161,
+      "world_speed_m_s": 99.81425205866333,
+      "relative_speed_m_s": 0.761036373600161,
+      "registered": true
+    },
+    {
+      "t": 0.875,
+      "local_com": [
+        15.748854799627672,
+        -2.250662781332537,
+        0.3362087233915592
+      ],
+      "native_relative_speed_m_s": 0.8253777075452412,
+      "world_speed_m_s": 94.82366564374988,
+      "relative_speed_m_s": 0.8253777075452412,
+      "registered": true
+    },
+    {
+      "t": 0.9070000000001528,
+      "local_com": [
+        15.724994815343521,
+        -2.244684655366232,
+        0.3205476237020669
+      ],
+      "native_relative_speed_m_s": 0.9210882147317081,
+      "world_speed_m_s": 94.2425917614818,
+      "relative_speed_m_s": 0.9210882147317081,
+      "registered": true
+    },
+    {
+      "t": 0.9539999999997235,
+      "local_com": [
+        15.699696411996447,
+        -2.2370117013491564,
+        0.29948473094193484
+      ],
+      "native_relative_speed_m_s": 1.0454423844540528,
+      "world_speed_m_s": 111.83357941834525,
+      "relative_speed_m_s": 1.0454423844540528,
+      "registered": true
+    },
+    {
+      "t": 0.9849999999996726,
+      "local_com": [
+        15.673479039289948,
+        -2.228370960895147,
+        0.2725007294661147
+      ],
+      "native_relative_speed_m_s": 1.1949059871815109,
+      "world_speed_m_s": 90.95093597208833,
+      "relative_speed_m_s": 1.1949059871815109,
+      "registered": true
+    },
+    {
+      "t": 1.0159999999996217,
+      "local_com": [
+        15.64653486014205,
+        -2.219254088013613,
+        0.2388440483141527
+      ],
+      "native_relative_speed_m_s": 1.3617647988990662,
+      "world_speed_m_s": 100.78253315695318,
+      "relative_speed_m_s": 1.3617647988990662,
+      "registered": true
+    },
+    {
+      "t": 1.0630000000001019,
+      "local_com": [
+        15.619172294778885,
+        -2.2104435327852343,
+        0.19824520506710713
+      ],
+      "native_relative_speed_m_s": 0.6589684567084341,
+      "world_speed_m_s": 94.43866567292507,
+      "relative_speed_m_s": 0.6589684567084341,
+      "registered": true
+    },
+    {
+      "t": 1.094000000000051,
+      "local_com": [
+        15.61054350574634,
+        -2.2115564304029682,
+        0.19352249251578166
+      ],
+      "native_relative_speed_m_s": 0.4896696695454198,
+      "world_speed_m_s": 99.06113113834975,
+      "relative_speed_m_s": 0.4896696695454198,
+      "registered": true
+    },
+    {
+      "t": 1.125,
+      "local_com": [
+        15.609520261264343,
+        -2.1998610098289784,
+        0.1996974623666209
+      ],
+      "native_relative_speed_m_s": 0.3930887913622621,
+      "world_speed_m_s": 101.09578771208015,
+      "relative_speed_m_s": 0.3930887913622621,
+      "registered": true
+    },
+    {
+      "t": 1.1570000000001528,
+      "local_com": [
+        15.610535307404305,
+        -2.190417463180238,
+        0.20369608014655471
+      ],
+      "native_relative_speed_m_s": 0.27144654620130265,
+      "world_speed_m_s": 102.14574624378776,
+      "relative_speed_m_s": 0.27144654620130265,
+      "registered": true
+    },
+    {
+      "t": 1.1880000000001019,
+      "local_com": [
+        15.612858968660175,
+        -2.18595509425382,
+        0.2059546801189528
+      ],
+      "native_relative_speed_m_s": 0.1523245448364067,
+      "world_speed_m_s": 88.35653828357621,
+      "relative_speed_m_s": 0.1523245448364067,
+      "registered": true
+    },
+    {
+      "t": 1.219000000000051,
+      "local_com": [
+        15.616338429599889,
+        -2.1840067409506037,
+        0.2040373133010987
+      ],
+      "native_relative_speed_m_s": 0.16250645663437108,
+      "world_speed_m_s": 118.12467632720143,
+      "relative_speed_m_s": 0.16250645663437108,
+      "registered": true
+    },
+    {
+      "t": 1.2659999999996217,
+      "local_com": [
+        15.621491199579545,
+        -2.1845300509236902,
+        0.1971442436531868
+      ],
+      "native_relative_speed_m_s": 0.2977745950595441,
+      "world_speed_m_s": 98.93916918149282,
+      "relative_speed_m_s": 0.2977745950595441,
+      "registered": true
+    },
+    {
+      "t": 1.2969999999995707,
+      "local_com": [
+        15.627166055041435,
+        -2.186350933679687,
+        0.18546963510695216
+      ],
+      "native_relative_speed_m_s": 0.3688664870283403,
+      "world_speed_m_s": 85.42658265504262,
+      "relative_speed_m_s": 0.3688664870283403,
+      "registered": true
+    },
+    {
+      "t": 1.3289999999997235,
+      "local_com": [
+        15.628192139385328,
+        -2.1918150856499983,
+        0.18196223443882342
+      ],
+      "native_relative_speed_m_s": 0.19405372129682155,
+      "world_speed_m_s": 106.77990975561232,
+      "relative_speed_m_s": 0.19405372129682155,
+      "registered": true
+    },
+    {
+      "t": 1.3599999999996726,
+      "local_com": [
+        15.628315459211528,
+        -2.1980274374332884,
+        0.18029843648934182
+      ],
+      "native_relative_speed_m_s": 0.1853134691046005,
+      "world_speed_m_s": 93.32908621596644,
+      "relative_speed_m_s": 0.1853134691046005,
+      "registered": true
+    },
+    {
+      "t": 1.3909999999996217,
+      "local_com": [
+        15.628729605667353,
+        -2.203765754444928,
+        0.1800341600685418
+      ],
+      "native_relative_speed_m_s": 0.1747522831827535,
+      "world_speed_m_s": 103.90104023101858,
+      "relative_speed_m_s": 0.1747522831827535,
+      "registered": true
+    },
+    {
+      "t": 1.4380000000001019,
+      "local_com": [
+        15.629246591907036,
+        -2.209231341026273,
+        0.17959382626571718
+      ],
+      "native_relative_speed_m_s": 0.16867065240906776,
+      "world_speed_m_s": 98.26380895441953,
+      "relative_speed_m_s": 0.16867065240906776,
+      "registered": true
+    },
+    {
+      "t": 1.469000000000051,
+      "local_com": [
+        15.62968532341107,
+        -2.213728057035321,
+        0.17915197349539688
+      ],
+      "native_relative_speed_m_s": 0.11723554174566901,
+      "world_speed_m_s": 95.80173157639358,
+      "relative_speed_m_s": 0.11723554174566901,
+      "registered": true
+    },
+    {
+      "t": 1.5,
+      "local_com": [
+        15.629659784675363,
+        -2.214069046322672,
+        0.17913219244658013
+      ],
+      "native_relative_speed_m_s": 0.0033917344553034408,
+      "world_speed_m_s": 100.94768816966358,
+      "relative_speed_m_s": 0.0033917344553034408,
+      "registered": true
+    },
+    {
+      "t": 1.5320000000001528,
+      "local_com": [
+        15.629689976133402,
+        -2.213622084422093,
+        0.17913756832272845
+      ],
+      "native_relative_speed_m_s": 0.008800839733674152,
+      "world_speed_m_s": 97.33083850330375,
+      "relative_speed_m_s": 0.008800839733674152,
+      "registered": true
+    },
+    {
+      "t": 1.5789999999997235,
+      "local_com": [
+        15.629677680453092,
+        -2.2130348461478433,
+        0.17917268848301038
+      ],
+      "native_relative_speed_m_s": 0.013557989695084326,
+      "world_speed_m_s": 105.39044366738102,
+      "relative_speed_m_s": 0.013557989695084326,
+      "registered": true
+    },
+    {
+      "t": 1.6099999999996726,
+      "local_com": [
+        15.62965952495869,
+        -2.212324592424159,
+        0.17921920650936912
+      ],
+      "native_relative_speed_m_s": 0.01654065963129029,
+      "world_speed_m_s": 95.63076603768599,
+      "relative_speed_m_s": 0.01654065963129029,
+      "registered": true
+    },
+    {
+      "t": 1.6409999999996217,
+      "local_com": [
+        15.629640443295363,
+        -2.211568939863223,
+        0.1792685619454833
+      ],
+      "native_relative_speed_m_s": 0.017178747130558995,
+      "world_speed_m_s": 97.88696954920681,
+      "relative_speed_m_s": 0.017178747130558995,
+      "registered": true
+    },
+    {
+      "t": 1.6719999999995707,
+      "local_com": [
+        15.62963041679826,
+        -2.210829601796511,
+        0.17932352205365795
+      ],
+      "native_relative_speed_m_s": 0.016696248523037457,
+      "world_speed_m_s": 101.78930926879984,
+      "relative_speed_m_s": 0.016696248523037457,
+      "registered": true
+    },
+    {
+      "t": 1.7039999999997235,
+      "local_com": [
+        15.629619140900308,
+        -2.2101532140799622,
+        0.17936585869446353
+      ],
+      "native_relative_speed_m_s": 0.01635893726173522,
+      "world_speed_m_s": 90.76807520173028,
+      "relative_speed_m_s": 0.01635893726173522,
+      "registered": true
+    },
+    {
+      "t": 1.75,
+      "local_com": [
+        15.629612345115742,
+        -2.209444395966932,
+        0.17940979121942682
+      ],
+      "native_relative_speed_m_s": 0.016286765533095646,
+      "world_speed_m_s": 116.29894966818028,
+      "relative_speed_m_s": 0.016286765533095646,
+      "registered": true
+    },
+    {
+      "t": 1.7820000000001528,
+      "local_com": [
+        15.62960634768629,
+        -2.208731928544987,
+        0.1794529914283552
+      ],
+      "native_relative_speed_m_s": 0.016475482213909078,
+      "world_speed_m_s": 88.97346715742393,
+      "relative_speed_m_s": 0.016475482213909078,
+      "registered": true
+    },
+    {
+      "t": 1.8130000000001019,
+      "local_com": [
+        15.629599582357294,
+        -2.2080058868818013,
+        0.17949673175345637
+      ],
+      "native_relative_speed_m_s": 0.01697321800049348,
+      "world_speed_m_s": 100.19122792344929,
+      "relative_speed_m_s": 0.01697321800049348,
+      "registered": true
+    },
+    {
+      "t": 1.844000000000051,
+      "local_com": [
+        15.629590278628719,
+        -2.207255343070349,
+        0.1795417948483116
+      ],
+      "native_relative_speed_m_s": 0.01778585071764359,
+      "world_speed_m_s": 99.17397626035526,
+      "relative_speed_m_s": 0.01778585071764359,
+      "registered": true
+    },
+    {
+      "t": 1.8909999999996217,
+      "local_com": [
+        15.629577399338892,
+        -2.2064692717944605,
+        0.1795890691116733
+      ],
+      "native_relative_speed_m_s": 0.018932216100649275,
+      "world_speed_m_s": 100.9232204746781,
+      "relative_speed_m_s": 0.018932216100649275,
+      "registered": true
+    },
+    {
+      "t": 1.9219999999995707,
+      "local_com": [
+        15.629559711526074,
+        -2.2056358799036344,
+        0.17963917011400166
+      ],
+      "native_relative_speed_m_s": 0.020438827828738185,
+      "world_speed_m_s": 97.00704691163588,
+      "relative_speed_m_s": 0.020438827828738185,
+      "registered": true
+    },
+    {
+      "t": 1.9539999999997235,
+      "local_com": [
+        15.629536097977962,
+        -2.2047422479478973,
+        0.17969295904192356
+      ],
+      "native_relative_speed_m_s": 0.02234242905580857,
+      "world_speed_m_s": 101.02727199412695,
+      "relative_speed_m_s": 0.02234242905580857,
+      "registered": true
+    },
+    {
+      "t": 1.9849999999996726,
+      "local_com": [
+        15.629505051009449,
+        -2.2037740844247877,
+        0.17975085576651623
+      ],
+      "native_relative_speed_m_s": 0.024688707853874114,
+      "world_speed_m_s": 100.39843609846632,
+      "relative_speed_m_s": 0.024688707853874114,
+      "registered": true
+    },
+    {
+      "t": 2.032000000000153,
+      "local_com": [
+        15.629465057122125,
+        -2.2027153390756915,
+        0.1798132855348722
+      ],
+      "native_relative_speed_m_s": 0.02753277169405064,
+      "world_speed_m_s": 94.2491360184236,
+      "relative_speed_m_s": 0.02753277169405064,
+      "registered": true
+    },
+    {
+      "t": 2.063000000000102,
+      "local_com": [
+        15.62941443006895,
+        -2.201547793408888,
+        0.17988053473026114
+      ],
+      "native_relative_speed_m_s": 0.030942481578047198,
+      "world_speed_m_s": 101.07558353145427,
+      "relative_speed_m_s": 0.030942481578047198,
+      "registered": true
+    },
+    {
+      "t": 2.094000000000051,
+      "local_com": [
+        15.629351038328375,
+        -2.200250721252721,
+        0.1799522611548897
+      ],
+      "native_relative_speed_m_s": 0.03499761161630105,
+      "world_speed_m_s": 103.93240515774077,
+      "relative_speed_m_s": 0.03499761161630105,
+      "registered": true
+    },
+    {
+      "t": 2.125,
+      "local_com": [
+        15.62927258991768,
+        -2.1988003123339945,
+        0.1800277953457813
+      ],
+      "native_relative_speed_m_s": 0.03979376385341583,
+      "world_speed_m_s": 104.31426869237637,
+      "relative_speed_m_s": 0.03979376385341583,
+      "registered": true
+    },
+    {
+      "t": 2.157000000000153,
+      "local_com": [
+        15.629178026252026,
+        -2.197184691395644,
+        0.18010451904519875
+      ],
+      "native_relative_speed_m_s": 0.04477250070497513,
+      "world_speed_m_s": 88.29549829873156,
+      "relative_speed_m_s": 0.04477250070497513,
+      "registered": true
+    },
+    {
+      "t": 2.2039999999997235,
+      "local_com": [
+        15.629058767416382,
+        -2.1953743122817557,
+        0.18018082682789305
+      ],
+      "native_relative_speed_m_s": 0.050871800539019324,
+      "world_speed_m_s": 106.91532311436902,
+      "relative_speed_m_s": 0.050871800539019324,
+      "registered": true
+    },
+    {
+      "t": 2.2349999999996726,
+      "local_com": [
+        15.62891892741928,
+        -2.1933858928320045,
+        0.18025090191469065
+      ],
+      "native_relative_speed_m_s": 0.057913135329477915,
+      "world_speed_m_s": 92.62089213437888,
+      "relative_speed_m_s": 0.057913135329477915,
+      "registered": true
+    },
+    {
+      "t": 2.2659999999996217,
+      "local_com": [
+        15.628764343315426,
+        -2.191236200721544,
+        0.1803086442559563
+      ],
+      "native_relative_speed_m_s": 0.07034114266838562,
+      "world_speed_m_s": 111.78800268655662,
+      "relative_speed_m_s": 0.07034114266838562,
+      "registered": true
+    },
+    {
+      "t": 2.2969999999995707,
+      "local_com": [
+        15.628871950879716,
+        -2.1896666704447716,
+        0.18054544631936306
+      ],
+      "native_relative_speed_m_s": 0.03625779042835731,
+      "world_speed_m_s": 96.12570429668715,
+      "relative_speed_m_s": 0.03625779042835731,
+      "registered": true
+    },
+    {
+      "t": 2.344000000000051,
+      "local_com": [
+        15.628914931127074,
+        -2.1887733441400563,
+        0.18067905830700248
+      ],
+      "native_relative_speed_m_s": 0.016974942435862644,
+      "world_speed_m_s": 96.84443501123691,
+      "relative_speed_m_s": 0.016974942435862644,
+      "registered": true
+    },
+    {
+      "t": 2.375,
+      "local_com": [
+        15.628942009499987,
+        -2.1884887424854425,
+        0.18067043777235497
+      ],
+      "native_relative_speed_m_s": 0.0022131872541429416,
+      "world_speed_m_s": 100.39331486620713,
+      "relative_speed_m_s": 0.0022131872541429416,
+      "registered": true
+    },
+    {
+      "t": 2.407000000000153,
+      "local_com": [
+        15.628962003804558,
+        -2.188795764088336,
+        0.18051454610962428
+      ],
+      "native_relative_speed_m_s": 0.019224206654136957,
+      "world_speed_m_s": 103.43256895043233,
+      "relative_speed_m_s": 0.019224206654136957,
+      "registered": true
+    },
+    {
+      "t": 2.438000000000102,
+      "local_com": [
+        15.628990292475642,
+        -2.1895936206191187,
+        0.18030577778434057
+      ],
+      "native_relative_speed_m_s": 0.04166355464784102,
+      "world_speed_m_s": 97.48223593420245,
+      "relative_speed_m_s": 0.04166355464784102,
+      "registered": true
+    },
+    {
+      "t": 2.469000000000051,
+      "local_com": [
+        15.629008850274213,
+        -2.190053307431922,
+        0.18028606997967536
+      ],
+      "native_relative_speed_m_s": 0.015808691757273823,
+      "world_speed_m_s": 97.96175878781315,
+      "relative_speed_m_s": 0.015808691757273823,
+      "registered": true
+    },
+    {
+      "t": 2.5159999999996217,
+      "local_com": [
+        15.62905189383618,
+        -2.1901726769050947,
+        0.1802741461638044
+      ],
+      "native_relative_speed_m_s": 0.006702534987700119,
+      "world_speed_m_s": 98.39711251069723,
+      "relative_speed_m_s": 0.006702534987700119,
+      "registered": true
+    }
+  ]
+}

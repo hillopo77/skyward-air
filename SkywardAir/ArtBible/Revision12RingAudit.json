@@ -1,0 +1,138 @@
+{
+  "source_sha256": "718cd6c2845211682a6eac6057aed830bfcc02e185a01c5032b68cf2e8431000",
+  "source_unchanged": true,
+  "checked_at_utc": "2026-10-24T18:44:34Z",
+  "objects": [
+    {
+      "object": "Subordinate flush skin assembly joint09",
+      "geometry_sha256_at_1micrometre": "cba8c4f09b722c761fd4bbaf2455016863151c4dc60b869f5f5dc80c513faae1",
+      "world_vertex_sha256": "57cdea9e385b14ebb0f6bfa71230bbdd2f518acd429e591aa6e4036c975a7338",
+      "vertices": 1152,
+      "faces": 1152,
+      "world_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "min": [
+        -2.501703,
+        5.850341,
+        -2.251259
+      ],
+      "max": [
+        2.501703,
+        5.85356,
+        2.900953
+      ]
+    },
+    {
+      "object": "Subordinate flush skin assembly joint09.001",
+      "geometry_sha256_at_1micrometre": "f01aa774b9d8056f2a5c5e49bf657b7cd8b3041fbb61155133b7aa47a3299a9e",
+      "world_vertex_sha256": "2863b64efd3fc4b5598f7a3dc835d3ac2b6a66d9dde173dff936a40232e5c590",
+      "vertices": 1152,
+      "faces": 1152,
+      "world_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "min": [
+        -2.501703,
+        17.554243,
+        -2.251259
+      ],
+      "max": [
+        2.501703,
+        17.557461,
+        2.900953
+      ]
+    },
+    {
+      "object": "Subordinate flush skin assembly joint09.002",
+      "geometry_sha256_at_1micrometre": "acb8120de88e2bbc9460c8e0882bb45ef3458b9e190a18c9a9d06543a997bc98",
+      "world_vertex_sha256": "cca4ef27e3ee18d2a96840d04640af4f7e0cdf39b8d43a37682558b4549202e9",
+      "vertices": 1152,
+      "faces": 1152,
+      "world_matrix": [
+        [
+          1.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          1.0,
+          0.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "min": [
+        -2.501703,
+        27.795155,
+        -2.251259
+      ],
+      "max": [
+        2.501703,
+        27.798376,
+        2.900953
+      ]
+    }
+  ],
+  "coincident_geometry_groups": [],
+  "method": "Evaluated world-space polygon geometry, canonicalized vertex order and coordinates quantized to1micrometre; matrices reported separately. No source edits or saves."
+}

@@ -1,0 +1,70 @@
+{
+ "status": "SUCCESS",
+ "airside": null,
+ "captures": [
+  {
+   "name": "P72_eco_n",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\P72\\P72_eco_n.png"
+  },
+  {
+   "name": "P72_eco_p",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\P72\\P72_eco_p.png"
+  },
+  {
+   "name": "P72_eco_back_n",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\P72\\P72_eco_back_n.png"
+  },
+  {
+   "name": "P72_eco_back_p",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\P72\\P72_eco_back_p.png"
+  },
+  {
+   "name": "P72_bus_n",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\P72\\P72_bus_n.png"
+  },
+  {
+   "name": "P72_bus_p",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\P72\\P72_bus_p.png"
+  },
+  {
+   "name": "P72_ceiling_n",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\P72\\P72_ceiling_n.png"
+  },
+  {
+   "name": "P72_ceiling_p",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\P72\\P72_ceiling_p.png"
+  },
+  {
+   "name": "P72_seated_n",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\P72\\P72_seated_n.png"
+  },
+  {
+   "name": "P72_seated_p",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\P72\\P72_seated_p.png"
+  },
+  {
+   "name": "P72_deck_n",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\P72\\P72_deck_n.png"
+  },
+  {
+   "name": "P72_deck_p",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\P72\\P72_deck_p.png"
+  },
+  {
+   "name": "P72_deck_close",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\P72\\P72_deck_close.png"
+  },
+  {
+   "name": "P72_deck_pedestal",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\P72\\P72_deck_pedestal.png"
+  },
+  {
+   "name": "P72_deck_side",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\P72\\P72_deck_side.png"
+  },
+  {
+   "name": "P72_deck_seat",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\P72\\P72_deck_seat.png"
+  }
+ ]
+}

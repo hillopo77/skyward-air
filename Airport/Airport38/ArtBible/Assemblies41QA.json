@@ -1,0 +1,1953 @@
+{
+  "status": "PASS",
+  "context": {
+    "schema": 1,
+    "installed": 1793390391.2146804,
+    "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+    "layout_sha256": "37a70bcaa86e64177a54875e97b291492bfe6f953d4c9be35a03ba41a26ec446",
+    "map": "/Game/Airport38/L_Airport_Repair38",
+    "runtime_sha256": {
+      "airport_runtime.py": "d3113561e325d2be28c68242c38fc1689b1c7ec28a88c5be01f26a1a2a6e14fd",
+      "characters12_runtime.py": "2baf24f676c974d64148dc0ac01601f18e41a7b8ef272ee3b2d3ecca9ab9702f",
+      "characters39_runtime.py": "ce2f96525f828235bb15b76a1a22ce75e0bac3c093787ca867d08726619befd4",
+      "chair_runtime39.py": "ccf2ae35b0d653748317438ce32da575118aa781924e92466babee8f89640677",
+      "airport_repair38.py": "e1685edf17f195fb2757dd287d4241e1cd8f91917c21bbae6bb8b6b267d81370",
+      "airport_airside38.py": "31464373653eb0ebe376d93339388ba296db5761768f7596b9c8ac1d2fc58e02",
+      "airside_math38.py": "82a72c5b4192b6bcf3116d06b2d33a4171086dc75b05d975545f28bb04dd8393",
+      "airport_rendering38.py": "8c7825a5d8586bde0ef12a7a81e622b5806bc5ea9bbfa05ae5cc267ee1ec1f9d",
+      "rendering38.py": "f3c603037c1aad0a30bd7213eeef3b29f5cdd8d624ecb4ed6e143aff15ee4303",
+      "airport_journey38.py": "756cffcd497620a155d7807a8bc7975697d8f70550007320719eaaeae820f1af",
+      "equipment_displays38.py": "139a8755859d677b0722c8a51a643f031fdf9c159b5653b03348f8cfae011a35",
+      "exterior39.py": "5518ef6c3ea4ae3a5193cba1be5f4eb84bde613902fee4ee707959e56d08577a",
+      "window40.py": "0ab782922c3e525edfeb7b0fa0b876d212b2f08fb61a9b198b34600f2ad9ed24",
+      "airport_flight39.py": "b28a5a0f1155b7c8b266984bc3ec7cc1767a218bdb155ab31120ec9dcd000120",
+      "flight39_model.py": "f6f0a7b608a620ce97835302c857ada35536bedf57afc9507a9329532d490c51",
+      "flight39_frame.py": "1fa5f5b8ef84b22707e025e3770725024f54d57acbc29b304407ad06fd3eaaf0",
+      "flight39_envelope.py": "8ec3af9e6b90af952e47a680562e37b7ebd65ab62041d5c4ce063de7cc3f7872",
+      "flight39_driver.py": "3c26d3ff32a303f05c37f1f91977c05ee7c1e4fe26e9c403581f0ffd0b828854",
+      "qa_flight39.py": "66a6311ba66cefb847b1fdbe212175fc5fc902f553bacfe0b0ac86f3bb18cbac",
+      "locomotion40.py": "225dbfddfc75d329f2f7bee0189bc0268d62ede3bb13d0a747f37b52032d52fa",
+      "lifecycle43.py": "c8c35d29da996baf52abab808b6418d6e1e99e13c43b6dc6c37a2c7dcc667dbb",
+      "window41.py": "88d296e718020c35a8f07021fdab698f9af1bd64f71947fb8c5dcd1a41b51367",
+      "business_belt40.py": "d685d29031cc3ab386d3c9a10a70882dd692a2dd1fe6eabffc8e3cfc0781226f",
+      "business_belt41.py": "c52c5cadc82f458dddc284a90d7d32e52a892fa05f845dd8bee1e9ce2af61bb1",
+      "window42.py": "950639750b6a4e1747701365719911aa224205bb03ce6f8b4be1e962b4513f97",
+      "aircraft_finish42.py": "61f30bf6b98556683aa3dd327535d03873bdde5891469c7e903904fcce6f2dcf",
+      "console_surface43.py": "b1860dad6d37083ac287f1b33edb37427367fcb5843d76aacead22d1d0c6a485"
+    },
+    "assemblies41_source": "80049b883f8bda5eea272b71eaa71bd16132dd51d4de0c17a10b872f1ba927a5",
+    "harness_sha256": "27b172a659794150884c920e4c9ed4e5989998ace2ea42c1637f8ccba12b2fb7",
+    "live_runtime_sha256": {
+      "flight39_frame.py": "1fa5f5b8ef84b22707e025e3770725024f54d57acbc29b304407ad06fd3eaaf0",
+      "flight39_envelope.py": "8ec3af9e6b90af952e47a680562e37b7ebd65ab62041d5c4ce063de7cc3f7872",
+      "airport_airside38.py": "31464373653eb0ebe376d93339388ba296db5761768f7596b9c8ac1d2fc58e02",
+      "window40.py": "0ab782922c3e525edfeb7b0fa0b876d212b2f08fb61a9b198b34600f2ad9ed24",
+      "window41.py": "88d296e718020c35a8f07021fdab698f9af1bd64f71947fb8c5dcd1a41b51367",
+      "business_belt40.py": "d685d29031cc3ab386d3c9a10a70882dd692a2dd1fe6eabffc8e3cfc0781226f",
+      "chair_runtime39.py": "ccf2ae35b0d653748317438ce32da575118aa781924e92466babee8f89640677",
+      "characters39_runtime.py": "ce2f96525f828235bb15b76a1a22ce75e0bac3c093787ca867d08726619befd4"
+    }
+  },
+  "phase": "complete",
+  "checks": [
+    {
+      "name": "All48 retained window mechanisms have Window41 data",
+      "passed": true,
+      "count": 48
+    },
+    {
+      "name": "Actual native Window41 wall/frame/rack bindings",
+      "passed": true,
+      "count": 126,
+      "bindings": [
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 01",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 01",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 02",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 02",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 03",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 03",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_R bay10 03",
+          "expected": "SM_AP_W41RackR",
+          "actual": "SM_AP_W41RackR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_L bay10 03",
+          "expected": "SM_AP_W41RackL",
+          "actual": "SM_AP_W41RackL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 04",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 04",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_R bay10 04",
+          "expected": "SM_AP_W41RackR",
+          "actual": "SM_AP_W41RackR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_L bay10 04",
+          "expected": "SM_AP_W41RackL",
+          "actual": "SM_AP_W41RackL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 05",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 05",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_R bay10 05",
+          "expected": "SM_AP_W41RackR",
+          "actual": "SM_AP_W41RackR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_L bay10 05",
+          "expected": "SM_AP_W41RackL",
+          "actual": "SM_AP_W41RackL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 06",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 06",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_R bay10 06",
+          "expected": "SM_AP_W41RackR",
+          "actual": "SM_AP_W41RackR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_L bay10 06",
+          "expected": "SM_AP_W41RackL",
+          "actual": "SM_AP_W41RackL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 07",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 07",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 08",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 08",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 09",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 09",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_R bay10 09",
+          "expected": "SM_AP_W41RackR",
+          "actual": "SM_AP_W41RackR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_L bay10 09",
+          "expected": "SM_AP_W41RackL",
+          "actual": "SM_AP_W41RackL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 10",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 10",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_R bay10 10",
+          "expected": "SM_AP_W41RackR",
+          "actual": "SM_AP_W41RackR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_L bay10 10",
+          "expected": "SM_AP_W41RackL",
+          "actual": "SM_AP_W41RackL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 11",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 11",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_R bay10 11",
+          "expected": "SM_AP_W41RackR",
+          "actual": "SM_AP_W41RackR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_L bay10 11",
+          "expected": "SM_AP_W41RackL",
+          "actual": "SM_AP_W41RackL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 12",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 12",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_R bay10 12",
+          "expected": "SM_AP_W41RackR",
+          "actual": "SM_AP_W41RackR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_L bay10 12",
+          "expected": "SM_AP_W41RackL",
+          "actual": "SM_AP_W41RackL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 13",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 13",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_R bay10 13",
+          "expected": "SM_AP_W41RackR",
+          "actual": "SM_AP_W41RackR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_L bay10 13",
+          "expected": "SM_AP_W41RackL",
+          "actual": "SM_AP_W41RackL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 14",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 14",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_R bay10 14",
+          "expected": "SM_AP_W41RackR",
+          "actual": "SM_AP_W41RackR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_L bay10 14",
+          "expected": "SM_AP_W41RackL",
+          "actual": "SM_AP_W41RackL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 15",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 15",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_R bay10 15",
+          "expected": "SM_AP_W41RackR",
+          "actual": "SM_AP_W41RackR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_L bay10 15",
+          "expected": "SM_AP_W41RackL",
+          "actual": "SM_AP_W41RackL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 16",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 16",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_R bay10 16",
+          "expected": "SM_AP_W41RackR",
+          "actual": "SM_AP_W41RackR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_L bay10 16",
+          "expected": "SM_AP_W41RackL",
+          "actual": "SM_AP_W41RackL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 17",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 17",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_R bay10 17",
+          "expected": "SM_AP_W41RackR",
+          "actual": "SM_AP_W41RackR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_L bay10 17",
+          "expected": "SM_AP_W41RackL",
+          "actual": "SM_AP_W41RackL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 18",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 18",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_R bay10 18",
+          "expected": "SM_AP_W41RackR",
+          "actual": "SM_AP_W41RackR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_L bay10 18",
+          "expected": "SM_AP_W41RackL",
+          "actual": "SM_AP_W41RackL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 19",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 19",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_R bay10 19",
+          "expected": "SM_AP_W41RackR",
+          "actual": "SM_AP_W41RackR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_Rack_L bay10 19",
+          "expected": "SM_AP_W41RackL",
+          "actual": "SM_AP_W41RackL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 21",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 21",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 22",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 22",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 23",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 23",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 24",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 24",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_R bay10 25",
+          "expected": "SM_AP_W42WindowWallR",
+          "actual": "SM_AP_W42WindowWallR",
+          "passed": true
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 25",
+          "expected": "SM_AP_W42WindowWallL",
+          "actual": "SM_AP_W42WindowWallL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 01 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 02 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 03 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 04 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 05 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 06 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 07 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 08 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 09 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 10 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 11 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 12 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 13 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 14 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 15 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 16 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 17 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 18 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 19 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 20 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 21 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 22 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 23 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 24 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 25 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 26 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 27 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 28 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 29 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 30 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 31 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 32 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 33 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 34 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 35 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 36 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 37 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 38 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 39 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 40 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 41 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 42 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 43 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 44 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 45 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 46 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 47 R18 frame",
+          "expected": "SM_AP_W42ShadeFrameR",
+          "actual": "SM_AP_W42ShadeFrameR",
+          "passed": true
+        },
+        {
+          "actor": "Window shade 48 L18 frame",
+          "expected": "SM_AP_W42ShadeFrameL",
+          "actual": "SM_AP_W42ShadeFrameL",
+          "passed": true
+        }
+      ]
+    },
+    {
+      "name": "Actual default suite belt Business 01 A",
+      "passed": true,
+      "evidence": {
+        "passed": true,
+        "state": 1,
+        "expected": 1,
+        "lid_hinge_source_m": [
+          14.190000019073487,
+          5.2420000953674295,
+          0.5121829063892365
+        ],
+        "hinge_error_cm": 1.7763568394002505e-13,
+        "worn_visible": false,
+        "stowed_visible": true,
+        "native_control_snapshot": {
+          "state": 1,
+          "targets": [
+            {
+              "property": "collision",
+              "actor": "Business belt release 112",
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "rotation",
+              "actor": "Business belt release 112",
+              "error_degrees": 0.0,
+              "passed": true
+            },
+            {
+              "property": "translation",
+              "actor": "Business belt release 112",
+              "error_cm": 3.0994390097197777e-07,
+              "passed": true
+            },
+            {
+              "property": "visible",
+              "actor": "B40 worn Business 01 A",
+              "expected": false,
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "collision",
+              "actor": "B40 worn Business 01 A",
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "visible",
+              "actor": "B40 stowed Business 01 A",
+              "expected": true,
+              "actual": true,
+              "passed": true
+            },
+            {
+              "property": "collision",
+              "actor": "B40 stowed Business 01 A",
+              "actual": false,
+              "passed": true
+            }
+          ],
+          "passed": true
+        },
+        "source_seat": "Business 01 A",
+        "occupied_npc": null
+      }
+    },
+    {
+      "name": "Actual default suite belt Business 01 K",
+      "passed": true,
+      "evidence": {
+        "passed": true,
+        "state": 1,
+        "expected": 1,
+        "lid_hinge_source_m": [
+          17.229999980926515,
+          5.2420000953674295,
+          0.5121829063892365
+        ],
+        "hinge_error_cm": 1.7763568394002505e-13,
+        "worn_visible": false,
+        "stowed_visible": true,
+        "native_control_snapshot": {
+          "state": 1,
+          "targets": [
+            {
+              "property": "collision",
+              "actor": "Business belt release 212",
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "rotation",
+              "actor": "Business belt release 212",
+              "error_degrees": 0.0,
+              "passed": true
+            },
+            {
+              "property": "translation",
+              "actor": "Business belt release 212",
+              "error_cm": 3.0994390097197777e-07,
+              "passed": true
+            },
+            {
+              "property": "visible",
+              "actor": "B40 worn Business 01 K",
+              "expected": false,
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "collision",
+              "actor": "B40 worn Business 01 K",
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "visible",
+              "actor": "B40 stowed Business 01 K",
+              "expected": true,
+              "actual": true,
+              "passed": true
+            },
+            {
+              "property": "collision",
+              "actor": "B40 stowed Business 01 K",
+              "actual": false,
+              "passed": true
+            }
+          ],
+          "passed": true
+        },
+        "source_seat": "Business 01 K",
+        "occupied_npc": null
+      }
+    },
+    {
+      "name": "Actual default suite belt Business 02 A",
+      "passed": true,
+      "evidence": {
+        "passed": true,
+        "state": 0,
+        "expected": 0,
+        "lid_hinge_source_m": [
+          14.480000019073486,
+          7.358817719459534,
+          0.622
+        ],
+        "hinge_error_cm": 0.0,
+        "worn_visible": true,
+        "stowed_visible": false,
+        "native_control_snapshot": {
+          "state": 0,
+          "targets": [
+            {
+              "property": "collision",
+              "actor": "Business belt release 312",
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "rotation",
+              "actor": "Business belt release 312",
+              "error_degrees": 0.0,
+              "passed": true
+            },
+            {
+              "property": "translation",
+              "actor": "Business belt release 312",
+              "error_cm": 0.0,
+              "passed": true
+            },
+            {
+              "property": "visible",
+              "actor": "B40 worn Business 02 A",
+              "expected": true,
+              "actual": true,
+              "passed": true
+            },
+            {
+              "property": "collision",
+              "actor": "B40 worn Business 02 A",
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "visible",
+              "actor": "B40 stowed Business 02 A",
+              "expected": false,
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "collision",
+              "actor": "B40 stowed Business 02 A",
+              "actual": false,
+              "passed": true
+            }
+          ],
+          "passed": true
+        },
+        "source_seat": "Business 02 A",
+        "occupied_npc": "CH12 Business passenger"
+      }
+    },
+    {
+      "name": "Actual default suite belt Business 02 K",
+      "passed": true,
+      "evidence": {
+        "passed": true,
+        "state": 1,
+        "expected": 1,
+        "lid_hinge_source_m": [
+          17.229999980926515,
+          7.642000190734863,
+          0.5121829063892365
+        ],
+        "hinge_error_cm": 0.0,
+        "worn_visible": false,
+        "stowed_visible": true,
+        "native_control_snapshot": {
+          "state": 1,
+          "targets": [
+            {
+              "property": "collision",
+              "actor": "Business belt release 412",
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "rotation",
+              "actor": "Business belt release 412",
+              "error_degrees": 0.0,
+              "passed": true
+            },
+            {
+              "property": "translation",
+              "actor": "Business belt release 412",
+              "error_cm": 3.099441108553532e-07,
+              "passed": true
+            },
+            {
+              "property": "visible",
+              "actor": "B40 worn Business 02 K",
+              "expected": false,
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "collision",
+              "actor": "B40 worn Business 02 K",
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "visible",
+              "actor": "B40 stowed Business 02 K",
+              "expected": true,
+              "actual": true,
+              "passed": true
+            },
+            {
+              "property": "collision",
+              "actor": "B40 stowed Business 02 K",
+              "actual": false,
+              "passed": true
+            }
+          ],
+          "passed": true
+        },
+        "source_seat": "Business 02 K",
+        "occupied_npc": null
+      }
+    },
+    {
+      "name": "Exactly one occupied default fastened and three empty stowed",
+      "passed": true
+    },
+    {
+      "name": "Empty suite cannot fasten while player stands outside",
+      "passed": true,
+      "visible_normal_use": true,
+      "evidence": {
+        "passed": true,
+        "state": 1,
+        "expected": 1,
+        "lid_hinge_source_m": [
+          14.190000019073487,
+          5.2420000953674295,
+          0.5121829063892365
+        ],
+        "hinge_error_cm": 1.7763568394002505e-13,
+        "worn_visible": false,
+        "stowed_visible": true,
+        "native_control_snapshot": {
+          "state": 1,
+          "targets": [
+            {
+              "property": "collision",
+              "actor": "Business belt release 112",
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "rotation",
+              "actor": "Business belt release 112",
+              "error_degrees": 0.0,
+              "passed": true
+            },
+            {
+              "property": "translation",
+              "actor": "Business belt release 112",
+              "error_cm": 3.0994390097197777e-07,
+              "passed": true
+            },
+            {
+              "property": "visible",
+              "actor": "B40 worn Business 01 A",
+              "expected": false,
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "collision",
+              "actor": "B40 worn Business 01 A",
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "visible",
+              "actor": "B40 stowed Business 01 A",
+              "expected": true,
+              "actual": true,
+              "passed": true
+            },
+            {
+              "property": "collision",
+              "actor": "B40 stowed Business 01 A",
+              "actual": false,
+              "passed": true
+            }
+          ],
+          "passed": true
+        },
+        "source_seat": "Business 01 A",
+        "occupied_npc": null
+      }
+    },
+    {
+      "name": "Player occupies actual empty suite via visible seat",
+      "passed": true
+    },
+    {
+      "name": "Player fasten drives actual lid and webbing",
+      "passed": true,
+      "evidence": {
+        "passed": true,
+        "state": 0,
+        "expected": 0,
+        "lid_hinge_source_m": [
+          14.480000019073486,
+          4.958817624092103,
+          0.622
+        ],
+        "hinge_error_cm": 8.881784197001252e-14,
+        "worn_visible": true,
+        "stowed_visible": false,
+        "native_control_snapshot": {
+          "state": 0,
+          "targets": [
+            {
+              "property": "collision",
+              "actor": "Business belt release 112",
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "rotation",
+              "actor": "Business belt release 112",
+              "error_degrees": 0.0,
+              "passed": true
+            },
+            {
+              "property": "translation",
+              "actor": "Business belt release 112",
+              "error_cm": 0.0,
+              "passed": true
+            },
+            {
+              "property": "visible",
+              "actor": "B40 worn Business 01 A",
+              "expected": true,
+              "actual": true,
+              "passed": true
+            },
+            {
+              "property": "collision",
+              "actor": "B40 worn Business 01 A",
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "visible",
+              "actor": "B40 stowed Business 01 A",
+              "expected": false,
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "collision",
+              "actor": "B40 stowed Business 01 A",
+              "actual": false,
+              "passed": true
+            }
+          ],
+          "passed": true
+        },
+        "source_seat": "Business 01 A",
+        "occupied_npc": null
+      },
+      "visible_normal_use": true
+    },
+    {
+      "name": "Player release drives actual lid and webbing",
+      "passed": true,
+      "evidence": {
+        "passed": true,
+        "state": 1,
+        "expected": 1,
+        "lid_hinge_source_m": [
+          14.190000019073487,
+          5.2420000953674295,
+          0.5121829063892365
+        ],
+        "hinge_error_cm": 1.7763568394002505e-13,
+        "worn_visible": false,
+        "stowed_visible": true,
+        "native_control_snapshot": {
+          "state": 1,
+          "targets": [
+            {
+              "property": "collision",
+              "actor": "Business belt release 112",
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "rotation",
+              "actor": "Business belt release 112",
+              "error_degrees": 0.0,
+              "passed": true
+            },
+            {
+              "property": "translation",
+              "actor": "Business belt release 112",
+              "error_cm": 3.0994390097197777e-07,
+              "passed": true
+            },
+            {
+              "property": "visible",
+              "actor": "B40 worn Business 01 A",
+              "expected": false,
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "collision",
+              "actor": "B40 worn Business 01 A",
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "visible",
+              "actor": "B40 stowed Business 01 A",
+              "expected": true,
+              "actual": true,
+              "passed": true
+            },
+            {
+              "property": "collision",
+              "actor": "B40 stowed Business 01 A",
+              "actual": false,
+              "passed": true
+            }
+          ],
+          "passed": true
+        },
+        "source_seat": "Business 01 A",
+        "occupied_npc": null
+      },
+      "visible_normal_use": true
+    },
+    {
+      "name": "Player refasten drives actual lid and webbing",
+      "passed": true,
+      "evidence": {
+        "passed": true,
+        "state": 0,
+        "expected": 0,
+        "lid_hinge_source_m": [
+          14.480000019073486,
+          4.958817624092103,
+          0.622
+        ],
+        "hinge_error_cm": 8.881784197001252e-14,
+        "worn_visible": true,
+        "stowed_visible": false,
+        "native_control_snapshot": {
+          "state": 0,
+          "targets": [
+            {
+              "property": "collision",
+              "actor": "Business belt release 112",
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "rotation",
+              "actor": "Business belt release 112",
+              "error_degrees": 0.0,
+              "passed": true
+            },
+            {
+              "property": "translation",
+              "actor": "Business belt release 112",
+              "error_cm": 0.0,
+              "passed": true
+            },
+            {
+              "property": "visible",
+              "actor": "B40 worn Business 01 A",
+              "expected": true,
+              "actual": true,
+              "passed": true
+            },
+            {
+              "property": "collision",
+              "actor": "B40 worn Business 01 A",
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "visible",
+              "actor": "B40 stowed Business 01 A",
+              "expected": false,
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "collision",
+              "actor": "B40 stowed Business 01 A",
+              "actual": false,
+              "passed": true
+            }
+          ],
+          "passed": true
+        },
+        "source_seat": "Business 01 A",
+        "occupied_npc": null
+      },
+      "visible_normal_use": true
+    },
+    {
+      "name": "Normal stand auto-stows actual suite belt",
+      "passed": true,
+      "evidence": {
+        "passed": true,
+        "state": 1,
+        "expected": 1,
+        "lid_hinge_source_m": [
+          14.190000019073487,
+          5.2420000953674295,
+          0.5121829063892365
+        ],
+        "hinge_error_cm": 1.7763568394002505e-13,
+        "worn_visible": false,
+        "stowed_visible": true,
+        "native_control_snapshot": {
+          "state": 1,
+          "targets": [
+            {
+              "property": "collision",
+              "actor": "Business belt release 112",
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "rotation",
+              "actor": "Business belt release 112",
+              "error_degrees": 0.0,
+              "passed": true
+            },
+            {
+              "property": "translation",
+              "actor": "Business belt release 112",
+              "error_cm": 3.0994390097197777e-07,
+              "passed": true
+            },
+            {
+              "property": "visible",
+              "actor": "B40 worn Business 01 A",
+              "expected": false,
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "collision",
+              "actor": "B40 worn Business 01 A",
+              "actual": false,
+              "passed": true
+            },
+            {
+              "property": "visible",
+              "actor": "B40 stowed Business 01 A",
+              "expected": true,
+              "actual": true,
+              "passed": true
+            },
+            {
+              "property": "collision",
+              "actor": "B40 stowed Business 01 A",
+              "actual": false,
+              "passed": true
+            }
+          ],
+          "passed": true
+        },
+        "source_seat": "Business 01 A",
+        "occupied_npc": null
+      }
+    },
+    {
+      "name": "Normal suite stand returns actual eye height and saved position",
+      "passed": true,
+      "local_eye_m": [
+        14.48,
+        4.690000095367432,
+        1.62
+      ],
+      "expected_eye_height_m": 1.62,
+      "return_error_cm": 0.0
+    },
+    {
+      "name": "Actual Window41 shade close control is reachable",
+      "passed": true
+    },
+    {
+      "name": "Actual Window41 curved parts window_closed",
+      "passed": true,
+      "evidence": {
+        "passed": true,
+        "progress": 0.0035305917263031006,
+        "target": 0.0,
+        "expected": 0.0,
+        "actual_parts": [
+          {
+            "actor": "Window shade 06 L18",
+            "error_cm": 0.004234368971907543
+          },
+          {
+            "actor": "Window shade 06 L18 section 1",
+            "error_cm": 0.0034882246596765754
+          },
+          {
+            "actor": "Window shade 06 L18 section 2",
+            "error_cm": 0.002742080347445608
+          },
+          {
+            "actor": "Window shade 06 L18 section 3",
+            "error_cm": 0.0019959360352004296
+          },
+          {
+            "actor": "Window shade 06 L18 section 4",
+            "error_cm": 0.001272278487272154
+          }
+        ]
+      }
+    },
+    {
+      "name": "Actual Window41 shade open control is reachable",
+      "passed": true
+    },
+    {
+      "name": "Actual Window41 curved parts window_opened",
+      "passed": true,
+      "evidence": {
+        "passed": true,
+        "progress": 1.0,
+        "target": 1.0,
+        "expected": 1.0,
+        "actual_parts": [
+          {
+            "actor": "Window shade 06 L18",
+            "error_cm": 0.0
+          },
+          {
+            "actor": "Window shade 06 L18 section 1",
+            "error_cm": 0.0
+          },
+          {
+            "actor": "Window shade 06 L18 section 2",
+            "error_cm": 0.0
+          },
+          {
+            "actor": "Window shade 06 L18 section 3",
+            "error_cm": 0.0
+          },
+          {
+            "actor": "Window shade 06 L18 section 4",
+            "error_cm": 0.0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Actual overhead bin bin_open control is reachable",
+      "passed": true,
+      "actor": "Overhead bin L 04"
+    },
+    {
+      "name": "Actual retained overhead bin bin_opened pose",
+      "passed": true,
+      "evidence": {
+        "passed": true,
+        "progress": 1.0,
+        "target": 1.0,
+        "declared_open_angle_degrees": -78.0,
+        "measured_relative_angle_degrees": -78.000007429747,
+        "rotation_error_degrees": 5.684341886080802e-14,
+        "hinge_error_cm": 0.0
+      }
+    },
+    {
+      "name": "Actual overhead bin bin_close control is reachable",
+      "passed": true,
+      "actor": "Overhead bin L 04"
+    },
+    {
+      "name": "Actual retained overhead bin bin_closed pose",
+      "passed": true,
+      "evidence": {
+        "passed": true,
+        "progress": 0.0,
+        "target": 0.0,
+        "declared_open_angle_degrees": -78.0,
+        "measured_relative_angle_degrees": 0.0,
+        "rotation_error_degrees": 0.0,
+        "hinge_error_cm": 0.0
+      }
+    },
+    {
+      "name": "Real L1 animation closed before bridge prop cases",
+      "passed": true
+    },
+    {
+      "name": "Loose physical bag on docking cab blocks stow",
+      "passed": true,
+      "reason": "The jetbridge must be empty before stowing.",
+      "body_fully_inside": false
+    },
+    {
+      "name": "Complete body aboard allows bridge stow request",
+      "passed": true,
+      "reason": "Terminal doors closing",
+      "whole_body_inside": true,
+      "bridge_occupied": false,
+      "source_bounds_m": [
+        [
+          15.75073185698075,
+          1.9947400357210427,
+          -0.01161019779721471
+        ],
+        [
+          16.397817145226934,
+          2.5377231476573727,
+          0.90569017851676
+        ]
+      ],
+      "setup_location": "Clear central business-entry aisle; not intersecting the cockpit pedestal"
+    },
+    {
+      "name": "Bridge remains deployed before doorway straddle case",
+      "passed": true
+    },
+    {
+      "name": "Door-straddling body cannot receive departure exemption",
+      "passed": true,
+      "source_bounds_m": [
+        [
+          13.819060997469045,
+          0.42033672259685545,
+          0.3599631481066887
+        ],
+        [
+          14.494990236102746,
+          0.9874327390121493,
+          1.2950588556081584
+        ]
+      ],
+      "centre_inside": true,
+      "whole_body_inside": false,
+      "actual_blocking_entries": [
+        "Physical luggage 05"
+      ],
+      "method": "Immediate actual native collision bounds after an explicitly recorded staged pose; no simulated settlement claim"
+    }
+  ],
+  "captures": [
+    {
+      "label": "Assemblies41_NPCFastened",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Screenshots\\Assemblies41_NPCFastened.png",
+      "sha256": "874ac39031decb3e275b0b6996b238ee6a17a37df6cb66d76b765e4665949638",
+      "type": "genuine native screenshot"
+    },
+    {
+      "label": "Assemblies41_EmptyStowed",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Screenshots\\Assemblies41_EmptyStowed.png",
+      "sha256": "e048bc7e002992c8874da558e87a52f7d7c21679811c8cbb9be5a38475315865",
+      "type": "genuine native screenshot"
+    },
+    {
+      "label": "Assemblies41_PlayerFastened",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Screenshots\\Assemblies41_PlayerFastened.png",
+      "sha256": "bba21b80653620a24587ee1b0087a7cf8e931c4e04a0f30dec5572dd70021715",
+      "type": "genuine native screenshot"
+    },
+    {
+      "label": "Assemblies41_PlayerReleased",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Screenshots\\Assemblies41_PlayerReleased.png",
+      "sha256": "064fc9c0ff82361419ca9b0ca6c24612586699b3ec0e5c91285c8136b01be576",
+      "type": "genuine native screenshot"
+    },
+    {
+      "label": "Assemblies41_WindowClosed",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Screenshots\\Assemblies41_WindowClosed.png",
+      "sha256": "170ec8543205eb860b1211b19447aacc83d5fd6d086165959ee3fc56807f34ce",
+      "type": "genuine native screenshot"
+    },
+    {
+      "label": "Assemblies41_WindowOpen",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Screenshots\\Assemblies41_WindowOpen.png",
+      "sha256": "0b0a49d4866f37d67fcd968a61532dd9752e7baee376209be0f1ad241e250941",
+      "type": "genuine native screenshot"
+    },
+    {
+      "label": "Assemblies41_BinOpen78",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Screenshots\\Assemblies41_BinOpen78.png",
+      "sha256": "6b0d55079c0f748aa34107fc5013955a3a7b8901d4b03a2ec8f2b914454d73f7",
+      "type": "genuine native screenshot"
+    },
+    {
+      "label": "Assemblies41_BridgeBagBlocked",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Screenshots\\Assemblies41_BridgeBagBlocked.png",
+      "sha256": "6773e243c5e6eee2468a7afd455ec4e4eff13034e8a65aa9d1c39d4454c1c742",
+      "type": "genuine native screenshot"
+    }
+  ],
+  "actions": [
+    {
+      "action": "visible_target_use",
+      "time_s": 2.687999999994645,
+      "actor": "Business belt release 112",
+      "result": "control",
+      "attempts": [
+        {
+          "player": [
+            14.480000019073486,
+            5.000000095367431,
+            1.62
+          ],
+          "selected": "Business belt release 112",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "action": "visible_target_use",
+      "time_s": 2.827999999979511,
+      "actor": "Business 01 A",
+      "result": "seat",
+      "attempts": [
+        {
+          "player": [
+            14.48,
+            4.690000095367432,
+            1.62
+          ],
+          "selected": "Business 01 A",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "action": "visible_target_use",
+      "time_s": 3.015999999974156,
+      "actor": "Business belt release 112",
+      "result": "control",
+      "attempts": [
+        {
+          "player": [
+            14.48,
+            5.440000095367432,
+            1.22
+          ],
+          "selected": "Business belt release 112",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "action": "visible_target_use",
+      "time_s": 3.890999999974156,
+      "actor": "Business belt release 112",
+      "result": "control",
+      "attempts": [
+        {
+          "player": [
+            14.48,
+            5.440000095367432,
+            1.22
+          ],
+          "selected": "Business belt release 112",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "action": "visible_target_use",
+      "time_s": 4.546999999991385,
+      "actor": "Business belt release 112",
+      "result": "control",
+      "attempts": [
+        {
+          "player": [
+            14.48,
+            5.440000095367432,
+            1.22
+          ],
+          "selected": "Business belt release 112",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "action": "normal_stand_api",
+      "time_s": 4.60999999998603
+    },
+    {
+      "action": "visible_target_use",
+      "time_s": 4.671999999991385,
+      "actor": "Window shade 06 L18",
+      "result": "movable",
+      "attempts": [
+        {
+          "player": [
+            14.5,
+            5.504999904632569,
+            1.62
+          ],
+          "selected": "Window shade 06 L18",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "action": "visible_target_use",
+      "time_s": 6.077999999979511,
+      "actor": "Window shade 06 L18",
+      "result": "movable",
+      "attempts": [
+        {
+          "player": [
+            14.5,
+            5.504999904632569,
+            1.62
+          ],
+          "selected": "Window shade 06 L18",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "action": "visible_target_use",
+      "time_s": 7.4689999999827705,
+      "actor": "Overhead bin L 04",
+      "result": "movable",
+      "attempts": [
+        {
+          "player": [
+            15.266438317298888,
+            4.4249999046325685,
+            1.62
+          ],
+          "selected": "Overhead bin L 04",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "action": "visible_target_use",
+      "time_s": 8.73499999998603,
+      "actor": "Overhead bin L 04",
+      "result": "movable",
+      "attempts": [
+        {
+          "player": [
+            15.266438317298888,
+            4.4249999046325685,
+            1.62
+          ],
+          "selected": "Overhead bin L 04",
+          "visible": true
+        }
+      ]
+    },
+    {
+      "action": "normal_deploy_request_cancels_staged_pending_stow",
+      "time_s": 12.062999999994645,
+      "accepted": true,
+      "reason": "Deploying"
+    }
+  ],
+  "setup": [
+    {
+      "kind": "direct_journey_flags_for_independent_staged_cases",
+      "checked_in": true,
+      "security": true,
+      "boarding": true,
+      "aboard": true
+    },
+    {
+      "kind": "pawn_pose",
+      "source_m": [
+        14.480000019073486,
+        5.000000095367431,
+        1.62
+      ]
+    },
+    {
+      "kind": "pawn_pose",
+      "source_m": [
+        14.48,
+        4.690000095367432,
+        1.62
+      ]
+    },
+    {
+      "kind": "pawn_pose",
+      "source_m": [
+        14.5,
+        5.504999904632569,
+        1.62
+      ]
+    },
+    {
+      "kind": "pawn_pose",
+      "source_m": [
+        14.5,
+        5.504999904632569,
+        1.62
+      ]
+    },
+    {
+      "kind": "pawn_pose",
+      "source_m": [
+        15.266438317298888,
+        4.4249999046325685,
+        1.62
+      ]
+    },
+    {
+      "kind": "pawn_pose",
+      "source_m": [
+        15.266438317298888,
+        4.4249999046325685,
+        1.62
+      ]
+    },
+    {
+      "kind": "pawn_pose",
+      "source_m": [
+        -16.8,
+        2.2,
+        1.62
+      ]
+    },
+    {
+      "kind": "direct_close_target_for_staged_bridge_safety",
+      "actor": "Aircraft door 1L",
+      "target": 0.0,
+      "progress_not_injected": true
+    },
+    {
+      "kind": "prop_pose",
+      "actor": "Physical luggage 05",
+      "source_com_m": [
+        12.5,
+        0.675,
+        0.75
+      ],
+      "physics_simulating": true
+    },
+    {
+      "kind": "prop_pose",
+      "actor": "Physical luggage 05",
+      "source_com_m": [
+        16,
+        2.2,
+        0.75
+      ],
+      "physics_simulating": true
+    },
+    {
+      "kind": "prop_pose",
+      "actor": "Physical luggage 05",
+      "source_com_m": [
+        14.15,
+        0.675,
+        0.75
+      ],
+      "physics_simulating": true
+    }
+  ],
+  "setup_pawn_teleports": 7,
+  "setup_prop_teleports": 3,
+  "setup_camera_poses": 8,
+  "physical_walk_steps": 0,
+  "scope": "Explicit staged native safety/input/pose cases. Does not replace the fresh passenger/flight route.",
+  "process_exit_code": 0,
+  "process_exit_verified": true
+}

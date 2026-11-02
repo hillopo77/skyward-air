@@ -1,0 +1,1774 @@
+{
+ "status": "SUCCESS",
+ "traces": [
+  {
+   "x": 14.855,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.86,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.865,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.87,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.875,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.88,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.885,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.89,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.895,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.9,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.905,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.91,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.915,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.92,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.925,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.93,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.935,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.855,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.86,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.865,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.87,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.875,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.88,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.885,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.89,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.895,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.9,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.905,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.91,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.915,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.92,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.925,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.93,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.935,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.855,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.86,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.865,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.87,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.875,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.88,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.885,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.89,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.895,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.9,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.905,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.91,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.915,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.92,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.925,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.93,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 14.935,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.065,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.07,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.075,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.08,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.085,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.09,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.095,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.1,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.105,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.11,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.115,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.12,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.125,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.13,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.135,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.14,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.145,
+   "y": 15.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.065,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.07,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.075,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.08,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.085,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.09,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.095,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.1,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.105,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.11,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.115,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.12,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.125,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.13,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.135,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.14,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.145,
+   "y": 20.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.065,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.07,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.075,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.08,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.085,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.09,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.095,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.1,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.105,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.11,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.115,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.12,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.125,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.13,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.135,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.14,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 17.145,
+   "y": 25.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 15.96,
+   "y": 5.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 15.965,
+   "y": 5.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 15.97,
+   "y": 5.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 15.975,
+   "y": 5.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 15.98,
+   "y": 5.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 15.985,
+   "y": 5.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 15.99,
+   "y": 5.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 15.995,
+   "y": 5.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 16.0,
+   "y": 5.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 16.005,
+   "y": 5.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 16.01,
+   "y": 5.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 16.015,
+   "y": 5.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 16.02,
+   "y": 5.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 16.025,
+   "y": 5.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 16.03,
+   "y": 5.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 16.035,
+   "y": 5.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 16.04,
+   "y": 5.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 15.96,
+   "y": 8.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 15.965,
+   "y": 8.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 15.97,
+   "y": 8.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 15.975,
+   "y": 8.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 15.98,
+   "y": 8.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 15.985,
+   "y": 8.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 15.99,
+   "y": 8.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 15.995,
+   "y": 8.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 16.0,
+   "y": 8.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 16.005,
+   "y": 8.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 16.01,
+   "y": 8.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 16.015,
+   "y": 8.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 16.02,
+   "y": 8.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 16.025,
+   "y": 8.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 16.03,
+   "y": 8.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 16.035,
+   "y": 8.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  },
+  {
+   "x": 16.04,
+   "y": 8.0,
+   "hits": [
+    {
+     "z": 0.007,
+     "actor": "SM_Plane_FittedCarpet07",
+     "comp": "StaticMeshComponent0",
+     "mesh": "SM_Plane_FittedCarpet07",
+     "mat": null
+    }
+   ]
+  }
+ ],
+ "straddle": []
+}

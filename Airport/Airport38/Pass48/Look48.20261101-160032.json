@@ -1,0 +1,54 @@
+{
+ "status": "SUCCESS",
+ "airside": null,
+ "captures": [
+  {
+   "name": "X1_forecourt_arrival",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\N1\\X1_forecourt_arrival.png"
+  },
+  {
+   "name": "Z20_cafefoyer",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\N1\\Z20_cafefoyer.png"
+  },
+  {
+   "name": "Z21_cafe_in",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\N1\\Z21_cafe_in.png"
+  },
+  {
+   "name": "H1_hall_from_foyer",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\N1\\H1_hall_from_foyer.png"
+  },
+  {
+   "name": "K_cafe_sun",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\N1\\K_cafe_sun.png"
+  },
+  {
+   "name": "N_a08_in",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\N1\\N_a08_in.png"
+  },
+  {
+   "name": "N_a08_bar",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\N1\\N_a08_bar.png"
+  },
+  {
+   "name": "N_a08_gate",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\N1\\N_a08_gate.png"
+  },
+  {
+   "name": "N_a07_in",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\N1\\N_a07_in.png"
+  },
+  {
+   "name": "N_a07_wall",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\N1\\N_a07_wall.png"
+  },
+  {
+   "name": "N_cafe_lounge",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\N1\\N_cafe_lounge.png"
+  },
+  {
+   "name": "N_cafe_stair",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\N1\\N_cafe_stair.png"
+  }
+ ]
+}

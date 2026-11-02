@@ -1,0 +1,62 @@
+{
+  "passed": true,
+  "result": {
+    "asset": "SM_AP_C43DashboardFixed",
+    "only_replaced_part": "Hollow switch tray casting.001 clean39",
+    "bounds_before": [
+      [
+        -0.3779999911785126,
+        -4.664999961853027,
+        0.9100000262260437
+      ],
+      [
+        0.3779999911785126,
+        -4.275000095367432,
+        1.0360000133514404
+      ]
+    ],
+    "vent_centres": [
+      [
+        -0.1728,
+        -4.275000095367432,
+        0.966
+      ],
+      [
+        0,
+        -4.275000095367432,
+        0.966
+      ],
+      [
+        0.1728,
+        -4.275000095367432,
+        0.966
+      ]
+    ],
+    "all_other_objects_preserved": 365
+  },
+  "preserved_other_parts": 365,
+  "bounds": [
+    [
+      -0.3779999911785126,
+      -4.664999961853027,
+      0.9100000262260437
+    ],
+    [
+      0.3779999911785126,
+      -4.275000095367432,
+      1.0360000133514404
+    ]
+  ],
+  "triangles": 4716,
+  "degenerates": 0,
+  "self_crossings": 0,
+  "nonmanifold_edges": 0,
+  "signed_volume_m3": 0.005600438396079503,
+  "front_planar_faces": 4,
+  "minimum_front_corner_normal_dot": 0.9999999403953552,
+  "three_real_vent_depths": [
+    0.3899998664855957,
+    0.3899998664855957,
+    0.3899998664855957
+  ]
+}

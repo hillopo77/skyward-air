@@ -1,0 +1,47 @@
+{
+ "status": "SUCCESS",
+ "started": 1793452078.9486418,
+ "group": "B",
+ "changed": [
+  {
+   "actor": "X-ray scanner 01",
+   "mesh": "SM_AP_Scanner38",
+   "was": {
+    "enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+    "profile": "BlockAll"
+   },
+   "now": {
+    "enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+    "profile": "BlockAll"
+   },
+   "centre_m": [
+    -42.869,
+    3.0,
+    1.09
+   ],
+   "top_m": 2.18
+  },
+  {
+   "actor": "X-ray scanner 02",
+   "mesh": "SM_AP_Scanner38",
+   "was": {
+    "enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+    "profile": "BlockAll"
+   },
+   "now": {
+    "enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+    "profile": "BlockAll"
+   },
+   "centre_m": [
+    -37.769,
+    3.0,
+    1.09
+   ],
+   "top_m": 2.18
+  }
+ ],
+ "unchanged": [],
+ "rejected": [],
+ "verification": "none in this mode; see verify46_probe.py under -game",
+ "finished": 1793452083.2501156
+}

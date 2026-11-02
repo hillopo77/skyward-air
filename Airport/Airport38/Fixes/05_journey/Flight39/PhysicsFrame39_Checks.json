@@ -1,0 +1,124 @@
+{
+  "generated_utc": "2026-10-30T01:20:50.991500+00:00",
+  "runtime_sha256": "5e872bd544838198b76894c5f3ef833f839f54b9e0c765fe83e013d4a9d0a8b2",
+  "unit": {
+    "status": "PASS",
+    "count": 27,
+    "passed": [
+      "test_props39.PropsTests.test_actual_position_not_authored_airport_location",
+      "test_props39.PropsTests.test_clamped_native_integration_survives_capture_hitches",
+      "test_props39.PropsTests.test_current_carrier_is_never_added_twice",
+      "test_props39.PropsTests.test_held_newcomer_immediate_and_drop_throw_velocity_once",
+      "test_props39.PropsTests.test_held_spring_uses_local_velocity_only_for_registered_body",
+      "test_props39.PropsTests.test_native_integration_not_double_translated",
+      "test_props39.PropsTests.test_physics_clock_uses_active_engine_cap_and_minimum",
+      "test_props39.PropsTests.test_reentry_converts_world_velocity_once_and_external_prop_unchanged",
+      "test_props39.PropsTests.test_relative_impulse_motion_is_retained_and_exit_inherits_carrier_once",
+      "test_props39.PropsTests.test_spectator_speed_and_walking_restore",
+      "test_props39.PropsTests.test_unreal_generic_exception_reads_actual_saved_project_cap",
+      "test_flight39.FlightTests.test_basis_and_reference_roundtrip",
+      "test_flight39.FlightTests.test_isolated_rudder_pitch_and_parked_steering",
+      "test_flight39.FlightTests.test_native_zero_default_quaternion_boundary",
+      "test_flight39.FlightTests.test_occupied_seat_guard_survives_frame",
+      "test_flight39.FlightTests.test_pass1_runway_dimensions_and_route",
+      "test_flight39.FlightTests.test_pass2_cold_start_and_denials",
+      "test_flight39.FlightTests.test_pass3_interlocks_and_braking",
+      "test_flight39.FlightTests.test_pass4_actual_authored_control_ids",
+      "test_flight39.FlightTests.test_pass5_end_to_end_integrated_control_driver",
+      "test_interaction39.HeldAimTests.test_held_bag_is_ignored_for_surface_and_assisted_aim",
+      "test_interaction39.HeldAimTests.test_no_held_or_stale_held_reference_ignores_only_pawn",
+      "test_interaction39.HeldAimTests.test_opaque_wall_blocks_surface_and_assisted_target_with_held_bag",
+      "test_interaction39.HeldAimTests.test_unheld_body_remains_an_occluder",
+      "test_interaction39.HeldUseTests.test_held_e_dispatches_actual_seat_and_control_once_without_recursion",
+      "test_interaction39.HeldUseTests.test_held_left_mouse_does_not_activate_plane_fitting",
+      "test_interaction39.HeldUseTests.test_held_use_cannot_dispatch_seat_or_control_through_opaque_wall"
+    ]
+  },
+  "native_staged": {
+    "status": "PASS",
+    "report": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\ArtBible\\BagPhysics39.json",
+    "sha256": "8a41fb8b626bd18cce67db180ba14bdb99f944acda26461dd175f0fb7bf47a5e",
+    "setup": "Staged diagnostic: airborne state, pawn and one suitcase positioned once before normal native holding/release. Not fresh-route evidence.",
+    "setup_teleports": 3,
+    "checks": [
+      {
+        "name": "Held native bag remains within two metres at20FPS",
+        "passed": true,
+        "distance_m": 1.2578088343385878
+      },
+      {
+        "name": "Normal release retains local support",
+        "passed": true,
+        "local_drift_m": 0.06911673796618456,
+        "local_com": [
+          15.988346252438035,
+          -2.6728250920106804,
+          0.32649731537695176
+        ],
+        "relative_speed_m_s": 0.13423299042372228
+      }
+    ],
+    "sample_count": 117,
+    "physics_clock": {
+      "maximum": 0.033333333,
+      "minimum": 0.0,
+      "source": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Config\\DefaultEngine.ini"
+    }
+  },
+  "fresh_route": {
+    "status": "PENDING with current local-physics adapter",
+    "note": "Prior full fresh flight passed167checks but failed carried-bag test under previous velocity architecture. Staged success does not replace fresh proof."
+  },
+  "envelope_review": {
+    "runtime_changed": false,
+    "method": "Actual Frame.point_inside against inspected Revision18 and bridge metadata",
+    "broad_box_source_m": {
+      "x": [
+        12,
+        20
+      ],
+      "y": [
+        -8.5,
+        43.5
+      ],
+      "z": [
+        -3.6,
+        6.5
+      ]
+    },
+    "admitted_outside_examples": [
+      {
+        "source_point_m": [
+          12.5,
+          0.675,
+          1
+        ],
+        "broad_box_accepts": true
+      },
+      {
+        "source_point_m": [
+          16,
+          40,
+          1
+        ],
+        "broad_box_accepts": true
+      },
+      {
+        "source_point_m": [
+          16,
+          10,
+          5
+        ],
+        "broad_box_accepts": true
+      },
+      {
+        "source_point_m": [
+          16,
+          10,
+          -3.2
+        ],
+        "broad_box_accepts": true
+      }
+    ]
+  }
+}

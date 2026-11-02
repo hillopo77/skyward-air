@@ -1,0 +1,21 @@
+{
+  "status": "READY",
+  "revision": 22,
+  "stage": "checkin",
+  "ticket": null,
+  "journey": {
+    "checked_in": false,
+    "bag_accepted": false,
+    "security": false,
+    "boarding": false,
+    "aboard": false
+  },
+  "seat": null,
+  "events": [],
+  "player": [
+    -50.9,
+    -12.5,
+    1.62
+  ],
+  "runtime_sha256": "13c61479a9b187355d09e0cc47b3a67bd4a52b1fd0e915f0730a35bbdf7857fb"
+}

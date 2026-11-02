@@ -1,0 +1,755 @@
+{
+ "status": "SUCCESS",
+ "aisles": [
+  [
+   14.895,
+   [
+    [
+     12.0,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 08"
+    ],
+    [
+     12.5,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 09"
+    ],
+    [
+     13.0,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 09"
+    ],
+    [
+     13.5,
+     2.63,
+     "Cabin frame10 10"
+    ],
+    [
+     14.0,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 10"
+    ],
+    [
+     14.5,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 10"
+    ],
+    [
+     15.0,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 11"
+    ],
+    [
+     15.5,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 11"
+    ],
+    [
+     16.0,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 11"
+    ],
+    [
+     16.5,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 12"
+    ],
+    [
+     17.0,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 12"
+    ],
+    [
+     17.5,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 12"
+    ],
+    [
+     18.0,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 13"
+    ],
+    [
+     18.5,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 13"
+    ],
+    [
+     19.0,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 14"
+    ],
+    [
+     19.5,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 14"
+    ],
+    [
+     20.0,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 14"
+    ],
+    [
+     20.5,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 15"
+    ],
+    [
+     21.0,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 15"
+    ],
+    [
+     21.5,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 15"
+    ],
+    [
+     22.0,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 16"
+    ],
+    [
+     22.5,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 16"
+    ],
+    [
+     23.0,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 17"
+    ],
+    [
+     23.5,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 17"
+    ],
+    [
+     24.0,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 17"
+    ],
+    [
+     24.5,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 18"
+    ],
+    [
+     25.0,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 18"
+    ],
+    [
+     25.5,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 18"
+    ],
+    [
+     26.0,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 19"
+    ],
+    [
+     26.5,
+     2.865,
+     "SM_Plane_OuterWindowBarrel bay10 19"
+    ],
+    [
+     27.0,
+     2.63,
+     "Cabin frame10 20"
+    ],
+    [
+     27.5,
+     2.865,
+     "Exit structure10 bay20"
+    ],
+    [
+     28.0,
+     2.23,
+     "Lavatory fitted ceiling closures13"
+    ]
+   ],
+   [
+    [
+     12.0,
+     0.007
+    ],
+    [
+     12.5,
+     0.007
+    ],
+    [
+     13.0,
+     0.007
+    ],
+    [
+     13.5,
+     0.007
+    ],
+    [
+     14.0,
+     0.007
+    ],
+    [
+     14.5,
+     0.007
+    ],
+    [
+     15.0,
+     0.007
+    ],
+    [
+     15.5,
+     0.007
+    ],
+    [
+     16.0,
+     0.007
+    ],
+    [
+     16.5,
+     0.007
+    ],
+    [
+     17.0,
+     0.007
+    ],
+    [
+     17.5,
+     0.007
+    ],
+    [
+     18.0,
+     0.007
+    ],
+    [
+     18.5,
+     0.007
+    ],
+    [
+     19.0,
+     0.007
+    ],
+    [
+     19.5,
+     0.007
+    ],
+    [
+     20.0,
+     0.007
+    ],
+    [
+     20.5,
+     0.007
+    ],
+    [
+     21.0,
+     0.007
+    ],
+    [
+     21.5,
+     0.007
+    ],
+    [
+     22.0,
+     0.007
+    ],
+    [
+     22.5,
+     0.007
+    ],
+    [
+     23.0,
+     0.007
+    ],
+    [
+     23.5,
+     0.007
+    ],
+    [
+     24.0,
+     0.007
+    ],
+    [
+     24.5,
+     0.007
+    ],
+    [
+     25.0,
+     0.007
+    ],
+    [
+     25.5,
+     0.007
+    ],
+    [
+     26.0,
+     0.007
+    ],
+    [
+     26.5,
+     0.007
+    ],
+    [
+     27.0,
+     0.007
+    ],
+    [
+     27.5,
+     0.007
+    ],
+    [
+     28.0,
+     0.007
+    ]
+   ]
+  ],
+  [
+   17.105,
+   [
+    [
+     12.0,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 08"
+    ],
+    [
+     12.5,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 09"
+    ],
+    [
+     13.0,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 09"
+    ],
+    [
+     13.5,
+     2.63,
+     "Cabin frame10 10"
+    ],
+    [
+     14.0,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 10"
+    ],
+    [
+     14.5,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 10"
+    ],
+    [
+     15.0,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 11"
+    ],
+    [
+     15.5,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 11"
+    ],
+    [
+     16.0,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 11"
+    ],
+    [
+     16.5,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 12"
+    ],
+    [
+     17.0,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 12"
+    ],
+    [
+     17.5,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 12"
+    ],
+    [
+     18.0,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 13"
+    ],
+    [
+     18.5,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 13"
+    ],
+    [
+     19.0,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 14"
+    ],
+    [
+     19.5,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 14"
+    ],
+    [
+     20.0,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 14"
+    ],
+    [
+     20.5,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 15"
+    ],
+    [
+     21.0,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 15"
+    ],
+    [
+     21.5,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 15"
+    ],
+    [
+     22.0,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 16"
+    ],
+    [
+     22.5,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 16"
+    ],
+    [
+     23.0,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 17"
+    ],
+    [
+     23.5,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 17"
+    ],
+    [
+     24.0,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 17"
+    ],
+    [
+     24.5,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 18"
+    ],
+    [
+     25.0,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 18"
+    ],
+    [
+     25.5,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 18"
+    ],
+    [
+     26.0,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 19"
+    ],
+    [
+     26.5,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 19"
+    ],
+    [
+     27.0,
+     2.401,
+     "SM_Plane_WindowWall_R bay10 19"
+    ],
+    [
+     27.5,
+     2.865,
+     "Exit structure10 bay20"
+    ],
+    [
+     28.0,
+     2.23,
+     "Lavatory fitted ceiling closures13"
+    ]
+   ],
+   [
+    [
+     12.0,
+     0.007
+    ],
+    [
+     12.5,
+     0.007
+    ],
+    [
+     13.0,
+     0.007
+    ],
+    [
+     13.5,
+     0.007
+    ],
+    [
+     14.0,
+     0.007
+    ],
+    [
+     14.5,
+     0.007
+    ],
+    [
+     15.0,
+     0.007
+    ],
+    [
+     15.5,
+     0.007
+    ],
+    [
+     16.0,
+     0.007
+    ],
+    [
+     16.5,
+     0.007
+    ],
+    [
+     17.0,
+     0.007
+    ],
+    [
+     17.5,
+     0.007
+    ],
+    [
+     18.0,
+     0.007
+    ],
+    [
+     18.5,
+     0.007
+    ],
+    [
+     19.0,
+     0.007
+    ],
+    [
+     19.5,
+     0.007
+    ],
+    [
+     20.0,
+     0.007
+    ],
+    [
+     20.5,
+     0.007
+    ],
+    [
+     21.0,
+     0.007
+    ],
+    [
+     21.5,
+     0.007
+    ],
+    [
+     22.0,
+     0.007
+    ],
+    [
+     22.5,
+     0.007
+    ],
+    [
+     23.0,
+     0.007
+    ],
+    [
+     23.5,
+     0.007
+    ],
+    [
+     24.0,
+     0.007
+    ],
+    [
+     24.5,
+     0.007
+    ],
+    [
+     25.0,
+     0.007
+    ],
+    [
+     25.5,
+     0.007
+    ],
+    [
+     26.0,
+     0.007
+    ],
+    [
+     26.5,
+     0.007
+    ],
+    [
+     27.0,
+     0.007
+    ],
+    [
+     27.5,
+     0.007
+    ],
+    [
+     28.0,
+     0.007
+    ]
+   ]
+  ],
+  [
+   16.0,
+   [
+    [
+     3.0,
+     2.9,
+     "SM_Plane_OuterWindowBarrel bay10 02"
+    ],
+    [
+     3.5,
+     2.9,
+     "SM_Plane_OuterWindowBarrel bay10 02"
+    ],
+    [
+     4.0,
+     2.9,
+     "SM_Plane_OuterWindowBarrel bay10 02"
+    ],
+    [
+     4.5,
+     2.9,
+     "SM_Plane_OuterWindowBarrel bay10 03"
+    ],
+    [
+     5.0,
+     2.9,
+     "SM_Plane_OuterWindowBarrel bay10 03"
+    ],
+    [
+     5.5,
+     2.9,
+     "Forward lower cargo pressure bay"
+    ],
+    [
+     6.0,
+     2.9,
+     "Forward lower cargo pressure bay"
+    ],
+    [
+     6.5,
+     2.9,
+     "Forward lower cargo pressure bay"
+    ],
+    [
+     7.0,
+     2.9,
+     "SM_Plane_OuterWindowBarrel bay10 05"
+    ],
+    [
+     7.5,
+     2.884,
+     "SM_Plane_ExteriorAirframe"
+    ],
+    [
+     8.0,
+     2.9,
+     "SM_Plane_OuterWindowBarrel bay10 05"
+    ],
+    [
+     8.5,
+     2.9,
+     "SM_Plane_OuterWindowBarrel bay10 06"
+    ],
+    [
+     9.0,
+     2.9,
+     "SM_Plane_OuterWindowBarrel bay10 06"
+    ],
+    [
+     9.5,
+     2.9,
+     "SM_Plane_OuterWindowBarrel bay10 07"
+    ],
+    [
+     10.0,
+     2.9,
+     "SM_Plane_OuterWindowBarrel bay10 07"
+    ]
+   ],
+   [
+    [
+     3.0,
+     0.007
+    ],
+    [
+     3.5,
+     0.007
+    ],
+    [
+     4.0,
+     0.007
+    ],
+    [
+     4.5,
+     0.007
+    ],
+    [
+     5.0,
+     0.007
+    ],
+    [
+     5.5,
+     0.007
+    ],
+    [
+     6.0,
+     0.007
+    ],
+    [
+     6.5,
+     0.007
+    ],
+    [
+     7.0,
+     0.007
+    ],
+    [
+     7.5,
+     0.007
+    ],
+    [
+     8.0,
+     0.007
+    ],
+    [
+     8.5,
+     0.007
+    ],
+    [
+     9.0,
+     0.007
+    ],
+    [
+     9.5,
+     0.007
+    ],
+    [
+     10.0,
+     0.007
+    ]
+   ]
+  ]
+ ]
+}

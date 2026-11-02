@@ -1,0 +1,649 @@
+{
+  "applied": true,
+  "asset_ids": [
+    "SM_AP_Bakery36",
+    "SM_AP_Bench27",
+    "SM_AP_Bench29",
+    "SM_AP_Bench34",
+    "SM_AP_CafeChair34",
+    "SM_AP_CafeTable34",
+    "SM_AP_Information27",
+    "SM_AP_OperatorConsole36",
+    "SM_AP_OvalTable36",
+    "SM_AP_POS36",
+    "SM_AP_RetainedCraft38",
+    "SM_AP_Scanner38",
+    "SM_AP_Sofa36",
+    "SM_AP_TableSetting36",
+    "SM_AP_Tea36",
+    "SM_AP_Toilet34",
+    "SM_AP_TravelStorage38",
+    "SM_AP_Trolley",
+    "SM_AP_Vanity34"
+  ],
+  "findings": [
+    {
+      "id": "S2E01",
+      "asset": "SM_AP_Scanner38",
+      "detail": "Replace twisted multi-bend loft with three rigid links and captured pivots",
+      "before_bounds": [
+        [
+          -0.8485000133514404,
+          -1.1059999465942383,
+          0.0
+        ],
+        [
+          1.409999966621399,
+          1.1059999465942383,
+          2.180000066757202
+        ]
+      ],
+      "after_bounds": [
+        [
+          -0.8485000133514404,
+          -1.1059999465942383,
+          0.0
+        ],
+        [
+          1.409999966621399,
+          1.1059999465942383,
+          2.180000066757202
+        ]
+      ]
+    },
+    {
+      "id": "S2E02",
+      "asset": "SM_AP_Vanity34",
+      "detail": "Fitted doors; closed carcass and mirror chase; fully formed drain bowls and seated hardware",
+      "before_bounds": [
+        [
+          -1.25,
+          -0.5400000214576721,
+          0.03999999910593033
+        ],
+        [
+          1.25,
+          0.3700000047683716,
+          2.247499942779541
+        ]
+      ],
+      "after_bounds": [
+        [
+          -1.6200000047683716,
+          -1.059999942779541,
+          0.0
+        ],
+        [
+          1.9600000381469727,
+          1.2200000286102295,
+          2.2899999618530273
+        ]
+      ]
+    },
+    {
+      "id": "S2E03",
+      "asset": "SM_AP_Toilet34",
+      "detail": "Remove the solid pedestal cap occluding the real recessed bowl and water",
+      "before_bounds": [
+        [
+          -0.28999999165534973,
+          -0.47999998927116394,
+          0.0
+        ],
+        [
+          0.28999999165534973,
+          0.41999998688697815,
+          0.925000011920929
+        ]
+      ],
+      "after_bounds": [
+        [
+          -0.28999999165534973,
+          -0.47999998927116394,
+          0.0
+        ],
+        [
+          0.28999999165534973,
+          0.41999998688697815,
+          0.925000011920929
+        ]
+      ]
+    },
+    {
+      "id": "S2E04",
+      "asset": "SM_AP_Bakery36",
+      "detail": "Support all three shelves from base and move the identity plaque onto fixed transom",
+      "before_bounds": [
+        [
+          -1.0,
+          -0.47189098596572876,
+          0.0
+        ],
+        [
+          1.0,
+          0.4699999988079071,
+          1.7179311513900757
+        ]
+      ],
+      "after_bounds": [
+        [
+          -1.0,
+          -0.49300000071525574,
+          0.0
+        ],
+        [
+          1.0,
+          0.4699999988079071,
+          1.7179311513900757
+        ]
+      ]
+    },
+    {
+      "id": "S2E04",
+      "asset": "SM_AP_POS36",
+      "detail": "Mount identification on fixed stone front rather than bridging both cabinet doors",
+      "before_bounds": [
+        [
+          -1.0,
+          -0.47189098596572876,
+          0.0
+        ],
+        [
+          1.0,
+          0.4699999988079071,
+          1.625
+        ]
+      ],
+      "after_bounds": [
+        [
+          -1.0,
+          -0.49300000071525574,
+          0.0
+        ],
+        [
+          1.0,
+          0.4699999988079071,
+          1.625
+        ]
+      ]
+    },
+    {
+      "id": "S2E04",
+      "asset": "SM_AP_Tea36",
+      "detail": "Mount identification on fixed stone front rather than bridging both cabinet doors",
+      "before_bounds": [
+        [
+          -1.0,
+          -0.47189098596572876,
+          0.0
+        ],
+        [
+          1.0,
+          0.4699999988079071,
+          1.6575000286102295
+        ]
+      ],
+      "after_bounds": [
+        [
+          -1.0,
+          -0.49300000071525574,
+          0.0
+        ],
+        [
+          1.0,
+          0.4699999988079071,
+          1.6575000286102295
+        ]
+      ]
+    },
+    {
+      "id": "S2E05",
+      "asset": "SM_AP_TravelStorage38",
+      "detail": "Lower neck pillows13 mm onto shelves and round their closed tips",
+      "before_bounds": [
+        [
+          -0.75,
+          -0.27000001072883606,
+          0.0
+        ],
+        [
+          0.75,
+          0.27000001072883606,
+          2.4600000381469727
+        ]
+      ],
+      "after_bounds": [
+        [
+          -0.75,
+          -0.27000001072883606,
+          0.0
+        ],
+        [
+          0.75,
+          0.27000001072883606,
+          2.4600000381469727
+        ]
+      ]
+    },
+    {
+      "id": "S2E06",
+      "asset": "SM_AP_TableSetting36",
+      "detail": "Seat settings on actual .7725 tops and support spoon at napkin/table contacts",
+      "before_bounds": [
+        [
+          -0.3247409760951996,
+          -0.23000000417232513,
+          0.0
+        ],
+        [
+          0.28299999237060547,
+          0.18000000715255737,
+          0.12862002849578857
+        ]
+      ],
+      "after_bounds": [
+        [
+          -0.8999999761581421,
+          -1.190000057220459,
+          -0.9929999709129333
+        ],
+        [
+          1.2380000352859497,
+          0.8100000023841858,
+          1.024999976158142
+        ]
+      ]
+    },
+    {
+      "id": "S2E07",
+      "asset": "SM_AP_Sofa36",
+      "detail": "Seat actual resilient feet/casters on the floor without moving tops or seat shells",
+      "before_bounds": [
+        [
+          -1.0850000381469727,
+          -0.38999998569488525,
+          0.012500000186264515
+        ],
+        [
+          1.0850000381469727,
+          0.45500001311302185,
+          0.9300000071525574
+        ]
+      ],
+      "after_bounds": [
+        [
+          -1.0850000381469727,
+          -0.38999998569488525,
+          0.0
+        ],
+        [
+          1.0850000381469727,
+          0.45500001311302185,
+          0.9300000071525574
+        ]
+      ]
+    },
+    {
+      "id": "S2E07",
+      "asset": "SM_AP_OvalTable36",
+      "detail": "Seat actual resilient feet/casters on the floor without moving tops or seat shells",
+      "before_bounds": [
+        [
+          -0.625,
+          -0.3400000035762787,
+          0.019999999552965164
+        ],
+        [
+          0.625,
+          0.3400000035762787,
+          0.578000009059906
+        ]
+      ],
+      "after_bounds": [
+        [
+          -0.625,
+          -0.3400000035762787,
+          0.0
+        ],
+        [
+          0.625,
+          0.3400000035762787,
+          0.578000009059906
+        ]
+      ]
+    },
+    {
+      "id": "S2E07",
+      "asset": "SM_AP_CafeTable34",
+      "detail": "Seat actual resilient feet/casters on the floor without moving tops or seat shells",
+      "before_bounds": [
+        [
+          -0.6000000238418579,
+          -0.3700000047683716,
+          0.007499999832361937
+        ],
+        [
+          0.6000000238418579,
+          0.3700000047683716,
+          0.7724999785423279
+        ]
+      ],
+      "after_bounds": [
+        [
+          -0.6000000238418579,
+          -0.3700000047683716,
+          0.0
+        ],
+        [
+          0.6000000238418579,
+          0.3700000047683716,
+          0.7724999785423279
+        ]
+      ]
+    },
+    {
+      "id": "S2E07",
+      "asset": "SM_AP_CafeChair34",
+      "detail": "Seat actual resilient feet/casters on the floor without moving tops or seat shells",
+      "before_bounds": [
+        [
+          -0.37700000405311584,
+          -0.40560421347618103,
+          0.007499999832361937
+        ],
+        [
+          0.37700000405311584,
+          0.43299999833106995,
+          1.1589863300323486
+        ]
+      ],
+      "after_bounds": [
+        [
+          -0.37700000405311584,
+          -0.40560421347618103,
+          0.0
+        ],
+        [
+          0.37700000405311584,
+          0.43299999833106995,
+          1.1589863300323486
+        ]
+      ]
+    },
+    {
+      "id": "S2E07",
+      "asset": "SM_AP_Trolley",
+      "detail": "Seat actual resilient feet/casters on the floor without moving tops or seat shells",
+      "before_bounds": [
+        [
+          -0.36000001430511475,
+          -0.6200000047683716,
+          0.009999999776482582
+        ],
+        [
+          0.36000001430511475,
+          0.5449615120887756,
+          1.1150000095367432
+        ]
+      ],
+      "after_bounds": [
+        [
+          -0.36000001430511475,
+          -0.6200000047683716,
+          0.0
+        ],
+        [
+          0.36000001430511475,
+          0.5449615120887756,
+          1.1150000095367432
+        ]
+      ]
+    },
+    {
+      "id": "S2E07",
+      "asset": "SM_AP_Information27",
+      "detail": "Seat actual resilient feet/casters on the floor without moving tops or seat shells",
+      "before_bounds": [
+        [
+          -1.1299999952316284,
+          -0.43393591046333313,
+          0.004999999888241291
+        ],
+        [
+          1.1299999952316284,
+          0.4050000011920929,
+          2.674999952316284
+        ]
+      ],
+      "after_bounds": [
+        [
+          -1.1299999952316284,
+          -0.43393591046333313,
+          0.0
+        ],
+        [
+          1.1299999952316284,
+          0.4050000011920929,
+          2.674999952316284
+        ]
+      ]
+    },
+    {
+      "id": "S2E07",
+      "asset": "SM_AP_Bench27",
+      "detail": "Extend shoe underside to floor while retaining top fixing height and supported seat geometry",
+      "before_bounds": [
+        [
+          -1.375,
+          -0.41093069314956665,
+          0.007000000216066837
+        ],
+        [
+          1.1380000114440918,
+          0.3527831733226776,
+          1.0848417282104492
+        ]
+      ],
+      "after_bounds": [
+        [
+          -1.375,
+          -0.41093069314956665,
+          0.0
+        ],
+        [
+          1.1380000114440918,
+          0.3527831733226776,
+          1.0848417282104492
+        ]
+      ]
+    },
+    {
+      "id": "S2E07",
+      "asset": "SM_AP_Bench29",
+      "detail": "Extend shoe underside to floor while retaining top fixing height and supported seat geometry",
+      "before_bounds": [
+        [
+          -1.375,
+          -0.41093069314956665,
+          0.007000000216066837
+        ],
+        [
+          1.1380000114440918,
+          0.3527831733226776,
+          1.0848417282104492
+        ]
+      ],
+      "after_bounds": [
+        [
+          -1.375,
+          -0.41093069314956665,
+          0.0
+        ],
+        [
+          1.1380000114440918,
+          0.3527831733226776,
+          1.0848417282104492
+        ]
+      ]
+    },
+    {
+      "id": "S2E07",
+      "asset": "SM_AP_Bench34",
+      "detail": "Extend shoe underside to floor while retaining top fixing height and supported seat geometry",
+      "before_bounds": [
+        [
+          -1.1169999837875366,
+          -0.40560421347618103,
+          0.012500000186264515
+        ],
+        [
+          1.1169999837875366,
+          0.4399999976158142,
+          1.1589863300323486
+        ]
+      ],
+      "after_bounds": [
+        [
+          -1.1169999837875366,
+          -0.40560421347618103,
+          0.0
+        ],
+        [
+          1.1169999837875366,
+          0.4399999976158142,
+          1.1589863300323486
+        ]
+      ]
+    },
+    {
+      "id": "S2E08",
+      "asset": "SM_AP_RetainedCraft38",
+      "detail": "Support A08 art independently of glazing, ground storage racks and foyer side-table shoe",
+      "before_bounds": [
+        [
+          -55.073001861572266,
+          -17.90999984741211,
+          0.0
+        ],
+        [
+          -15.770000457763672,
+          33.91999816894531,
+          3.7950000762939453
+        ]
+      ],
+      "after_bounds": [
+        [
+          -55.073001861572266,
+          -17.90999984741211,
+          0.0
+        ],
+        [
+          -15.770000457763672,
+          33.96500015258789,
+          3.7950000762939453
+        ]
+      ]
+    },
+    {
+      "id": "S2E09",
+      "actor": "HandDryer24_1809",
+      "before_location": [
+        -14.4,
+        -8.9,
+        1.1
+      ],
+      "after_location": [
+        -14.2,
+        -8.9,
+        1.1
+      ],
+      "detail": "Seat mounting rear against actual room inner wall face"
+    },
+    {
+      "id": "S2E09",
+      "actor": "Security camera24",
+      "before_location": [
+        -39.2,
+        9.85,
+        2.85
+      ],
+      "after_location": [
+        -39.2,
+        9.91,
+        2.85
+      ],
+      "detail": "Seat mounting rear against actual room inner wall face"
+    },
+    {
+      "id": "S2E09",
+      "actor": "Concourse camera24",
+      "before_location": [
+        -26.13,
+        9.6,
+        3.02
+      ],
+      "after_location": [
+        -26.09,
+        9.6,
+        3.02
+      ],
+      "detail": "Seat mounting rear against actual room inner wall face"
+    },
+    {
+      "id": "S2E10",
+      "asset": "SM_AP_OperatorConsole36",
+      "detail": "Replace static painted monitor text with correctly UV-mapped active display faces",
+      "before_bounds": [
+        [
+          -0.7250000238418579,
+          -0.4000000059604645,
+          0.0
+        ],
+        [
+          0.7250000238418579,
+          0.4000000059604645,
+          1.725000023841858
+        ]
+      ],
+      "after_bounds": [
+        [
+          -0.7250000238418579,
+          -0.4000000059604645,
+          0.0
+        ],
+        [
+          0.7250000238418579,
+          0.4000000059604645,
+          1.725000023841858
+        ]
+      ]
+    }
+  ],
+  "display_hook": "native_equipment_displays38.apply_native(ctx)",
+  "runtime": "equipment_displays38.install(G)",
+  "ignored": "39 intentionally hidden conveyor contact helpers are not rendered props",
+  "checks": [
+    "Secondary patch is idempotent on its D tag",
+    "Sink centre ray reaches seated drain, never a false solid rim/counter cap",
+    "Toilet opening ray reaches water below .31 rather than pedestal cap .36",
+    "Each of four setting groups is seated .001 above real table top",
+    "Scanner arm uses three explicit rigid links rather than twisted loft",
+    "Vanity fitted leaves cover the full front with narrow consistent reveals",
+    "Bakery shelves have six actual captured structural bearers",
+    "A08 artwork is carried by two ground-supported posts",
+    "Screen roles cover actual scanner, kiosk, counter and flight boards",
+    "SM_AP_Sofa36 feet contact floor while top/seat stays put",
+    "SM_AP_OvalTable36 feet contact floor while top/seat stays put",
+    "SM_AP_CafeTable34 feet contact floor while top/seat stays put",
+    "SM_AP_CafeChair34 feet contact floor while top/seat stays put",
+    "SM_AP_Trolley feet contact floor while top/seat stays put",
+    "SM_AP_Information27 feet contact floor while top/seat stays put",
+    "SM_AP_Bench27 feet contact floor while top/seat stays put",
+    "SM_AP_Bench29 feet contact floor while top/seat stays put",
+    "SM_AP_Bench34 feet contact floor while top/seat stays put",
+    "Neck pillows now rest exactly on shelf .3675 above one metre",
+    "Master file has not been written or changed"
+  ],
+  "source_read": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Airport_Repaired38.blend",
+  "master_unchanged_sha256": "710e3697a04d3fc2301e567742c9f5f24f56dae2f4d17347927136e67778f0c8"
+}

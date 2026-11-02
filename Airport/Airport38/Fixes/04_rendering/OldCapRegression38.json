@@ -1,0 +1,236 @@
+{
+  "status": "FAIL",
+  "scope": "active same-facing axis-planar structural face candidates across different parts; exposure not yet established",
+  "eligible_faces": 4,
+  "narrow_phase_pairs": 5,
+  "plane_tolerance_m": 0.00075,
+  "minimum_area_m2": 0.002,
+  "conflicts": [
+    {
+      "parts": [
+        {
+          "actor": "SM_AP_Roof35",
+          "asset": "SM_AP_Roof35",
+          "part": "Weather-sealed roof cap35.002"
+        },
+        {
+          "actor": "SM_AP_Room37_cafefoyer",
+          "asset": "SM_AP_Room37_cafefoyer",
+          "part": "Fitted acoustic room ceiling35.022"
+        }
+      ],
+      "axis": "z",
+      "normal": [
+        0,
+        0,
+        -1
+      ],
+      "depth_m": 3.4,
+      "depth_range_m": [
+        3.4,
+        3.4
+      ],
+      "area_m2": 35.76042391999994,
+      "maximum_plane_distance_m": 0.0,
+      "overlap_world_min": [
+        -37.990002,
+        10.01,
+        3.4
+      ],
+      "overlap_world_max": [
+        -32.009998,
+        15.99,
+        3.4
+      ],
+      "overlap_sample_points": [
+        [
+          -35.0,
+          13.0,
+          3.4
+        ]
+      ],
+      "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+    },
+    {
+      "parts": [
+        {
+          "actor": "SM_AP_Roof35",
+          "asset": "SM_AP_Roof35",
+          "part": "Weather-sealed roof cap35.003"
+        },
+        {
+          "actor": "SM_AP_Room37_gate08foyer",
+          "asset": "SM_AP_Room37_gate08foyer",
+          "part": "Fitted acoustic room ceiling35.020"
+        }
+      ],
+      "axis": "z",
+      "normal": [
+        0,
+        0,
+        -1
+      ],
+      "depth_m": 3.4,
+      "depth_range_m": [
+        3.4,
+        3.4
+      ],
+      "area_m2": 31.76040000000006,
+      "maximum_plane_distance_m": 0.0,
+      "overlap_world_min": [
+        -31.99,
+        14.01,
+        3.4
+      ],
+      "overlap_world_max": [
+        -24.01,
+        17.99,
+        3.4
+      ],
+      "overlap_sample_points": [
+        [
+          -28.0,
+          16.0,
+          3.4
+        ]
+      ],
+      "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+    },
+    {
+      "parts": [
+        {
+          "actor": "SM_AP_Roof35",
+          "asset": "SM_AP_Roof35",
+          "part": "Weather-sealed roof cap35.002"
+        },
+        {
+          "actor": "SM_AP_Roof35",
+          "asset": "SM_AP_Roof35",
+          "part": "Weather-sealed roof cap35.003"
+        }
+      ],
+      "axis": "z",
+      "normal": [
+        0,
+        0,
+        -1
+      ],
+      "depth_m": 3.4,
+      "depth_range_m": [
+        3.4,
+        3.4
+      ],
+      "area_m2": 0.3225044500020431,
+      "maximum_plane_distance_m": 0.0,
+      "overlap_world_min": [
+        -32.075001,
+        13.925,
+        3.4
+      ],
+      "overlap_world_max": [
+        -31.924999,
+        16.075001,
+        3.4
+      ],
+      "overlap_sample_points": [
+        [
+          -32.0,
+          15.0000005,
+          3.4
+        ]
+      ],
+      "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+    },
+    {
+      "parts": [
+        {
+          "actor": "SM_AP_Roof35",
+          "asset": "SM_AP_Roof35",
+          "part": "Weather-sealed roof cap35.003"
+        },
+        {
+          "actor": "SM_AP_Room37_cafefoyer",
+          "asset": "SM_AP_Room37_cafefoyer",
+          "part": "Fitted acoustic room ceiling35.022"
+        }
+      ],
+      "axis": "z",
+      "normal": [
+        0,
+        0,
+        -1
+      ],
+      "depth_m": 3.4,
+      "depth_range_m": [
+        3.4,
+        3.4
+      ],
+      "area_m2": 0.13423119499998393,
+      "maximum_plane_distance_m": 0.0,
+      "overlap_world_min": [
+        -32.075001,
+        13.925,
+        3.4
+      ],
+      "overlap_world_max": [
+        -32.009998,
+        15.99,
+        3.4
+      ],
+      "overlap_sample_points": [
+        [
+          -32.042499500000005,
+          14.9575,
+          3.4
+        ]
+      ],
+      "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+    },
+    {
+      "parts": [
+        {
+          "actor": "SM_AP_Roof35",
+          "asset": "SM_AP_Roof35",
+          "part": "Weather-sealed roof cap35.002"
+        },
+        {
+          "actor": "SM_AP_Room37_gate08foyer",
+          "asset": "SM_AP_Room37_gate08foyer",
+          "part": "Fitted acoustic room ceiling35.020"
+        }
+      ],
+      "axis": "z",
+      "normal": [
+        0,
+        0,
+        -1
+      ],
+      "depth_m": 3.4,
+      "depth_range_m": [
+        3.4,
+        3.4
+      ],
+      "area_m2": 0.1342271300010225,
+      "maximum_plane_distance_m": 0.0,
+      "overlap_world_min": [
+        -31.99,
+        14.01,
+        3.4
+      ],
+      "overlap_world_max": [
+        -31.924999,
+        16.075001,
+        3.4
+      ],
+      "overlap_sample_points": [
+        [
+          -31.957499499999997,
+          15.0425005,
+          3.4
+        ]
+      ],
+      "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+    }
+  ],
+  "limits": "Sealed interior contacts can be candidates; no visibility suppression applied. Does not prove non-planar/oblique clearance, lighting stability or every aircraft surface."
+}

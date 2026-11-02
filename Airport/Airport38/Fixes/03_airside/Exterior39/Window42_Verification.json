@@ -1,0 +1,54 @@
+{
+  "passed": true,
+  "passes": [
+    {
+      "check": "Monotone collar actual geometry no disjoint-face self crossings",
+      "self_crossings": 0,
+      "minimum_skin_clearance_m": 0.002000103470252146
+    },
+    {
+      "check": "Full98\u201399% aperture normal seated/standing eyes with actualPSUs",
+      "rays": 7020,
+      "blocked": 0
+    },
+    {
+      "check": "New collar versus retained actual shade parts throughout travel",
+      "pose_pairs": 210,
+      "triangle_crossings": 0
+    }
+  ],
+  "assets": {
+    "SM_AP_W42WindowWallL": {
+      "inner_widths": [
+        0.69,
+        0.7
+      ],
+      "no_reverse_profile": true,
+      "actual_pressure_aperture": [
+        0.7,
+        1.0
+      ]
+    },
+    "SM_AP_W42WindowWallR": {
+      "inner_widths": [
+        0.69,
+        0.7
+      ],
+      "no_reverse_profile": true,
+      "actual_pressure_aperture": [
+        0.7,
+        1.0
+      ]
+    },
+    "SM_AP_W42ShadeFrameL": {
+      "pointed_shields_removed": 2,
+      "captive_channel_positions_unchanged": true,
+      "short_rounded_feed_cowl": true
+    },
+    "SM_AP_W42ShadeFrameR": {
+      "pointed_shields_removed": 2,
+      "captive_channel_positions_unchanged": true,
+      "short_rounded_feed_cowl": true
+    }
+  }
+}

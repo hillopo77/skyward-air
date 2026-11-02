@@ -1,0 +1,148 @@
+{
+  "status": "SUCCESS",
+  "generated": 1792957442.804605,
+  "passes": [
+    {
+      "pass_id": 1,
+      "name": "Passenger circulation and connected boarding footprint",
+      "build": {
+        "pass_id": 1,
+        "map": "/Game/Airport10/L_Airport_Pass01",
+        "placed_instances": 10,
+        "modeled_asset_families": 67,
+        "layout_sha256": "249ca3cf05b475655e560b30ebd87045b43887a7992bee7f3b1720abec966948",
+        "asset_manifest_sha256": "d32af1510a5d816011c989c15499d94e62f3a71d029b8a6183fb5b4499a2218a"
+      },
+      "captures": 4
+    },
+    {
+      "pass_id": 2,
+      "name": "Modeled architecture, glazed elevations and mezzanine",
+      "build": {
+        "pass_id": 2,
+        "map": "/Game/Airport10/L_Airport_Pass02",
+        "placed_instances": 7551,
+        "modeled_asset_families": 67,
+        "layout_sha256": "249ca3cf05b475655e560b30ebd87045b43887a7992bee7f3b1720abec966948",
+        "asset_manifest_sha256": "d32af1510a5d816011c989c15499d94e62f3a71d029b8a6183fb5b4499a2218a"
+      },
+      "captures": 4
+    },
+    {
+      "pass_id": 3,
+      "name": "Check-in, bag drop and arrivals reclaim",
+      "build": {
+        "pass_id": 3,
+        "map": "/Game/Airport10/L_Airport_Pass03",
+        "placed_instances": 7575,
+        "modeled_asset_families": 67,
+        "layout_sha256": "249ca3cf05b475655e560b30ebd87045b43887a7992bee7f3b1720abec966948",
+        "asset_manifest_sha256": "d32af1510a5d816011c989c15499d94e62f3a71d029b8a6183fb5b4499a2218a"
+      },
+      "captures": 5
+    },
+    {
+      "pass_id": 4,
+      "name": "Security lanes, trays, operator equipment and barriers",
+      "build": {
+        "pass_id": 4,
+        "map": "/Game/Airport10/L_Airport_Pass04",
+        "placed_instances": 7702,
+        "modeled_asset_families": 67,
+        "layout_sha256": "249ca3cf05b475655e560b30ebd87045b43887a7992bee7f3b1720abec966948",
+        "asset_manifest_sha256": "d32af1510a5d816011c989c15499d94e62f3a71d029b8a6183fb5b4499a2218a"
+      },
+      "captures": 4
+    },
+    {
+      "pass_id": 5,
+      "name": "Passenger amenities, lounge, cafe and furnished gates",
+      "build": {
+        "pass_id": 5,
+        "map": "/Game/Airport10/L_Airport_Pass05",
+        "placed_instances": 7810,
+        "modeled_asset_families": 67,
+        "layout_sha256": "249ca3cf05b475655e560b30ebd87045b43887a7992bee7f3b1720abec966948",
+        "asset_manifest_sha256": "d32af1510a5d816011c989c15499d94e62f3a71d029b8a6183fb5b4499a2218a"
+      },
+      "captures": 6
+    },
+    {
+      "pass_id": 6,
+      "name": "Landside, apron, runway and ground service",
+      "build": {
+        "pass_id": 6,
+        "map": "/Game/Airport10/L_Airport_Pass06",
+        "placed_instances": 8321,
+        "modeled_asset_families": 67,
+        "layout_sha256": "249ca3cf05b475655e560b30ebd87045b43887a7992bee7f3b1720abec966948",
+        "asset_manifest_sha256": "d32af1510a5d816011c989c15499d94e62f3a71d029b8a6183fb5b4499a2218a"
+      },
+      "captures": 6
+    },
+    {
+      "pass_id": 7,
+      "name": "Physical luggage, pickups and mechanical interactions",
+      "build": {
+        "pass_id": 7,
+        "map": "/Game/Airport10/L_Airport_Pass07",
+        "placed_instances": 8366,
+        "modeled_asset_families": 67,
+        "layout_sha256": "249ca3cf05b475655e560b30ebd87045b43887a7992bee7f3b1720abec966948",
+        "asset_manifest_sha256": "d32af1510a5d816011c989c15499d94e62f3a71d029b8a6183fb5b4499a2218a"
+      },
+      "captures": 5
+    },
+    {
+      "pass_id": 8,
+      "name": "Original signs, information systems and boarding sequence",
+      "build": {
+        "pass_id": 8,
+        "map": "/Game/Airport10/L_Airport_Pass08",
+        "placed_instances": 8379,
+        "modeled_asset_families": 82,
+        "layout_sha256": "4c456c7ca1ef66ce01ac8045b0f59c18f15bde9b7f572f28a6836da71aaaf0eb",
+        "asset_manifest_sha256": "1dee16d6975f7f56af2e3ac57801c87cfd7bcd4943fd876cde79a9da55e53c70"
+      },
+      "captures": 5
+    },
+    {
+      "pass_id": 9,
+      "name": "Materials, illumination and performance review",
+      "build": {
+        "pass_id": 9,
+        "map": "/Game/Airport10/L_Airport_Pass09",
+        "placed_instances": 8379,
+        "modeled_asset_families": 82,
+        "layout_sha256": "4c456c7ca1ef66ce01ac8045b0f59c18f15bde9b7f572f28a6836da71aaaf0eb",
+        "asset_manifest_sha256": "1dee16d6975f7f56af2e3ac57801c87cfd7bcd4943fd876cde79a9da55e53c70"
+      },
+      "captures": 5
+    },
+    {
+      "pass_id": 10,
+      "name": "Scrutiny, route verification and final corrections",
+      "build": {
+        "pass_id": 10,
+        "map": "/Game/Airport10/L_Airport_Pass10",
+        "placed_instances": 8706,
+        "modeled_asset_families": 89,
+        "layout_sha256": "c064ed334726016b930aa39a808e97e433aaa87c1e005526a5b7581bd65b52be",
+        "asset_manifest_sha256": "e156c454f1c69d6c542d920710b11f34d2ac39c310731094e13cbd3dc727bce2"
+      },
+      "captures": 16
+    }
+  ],
+  "asset_families": 89,
+  "placed_instances": 8706,
+  "native_rigid_bodies": 39,
+  "checks_passed": 22,
+  "genuine_captures": 60,
+  "final_captures": 16,
+  "protected_aircraft_sha256": "ae048f469cf2a55e726e07289c23dc5514783b5656ea1e928a3da6a72f8105d0",
+  "files": {
+    "Airport.blend": "527c6af270f51e72c88a3e6caffc0382ef66bdb79348d0223b56b33c3ab04b7c",
+    "Exports\\airport_layout.json": "c064ed334726016b930aa39a808e97e433aaa87c1e005526a5b7581bd65b52be",
+    "Exports\\airport_assets.json": "e156c454f1c69d6c542d920710b11f34d2ac39c310731094e13cbd3dc727bce2"
+  }
+}

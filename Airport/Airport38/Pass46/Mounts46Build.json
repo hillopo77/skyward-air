@@ -1,0 +1,207 @@
+{
+ "status": "SUCCESS",
+ "blender": "5.2.2 LTS",
+ "mounts": [
+  {
+   "asset": "SM_AP_P46M_Header0",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass46\\Closure46\\SM_AP_P46M_Header0.fbx",
+   "actor": "Check-in service header29 0",
+   "world_centre": [
+    -30.307,
+    -11.6,
+    0.0
+   ],
+   "yaw_degrees": 0.0,
+   "hanger_offset_m": 1.2,
+   "board_top_m": 3.18,
+   "ceiling_m": 3.8,
+   "parts": [
+    {
+     "part": "ceiling shoe",
+     "local": [
+      0.0,
+      -1.2,
+      3.788
+     ],
+     "size": [
+      0.16,
+      0.2,
+      0.024
+     ],
+     "bears_on": "ceiling underside at z=3.800"
+    },
+    {
+     "part": "threaded hanger",
+     "local": [
+      0.0,
+      -1.2,
+      3.466
+     ],
+     "radius": 0.014,
+     "z": [
+      3.1550000000000002,
+      3.7769999999999997
+     ]
+    },
+    {
+     "part": "captured saddle",
+     "local": [
+      0.0,
+      -1.2,
+      3.1740000000000004
+     ],
+     "size": [
+      0.1,
+      0.16,
+      0.032
+     ],
+     "grips": "board top edge at z=3.180, 10 mm of capture"
+    },
+    {
+     "part": "ceiling shoe",
+     "local": [
+      0.0,
+      1.2,
+      3.788
+     ],
+     "size": [
+      0.16,
+      0.2,
+      0.024
+     ],
+     "bears_on": "ceiling underside at z=3.800"
+    },
+    {
+     "part": "threaded hanger",
+     "local": [
+      0.0,
+      1.2,
+      3.466
+     ],
+     "radius": 0.014,
+     "z": [
+      3.1550000000000002,
+      3.7769999999999997
+     ]
+    },
+    {
+     "part": "captured saddle",
+     "local": [
+      0.0,
+      1.2,
+      3.1740000000000004
+     ],
+     "size": [
+      0.1,
+      0.16,
+      0.032
+     ],
+     "grips": "board top edge at z=3.180, 10 mm of capture"
+    }
+   ],
+   "triangles": 104
+  },
+  {
+   "asset": "SM_AP_P46M_Header1",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass46\\Closure46\\SM_AP_P46M_Header1.fbx",
+   "actor": "Check-in service header29 1",
+   "world_centre": [
+    -30.307,
+    -14.6,
+    0.0
+   ],
+   "yaw_degrees": 0.0,
+   "hanger_offset_m": 1.2,
+   "board_top_m": 3.18,
+   "ceiling_m": 3.8,
+   "parts": [
+    {
+     "part": "ceiling shoe",
+     "local": [
+      0.0,
+      -1.2,
+      3.788
+     ],
+     "size": [
+      0.16,
+      0.2,
+      0.024
+     ],
+     "bears_on": "ceiling underside at z=3.800"
+    },
+    {
+     "part": "threaded hanger",
+     "local": [
+      0.0,
+      -1.2,
+      3.466
+     ],
+     "radius": 0.014,
+     "z": [
+      3.1550000000000002,
+      3.7769999999999997
+     ]
+    },
+    {
+     "part": "captured saddle",
+     "local": [
+      0.0,
+      -1.2,
+      3.1740000000000004
+     ],
+     "size": [
+      0.1,
+      0.16,
+      0.032
+     ],
+     "grips": "board top edge at z=3.180, 10 mm of capture"
+    },
+    {
+     "part": "ceiling shoe",
+     "local": [
+      0.0,
+      1.2,
+      3.788
+     ],
+     "size": [
+      0.16,
+      0.2,
+      0.024
+     ],
+     "bears_on": "ceiling underside at z=3.800"
+    },
+    {
+     "part": "threaded hanger",
+     "local": [
+      0.0,
+      1.2,
+      3.466
+     ],
+     "radius": 0.014,
+     "z": [
+      3.1550000000000002,
+      3.7769999999999997
+     ]
+    },
+    {
+     "part": "captured saddle",
+     "local": [
+      0.0,
+      1.2,
+      3.1740000000000004
+     ],
+     "size": [
+      0.1,
+      0.16,
+      0.032
+     ],
+     "grips": "board top edge at z=3.180, 10 mm of capture"
+    }
+   ],
+   "triangles": 104
+  }
+ ],
+ "count": 2,
+ "blend": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass46\\Closure46\\header_mounts46.blend",
+ "language_copied_from": "secondary_patch38.apply, the gate display mounts"
+}

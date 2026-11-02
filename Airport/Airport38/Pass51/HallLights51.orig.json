@@ -1,0 +1,377 @@
+{
+ "AP38 practical 000 welcome": {
+  "intensity": 6600.0,
+  "temperature": 3300.0,
+  "source_width": 178.0,
+  "source_height": 25.0,
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "cast_shadows": true,
+  "z": 6.431
+ },
+ "AP38 practical 001 welcome": {
+  "intensity": 6600.0,
+  "temperature": 3300.0,
+  "source_width": 178.0,
+  "source_height": 25.0,
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "cast_shadows": true,
+  "z": 6.431
+ },
+ "AP38 practical 002 checkin_task": {
+  "intensity": 8580.0,
+  "temperature": 3500.0,
+  "source_width": 178.0,
+  "source_height": 25.0,
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "cast_shadows": true,
+  "z": 6.431
+ },
+ "AP38 practical 003 checkin_task": {
+  "intensity": 8580.0,
+  "temperature": 3500.0,
+  "source_width": 178.0,
+  "source_height": 25.0,
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "cast_shadows": true,
+  "z": 6.431
+ },
+ "AP38 practical 004 checkin_task": {
+  "intensity": 8580.0,
+  "temperature": 3500.0,
+  "source_width": 178.0,
+  "source_height": 25.0,
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "cast_shadows": true,
+  "z": 6.431
+ },
+ "AP38 practical 005 checkin_task": {
+  "intensity": 8580.0,
+  "temperature": 3500.0,
+  "source_width": 178.0,
+  "source_height": 25.0,
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "cast_shadows": true,
+  "z": 6.431
+ },
+ "AP38 practical 006 checkin_task": {
+  "intensity": 8580.0,
+  "temperature": 3500.0,
+  "source_width": 178.0,
+  "source_height": 25.0,
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "cast_shadows": true,
+  "z": 6.431
+ },
+ "AP38 practical 007 checkin_task": {
+  "intensity": 8580.0,
+  "temperature": 3500.0,
+  "source_width": 178.0,
+  "source_height": 25.0,
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "cast_shadows": true,
+  "z": 6.431
+ },
+ "AP38 practical 012 circulation": {
+  "intensity": 7040.0,
+  "temperature": 3400.0,
+  "source_width": 178.0,
+  "source_height": 25.0,
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "cast_shadows": true,
+  "z": 6.431
+ },
+ "AP38 practical 013 circulation": {
+  "intensity": 7040.0,
+  "temperature": 3400.0,
+  "source_width": 178.0,
+  "source_height": 25.0,
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "cast_shadows": true,
+  "z": 6.431
+ },
+ "AP38 practical 014 circulation": {
+  "intensity": 7040.0,
+  "temperature": 3400.0,
+  "source_width": 178.0,
+  "source_height": 25.0,
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "cast_shadows": true,
+  "z": 6.431
+ },
+ "AP38 practical 015 circulation": {
+  "intensity": 7040.0,
+  "temperature": 3400.0,
+  "source_width": 178.0,
+  "source_height": 25.0,
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "cast_shadows": true,
+  "z": 6.431
+ },
+ "_volumes": {
+  "AP38 warm grade entrancefoyer": {
+   "auto_exposure_min_brightness": [
+    true,
+    6.5
+   ],
+   "auto_exposure_max_brightness": [
+    true,
+    6.5
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "vignette_intensity": [
+    false,
+    0.4000000059604645
+   ],
+   "bloom_intensity": [
+    true,
+    0.04500000178813934
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.550000011920929
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    110.0
+   ],
+   "ambient_cubemap_intensity": [
+    true,
+    0.25999999046325684
+   ],
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C763254C) {r: 1.000000, g: 0.980000, b: 0.940000, a: 1.000000}>"
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C7632130) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ]
+  },
+  "AP38 warm grade checkin": {
+   "auto_exposure_min_brightness": [
+    true,
+    6.5
+   ],
+   "auto_exposure_max_brightness": [
+    true,
+    6.5
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "vignette_intensity": [
+    false,
+    0.4000000059604645
+   ],
+   "bloom_intensity": [
+    true,
+    0.04500000178813934
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.550000011920929
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    110.0
+   ],
+   "ambient_cubemap_intensity": [
+    true,
+    0.25999999046325684
+   ],
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C763334C) {r: 1.000000, g: 0.980000, b: 0.940000, a: 1.000000}>"
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C7632F30) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ]
+  },
+  "AP38 warm grade landsidecorridor": {
+   "auto_exposure_min_brightness": [
+    true,
+    6.5
+   ],
+   "auto_exposure_max_brightness": [
+    true,
+    6.5
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "vignette_intensity": [
+    false,
+    0.4000000059604645
+   ],
+   "bloom_intensity": [
+    true,
+    0.04500000178813934
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.550000011920929
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    110.0
+   ],
+   "ambient_cubemap_intensity": [
+    true,
+    0.25999999046325684
+   ],
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C762174C) {r: 1.000000, g: 0.980000, b: 0.940000, a: 1.000000}>"
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C7621330) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ]
+  }
+ },
+ "_floor_tint": [
+  1.0,
+  1.0,
+  1.0
+ ],
+ "AP38 practical 027 lounge": {
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "z": 6.231
+ },
+ "AP38 practical 028 lounge": {
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "z": 6.231
+ },
+ "AP38 practical 029 lounge": {
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "z": 6.231
+ },
+ "AP38 practical 030 lounge": {
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "z": 6.231
+ },
+ "AP38 practical 031 lounge": {
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "z": 6.231
+ },
+ "AP38 practical 032 lounge": {
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "z": 6.231
+ },
+ "AP38 practical 033 lounge": {
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "z": 6.231
+ },
+ "AP38 practical 034 lounge": {
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "z": 6.231
+ },
+ "AP38 practical 035 lounge": {
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "z": 6.231
+ },
+ "AP38 practical 036 lounge": {
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "z": 6.231
+ },
+ "AP38 practical 059 reclaim_task": {
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "z": 6.231
+ },
+ "AP38 practical 060 reclaim_task": {
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "z": 6.231
+ },
+ "AP38 practical 061 reclaim_task": {
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "z": 6.231
+ },
+ "AP38 practical 062 reclaim_task": {
+  "attenuation_radius": 1600.0,
+  "shadow_resolution_scale": 4.0,
+  "barn_door_angle": 88.0,
+  "barn_door_length": 20.0,
+  "z": 6.231
+ }
+}

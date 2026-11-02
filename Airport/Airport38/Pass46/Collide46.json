@@ -1,0 +1,31 @@
+{
+ "status": "SUCCESS",
+ "started": 1793454093.7883348,
+ "group": "C",
+ "changed": [
+  {
+   "actor": "Crafted GalleryStair35",
+   "mesh": "SM_AP_GalleryStair35",
+   "was": {
+    "enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+    "profile": "NoCollision",
+    "actor_collision": true
+   },
+   "now": {
+    "enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+    "profile": "BlockAll",
+    "actor_collision": true
+   },
+   "centre_m": [
+    -44.998,
+    25.602,
+    2.096
+   ],
+   "top_m": 4.229
+  }
+ ],
+ "unchanged": [],
+ "rejected": [],
+ "verification": "none in this mode; see verify46_probe.py under -game",
+ "finished": 1793454098.1828568
+}

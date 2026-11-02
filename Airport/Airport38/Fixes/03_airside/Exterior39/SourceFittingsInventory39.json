@@ -1,0 +1,6034 @@
+[
+  {
+    "asset": "SM_Plane_WindowWall_L",
+    "name": "Thin formed cabin liner around actual window.001",
+    "vertices": 2132,
+    "faces": 1968,
+    "min": [
+      -2.3977887630462646,
+      -0.675000011920929,
+      0.20000000298023224
+    ],
+    "max": [
+      -2.347301483154297,
+      0.675000011920929,
+      2.192307710647583
+    ],
+    "materials": [
+      "MI_Plane_Cabin09"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_WindowWall_L",
+    "name": "Continuous tapered window reveal and rolled thin lip.001",
+    "vertices": 656,
+    "faces": 492,
+    "min": [
+      -2.4913885593414307,
+      -0.3799999952316284,
+      0.9199999570846558
+    ],
+    "max": [
+      -2.390575885772705,
+      0.3799999952316284,
+      2.0
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_WindowWall_L",
+    "name": "Fine window interior trim bead.001",
+    "vertices": 1640,
+    "faces": 1640,
+    "min": [
+      -2.3941824436187744,
+      -0.38665738701820374,
+      0.9162274599075317
+    ],
+    "max": [
+      -2.386969566345215,
+      0.38665738701820374,
+      2.006401300430298
+    ],
+    "materials": [
+      "MI_Plane_Cabin09"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_WindowWall_L",
+    "name": "Laminated passenger glazing09.001",
+    "vertices": 165,
+    "faces": 164,
+    "min": [
+      -2.486908435821533,
+      -0.3499999940395355,
+      0.9602128267288208
+    ],
+    "max": [
+      -2.423950433731079,
+      0.3499999940395355,
+      1.9597872495651245
+    ],
+    "materials": [
+      "MI_Plane_SkyGlass18"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_WindowWall_L",
+    "name": "Retractable shade top cassette.001",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      0.09298396110534668,
+      -0.36500000953674316,
+      -0.015769243240356445
+    ],
+    "max": [
+      0.12132000923156738,
+      0.36500000953674316,
+      0.03230786323547363
+    ],
+    "materials": [
+      "MI_Plane_Cabin09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.014000000432133675
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_WindowWall_L",
+    "name": "Shade recessed grip.001",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      0.09566712379455566,
+      -0.05000000074505806,
+      0.0012552738189697266
+    ],
+    "max": [
+      0.10700154304504395,
+      0.05000000074505806,
+      0.017576932907104492
+    ],
+    "materials": [
+      "MI_Plane_Trim09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.004000000189989805
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_WindowWall_L",
+    "name": "Fitted lower kick panel.001",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      0.08783197402954102,
+      -0.675000011920929,
+      -0.10000000149011612
+    ],
+    "max": [
+      0.12647199630737305,
+      0.675000011920929,
+      0.10000000894069672
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.014999999664723873
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_WindowWall_L",
+    "name": "Recessed continuous warm escape strip.001",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      0.08301758766174316,
+      -0.6231168508529663,
+      -0.009000003337860107
+    ],
+    "max": [
+      0.08765435218811035,
+      0.6231168508529663,
+      0.009000003337860107
+    ],
+    "materials": [
+      "MI_Plane_Light09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.004000000189989805
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_WindowWall_L",
+    "name": "Continuous acoustic ceiling shoulder09.001",
+    "vertices": 66,
+    "faces": 32,
+    "min": [
+      -2.3475959300994873,
+      -0.675000011920929,
+      2.1913461685180664
+    ],
+    "max": [
+      -1.100000023841858,
+      0.675000011920929,
+      2.4000000953674316
+    ],
+    "materials": [
+      "MI_Plane_Cabin09"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_WindowWall_R",
+    "name": "Thin formed cabin liner around actual window",
+    "vertices": 2132,
+    "faces": 1968,
+    "min": [
+      2.347301483154297,
+      -0.675000011920929,
+      0.20000000298023224
+    ],
+    "max": [
+      2.3977887630462646,
+      0.675000011920929,
+      2.192307710647583
+    ],
+    "materials": [
+      "MI_Plane_Cabin09"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_WindowWall_R",
+    "name": "Continuous tapered window reveal and rolled thin lip",
+    "vertices": 656,
+    "faces": 492,
+    "min": [
+      2.390575885772705,
+      -0.3799999952316284,
+      0.9199999570846558
+    ],
+    "max": [
+      2.4913885593414307,
+      0.3799999952316284,
+      2.0
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_WindowWall_R",
+    "name": "Fine window interior trim bead",
+    "vertices": 1640,
+    "faces": 1640,
+    "min": [
+      2.386969566345215,
+      -0.38665738701820374,
+      0.9162274599075317
+    ],
+    "max": [
+      2.3941824436187744,
+      0.38665738701820374,
+      2.006401300430298
+    ],
+    "materials": [
+      "MI_Plane_Cabin09"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_WindowWall_R",
+    "name": "Laminated passenger glazing09",
+    "vertices": 165,
+    "faces": 164,
+    "min": [
+      2.423950433731079,
+      -0.3499999940395355,
+      0.9602128267288208
+    ],
+    "max": [
+      2.486908435821533,
+      0.3499999940395355,
+      1.9597872495651245
+    ],
+    "materials": [
+      "MI_Plane_SkyGlass18"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_WindowWall_R",
+    "name": "Retractable shade top cassette",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.12132000923156738,
+      -0.36500000953674316,
+      -0.015769243240356445
+    ],
+    "max": [
+      -0.09298396110534668,
+      0.36500000953674316,
+      0.03230786323547363
+    ],
+    "materials": [
+      "MI_Plane_Cabin09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.014000000432133675
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_WindowWall_R",
+    "name": "Shade recessed grip",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.10700154304504395,
+      -0.05000000074505806,
+      0.0012552738189697266
+    ],
+    "max": [
+      -0.09566712379455566,
+      0.05000000074505806,
+      0.017576932907104492
+    ],
+    "materials": [
+      "MI_Plane_Trim09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.004000000189989805
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_WindowWall_R",
+    "name": "Fitted lower kick panel",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.12647199630737305,
+      -0.675000011920929,
+      -0.10000000149011612
+    ],
+    "max": [
+      -0.08783197402954102,
+      0.675000011920929,
+      0.10000000894069672
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.014999999664723873
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_WindowWall_R",
+    "name": "Recessed continuous warm escape strip",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.08765435218811035,
+      -0.6231168508529663,
+      -0.009000003337860107
+    ],
+    "max": [
+      -0.08301758766174316,
+      0.6231168508529663,
+      0.009000003337860107
+    ],
+    "materials": [
+      "MI_Plane_Light09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.004000000189989805
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_WindowWall_R",
+    "name": "Continuous acoustic ceiling shoulder09",
+    "vertices": 66,
+    "faces": 32,
+    "min": [
+      1.100000023841858,
+      -0.675000011920929,
+      2.1913461685180664
+    ],
+    "max": [
+      2.3475959300994873,
+      0.675000011920929,
+      2.4000000953674316
+    ],
+    "materials": [
+      "MI_Plane_Cabin09"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_OuterWindowBarrel",
+    "name": "Flush glazing weather seal09",
+    "vertices": 1312,
+    "faces": 1312,
+    "min": [
+      -2.5016214847564697,
+      -0.3529999852180481,
+      1.0849324464797974
+    ],
+    "max": [
+      -2.3833365440368652,
+      0.3529999852180481,
+      1.95590341091156
+    ],
+    "materials": [
+      "MI_Plane_SkyGlass18"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_OuterWindowBarrel",
+    "name": "Flush glazing weather seal09.001",
+    "vertices": 1312,
+    "faces": 1312,
+    "min": [
+      2.3833365440368652,
+      -0.3529999852180481,
+      1.0849324464797974
+    ],
+    "max": [
+      2.5016214847564697,
+      0.3529999852180481,
+      1.95590341091156
+    ],
+    "materials": [
+      "MI_Plane_SkyGlass18"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_OuterWindowBarrel",
+    "name": "Fitted pressure crown09",
+    "vertices": 194,
+    "faces": 96,
+    "min": [
+      -1.4618749618530273,
+      -0.675000011920929,
+      2.799999952316284
+    ],
+    "max": [
+      1.4618749618530273,
+      0.675000011920929,
+      2.9000000953674316
+    ],
+    "materials": [
+      "MI_Plane_Paint09"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_OuterWindowBarrel",
+    "name": "Fitted pressure skin09 with actual aperture Blue09",
+    "vertices": 40,
+    "faces": 20,
+    "min": [
+      -2.477327346801758,
+      -0.675000011920929,
+      -0.4000000059604645
+    ],
+    "max": [
+      -2.4729785919189453,
+      0.675000011920929,
+      -0.3499999940395355
+    ],
+    "materials": [
+      "MI_Plane_Blue09"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_OuterWindowBarrel",
+    "name": "Fitted pressure skin09 with actual aperture LiveryGold",
+    "vertices": 63,
+    "faces": 40,
+    "min": [
+      -2.4855668544769287,
+      -0.675000011920929,
+      -0.3499999940395355
+    ],
+    "max": [
+      -2.476841688156128,
+      0.675000011920929,
+      -0.24500000476837158
+    ],
+    "materials": [
+      "MI_Plane_LiveryGold"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_OuterWindowBarrel",
+    "name": "Fitted pressure skin09 with actual aperture Paint09",
+    "vertices": 2117,
+    "faces": 1950,
+    "min": [
+      -2.5,
+      -0.675000011920929,
+      -0.24500000476837158
+    ],
+    "max": [
+      -1.4618749618530273,
+      0.675000011920929,
+      2.799999952316284
+    ],
+    "materials": [
+      "MI_Plane_Paint09"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_OuterWindowBarrel",
+    "name": "Fitted pressure skin09 with actual aperture.001 Blue09",
+    "vertices": 40,
+    "faces": 20,
+    "min": [
+      2.4729785919189453,
+      -0.675000011920929,
+      -0.4000000059604645
+    ],
+    "max": [
+      2.477327346801758,
+      0.675000011920929,
+      -0.3499999940395355
+    ],
+    "materials": [
+      "MI_Plane_Blue09"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_OuterWindowBarrel",
+    "name": "Fitted pressure skin09 with actual aperture.001 LiveryGold",
+    "vertices": 63,
+    "faces": 40,
+    "min": [
+      2.476841688156128,
+      -0.675000011920929,
+      -0.3499999940395355
+    ],
+    "max": [
+      2.4855668544769287,
+      0.675000011920929,
+      -0.24500000476837158
+    ],
+    "materials": [
+      "MI_Plane_LiveryGold"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_OuterWindowBarrel",
+    "name": "Fitted pressure skin09 with actual aperture.001 Paint09",
+    "vertices": 2117,
+    "faces": 1950,
+    "min": [
+      1.4618749618530273,
+      -0.675000011920929,
+      -0.24500000476837158
+    ],
+    "max": [
+      2.5,
+      0.675000011920929,
+      2.799999952316284
+    ],
+    "materials": [
+      "MI_Plane_Paint09"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_OuterWindowBarrel",
+    "name": "Fitted pressure belly09 Blue09",
+    "vertices": 194,
+    "faces": 96,
+    "min": [
+      -2.4729785919189453,
+      -0.675000011920929,
+      -2.25
+    ],
+    "max": [
+      2.4729785919189453,
+      0.675000011920929,
+      -0.4000000059604645
+    ],
+    "materials": [
+      "MI_Plane_Blue09"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_DoorBay07",
+    "name": "Flush glazing weather seal09.002",
+    "vertices": 1312,
+    "faces": 1312,
+    "min": [
+      -2.505000114440918,
+      -0.5596364140510559,
+      0.03994012251496315
+    ],
+    "max": [
+      -2.3939599990844727,
+      0.5596364140510559,
+      1.9208396673202515
+    ],
+    "materials": [
+      "MI_Plane_Seal08"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_DoorBay07",
+    "name": "Flush glazing weather seal09.003",
+    "vertices": 1312,
+    "faces": 1312,
+    "min": [
+      2.4077768325805664,
+      -0.5596364140510559,
+      0.03994039073586464
+    ],
+    "max": [
+      2.505000114440918,
+      0.5596364140510559,
+      1.8707586526870728
+    ],
+    "materials": [
+      "MI_Plane_Seal08"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_DoorBay07",
+    "name": "Fitted pressure crown09.001",
+    "vertices": 194,
+    "faces": 96,
+    "min": [
+      -1.4618749618530273,
+      -0.675000011920929,
+      2.799999952316284
+    ],
+    "max": [
+      1.4618749618530273,
+      0.675000011920929,
+      2.9000000953674316
+    ],
+    "materials": [
+      "MI_Plane_Paint09"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_DoorBay07",
+    "name": "Fitted pressure skin09 with actual aperture.002 Blue09",
+    "vertices": 79,
+    "faces": 52,
+    "min": [
+      -2.4777908325195312,
+      -0.675000011920929,
+      -0.4000000059604645
+    ],
+    "max": [
+      -2.4729785919189453,
+      0.675000011920929,
+      -0.3499999940395355
+    ],
+    "materials": [
+      "MI_Plane_Blue09"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_DoorBay07",
+    "name": "Fitted pressure skin09 with actual aperture.002 LiveryGold",
+    "vertices": 143,
+    "faces": 108,
+    "min": [
+      -2.4858572483062744,
+      -0.675000011920929,
+      -0.3499999940395355
+    ],
+    "max": [
+      -2.477330207824707,
+      0.675000011920929,
+      -0.24500000476837158
+    ],
+    "materials": [
+      "MI_Plane_LiveryGold"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_DoorBay07",
+    "name": "Fitted pressure skin09 with actual aperture.002 Paint09",
+    "vertices": 2042,
+    "faces": 1872,
+    "min": [
+      -2.5,
+      -0.675000011920929,
+      -0.24500000476837158
+    ],
+    "max": [
+      -1.4618749618530273,
+      0.675000011920929,
+      2.799999952316284
+    ],
+    "materials": [
+      "MI_Plane_Paint09"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_DoorBay07",
+    "name": "Fitted pressure skin09 with actual aperture.003 Blue09",
+    "vertices": 79,
+    "faces": 52,
+    "min": [
+      2.4729785919189453,
+      -0.675000011920929,
+      -0.4000000059604645
+    ],
+    "max": [
+      2.4777724742889404,
+      0.675000011920929,
+      -0.3499999940395355
+    ],
+    "materials": [
+      "MI_Plane_Blue09"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_DoorBay07",
+    "name": "Fitted pressure skin09 with actual aperture.003 LiveryGold",
+    "vertices": 145,
+    "faces": 110,
+    "min": [
+      2.477391242980957,
+      -0.675000011920929,
+      -0.3499999940395355
+    ],
+    "max": [
+      2.4858434200286865,
+      0.675000011920929,
+      -0.24500000476837158
+    ],
+    "materials": [
+      "MI_Plane_LiveryGold"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_DoorBay07",
+    "name": "Fitted pressure skin09 with actual aperture.003 Paint09",
+    "vertices": 2040,
+    "faces": 1870,
+    "min": [
+      1.4618749618530273,
+      -0.675000011920929,
+      -0.24500000476837158
+    ],
+    "max": [
+      2.5,
+      0.675000011920929,
+      2.799999952316284
+    ],
+    "materials": [
+      "MI_Plane_Paint09"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_DoorBay07",
+    "name": "Fitted pressure belly09.001 Blue09",
+    "vertices": 194,
+    "faces": 96,
+    "min": [
+      -2.4729785919189453,
+      -0.675000011920929,
+      -2.25
+    ],
+    "max": [
+      2.4729785919189453,
+      0.675000011920929,
+      -0.4000000059604645
+    ],
+    "materials": [
+      "MI_Plane_Blue09"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Pressure door formed leaf with bored viewport",
+    "vertices": 192,
+    "faces": 192,
+    "min": [
+      -0.5224999785423279,
+      -0.5166964530944824,
+      0.052000001072883606
+    ],
+    "max": [
+      0.5224999785423279,
+      -0.34596601128578186,
+      1.9079999923706055
+    ],
+    "materials": [
+      "MI_Plane_DoorPearl07"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.004000000189989805
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Continuous door pressure seal",
+    "vertices": 768,
+    "faces": 768,
+    "min": [
+      -0.528499960899353,
+      -0.5248953104019165,
+      0.046000007539987564
+    ],
+    "max": [
+      0.528499960899353,
+      -0.4119660258293152,
+      1.9140000343322754
+    ],
+    "materials": [
+      "MI_Plane_Graphite"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Viewport molded reveal",
+    "vertices": 768,
+    "faces": 768,
+    "min": [
+      -0.1459996998310089,
+      -0.478785902261734,
+      1.3040006160736084
+    ],
+    "max": [
+      0.1459996998310089,
+      -0.417589396238327,
+      1.6359994411468506
+    ],
+    "materials": [
+      "MI_Plane_WindowTrim"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Door viewport glazing",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.12999999523162842,
+      -0.42478591203689575,
+      -0.1499999761581421
+    ],
+    "max": [
+      0.12999999523162842,
+      -0.38958939909935,
+      0.1499999761581421
+    ],
+    "materials": [
+      "MI_Plane_Glass"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Emergency slide pack bustle",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.41499999165534973,
+      -0.5014119148254395,
+      -0.23999999463558197
+    ],
+    "max": [
+      0.41499999165534973,
+      -0.2600012719631195,
+      0.24000000953674316
+    ],
+    "materials": [
+      "MI_Plane_ServicePearl"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.06499999761581421
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Slide pack inspection window",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.07000000029802322,
+      -0.3845668137073517,
+      -0.030000001192092896
+    ],
+    "max": [
+      0.07000000029802322,
+      -0.37551555037498474,
+      0.030000001192092896
+    ],
+    "materials": [
+      "MI_Plane_Graphite"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.006000000052154064
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Door operating lever recessed tray",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.10999999940395355,
+      -0.39526382088661194,
+      -0.125
+    ],
+    "max": [
+      0.10999998450279236,
+      -0.37077051401138306,
+      0.125
+    ],
+    "materials": [
+      "MI_Plane_Graphite"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.024000000208616257
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Door handle spindle bearing",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.039999932050704956,
+      -0.03999985754489899,
+      0.3693104386329651
+    ],
+    "max": [
+      0.04000005125999451,
+      0.04000018537044525,
+      0.39576536417007446
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0020000000949949026
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Door retained operating handle",
+    "vertices": 144,
+    "faces": 130,
+    "min": [
+      0.17588314414024353,
+      -0.5112065076828003,
+      0.9255908131599426
+    ],
+    "max": [
+      0.2940520942211151,
+      -0.4582655429840088,
+      1.0465672016143799
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Door arming mechanism housing",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.0949999988079071,
+      -0.4077027142047882,
+      -0.06499999761581421
+    ],
+    "max": [
+      0.0949999988079071,
+      -0.35251331329345703,
+      0.06499999761581421
+    ],
+    "materials": [
+      "MI_Plane_SteelDark"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.012000000104308128
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Door arming retained selector",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.3910668194293976,
+      -0.01099996268749237,
+      -0.05000000447034836
+    ],
+    "max": [
+      -0.3690668046474457,
+      0.010999992489814758,
+      0.05000001937150955
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0008800000068731606
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Pull handle mounting rosette.030",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.01600000262260437,
+      -0.01599980890750885,
+      0.38427549600601196
+    ],
+    "max": [
+      0.01600000262260437,
+      0.016000255942344666,
+      0.3926953673362732
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0012799999676644802
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Pull handle mounting rosette.031",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.01600000262260437,
+      -0.01599980890750885,
+      0.38427549600601196
+    ],
+    "max": [
+      0.01600000262260437,
+      0.016000255942344666,
+      0.3926953673362732
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0012799999676644802
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Radiused hollow pull handle.015",
+    "vertices": 320,
+    "faces": 302,
+    "min": [
+      -0.4050000011920929,
+      -0.48446372151374817,
+      1.2300000190734863
+    ],
+    "max": [
+      -0.2149999886751175,
+      -0.440028578042984,
+      1.25
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Door retained latch roller",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.018000006675720215,
+      -0.01799999549984932,
+      0.3691970705986023
+    ],
+    "max": [
+      0.018000006675720215,
+      0.01800001785159111,
+      0.39475032687187195
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0014400000218302011
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Captive Torx retaining screw.204",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.0040000081062316895,
+      -0.0040000006556510925,
+      0.38089895248413086
+    ],
+    "max": [
+      0.0040000081062316895,
+      0.004000016022473574,
+      0.383021742105484
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00031999999191612005
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Torx six lobe screw recess.204",
+    "vertices": 24,
+    "faces": 1,
+    "min": [
+      -0.40174001455307007,
+      -0.4301828145980835,
+      0.08849311619997025
+    ],
+    "max": [
+      -0.3982599973678589,
+      -0.4301365613937378,
+      0.09150689095258713
+    ],
+    "materials": [
+      "MI_Plane_Graphite"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Door retained latch roller.001",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.018000006675720215,
+      -0.017999781295657158,
+      0.36933955550193787
+    ],
+    "max": [
+      0.018000006675720215,
+      0.01800023391842842,
+      0.39492467045783997
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0014400000218302011
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Captive Torx retaining screw.205",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.0040000081062316895,
+      -0.003999724984169006,
+      0.3810533285140991
+    ],
+    "max": [
+      0.0040000081062316895,
+      0.004000172484666109,
+      0.38318324089050293
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00031999999191612005
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Torx six lobe screw recess.205",
+    "vertices": 24,
+    "faces": 1,
+    "min": [
+      -0.40174001455307007,
+      -0.43034207820892334,
+      1.0184930562973022
+    ],
+    "max": [
+      -0.3982599973678589,
+      -0.43029314279556274,
+      1.021506905555725
+    ],
+    "materials": [
+      "MI_Plane_Graphite"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Door retained latch roller.002",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.018000006675720215,
+      -0.017999783158302307,
+      0.43378543853759766
+    ],
+    "max": [
+      0.018000006675720215,
+      0.018000232055783272,
+      0.4664473533630371
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0014400000218302011
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Captive Torx retaining screw.206",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.0040000081062316895,
+      -0.003999727312475443,
+      0.44818854331970215
+    ],
+    "max": [
+      0.0040000081062316895,
+      0.004000169690698385,
+      0.4518907964229584
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00031999999191612005
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Torx six lobe screw recess.206",
+    "vertices": 24,
+    "faces": 1,
+    "min": [
+      -0.40174001455307007,
+      -0.49855682253837585,
+      1.778493046760559
+    ],
+    "max": [
+      -0.3982599973678589,
+      -0.4979155361652374,
+      1.781506896018982
+    ],
+    "materials": [
+      "MI_Plane_Graphite"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Door retained latch roller.003",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.018000006675720215,
+      -0.01799999549984932,
+      0.3691970705986023
+    ],
+    "max": [
+      0.018000006675720215,
+      0.01800001785159111,
+      0.39475032687187195
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0014400000218302011
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Captive Torx retaining screw.207",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.0040000081062316895,
+      -0.0040000006556510925,
+      0.38089895248413086
+    ],
+    "max": [
+      0.0040000081062316895,
+      0.004000016022473574,
+      0.383021742105484
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00031999999191612005
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Torx six lobe screw recess.207",
+    "vertices": 24,
+    "faces": 1,
+    "min": [
+      0.3982599973678589,
+      -0.4301828145980835,
+      0.08849311619997025
+    ],
+    "max": [
+      0.40174001455307007,
+      -0.4301365613937378,
+      0.09150689095258713
+    ],
+    "materials": [
+      "MI_Plane_Graphite"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Door retained latch roller.004",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.018000006675720215,
+      -0.017999781295657158,
+      0.36933955550193787
+    ],
+    "max": [
+      0.018000006675720215,
+      0.01800023391842842,
+      0.39492467045783997
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0014400000218302011
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Captive Torx retaining screw.208",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.0040000081062316895,
+      -0.003999724984169006,
+      0.3810533285140991
+    ],
+    "max": [
+      0.0040000081062316895,
+      0.004000172484666109,
+      0.38318324089050293
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00031999999191612005
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Torx six lobe screw recess.208",
+    "vertices": 24,
+    "faces": 1,
+    "min": [
+      0.3982599973678589,
+      -0.43034207820892334,
+      1.0184930562973022
+    ],
+    "max": [
+      0.40174001455307007,
+      -0.43029314279556274,
+      1.021506905555725
+    ],
+    "materials": [
+      "MI_Plane_Graphite"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Door retained latch roller.005",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.018000006675720215,
+      -0.017999783158302307,
+      0.43378543853759766
+    ],
+    "max": [
+      0.018000006675720215,
+      0.018000232055783272,
+      0.4664473533630371
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0014400000218302011
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Captive Torx retaining screw.209",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.0040000081062316895,
+      -0.003999727312475443,
+      0.44818854331970215
+    ],
+    "max": [
+      0.0040000081062316895,
+      0.004000169690698385,
+      0.4518907964229584
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00031999999191612005
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Torx six lobe screw recess.209",
+    "vertices": 24,
+    "faces": 1,
+    "min": [
+      0.3982599973678589,
+      -0.49855682253837585,
+      1.778493046760559
+    ],
+    "max": [
+      0.40174001455307007,
+      -0.4979155361652374,
+      1.781506896018982
+    ],
+    "materials": [
+      "MI_Plane_Graphite"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_L",
+    "name": "Slide girt retaining bar",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.3972844183444977,
+      -0.01499998290091753,
+      -0.38999998569488525
+    ],
+    "max": [
+      -0.3672844171524048,
+      0.015000014565885067,
+      0.38999998569488525
+    ],
+    "materials": [
+      "MI_Plane_SteelDark"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0012000000569969416
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Pressure door formed leaf with bored viewport.001",
+    "vertices": 192,
+    "faces": 192,
+    "min": [
+      -0.5224999785423279,
+      -0.5032237768173218,
+      0.052000001072883606
+    ],
+    "max": [
+      0.5224999785423279,
+      -0.34596601128578186,
+      1.8580000400543213
+    ],
+    "materials": [
+      "MI_Plane_DoorPearl07"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.004000000189989805
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Continuous door pressure seal.001",
+    "vertices": 768,
+    "faces": 768,
+    "min": [
+      -0.528499960899353,
+      -0.5113531351089478,
+      0.046000007539987564
+    ],
+    "max": [
+      0.528499960899353,
+      -0.4119660258293152,
+      1.8640000820159912
+    ],
+    "materials": [
+      "MI_Plane_Graphite"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Viewport molded reveal.001",
+    "vertices": 768,
+    "faces": 768,
+    "min": [
+      -0.1459996998310089,
+      -0.478785902261734,
+      1.3040006160736084
+    ],
+    "max": [
+      0.1459996998310089,
+      -0.417589396238327,
+      1.6359994411468506
+    ],
+    "materials": [
+      "MI_Plane_WindowTrim"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Door viewport glazing.001",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.12999999523162842,
+      -0.42478591203689575,
+      -0.1499999761581421
+    ],
+    "max": [
+      0.12999999523162842,
+      -0.38958939909935,
+      0.1499999761581421
+    ],
+    "materials": [
+      "MI_Plane_Glass"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Emergency slide pack bustle.001",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.41499999165534973,
+      -0.5014119148254395,
+      -0.23999999463558197
+    ],
+    "max": [
+      0.41499999165534973,
+      -0.2600012719631195,
+      0.24000000953674316
+    ],
+    "materials": [
+      "MI_Plane_ServicePearl"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.06499999761581421
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Slide pack inspection window.001",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.07000000029802322,
+      -0.3845668137073517,
+      -0.030000001192092896
+    ],
+    "max": [
+      0.07000000029802322,
+      -0.37551555037498474,
+      0.030000001192092896
+    ],
+    "materials": [
+      "MI_Plane_Graphite"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.006000000052154064
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Door operating lever recessed tray.001",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.10999999940395355,
+      -0.39526382088661194,
+      -0.125
+    ],
+    "max": [
+      0.10999998450279236,
+      -0.37077051401138306,
+      0.125
+    ],
+    "materials": [
+      "MI_Plane_Graphite"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.024000000208616257
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Door handle spindle bearing.001",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.039999932050704956,
+      -0.03999985754489899,
+      0.3693104386329651
+    ],
+    "max": [
+      0.04000005125999451,
+      0.04000018537044525,
+      0.39576536417007446
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0020000000949949026
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Door retained operating handle.001",
+    "vertices": 144,
+    "faces": 130,
+    "min": [
+      0.17588314414024353,
+      -0.5112065076828003,
+      0.9255908131599426
+    ],
+    "max": [
+      0.2940520942211151,
+      -0.4582655429840088,
+      1.0465672016143799
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Door arming mechanism housing.001",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.0949999988079071,
+      -0.4077027142047882,
+      -0.06499999761581421
+    ],
+    "max": [
+      0.0949999988079071,
+      -0.35251331329345703,
+      0.06499999761581421
+    ],
+    "materials": [
+      "MI_Plane_SteelDark"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.012000000104308128
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Door arming retained selector.001",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.3910668194293976,
+      -0.01099996268749237,
+      -0.05000000447034836
+    ],
+    "max": [
+      -0.3690668046474457,
+      0.010999992489814758,
+      0.05000001937150955
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0008800000068731606
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Pull handle mounting rosette.032",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.01600000262260437,
+      -0.01599980890750885,
+      0.38427549600601196
+    ],
+    "max": [
+      0.01600000262260437,
+      0.016000255942344666,
+      0.3926953673362732
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0012799999676644802
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Pull handle mounting rosette.033",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.01600000262260437,
+      -0.01599980890750885,
+      0.38427549600601196
+    ],
+    "max": [
+      0.01600000262260437,
+      0.016000255942344666,
+      0.3926953673362732
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0012799999676644802
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Radiused hollow pull handle.016",
+    "vertices": 320,
+    "faces": 302,
+    "min": [
+      -0.4050000011920929,
+      -0.48446372151374817,
+      1.2300000190734863
+    ],
+    "max": [
+      -0.2149999886751175,
+      -0.440028578042984,
+      1.25
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Door retained latch roller.006",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.018000006675720215,
+      -0.01799999549984932,
+      0.3691970705986023
+    ],
+    "max": [
+      0.018000006675720215,
+      0.01800001785159111,
+      0.39475032687187195
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0014400000218302011
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Captive Torx retaining screw.210",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.0040000081062316895,
+      -0.0040000006556510925,
+      0.38089895248413086
+    ],
+    "max": [
+      0.0040000081062316895,
+      0.004000016022473574,
+      0.383021742105484
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00031999999191612005
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Torx six lobe screw recess.210",
+    "vertices": 24,
+    "faces": 1,
+    "min": [
+      -0.40174001455307007,
+      -0.4301828145980835,
+      0.08849311619997025
+    ],
+    "max": [
+      -0.3982599973678589,
+      -0.4301365613937378,
+      0.09150689095258713
+    ],
+    "materials": [
+      "MI_Plane_Graphite"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Door retained latch roller.007",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.018000006675720215,
+      -0.017999781295657158,
+      0.36933955550193787
+    ],
+    "max": [
+      0.018000006675720215,
+      0.01800023391842842,
+      0.39492467045783997
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0014400000218302011
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Captive Torx retaining screw.211",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.0040000081062316895,
+      -0.003999724984169006,
+      0.3810533285140991
+    ],
+    "max": [
+      0.0040000081062316895,
+      0.004000172484666109,
+      0.38318324089050293
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00031999999191612005
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Torx six lobe screw recess.211",
+    "vertices": 24,
+    "faces": 1,
+    "min": [
+      -0.40174001455307007,
+      -0.43034207820892334,
+      1.0184930562973022
+    ],
+    "max": [
+      -0.3982599973678589,
+      -0.43029314279556274,
+      1.021506905555725
+    ],
+    "materials": [
+      "MI_Plane_Graphite"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Door retained latch roller.008",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.018000006675720215,
+      -0.017999783158302307,
+      0.43378543853759766
+    ],
+    "max": [
+      0.018000006675720215,
+      0.018000232055783272,
+      0.4664473533630371
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0014400000218302011
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Captive Torx retaining screw.212",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.0040000081062316895,
+      -0.003999727312475443,
+      0.44818854331970215
+    ],
+    "max": [
+      0.0040000081062316895,
+      0.004000169690698385,
+      0.4518907964229584
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00031999999191612005
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Torx six lobe screw recess.212",
+    "vertices": 24,
+    "faces": 1,
+    "min": [
+      -0.40174001455307007,
+      -0.49855682253837585,
+      1.778493046760559
+    ],
+    "max": [
+      -0.3982599973678589,
+      -0.4979155361652374,
+      1.781506896018982
+    ],
+    "materials": [
+      "MI_Plane_Graphite"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Door retained latch roller.009",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.018000006675720215,
+      -0.01799999549984932,
+      0.3691970705986023
+    ],
+    "max": [
+      0.018000006675720215,
+      0.01800001785159111,
+      0.39475032687187195
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0014400000218302011
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Captive Torx retaining screw.213",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.0040000081062316895,
+      -0.0040000006556510925,
+      0.38089895248413086
+    ],
+    "max": [
+      0.0040000081062316895,
+      0.004000016022473574,
+      0.383021742105484
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00031999999191612005
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Torx six lobe screw recess.213",
+    "vertices": 24,
+    "faces": 1,
+    "min": [
+      0.3982599973678589,
+      -0.4301828145980835,
+      0.08849311619997025
+    ],
+    "max": [
+      0.40174001455307007,
+      -0.4301365613937378,
+      0.09150689095258713
+    ],
+    "materials": [
+      "MI_Plane_Graphite"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Door retained latch roller.010",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.018000006675720215,
+      -0.017999781295657158,
+      0.36933955550193787
+    ],
+    "max": [
+      0.018000006675720215,
+      0.01800023391842842,
+      0.39492467045783997
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0014400000218302011
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Captive Torx retaining screw.214",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.0040000081062316895,
+      -0.003999724984169006,
+      0.3810533285140991
+    ],
+    "max": [
+      0.0040000081062316895,
+      0.004000172484666109,
+      0.38318324089050293
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00031999999191612005
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Torx six lobe screw recess.214",
+    "vertices": 24,
+    "faces": 1,
+    "min": [
+      0.3982599973678589,
+      -0.43034207820892334,
+      1.0184930562973022
+    ],
+    "max": [
+      0.40174001455307007,
+      -0.43029314279556274,
+      1.021506905555725
+    ],
+    "materials": [
+      "MI_Plane_Graphite"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Door retained latch roller.011",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.018000006675720215,
+      -0.017999783158302307,
+      0.43378543853759766
+    ],
+    "max": [
+      0.018000006675720215,
+      0.018000232055783272,
+      0.4664473533630371
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0014400000218302011
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Captive Torx retaining screw.215",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.0040000081062316895,
+      -0.003999727312475443,
+      0.44818854331970215
+    ],
+    "max": [
+      0.0040000081062316895,
+      0.004000169690698385,
+      0.4518907964229584
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00031999999191612005
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Torx six lobe screw recess.215",
+    "vertices": 24,
+    "faces": 1,
+    "min": [
+      0.3982599973678589,
+      -0.49855682253837585,
+      1.778493046760559
+    ],
+    "max": [
+      0.40174001455307007,
+      -0.4979155361652374,
+      1.781506896018982
+    ],
+    "materials": [
+      "MI_Plane_Graphite"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_PassengerDoor07_R",
+    "name": "Slide girt retaining bar.001",
+    "vertices": 96,
+    "faces": 50,
+    "min": [
+      -0.3972844183444977,
+      -0.01499998290091753,
+      -0.38999998569488525
+    ],
+    "max": [
+      -0.3672844171524048,
+      0.015000014565885067,
+      0.38999998569488525
+    ],
+    "materials": [
+      "MI_Plane_SteelDark"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0012000000569969416
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_ExitHingeHardware12",
+    "name": "Door hinge machined jamb mounting flange12",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.04500000178813934,
+      -0.05999999865889549,
+      -0.08500000089406967
+    ],
+    "max": [
+      0.04500000178813934,
+      0.05999999865889549,
+      0.08500000089406967
+    ],
+    "materials": [
+      "MI_Plane_CargoMetal10"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Soft manufactured edge",
+        "width": 0.014000000432133675
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted face normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_ExitHingeHardware12",
+    "name": "Door articulation vertical bearing barrel12",
+    "vertices": 80,
+    "faces": 42,
+    "min": [
+      -0.029999999329447746,
+      -0.029999999329447746,
+      -0.09000000357627869
+    ],
+    "max": [
+      0.029999999329447746,
+      0.029999999329447746,
+      0.09000000357627869
+    ],
+    "materials": [
+      "MI_Plane_CargoMetal10"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Edge radius",
+        "width": 0.0027000000700354576
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_ExitHingeHardware12",
+    "name": "Door hinge machined jamb mounting flange12.001",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.04500000178813934,
+      -0.05999999865889549,
+      -0.08500000089406967
+    ],
+    "max": [
+      0.04500000178813934,
+      0.05999999865889549,
+      0.08500000089406967
+    ],
+    "materials": [
+      "MI_Plane_CargoMetal10"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Soft manufactured edge",
+        "width": 0.014000000432133675
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted face normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_ExitHingeHardware12",
+    "name": "Door articulation vertical bearing barrel12.001",
+    "vertices": 80,
+    "faces": 42,
+    "min": [
+      -0.029999999329447746,
+      -0.029999999329447746,
+      -0.09000000357627869
+    ],
+    "max": [
+      0.029999999329447746,
+      0.029999999329447746,
+      0.09000000357627869
+    ],
+    "materials": [
+      "MI_Plane_CargoMetal10"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Edge radius",
+        "width": 0.0027000000700354576
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_ExitHingeHardware12",
+    "name": "Door hinge machined jamb mounting flange12.002",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.04500000178813934,
+      -0.05999999865889549,
+      -0.08500000089406967
+    ],
+    "max": [
+      0.04500000178813934,
+      0.05999999865889549,
+      0.08500000089406967
+    ],
+    "materials": [
+      "MI_Plane_CargoMetal10"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Soft manufactured edge",
+        "width": 0.014000000432133675
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted face normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_ExitHingeHardware12",
+    "name": "Door articulation vertical bearing barrel12.002",
+    "vertices": 80,
+    "faces": 42,
+    "min": [
+      -0.029999999329447746,
+      -0.029999999329447746,
+      -0.09000000357627869
+    ],
+    "max": [
+      0.029999999329447746,
+      0.029999999329447746,
+      0.09000000357627869
+    ],
+    "materials": [
+      "MI_Plane_CargoMetal10"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Edge radius",
+        "width": 0.0027000000700354576
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_ExitHingeHardware12",
+    "name": "Door hinge machined jamb mounting flange12.003",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.04500000178813934,
+      -0.05999999865889549,
+      -0.08500000089406967
+    ],
+    "max": [
+      0.04500000178813934,
+      0.05999999865889549,
+      0.08500000089406967
+    ],
+    "materials": [
+      "MI_Plane_CargoMetal10"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Soft manufactured edge",
+        "width": 0.014000000432133675
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted face normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_ExitHingeHardware12",
+    "name": "Door articulation vertical bearing barrel12.003",
+    "vertices": 80,
+    "faces": 42,
+    "min": [
+      -0.029999999329447746,
+      -0.029999999329447746,
+      -0.09000000357627869
+    ],
+    "max": [
+      0.029999999329447746,
+      0.029999999329447746,
+      0.09000000357627869
+    ],
+    "materials": [
+      "MI_Plane_CargoMetal10"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Edge radius",
+        "width": 0.0027000000700354576
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_ExitHingeHardware12",
+    "name": "Door hinge machined jamb mounting flange12.004",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.04500000178813934,
+      -0.05999999865889549,
+      -0.08500000089406967
+    ],
+    "max": [
+      0.04500000178813934,
+      0.05999999865889549,
+      0.08500000089406967
+    ],
+    "materials": [
+      "MI_Plane_CargoMetal10"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Soft manufactured edge",
+        "width": 0.014000000432133675
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted face normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_ExitHingeHardware12",
+    "name": "Door articulation vertical bearing barrel12.004",
+    "vertices": 80,
+    "faces": 42,
+    "min": [
+      -0.029999999329447746,
+      -0.029999999329447746,
+      -0.09000000357627869
+    ],
+    "max": [
+      0.029999999329447746,
+      0.029999999329447746,
+      0.09000000357627869
+    ],
+    "materials": [
+      "MI_Plane_CargoMetal10"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Edge radius",
+        "width": 0.0027000000700354576
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_ExitHingeHardware12",
+    "name": "Door hinge machined jamb mounting flange12.005",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.04500000178813934,
+      -0.05999999865889549,
+      -0.08500000089406967
+    ],
+    "max": [
+      0.04500000178813934,
+      0.05999999865889549,
+      0.08500000089406967
+    ],
+    "materials": [
+      "MI_Plane_CargoMetal10"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Soft manufactured edge",
+        "width": 0.014000000432133675
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted face normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_ExitHingeHardware12",
+    "name": "Door articulation vertical bearing barrel12.005",
+    "vertices": 80,
+    "faces": 42,
+    "min": [
+      -0.029999999329447746,
+      -0.029999999329447746,
+      -0.09000000357627869
+    ],
+    "max": [
+      0.029999999329447746,
+      0.029999999329447746,
+      0.09000000357627869
+    ],
+    "materials": [
+      "MI_Plane_CargoMetal10"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Edge radius",
+        "width": 0.0027000000700354576
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_ExitHingeHardware12",
+    "name": "Door hinge machined jamb mounting flange12.006",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.04500000178813934,
+      -0.05999999865889549,
+      -0.08500000089406967
+    ],
+    "max": [
+      0.04500000178813934,
+      0.05999999865889549,
+      0.08500000089406967
+    ],
+    "materials": [
+      "MI_Plane_CargoMetal10"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Soft manufactured edge",
+        "width": 0.014000000432133675
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted face normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_ExitHingeHardware12",
+    "name": "Door articulation vertical bearing barrel12.006",
+    "vertices": 80,
+    "faces": 42,
+    "min": [
+      -0.029999999329447746,
+      -0.029999999329447746,
+      -0.09000000357627869
+    ],
+    "max": [
+      0.029999999329447746,
+      0.029999999329447746,
+      0.09000000357627869
+    ],
+    "materials": [
+      "MI_Plane_CargoMetal10"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Edge radius",
+        "width": 0.0027000000700354576
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_ExitHingeHardware12",
+    "name": "Door hinge machined jamb mounting flange12.007",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.04500000178813934,
+      -0.05999999865889549,
+      -0.08500000089406967
+    ],
+    "max": [
+      0.04500000178813934,
+      0.05999999865889549,
+      0.08500000089406967
+    ],
+    "materials": [
+      "MI_Plane_CargoMetal10"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Soft manufactured edge",
+        "width": 0.014000000432133675
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted face normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_ExitHingeHardware12",
+    "name": "Door articulation vertical bearing barrel12.007",
+    "vertices": 80,
+    "faces": 42,
+    "min": [
+      -0.029999999329447746,
+      -0.029999999329447746,
+      -0.09000000357627869
+    ],
+    "max": [
+      0.029999999329447746,
+      0.029999999329447746,
+      0.09000000357627869
+    ],
+    "materials": [
+      "MI_Plane_CargoMetal10"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Edge radius",
+        "width": 0.0027000000700354576
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Partition base impact strip10",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.30000001192092896,
+      -0.06499999761581421,
+      -0.12999999523162842
+    ],
+    "max": [
+      0.30000001192092896,
+      0.06499999761581421,
+      0.12999999523162842
+    ],
+    "materials": [
+      "MI_Plane_Trim09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.008999999612569809
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Partition base impact strip10.001",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.30000001192092896,
+      -0.06499999761581421,
+      -0.12999999523162842
+    ],
+    "max": [
+      0.30000001192092896,
+      0.06499999761581421,
+      0.12999999523162842
+    ],
+    "materials": [
+      "MI_Plane_Trim09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.008999999612569809
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Partition base impact strip10.002",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.30000001192092896,
+      -0.06499999761581421,
+      -0.12999999523162842
+    ],
+    "max": [
+      0.30000001192092896,
+      0.06499999761581421,
+      0.12999999523162842
+    ],
+    "materials": [
+      "MI_Plane_Trim09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.008999999612569809
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.001",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.002",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.003",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.004",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.005",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.006",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.007",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.008",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.009",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.010",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.011",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.012",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.013",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.014",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.015",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.016",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.017",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.018",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.019",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.020",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.021",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.022",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.023",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.024",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.025",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.026",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Partition base impact strip10.003",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.30000001192092896,
+      -0.06499999761581421,
+      -0.12999999523162842
+    ],
+    "max": [
+      0.30000001192092896,
+      0.06499999761581421,
+      0.12999999523162842
+    ],
+    "materials": [
+      "MI_Plane_Trim09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.008999999612569809
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Partition base impact strip10.004",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.30000001192092896,
+      -0.06499999761581421,
+      -0.12999999523162842
+    ],
+    "max": [
+      0.30000001192092896,
+      0.06499999761581421,
+      0.12999999523162842
+    ],
+    "materials": [
+      "MI_Plane_Trim09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.008999999612569809
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Partition base impact strip10.005",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.30000001192092896,
+      -0.06499999761581421,
+      -0.12999999523162842
+    ],
+    "max": [
+      0.30000001192092896,
+      0.06499999761581421,
+      0.12999999523162842
+    ],
+    "materials": [
+      "MI_Plane_Trim09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.008999999612569809
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.027",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.028",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.029",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.030",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.031",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.032",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.033",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.034",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.035",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.036",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.037",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.038",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.039",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.040",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.041",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.042",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.043",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.044",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.045",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.046",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.047",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.048",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.049",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.050",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.051",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.052",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CabinFinish09",
+    "name": "Flush cabin liner seam10.053",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.001500000013038516,
+      -0.0010000000474974513,
+      -0.8799999952316284
+    ],
+    "max": [
+      0.001500000013038516,
+      0.0010000000474974513,
+      0.8799999952316284
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.00019999999494757503
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Flightdeck partition",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.5950113534927368,
+      -0.07050000131130219,
+      -1.1799999475479126
+    ],
+    "max": [
+      0.5239108800888062,
+      0.07249999791383743,
+      1.4160000085830688
+    ],
+    "materials": [
+      "MI_Plane_White"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Soft manufactured edge",
+        "width": 0.02500000037252903
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted face normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Flightdeck partition.001",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.5239108800888062,
+      -0.07050000131130219,
+      -1.1799999475479126
+    ],
+    "max": [
+      0.5950113534927368,
+      0.07249999791383743,
+      1.4160000085830688
+    ],
+    "materials": [
+      "MI_Plane_White"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Soft manufactured edge",
+        "width": 0.02500000037252903
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted face normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Cockpit reinforced jamb",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.03999999910593033,
+      -0.06499999761581421,
+      -1.0399999618530273
+    ],
+    "max": [
+      0.03999999910593033,
+      0.06499999761581421,
+      1.0399999618530273
+    ],
+    "materials": [
+      "MI_Plane_SteelDark"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.008999999612569809
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Cockpit reinforced jamb.001",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.03999999910593033,
+      -0.06499999761581421,
+      -1.0399999618530273
+    ],
+    "max": [
+      0.03999999910593033,
+      0.06499999761581421,
+      1.0399999618530273
+    ],
+    "materials": [
+      "MI_Plane_SteelDark"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.008999999612569809
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Cockpit door header",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.5799999833106995,
+      -0.06499999761581421,
+      -0.05000000074505806
+    ],
+    "max": [
+      0.5799999833106995,
+      0.06499999761581421,
+      0.05000000074505806
+    ],
+    "materials": [
+      "MI_Plane_SteelDark"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.008999999612569809
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Cockpit door upper infill",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.5799999833106995,
+      -0.05000000074505806,
+      -0.20000000298023224
+    ],
+    "max": [
+      0.5799999833106995,
+      0.05000000074505806,
+      0.20000000298023224
+    ],
+    "materials": [
+      "MI_Plane_ServicePearl"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.014999999664723873
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Cockpit flush threshold",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.5400000214576721,
+      -0.08500000089406967,
+      -0.008999999612569809
+    ],
+    "max": [
+      0.5400000214576721,
+      0.08500000089406967,
+      0.008999999612569809
+    ],
+    "materials": [
+      "MI_Plane_Titanium"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.003000000026077032
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Supported flightdeck side sill10",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.05000000074505806,
+      -2.5,
+      -0.4099999964237213
+    ],
+    "max": [
+      0.05000000074505806,
+      2.5,
+      0.4099999964237213
+    ],
+    "materials": [
+      "MI_Plane_Cabin09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.029999999329447746
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Supported flightdeck side sill10.001",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.05000000074505806,
+      -2.5,
+      -0.4099999964237213
+    ],
+    "max": [
+      0.05000000074505806,
+      2.5,
+      0.4099999964237213
+    ],
+    "materials": [
+      "MI_Plane_Cabin09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.029999999329447746
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Cockpit10 extended fitted floor",
+    "vertices": 16,
+    "faces": 10,
+    "min": [
+      -1.7999999523162842,
+      -5.400000095367432,
+      -0.10000000149011612
+    ],
+    "max": [
+      1.7999999523162842,
+      0.0,
+      0.003000000026077032
+    ],
+    "materials": [
+      "MI_Plane_Carpet"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.004000000189989805
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Cockpit10 smooth fitted ceiling",
+    "vertices": 13041,
+    "faces": 12800,
+    "min": [
+      -1.850000023841858,
+      -5.099999904632568,
+      2.299999952316284
+    ],
+    "max": [
+      1.850000023841858,
+      0.0,
+      2.619999885559082
+    ],
+    "materials": [
+      "MI_Plane_ServicePearl"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Cockpit rear practical housing10",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.15000000596046448,
+      -0.20999999344348907,
+      -0.019999999552965164
+    ],
+    "max": [
+      0.15000000596046448,
+      0.20999999344348907,
+      0.019999999552965164
+    ],
+    "materials": [
+      "MI_Plane_FunPanel10"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.014999999664723873
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Cockpit rear practical diffuser10",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.13249999284744263,
+      -0.1889999955892563,
+      -0.006000000052154064
+    ],
+    "max": [
+      0.13249999284744263,
+      0.1889999955892563,
+      0.006000000052154064
+    ],
+    "materials": [
+      "MI_Plane_Lamp"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.009999999776482582
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Cockpit rear practical housing10.001",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.15000000596046448,
+      -0.20999999344348907,
+      -0.019999999552965164
+    ],
+    "max": [
+      0.15000000596046448,
+      0.20999999344348907,
+      0.019999999552965164
+    ],
+    "materials": [
+      "MI_Plane_FunPanel10"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.014999999664723873
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Cockpit rear practical diffuser10.001",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.13249999284744263,
+      -0.1889999955892563,
+      -0.006000000052154064
+    ],
+    "max": [
+      0.13249999284744263,
+      0.1889999955892563,
+      0.006000000052154064
+    ],
+    "materials": [
+      "MI_Plane_Lamp"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.009999999776482582
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Continuous fitted cockpit ceiling reveal10",
+    "vertices": 1932,
+    "faces": 1920,
+    "min": [
+      -1.8537131547927856,
+      -5.104000091552734,
+      2.296893358230591
+    ],
+    "max": [
+      1.8537131547927856,
+      -2.897230625152588,
+      2.5285027027130127
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Flightdeck equipment side liner11",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.017500000074505806,
+      -1.3799999952316284,
+      -0.675000011920929
+    ],
+    "max": [
+      0.017500000074505806,
+      1.3799999952316284,
+      0.675000011920929
+    ],
+    "materials": [
+      "MI_Plane_CockpitLiner11"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.014000000432133675
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Side liner lower impact rail11",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.008999999612569809,
+      -1.3700000047683716,
+      -0.032499998807907104
+    ],
+    "max": [
+      0.008999999612569809,
+      1.3700000047683716,
+      0.032499998807907104
+    ],
+    "materials": [
+      "MI_Plane_FunPanel10"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.008999999612569809
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Side liner controlled butt seam11",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.0010000000474974513,
+      -0.001500000013038516,
+      -0.6150000095367432
+    ],
+    "max": [
+      0.0010000000474974513,
+      0.001500000013038516,
+      0.6150000095367432
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0005000000237487257
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Side liner controlled butt seam11.001",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.0010000000474974513,
+      -0.001500000013038516,
+      -0.6150000095367432
+    ],
+    "max": [
+      0.0010000000474974513,
+      0.001500000013038516,
+      0.6150000095367432
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0005000000237487257
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Side liner controlled butt seam11.002",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.0010000000474974513,
+      -0.001500000013038516,
+      -0.6150000095367432
+    ],
+    "max": [
+      0.0010000000474974513,
+      0.001500000013038516,
+      0.6150000095367432
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0005000000237487257
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Flightdeck equipment side liner11.001",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.017500000074505806,
+      -1.3799999952316284,
+      -0.675000011920929
+    ],
+    "max": [
+      0.017500000074505806,
+      1.3799999952316284,
+      0.675000011920929
+    ],
+    "materials": [
+      "MI_Plane_CockpitLiner11"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.014000000432133675
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Side liner lower impact rail11.001",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.008999999612569809,
+      -1.3700000047683716,
+      -0.032499998807907104
+    ],
+    "max": [
+      0.008999999612569809,
+      1.3700000047683716,
+      0.032499998807907104
+    ],
+    "materials": [
+      "MI_Plane_FunPanel10"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.008999999612569809
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Side liner controlled butt seam11.003",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.0010000000474974513,
+      -0.001500000013038516,
+      -0.6150000095367432
+    ],
+    "max": [
+      0.0010000000474974513,
+      0.001500000013038516,
+      0.6150000095367432
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0005000000237487257
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Side liner controlled butt seam11.004",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.0010000000474974513,
+      -0.001500000013038516,
+      -0.6150000095367432
+    ],
+    "max": [
+      0.0010000000474974513,
+      0.001500000013038516,
+      0.6150000095367432
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0005000000237487257
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Side liner controlled butt seam11.005",
+    "vertices": 8,
+    "faces": 6,
+    "min": [
+      -0.0010000000474974513,
+      -0.001500000013038516,
+      -0.6150000095367432
+    ],
+    "max": [
+      0.0010000000474974513,
+      0.001500000013038516,
+      0.6150000095367432
+    ],
+    "materials": [
+      "MI_Plane_CabinReveal09"
+    ],
+    "modifiers": [
+      {
+        "type": "BEVEL",
+        "name": "Rounded silhouette",
+        "width": 0.0005000000237487257
+      },
+      {
+        "type": "WEIGHTED_NORMAL",
+        "name": "Weighted normals",
+        "width": null
+      }
+    ]
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Fitted curved cockpit glazing11",
+    "vertices": 288,
+    "faces": 254,
+    "min": [
+      9.417035036631983e-17,
+      -6.71999979019165,
+      1.3722530603408813
+    ],
+    "max": [
+      1.411376953125,
+      -4.880000114440918,
+      2.421907901763916
+    ],
+    "materials": [
+      "MI_Plane_SkyGlass18"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Fitted curved cockpit glazing11.001",
+    "vertices": 190,
+    "faces": 155,
+    "min": [
+      1.1483453512191772,
+      -6.53000020980835,
+      1.3724358081817627
+    ],
+    "max": [
+      2.01835036277771,
+      -4.159999847412109,
+      2.231243371963501
+    ],
+    "materials": [
+      "MI_Plane_SkyGlass18"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Fitted curved cockpit glazing11.002",
+    "vertices": 116,
+    "faces": 86,
+    "min": [
+      1.757921814918518,
+      -5.78000020980835,
+      1.423278570175171
+    ],
+    "max": [
+      2.2924695014953613,
+      -3.1600000858306885,
+      1.989548683166504
+    ],
+    "materials": [
+      "MI_Plane_SkyGlass18"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Fitted curved cockpit glazing11.003",
+    "vertices": 315,
+    "faces": 280,
+    "min": [
+      -1.411376953125,
+      -6.71999979019165,
+      1.3722530603408813
+    ],
+    "max": [
+      2.5943772141451965e-15,
+      -4.880000114440918,
+      2.421907901763916
+    ],
+    "materials": [
+      "MI_Plane_SkyGlass18"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Fitted curved cockpit glazing11.004",
+    "vertices": 211,
+    "faces": 174,
+    "min": [
+      -2.01835036277771,
+      -6.53000020980835,
+      1.3724358081817627
+    ],
+    "max": [
+      -1.1483453512191772,
+      -4.159999847412109,
+      2.231243371963501
+    ],
+    "materials": [
+      "MI_Plane_SkyGlass18"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Fitted curved cockpit glazing11.005",
+    "vertices": 133,
+    "faces": 101,
+    "min": [
+      -2.2924695014953613,
+      -5.78000020980835,
+      1.423278570175171
+    ],
+    "max": [
+      -1.757921814918518,
+      -3.1600000858306885,
+      1.989548683166504
+    ],
+    "materials": [
+      "MI_Plane_SkyGlass18"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Fitted rounded pearl glazing reveal18",
+    "vertices": 1104,
+    "faces": 1090,
+    "min": [
+      -0.018931221216917038,
+      -6.735334396362305,
+      1.3539878129959106
+    ],
+    "max": [
+      1.425587773323059,
+      -4.861004829406738,
+      2.440650701522827
+    ],
+    "materials": [
+      "MI_Plane_White"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Fitted rounded pearl glazing reveal18.001",
+    "vertices": 1104,
+    "faces": 1090,
+    "min": [
+      1.132778286933899,
+      -6.5455451011657715,
+      1.3563519716262817
+    ],
+    "max": [
+      2.0335004329681396,
+      -4.1411824226379395,
+      2.2498135566711426
+    ],
+    "materials": [
+      "MI_Plane_White"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Fitted rounded pearl glazing reveal18.002",
+    "vertices": 944,
+    "faces": 930,
+    "min": [
+      1.7418795824050903,
+      -5.798828125,
+      1.4075747728347778
+    ],
+    "max": [
+      2.3101658821105957,
+      -3.141185760498047,
+      2.0084755420684814
+    ],
+    "materials": [
+      "MI_Plane_White"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Fitted rounded pearl glazing reveal18.003",
+    "vertices": 1152,
+    "faces": 1138,
+    "min": [
+      -1.4255132675170898,
+      -6.735391616821289,
+      1.354263186454773
+    ],
+    "max": [
+      0.01899999938905239,
+      -4.861137866973877,
+      2.440898895263672
+    ],
+    "materials": [
+      "MI_Plane_White"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Fitted rounded pearl glazing reveal18.004",
+    "vertices": 1168,
+    "faces": 1154,
+    "min": [
+      -2.0335540771484375,
+      -6.545526027679443,
+      1.3564255237579346
+    ],
+    "max": [
+      -1.1328904628753662,
+      -4.141116142272949,
+      2.2501022815704346
+    ],
+    "materials": [
+      "MI_Plane_White"
+    ],
+    "modifiers": []
+  },
+  {
+    "asset": "SM_Plane_CockpitShell",
+    "name": "Fitted rounded pearl glazing reveal18.005",
+    "vertices": 1008,
+    "faces": 994,
+    "min": [
+      -2.310340404510498,
+      -5.798897743225098,
+      1.4074790477752686
+    ],
+    "max": [
+      -1.741754412651062,
+      -3.141000270843506,
+      2.00839900970459
+    ],
+    "materials": [
+      "MI_Plane_White"
+    ],
+    "modifiers": []
+  }
+]

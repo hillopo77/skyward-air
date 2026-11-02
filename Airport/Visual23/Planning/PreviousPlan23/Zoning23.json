@@ -1,0 +1,304 @@
+{
+  "status": "PLANNED_NOT_BUILT",
+  "units": "metres",
+  "footprint": [
+    -49,
+    -14,
+    -22,
+    18
+  ],
+  "zones": [
+    {
+      "id": "checkin",
+      "title": "01 / CHECK-IN HALL",
+      "rect": [
+        -49,
+        -25,
+        -18,
+        -8
+      ],
+      "fill": "#eee4cd",
+      "ceiling_m": 3.8,
+      "description": "An enclosed public room: staffed desks, bag-drop recesses, queue lanes and a clear entrance sightline. Counters sit against a service wall; baggage continues behind it."
+    },
+    {
+      "id": "security",
+      "title": "02 / SECURITY ROOM",
+      "rect": [
+        -49,
+        -27,
+        -8,
+        2
+      ],
+      "fill": "#b9d7cb",
+      "ceiling_m": 3.5,
+      "description": "Full-height boundaries. Controlled south entry, two screening lanes, separate preparation and recomposure areas, staff station and a controlled north exit. Gates are beyond the exit, not beside the scanners."
+    },
+    {
+      "id": "cafe",
+      "title": "CAF\u00c9 / TRAVEL SHOP",
+      "rect": [
+        -49,
+        -35,
+        4,
+        18
+      ],
+      "fill": "#e8cab6",
+      "ceiling_m": "3.15 lower / gallery above",
+      "description": "A furnished destination off the airside route, with its own frontage and doorway. Keep the existing stair and mezzanine inside this area."
+    },
+    {
+      "id": "concourse",
+      "title": "03 / AIRSIDE CONCOURSE",
+      "rect": [
+        -35,
+        -25,
+        2,
+        18
+      ],
+      "fill": "#d9e4ec",
+      "ceiling_m": 4.0,
+      "description": "A short connecting space with clear signs at decisions. Caf\u00e9, toilets and separate gate lounges open off it. Its furnishings stay in edge recesses, outside the walking route."
+    },
+    {
+      "id": "gate07",
+      "title": "04 / GATE A07 LOUNGE",
+      "rect": [
+        -25,
+        -14,
+        -3,
+        7.5
+      ],
+      "fill": "#b9c8ec",
+      "ceiling_m": 3.6,
+      "description": "A bounded waiting room with a wide concourse portal, seating banks facing the boarding desk, large A07 identity, flight display, charging ledges and a boarding-only exit to the existing jetbridge."
+    },
+    {
+      "id": "gate08",
+      "title": "GATE A08 LOUNGE",
+      "rect": [
+        -25,
+        -14,
+        9,
+        18
+      ],
+      "fill": "#c6c1e3",
+      "ceiling_m": 3.6,
+      "description": "A separate adjacent waiting room: its own entry, desk, display and seating. A wall separates the A07/A08 seating areas so each gate reads immediately."
+    },
+    {
+      "id": "amenitylobby",
+      "title": "WC LOBBY",
+      "rect": [
+        -27,
+        -25,
+        -8,
+        2
+      ],
+      "fill": "#e4e3da",
+      "ceiling_m": 3.0,
+      "description": "A 2 m wide airside side passage connects the concourse to the lavatories. A solid wall keeps it outside the security room."
+    },
+    {
+      "id": "amenities",
+      "title": "WC / ASSISTANCE",
+      "rect": [
+        -25,
+        -14,
+        -8,
+        -3
+      ],
+      "fill": "#d8d4ca",
+      "ceiling_m": 2.8,
+      "description": "Enclosed lavatories and assistance rooms with doors off a short lobby. No lavatory door opens straight into a boarding queue."
+    },
+    {
+      "id": "arrivals",
+      "title": "ARRIVALS / RECLAIM",
+      "rect": [
+        -25,
+        -14,
+        -22,
+        -9.5
+      ],
+      "fill": "#d5d7ca",
+      "ceiling_m": 3.6,
+      "description": "A separate landside reclaim room. Its exit joins the public return passage, without crossing the security or gate queues."
+    },
+    {
+      "id": "publicreturn",
+      "title": "PUBLIC ARRIVALS RETURN / TROLLEYS",
+      "rect": [
+        -49,
+        -25,
+        -22,
+        -18
+      ],
+      "fill": "#e3e1d9",
+      "ceiling_m": 3.2,
+      "description": "A separate public passage along the forecourt edge. Reclaim passengers leave through their own public exit; trolley bays sit outside the through route."
+    }
+  ],
+  "doors": [
+    {
+      "zone": "checkin",
+      "point": [
+        -49,
+        -12.5
+      ],
+      "width_m": 2.7,
+      "kind": "public entrance"
+    },
+    {
+      "zone": "security",
+      "point": [
+        -41,
+        -8
+      ],
+      "width_m": 2.4,
+      "kind": "controlled preparation entry"
+    },
+    {
+      "zone": "security",
+      "point": [
+        -33,
+        2
+      ],
+      "width_m": 2.4,
+      "kind": "controlled screened exit"
+    },
+    {
+      "zone": "cafe",
+      "point": [
+        -35,
+        7
+      ],
+      "width_m": 2.4,
+      "kind": "cafe frontage portal"
+    },
+    {
+      "zone": "gate07",
+      "point": [
+        -25,
+        4
+      ],
+      "width_m": 2.6,
+      "kind": "lounge entry"
+    },
+    {
+      "zone": "gate08",
+      "point": [
+        -25,
+        12.5
+      ],
+      "width_m": 2.6,
+      "kind": "lounge entry"
+    },
+    {
+      "zone": "gate07",
+      "point": [
+        -14,
+        0.675
+      ],
+      "width_m": 2.7,
+      "kind": "validated boarding exit"
+    },
+    {
+      "zone": "publicreturn",
+      "point": [
+        -49,
+        -20
+      ],
+      "width_m": 2.4,
+      "kind": "separate public arrivals exit"
+    },
+    {
+      "zone": "arrivals",
+      "point": [
+        -25,
+        -20
+      ],
+      "width_m": 2.4,
+      "kind": "reclaim exit to public return"
+    },
+    {
+      "zone": "amenitylobby",
+      "point": [
+        -26,
+        2
+      ],
+      "width_m": 1.8,
+      "kind": "airside amenities passage"
+    },
+    {
+      "zone": "amenities",
+      "point": [
+        -25,
+        -4.5
+      ],
+      "width_m": 1.4,
+      "kind": "WC lobby entry"
+    }
+  ],
+  "principles": [
+    "Physical room boundaries and meaningful thresholds",
+    "Distinct ceilings and floor fields; simple colors alone are insufficient",
+    "A07 and A08 each have a bounded lounge",
+    "Keep parked aircraft and jetbridge connection",
+    "Recheck circulation after partition construction"
+  ],
+  "proposed_route": [
+    [
+      -51,
+      -12.5
+    ],
+    [
+      -44,
+      -12.5
+    ],
+    [
+      -41,
+      -8
+    ],
+    [
+      -41,
+      -3.2
+    ],
+    [
+      -41,
+      1
+    ],
+    [
+      -33,
+      1
+    ],
+    [
+      -33,
+      3
+    ],
+    [
+      -30,
+      4
+    ],
+    [
+      -25,
+      4
+    ],
+    [
+      -19,
+      4
+    ],
+    [
+      -18,
+      -2
+    ],
+    [
+      -14,
+      0.675
+    ],
+    [
+      -2,
+      0.675
+    ]
+  ]
+}

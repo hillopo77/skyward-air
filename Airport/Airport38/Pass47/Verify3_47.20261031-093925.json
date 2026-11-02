@@ -1,0 +1,14 @@
+{
+ "status": "SUCCESS",
+ "airside": null,
+ "captures": [
+  {
+   "name": "T1_road_top",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\After3\\T1_road_top.png"
+  },
+  {
+   "name": "T2_road_top_south",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\After3\\T2_road_top_south.png"
+  }
+ ]
+}

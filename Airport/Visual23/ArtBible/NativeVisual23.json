@@ -1,0 +1,746 @@
+{
+  "status": "SUCCESS",
+  "base_map": "/Game/Airport12/L_Airport_Journey22",
+  "assets": [
+    "SM_AP_Facade12",
+    "SM_AP_Roof12",
+    "SM_AP_Pillar12",
+    "SM_AP_Pendant12",
+    "SM_AP_Stairs12",
+    "SM_AP_Divider12",
+    "SM_AP_Counter",
+    "SM_AP_Kiosk",
+    "SM_AP_Belt",
+    "SM_AP_Scanner",
+    "SM_AP_Portal",
+    "SM_AP_Tray",
+    "SM_AP_Bench3",
+    "SM_AP_CafeTable",
+    "SM_AP_CafeChair",
+    "SM_AP_Coffee",
+    "SM_AP_BakeryCounter",
+    "SM_AP_RegisterCounter",
+    "SM_AP_TeaCounter",
+    "SM_AP_Recycling",
+    "SM_AP_Sign",
+    "SM_AP_SmallSign",
+    "SM_AP_ScreenBoard",
+    "SM_AP_GateDoor",
+    "SM_AP_BridgeWall",
+    "SM_AP_BridgeFloor",
+    "SM_AP_BridgeRoof",
+    "SM_AP_RoomWall11",
+    "SM_AP_RoomCeiling11",
+    "SM_AP_RoomPortal11",
+    "SM_AP_Vanity",
+    "SM_AP_HandDryer",
+    "SM_AP_RetailShelf",
+    "SM_AP_ChargingTable",
+    "SM_AP_Tile",
+    "SM_AP_MezzanineRear23",
+    "SM_AP_MezzanineReturn23",
+    "SM_AP_MezzanineLanding23"
+  ],
+  "components": [
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Slab.SM_AP_Slab"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Tile.SM_AP_Tile"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Pillar12.SM_AP_Pillar12"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Track.SM_AP_Track"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Sign.SM_AP_Sign"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Stanchion.SM_AP_Stanchion"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_BeltRibbon.SM_AP_BeltRibbon"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Plant12.SM_AP_Plant12"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Trolley.SM_AP_Trolley"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_SignStem.SM_AP_SignStem"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_RoomWall11.SM_AP_RoomWall11"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Carousel.SM_AP_Carousel"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Divider12.SM_AP_Divider12"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Tray.SM_AP_Tray"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Counter.SM_AP_Counter"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_OperatorChair.SM_AP_OperatorChair"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_QueueArrow.SM_AP_QueueArrow"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Bench3.SM_AP_Bench3"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_BridgeFloor.SM_AP_BridgeFloor"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_BridgeWall.SM_AP_BridgeWall"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_BridgeRoof.SM_AP_BridgeRoof"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Banner12.SM_AP_Banner12"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Pendant12.SM_AP_Pendant12"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Coffee.SM_AP_Coffee"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_BakeryCounter.SM_AP_BakeryCounter"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_RegisterCounter.SM_AP_RegisterCounter"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_TeaCounter.SM_AP_TeaCounter"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_CafeTable.SM_AP_CafeTable"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_CafeChair.SM_AP_CafeChair"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Stairs12.SM_AP_Stairs12"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Rail.SM_AP_Rail"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_ChargingTable.SM_AP_ChargingTable"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Toilet.SM_AP_Toilet"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_DoorRelease.SM_AP_DoorRelease"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Vanity.SM_AP_Vanity"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_RetailShelf.SM_AP_RetailShelf"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Asphalt.SM_AP_Asphalt"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Curb.SM_AP_Curb"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Tree.SM_AP_Tree"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_GardenBench.SM_AP_GardenBench"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Streetlight.SM_AP_Streetlight"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_TaxiCar.SM_AP_TaxiCar"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_ShuttleBus.SM_AP_ShuttleBus"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Terrain.SM_AP_Terrain"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_YellowMarking.SM_AP_YellowMarking"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Marking.SM_AP_Marking"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_RunwayLight.SM_AP_RunwayLight"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Runway18.SM_AP_Runway18"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Runway36.SM_AP_Runway36"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_ControlTower.SM_AP_ControlTower"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Hangar.SM_AP_Hangar"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Windsock.SM_AP_Windsock"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_MobileStairs.SM_AP_MobileStairs"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_GroundPower.SM_AP_GroundPower"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_FireStand11.SM_AP_FireStand11"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Ground12.SM_AP_Ground12"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_ServicePath12.SM_AP_ServicePath12"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_RoomPortal11.SM_AP_RoomPortal11"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_RoomCeiling11.SM_AP_RoomCeiling11"
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_HandDryer.SM_AP_HandDryer"
+    },
+    {
+      "actor": "Check-in desk 01",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Counter.SM_AP_Counter"
+    },
+    {
+      "actor": "Bag drop belt 01",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Belt.SM_AP_Belt"
+    },
+    {
+      "actor": "Check-in desk 02",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Counter.SM_AP_Counter"
+    },
+    {
+      "actor": "Bag drop belt 02",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Belt.SM_AP_Belt"
+    },
+    {
+      "actor": "Check-in desk 03",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Counter.SM_AP_Counter"
+    },
+    {
+      "actor": "Bag drop belt 03",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Belt.SM_AP_Belt"
+    },
+    {
+      "actor": "Kiosk12_1537",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Kiosk.SM_AP_Kiosk"
+    },
+    {
+      "actor": "Kiosk12_1538",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Kiosk.SM_AP_Kiosk"
+    },
+    {
+      "actor": "Security portal 01",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Portal.SM_AP_Portal"
+    },
+    {
+      "actor": "Security belt 01",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Belt.SM_AP_Belt"
+    },
+    {
+      "actor": "X-ray scanner 01",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Scanner.SM_AP_Scanner"
+    },
+    {
+      "actor": "Counter12_1576",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Counter.SM_AP_Counter"
+    },
+    {
+      "actor": "Security portal 02",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Portal.SM_AP_Portal"
+    },
+    {
+      "actor": "Security belt 02",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Belt.SM_AP_Belt"
+    },
+    {
+      "actor": "X-ray scanner 02",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Scanner.SM_AP_Scanner"
+    },
+    {
+      "actor": "Counter12_1591",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Counter.SM_AP_Counter"
+    },
+    {
+      "actor": "Gate A07 boarding desk",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Counter.SM_AP_Counter"
+    },
+    {
+      "actor": "Gate A08 boarding desk",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_Counter.SM_AP_Counter"
+    },
+    {
+      "actor": "Driveable electric baggage tug",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Tug.SM_AP_Tug"
+    },
+    {
+      "actor": "Tow dolly 1",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Dolly.SM_AP_Dolly"
+    },
+    {
+      "actor": "Tow dolly 2",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Dolly.SM_AP_Dolly"
+    },
+    {
+      "actor": "Entrance sliding leaf -13.175",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_GateDoor.SM_AP_GateDoor"
+    },
+    {
+      "actor": "Entrance sliding leaf -11.825",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_GateDoor.SM_AP_GateDoor"
+    },
+    {
+      "actor": "Service ramp automatic leaf -17.7",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_GateDoor.SM_AP_GateDoor"
+    },
+    {
+      "actor": "Service ramp automatic leaf -16.3",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_GateDoor.SM_AP_GateDoor"
+    },
+    {
+      "actor": "A07 boarding pocket leaf -0.025",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_GateDoor.SM_AP_GateDoor"
+    },
+    {
+      "actor": "A07 boarding pocket leaf 1.375",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_GateDoor.SM_AP_GateDoor"
+    },
+    {
+      "actor": "Terminal WC 0",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_CubicleDoor.SM_AP_CubicleDoor"
+    },
+    {
+      "actor": "WC release 0 outside",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_DoorRelease.SM_AP_DoorRelease"
+    },
+    {
+      "actor": "WC release 0 inside",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_DoorRelease.SM_AP_DoorRelease"
+    },
+    {
+      "actor": "Terminal WC 1",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_CubicleDoor.SM_AP_CubicleDoor"
+    },
+    {
+      "actor": "WC release 1 outside",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_DoorRelease.SM_AP_DoorRelease"
+    },
+    {
+      "actor": "WC release 1 inside",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_DoorRelease.SM_AP_DoorRelease"
+    },
+    {
+      "actor": "Physical luggage 01",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_BagOrange.SM_AP_BagOrange"
+    },
+    {
+      "actor": "Physical luggage 02",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_BagBlue.SM_AP_BagBlue"
+    },
+    {
+      "actor": "Physical luggage 03",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_BagPink.SM_AP_BagPink"
+    },
+    {
+      "actor": "Physical luggage 04",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_BagMint.SM_AP_BagMint"
+    },
+    {
+      "actor": "Physical luggage 05",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_CarryOn.SM_AP_CarryOn"
+    },
+    {
+      "actor": "Physical luggage 06",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_BagOrange.SM_AP_BagOrange"
+    },
+    {
+      "actor": "Physical luggage 07",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_BagBlue.SM_AP_BagBlue"
+    },
+    {
+      "actor": "Physical luggage 08",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_BagPink.SM_AP_BagPink"
+    },
+    {
+      "actor": "Usable extinguisher 0",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Extinguisher11.SM_AP_Extinguisher11"
+    },
+    {
+      "actor": "Usable extinguisher 1",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Extinguisher11.SM_AP_Extinguisher11"
+    },
+    {
+      "actor": "Usable extinguisher 2",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Extinguisher11.SM_AP_Extinguisher11"
+    },
+    {
+      "actor": "Usable extinguisher 3",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Extinguisher11.SM_AP_Extinguisher11"
+    },
+    {
+      "actor": "Usable extinguisher 4",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Extinguisher11.SM_AP_Extinguisher11"
+    },
+    {
+      "actor": "Extinguisher powder effect",
+      "mesh": "/Game/Airport12/Meshes/SM_AP_SprayCloud11.SM_AP_SprayCloud11"
+    },
+    {
+      "actor": "Compact departures display",
+      "mesh": "/Game/Airport23/Meshes/SM_AP_ScreenBoard.SM_AP_ScreenBoard"
+    }
+  ],
+  "materials": [
+    {
+      "name": "MI_AP_Ivory",
+      "roughness": 0.65,
+      "metallic": 0,
+      "specular": 0.28,
+      "normal_strength": 0.045
+    },
+    {
+      "name": "MI_AP_Pearl",
+      "roughness": 0.63,
+      "metallic": 0,
+      "specular": 0.28,
+      "normal_strength": 0.045
+    },
+    {
+      "name": "MI_AP_Graphite",
+      "roughness": 0.65,
+      "metallic": 0,
+      "specular": 0.25,
+      "normal_strength": 0.055
+    },
+    {
+      "name": "MI_AP_Navy",
+      "roughness": 0.84,
+      "metallic": 0,
+      "specular": 0.22,
+      "normal_strength": 0.13
+    },
+    {
+      "name": "MI_AP_Blue",
+      "roughness": 0.65,
+      "metallic": 0,
+      "specular": 0.28,
+      "normal_strength": 0.1
+    },
+    {
+      "name": "MI_AP_Teal",
+      "roughness": 0.550000011920929,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_Gold",
+      "roughness": 0.52,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_Red",
+      "roughness": 0.5299999713897705,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_Orange",
+      "roughness": 0.52,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_Pink",
+      "roughness": 0.52,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_Mint",
+      "roughness": 0.5600000023841858,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_Steel",
+      "roughness": 0.5,
+      "metallic": 0.65,
+      "specular": 0.28,
+      "normal_strength": 0
+    },
+    {
+      "name": "MI_AP_DarkSteel",
+      "roughness": 0.56,
+      "metallic": 0.5,
+      "specular": 0.28,
+      "normal_strength": 0
+    },
+    {
+      "name": "MI_AP_Rubber",
+      "roughness": 0.8399999737739563,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_Walnut",
+      "roughness": 0.550000011920929,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_Oak",
+      "roughness": 0.6000000238418579,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_Tile",
+      "roughness": 0.59,
+      "metallic": 0,
+      "specular": 0.28,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_Grout",
+      "roughness": 0.88,
+      "metallic": 0,
+      "specular": 0.2,
+      "normal_strength": 0
+    },
+    {
+      "name": "MI_AP_Asphalt",
+      "roughness": 0.9399999976158142,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_Concrete",
+      "roughness": 0.8700000047683716,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_Grass",
+      "roughness": 0.9599999785423279,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_Leaf",
+      "roughness": 0.8500000238418579,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_LightLeaf",
+      "roughness": 0.8199999928474426,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_Bark",
+      "roughness": 0.8799999952316284,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_Soil",
+      "roughness": 0.949999988079071,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_WhiteMark",
+      "roughness": 0.7699999809265137,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_Screen",
+      "roughness": 0.52,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_Cream",
+      "roughness": 0.7,
+      "metallic": 0,
+      "specular": 0.25,
+      "normal_strength": 0.035
+    },
+    {
+      "name": "MI_AP_WarmLED",
+      "roughness": 0.52,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_WhiteLED",
+      "roughness": 0.52,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_GreenLED",
+      "roughness": 0.52,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_RedLED",
+      "roughness": 0.52,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_BlueLED",
+      "roughness": 0.52,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_RoomNavy11",
+      "roughness": 0.8199999928474426,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_RoomWarm11",
+      "roughness": 0.6800000071525574,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    },
+    {
+      "name": "MI_AP_RoomSage11",
+      "roughness": 0.7599999904632568,
+      "metallic": 0.0,
+      "specular": 0.3,
+      "normal_strength": 0.07
+    }
+  ],
+  "started": 1793080030.275739,
+  "lighting": "Preserved character-map daylight balance: sun300/sky65; softer source angle5",
+  "finished": 1793080045.8015976,
+  "map": "/Game/Airport23/L_Airport_Visual23",
+  "source_sha256": "458577bb6d95b29ec425c00a086934aed1f9a4f2e79ff6401e49c9b59b246021",
+  "previous_map_preserved": true
+}

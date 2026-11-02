@@ -1,0 +1,1647 @@
+{
+  "status": "SUCCESS",
+  "passes": [
+    {
+      "pass_id": 1,
+      "map": "/Game/Airport12/L_Airport_Pass01",
+      "placed_instances": 7,
+      "modeled_asset_families": 111,
+      "layout_sha256": "7d1526fb207d1300055f6985ed1777af5a87df2efab5814dc1525733e28e2e84",
+      "asset_manifest_sha256": "1ba45f979fa29210dba1e7ae25e595685eda5ef6d43f13c600d4ce0951acbd96"
+    },
+    {
+      "pass_id": 2,
+      "map": "/Game/Airport12/L_Airport_Pass02",
+      "placed_instances": 1557,
+      "modeled_asset_families": 111,
+      "layout_sha256": "7d1526fb207d1300055f6985ed1777af5a87df2efab5814dc1525733e28e2e84",
+      "asset_manifest_sha256": "1ba45f979fa29210dba1e7ae25e595685eda5ef6d43f13c600d4ce0951acbd96"
+    },
+    {
+      "pass_id": 3,
+      "map": "/Game/Airport12/L_Airport_Pass03",
+      "placed_instances": 1573,
+      "modeled_asset_families": 111,
+      "layout_sha256": "7d1526fb207d1300055f6985ed1777af5a87df2efab5814dc1525733e28e2e84",
+      "asset_manifest_sha256": "1ba45f979fa29210dba1e7ae25e595685eda5ef6d43f13c600d4ce0951acbd96"
+    },
+    {
+      "pass_id": 4,
+      "map": "/Game/Airport12/L_Airport_Pass04",
+      "placed_instances": 1617,
+      "modeled_asset_families": 111,
+      "layout_sha256": "7d1526fb207d1300055f6985ed1777af5a87df2efab5814dc1525733e28e2e84",
+      "asset_manifest_sha256": "1ba45f979fa29210dba1e7ae25e595685eda5ef6d43f13c600d4ce0951acbd96"
+    },
+    {
+      "pass_id": 5,
+      "map": "/Game/Airport12/L_Airport_Pass05",
+      "placed_instances": 1674,
+      "modeled_asset_families": 111,
+      "layout_sha256": "7d1526fb207d1300055f6985ed1777af5a87df2efab5814dc1525733e28e2e84",
+      "asset_manifest_sha256": "1ba45f979fa29210dba1e7ae25e595685eda5ef6d43f13c600d4ce0951acbd96"
+    },
+    {
+      "pass_id": 6,
+      "map": "/Game/Airport12/L_Airport_Pass06",
+      "placed_instances": 1828,
+      "modeled_asset_families": 111,
+      "layout_sha256": "7d1526fb207d1300055f6985ed1777af5a87df2efab5814dc1525733e28e2e84",
+      "asset_manifest_sha256": "1ba45f979fa29210dba1e7ae25e595685eda5ef6d43f13c600d4ce0951acbd96"
+    },
+    {
+      "pass_id": 7,
+      "map": "/Game/Airport12/L_Airport_Pass07",
+      "placed_instances": 1862,
+      "modeled_asset_families": 111,
+      "layout_sha256": "7d1526fb207d1300055f6985ed1777af5a87df2efab5814dc1525733e28e2e84",
+      "asset_manifest_sha256": "1ba45f979fa29210dba1e7ae25e595685eda5ef6d43f13c600d4ce0951acbd96"
+    },
+    {
+      "pass_id": 8,
+      "map": "/Game/Airport12/L_Airport_Pass08",
+      "placed_instances": 1898,
+      "modeled_asset_families": 111,
+      "layout_sha256": "7d1526fb207d1300055f6985ed1777af5a87df2efab5814dc1525733e28e2e84",
+      "asset_manifest_sha256": "1ba45f979fa29210dba1e7ae25e595685eda5ef6d43f13c600d4ce0951acbd96"
+    },
+    {
+      "pass_id": 9,
+      "map": "/Game/Airport12/L_Airport_Pass09",
+      "placed_instances": 1979,
+      "modeled_asset_families": 111,
+      "layout_sha256": "7d1526fb207d1300055f6985ed1777af5a87df2efab5814dc1525733e28e2e84",
+      "asset_manifest_sha256": "1ba45f979fa29210dba1e7ae25e595685eda5ef6d43f13c600d4ce0951acbd96"
+    },
+    {
+      "pass_id": 10,
+      "map": "/Game/Airport12/L_Airport_Compact12",
+      "placed_instances": 1979,
+      "modeled_asset_families": 111,
+      "layout_sha256": "7d1526fb207d1300055f6985ed1777af5a87df2efab5814dc1525733e28e2e84",
+      "asset_manifest_sha256": "1ba45f979fa29210dba1e7ae25e595685eda5ef6d43f13c600d4ce0951acbd96"
+    }
+  ],
+  "assets": [
+    {
+      "id": "SM_AP_Tile",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        49.75,
+        49.75,
+        2.299999952316284
+      ]
+    },
+    {
+      "id": "SM_AP_Slab",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        50.0,
+        50.0,
+        20.0
+      ]
+    },
+    {
+      "id": "SM_AP_Panel",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        50.0,
+        6.0,
+        50.0
+      ]
+    },
+    {
+      "id": "SM_AP_BluePanel",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        50.0,
+        6.0,
+        50.0
+      ]
+    },
+    {
+      "id": "SM_AP_Column",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        145.78358459472656,
+        39.0,
+        446.9716491699219
+      ]
+    },
+    {
+      "id": "SM_AP_RoofBay",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        502.89935302734375,
+        402.0,
+        91.83560180664062
+      ]
+    },
+    {
+      "id": "SM_AP_CurtainBay",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        302.5,
+        15.992151260375977,
+        430.0000305175781
+      ]
+    },
+    {
+      "id": "SM_AP_Bench3",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        111.69999694824219,
+        42.285343170166016,
+        57.324317932128906
+      ]
+    },
+    {
+      "id": "SM_AP_Counter",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        90.0,
+        56.75,
+        97.25
+      ]
+    },
+    {
+      "id": "SM_AP_Kiosk",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        33.0,
+        31.5,
+        82.5
+      ]
+    },
+    {
+      "id": "SM_AP_Belt",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        65.75,
+        180.0,
+        49.25
+      ]
+    },
+    {
+      "id": "SM_AP_Scanner",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        117.14500427246094,
+        111.24999237060547,
+        108.0
+      ]
+    },
+    {
+      "id": "SM_AP_Portal",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        88.5,
+        35.0,
+        131.75
+      ]
+    },
+    {
+      "id": "SM_AP_Tray",
+      "collision": "convex",
+      "native_collision_hulls": 8,
+      "size_cm": [
+        29.330646514892578,
+        21.342758178710938,
+        6.511013507843018
+      ]
+    },
+    {
+      "id": "SM_AP_Stanchion",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        18.0,
+        18.0,
+        53.625
+      ]
+    },
+    {
+      "id": "SM_AP_BeltRibbon",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        100.0,
+        1.25,
+        3.25
+      ]
+    },
+    {
+      "id": "SM_AP_Planter",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        36.0,
+        41.47114562988281,
+        94.08485412597656
+      ]
+    },
+    {
+      "id": "SM_AP_Tree",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        260.22808837890625,
+        253.03634643554688,
+        340.8304443359375
+      ]
+    },
+    {
+      "id": "SM_AP_Trolley",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        36.0,
+        58.248077392578125,
+        55.25
+      ]
+    },
+    {
+      "id": "SM_AP_Carousel",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        484.79937744140625,
+        184.79998779296875,
+        36.18641662597656
+      ]
+    },
+    {
+      "id": "SM_AP_Coffee",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        88.5,
+        55.593971252441406,
+        84.0
+      ]
+    },
+    {
+      "id": "SM_AP_Cup",
+      "collision": "convex",
+      "native_collision_hulls": 1,
+      "size_cm": [
+        4.800000190734863,
+        4.800000190734863,
+        6.824999809265137
+      ]
+    },
+    {
+      "id": "SM_AP_Recycling",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        39.5,
+        25.375,
+        52.499996185302734
+      ]
+    },
+    {
+      "id": "SM_AP_Luminaire",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        210.99998474121094,
+        6.5,
+        79.19999694824219
+      ]
+    },
+    {
+      "id": "SM_AP_BagOrange",
+      "collision": "convex",
+      "native_collision_hulls": 10,
+      "size_cm": [
+        29.5,
+        17.700000762939453,
+        51.982261657714844
+      ]
+    },
+    {
+      "id": "SM_AP_BagBlue",
+      "collision": "convex",
+      "native_collision_hulls": 10,
+      "size_cm": [
+        29.5,
+        17.700000762939453,
+        51.982261657714844
+      ]
+    },
+    {
+      "id": "SM_AP_BagPink",
+      "collision": "convex",
+      "native_collision_hulls": 10,
+      "size_cm": [
+        29.5,
+        17.700000762939453,
+        51.982261657714844
+      ]
+    },
+    {
+      "id": "SM_AP_BagMint",
+      "collision": "convex",
+      "native_collision_hulls": 10,
+      "size_cm": [
+        29.5,
+        17.700000762939453,
+        51.982261657714844
+      ]
+    },
+    {
+      "id": "SM_AP_BagRed",
+      "collision": "convex",
+      "native_collision_hulls": 10,
+      "size_cm": [
+        29.5,
+        17.700000762939453,
+        51.982261657714844
+      ]
+    },
+    {
+      "id": "SM_AP_BagGraphite",
+      "collision": "convex",
+      "native_collision_hulls": 10,
+      "size_cm": [
+        29.5,
+        17.700000762939453,
+        51.982261657714844
+      ]
+    },
+    {
+      "id": "SM_AP_CarryOn",
+      "collision": "convex",
+      "native_collision_hulls": 10,
+      "size_cm": [
+        21.5,
+        17.700000762939453,
+        40.98225784301758
+      ]
+    },
+    {
+      "id": "SM_AP_ScreenBoard",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        205.0,
+        9.300000190734863,
+        112.0
+      ]
+    },
+    {
+      "id": "SM_AP_Sign",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        190.0,
+        7.500000476837158,
+        35.0
+      ]
+    },
+    {
+      "id": "SM_AP_SmallSign",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        60.000003814697266,
+        3.750000238418579,
+        17.5
+      ]
+    },
+    {
+      "id": "SM_AP_GateDoor",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        67.5,
+        10.39358901977539,
+        135.0
+      ]
+    },
+    {
+      "id": "SM_AP_Track",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        245.0,
+        8.0,
+        2.375
+      ]
+    },
+    {
+      "id": "SM_AP_Rail",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        102.50000762939453,
+        2.799999713897705,
+        55.400001525878906
+      ]
+    },
+    {
+      "id": "SM_AP_Step",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        150.0,
+        16.0,
+        8.75
+      ]
+    },
+    {
+      "id": "SM_AP_BridgeFloor",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        135.0,
+        137.5,
+        17.524999618530273
+      ]
+    },
+    {
+      "id": "SM_AP_BridgeWall",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        135.0,
+        5.0,
+        124.0
+      ]
+    },
+    {
+      "id": "SM_AP_BridgeRoof",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        135.0,
+        140.0,
+        11.0
+      ]
+    },
+    {
+      "id": "SM_AP_QueueArrow",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        28.0,
+        45.0,
+        0.0
+      ]
+    },
+    {
+      "id": "SM_AP_Bollard",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        7.90000057220459,
+        7.90000057220459,
+        46.25
+      ]
+    },
+    {
+      "id": "SM_AP_Cone",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        21.0,
+        21.0,
+        32.5
+      ]
+    },
+    {
+      "id": "SM_AP_RunwayLight",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        15.000000953674316,
+        15.000000953674316,
+        18.25
+      ]
+    },
+    {
+      "id": "SM_AP_TaxiLight",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        12.0,
+        12.0,
+        20.0
+      ]
+    },
+    {
+      "id": "SM_AP_Marking",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        50.0,
+        50.0,
+        0.6000000238418579
+      ]
+    },
+    {
+      "id": "SM_AP_YellowMarking",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        50.0,
+        50.0,
+        0.75
+      ]
+    },
+    {
+      "id": "SM_AP_Asphalt",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        50.0,
+        50.0,
+        12.0
+      ]
+    },
+    {
+      "id": "SM_AP_Terrain",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        50.0,
+        50.0,
+        20.0
+      ]
+    },
+    {
+      "id": "SM_AP_Vanity",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        125.0,
+        45.5,
+        110.375
+      ]
+    },
+    {
+      "id": "SM_AP_Toilet",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        29.0,
+        45.0,
+        46.25
+      ]
+    },
+    {
+      "id": "SM_AP_HandDryer",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        17.0,
+        12.449999809265137,
+        15.5
+      ]
+    },
+    {
+      "id": "SM_AP_CafeTable",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        60.000003814697266,
+        37.0,
+        38.25
+      ]
+    },
+    {
+      "id": "SM_AP_CafeChair",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        37.70000076293945,
+        41.935340881347656,
+        56.77640914916992
+      ]
+    },
+    {
+      "id": "SM_AP_RetailShelf",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        75.25,
+        26.0,
+        128.0
+      ]
+    },
+    {
+      "id": "SM_AP_Vending",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        49.25,
+        43.04999923706055,
+        100.5
+      ]
+    },
+    {
+      "id": "SM_AP_Telephone",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        20.799835205078125,
+        15.25,
+        39.96580505371094
+      ]
+    },
+    {
+      "id": "SM_AP_Tug",
+      "collision": "convex",
+      "native_collision_hulls": 6,
+      "size_cm": [
+        79.3499984741211,
+        135.41110229492188,
+        72.4000015258789
+      ]
+    },
+    {
+      "id": "SM_AP_Dolly",
+      "collision": "convex",
+      "native_collision_hulls": 8,
+      "size_cm": [
+        82.3499984741211,
+        178.25,
+        59.707393646240234
+      ]
+    },
+    {
+      "id": "SM_AP_MobileStairs",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        115.50000762939453,
+        408.3091125488281,
+        234.25
+      ]
+    },
+    {
+      "id": "SM_AP_GroundPower",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        95.07499694824219,
+        135.0,
+        63.0
+      ]
+    },
+    {
+      "id": "SM_AP_ShuttleBus",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        129.84999084472656,
+        451.5,
+        158.25
+      ]
+    },
+    {
+      "id": "SM_AP_ControlTower",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        655.9544677734375,
+        655.9544677734375,
+        1957.5001220703125
+      ]
+    },
+    {
+      "id": "SM_AP_Windsock",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        160.0,
+        41.248077392578125,
+        330.75
+      ]
+    },
+    {
+      "id": "SM_AP_Hangar",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        2615.0,
+        2917.5,
+        1158.5
+      ]
+    },
+    {
+      "id": "SM_AP_CubicleDoor",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        55.900001525878906,
+        9.175000190734863,
+        105.0
+      ]
+    },
+    {
+      "id": "SM_AP_DoorRelease",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        7.0,
+        3.0,
+        11.0
+      ]
+    },
+    {
+      "id": "SM_AP_StairGuard",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        3.299999952316284,
+        202.1999969482422,
+        160.46090698242188
+      ]
+    },
+    {
+      "id": "SM_AP_TactilePaver",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        98.0,
+        22.5,
+        2.450000047683716
+      ]
+    },
+    {
+      "id": "SM_AP_BakeryCounter",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        88.5,
+        55.593971252441406,
+        96.125
+      ]
+    },
+    {
+      "id": "SM_AP_RegisterCounter",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        88.5,
+        55.593971252441406,
+        86.0
+      ]
+    },
+    {
+      "id": "SM_AP_TeaCounter",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        88.5,
+        55.593971252441406,
+        85.75
+      ]
+    },
+    {
+      "id": "SM_AP_SignStem",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        1.5,
+        1.5,
+        50.0
+      ]
+    },
+    {
+      "id": "SM_AP_Clerestory",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        502.6922607421875,
+        7.0,
+        85.49996948242188
+      ]
+    },
+    {
+      "id": "SM_AP_Banner",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        82.5,
+        5.515000343322754,
+        206.1999969482422
+      ]
+    },
+    {
+      "id": "SM_AP_Streetlight",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        87.5,
+        22.0,
+        290.7338562011719
+      ]
+    },
+    {
+      "id": "SM_AP_Curb",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        98.0,
+        18.5,
+        12.5
+      ]
+    },
+    {
+      "id": "SM_AP_TaxiCar",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        98.43999481201172,
+        227.50001525878906,
+        85.75
+      ]
+    },
+    {
+      "id": "SM_AP_FireStation",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        40.0,
+        28.25,
+        93.75
+      ]
+    },
+    {
+      "id": "SM_AP_FlightTotem",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        70.0,
+        30.000001907348633,
+        140.0
+      ]
+    },
+    {
+      "id": "SM_AP_ChargingTable",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        140.0,
+        32.5,
+        54.849998474121094
+      ]
+    },
+    {
+      "id": "SM_AP_Vent",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        120.00000762939453,
+        9.5,
+        25.0
+      ]
+    },
+    {
+      "id": "SM_AP_GardenBench",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        245.0,
+        113.5,
+        67.875
+      ]
+    },
+    {
+      "id": "SM_AP_OperatorChair",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        32.84878158569336,
+        36.884864807128906,
+        56.75
+      ]
+    },
+    {
+      "id": "SM_AP_GradedTerrain",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        85000.0,
+        95000.0,
+        174.5
+      ]
+    },
+    {
+      "id": "SM_AP_ServiceRamp",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        250.0,
+        1503.0,
+        259.4849853515625
+      ]
+    },
+    {
+      "id": "SM_AP_Runway18",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        306.3999938964844,
+        280.0,
+        0.029999971389770508
+      ]
+    },
+    {
+      "id": "SM_AP_Runway36",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        360.4000244140625,
+        280.0,
+        0.029999971389770508
+      ]
+    },
+    {
+      "id": "SM_AP_StairBody11",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        154.5,
+        200.0,
+        107.80561065673828
+      ]
+    },
+    {
+      "id": "SM_AP_StairPier11",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        19.0,
+        19.0,
+        100.0
+      ]
+    },
+    {
+      "id": "SM_AP_LandingBeam11",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        340.0,
+        12.5,
+        12.5
+      ]
+    },
+    {
+      "id": "SM_AP_RoomWall11",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        50.0,
+        11.625,
+        211.25
+      ]
+    },
+    {
+      "id": "SM_AP_RoomGlass11",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        50.25,
+        9.5,
+        185.0
+      ]
+    },
+    {
+      "id": "SM_AP_RoomCeiling11",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        50.0,
+        50.0,
+        7.500000476837158
+      ]
+    },
+    {
+      "id": "SM_AP_RoomLight11",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        140.5,
+        12.5,
+        7.099999904632568
+      ]
+    },
+    {
+      "id": "SM_AP_RoomRunner11",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        50.0,
+        50.0,
+        0.0
+      ]
+    },
+    {
+      "id": "SM_AP_RoomPortal11",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        167.0,
+        14.0,
+        158.0
+      ]
+    },
+    {
+      "id": "SM_AP_FireStand11",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        40.0,
+        35.75,
+        93.75
+      ]
+    },
+    {
+      "id": "SM_AP_Extinguisher11",
+      "collision": "convex",
+      "native_collision_hulls": 8,
+      "size_cm": [
+        14.823127746582031,
+        18.200000762939453,
+        37.10586166381836
+      ]
+    },
+    {
+      "id": "SM_AP_SprayCloud11",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        56.321529388427734,
+        116.03192901611328,
+        57.24970626831055
+      ]
+    },
+    {
+      "id": "SM_AP_Ground12",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        27500.0,
+        80000.0,
+        185.0
+      ]
+    },
+    {
+      "id": "SM_AP_ServicePath12",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        140.0,
+        1751.800048828125,
+        247.763671875
+      ]
+    },
+    {
+      "id": "SM_AP_Facade12",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        188.5,
+        18.0,
+        380.0
+      ]
+    },
+    {
+      "id": "SM_AP_Roof12",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        351.0877380371094,
+        255.5,
+        31.1956787109375
+      ]
+    },
+    {
+      "id": "SM_AP_Pillar12",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        22.0,
+        22.0,
+        376.0
+      ]
+    },
+    {
+      "id": "SM_AP_Banner12",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        48.0,
+        2.8499999046325684,
+        114.88638305664062
+      ]
+    },
+    {
+      "id": "SM_AP_Pendant12",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        110.0,
+        8.5,
+        61.125003814697266
+      ]
+    },
+    {
+      "id": "SM_AP_Divider12",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        50.0,
+        12.0,
+        145.5
+      ]
+    },
+    {
+      "id": "SM_AP_Plant12",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        42.222618103027344,
+        40.20956802368164,
+        118.8241958618164
+      ]
+    },
+    {
+      "id": "SM_AP_Stairs12",
+      "collision": "complex",
+      "native_collision_hulls": 0,
+      "size_cm": [
+        200.0,
+        182.25,
+        211.06092834472656
+      ]
+    }
+  ],
+  "source_aircraft_sha256": "ae048f469cf2a55e726e07289c23dc5514783b5656ea1e928a3da6a72f8105d0",
+  "stage": "Saved pass 10",
+  "aircraft": {
+    "changed_actors": [
+      "SM_Plane_Controls",
+      "SM_Plane_CockpitShell",
+      "SM_Plane_Seat.016",
+      "SM_Plane_Seat.017",
+      "SM_Plane_FlightdeckSystems",
+      "Economy 03 A",
+      "Economy 03 K",
+      "Economy 03 D E",
+      "Economy 04 A",
+      "Economy 04 K",
+      "Economy 04 D E",
+      "Economy 05 A",
+      "Economy 05 K",
+      "Economy 05 D E",
+      "Economy 06 A",
+      "Economy 06 K",
+      "Economy 06 D E",
+      "Economy 07 A",
+      "Economy 07 K",
+      "Economy 07 D E",
+      "Economy 08 A",
+      "Economy 08 K",
+      "Economy 08 D E",
+      "Economy 09 A",
+      "Economy 09 K",
+      "Economy 09 D E",
+      "Economy 10 A",
+      "Economy 10 K",
+      "Economy 10 D E",
+      "Economy 11 A",
+      "Economy 11 K",
+      "Economy 11 D E",
+      "SM_Plane_WindowWall_R bay10 01",
+      "SM_Plane_WindowWall_L bay10 01",
+      "SM_Plane_OuterWindowBarrel bay10 01",
+      "SM_Plane_WindowWall_R bay10 02",
+      "SM_Plane_WindowWall_L bay10 02",
+      "SM_Plane_OuterWindowBarrel bay10 02",
+      "SM_Plane_WindowWall_R bay10 03",
+      "SM_Plane_WindowWall_L bay10 03",
+      "SM_Plane_OuterWindowBarrel bay10 03",
+      "SM_Plane_WindowWall_R bay10 04",
+      "SM_Plane_WindowWall_L bay10 04",
+      "SM_Plane_WindowWall_R bay10 05",
+      "SM_Plane_WindowWall_L bay10 05",
+      "SM_Plane_OuterWindowBarrel bay10 05",
+      "SM_Plane_WindowWall_R bay10 06",
+      "SM_Plane_WindowWall_L bay10 06",
+      "SM_Plane_OuterWindowBarrel bay10 06",
+      "SM_Plane_WindowWall_R bay10 07",
+      "SM_Plane_WindowWall_L bay10 07",
+      "SM_Plane_OuterWindowBarrel bay10 07",
+      "SM_Plane_WindowWall_R bay10 08",
+      "SM_Plane_WindowWall_L bay10 08",
+      "SM_Plane_OuterWindowBarrel bay10 08",
+      "SM_Plane_WindowWall_R bay10 09",
+      "SM_Plane_WindowWall_L bay10 09",
+      "SM_Plane_OuterWindowBarrel bay10 09",
+      "SM_Plane_WindowWall_R bay10 10",
+      "SM_Plane_WindowWall_L bay10 10",
+      "SM_Plane_OuterWindowBarrel bay10 10",
+      "SM_Plane_WindowWall_R bay10 11",
+      "SM_Plane_WindowWall_L bay10 11",
+      "SM_Plane_OuterWindowBarrel bay10 11",
+      "SM_Plane_WindowWall_R bay10 12",
+      "SM_Plane_WindowWall_L bay10 12",
+      "SM_Plane_OuterWindowBarrel bay10 12",
+      "SM_Plane_WindowWall_R bay10 13",
+      "SM_Plane_WindowWall_L bay10 13",
+      "SM_Plane_OuterWindowBarrel bay10 13",
+      "SM_Plane_WindowWall_R bay10 14",
+      "SM_Plane_WindowWall_L bay10 14",
+      "SM_Plane_OuterWindowBarrel bay10 14",
+      "SM_Plane_WindowWall_R bay10 15",
+      "SM_Plane_WindowWall_L bay10 15",
+      "SM_Plane_OuterWindowBarrel bay10 15",
+      "SM_Plane_WindowWall_R bay10 16",
+      "SM_Plane_WindowWall_L bay10 16",
+      "SM_Plane_OuterWindowBarrel bay10 16",
+      "SM_Plane_WindowWall_R bay10 17",
+      "SM_Plane_WindowWall_L bay10 17",
+      "SM_Plane_OuterWindowBarrel bay10 17",
+      "SM_Plane_WindowWall_R bay10 18",
+      "SM_Plane_WindowWall_L bay10 18",
+      "SM_Plane_OuterWindowBarrel bay10 18",
+      "SM_Plane_WindowWall_R bay10 19",
+      "SM_Plane_WindowWall_L bay10 19",
+      "SM_Plane_OuterWindowBarrel bay10 19",
+      "SM_Plane_WindowWall_R bay10 21",
+      "SM_Plane_WindowWall_L bay10 21",
+      "SM_Plane_OuterWindowBarrel bay10 21",
+      "SM_Plane_WindowWall_R bay10 22",
+      "SM_Plane_WindowWall_L bay10 22",
+      "SM_Plane_OuterWindowBarrel bay10 22",
+      "SM_Plane_WindowWall_R bay10 23",
+      "SM_Plane_WindowWall_L bay10 23",
+      "SM_Plane_OuterWindowBarrel bay10 23",
+      "SM_Plane_WindowWall_R bay10 24",
+      "SM_Plane_WindowWall_L bay10 24",
+      "SM_Plane_OuterWindowBarrel bay10 24",
+      "SM_Plane_WindowWall_R bay10 25",
+      "SM_Plane_WindowWall_L bay10 25",
+      "SM_Plane_OuterWindowBarrel bay10 25",
+      "Forward lower cargo pressure bay",
+      "Pilot headset L12",
+      "Pilot headset R12",
+      "Cockpit side pushbutton 0112",
+      "Cockpit side pushbutton 0212",
+      "Cockpit side pushbutton 0312",
+      "Cockpit side pushbutton 0412",
+      "Cockpit side pushbutton 0512",
+      "Cockpit side pushbutton 0612",
+      "Cockpit side rotary 112",
+      "Cockpit side rotary 212",
+      "Cockpit side rotary 312",
+      "Cockpit side rotary 412",
+      "Cockpit side rotary 512",
+      "Cockpit side rotary 612",
+      "Economy folding tray 0117",
+      "Economy folding tray 0217",
+      "Economy folding tray 0317",
+      "Economy folding tray 0417",
+      "Economy folding tray 0517",
+      "Economy folding tray 0617",
+      "Economy folding tray 0717",
+      "Economy folding tray 0817",
+      "Economy folding tray 0917",
+      "Economy folding tray 1017",
+      "Economy folding tray 1117",
+      "Economy folding tray 1217",
+      "Economy folding tray 1317",
+      "Economy folding tray 1417",
+      "Economy folding tray 1517",
+      "Economy folding tray 1617",
+      "Economy folding tray 1717",
+      "Economy folding tray 1817",
+      "Economy folding tray 1917",
+      "Economy folding tray 2017",
+      "Economy folding tray 2117",
+      "Economy folding tray 2217",
+      "Economy folding tray 2317",
+      "Economy folding tray 2417",
+      "Economy folding tray 2517",
+      "Economy folding tray 2617",
+      "Economy folding tray 2717",
+      "Economy folding tray 2817",
+      "Economy folding tray 2917",
+      "Economy folding tray 3017",
+      "Economy folding tray 3117",
+      "Economy folding tray 3217",
+      "Economy folding tray 3317",
+      "Economy folding tray 3417",
+      "Economy folding tray 3517",
+      "Economy folding tray 3617",
+      "Window shade 01 R18 frame",
+      "Window shade 01 R18",
+      "Window shade 01 R18 section 1",
+      "Window shade 01 R18 section 2",
+      "Window shade 01 R18 section 3",
+      "Window shade 01 R18 section 4",
+      "Window shade 02 L18 frame",
+      "Window shade 02 L18",
+      "Window shade 02 L18 section 1",
+      "Window shade 02 L18 section 2",
+      "Window shade 02 L18 section 3",
+      "Window shade 02 L18 section 4",
+      "Window shade 03 R18 frame",
+      "Window shade 03 R18",
+      "Window shade 03 R18 section 1",
+      "Window shade 03 R18 section 2",
+      "Window shade 03 R18 section 3",
+      "Window shade 03 R18 section 4",
+      "Window shade 04 L18 frame",
+      "Window shade 04 L18",
+      "Window shade 04 L18 section 1",
+      "Window shade 04 L18 section 2",
+      "Window shade 04 L18 section 3",
+      "Window shade 04 L18 section 4",
+      "Window shade 05 R18 frame",
+      "Window shade 05 R18",
+      "Window shade 05 R18 section 1",
+      "Window shade 05 R18 section 2",
+      "Window shade 05 R18 section 3",
+      "Window shade 05 R18 section 4",
+      "Window shade 06 L18 frame",
+      "Window shade 06 L18",
+      "Window shade 06 L18 section 1",
+      "Window shade 06 L18 section 2",
+      "Window shade 06 L18 section 3",
+      "Window shade 06 L18 section 4",
+      "Window shade 07 R18 frame",
+      "Window shade 07 R18",
+      "Window shade 07 R18 section 1",
+      "Window shade 07 R18 section 2",
+      "Window shade 07 R18 section 3",
+      "Window shade 07 R18 section 4",
+      "Window shade 08 L18 frame",
+      "Window shade 08 L18",
+      "Window shade 08 L18 section 1",
+      "Window shade 08 L18 section 2",
+      "Window shade 08 L18 section 3",
+      "Window shade 08 L18 section 4",
+      "Window shade 09 R18 frame",
+      "Window shade 09 R18",
+      "Window shade 09 R18 section 1",
+      "Window shade 09 R18 section 2",
+      "Window shade 09 R18 section 3",
+      "Window shade 09 R18 section 4",
+      "Window shade 10 L18 frame",
+      "Window shade 10 L18",
+      "Window shade 10 L18 section 1",
+      "Window shade 10 L18 section 2",
+      "Window shade 10 L18 section 3",
+      "Window shade 10 L18 section 4",
+      "Window shade 11 R18 frame",
+      "Window shade 11 R18",
+      "Window shade 11 R18 section 1",
+      "Window shade 11 R18 section 2",
+      "Window shade 11 R18 section 3",
+      "Window shade 11 R18 section 4",
+      "Window shade 12 L18 frame",
+      "Window shade 12 L18",
+      "Window shade 12 L18 section 1",
+      "Window shade 12 L18 section 2",
+      "Window shade 12 L18 section 3",
+      "Window shade 12 L18 section 4",
+      "Window shade 13 R18 frame",
+      "Window shade 13 R18",
+      "Window shade 13 R18 section 1",
+      "Window shade 13 R18 section 2",
+      "Window shade 13 R18 section 3",
+      "Window shade 13 R18 section 4",
+      "Window shade 14 L18 frame",
+      "Window shade 14 L18",
+      "Window shade 14 L18 section 1",
+      "Window shade 14 L18 section 2",
+      "Window shade 14 L18 section 3",
+      "Window shade 14 L18 section 4",
+      "Window shade 15 R18 frame",
+      "Window shade 15 R18",
+      "Window shade 15 R18 section 1",
+      "Window shade 15 R18 section 2",
+      "Window shade 15 R18 section 3",
+      "Window shade 15 R18 section 4",
+      "Window shade 16 L18 frame",
+      "Window shade 16 L18",
+      "Window shade 16 L18 section 1",
+      "Window shade 16 L18 section 2",
+      "Window shade 16 L18 section 3",
+      "Window shade 16 L18 section 4",
+      "Window shade 17 R18 frame",
+      "Window shade 17 R18",
+      "Window shade 17 R18 section 1",
+      "Window shade 17 R18 section 2",
+      "Window shade 17 R18 section 3",
+      "Window shade 17 R18 section 4",
+      "Window shade 18 L18 frame",
+      "Window shade 18 L18",
+      "Window shade 18 L18 section 1",
+      "Window shade 18 L18 section 2",
+      "Window shade 18 L18 section 3",
+      "Window shade 18 L18 section 4",
+      "Window shade 19 R18 frame",
+      "Window shade 19 R18",
+      "Window shade 19 R18 section 1",
+      "Window shade 19 R18 section 2",
+      "Window shade 19 R18 section 3",
+      "Window shade 19 R18 section 4",
+      "Window shade 20 L18 frame",
+      "Window shade 20 L18",
+      "Window shade 20 L18 section 1",
+      "Window shade 20 L18 section 2",
+      "Window shade 20 L18 section 3",
+      "Window shade 20 L18 section 4",
+      "Window shade 21 R18 frame",
+      "Window shade 21 R18",
+      "Window shade 21 R18 section 1",
+      "Window shade 21 R18 section 2",
+      "Window shade 21 R18 section 3",
+      "Window shade 21 R18 section 4",
+      "Window shade 22 L18 frame",
+      "Window shade 22 L18",
+      "Window shade 22 L18 section 1",
+      "Window shade 22 L18 section 2",
+      "Window shade 22 L18 section 3",
+      "Window shade 22 L18 section 4",
+      "Window shade 23 R18 frame",
+      "Window shade 23 R18",
+      "Window shade 23 R18 section 1",
+      "Window shade 23 R18 section 2",
+      "Window shade 23 R18 section 3",
+      "Window shade 23 R18 section 4",
+      "Window shade 24 L18 frame",
+      "Window shade 24 L18",
+      "Window shade 24 L18 section 1",
+      "Window shade 24 L18 section 2",
+      "Window shade 24 L18 section 3",
+      "Window shade 24 L18 section 4",
+      "Window shade 25 R18 frame",
+      "Window shade 25 R18",
+      "Window shade 25 R18 section 1",
+      "Window shade 25 R18 section 2",
+      "Window shade 25 R18 section 3",
+      "Window shade 25 R18 section 4",
+      "Window shade 26 L18 frame",
+      "Window shade 26 L18",
+      "Window shade 26 L18 section 1",
+      "Window shade 26 L18 section 2",
+      "Window shade 26 L18 section 3",
+      "Window shade 26 L18 section 4",
+      "Window shade 27 R18 frame",
+      "Window shade 27 R18",
+      "Window shade 27 R18 section 1",
+      "Window shade 27 R18 section 2",
+      "Window shade 27 R18 section 3",
+      "Window shade 27 R18 section 4",
+      "Window shade 28 L18 frame",
+      "Window shade 28 L18",
+      "Window shade 28 L18 section 1",
+      "Window shade 28 L18 section 2",
+      "Window shade 28 L18 section 3",
+      "Window shade 28 L18 section 4",
+      "Window shade 29 R18 frame",
+      "Window shade 29 R18",
+      "Window shade 29 R18 section 1",
+      "Window shade 29 R18 section 2",
+      "Window shade 29 R18 section 3",
+      "Window shade 29 R18 section 4",
+      "Window shade 30 L18 frame",
+      "Window shade 30 L18",
+      "Window shade 30 L18 section 1",
+      "Window shade 30 L18 section 2",
+      "Window shade 30 L18 section 3",
+      "Window shade 30 L18 section 4",
+      "Window shade 31 R18 frame",
+      "Window shade 31 R18",
+      "Window shade 31 R18 section 1",
+      "Window shade 31 R18 section 2",
+      "Window shade 31 R18 section 3",
+      "Window shade 31 R18 section 4",
+      "Window shade 32 L18 frame",
+      "Window shade 32 L18",
+      "Window shade 32 L18 section 1",
+      "Window shade 32 L18 section 2",
+      "Window shade 32 L18 section 3",
+      "Window shade 32 L18 section 4",
+      "Window shade 33 R18 frame",
+      "Window shade 33 R18",
+      "Window shade 33 R18 section 1",
+      "Window shade 33 R18 section 2",
+      "Window shade 33 R18 section 3",
+      "Window shade 33 R18 section 4",
+      "Window shade 34 L18 frame",
+      "Window shade 34 L18",
+      "Window shade 34 L18 section 1",
+      "Window shade 34 L18 section 2",
+      "Window shade 34 L18 section 3",
+      "Window shade 34 L18 section 4",
+      "Window shade 35 R18 frame",
+      "Window shade 35 R18",
+      "Window shade 35 R18 section 1",
+      "Window shade 35 R18 section 2",
+      "Window shade 35 R18 section 3",
+      "Window shade 35 R18 section 4",
+      "Window shade 36 L18 frame",
+      "Window shade 36 L18",
+      "Window shade 36 L18 section 1",
+      "Window shade 36 L18 section 2",
+      "Window shade 36 L18 section 3",
+      "Window shade 36 L18 section 4",
+      "Window shade 37 R18 frame",
+      "Window shade 37 R18",
+      "Window shade 37 R18 section 1",
+      "Window shade 37 R18 section 2",
+      "Window shade 37 R18 section 3",
+      "Window shade 37 R18 section 4",
+      "Window shade 38 L18 frame",
+      "Window shade 38 L18",
+      "Window shade 38 L18 section 1",
+      "Window shade 38 L18 section 2",
+      "Window shade 38 L18 section 3",
+      "Window shade 38 L18 section 4",
+      "Window shade 39 R18 frame",
+      "Window shade 39 R18",
+      "Window shade 39 R18 section 1",
+      "Window shade 39 R18 section 2",
+      "Window shade 39 R18 section 3",
+      "Window shade 39 R18 section 4",
+      "Window shade 40 L18 frame",
+      "Window shade 40 L18",
+      "Window shade 40 L18 section 1",
+      "Window shade 40 L18 section 2",
+      "Window shade 40 L18 section 3",
+      "Window shade 40 L18 section 4",
+      "Window shade 41 R18 frame",
+      "Window shade 41 R18",
+      "Window shade 41 R18 section 1",
+      "Window shade 41 R18 section 2",
+      "Window shade 41 R18 section 3",
+      "Window shade 41 R18 section 4",
+      "Window shade 42 L18 frame",
+      "Window shade 42 L18",
+      "Window shade 42 L18 section 1",
+      "Window shade 42 L18 section 2",
+      "Window shade 42 L18 section 3",
+      "Window shade 42 L18 section 4",
+      "Window shade 43 R18 frame",
+      "Window shade 43 R18",
+      "Window shade 43 R18 section 1",
+      "Window shade 43 R18 section 2",
+      "Window shade 43 R18 section 3",
+      "Window shade 43 R18 section 4",
+      "Window shade 44 L18 frame",
+      "Window shade 44 L18",
+      "Window shade 44 L18 section 1",
+      "Window shade 44 L18 section 2",
+      "Window shade 44 L18 section 3",
+      "Window shade 44 L18 section 4",
+      "Window shade 45 R18 frame",
+      "Window shade 45 R18",
+      "Window shade 45 R18 section 1",
+      "Window shade 45 R18 section 2",
+      "Window shade 45 R18 section 3",
+      "Window shade 45 R18 section 4",
+      "Window shade 46 L18 frame",
+      "Window shade 46 L18",
+      "Window shade 46 L18 section 1",
+      "Window shade 46 L18 section 2",
+      "Window shade 46 L18 section 3",
+      "Window shade 46 L18 section 4",
+      "Window shade 47 R18 frame",
+      "Window shade 47 R18",
+      "Window shade 47 R18 section 1",
+      "Window shade 47 R18 section 2",
+      "Window shade 47 R18 section 3",
+      "Window shade 47 R18 section 4",
+      "Window shade 48 L18 frame",
+      "Window shade 48 L18",
+      "Window shade 48 L18 section 1",
+      "Window shade 48 L18 section 2",
+      "Window shade 48 L18 section 3",
+      "Window shade 48 L18 section 4"
+    ],
+    "new_trays": 36
+  },
+  "finished": 1792997179.5874157
+}

@@ -1,0 +1,76 @@
+{
+ "status": "SUCCESS",
+ "meshes": [
+  "SM_AP_P71Extinguisher",
+  "SM_AP_P71ExtCabinet"
+ ],
+ "stations": [
+  {
+   "station": "Safety station 0",
+   "wall": [
+    -43.28,
+    -17.91
+   ],
+   "normal": [
+    0.0,
+    1.0
+   ],
+   "yaw": -180.0,
+   "moved": 0.76
+  },
+  {
+   "station": "Safety station 1",
+   "wall": [
+    -26.09,
+    -5.0
+   ],
+   "normal": [
+    -1.0,
+    -0.0
+   ],
+   "yaw": 90.0,
+   "moved": 0.19
+  },
+  {
+   "station": "Safety station 2",
+   "wall": [
+    -37.1,
+    9.91
+   ],
+   "normal": [
+    0.0,
+    -1.0
+   ],
+   "yaw": 0.0,
+   "moved": 0.19
+  },
+  {
+   "station": "Safety station 3",
+   "wall": [
+    -29.45,
+    33.91
+   ],
+   "normal": [
+    0.0,
+    -1.0
+   ],
+   "yaw": 0.0,
+   "moved": 0.19
+  },
+  {
+   "station": "Safety station 4",
+   "wall": [
+    -32.09,
+    32.087
+   ],
+   "normal": [
+    -1.0,
+    -0.0
+   ],
+   "yaw": 90.0,
+   "moved": 0.19
+  }
+ ],
+ "skipped": [],
+ "notes": []
+}

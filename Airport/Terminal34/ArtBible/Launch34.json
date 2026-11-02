@@ -1,0 +1,16 @@
+{
+  "process_id": 40552,
+  "player": [
+    -50.9,
+    -12.5,
+    1.62
+  ],
+  "visible_game": true,
+  "map": "/Game/Airport34/L_Airport_Terminal34",
+  "created_utc": "2026-10-28T20:37:25.0829192Z",
+  "viewport": [
+    1920,
+    1080
+  ],
+  "status": "READY"
+}

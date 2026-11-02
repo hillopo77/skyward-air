@@ -1,0 +1,5421 @@
+{
+  "schema_version": 1,
+  "status": "FINAL",
+  "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+  "character_source_sha256": "eac73c0812391bc2f994d24cc9234c529be9a2d74175d41c1d58516c44703dff",
+  "captures": [
+    {
+      "name": "01_Entrance",
+      "file": "Screenshots/01_Entrance.png",
+      "sha256": "71a178c509d27a0f411948e2b52a6d962983b142dc9e2710f095ddd1987bcb0e",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "AT09",
+        "L09",
+        "S2E07",
+        "UG43-01",
+        "UG43-02"
+      ],
+      "caption": "Entrance"
+    },
+    {
+      "name": "02_Checkin",
+      "file": "Screenshots/02_Checkin.png",
+      "sha256": "b4a3f5b83100c411b4918adda0f65ecd983f361763bf1da8ed625e6efe2092f9",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "AT03",
+        "EQ07",
+        "J08",
+        "J39-01",
+        "UG43-01",
+        "UG43-02",
+        "UG43-03"
+      ],
+      "caption": "Checkin"
+    },
+    {
+      "name": "03_BagDrop01",
+      "file": "Screenshots/03_BagDrop01.png",
+      "sha256": "31da7f4a0db55b2fe612ee0b66a43880f5d284081197f929c8f33bb726f12dfb",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "EQ01",
+        "J04",
+        "UG43-03"
+      ],
+      "caption": "Bag Drop01"
+    },
+    {
+      "name": "04_BagDrop02",
+      "file": "Screenshots/04_BagDrop02.png",
+      "sha256": "40719d549cf44a654595ff63b394248501e89244b247aa580b115f8cb0b145c4",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "EQ01",
+        "J04",
+        "UG43-03"
+      ],
+      "caption": "Bag Drop02"
+    },
+    {
+      "name": "05_SecurityEntry",
+      "file": "Screenshots/05_SecurityEntry.png",
+      "sha256": "c4bde3bed28d380152c39bb6c5aecd33c6e82229d30b4da88ee591f09e20bccc",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "EQ12",
+        "J01",
+        "L03"
+      ],
+      "caption": "Security Entry"
+    },
+    {
+      "name": "06_WestEntryGap",
+      "file": "Screenshots/06_WestEntryGap.png",
+      "sha256": "b5f2b744e05ac13de0aa327f4192f36b220948dc3dd1cb81feed0531284b6f89",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "L03"
+      ],
+      "caption": "West Entry Gap"
+    },
+    {
+      "name": "07_Curtain",
+      "file": "Screenshots/07_Curtain.png",
+      "sha256": "07b73719054d6b12d582d0a37f654b7e5d6f2cf5003a72bccf12cf3b492961c6",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "EQ08",
+        "R03"
+      ],
+      "caption": "Curtain"
+    },
+    {
+      "name": "08_ScannerControl",
+      "file": "Screenshots/08_ScannerControl.png",
+      "sha256": "a192fa462246320dcec0b70a56b454039fd1be8e3f0a5922a6032d68e670e2db",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "EQ02",
+        "EQ03"
+      ],
+      "caption": "Scanner Control"
+    },
+    {
+      "name": "09_ScannerMonitor",
+      "file": "Screenshots/09_ScannerMonitor.png",
+      "sha256": "2504894060e80e9768ca48aaed73ee4e9f1abaf79ae5c32e82013c1ce407e2e9",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "EQ03",
+        "EQ04",
+        "S2E01",
+        "S2E10"
+      ],
+      "caption": "Scanner Monitor"
+    },
+    {
+      "name": "10_StaffDoor",
+      "file": "Screenshots/10_StaffDoor.png",
+      "sha256": "76bb658cabb9aa340adf0e3a1b6d28b88b57c9d492c64ac62813a8cc89ea09d4",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "EQ09",
+        "L04"
+      ],
+      "caption": "Staff Door"
+    },
+    {
+      "name": "11_StaffStorage",
+      "file": "Screenshots/11_StaffStorage.png",
+      "sha256": "a1c38dccc976f78065e653ab112945f88db750a9addb433204817e8bdb8665d2",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "EQ09",
+        "EQ10"
+      ],
+      "caption": "Staff Storage"
+    },
+    {
+      "name": "12_Repacking",
+      "file": "Screenshots/12_Repacking.png",
+      "sha256": "664f228793acce89b285dae3df4fde5981876ad0f64affc943eeccbc974b5534",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "EQ06",
+        "S2E07"
+      ],
+      "caption": "Repacking"
+    },
+    {
+      "name": "13_Concourse",
+      "file": "Screenshots/13_Concourse.png",
+      "sha256": "73c8c2b3bf0efbdb54c36df19300e15ddf0d82d97a6f690e37a40a6d51effc26",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "F39-02",
+        "F39-04",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "UG43-01",
+        "UG43-02"
+      ],
+      "caption": "Concourse"
+    },
+    {
+      "name": "14_A08Marker",
+      "file": "Screenshots/14_A08Marker.png",
+      "sha256": "3e95eddf42968033800c60432e372b790a41ccc2ce575f4f6b5cac94a79b97ff",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "AT02",
+        "L06"
+      ],
+      "caption": "A08Marker"
+    },
+    {
+      "name": "15_A08Arrival",
+      "file": "Screenshots/15_A08Arrival.png",
+      "sha256": "ed419708bec7349ee9ffbb350e936c983e407101b696defd113fe6b0bac7a9ef",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "F39-02",
+        "L06",
+        "L07"
+      ],
+      "caption": "A08Arrival"
+    },
+    {
+      "name": "16_A08Ceiling",
+      "file": "Screenshots/16_A08Ceiling.png",
+      "sha256": "21256443d7632567d84fc8041ce55839045a0c31782df29565c90ef1f98b97bd",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "AT11",
+        "AT12",
+        "F39-01",
+        "L01",
+        "R01",
+        "R05"
+      ],
+      "caption": "A08Ceiling"
+    },
+    {
+      "name": "17_A08Interior",
+      "file": "Screenshots/17_A08Interior.png",
+      "sha256": "4ca7173913602fee410af3f3b865dba7f14998daf762c8b6f8c307d59bf392d0",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "AT04",
+        "AT14",
+        "CH39-05",
+        "S2E08",
+        "UG43-01",
+        "UG43-02",
+        "UG43-04",
+        "UG43-12"
+      ],
+      "caption": "A08Interior"
+    },
+    {
+      "name": "18_WCSign",
+      "file": "Screenshots/18_WCSign.png",
+      "sha256": "9c87568c6461dbc96ba74f242a1182530e1fb5e75c4dabbdf2acbe57f350ea92",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "L05"
+      ],
+      "caption": "WCSign"
+    },
+    {
+      "name": "19_WCLobby",
+      "file": "Screenshots/19_WCLobby.png",
+      "sha256": "fea0cf62aaeabd9c102611eebac67d4c479c455a9c11c4d8886eb3225ccdc5ba",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "AT14",
+        "L05"
+      ],
+      "caption": "WCLobby"
+    },
+    {
+      "name": "20_WCEastGap",
+      "file": "Screenshots/20_WCEastGap.png",
+      "sha256": "c369e3ee0c0d2fbfbc82d8de3ea9dd9d419b45f65dbc0fd3dff2a1f919b55614",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "L02"
+      ],
+      "caption": "WCEast Gap"
+    },
+    {
+      "name": "21_WCInterior",
+      "file": "Screenshots/21_WCInterior.png",
+      "sha256": "94b781108aa707299bb9b4088739c391b93ce22e7c182212ab81fda8847ce3f4",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "AT14",
+        "S2E02",
+        "S2E03"
+      ],
+      "caption": "WCInterior"
+    },
+    {
+      "name": "22_Arrivals",
+      "file": "Screenshots/22_Arrivals.png",
+      "sha256": "6a2f994d93d9cb7e5af3f67f27e84c0f1379ae15a8032b5b8db43ae21b97bd2c",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "EQ01",
+        "S2E07"
+      ],
+      "caption": "Arrivals"
+    },
+    {
+      "name": "23_Cafe",
+      "file": "Screenshots/23_Cafe.png",
+      "sha256": "d43df020662a2091d2003ecf835c23597468174b87e2bad9f1b996c1ea782c55",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "AT06",
+        "AT07",
+        "EQ13",
+        "L09",
+        "S2E04",
+        "S2E06",
+        "UG43-01",
+        "UG43-02"
+      ],
+      "caption": "Cafe"
+    },
+    {
+      "name": "24_CafeService",
+      "file": "Screenshots/24_CafeService.png",
+      "sha256": "b2c65b8d4470a5dd1704e2f4c55fd107a08f19f4e6d8afe8f818f7c5e402c226",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "AT06",
+        "AT07",
+        "EQ13",
+        "S2E04",
+        "UG43-01",
+        "UG43-03"
+      ],
+      "caption": "Cafe Service"
+    },
+    {
+      "name": "25_Gallery",
+      "file": "Screenshots/25_Gallery.png",
+      "sha256": "f2a04366e67f7febd14d6dbb8566fa2b54913b4a542bdbfb00456cc4164caa60",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "AT08",
+        "AT13",
+        "CH39-05",
+        "F39-03",
+        "F39-05",
+        "S2E07"
+      ],
+      "caption": "Gallery"
+    },
+    {
+      "name": "26_A07Desks",
+      "file": "Screenshots/26_A07Desks.png",
+      "sha256": "00a978595854a98d3555a9f9dd7c10f4141b7cb5464a6fad57a474b6a093729e",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "A3-04",
+        "AT04",
+        "EQ05"
+      ],
+      "caption": "A07Desks"
+    },
+    {
+      "name": "27_DeskClearance",
+      "file": "Screenshots/27_DeskClearance.png",
+      "sha256": "bcadba5060b9b60d5bd83f31095729e04be356d0840642c24edc94ad203ea94a",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "A3-04",
+        "EQ05",
+        "EQ07"
+      ],
+      "caption": "Desk Clearance"
+    },
+    {
+      "name": "28_BridgeInside",
+      "file": "Screenshots/28_BridgeInside.png",
+      "sha256": "e0892d5bacdf11a540ab019f87c91d3aac8bf481ac3c044c8dc9e1e2e93f4224",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "A3-01",
+        "A3-06",
+        "AC39-02",
+        "AC39-03",
+        "AC39-05"
+      ],
+      "caption": "Bridge Inside"
+    },
+    {
+      "name": "29_DockingJoin",
+      "file": "Screenshots/29_DockingJoin.png",
+      "sha256": "df5d4fa2b959bdfa979b808a12065e50e36484f0f7730bba74f893e6916a6da1",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "A3-01",
+        "AC39-04"
+      ],
+      "caption": "Docking Join"
+    },
+    {
+      "name": "30_BridgeWing",
+      "file": "Screenshots/30_BridgeWing.png",
+      "sha256": "c5b755943900298406e9b6bbbd080436178b72fb908824f940655df0a75fd212",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "A3-03",
+        "AC39-01",
+        "AC39-08",
+        "AT15",
+        "UG43-13",
+        "UG43-14"
+      ],
+      "caption": "Bridge Wing"
+    },
+    {
+      "name": "32_Exterior",
+      "file": "Screenshots/32_Exterior.png",
+      "sha256": "b98d88d70188b383be60c437e7f6be080f3ddb5152bcf23d21264f7332cf99f8",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "AC39-01",
+        "AC39-06",
+        "AC39-07",
+        "AT15",
+        "E39-02",
+        "E39-03",
+        "UG43-13",
+        "UG43-14"
+      ],
+      "caption": "Exterior"
+    },
+    {
+      "name": "36_BaggageBay",
+      "file": "Screenshots/36_BaggageBay.png",
+      "sha256": "58a82388a89cf715b81d7ea83b86746f69d01f274a8affb65370e7cc1c2a1175",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "EQ01",
+        "J04"
+      ],
+      "caption": "Baggage Bay"
+    },
+    {
+      "name": "37_BaggageReceiver",
+      "file": "Screenshots/37_BaggageReceiver.png",
+      "sha256": "44ac2e6dd241c5a28635a02cfe88d933c84d6ddaec7561e5807e48bfe99d761f",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "EQ01",
+        "J04"
+      ],
+      "caption": "Baggage Receiver"
+    },
+    {
+      "name": "38_Forecourt",
+      "file": "Screenshots/38_Forecourt.png",
+      "sha256": "4d1fc920f38472c0ff95c732d5c802fd21a9802ffd50e26de02411816212831c",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "A3-05",
+        "L09",
+        "S2E07",
+        "UG43-01"
+      ],
+      "caption": "Forecourt"
+    },
+    {
+      "name": "39_Cockpit",
+      "file": "Screenshots/39_Cockpit.png",
+      "sha256": "8f2bf1e30578fc8caf52d8690f5ed80d334a00b0afbcffd50b5326d405ebe9e7",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "E39-02",
+        "FL39-02",
+        "FL39-04",
+        "UG43-09"
+      ],
+      "caption": "Cockpit"
+    },
+    {
+      "name": "40_Cabin",
+      "file": "Screenshots/40_Cabin.png",
+      "sha256": "32c1e42d2f00806da7836be5072853273ca67d82a59f32dc55d0bd7b7c228c83",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "CH39-05",
+        "E39-03",
+        "E39-04"
+      ],
+      "caption": "Cabin"
+    },
+    {
+      "name": "44_PreparationRearMounted",
+      "file": "Screenshots/44_PreparationRearMounted.png",
+      "sha256": "c4351fca5cdfcefe3633065235abf35ab536f9e8de1c345fcd423b399702cee7",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "AT01",
+        "EQ12"
+      ],
+      "caption": "Preparation Rear Mounted"
+    },
+    {
+      "name": "48_GlassClose",
+      "file": "Screenshots/48_GlassClose.png",
+      "sha256": "ad3601097f8f8a1fbcb785e16027221b067d114bd7e9365c34f5c3c00689fc0d",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "AT12",
+        "E39-02",
+        "UG43-13",
+        "UG43-14"
+      ],
+      "caption": "Glass Close"
+    },
+    {
+      "name": "49_GearContact",
+      "file": "Screenshots/49_GearContact.png",
+      "sha256": "bd452768832922330a23321cd13d93e3485dc0177ca65b8a7383fa0ebb39919f",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "AC39-06",
+        "UG43-14"
+      ],
+      "caption": "Gear Contact"
+    },
+    {
+      "name": "50_VanityRebuilt",
+      "file": "Screenshots/50_VanityRebuilt.png",
+      "sha256": "546826c973d70c63b94a2c1275464e489d94314fb7b04cd905fb7b8fe7f9f9be",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "AT14",
+        "S2E02",
+        "S2E03"
+      ],
+      "caption": "Vanity Rebuilt"
+    },
+    {
+      "name": "51_TravelShelves",
+      "file": "Screenshots/51_TravelShelves.png",
+      "sha256": "0dd32b95c65a96ae6e7eeda42bd57d42b963e804d6c9d39da83e5905d851416d",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "EQ09",
+        "EQ10",
+        "S2E05"
+      ],
+      "caption": "Travel Shelves"
+    },
+    {
+      "name": "52_NoseContour",
+      "file": "Screenshots/52_NoseContour.png",
+      "sha256": "8d871d7e0f6d7cf48c65943c76ddf5e836967fa850a931e7d57a9a44106a13ca",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "E39-02",
+        "FL39-01",
+        "UG43-13",
+        "UG43-14"
+      ],
+      "caption": "Nose Contour"
+    },
+    {
+      "name": "55_SeatedCharacter",
+      "file": "Screenshots/55_SeatedCharacter.png",
+      "sha256": "c34c2a443bd93eb4134425d7796225486f57ccf5ab628345781ffa8f6caa9cbd",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "CH39-04",
+        "CH39-05",
+        "CH39-06",
+        "CH39-09",
+        "UG43-04",
+        "UG43-10",
+        "UG43-11",
+        "UG43-12"
+      ],
+      "caption": "Seated Character"
+    },
+    {
+      "name": "56_CafeCharacter",
+      "file": "Screenshots/56_CafeCharacter.png",
+      "sha256": "12369628d85d54b65e8f3989b3d0d55a329fd705bda3694516de231b1027f6bd",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "CH39-04",
+        "CH39-05",
+        "CH39-06",
+        "CH39-09",
+        "UG43-04",
+        "UG43-10"
+      ],
+      "caption": "Cafe Character"
+    },
+    {
+      "name": "57_GateCrew",
+      "file": "Screenshots/57_GateCrew.png",
+      "sha256": "fbfa2f5ed675d8aca2d026aa438fe0df3fedb8d0e3d66fab109f1c3c7eeee496",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "CH39-03",
+        "CH39-09"
+      ],
+      "caption": "Gate Crew"
+    },
+    {
+      "name": "58_CabinCharacter",
+      "file": "Screenshots/58_CabinCharacter.png",
+      "sha256": "6a9e00e53efe95e8dca177528fb9a1ca28e939b1ca3a302821d8eac6420691f5",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "CH39-04",
+        "CH39-05",
+        "CH39-09",
+        "UG43-05",
+        "UG43-07",
+        "UG43-10",
+        "UG43-13"
+      ],
+      "caption": "Cabin Character"
+    },
+    {
+      "name": "59_BusinessCharacter",
+      "file": "Screenshots/59_BusinessCharacter.png",
+      "sha256": "59bb6c5c055f0deed186dce7be7c575908a328c68cde0580ed403adfb2c4881c",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "CH39-04",
+        "CH39-05",
+        "CH39-09",
+        "UG43-05",
+        "UG43-06",
+        "UG43-10",
+        "UG43-13"
+      ],
+      "caption": "Business Character"
+    },
+    {
+      "name": "62_Service12_Mid",
+      "file": "Screenshots/62_Service12_Mid.png",
+      "sha256": "6b7d5a8e0a53d2e9a1298ba35f3e427bb026af5c4d8b80b51f43cfa2b9c14ee8",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [],
+      "caption": "Service12 Mid"
+    },
+    {
+      "name": "63_Service12_Ovens",
+      "file": "Screenshots/63_Service12_Ovens.png",
+      "sha256": "77dbe04f407e65c421581497eeb25c36f2f5633eda786d70e4a70dbc596ab11b",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [],
+      "caption": "Service12 Ovens"
+    },
+    {
+      "name": "64_Service12_Rear",
+      "file": "Screenshots/64_Service12_Rear.png",
+      "sha256": "e904070429cc71597dd01803bedf4e231707873f55cebbabcc33e0b9a45d95a9",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [],
+      "caption": "Service12 Rear"
+    },
+    {
+      "name": "65_Service12_Phone",
+      "file": "Screenshots/65_Service12_Phone.png",
+      "sha256": "731f5bef559cc816ef55ac71c62aff1604e9f98b3306c4eeb597da0875f5adb4",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [],
+      "caption": "Service12 Phone"
+    },
+    {
+      "name": "66_LavatoryEquipment12",
+      "file": "Screenshots/66_LavatoryEquipment12.png",
+      "sha256": "7f7eb312b47485cf9f4f02da1e8fa36e7d3fb984e9f50f382cabc78001e08132",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [],
+      "caption": "Lavatory Equipment12"
+    },
+    {
+      "name": "67_SuiteDoorDetail11",
+      "file": "Screenshots/67_SuiteDoorDetail11.png",
+      "sha256": "1f91ac2f33ae42b41d1d198cdce7911c45393979abc18c996d317bc82f6831c2",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [],
+      "caption": "Suite Door Detail11"
+    },
+    {
+      "name": "68_CrewServices11",
+      "file": "Screenshots/68_CrewServices11.png",
+      "sha256": "fa281c1f989f612437c58af5ec7dabc2f3c1c90ad6866ea402b83c174f97b513",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [],
+      "caption": "Crew Services11"
+    },
+    {
+      "name": "69_CargoStairs10",
+      "file": "Screenshots/69_CargoStairs10.png",
+      "sha256": "bbdd8cb68150029164b9adfc814ea337f4dad5cb3f69c81358e58332eb305c1d",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [],
+      "caption": "Cargo Stairs10"
+    },
+    {
+      "name": "70_CargoOverview15",
+      "file": "Screenshots/70_CargoOverview15.png",
+      "sha256": "fff4ef015571b8651f989c581ec13744d0a88d54665fdd9c9124c8b92fe2f1f3",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "UG43-08"
+      ],
+      "caption": "Cargo Overview15"
+    },
+    {
+      "name": "71_CargoMixed15",
+      "file": "Screenshots/71_CargoMixed15.png",
+      "sha256": "43da9556bb97eea2cf5ab93539118bcefd38af35288d387e4473b04792b55fb4",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "UG43-08"
+      ],
+      "caption": "Cargo Mixed15"
+    },
+    {
+      "name": "72_ExteriorHero15",
+      "file": "Screenshots/72_ExteriorHero15.png",
+      "sha256": "31c982207c88f5c237704120c2bd67b51ea4aa6ac5d063eb601b579a6a0d9acb",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "UG43-13",
+        "UG43-14"
+      ],
+      "caption": "Exterior Hero15"
+    },
+    {
+      "name": "73_EngineDetail15",
+      "file": "Screenshots/73_EngineDetail15.png",
+      "sha256": "b1b8cf15bd416437345eb3ca7f8cabea63f9aedcb6b683168e2c4c76be0c2603",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "UG43-13",
+        "UG43-14"
+      ],
+      "caption": "Engine Detail15"
+    },
+    {
+      "name": "74_TailDetail15",
+      "file": "Screenshots/74_TailDetail15.png",
+      "sha256": "bcf4e9ea148ad5589f738609acb8e778fc9daef7c9d191f608cee10b000c9cdc",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "UG43-13",
+        "UG43-14"
+      ],
+      "caption": "Tail Detail15"
+    },
+    {
+      "name": "53_SecurityGuard",
+      "file": "Screenshots/53_SecurityGuard.png",
+      "sha256": "1ff1abf61808553fa4cff4c20c24de87ae25863c8d9eb685830036d3c39146a5",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/DetailPhotos39.json",
+      "report_sha256": "0f09c3d9a7d11aec56afd9d3f5ef0a99cf33e836810a95acafaa5a471a681d65",
+      "report_mtime_ns": 1793390722377569000,
+      "findings": [
+        "CH39-01",
+        "CH39-02",
+        "CH39-03",
+        "CH39-07",
+        "CH39-09",
+        "CH39-10",
+        "UG43-10"
+      ],
+      "caption": "Security Guard"
+    },
+    {
+      "name": "54_PlayerCharacter",
+      "file": "Screenshots/54_PlayerCharacter.png",
+      "sha256": "f98033b54ea2339118a891da2afd11b0b4d5c5f4f7e6ae6dbab59eb2543c6f74",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/DetailPhotos39.json",
+      "report_sha256": "0f09c3d9a7d11aec56afd9d3f5ef0a99cf33e836810a95acafaa5a471a681d65",
+      "report_mtime_ns": 1793390722377569000,
+      "findings": [
+        "CH39-01",
+        "CH39-02",
+        "CH39-03",
+        "CH39-09",
+        "CH39-10",
+        "UG43-10"
+      ],
+      "caption": "Player Character"
+    },
+    {
+      "name": "60_WindowClosed",
+      "file": "Screenshots/60_WindowClosed.png",
+      "sha256": "afedbb4fbaec6f830d2bfb17c4e0cc1e41641c700f238625b81c13bb6fd535f5",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/DetailPhotos39.json",
+      "report_sha256": "0f09c3d9a7d11aec56afd9d3f5ef0a99cf33e836810a95acafaa5a471a681d65",
+      "report_mtime_ns": 1793390722377569000,
+      "findings": [
+        "E39-03",
+        "E39-04",
+        "UG43-05",
+        "UG43-07",
+        "UG43-13"
+      ],
+      "caption": "Window Closed"
+    },
+    {
+      "name": "61_WindowOpen",
+      "file": "Screenshots/61_WindowOpen.png",
+      "sha256": "b45ab5c7efd9f80fa88d88281e2052ba741c27acb34e7cbc3511d38926ac7e82",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/DetailPhotos39.json",
+      "report_sha256": "0f09c3d9a7d11aec56afd9d3f5ef0a99cf33e836810a95acafaa5a471a681d65",
+      "report_mtime_ns": 1793390722377569000,
+      "findings": [
+        "E39-03",
+        "E39-04",
+        "UG43-05",
+        "UG43-07",
+        "UG43-13"
+      ],
+      "caption": "Window Open"
+    },
+    {
+      "name": "78_ExteriorWindowClosed",
+      "file": "Screenshots/78_ExteriorWindowClosed.png",
+      "sha256": "2f07aa7256c84dac2df93587f6d1afb2e16b2bdc13ae5d0421defdc999624df5",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/DetailPhotos39.json",
+      "report_sha256": "0f09c3d9a7d11aec56afd9d3f5ef0a99cf33e836810a95acafaa5a471a681d65",
+      "report_mtime_ns": 1793390722377569000,
+      "findings": [
+        "E39-03",
+        "E39-04",
+        "UG43-13",
+        "UG43-14"
+      ],
+      "caption": "Exterior Window Closed"
+    },
+    {
+      "name": "79_ExteriorWindowOpen",
+      "file": "Screenshots/79_ExteriorWindowOpen.png",
+      "sha256": "28230e9ecc26e2eb9a6ac5539dec8ad6513ca7927594b59de12cbe0c87e358be",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/DetailPhotos39.json",
+      "report_sha256": "0f09c3d9a7d11aec56afd9d3f5ef0a99cf33e836810a95acafaa5a471a681d65",
+      "report_mtime_ns": 1793390722377569000,
+      "findings": [
+        "E39-03",
+        "E39-04",
+        "UG43-13",
+        "UG43-14"
+      ],
+      "caption": "Exterior Window Open"
+    },
+    {
+      "name": "84_WindowTopSeated",
+      "file": "Screenshots/84_WindowTopSeated.png",
+      "sha256": "0cb0fb304f1a6379ff1496c6c35e7b2969640721df6884e26342a8bfcfc6028f",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/DetailPhotos39.json",
+      "report_sha256": "0f09c3d9a7d11aec56afd9d3f5ef0a99cf33e836810a95acafaa5a471a681d65",
+      "report_mtime_ns": 1793390722377569000,
+      "findings": [
+        "UG43-05",
+        "UG43-07",
+        "UG43-13"
+      ],
+      "caption": "Window Top Seated"
+    },
+    {
+      "name": "85_WindowCornerClose",
+      "file": "Screenshots/85_WindowCornerClose.png",
+      "sha256": "93a4a243a1d8dc26d3a5fbda48bcd294fbfbef53c77b51ad895991a51c10c424",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/DetailPhotos39.json",
+      "report_sha256": "0f09c3d9a7d11aec56afd9d3f5ef0a99cf33e836810a95acafaa5a471a681d65",
+      "report_mtime_ns": 1793390722377569000,
+      "findings": [
+        "UG43-05",
+        "UG43-07",
+        "UG43-13"
+      ],
+      "caption": "Window Corner Close"
+    },
+    {
+      "name": "86_CassetteRackJoin",
+      "file": "Screenshots/86_CassetteRackJoin.png",
+      "sha256": "9385484c827f54f1b5b8bb92de7e3df08dcb837ee650dd065e6fd6034128ccb6",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/DetailPhotos39.json",
+      "report_sha256": "0f09c3d9a7d11aec56afd9d3f5ef0a99cf33e836810a95acafaa5a471a681d65",
+      "report_mtime_ns": 1793390722377569000,
+      "findings": [
+        "UG43-05",
+        "UG43-07",
+        "UG43-13"
+      ],
+      "caption": "Cassette Rack Join"
+    },
+    {
+      "name": "87_WindowExteriorCorners",
+      "file": "Screenshots/87_WindowExteriorCorners.png",
+      "sha256": "9debd096b95b41e0307f443e64d84d4a84851504e496d913030dfe802b83c1a1",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/DetailPhotos39.json",
+      "report_sha256": "0f09c3d9a7d11aec56afd9d3f5ef0a99cf33e836810a95acafaa5a471a681d65",
+      "report_mtime_ns": 1793390722377569000,
+      "findings": [
+        "UG43-13",
+        "UG43-14"
+      ],
+      "caption": "Window Exterior Corners"
+    },
+    {
+      "name": "88_WindowOpenAisle",
+      "file": "Screenshots/88_WindowOpenAisle.png",
+      "sha256": "b5b8de47cfdf00b4ae504fd01bfd3f07a505debb88fc470522823b06e7ddfd68",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/DetailPhotos39.json",
+      "report_sha256": "0f09c3d9a7d11aec56afd9d3f5ef0a99cf33e836810a95acafaa5a471a681d65",
+      "report_mtime_ns": 1793390722377569000,
+      "findings": [
+        "UG43-05",
+        "UG43-07",
+        "UG43-13"
+      ],
+      "caption": "Window Open Aisle"
+    },
+    {
+      "name": "Assemblies41_NPCFastened",
+      "file": "Screenshots/Assemblies41_NPCFastened.png",
+      "sha256": "874ac39031decb3e275b0b6996b238ee6a17a37df6cb66d76b765e4665949638",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Assemblies41QA.json",
+      "report_sha256": "b98d2a6c0241e118bb62d024b76fecc6a784650dfbc85a95186ce5728e829f33",
+      "report_mtime_ns": 1793390763979811900,
+      "findings": [],
+      "caption": "NPCFastened"
+    },
+    {
+      "name": "Assemblies41_EmptyStowed",
+      "file": "Screenshots/Assemblies41_EmptyStowed.png",
+      "sha256": "e048bc7e002992c8874da558e87a52f7d7c21679811c8cbb9be5a38475315865",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Assemblies41QA.json",
+      "report_sha256": "b98d2a6c0241e118bb62d024b76fecc6a784650dfbc85a95186ce5728e829f33",
+      "report_mtime_ns": 1793390763979811900,
+      "findings": [],
+      "caption": "Empty Stowed"
+    },
+    {
+      "name": "Assemblies41_PlayerFastened",
+      "file": "Screenshots/Assemblies41_PlayerFastened.png",
+      "sha256": "bba21b80653620a24587ee1b0087a7cf8e931c4e04a0f30dec5572dd70021715",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Assemblies41QA.json",
+      "report_sha256": "b98d2a6c0241e118bb62d024b76fecc6a784650dfbc85a95186ce5728e829f33",
+      "report_mtime_ns": 1793390763979811900,
+      "findings": [],
+      "caption": "Player Fastened"
+    },
+    {
+      "name": "Assemblies41_PlayerReleased",
+      "file": "Screenshots/Assemblies41_PlayerReleased.png",
+      "sha256": "064fc9c0ff82361419ca9b0ca6c24612586699b3ec0e5c91285c8136b01be576",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Assemblies41QA.json",
+      "report_sha256": "b98d2a6c0241e118bb62d024b76fecc6a784650dfbc85a95186ce5728e829f33",
+      "report_mtime_ns": 1793390763979811900,
+      "findings": [],
+      "caption": "Player Released"
+    },
+    {
+      "name": "Assemblies41_WindowClosed",
+      "file": "Screenshots/Assemblies41_WindowClosed.png",
+      "sha256": "170ec8543205eb860b1211b19447aacc83d5fd6d086165959ee3fc56807f34ce",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Assemblies41QA.json",
+      "report_sha256": "b98d2a6c0241e118bb62d024b76fecc6a784650dfbc85a95186ce5728e829f33",
+      "report_mtime_ns": 1793390763979811900,
+      "findings": [],
+      "caption": "Window Closed"
+    },
+    {
+      "name": "Assemblies41_WindowOpen",
+      "file": "Screenshots/Assemblies41_WindowOpen.png",
+      "sha256": "0b0a49d4866f37d67fcd968a61532dd9752e7baee376209be0f1ad241e250941",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Assemblies41QA.json",
+      "report_sha256": "b98d2a6c0241e118bb62d024b76fecc6a784650dfbc85a95186ce5728e829f33",
+      "report_mtime_ns": 1793390763979811900,
+      "findings": [],
+      "caption": "Window Open"
+    },
+    {
+      "name": "Assemblies41_BinOpen78",
+      "file": "Screenshots/Assemblies41_BinOpen78.png",
+      "sha256": "6b0d55079c0f748aa34107fc5013955a3a7b8901d4b03a2ec8f2b914454d73f7",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Assemblies41QA.json",
+      "report_sha256": "b98d2a6c0241e118bb62d024b76fecc6a784650dfbc85a95186ce5728e829f33",
+      "report_mtime_ns": 1793390763979811900,
+      "findings": [],
+      "caption": "Bin Open78"
+    },
+    {
+      "name": "Assemblies41_BridgeBagBlocked",
+      "file": "Screenshots/Assemblies41_BridgeBagBlocked.png",
+      "sha256": "6773e243c5e6eee2468a7afd455ec4e4eff13034e8a65aa9d1c39d4454c1c742",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Assemblies41QA.json",
+      "report_sha256": "b98d2a6c0241e118bb62d024b76fecc6a784650dfbc85a95186ce5728e829f33",
+      "report_mtime_ns": 1793390763979811900,
+      "findings": [],
+      "caption": "Bridge Bag Blocked"
+    },
+    {
+      "name": "QA38_AfterPhysicalBagTransfer",
+      "file": "Screenshots/QA38_AfterPhysicalBagTransfer.png",
+      "sha256": "5055b8fbdda22a9700c490aebe73995f3257de407f3b17a64e69e104b85c42f2",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/FlightJourney39.json",
+      "report_sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "report_mtime_ns": 1793391260310388000,
+      "findings": [
+        "EQ01",
+        "J04"
+      ],
+      "caption": "After Physical Bag Transfer"
+    },
+    {
+      "name": "QA38_ActuallySeated",
+      "file": "Screenshots/QA38_ActuallySeated.png",
+      "sha256": "746bb06172c4324b0e331fd5f92f27bbaa4cc522bfb08d992e0c8eee9b1d4408",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/FlightJourney39.json",
+      "report_sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "report_mtime_ns": 1793391260310388000,
+      "findings": [
+        "CH39-05",
+        "J39-02"
+      ],
+      "caption": "Actually Seated"
+    },
+    {
+      "name": "Flight39_crew_close_requested",
+      "file": "Screenshots/Flight39_crew_close_requested.png",
+      "sha256": "f65df72e49c29c26786a57ebbd3a5269679517d3790e93dd5c4fba899a8489ad",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/FlightJourney39.json",
+      "report_sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "report_mtime_ns": 1793391260310388000,
+      "findings": [
+        "FL39-07"
+      ],
+      "caption": "crew close requested"
+    },
+    {
+      "name": "Flight39_bridge",
+      "file": "Screenshots/Flight39_bridge.png",
+      "sha256": "5edfa6494600403ecc9a42fe0a55964a9f97267b6e77df42a7a48d9b2e9351f1",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/FlightJourney39.json",
+      "report_sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "report_mtime_ns": 1793391260310388000,
+      "findings": [
+        "FL39-07"
+      ],
+      "caption": "bridge"
+    },
+    {
+      "name": "Flight39_power",
+      "file": "Screenshots/Flight39_power.png",
+      "sha256": "74523842f302dba0352116cfeea31eb7fe035f4451db8d297f37704431d0478b",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/FlightJourney39.json",
+      "report_sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "report_mtime_ns": 1793391260310388000,
+      "findings": [
+        "FL39-07"
+      ],
+      "caption": "power"
+    },
+    {
+      "name": "Flight39_engine_spool",
+      "file": "Screenshots/Flight39_engine_spool.png",
+      "sha256": "cd4e25ec5a1c1c0cf9c33acef33959ab0828c3f0d352a4e744d0e541cc9f0a0a",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/FlightJourney39.json",
+      "report_sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "report_mtime_ns": 1793391260310388000,
+      "findings": [
+        "FL39-07"
+      ],
+      "caption": "engine spool"
+    },
+    {
+      "name": "Flight39_taxi",
+      "file": "Screenshots/Flight39_taxi.png",
+      "sha256": "a772543fae63d64dd0b38262bdd429653075f043ca49a1725ceb287853fbbcaf",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/FlightJourney39.json",
+      "report_sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "report_mtime_ns": 1793391260310388000,
+      "findings": [
+        "FL39-01",
+        "FL39-07"
+      ],
+      "caption": "taxi"
+    },
+    {
+      "name": "Flight39_runway_entry",
+      "file": "Screenshots/Flight39_runway_entry.png",
+      "sha256": "e92bd69da9d95e4540bddda217aec59ad923acb05948fc2a5746ac691b0ccaee",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/FlightJourney39.json",
+      "report_sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "report_mtime_ns": 1793391260310388000,
+      "findings": [
+        "FL39-01",
+        "FL39-07"
+      ],
+      "caption": "runway entry"
+    },
+    {
+      "name": "Flight39_lineup",
+      "file": "Screenshots/Flight39_lineup.png",
+      "sha256": "3e1393e4554756992fe46c687cd91618b718ecbcfac73c117779620f2351b884",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/FlightJourney39.json",
+      "report_sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "report_mtime_ns": 1793391260310388000,
+      "findings": [
+        "FL39-01",
+        "FL39-07"
+      ],
+      "caption": "lineup"
+    },
+    {
+      "name": "Flight39_takeoff_roll",
+      "file": "Screenshots/Flight39_takeoff_roll.png",
+      "sha256": "eed0aabd973278fc98d42c0e8b5ede2eaf7e6196fac316bfc00767f7dccde0e7",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/FlightJourney39.json",
+      "report_sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "report_mtime_ns": 1793391260310388000,
+      "findings": [
+        "FL39-01",
+        "FL39-07"
+      ],
+      "caption": "takeoff roll"
+    },
+    {
+      "name": "Flight39_climb",
+      "file": "Screenshots/Flight39_climb.png",
+      "sha256": "e570b3d2895199a8aae40da0c4076f32e290253ccff196656b227faeccdd0173",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/FlightJourney39.json",
+      "report_sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "report_mtime_ns": 1793391260310388000,
+      "findings": [
+        "FL39-03",
+        "FL39-04",
+        "FL39-05",
+        "FL39-07"
+      ],
+      "caption": "climb"
+    },
+    {
+      "name": "Flight39_bank_right",
+      "file": "Screenshots/Flight39_bank_right.png",
+      "sha256": "7fe81e1b2149c7ca0d36a04e5205eacc92f5ba77053d7d7e99527cf3934ebae8",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/FlightJourney39.json",
+      "report_sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "report_mtime_ns": 1793391260310388000,
+      "findings": [
+        "FL39-03",
+        "FL39-04",
+        "FL39-05",
+        "FL39-07"
+      ],
+      "caption": "bank right"
+    },
+    {
+      "name": "Flight39_bank_left",
+      "file": "Screenshots/Flight39_bank_left.png",
+      "sha256": "4313a5e1b0c51602f551fa8799def7dc448734af3d55bcc071ee6af2eee144b4",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/FlightJourney39.json",
+      "report_sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "report_mtime_ns": 1793391260310388000,
+      "findings": [
+        "FL39-03",
+        "FL39-04",
+        "FL39-05",
+        "FL39-07"
+      ],
+      "caption": "bank left"
+    },
+    {
+      "name": "Flight39_recover",
+      "file": "Screenshots/Flight39_recover.png",
+      "sha256": "62627d0b1317bb416b67465ff5d50062c72f749b8bc2ccc7f809b9e574f1c531",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/FlightJourney39.json",
+      "report_sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "report_mtime_ns": 1793391260310388000,
+      "findings": [
+        "FL39-03",
+        "FL39-04",
+        "FL39-05",
+        "FL39-07"
+      ],
+      "caption": "recover"
+    },
+    {
+      "name": "Flight39_complete",
+      "file": "Screenshots/Flight39_complete.png",
+      "sha256": "43b264b1642eb5f8b7229504385e56d6123a4e779206873d73c439fdbf32075a",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/FlightJourney39.json",
+      "report_sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "report_mtime_ns": 1793391260310388000,
+      "findings": [
+        "FL39-03",
+        "FL39-04",
+        "FL39-05",
+        "FL39-07"
+      ],
+      "caption": "complete"
+    },
+    {
+      "name": "Flight39_WalkingInFlight",
+      "file": "Screenshots/Flight39_WalkingInFlight.png",
+      "sha256": "48606f7d0d1697e3e2d2b063624bceb07d1795c02c02c46a0b74e878bc65aedd",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/FlightJourney39.json",
+      "report_sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "report_mtime_ns": 1793391260310388000,
+      "findings": [
+        "FL39-07"
+      ],
+      "caption": "Walking In Flight"
+    },
+    {
+      "name": "Flight39_SeatReturn",
+      "file": "Screenshots/Flight39_SeatReturn.png",
+      "sha256": "9f1bc71ec84a8418d4e3b3c0373229a435d10ea29df3c89c9aab6f50cee3d3a9",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/FlightJourney39.json",
+      "report_sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "report_mtime_ns": 1793391260310388000,
+      "findings": [
+        "FL39-07"
+      ],
+      "caption": "Seat Return"
+    },
+    {
+      "name": "Scanner38_InputRelease",
+      "file": "Screenshots/Scanner38_InputRelease.png",
+      "sha256": "f3e0cbc6a4ce6f9dee93af5624f12f43ae45ec946e1a58ee9869b31dd7e17007",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/ScannerQA38.json",
+      "report_sha256": "039ffa448a3e93dc454da3b0f64f6382d79d41cccdbb954656b826e004f11f69",
+      "report_mtime_ns": 1793391522415846300,
+      "findings": [
+        "EQ02",
+        "J03"
+      ],
+      "caption": "Scanner38 Input Release"
+    },
+    {
+      "name": "Scanner38_CollectedAndCleared",
+      "file": "Screenshots/Scanner38_CollectedAndCleared.png",
+      "sha256": "1836e7cba1139cdeac1d25787ad4d93f26ffff20bc6c12c66a39b35c4951f491",
+      "kind": "native",
+      "state": "final",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/ScannerQA38.json",
+      "report_sha256": "039ffa448a3e93dc454da3b0f64f6382d79d41cccdbb954656b826e004f11f69",
+      "report_mtime_ns": 1793391522415846300,
+      "findings": [
+        "EQ02",
+        "J03"
+      ],
+      "caption": "Scanner38 Collected And Cleared"
+    }
+  ],
+  "technical_captures": [
+    {
+      "name": "31_FormerServiceRamp",
+      "file": "Screenshots/31_FormerServiceRamp.png",
+      "sha256": "2573f489658fdcb398121fb974b16204aeca35c9d62bd0f638ccf6889ad8b443",
+      "kind": "native",
+      "state": "technical",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/Photos38.json",
+      "report_sha256": "f28a7e9f3f32b456edd07f97939b08d98d192f1b58faedcfa6f011523afa29a0",
+      "report_mtime_ns": 1793390672075988600,
+      "findings": [
+        "A3-02",
+        "J02"
+      ],
+      "caption": "Sparse ground proof that the obsolete ramp is gone; technical removal evidence",
+      "technical_only": true
+    },
+    {
+      "name": "80_PlayerLOD0",
+      "file": "Screenshots/80_PlayerLOD0.png",
+      "sha256": "c752bb8b3d77b6ced86c8f990eab8cf0468587750ba5c030325dd628f11ba892",
+      "kind": "native",
+      "state": "technical",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/DetailPhotos39.json",
+      "report_sha256": "0f09c3d9a7d11aec56afd9d3f5ef0a99cf33e836810a95acafaa5a471a681d65",
+      "report_mtime_ns": 1793390722377569000,
+      "findings": [
+        "CH39-08",
+        "CH39-09",
+        "CH39-10"
+      ],
+      "caption": "Forced-distance LOD0 close-up for technical comparison; not a normal gameplay portrait",
+      "technical_only": true
+    },
+    {
+      "name": "81_PlayerLOD1",
+      "file": "Screenshots/81_PlayerLOD1.png",
+      "sha256": "569ec0e35283fcf7dd5619c47f8da96d01266104bf550ac3fedadd4b6188652c",
+      "kind": "native",
+      "state": "technical",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/DetailPhotos39.json",
+      "report_sha256": "0f09c3d9a7d11aec56afd9d3f5ef0a99cf33e836810a95acafaa5a471a681d65",
+      "report_mtime_ns": 1793390722377569000,
+      "findings": [
+        "CH39-08",
+        "CH39-09",
+        "CH39-10"
+      ],
+      "caption": "Forced-distance LOD1 close-up for technical comparison; not a normal gameplay portrait",
+      "technical_only": true
+    },
+    {
+      "name": "82_PlayerLOD3",
+      "file": "Screenshots/82_PlayerLOD3.png",
+      "sha256": "bb72db695095523b0155d2cac736eea344e90fcbbc8743eefb423876940ad022",
+      "kind": "native",
+      "state": "technical",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/DetailPhotos39.json",
+      "report_sha256": "0f09c3d9a7d11aec56afd9d3f5ef0a99cf33e836810a95acafaa5a471a681d65",
+      "report_mtime_ns": 1793390722377569000,
+      "findings": [
+        "CH39-08",
+        "CH39-09",
+        "CH39-10"
+      ],
+      "caption": "Forced-distance LOD3 close-up stress test; expected coarse faceting at this artificial distance",
+      "technical_only": true
+    },
+    {
+      "name": "83_EndCharacterPreview",
+      "file": "Screenshots/83_EndCharacterPreview.png",
+      "sha256": "0467cdad8be166a2c6a571858d9f70d534fa9486ec2998bba5a07fada15281ac",
+      "kind": "native",
+      "state": "technical",
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "report": "ArtBible/DetailPhotos39.json",
+      "report_sha256": "0f09c3d9a7d11aec56afd9d3f5ef0a99cf33e836810a95acafaa5a471a681d65",
+      "report_mtime_ns": 1793390722377569000,
+      "findings": [],
+      "caption": "Staged character-preview cleanup/end frame; technical state evidence",
+      "technical_only": true
+    }
+  ],
+  "validations": {
+    "flight": {
+      "status": "PASS",
+      "file": "ArtBible/FlightQA39.json",
+      "sha256": "ccda7afd96e6ee890b728de4ff41474cee5f68846308b2e634ed0bac2ab37753",
+      "mtime_ns": 1793391174008369700,
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "expected_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "scope": "Completed current-runtime native cockpit controls, rigid attachments, actual surfaces/gear and takeoff driver",
+      "findings": [
+        "FL39-02",
+        "FL39-04",
+        "FL39-05",
+        "FL39-07"
+      ],
+      "candidate_findings": [
+        "FL39-02",
+        "FL39-04",
+        "FL39-05",
+        "FL39-07"
+      ],
+      "pending_reasons": [],
+      "supporting_evidence": [
+        {
+          "file": "ArtBible/FlightJourney39.json",
+          "exists": true,
+          "sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+          "mtime_ns": 1793391260310388000,
+          "reported_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610"
+        }
+      ]
+    },
+    "geometry_probes": {
+      "status": "PASS",
+      "file": "ArtBible/FlightJourney39.json",
+      "sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "mtime_ns": 1793391260310388000,
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "expected_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "scope": "Bounded current-native wall, aperture, plenum and floor probes; not universal visual approval",
+      "findings": [
+        "AT11",
+        "L02",
+        "L03"
+      ],
+      "candidate_findings": [
+        "AT11",
+        "L02",
+        "L03"
+      ],
+      "pending_reasons": [],
+      "supporting_evidence": []
+    },
+    "journey": {
+      "status": "PASS",
+      "file": "ArtBible/FlightJourney39.json",
+      "sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "mtime_ns": 1793391260310388000,
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "expected_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "scope": "Fresh check-in, physical checked baggage, scanning, security, boarding and airborne route; zero test teleports/body transforms",
+      "findings": [
+        "EQ01",
+        "J02",
+        "J03",
+        "J04",
+        "J08",
+        "J09"
+      ],
+      "candidate_findings": [
+        "EQ01",
+        "J02",
+        "J03",
+        "J04",
+        "J08",
+        "J09"
+      ],
+      "pending_reasons": [],
+      "supporting_evidence": []
+    },
+    "queue_corridor": {
+      "status": "PASS",
+      "file": "ArtBible/FlightJourney39.json",
+      "sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "mtime_ns": 1793391260310388000,
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "expected_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "scope": "Actual served-queue progression and normal swept security-route walks on the corrected waiting layout",
+      "findings": [
+        "J39-01"
+      ],
+      "candidate_findings": [
+        "J39-01"
+      ],
+      "pending_reasons": [],
+      "supporting_evidence": []
+    },
+    "held_bag_seating": {
+      "status": "PASS",
+      "file": "ArtBible/FlightJourney39.json",
+      "sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "mtime_ns": 1793391260310388000,
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "expected_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "scope": "Aimed actual cabin seat and pilot seat occupied on the same route while the scanned bag remains carried through flight",
+      "findings": [
+        "J39-02"
+      ],
+      "candidate_findings": [
+        "J39-02"
+      ],
+      "pending_reasons": [],
+      "supporting_evidence": []
+    },
+    "moving_bag": {
+      "status": "PASS",
+      "file": "ArtBible/MovingBag39.json",
+      "sha256": "95c4ad7b20ae50c1b18838aaa889df23e314d52782f69198e83b30d2a3c21c73",
+      "mtime_ns": 1793391178659566300,
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "expected_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "scope": "Same scanned airport bag carried aboard then released normally in flight; bounded moving-frame support",
+      "findings": [],
+      "candidate_findings": [],
+      "pending_reasons": [],
+      "supporting_evidence": [
+        {
+          "file": "ArtBible/FlightJourney39.json",
+          "exists": true,
+          "sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+          "mtime_ns": 1793391260310388000,
+          "reported_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610"
+        }
+      ]
+    },
+    "carrier_and_bag": {
+      "status": "PASS",
+      "file": "ArtBible/FlightJourney39.json",
+      "sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "mtime_ns": 1793391260310388000,
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "expected_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "scope": "Actual rigid carrier attachments and normal drop of the same scanned carry-on in the moving aircraft",
+      "findings": [
+        "FL39-03"
+      ],
+      "candidate_findings": [
+        "FL39-03"
+      ],
+      "pending_reasons": [],
+      "supporting_evidence": [
+        {
+          "file": "ArtBible/FlightQA39.json",
+          "exists": true,
+          "sha256": "ccda7afd96e6ee890b728de4ff41474cee5f68846308b2e634ed0bac2ab37753",
+          "mtime_ns": 1793391174008369700,
+          "reported_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610"
+        },
+        {
+          "file": "ArtBible/MovingBag39.json",
+          "exists": true,
+          "sha256": "95c4ad7b20ae50c1b18838aaa889df23e314d52782f69198e83b30d2a3c21c73",
+          "mtime_ns": 1793391178659566300,
+          "reported_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610"
+        }
+      ]
+    },
+    "safety": {
+      "status": "PASS",
+      "file": "ArtBible/SafetyQA38.json",
+      "sha256": "f751f6e017ac77d83ca2c30e9a16222b31cff35089a4a36b1c33148c2d6c8960",
+      "mtime_ns": 1793391570559191300,
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "expected_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "scope": "Explicit staged access/privacy/information/coffee/equipment-stop negative cases; not a fresh passenger route",
+      "findings": [
+        "EQ02",
+        "J01",
+        "J05",
+        "J06",
+        "J07"
+      ],
+      "candidate_findings": [
+        "EQ02",
+        "J01",
+        "J05",
+        "J06",
+        "J07"
+      ],
+      "pending_reasons": [],
+      "supporting_evidence": []
+    },
+    "departure_with_carryon": {
+      "status": "PASS",
+      "file": "ArtBible/FlightJourney39.json",
+      "sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "mtime_ns": 1793391260310388000,
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "expected_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "scope": "Onboard scanned carry-on permits actual departure while a genuine exterior obstruction still denies release",
+      "findings": [
+        "A3-03",
+        "FL39-06",
+        "J39-03"
+      ],
+      "candidate_findings": [
+        "A3-03",
+        "FL39-06",
+        "J39-03"
+      ],
+      "pending_reasons": [],
+      "supporting_evidence": [
+        {
+          "file": "ArtBible/SafetyQA38.json",
+          "exists": true,
+          "sha256": "f751f6e017ac77d83ca2c30e9a16222b31cff35089a4a36b1c33148c2d6c8960",
+          "mtime_ns": 1793391570559191300,
+          "reported_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610"
+        }
+      ]
+    },
+    "scanner": {
+      "status": "PASS",
+      "file": "ArtBible/ScannerQA38.json",
+      "sha256": "039ffa448a3e93dc454da3b0f64f6382d79d41cccdbb954656b826e004f11f69",
+      "mtime_ns": 1793391522415846300,
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "expected_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "scope": "Separate fresh unscanned-bag denial, physical scan, collection and clearance",
+      "findings": [
+        "J03"
+      ],
+      "candidate_findings": [
+        "J03"
+      ],
+      "pending_reasons": [],
+      "supporting_evidence": []
+    },
+    "performance": {
+      "status": "PASS",
+      "file": "ArtBible/Performance39.json",
+      "sha256": "db6261ffc4355db88aa388d7a5cd29dcee9e1c5595ea55d2974f58c3974e9312",
+      "mtime_ns": 1793391449012342600,
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "expected_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "scope": "Seven staged views; separately profiled callbacks and uncaptured/unprofiled frame samples; platform-specific",
+      "findings": [],
+      "candidate_findings": [],
+      "pending_reasons": [],
+      "supporting_evidence": []
+    },
+    "airborne_performance": {
+      "status": "PASS",
+      "file": "ArtBible/FlightPerformance39.json",
+      "sha256": "8d5b3a98c198f8748af57075b1dd9cece0a3810075b67dffe3bb624a49975246",
+      "mtime_ns": 1793391253661439200,
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "expected_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "scope": "Actual post-route cockpit/chase timing without screenshots or callback profiling",
+      "findings": [],
+      "candidate_findings": [],
+      "pending_reasons": [],
+      "supporting_evidence": [
+        {
+          "file": "ArtBible/Performance39.json",
+          "exists": true,
+          "sha256": "db6261ffc4355db88aa388d7a5cd29dcee9e1c5595ea55d2974f58c3974e9312",
+          "mtime_ns": 1793391449012342600,
+          "reported_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610"
+        }
+      ]
+    },
+    "flight_runtime_fit": {
+      "status": "PASS",
+      "file": "ArtBible/FlightJourney39.json",
+      "sha256": "09c4fe25344b1786a3c7f39159935b1b97e26d058ef64707fb359a2632f6c1f0",
+      "mtime_ns": 1793391260310388000,
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "expected_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "scope": "Actual control targeting, onboard swept walking, return to pilot seat and separate uncaptured performance evidence",
+      "findings": [
+        "FL39-09"
+      ],
+      "candidate_findings": [
+        "FL39-09"
+      ],
+      "pending_reasons": [],
+      "supporting_evidence": [
+        {
+          "file": "ArtBible/MovingBag39.json",
+          "exists": true,
+          "sha256": "95c4ad7b20ae50c1b18838aaa889df23e314d52782f69198e83b30d2a3c21c73",
+          "mtime_ns": 1793391178659566300,
+          "reported_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610"
+        },
+        {
+          "file": "ArtBible/Performance39.json",
+          "exists": true,
+          "sha256": "db6261ffc4355db88aa388d7a5cd29dcee9e1c5595ea55d2974f58c3974e9312",
+          "mtime_ns": 1793391449012342600,
+          "reported_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610"
+        },
+        {
+          "file": "ArtBible/FlightPerformance39.json",
+          "exists": true,
+          "sha256": "8d5b3a98c198f8748af57075b1dd9cece0a3810075b67dffe3bb624a49975246",
+          "mtime_ns": 1793391253661439200,
+          "reported_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610"
+        }
+      ]
+    },
+    "characters": {
+      "status": "PASS",
+      "file": "ArtBible/VisualApproval39.json",
+      "sha256": "d4d1a691a931f14ee3e71429fabc164a9e684012431495db7079a446e660ee8d",
+      "mtime_ns": 1793391128881469500,
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "expected_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "scope": "Only explicitly listed parent-reviewed findings; representative character joins/LOD view is separate from all-chair source tests",
+      "findings": [
+        "A3-01",
+        "A3-02",
+        "A3-04",
+        "A3-06",
+        "AC39-01",
+        "AC39-02",
+        "AC39-03",
+        "AC39-04",
+        "AC39-05",
+        "AC39-06",
+        "AC39-08",
+        "AT01",
+        "AT02",
+        "AT03",
+        "AT04",
+        "AT05",
+        "AT06",
+        "AT07",
+        "AT08",
+        "AT09",
+        "AT10",
+        "AT12",
+        "AT13",
+        "AT14",
+        "AT15",
+        "CH39-01",
+        "CH39-02",
+        "CH39-03",
+        "CH39-04",
+        "CH39-05",
+        "CH39-06",
+        "CH39-07",
+        "CH39-09",
+        "CH39-10",
+        "E39-02",
+        "E39-03",
+        "E39-04",
+        "E39-05",
+        "EQ02",
+        "EQ03",
+        "EQ04",
+        "EQ05",
+        "EQ06",
+        "EQ07",
+        "EQ08",
+        "EQ09",
+        "EQ10",
+        "EQ11",
+        "EQ12",
+        "EQ13",
+        "F39-02",
+        "F39-03",
+        "F39-04",
+        "F39-05",
+        "L01",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "R01",
+        "R03",
+        "R04",
+        "R05",
+        "S2E01",
+        "S2E02",
+        "S2E03",
+        "S2E04",
+        "S2E05",
+        "S2E06",
+        "S2E07",
+        "S2E08",
+        "S2E10",
+        "UG43-01",
+        "UG43-02",
+        "UG43-03",
+        "UG43-04",
+        "UG43-05",
+        "UG43-06",
+        "UG43-07",
+        "UG43-08",
+        "UG43-09",
+        "UG43-10",
+        "UG43-11",
+        "UG43-12",
+        "UG43-13",
+        "UG43-14"
+      ],
+      "candidate_findings": [
+        "A3-01",
+        "A3-02",
+        "A3-04",
+        "A3-06",
+        "AC39-01",
+        "AC39-02",
+        "AC39-03",
+        "AC39-04",
+        "AC39-05",
+        "AC39-06",
+        "AC39-07",
+        "AC39-08",
+        "AT01",
+        "AT02",
+        "AT03",
+        "AT04",
+        "AT05",
+        "AT06",
+        "AT07",
+        "AT08",
+        "AT09",
+        "AT10",
+        "AT12",
+        "AT13",
+        "AT14",
+        "AT15",
+        "CH39-01",
+        "CH39-02",
+        "CH39-03",
+        "CH39-04",
+        "CH39-05",
+        "CH39-06",
+        "CH39-07",
+        "CH39-09",
+        "CH39-10",
+        "E39-02",
+        "E39-03",
+        "E39-04",
+        "E39-05",
+        "EQ02",
+        "EQ03",
+        "EQ04",
+        "EQ05",
+        "EQ06",
+        "EQ07",
+        "EQ08",
+        "EQ09",
+        "EQ10",
+        "EQ11",
+        "EQ12",
+        "EQ13",
+        "F39-02",
+        "F39-03",
+        "F39-04",
+        "F39-05",
+        "L01",
+        "L04",
+        "L05",
+        "L06",
+        "L07",
+        "L08",
+        "L09",
+        "R01",
+        "R03",
+        "R04",
+        "R05",
+        "S2E01",
+        "S2E02",
+        "S2E03",
+        "S2E04",
+        "S2E05",
+        "S2E06",
+        "S2E07",
+        "S2E08",
+        "S2E09",
+        "S2E10",
+        "UG43-01",
+        "UG43-02",
+        "UG43-03",
+        "UG43-04",
+        "UG43-05",
+        "UG43-06",
+        "UG43-07",
+        "UG43-08",
+        "UG43-09",
+        "UG43-10",
+        "UG43-11",
+        "UG43-12",
+        "UG43-13",
+        "UG43-14"
+      ],
+      "pending_reasons": [],
+      "supporting_evidence": [
+        {
+          "file": "ArtBible/DetailPhotos39.json",
+          "exists": true,
+          "sha256": "0f09c3d9a7d11aec56afd9d3f5ef0a99cf33e836810a95acafaa5a471a681d65",
+          "mtime_ns": 1793390722377569000,
+          "reported_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610"
+        },
+        {
+          "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Characters\\Revision39\\ArtBible\\NativeCharacters39.json",
+          "exists": true,
+          "sha256": "f0151b697ae9f2bb92838853e0dc81dcf3deb2f692cb07e390cea14967374201",
+          "mtime_ns": 1793382440636072300,
+          "reported_source_sha256": "eac73c0812391bc2f994d24cc9234c529be9a2d74175d41c1d58516c44703dff"
+        },
+        {
+          "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Characters\\Revision39\\ArtBible\\NativeLOD39.json",
+          "exists": true,
+          "sha256": "89a0a94ce09e6a34afc950d9f03215f4c9ab8a5091d3dcdbc82e6640141c1b70",
+          "mtime_ns": 1793382438538541400,
+          "reported_source_sha256": null
+        }
+      ],
+      "pending_candidate_findings": [
+        "AC39-07",
+        "S2E09"
+      ],
+      "deferred_nonvisual_ids": [
+        "CH39-08"
+      ],
+      "capture_check_problems": [],
+      "import_check_problems": [],
+      "character_source_sha256": "eac73c0812391bc2f994d24cc9234c529be9a2d74175d41c1d58516c44703dff"
+    },
+    "character_lod_performance": {
+      "status": "PASS",
+      "file": "ArtBible/VisualApproval39.json",
+      "sha256": "d4d1a691a931f14ee3e71429fabc164a9e684012431495db7079a446e660ee8d",
+      "mtime_ns": 1793391128881469500,
+      "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "expected_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+      "scope": "Parent-reviewed normal/forced character LOD appearance plus separately measured current-source airport/airborne timing",
+      "findings": [
+        "CH39-08"
+      ],
+      "candidate_findings": [
+        "CH39-08"
+      ],
+      "pending_reasons": [],
+      "supporting_evidence": [
+        {
+          "file": "ArtBible/Performance39.json",
+          "exists": true,
+          "sha256": "db6261ffc4355db88aa388d7a5cd29dcee9e1c5595ea55d2974f58c3974e9312",
+          "mtime_ns": 1793391449012342600,
+          "reported_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610"
+        },
+        {
+          "file": "ArtBible/FlightPerformance39.json",
+          "exists": true,
+          "sha256": "8d5b3a98c198f8748af57075b1dd9cece0a3810075b67dffe3bb624a49975246",
+          "mtime_ns": 1793391253661439200,
+          "reported_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610"
+        }
+      ]
+    }
+  },
+  "excluded": [
+    {
+      "report": "PosturePhotos40",
+      "reason": [
+        "Report is not bound to current airport source"
+      ]
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Screenshots\\53_SecurityGuard.png",
+      "reason": [
+        "Capture absent or replaced by a later session"
+      ]
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Screenshots\\54_PlayerCharacter.png",
+      "reason": [
+        "Capture absent or replaced by a later session"
+      ]
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Screenshots\\60_WindowClosed.png",
+      "reason": [
+        "Capture absent or replaced by a later session"
+      ]
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Screenshots\\61_WindowOpen.png",
+      "reason": [
+        "Capture absent or replaced by a later session"
+      ]
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Screenshots\\Scanner38_InputRelease.png",
+      "reason": [
+        "Capture absent or replaced by a later session"
+      ]
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Screenshots\\Scanner38_CollectedAndCleared.png",
+      "reason": [
+        "Capture absent or replaced by a later session"
+      ]
+    }
+  ],
+  "finding_mappings": [
+    {
+      "id": "L01",
+      "group": "01_layout",
+      "finding": "A08 and cafe approach ceilings are coplanar with retained roof caps",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/01_layout/findings.json",
+        "Fixes/01_architecture/REPORT.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/16_A08Ceiling.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "L02",
+      "group": "01_layout",
+      "finding": "Amenities have a real east-envelope opening into the exterior",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/01_layout/findings.json",
+        "Fixes/01_architecture/REPORT.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/20_WCEastGap.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "geometry_probes"
+      ],
+      "native_validations": [
+        "geometry_probes"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "L03",
+      "group": "01_layout",
+      "finding": "Security entry has an unsealed west facade-to-wall seam",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/01_layout/findings.json",
+        "Fixes/01_architecture/REPORT.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/05_SecurityEntry.png",
+        "Screenshots/06_WestEntryGap.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "geometry_probes"
+      ],
+      "native_validations": [
+        "geometry_probes"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "L04",
+      "group": "01_layout",
+      "finding": "STAFF ONLY board is hung across the usable door aperture",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/01_layout/findings.json",
+        "Fixes/01_architecture/REPORT.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/10_StaffDoor.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "L05",
+      "group": "01_layout",
+      "finding": "WC identification floats inside the opening and faces away from approaching players",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/01_layout/findings.json",
+        "Fixes/01_architecture/REPORT.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/18_WCSign.png",
+        "Screenshots/19_WCLobby.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "L06",
+      "group": "01_layout",
+      "finding": "The A08 marker is hidden behind its own entrance landscaping",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/01_layout/findings.json",
+        "Fixes/01_architecture/REPORT.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/13_Concourse.png",
+        "Screenshots/14_A08Marker.png",
+        "Screenshots/15_A08Arrival.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "L07",
+      "group": "01_layout",
+      "finding": "A08 threshold is a leftover pocket rather than a coherent entrance",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/01_layout/findings.json",
+        "Fixes/01_architecture/REPORT.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/13_Concourse.png",
+        "Screenshots/15_A08Arrival.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "L08",
+      "group": "01_layout",
+      "finding": "The narrow stacked directory is a weak primary wayfinding device",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/01_layout/findings.json",
+        "Fixes/01_architecture/REPORT.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/13_Concourse.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "L09",
+      "group": "01_layout",
+      "finding": "Long generic circulation spaces still read as repeated empty boxes",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/01_layout/findings.json",
+        "Fixes/01_architecture/REPORT.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/01_Entrance.png",
+        "Screenshots/13_Concourse.png",
+        "Screenshots/23_Cafe.png",
+        "Screenshots/38_Forecourt.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "L10",
+      "group": "01_layout",
+      "finding": "Previous passing checks did not audit the whole map or its construction",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/01_layout/findings.json",
+        "Fixes/01_architecture/REPORT.md"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [],
+      "candidate_validations": [],
+      "native_validations": [],
+      "evidence_level": "SOURCE_OR_HISTORICAL_LEVEL_CURRENT_NATIVE_RETEST_PENDING"
+    },
+    {
+      "id": "EQ01",
+      "group": "02_equipment",
+      "finding": "Checked baggage belts terminate in a solid decorative wall and have no onward system",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/02_equipment/findings.json",
+        "Fixes/02_equipment/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/03_BagDrop01.png",
+        "Screenshots/04_BagDrop02.png",
+        "Screenshots/22_Arrivals.png",
+        "Screenshots/36_BaggageBay.png",
+        "Screenshots/37_BaggageReceiver.png",
+        "Screenshots/QA38_AfterPhysicalBagTransfer.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "journey"
+      ],
+      "native_validations": [
+        "journey"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "EQ02",
+      "group": "02_equipment",
+      "finding": "The emergency stop is embedded in the scanner shoulder",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/02_equipment/findings.json",
+        "Fixes/02_equipment/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/08_ScannerControl.png",
+        "Screenshots/Scanner38_InputRelease.png",
+        "Screenshots/Scanner38_CollectedAndCleared.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "safety",
+        "characters"
+      ],
+      "native_validations": [
+        "safety",
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "EQ03",
+      "group": "02_equipment",
+      "finding": "Right lane side monitor/shelf penetrates the security east partition",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/02_equipment/findings.json",
+        "Fixes/02_equipment/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/08_ScannerControl.png",
+        "Screenshots/09_ScannerMonitor.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "EQ04",
+      "group": "02_equipment",
+      "finding": "Scanner monitor contains a floating weighted foot and conflicting supports",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/02_equipment/findings.json",
+        "Fixes/02_equipment/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/09_ScannerMonitor.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "EQ05",
+      "group": "02_equipment",
+      "finding": "A07 desk intersects its room wall",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/02_equipment/findings.json",
+        "Fixes/02_equipment/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/26_A07Desks.png",
+        "Screenshots/27_DeskClearance.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "EQ06",
+      "group": "02_equipment",
+      "finding": "A standalone potted plant was left floating when furniture moved",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/02_equipment/findings.json",
+        "Fixes/02_equipment/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/12_Repacking.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "EQ07",
+      "group": "02_equipment",
+      "finding": "Service-desk carcass and curved front panels are not constructed as a fitted assembly",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/02_equipment/findings.json",
+        "Fixes/02_equipment/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/02_Checkin.png",
+        "Screenshots/27_DeskClearance.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "EQ08",
+      "group": "02_equipment",
+      "finding": "Curtain gaps create an unnecessarily high-contrast high-frequency pattern",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/02_equipment/findings.json",
+        "Fixes/02_equipment/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/07_Curtain.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "EQ09",
+      "group": "02_equipment",
+      "finding": "Stock shelves are populated with identical blank cartons rather than recognizable supplies",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/02_equipment/findings.json",
+        "Fixes/02_equipment/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/10_StaffDoor.png",
+        "Screenshots/11_StaffStorage.png",
+        "Screenshots/51_TravelShelves.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "EQ10",
+      "group": "02_equipment",
+      "finding": "Shelf price rails float in front of the shelves",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/02_equipment/findings.json",
+        "Fixes/02_equipment/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/11_StaffStorage.png",
+        "Screenshots/51_TravelShelves.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "EQ11",
+      "group": "02_equipment",
+      "finding": "Legacy recycling units have painted-on recesses instead of apertures",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/02_equipment/findings.json",
+        "Fixes/02_equipment/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "EQ12",
+      "group": "02_equipment",
+      "finding": "Screening tray stacks remain on the floor rather than the preparation worktop",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/02_equipment/findings.json",
+        "Fixes/02_equipment/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/05_SecurityEntry.png",
+        "Screenshots/44_PreparationRearMounted.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "EQ13",
+      "group": "02_equipment",
+      "finding": "The fitted caf\u00e9 run has100mm open voids between cabinet bases",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/02_equipment/findings.json",
+        "Fixes/02_equipment/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/23_Cafe.png",
+        "Screenshots/24_CafeService.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "A3-01",
+      "group": "03_airside",
+      "finding": "The jetbridge ends in an unsealed, unfinished docking throat",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/03_airside/findings.json",
+        "Fixes/03_airside/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/28_BridgeInside.png",
+        "Screenshots/29_DockingJoin.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "A3-02",
+      "group": "03_airside",
+      "finding": "The service ramp and its sliding doors are orphaned by later terminal redesigns",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/03_airside/findings.json",
+        "Fixes/03_airside/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [
+        "Screenshots/31_FormerServiceRamp.png"
+      ],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "A3-03",
+      "group": "03_airside",
+      "finding": "Parked clearance is being mistaken for a safe departure envelope",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/03_airside/findings.json",
+        "Fixes/03_airside/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/30_BridgeWing.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "departure_with_carryon"
+      ],
+      "native_validations": [
+        "departure_with_carryon"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "A3-04",
+      "group": "03_airside",
+      "finding": "The A07 boarding desk penetrates its south wall",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/03_airside/findings.json",
+        "Fixes/03_airside/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/26_A07Desks.png",
+        "Screenshots/27_DeskClearance.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "A3-05",
+      "group": "03_airside",
+      "finding": "The exterior navigation floor does not match the sloping physical ground",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/03_airside/findings.json",
+        "Fixes/03_airside/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/38_Forecourt.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [],
+      "native_validations": [],
+      "evidence_level": "SOURCE_OR_HISTORICAL_LEVEL_CURRENT_NATIVE_RETEST_PENDING"
+    },
+    {
+      "id": "A3-06",
+      "group": "03_airside",
+      "finding": "The final bridge carpet strip overlaps the previous strip coplanarly",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/03_airside/findings.json",
+        "Fixes/03_airside/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/28_BridgeInside.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "A3-07",
+      "group": "03_airside",
+      "finding": "Airside vehicles have no deliberate parked/braked state",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/03_airside/findings.json",
+        "Fixes/03_airside/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [],
+      "candidate_validations": [],
+      "native_validations": [],
+      "evidence_level": "SOURCE_OR_HISTORICAL_LEVEL_CURRENT_NATIVE_RETEST_PENDING"
+    },
+    {
+      "id": "R01",
+      "group": "04_rendering",
+      "finding": "A08 and cafe approach ceilings fight retained roof undersides for the same depth",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/04_rendering/findings.json",
+        "Fixes/04_rendering/REPORT.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/16_A08Ceiling.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "R02",
+      "group": "04_rendering",
+      "finding": "The final temporal profile is substantially less stable than the project settings imply",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/04_rendering/findings.json",
+        "Fixes/04_rendering/REPORT.md"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [],
+      "candidate_validations": [],
+      "native_validations": [],
+      "evidence_level": "SOURCE_OR_HISTORICAL_LEVEL_CURRENT_NATIVE_RETEST_PENDING"
+    },
+    {
+      "id": "R03",
+      "group": "04_rendering",
+      "finding": "The scanner curtain creates a repeated field of thin bright openings",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/04_rendering/findings.json",
+        "Fixes/04_rendering/REPORT.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/07_Curtain.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "R04",
+      "group": "04_rendering",
+      "finding": "Shadow behavior is selected by loop index instead of an intentional lighting role",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/04_rendering/findings.json",
+        "Fixes/04_rendering/REPORT.md"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "R05",
+      "group": "04_rendering",
+      "finding": "The closed northern rooms have dark ceiling fields against bright walls and bright narrow practicals",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/04_rendering/findings.json",
+        "Fixes/04_rendering/REPORT.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/16_A08Ceiling.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "R06",
+      "group": "04_rendering",
+      "finding": "The duplicate checks miss the cross-asset surface conflict that is actually flickering",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/04_rendering/findings.json",
+        "Fixes/04_rendering/REPORT.md"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [],
+      "candidate_validations": [],
+      "native_validations": [],
+      "evidence_level": "SOURCE_OR_HISTORICAL_LEVEL_CURRENT_NATIVE_RETEST_PENDING"
+    },
+    {
+      "id": "R07",
+      "group": "04_rendering",
+      "finding": "The inherited plane runtime status still advertises a hard-coded rendering profile",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/04_rendering/findings.json",
+        "Fixes/04_rendering/REPORT.md"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [],
+      "candidate_validations": [],
+      "native_validations": [],
+      "evidence_level": "SOURCE_OR_HISTORICAL_LEVEL_CURRENT_NATIVE_RETEST_PENDING"
+    },
+    {
+      "id": "J01",
+      "group": "05_journey",
+      "finding": "Automatic proximity doors override the room access policy before animation",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/05_journey/findings.json",
+        "Fixes/05_journey/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/05_SecurityEntry.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "safety"
+      ],
+      "native_validations": [
+        "safety"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "J02",
+      "group": "05_journey",
+      "finding": "Walking mode has a global invisible zero-height floor and stale outdoor terminal coverage",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/05_journey/findings.json",
+        "Fixes/05_journey/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [
+        "Screenshots/31_FormerServiceRamp.png"
+      ],
+      "candidate_validations": [
+        "journey"
+      ],
+      "native_validations": [
+        "journey"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "J03",
+      "group": "05_journey",
+      "finding": "Security equipment reports a screening process that is not connected to baggage clearance",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/05_journey/findings.json",
+        "Fixes/05_journey/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/Scanner38_InputRelease.png",
+        "Screenshots/Scanner38_CollectedAndCleared.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "journey",
+        "scanner"
+      ],
+      "native_validations": [
+        "journey",
+        "scanner"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "J04",
+      "group": "05_journey",
+      "finding": "A bag is irrevocably registered before the promised physical transfer occurs",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/05_journey/findings.json",
+        "Fixes/05_journey/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/03_BagDrop01.png",
+        "Screenshots/04_BagDrop02.png",
+        "Screenshots/36_BaggageBay.png",
+        "Screenshots/37_BaggageReceiver.png",
+        "Screenshots/QA38_AfterPhysicalBagTransfer.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "journey"
+      ],
+      "native_validations": [
+        "journey"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "J05",
+      "group": "05_journey",
+      "finding": "Lavatory occupied indicators do not provide an occupied-door lock",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/05_journey/findings.json",
+        "Fixes/05_journey/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "safety"
+      ],
+      "native_validations": [
+        "safety"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "J06",
+      "group": "05_journey",
+      "finding": "A08 presents a boarding action even though it only supplies information",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/05_journey/findings.json",
+        "Fixes/05_journey/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "safety"
+      ],
+      "native_validations": [
+        "safety"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "J07",
+      "group": "05_journey",
+      "finding": "Coffee service is a success cue without a serving interaction or outcome",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/05_journey/findings.json",
+        "Fixes/05_journey/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "safety"
+      ],
+      "native_validations": [
+        "safety"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "J08",
+      "group": "05_journey",
+      "finding": "Queue service and the player call are driven by list timing rather than counter availability",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/05_journey/findings.json",
+        "Fixes/05_journey/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/02_Checkin.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "journey"
+      ],
+      "native_validations": [
+        "journey"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "J09",
+      "group": "05_journey",
+      "finding": "The current quality gate bypasses the systems now failing in the playable map",
+      "source_status": "Implemented; individual source report available",
+      "source_or_historical_evidence": [
+        "Audits/05_journey/findings.json",
+        "Fixes/05_journey/IMPLEMENTATION.md"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "journey"
+      ],
+      "native_validations": [
+        "journey"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "AT01",
+      "group": "Secondary architecture",
+      "finding": "Retained panel is unsupported above the table. Root replaces it with desktop guide and folded-steel brackets.",
+      "source_status": "Implemented in secondary assembly",
+      "source_or_historical_evidence": [
+        "Fixes/01_architecture/SecondaryFindings38.json",
+        "ArtBible/SecondaryAssembly38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/44_PreparationRearMounted.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "AT02",
+      "group": "Secondary architecture",
+      "finding": "Board center3.26,height0.22; font0.18. All geometry remains below3.38.",
+      "source_status": "Implemented in secondary assembly",
+      "source_or_historical_evidence": [
+        "Fixes/01_architecture/SecondaryFindings38.json",
+        "ArtBible/SecondaryAssembly38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/14_A08Marker.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "AT03",
+      "group": "Secondary architecture",
+      "finding": "Screen front pointed -X into the x=-43 wall, only82mm away. Check-in passengers saw its back.",
+      "source_status": "Implemented in secondary assembly",
+      "source_or_historical_evidence": [
+        "Fixes/01_architecture/SecondaryFindings38.json",
+        "ArtBible/SecondaryAssembly38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/02_Checkin.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "AT04",
+      "group": "Secondary architecture",
+      "finding": "Two actual rods/saddles/ceiling shoes per display connect housing to ceiling.",
+      "source_status": "Implemented in secondary assembly",
+      "source_or_historical_evidence": [
+        "Fixes/01_architecture/SecondaryFindings38.json",
+        "ArtBible/SecondaryAssembly38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/17_A08Interior.png",
+        "Screenshots/26_A07Desks.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "AT05",
+      "group": "Secondary architecture",
+      "finding": "Top/bottom frame-rail clamps bolt to existing full-height mullionx=-18.5.",
+      "source_status": "Implemented in secondary assembly",
+      "source_or_historical_evidence": [
+        "Fixes/01_architecture/SecondaryFindings38.json",
+        "ArtBible/SecondaryAssembly38.json"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "AT06",
+      "group": "Secondary architecture",
+      "finding": "Original menu captured on a fitted support wall touching floor and actual gallery-deck underside2.87.",
+      "source_status": "Implemented in secondary assembly",
+      "source_or_historical_evidence": [
+        "Fixes/01_architecture/SecondaryFindings38.json",
+        "ArtBible/SecondaryAssembly38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/23_Cafe.png",
+        "Screenshots/24_CafeService.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "AT07",
+      "group": "Secondary architecture",
+      "finding": "Two threaded hangers, upper shoes and captured lower brackets.",
+      "source_status": "Implemented in secondary assembly",
+      "source_or_historical_evidence": [
+        "Fixes/01_architecture/SecondaryFindings38.json",
+        "ArtBible/SecondaryAssembly38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/23_Cafe.png",
+        "Screenshots/24_CafeService.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "AT08",
+      "group": "Secondary architecture",
+      "finding": "Open side of lower dining soffit exposes plenum from gallery.",
+      "source_status": "Implemented in secondary assembly",
+      "source_or_historical_evidence": [
+        "Fixes/01_architecture/SecondaryFindings38.json",
+        "ArtBible/SecondaryAssembly38.json",
+        "Fixes/01_architecture/Flow39/Validation39.json",
+        "ArtBible/Flow03Source.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/25_Gallery.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "AT09",
+      "group": "Secondary architecture",
+      "finding": "Actual backing plate intersects both wall and clock rim.",
+      "source_status": "Implemented in secondary assembly",
+      "source_or_historical_evidence": [
+        "Fixes/01_architecture/SecondaryFindings38.json",
+        "ArtBible/SecondaryAssembly38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/01_Entrance.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "AT10",
+      "group": "Secondary architecture",
+      "finding": "Authored plaques retained7.5\u201317.5mm offsets without captured mounting hardware.",
+      "source_status": "Implemented in secondary assembly",
+      "source_or_historical_evidence": [
+        "Fixes/01_architecture/SecondaryFindings38.json",
+        "ArtBible/SecondaryAssembly38.json"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "AT11",
+      "group": "Secondary architecture",
+      "finding": "Unequal-height shared floor-plan boundaries become exterior roof steps but lack plenum infill above taller ceiling.",
+      "source_status": "Remodeled and source-tested; supersedes earlier open finding",
+      "source_or_historical_evidence": [
+        "Fixes/01_architecture/SecondaryFindings38.json",
+        "ArtBible/SecondaryAssembly38.json",
+        "Fixes/01_architecture/Flow39/Validation39.json",
+        "ArtBible/Flow03Source.json",
+        "ArtBible/NativeRoofProbe39.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/16_A08Ceiling.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "geometry_probes"
+      ],
+      "native_validations": [
+        "geometry_probes"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "AT12",
+      "group": "Secondary architecture",
+      "finding": "Expanded checker finds duplicated mullion surfaces, previously excluded by its default asset-name filter.",
+      "source_status": "Remodeled and source-tested; supersedes earlier open finding",
+      "source_or_historical_evidence": [
+        "Fixes/01_architecture/SecondaryFindings38.json",
+        "ArtBible/SecondaryAssembly38.json",
+        "Fixes/01_architecture/Flow39/Validation39.json",
+        "ArtBible/Flow03Source.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/16_A08Ceiling.png",
+        "Screenshots/48_GlassClose.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "AT13",
+      "group": "Secondary architecture",
+      "finding": "Expanded checker reports original gallery/internal contact planes. These are candidates rather than established visible flicker; inspect before altering stair geometry.",
+      "source_status": "Remodeled and source-tested; supersedes earlier open finding",
+      "source_or_historical_evidence": [
+        "Fixes/01_architecture/SecondaryFindings38.json",
+        "ArtBible/SecondaryAssembly38.json",
+        "Fixes/01_architecture/Flow39/Validation39.json",
+        "ArtBible/Flow03Source.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/25_Gallery.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "AT14",
+      "group": "Secondary architecture",
+      "finding": "A08 rear artwork unsupported in front of glazing; Vanity34 mirror/carcase/leaf gaps. Coordinated with fix2 to prevent duplicate edits.",
+      "source_status": "Implemented in secondary assembly",
+      "source_or_historical_evidence": [
+        "Fixes/01_architecture/SecondaryFindings38.json",
+        "ArtBible/SecondaryAssembly38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/17_A08Interior.png",
+        "Screenshots/19_WCLobby.png",
+        "Screenshots/21_WCInterior.png",
+        "Screenshots/50_VanityRebuilt.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "AT15",
+      "group": "Secondary architecture",
+      "finding": "Stale seated cabin placements remain on apron without chairs after aircraft translation.",
+      "source_status": "Implemented in secondary assembly",
+      "source_or_historical_evidence": [
+        "Fixes/01_architecture/SecondaryFindings38.json",
+        "ArtBible/SecondaryAssembly38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/30_BridgeWing.png",
+        "Screenshots/32_Exterior.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "S2E01",
+      "group": "Secondary equipment",
+      "finding": "Replace twisted multi-bend loft with three rigid links and captured pivots",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/02_equipment/secondary_findings38.json",
+        "Fixes/02_equipment/display_routing_results38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/09_ScannerMonitor.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "S2E02",
+      "group": "Secondary equipment",
+      "finding": "Fitted doors; closed carcass and mirror chase; fully formed drain bowls and seated hardware",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/02_equipment/secondary_findings38.json",
+        "Fixes/02_equipment/display_routing_results38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/21_WCInterior.png",
+        "Screenshots/50_VanityRebuilt.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "S2E03",
+      "group": "Secondary equipment",
+      "finding": "Remove the solid pedestal cap occluding the real recessed bowl and water",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/02_equipment/secondary_findings38.json",
+        "Fixes/02_equipment/display_routing_results38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/21_WCInterior.png",
+        "Screenshots/50_VanityRebuilt.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "S2E04",
+      "group": "Secondary equipment",
+      "finding": "Support all three shelves from base and move the identity plaque onto fixed transom",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/02_equipment/secondary_findings38.json",
+        "Fixes/02_equipment/display_routing_results38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/23_Cafe.png",
+        "Screenshots/24_CafeService.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "S2E04",
+      "group": "Secondary equipment",
+      "finding": "Mount identification on fixed stone front rather than bridging both cabinet doors",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/02_equipment/secondary_findings38.json",
+        "Fixes/02_equipment/display_routing_results38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/23_Cafe.png",
+        "Screenshots/24_CafeService.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "S2E04",
+      "group": "Secondary equipment",
+      "finding": "Mount identification on fixed stone front rather than bridging both cabinet doors",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/02_equipment/secondary_findings38.json",
+        "Fixes/02_equipment/display_routing_results38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/23_Cafe.png",
+        "Screenshots/24_CafeService.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "S2E05",
+      "group": "Secondary equipment",
+      "finding": "Lower neck pillows13 mm onto shelves and round their closed tips",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/02_equipment/secondary_findings38.json",
+        "Fixes/02_equipment/display_routing_results38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/51_TravelShelves.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "S2E06",
+      "group": "Secondary equipment",
+      "finding": "Seat settings on actual .7725 tops and support spoon at napkin/table contacts",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/02_equipment/secondary_findings38.json",
+        "Fixes/02_equipment/display_routing_results38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/23_Cafe.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "S2E07",
+      "group": "Secondary equipment",
+      "finding": "Seat actual resilient feet/casters on the floor without moving tops or seat shells",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/02_equipment/secondary_findings38.json",
+        "Fixes/02_equipment/display_routing_results38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/01_Entrance.png",
+        "Screenshots/12_Repacking.png",
+        "Screenshots/22_Arrivals.png",
+        "Screenshots/25_Gallery.png",
+        "Screenshots/38_Forecourt.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "S2E07",
+      "group": "Secondary equipment",
+      "finding": "Seat actual resilient feet/casters on the floor without moving tops or seat shells",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/02_equipment/secondary_findings38.json",
+        "Fixes/02_equipment/display_routing_results38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/01_Entrance.png",
+        "Screenshots/12_Repacking.png",
+        "Screenshots/22_Arrivals.png",
+        "Screenshots/25_Gallery.png",
+        "Screenshots/38_Forecourt.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "S2E07",
+      "group": "Secondary equipment",
+      "finding": "Seat actual resilient feet/casters on the floor without moving tops or seat shells",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/02_equipment/secondary_findings38.json",
+        "Fixes/02_equipment/display_routing_results38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/01_Entrance.png",
+        "Screenshots/12_Repacking.png",
+        "Screenshots/22_Arrivals.png",
+        "Screenshots/25_Gallery.png",
+        "Screenshots/38_Forecourt.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "S2E07",
+      "group": "Secondary equipment",
+      "finding": "Seat actual resilient feet/casters on the floor without moving tops or seat shells",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/02_equipment/secondary_findings38.json",
+        "Fixes/02_equipment/display_routing_results38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/01_Entrance.png",
+        "Screenshots/12_Repacking.png",
+        "Screenshots/22_Arrivals.png",
+        "Screenshots/25_Gallery.png",
+        "Screenshots/38_Forecourt.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "S2E07",
+      "group": "Secondary equipment",
+      "finding": "Seat actual resilient feet/casters on the floor without moving tops or seat shells",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/02_equipment/secondary_findings38.json",
+        "Fixes/02_equipment/display_routing_results38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/01_Entrance.png",
+        "Screenshots/12_Repacking.png",
+        "Screenshots/22_Arrivals.png",
+        "Screenshots/25_Gallery.png",
+        "Screenshots/38_Forecourt.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "S2E07",
+      "group": "Secondary equipment",
+      "finding": "Seat actual resilient feet/casters on the floor without moving tops or seat shells",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/02_equipment/secondary_findings38.json",
+        "Fixes/02_equipment/display_routing_results38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/01_Entrance.png",
+        "Screenshots/12_Repacking.png",
+        "Screenshots/22_Arrivals.png",
+        "Screenshots/25_Gallery.png",
+        "Screenshots/38_Forecourt.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "S2E07",
+      "group": "Secondary equipment",
+      "finding": "Extend shoe underside to floor while retaining top fixing height and supported seat geometry",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/02_equipment/secondary_findings38.json",
+        "Fixes/02_equipment/display_routing_results38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/01_Entrance.png",
+        "Screenshots/12_Repacking.png",
+        "Screenshots/22_Arrivals.png",
+        "Screenshots/25_Gallery.png",
+        "Screenshots/38_Forecourt.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "S2E07",
+      "group": "Secondary equipment",
+      "finding": "Extend shoe underside to floor while retaining top fixing height and supported seat geometry",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/02_equipment/secondary_findings38.json",
+        "Fixes/02_equipment/display_routing_results38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/01_Entrance.png",
+        "Screenshots/12_Repacking.png",
+        "Screenshots/22_Arrivals.png",
+        "Screenshots/25_Gallery.png",
+        "Screenshots/38_Forecourt.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "S2E07",
+      "group": "Secondary equipment",
+      "finding": "Extend shoe underside to floor while retaining top fixing height and supported seat geometry",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/02_equipment/secondary_findings38.json",
+        "Fixes/02_equipment/display_routing_results38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/01_Entrance.png",
+        "Screenshots/12_Repacking.png",
+        "Screenshots/22_Arrivals.png",
+        "Screenshots/25_Gallery.png",
+        "Screenshots/38_Forecourt.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "S2E08",
+      "group": "Secondary equipment",
+      "finding": "Support A08 art independently of glazing, ground storage racks and foyer side-table shoe",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/02_equipment/secondary_findings38.json",
+        "Fixes/02_equipment/display_routing_results38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/17_A08Interior.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "S2E09",
+      "group": "Secondary equipment",
+      "finding": "Seat mounting rear against actual room inner wall face",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/02_equipment/secondary_findings38.json",
+        "Fixes/02_equipment/display_routing_results38.json"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [],
+      "evidence_level": "SOURCE_OR_HISTORICAL_LEVEL_CURRENT_NATIVE_RETEST_PENDING"
+    },
+    {
+      "id": "S2E09",
+      "group": "Secondary equipment",
+      "finding": "Seat mounting rear against actual room inner wall face",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/02_equipment/secondary_findings38.json",
+        "Fixes/02_equipment/display_routing_results38.json"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [],
+      "evidence_level": "SOURCE_OR_HISTORICAL_LEVEL_CURRENT_NATIVE_RETEST_PENDING"
+    },
+    {
+      "id": "S2E09",
+      "group": "Secondary equipment",
+      "finding": "Seat mounting rear against actual room inner wall face",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/02_equipment/secondary_findings38.json",
+        "Fixes/02_equipment/display_routing_results38.json"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [],
+      "evidence_level": "SOURCE_OR_HISTORICAL_LEVEL_CURRENT_NATIVE_RETEST_PENDING"
+    },
+    {
+      "id": "S2E10",
+      "group": "Secondary equipment",
+      "finding": "Replace static painted monitor text with correctly UV-mapped active display faces",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/02_equipment/secondary_findings38.json",
+        "Fixes/02_equipment/display_routing_results38.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/09_ScannerMonitor.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "AC39-01",
+      "group": "Secondary airside",
+      "finding": "Relocate seven stale cabin passengers with translated aircraft",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/03_airside/SECONDARY_CONTACTS39.md",
+        "Fixes/03_airside/ContactRefinement39_Test.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/30_BridgeWing.png",
+        "Screenshots/32_Exterior.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "AC39-02",
+      "group": "Secondary airside",
+      "finding": "Close bridge deck/wall and carpet/kick-seal gaps",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/03_airside/SECONDARY_CONTACTS39.md",
+        "Fixes/03_airside/ContactRefinement39_Test.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/28_BridgeInside.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "AC39-03",
+      "group": "Secondary airside",
+      "finding": "Seat bearing blocks on trimmed bridge supports",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/03_airside/SECONDARY_CONTACTS39.md",
+        "Fixes/03_airside/ContactRefinement39_Test.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/28_BridgeInside.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "AC39-04",
+      "group": "Secondary airside",
+      "finding": "Contour docking membrane and ribs to actual fuselage skin",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/03_airside/SECONDARY_CONTACTS39.md",
+        "Fixes/03_airside/ContactRefinement39_Test.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/29_DockingJoin.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "AC39-05",
+      "group": "Secondary airside",
+      "finding": "Repair collapsed bridge trim/gasket bevels",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/03_airside/SECONDARY_CONTACTS39.md",
+        "Fixes/03_airside/ContactRefinement39_Test.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/28_BridgeInside.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "AC39-06",
+      "group": "Secondary airside",
+      "finding": "Seat ten aircraft tyres through supported oleo compression",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/03_airside/SECONDARY_CONTACTS39.md",
+        "Fixes/03_airside/ContactRefinement39_Test.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/32_Exterior.png",
+        "Screenshots/49_GearContact.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "AC39-07",
+      "group": "Secondary airside",
+      "finding": "Seat ground-power wheels on visible pad",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/03_airside/SECONDARY_CONTACTS39.md",
+        "Fixes/03_airside/ContactRefinement39_Test.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/32_Exterior.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [],
+      "evidence_level": "SOURCE_OR_HISTORICAL_LEVEL_CURRENT_NATIVE_RETEST_PENDING"
+    },
+    {
+      "id": "AC39-08",
+      "group": "Secondary airside",
+      "finding": "Fit bridge truck/lift to actual apron",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/03_airside/SECONDARY_CONTACTS39.md",
+        "Fixes/03_airside/ContactRefinement39_Test.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/30_BridgeWing.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "F39-01",
+      "group": "Flow39",
+      "finding": "Structural reconstruction",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/01_architecture/Flow39/REPORT.md",
+        "Fixes/01_architecture/Flow39/Validation39.json",
+        "ArtBible/Flow03Source.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/16_A08Ceiling.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [],
+      "native_validations": [],
+      "evidence_level": "SOURCE_OR_HISTORICAL_LEVEL_CURRENT_NATIVE_RETEST_PENDING"
+    },
+    {
+      "id": "F39-02",
+      "group": "Flow39",
+      "finding": "Distinct natural openings",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/01_architecture/Flow39/REPORT.md",
+        "Fixes/01_architecture/Flow39/Validation39.json",
+        "ArtBible/Flow03Source.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/13_Concourse.png",
+        "Screenshots/15_A08Arrival.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "F39-03",
+      "group": "Flow39",
+      "finding": "Modeled fit and craftsmanship",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/01_architecture/Flow39/REPORT.md",
+        "Fixes/01_architecture/Flow39/Validation39.json",
+        "ArtBible/Flow03Source.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/25_Gallery.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "F39-04",
+      "group": "Flow39",
+      "finding": "Route, material and scale hierarchy",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/01_architecture/Flow39/REPORT.md",
+        "Fixes/01_architecture/Flow39/Validation39.json",
+        "ArtBible/Flow03Source.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/13_Concourse.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "F39-05",
+      "group": "Flow39",
+      "finding": "Final assembly fit and sightline scrutiny",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/01_architecture/Flow39/REPORT.md",
+        "Fixes/01_architecture/Flow39/Validation39.json",
+        "ArtBible/Flow03Source.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/25_Gallery.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "E39-01",
+      "group": "Exterior39",
+      "finding": "Original linked source diagnosis",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/03_airside/Exterior39/IMPLEMENTATION.md",
+        "Fixes/03_airside/Exterior39/Exterior39_FivePasses.json",
+        "ArtBible/Exterior05Source.json"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [],
+      "candidate_validations": [],
+      "native_validations": [],
+      "evidence_level": "SOURCE_OR_HISTORICAL_LEVEL_CURRENT_NATIVE_RETEST_PENDING"
+    },
+    {
+      "id": "E39-02",
+      "group": "Exterior39",
+      "finding": "Source model removed redundant framing; six exact pressure-shell panes retained",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/03_airside/Exterior39/IMPLEMENTATION.md",
+        "Fixes/03_airside/Exterior39/Exterior39_FivePasses.json",
+        "ArtBible/Exterior05Source.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/32_Exterior.png",
+        "Screenshots/39_Cockpit.png",
+        "Screenshots/48_GlassClose.png",
+        "Screenshots/52_NoseContour.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "E39-03",
+      "group": "Exterior39",
+      "finding": "Curved pocket/C-guide pressure-skin and business-shell fit after actual model evaluation",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/03_airside/Exterior39/IMPLEMENTATION.md",
+        "Fixes/03_airside/Exterior39/Exterior39_FivePasses.json",
+        "ArtBible/Exterior05Source.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/32_Exterior.png",
+        "Screenshots/40_Cabin.png",
+        "Screenshots/60_WindowClosed.png",
+        "Screenshots/61_WindowOpen.png",
+        "Screenshots/78_ExteriorWindowClosed.png",
+        "Screenshots/79_ExteriorWindowOpen.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "E39-04",
+      "group": "Exterior39",
+      "finding": "All48 shade mechanisms over21 stroke positions with unchanged closed poses/targets",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/03_airside/Exterior39/IMPLEMENTATION.md",
+        "Fixes/03_airside/Exterior39/Exterior39_FivePasses.json",
+        "ArtBible/Exterior05Source.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/40_Cabin.png",
+        "Screenshots/60_WindowClosed.png",
+        "Screenshots/61_WindowOpen.png",
+        "Screenshots/78_ExteriorWindowClosed.png",
+        "Screenshots/79_ExteriorWindowOpen.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "E39-05",
+      "group": "Exterior39",
+      "finding": "Evaluated doors, weather seals, surfaces, all bindings and actual version1-to2 upgrade",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/03_airside/Exterior39/IMPLEMENTATION.md",
+        "Fixes/03_airside/Exterior39/Exterior39_FivePasses.json",
+        "ArtBible/Exterior05Source.json"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "FL39-01",
+      "group": "Flight39",
+      "finding": "Coherent apron/taxiway/hold point/full runway",
+      "source_status": "Source geometry/model/control tests recorded; not native flight proof",
+      "source_or_historical_evidence": [
+        "Fixes/05_journey/Flight39/INTEGRATION39.md",
+        "Fixes/05_journey/Flight39/SourceGeometryPass39.json",
+        "Fixes/05_journey/Flight39/ModelFlightPasses39.json",
+        "ArtBible/Flight04Source.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/52_NoseContour.png",
+        "Screenshots/Flight39_taxi.png",
+        "Screenshots/Flight39_runway_entry.png",
+        "Screenshots/Flight39_lineup.png",
+        "Screenshots/Flight39_takeoff_roll.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [],
+      "native_validations": [],
+      "evidence_level": "SOURCE_OR_HISTORICAL_LEVEL_CURRENT_NATIVE_RETEST_PENDING"
+    },
+    {
+      "id": "FL39-02",
+      "group": "Flight39",
+      "finding": "Actual cockpit controls, warnings and negative cases",
+      "source_status": "Source geometry/model/control tests recorded; not native flight proof",
+      "source_or_historical_evidence": [
+        "Fixes/05_journey/Flight39/INTEGRATION39.md",
+        "Fixes/05_journey/Flight39/SourceGeometryPass39.json",
+        "Fixes/05_journey/Flight39/ModelFlightPasses39.json",
+        "ArtBible/Flight04Source.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/39_Cockpit.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "flight"
+      ],
+      "native_validations": [
+        "flight"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "FL39-03",
+      "group": "Flight39",
+      "finding": "Rigid carrier, attached fittings and moving reference frame",
+      "source_status": "Source geometry/model/control tests recorded; not native flight proof",
+      "source_or_historical_evidence": [
+        "Fixes/05_journey/Flight39/INTEGRATION39.md",
+        "Fixes/05_journey/Flight39/SourceGeometryPass39.json",
+        "Fixes/05_journey/Flight39/ModelFlightPasses39.json",
+        "ArtBible/Flight04Source.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/Flight39_climb.png",
+        "Screenshots/Flight39_bank_right.png",
+        "Screenshots/Flight39_bank_left.png",
+        "Screenshots/Flight39_recover.png",
+        "Screenshots/Flight39_complete.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "carrier_and_bag"
+      ],
+      "native_validations": [
+        "carrier_and_bag"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "FL39-04",
+      "group": "Flight39",
+      "finding": "Thirteen flight-control surfaces and seven needles",
+      "source_status": "Source geometry/model/control tests recorded; not native flight proof",
+      "source_or_historical_evidence": [
+        "Fixes/05_journey/Flight39/INTEGRATION39.md",
+        "Fixes/05_journey/Flight39/SourceGeometryPass39.json",
+        "Fixes/05_journey/Flight39/ModelFlightPasses39.json",
+        "ArtBible/Flight04Source.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/39_Cockpit.png",
+        "Screenshots/Flight39_climb.png",
+        "Screenshots/Flight39_bank_right.png",
+        "Screenshots/Flight39_bank_left.png",
+        "Screenshots/Flight39_recover.png",
+        "Screenshots/Flight39_complete.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "flight"
+      ],
+      "native_validations": [
+        "flight"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "FL39-05",
+      "group": "Flight39",
+      "finding": "Seven modeled retracting gear/door assemblies",
+      "source_status": "Source geometry/model/control tests recorded; not native flight proof",
+      "source_or_historical_evidence": [
+        "Fixes/05_journey/Flight39/INTEGRATION39.md",
+        "Fixes/05_journey/Flight39/SourceGeometryPass39.json",
+        "Fixes/05_journey/Flight39/ModelFlightPasses39.json",
+        "ArtBible/Flight04Source.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/Flight39_climb.png",
+        "Screenshots/Flight39_bank_right.png",
+        "Screenshots/Flight39_bank_left.png",
+        "Screenshots/Flight39_recover.png",
+        "Screenshots/Flight39_complete.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "flight"
+      ],
+      "native_validations": [
+        "flight"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "FL39-06",
+      "group": "Flight39",
+      "finding": "Actual door/bridge/clearance interlocks",
+      "source_status": "Source geometry/model/control tests recorded; not native flight proof",
+      "source_or_historical_evidence": [
+        "Fixes/05_journey/Flight39/INTEGRATION39.md",
+        "Fixes/05_journey/Flight39/SourceGeometryPass39.json",
+        "Fixes/05_journey/Flight39/ModelFlightPasses39.json",
+        "ArtBible/Flight04Source.json"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "departure_with_carryon"
+      ],
+      "native_validations": [
+        "departure_with_carryon"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "FL39-07",
+      "group": "Flight39",
+      "finding": "Taxi, lineup, takeoff, climb, bank and pitch/yaw driver",
+      "source_status": "Source geometry/model/control tests recorded; not native flight proof",
+      "source_or_historical_evidence": [
+        "Fixes/05_journey/Flight39/INTEGRATION39.md",
+        "Fixes/05_journey/Flight39/SourceGeometryPass39.json",
+        "Fixes/05_journey/Flight39/ModelFlightPasses39.json",
+        "ArtBible/Flight04Source.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/Flight39_crew_close_requested.png",
+        "Screenshots/Flight39_bridge.png",
+        "Screenshots/Flight39_power.png",
+        "Screenshots/Flight39_engine_spool.png",
+        "Screenshots/Flight39_taxi.png",
+        "Screenshots/Flight39_runway_entry.png",
+        "Screenshots/Flight39_lineup.png",
+        "Screenshots/Flight39_takeoff_roll.png",
+        "Screenshots/Flight39_climb.png",
+        "Screenshots/Flight39_bank_right.png",
+        "Screenshots/Flight39_bank_left.png",
+        "Screenshots/Flight39_recover.png",
+        "Screenshots/Flight39_complete.png",
+        "Screenshots/Flight39_WalkingInFlight.png",
+        "Screenshots/Flight39_SeatReturn.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "flight"
+      ],
+      "native_validations": [
+        "flight"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "FL39-08",
+      "group": "Flight39",
+      "finding": "Cockpit/chase/free camera and original local audio",
+      "source_status": "Source geometry/model/control tests recorded; not native flight proof",
+      "source_or_historical_evidence": [
+        "Fixes/05_journey/Flight39/INTEGRATION39.md",
+        "Fixes/05_journey/Flight39/SourceGeometryPass39.json",
+        "Fixes/05_journey/Flight39/ModelFlightPasses39.json",
+        "ArtBible/Flight04Source.json"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [],
+      "candidate_validations": [],
+      "native_validations": [],
+      "evidence_level": "SOURCE_OR_HISTORICAL_LEVEL_CURRENT_NATIVE_RETEST_PENDING"
+    },
+    {
+      "id": "FL39-09",
+      "group": "Flight39",
+      "finding": "Native targeting, collision, onboard walking and performance",
+      "source_status": "Source geometry/model/control tests recorded; not native flight proof",
+      "source_or_historical_evidence": [
+        "Fixes/05_journey/Flight39/INTEGRATION39.md",
+        "Fixes/05_journey/Flight39/SourceGeometryPass39.json",
+        "Fixes/05_journey/Flight39/ModelFlightPasses39.json",
+        "ArtBible/Flight04Source.json"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "flight_runtime_fit"
+      ],
+      "native_validations": [
+        "flight_runtime_fit"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "CH39-01",
+      "group": "Character39",
+      "finding": "Original continuous cast shapes, faces and sculpted hair",
+      "source_status": "Editable meshes, FBXs, pose/contact and roundtrip evidence recorded",
+      "source_or_historical_evidence": [
+        "../../Characters/Revision39/HANDOFF39.txt",
+        "../../Characters/Revision39/ArtBible/FinalBuild39.json",
+        "../../Characters/Revision39/ArtBible/Roundtrip39.json",
+        "../../Characters/Revision39/ArtBible/PlacementTests39.json",
+        "ArtBible/CharacterAssets39.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/53_SecurityGuard.png",
+        "Screenshots/54_PlayerCharacter.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "CH39-02",
+      "group": "Character39",
+      "finding": "Soft eyes, restrained expressions and authored slouch",
+      "source_status": "Editable meshes, FBXs, pose/contact and roundtrip evidence recorded",
+      "source_or_historical_evidence": [
+        "../../Characters/Revision39/HANDOFF39.txt",
+        "../../Characters/Revision39/ArtBible/FinalBuild39.json",
+        "../../Characters/Revision39/ArtBible/Roundtrip39.json",
+        "../../Characters/Revision39/ArtBible/PlacementTests39.json",
+        "ArtBible/CharacterAssets39.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/53_SecurityGuard.png",
+        "Screenshots/54_PlayerCharacter.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "CH39-03",
+      "group": "Character39",
+      "finding": "Tailored garments, guard kit and five player colorways",
+      "source_status": "Editable meshes, FBXs, pose/contact and roundtrip evidence recorded",
+      "source_or_historical_evidence": [
+        "../../Characters/Revision39/HANDOFF39.txt",
+        "../../Characters/Revision39/ArtBible/FinalBuild39.json",
+        "../../Characters/Revision39/ArtBible/Roundtrip39.json",
+        "../../Characters/Revision39/ArtBible/PlacementTests39.json",
+        "ArtBible/CharacterAssets39.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/57_GateCrew.png",
+        "Screenshots/53_SecurityGuard.png",
+        "Screenshots/54_PlayerCharacter.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "CH39-04",
+      "group": "Character39",
+      "finding": "Shared 42-bone rig, seven actions and eye/seat morphs",
+      "source_status": "Editable meshes, FBXs, pose/contact and roundtrip evidence recorded",
+      "source_or_historical_evidence": [
+        "../../Characters/Revision39/HANDOFF39.txt",
+        "../../Characters/Revision39/ArtBible/FinalBuild39.json",
+        "../../Characters/Revision39/ArtBible/Roundtrip39.json",
+        "../../Characters/Revision39/ArtBible/PlacementTests39.json",
+        "ArtBible/CharacterAssets39.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/55_SeatedCharacter.png",
+        "Screenshots/56_CafeCharacter.png",
+        "Screenshots/58_CabinCharacter.png",
+        "Screenshots/59_BusinessCharacter.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "CH39-05",
+      "group": "Character39",
+      "finding": "Bench/caf\u00e9/economy/suite pose contact and fixed-length limb scrutiny",
+      "source_status": "Editable meshes, FBXs, pose/contact and roundtrip evidence recorded",
+      "source_or_historical_evidence": [
+        "../../Characters/Revision39/HANDOFF39.txt",
+        "../../Characters/Revision39/ArtBible/FinalBuild39.json",
+        "../../Characters/Revision39/ArtBible/Roundtrip39.json",
+        "../../Characters/Revision39/ArtBible/PlacementTests39.json",
+        "ArtBible/CharacterAssets39.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/17_A08Interior.png",
+        "Screenshots/25_Gallery.png",
+        "Screenshots/40_Cabin.png",
+        "Screenshots/55_SeatedCharacter.png",
+        "Screenshots/56_CafeCharacter.png",
+        "Screenshots/58_CabinCharacter.png",
+        "Screenshots/59_BusinessCharacter.png",
+        "Screenshots/QA38_ActuallySeated.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "CH39-06",
+      "group": "Character39",
+      "finding": "Current airport chair contact remodeling and placements",
+      "source_status": "Editable meshes, FBXs, pose/contact and roundtrip evidence recorded",
+      "source_or_historical_evidence": [
+        "../../Characters/Revision39/HANDOFF39.txt",
+        "../../Characters/Revision39/ArtBible/FinalBuild39.json",
+        "../../Characters/Revision39/ArtBible/Roundtrip39.json",
+        "../../Characters/Revision39/ArtBible/PlacementTests39.json",
+        "ArtBible/CharacterAssets39.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/55_SeatedCharacter.png",
+        "Screenshots/56_CafeCharacter.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "CH39-07",
+      "group": "Character39",
+      "finding": "Clean guard cap, retained-art checksums and export round trip",
+      "source_status": "Editable meshes, FBXs, pose/contact and roundtrip evidence recorded",
+      "source_or_historical_evidence": [
+        "../../Characters/Revision39/HANDOFF39.txt",
+        "../../Characters/Revision39/ArtBible/FinalBuild39.json",
+        "../../Characters/Revision39/ArtBible/Roundtrip39.json",
+        "../../Characters/Revision39/ArtBible/PlacementTests39.json",
+        "ArtBible/CharacterAssets39.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/53_SecurityGuard.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "CH39-08",
+      "group": "Character39",
+      "finding": "Generated native LOD counts/morphs; visual/FPS review separate",
+      "source_status": "Editable meshes, FBXs, pose/contact and roundtrip evidence recorded",
+      "source_or_historical_evidence": [
+        "../../Characters/Revision39/HANDOFF39.txt",
+        "../../Characters/Revision39/ArtBible/FinalBuild39.json",
+        "../../Characters/Revision39/ArtBible/Roundtrip39.json",
+        "../../Characters/Revision39/ArtBible/PlacementTests39.json",
+        "ArtBible/CharacterAssets39.json"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [
+        "Screenshots/80_PlayerLOD0.png",
+        "Screenshots/81_PlayerLOD1.png",
+        "Screenshots/82_PlayerLOD3.png"
+      ],
+      "candidate_validations": [
+        "character_lod_performance"
+      ],
+      "native_validations": [
+        "character_lod_performance"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "UG43-01",
+      "group": "Whole-scene visual scrutiny43",
+      "finding": "Fitted terminal wall panels and warm material hierarchy",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/06_visual_finish43/README.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/01_Entrance.png",
+        "Screenshots/02_Checkin.png",
+        "Screenshots/13_Concourse.png",
+        "Screenshots/17_A08Interior.png",
+        "Screenshots/23_Cafe.png",
+        "Screenshots/24_CafeService.png",
+        "Screenshots/38_Forecourt.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "UG43-02",
+      "group": "Whole-scene visual scrutiny43",
+      "finding": "Quiet physically scaled floors and distinct lounge carpet",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/06_visual_finish43/Source43Report.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/01_Entrance.png",
+        "Screenshots/02_Checkin.png",
+        "Screenshots/13_Concourse.png",
+        "Screenshots/17_A08Interior.png",
+        "Screenshots/23_Cafe.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "UG43-03",
+      "group": "Whole-scene visual scrutiny43",
+      "finding": "Modeled baggage portals with supported bay glyphs and identities",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/06_visual_finish43/Frozen43.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/02_Checkin.png",
+        "Screenshots/03_BagDrop01.png",
+        "Screenshots/04_BagDrop02.png",
+        "Screenshots/24_CafeService.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "UG43-04",
+      "group": "Whole-scene visual scrutiny43",
+      "finding": "Repaired chair armrest sweeps without collapsed fins",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "../../Characters/Revision39/ArtBible/ChairHardware40_Validation.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/17_A08Interior.png",
+        "Screenshots/55_SeatedCharacter.png",
+        "Screenshots/56_CafeCharacter.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "UG43-05",
+      "group": "Whole-scene visual scrutiny43",
+      "finding": "Continuous window returns without pointed white facets",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/03_airside/Exterior39/Window42_Verification.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/58_CabinCharacter.png",
+        "Screenshots/59_BusinessCharacter.png",
+        "Screenshots/60_WindowClosed.png",
+        "Screenshots/61_WindowOpen.png",
+        "Screenshots/84_WindowTopSeated.png",
+        "Screenshots/85_WindowCornerClose.png",
+        "Screenshots/86_CassetteRackJoin.png",
+        "Screenshots/88_WindowOpenAisle.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "UG43-06",
+      "group": "Whole-scene visual scrutiny43",
+      "finding": "True low lap belts clear of resting hands and wrists",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/03_airside/Exterior39/BusinessBelt41_FinalPoseVerification.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/59_BusinessCharacter.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "UG43-07",
+      "group": "Whole-scene visual scrutiny43",
+      "finding": "Readable overhead controls and safe thin-cover edge rolls",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/03_airside/Exterior39/AircraftFinish42_Verification.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/58_CabinCharacter.png",
+        "Screenshots/60_WindowClosed.png",
+        "Screenshots/61_WindowOpen.png",
+        "Screenshots/84_WindowTopSeated.png",
+        "Screenshots/85_WindowCornerClose.png",
+        "Screenshots/86_CassetteRackJoin.png",
+        "Screenshots/88_WindowOpenAisle.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "UG43-08",
+      "group": "Whole-scene visual scrutiny43",
+      "finding": "Soft luggage with draped handles and canvas-seated zippers",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/03_airside/Exterior39/AircraftFinish42_Verification.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/70_CargoOverview15.png",
+        "Screenshots/71_CargoMixed15.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "UG43-09",
+      "group": "Whole-scene visual scrutiny43",
+      "finding": "Planar cockpit toggle fascia with actual rounded vents",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/03_airside/Exterior39/ConsoleSurface43_Verification.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/39_Cockpit.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "UG43-10",
+      "group": "Whole-scene visual scrutiny43",
+      "finding": "Supported cuffs, blouse edges and smooth seated elbow contacts",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "../../Characters/Revision39/ArtBible/Surface41.json",
+        "../../Characters/Revision39/ArtBible/Surface41_Overlay.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/55_SeatedCharacter.png",
+        "Screenshots/56_CafeCharacter.png",
+        "Screenshots/58_CabinCharacter.png",
+        "Screenshots/59_BusinessCharacter.png",
+        "Screenshots/53_SecurityGuard.png",
+        "Screenshots/54_PlayerCharacter.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "UG43-11",
+      "group": "Whole-scene visual scrutiny43",
+      "finding": "Resolved local self-shadow aliasing while retaining shadows",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "ArtBible/Normals43/ShadowCauseComparison.json",
+        "SourceAssets/shadow43.py"
+      ],
+      "native_capture_files": [
+        "Screenshots/55_SeatedCharacter.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "UG43-12",
+      "group": "Whole-scene visual scrutiny43",
+      "finding": "Varied adjacent static seated passengers without moving routes",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "SourceAssets/cast_variety43.py"
+      ],
+      "native_capture_files": [
+        "Screenshots/17_A08Interior.png",
+        "Screenshots/55_SeatedCharacter.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "UG43-13",
+      "group": "Whole-scene visual scrutiny43",
+      "finding": "Optical material aliases clear from both inside and outside",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "ArtBible/SourceGlazing43.json",
+        "SourceAssets/native_glazing43.py",
+        "SourceAssets/glass39.py"
+      ],
+      "native_capture_files": [
+        "Screenshots/30_BridgeWing.png",
+        "Screenshots/32_Exterior.png",
+        "Screenshots/48_GlassClose.png",
+        "Screenshots/52_NoseContour.png",
+        "Screenshots/58_CabinCharacter.png",
+        "Screenshots/59_BusinessCharacter.png",
+        "Screenshots/72_ExteriorHero15.png",
+        "Screenshots/73_EngineDetail15.png",
+        "Screenshots/74_TailDetail15.png",
+        "Screenshots/60_WindowClosed.png",
+        "Screenshots/61_WindowOpen.png",
+        "Screenshots/78_ExteriorWindowClosed.png",
+        "Screenshots/79_ExteriorWindowOpen.png",
+        "Screenshots/84_WindowTopSeated.png",
+        "Screenshots/85_WindowCornerClose.png",
+        "Screenshots/86_CassetteRackJoin.png",
+        "Screenshots/87_WindowExteriorCorners.png",
+        "Screenshots/88_WindowOpenAisle.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "UG43-14",
+      "group": "Whole-scene visual scrutiny43",
+      "finding": "Smooth pressure-tube shading with original ceiling orientation retained",
+      "source_status": "Implemented; source evidence available",
+      "source_or_historical_evidence": [
+        "Fixes/03_airside/Exterior39/PressureNormals44B_Verification.json",
+        "Fixes/03_airside/Exterior39/PressureNormals44B_RawFBXVerification.json",
+        "ArtBible/Shoulder44BSource.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/30_BridgeWing.png",
+        "Screenshots/32_Exterior.png",
+        "Screenshots/48_GlassClose.png",
+        "Screenshots/49_GearContact.png",
+        "Screenshots/52_NoseContour.png",
+        "Screenshots/72_ExteriorHero15.png",
+        "Screenshots/73_EngineDetail15.png",
+        "Screenshots/74_TailDetail15.png",
+        "Screenshots/78_ExteriorWindowClosed.png",
+        "Screenshots/79_ExteriorWindowOpen.png",
+        "Screenshots/87_WindowExteriorCorners.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "CH39-09",
+      "group": "Character39 follow-up",
+      "finding": "Connected head/neck and arm/wrist/hand skin joins",
+      "source_status": "Source PASS: six connected models,65 posed copies and24 zero-intersection chair fits",
+      "source_or_historical_evidence": [
+        "../../Characters/Revision39/ArtBible/JoinRepair39.json",
+        "ArtBible/Characters09Source.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/55_SeatedCharacter.png",
+        "Screenshots/56_CafeCharacter.png",
+        "Screenshots/57_GateCrew.png",
+        "Screenshots/58_CabinCharacter.png",
+        "Screenshots/59_BusinessCharacter.png",
+        "Screenshots/53_SecurityGuard.png",
+        "Screenshots/54_PlayerCharacter.png"
+      ],
+      "technical_capture_files": [
+        "Screenshots/80_PlayerLOD0.png",
+        "Screenshots/81_PlayerLOD1.png",
+        "Screenshots/82_PlayerLOD3.png"
+      ],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "CH39-10",
+      "group": "Character39 follow-up",
+      "finding": "Metadata-only primary-UV import paths across all six character bases",
+      "source_status": "Source import-copy checks PASS; five adapters plus one already-primary base; geometry/weights/morphs/materials/clips untouched",
+      "source_or_historical_evidence": [
+        "../../Characters/Revision39/ArtBible/UVPrimaryAll39.json",
+        "../../Characters/Revision39/ArtBible/UVPrimaryTests39.json"
+      ],
+      "native_capture_files": [
+        "Screenshots/53_SecurityGuard.png",
+        "Screenshots/54_PlayerCharacter.png"
+      ],
+      "technical_capture_files": [
+        "Screenshots/80_PlayerLOD0.png",
+        "Screenshots/81_PlayerLOD1.png",
+        "Screenshots/82_PlayerLOD3.png"
+      ],
+      "candidate_validations": [
+        "characters"
+      ],
+      "native_validations": [
+        "characters"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "J39-01",
+      "group": "Journey39 follow-up",
+      "finding": "Served queue passengers blocked the security corridor; wait route moved back into check-in",
+      "source_status": "Runtime route changed: first waits[-34.4,-9.2] and[-35.7,-9.2]; visible rigs and collision proxies follow the route",
+      "source_or_historical_evidence": [
+        "../../SkywardAir/UnrealProject/Content/Python/airport_journey38.py",
+        "ArtBible/FlightJourney39.json",
+        "ArtBible/PassJournal39.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/02_Checkin.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "queue_corridor"
+      ],
+      "native_validations": [
+        "queue_corridor"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "J39-02",
+      "group": "Journey39 follow-up",
+      "finding": "Holding a carry-on caused the seat/use action to drop it instead of interacting",
+      "source_status": "Parent reports runtime interaction correction; native seating while holding carry-on retest pending",
+      "source_or_historical_evidence": [
+        "../../SkywardAir/UnrealProject/Content/Python/airport_runtime.py",
+        "ArtBible/FlightJourney39.json",
+        "ArtBible/PassJournal39.md"
+      ],
+      "native_capture_files": [
+        "Screenshots/QA38_ActuallySeated.png"
+      ],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "held_bag_seating"
+      ],
+      "native_validations": [
+        "held_bag_seating"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    },
+    {
+      "id": "J39-03",
+      "group": "Journey39 follow-up",
+      "finding": "A carry-on inside the cabin was falsely treated as an exterior departure obstruction",
+      "source_status": "Parent reports runtime obstruction-classification correction; earlier fresh route failed on Physical luggage01",
+      "source_or_historical_evidence": [
+        "../../SkywardAir/UnrealProject/Content/Python/airport_airside38.py",
+        "ArtBible/FlightJourney39.json",
+        "ArtBible/PassJournal39.md"
+      ],
+      "native_capture_files": [],
+      "technical_capture_files": [],
+      "candidate_validations": [
+        "departure_with_carryon"
+      ],
+      "native_validations": [
+        "departure_with_carryon"
+      ],
+      "evidence_level": "NATIVE_VALIDATED_WITH_NAMED_SCOPE"
+    }
+  ],
+  "mapping_counts": {
+    "rows": 137,
+    "unique_ids": 125,
+    "native_rows": 123,
+    "source_level_rows": 14
+  },
+  "notes": [
+    "Native captures only, from explicit named completed source-bound reports and exact image hashes.",
+    "Capture finding lists illustrate scope; they do not promote source tests to native validation.",
+    "VisualApproval39 must explicitly list reviewed finding IDs and current character-source hash for character findings.",
+    "CH39-09/10 need native visual/import evidence; J39-01/02/03 need focused current-runtime route/seat/departure assertions.",
+    "Forced LOD0/1/3 and character-preview-end frames, plus sparse old-ramp removal proof, are retained in technical_captures rather than public gallery captures.",
+    "Unproven IDs remain source-level. Final selection does not claim no possible defects or a hardware performance guarantee."
+  ]
+}

@@ -1,0 +1,53 @@
+{
+ "fin_runs": [
+  [
+   "landside",
+   -7.9,
+   15.8,
+   26
+  ],
+  [
+   "airside",
+   -11.8,
+   -3.1,
+   10
+  ],
+  [
+   "south",
+   -49,
+   -14.2,
+   39
+  ]
+ ],
+ "fins": 75,
+ "cars": 38,
+ "status": "SUCCESS",
+ "asset": "SM_AP_P48Exterior",
+ "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass48\\ExteriorBuild\\SM_AP_P48Exterior.fbx",
+ "materials": [
+  "MI_AP_P43TOak",
+  "MI_AP_Asphalt",
+  "MI_AP_F39White",
+  "MI_AP_P34Cream",
+  "MI_AP_Soil",
+  "MI_AP_Leaf",
+  "MI_AP_LightLeaf",
+  "MI_AP_P38ASage",
+  "MI_AP_P38ANavy",
+  "MI_AP_P38AGold",
+  "MI_AP_P38AText",
+  "MI_AP_Steel",
+  "MI_AP_DarkSteel",
+  "MI_AP_Rubber",
+  "MI_AP_P43TInk",
+  "MI_AP_Ivory",
+  "MI_AP_P36Terracotta",
+  "MI_AP_Gold",
+  "MI_AP_Teal",
+  "MI_AP_WhiteLED",
+  "MI_AP_RedLED",
+  "MI_AP_P38AOpal"
+ ],
+ "polygons": 29484,
+ "trees": 13
+}

@@ -1,0 +1,52 @@
+{
+  "status": "SUCCESS",
+  "map": "/Game/Maps/L_Plane_Exterior15",
+  "source_sha256": "5cc5782b00f0867ac9708e7b35498b19a938a7ed2fdc60ad307e052ef8a2ea18",
+  "manifest_sha256": "4491123c2232a81806221ed32972c4301176e15b93a55bc665b945bcaef68f0d",
+  "runtime_sha256": "9d2309bd5cee852412c5a9244f0c64ac2922e887db5c0382b8204cd2b0a1d475",
+  "method": "Unmodified standalone viewport Shot after settled native rendering; separate exterior review scene on apron.",
+  "captures": [
+    {
+      "camera": "CAM_Plane_ExteriorHero15",
+      "file": "UE_15_Exterior_Hero_Apron.png",
+      "sha256": "3616d45e8d51ee4cd31425c75059292a7f29b309c6015541f1883701cfeb4a9a",
+      "bytes": 984765
+    },
+    {
+      "camera": "CAM_Plane_ExteriorSide15",
+      "file": "UE_15_Exterior_Profile_Apron.png",
+      "sha256": "642d4cfba09f2ecbd7caaeeaa0f42a7074c7c291b6bf913477ba7e5537f339e4",
+      "bytes": 1003976
+    },
+    {
+      "camera": "CAM_Plane_NoseDetail15",
+      "file": "UE_15_Nose_Apron.png",
+      "sha256": "57d58800527eddb4bc4b0b36287c6658cc8ecae3ec3daf2ec6d219379237771a",
+      "bytes": 1075445
+    },
+    {
+      "camera": "CAM_Plane_EngineDetail15",
+      "file": "UE_15_Engine_Apron.png",
+      "sha256": "4dd493ed37b52699c86163b3237feef0eeaa5c3945f72fc0c1db80fb1dd0c99b",
+      "bytes": 1091990
+    },
+    {
+      "camera": "CAM_Plane_GearDetail15",
+      "file": "UE_15_Gear_Apron.png",
+      "sha256": "39234935a475d4a044b346f85eef73fbb026b9402c9d0c23dc7746760eb0610b",
+      "bytes": 671461
+    },
+    {
+      "camera": "CAM_Plane_TailDetail15",
+      "file": "UE_15_Tail_Apron.png",
+      "sha256": "eee7c60f4dddad5c09e7804483c1a1d384cad7eaa9a68654b8f283b1e0e4ca2c",
+      "bytes": 1094475
+    },
+    {
+      "camera": "CAM_Plane_BrandDetail15",
+      "file": "UE_15_Branding_Apron.png",
+      "sha256": "aaf3a9f4b4b9f3f495fc0de0d6a258a00be8a54353450ac472efe58848234bb5",
+      "bytes": 1008608
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "status": "READY",
+  "pass_id": 10,
+  "revision": 29,
+  "runtime_sha256": "0fc69ff233d58e9da196f5c571316385c4331040c660aa39e9ffb55f8474d9fb",
+  "journey": {
+    "checked_in": false,
+    "bag_accepted": false,
+    "security": false,
+    "boarding": false,
+    "aboard": false
+  },
+  "held": null,
+  "driving": null,
+  "spectator": true,
+  "native_physics_bodies": 17,
+  "events": [
+    {
+      "event": "Room-based airport24 ready",
+      "time_s": 0.25,
+      "zones": 17,
+      "controlled_leaves": 5
+    },
+    {
+      "event": "Clear arrival26 ready",
+      "time_s": 0.2970000000022992,
+      "initial_exit": "checkin",
+      "high_dpi": "project enabled",
+      "profile": "FastTAA"
+    },
+    {
+      "event": "Entrance prototype27 ready",
+      "time_s": 0.2970000000022992,
+      "level": 5,
+      "profile": "Distance27"
+    },
+    {
+      "event": "Spacious check-in29 ready",
+      "time_s": 0.31300000000192085,
+      "queues": 1,
+      "counters": 2,
+      "queue_width_m": 1.9
+    },
+    {
+      "event": "Native tow couplings bound",
+      "time_s": 0.6100000000005821,
+      "count": 2
+    },
+    {
+      "event": "Passenger greeted",
+      "time_s": 1403.2970000000023,
+      "actor": "CH12 Queue passenger 0"
+    },
+    {
+      "event": "Passenger greeted",
+      "time_s": 2068.4850000000006,
+      "actor": "CH12 Information host"
+    },
+    {
+      "event": "Spectator toggled",
+      "time_s": 2071.0790000000015,
+      "enabled": true
+    }
+  ],
+  "frame_statistics": {
+    "frames": 205080,
+    "average_fps": 20.67278844036054,
+    "p95_ms": 51.4063000009628,
+    "maximum_ms": 114.62359999859473
+  },
+  "player_source": [
+    -47.09629481763474,
+    -11.9081612580166,
+    1.62
+  ]
+}

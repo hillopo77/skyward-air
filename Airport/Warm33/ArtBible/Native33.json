@@ -1,0 +1,10 @@
+{
+  "status": "SUCCESS",
+  "started": 1793206264.83609,
+  "map": "/Game/Airport33/L_Airport_Warm33",
+  "finished": 1793206290.8663993,
+  "families": 1,
+  "panels_face_down": true,
+  "skylight": 36.0,
+  "geometry_rebuild": "room mesh only"
+}

@@ -1,0 +1,49 @@
+"""Fixes70: small runtime repairs from the player's Pass69 feedback (Airport38 Pass70).
+
+  gate agent   The A07 boarding receptionist ('CH12 Gate pilot') is drawn by the character pack
+               (another tool's CharacterPack_Oct30) with its 'Red_Suit' model, whose 1 Nov model
+               update broke the skinning: a burgundy sheet of stretched polygons ran from the desk
+               across the gate. The pack's files are left alone; once it has installed, this NPC
+               alone is re-dressed in the pack's working 'Coat_Character' model and that model's
+               own animation set (the player's F7 avatar choices are not touched).
+"""
+import unreal as u
+
+S = dict(done=False, failed=False, step=0, wait=0.0)
+AGENT = 'CH12 Gate pilot'
+BROKEN, GOOD = 'Red_Suit', 'Coat_Character'
+
+
+def tick(airport, dt):
+    """Pass71: swapping the mesh while the renderer was still skinning the old one tripped an engine
+    assertion (SkeletalRenderGPUSkin 'Index == 1') about one start in five. Now: wait a second after the
+    pack installs, hide the agent, swap on the next frame, show it again a frame later."""
+    if S['done'] or S['failed']:
+        return
+    try:
+        import character_pack_runtime as pack
+        if not pack.S.get('installed'):
+            return
+        npc = pack.S['npcs'].get(AGENT)
+        good = next((p for p in pack.S.get('profiles', []) if p['name'] == GOOD), None)
+        if S['step'] == 0:
+            if not npc or not good or npc['profile']['name'] != BROKEN:
+                S['done'] = True; return
+            S['wait'] += dt
+            if S['wait'] < 1.0:
+                return
+            npc['actor'].skeletal_mesh_component.set_visibility(False, True)
+            S['step'] = 1; return
+        c = npc['actor'].skeletal_mesh_component
+        if S['step'] == 1:
+            npc['profile'] = good
+            c.set_skeletal_mesh_asset(good['mesh_obj']) if hasattr(c, 'set_skeletal_mesh_asset') else c.set_skeletal_mesh(good['mesh_obj'], True)
+            npc['last_clip'] = None                                     # the pack replays the idle on its next tick
+            S['step'] = 2; return
+        c.set_visibility(True, True)
+        S['done'] = True
+        u.log('FIXES70: gate agent re-dressed as ' + GOOD)
+    except Exception:
+        S['failed'] = True
+        import traceback
+        u.log_error('Fixes70: ' + traceback.format_exc())

@@ -1,0 +1,34 @@
+{
+  "status": "SUCCESS",
+  "pass_id": 7,
+  "pass_name": "Physical luggage, pickups and mechanical interactions",
+  "captures": [
+    {
+      "file": "Pass07_01_Entrance.png",
+      "sha256": "3342179bce4625c9408ceaf203db2fad3068588ebb7d38fc001acf189951cf25",
+      "camera": "01_Entrance"
+    },
+    {
+      "file": "Pass07_03_Security.png",
+      "sha256": "2e0441b056851883ef5914e6dfff07a7c9adb479dd431ce23eb74f5d43728f7e",
+      "camera": "03_Security"
+    },
+    {
+      "file": "Pass07_06_Gate.png",
+      "sha256": "d6affde1227a89e9a12aec6b01d8430dbff21c6006240bea4d777104966f8acc",
+      "camera": "06_Gate"
+    },
+    {
+      "file": "Pass07_04_Baggage.png",
+      "sha256": "b0ffe0ed9d51593df7f780d614b17c28765f771a42d0b5c3fb95b474858e4ef5",
+      "camera": "04_Baggage"
+    },
+    {
+      "file": "Pass07_09_Apron.png",
+      "sha256": "aa616dd5c695ea9bc4989abbc523c340cbc7ce72a62f9e9faa160c3eec3894af",
+      "camera": "09_Apron"
+    }
+  ],
+  "runtime_sha256": "41a621a6d03bb33412747a37f272d9c7a192d9a34a6f699bb0259b4b863809eb",
+  "native_bodies": 31
+}

@@ -1,0 +1,102 @@
+{
+ "status": "SUCCESS",
+ "downlights": [
+  [
+   "AP38 practical 000 welcome",
+   6600,
+   4800
+  ],
+  [
+   "AP38 practical 001 welcome",
+   6600,
+   4800
+  ],
+  [
+   "AP38 practical 002 checkin_task",
+   8580,
+   4800
+  ],
+  [
+   "AP38 practical 003 checkin_task",
+   8580,
+   4800
+  ],
+  [
+   "AP38 practical 004 checkin_task",
+   8580,
+   4800
+  ],
+  [
+   "AP38 practical 005 checkin_task",
+   8580,
+   4800
+  ],
+  [
+   "AP38 practical 006 checkin_task",
+   8580,
+   4800
+  ],
+  [
+   "AP38 practical 007 checkin_task",
+   8580,
+   4800
+  ],
+  [
+   "AP38 practical 012 circulation",
+   7040,
+   4800
+  ],
+  [
+   "AP38 practical 013 circulation",
+   7040,
+   4800
+  ],
+  [
+   "AP38 practical 014 circulation",
+   7040,
+   4800
+  ],
+  [
+   "AP38 practical 015 circulation",
+   7040,
+   4800
+  ]
+ ],
+ "spawned": [
+  "P51 canopy glow"
+ ],
+ "tall_room_lights": [
+  "AP38 practical 027 lounge",
+  "AP38 practical 028 lounge",
+  "AP38 practical 029 lounge",
+  "AP38 practical 030 lounge",
+  "AP38 practical 031 lounge",
+  "AP38 practical 032 lounge",
+  "AP38 practical 033 lounge",
+  "AP38 practical 034 lounge",
+  "AP38 practical 035 lounge",
+  "AP38 practical 036 lounge",
+  "AP38 practical 059 reclaim_task",
+  "AP38 practical 060 reclaim_task",
+  "AP38 practical 061 reclaim_task",
+  "AP38 practical 062 reclaim_task"
+ ],
+ "mobility": "<ComponentMobility.MOVABLE: 2>",
+ "graded": [
+  "AP38 warm grade entrancefoyer",
+  "AP38 warm grade checkin",
+  "AP38 warm grade landsidecorridor"
+ ],
+ "floor_tint": [
+  [
+   1.0,
+   1.0,
+   1.0
+  ],
+  [
+   0.76,
+   0.71,
+   0.64
+  ]
+ ]
+}

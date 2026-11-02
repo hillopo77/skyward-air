@@ -1,0 +1,477 @@
+{
+  "texture": {
+    "width": 64,
+    "height": 32,
+    "rgb": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "rgbe": [
+      128,
+      128,
+      128,
+      129
+    ],
+    "bytes": 431,
+    "angular_variance": 0.0
+  },
+  "regions": [
+    {
+      "zone": "entrancefoyer",
+      "volume_label": "AP38 warm grade entrancefoyer",
+      "rect": [
+        -48.98,
+        -43.02,
+        -17.98,
+        -8.02
+      ],
+      "height": 3.6,
+      "role": "room_indirect_ambient",
+      "intensity": 0.22,
+      "tint": [
+        1.0,
+        0.98,
+        0.94,
+        1.0
+      ],
+      "blend_radius_cm": 12.0,
+      "priority": 1538.0,
+      "shadow_intent": "preserves direct key occlusion and screen-space contact AO",
+      "cubemap": "T_AP38_NeutralIndirect",
+      "bounds_kind": "camera-local postprocess room region, not world-space light clipping"
+    },
+    {
+      "zone": "checkin",
+      "volume_label": "AP38 warm grade checkin",
+      "rect": [
+        -42.98,
+        -26.02,
+        -17.98,
+        -8.02
+      ],
+      "height": 3.8,
+      "role": "room_indirect_ambient",
+      "intensity": 0.22,
+      "tint": [
+        1.0,
+        0.98,
+        0.94,
+        1.0
+      ],
+      "blend_radius_cm": 12.0,
+      "priority": 1538.0,
+      "shadow_intent": "preserves direct key occlusion and screen-space contact AO",
+      "cubemap": "T_AP38_NeutralIndirect",
+      "bounds_kind": "camera-local postprocess room region, not world-space light clipping"
+    },
+    {
+      "zone": "publicreturn",
+      "volume_label": "AP38 warm grade publicreturn",
+      "rect": [
+        -48.98,
+        -26.02,
+        -21.98,
+        -18.02
+      ],
+      "height": 3.2,
+      "role": "room_indirect_ambient",
+      "intensity": 0.22,
+      "tint": [
+        1.0,
+        0.98,
+        0.94,
+        1.0
+      ],
+      "blend_radius_cm": 12.0,
+      "priority": 1538.0,
+      "shadow_intent": "preserves direct key occlusion and screen-space contact AO",
+      "cubemap": "T_AP38_NeutralIndirect",
+      "bounds_kind": "camera-local postprocess room region, not world-space light clipping"
+    },
+    {
+      "zone": "landsidecorridor",
+      "volume_label": "AP38 warm grade landsidecorridor",
+      "rect": [
+        -48.98,
+        -26.02,
+        -7.98,
+        -4.02
+      ],
+      "height": 3.4,
+      "role": "room_indirect_ambient",
+      "intensity": 0.22,
+      "tint": [
+        1.0,
+        0.98,
+        0.94,
+        1.0
+      ],
+      "blend_radius_cm": 12.0,
+      "priority": 1538.0,
+      "shadow_intent": "preserves direct key occlusion and screen-space contact AO",
+      "cubemap": "T_AP38_NeutralIndirect",
+      "bounds_kind": "camera-local postprocess room region, not world-space light clipping"
+    },
+    {
+      "zone": "security",
+      "volume_label": "AP38 warm grade security",
+      "rect": [
+        -48.98,
+        -36.02,
+        -3.98,
+        9.98
+      ],
+      "height": 3.5,
+      "role": "room_indirect_ambient",
+      "intensity": 0.22,
+      "tint": [
+        1.0,
+        0.98,
+        0.94,
+        1.0
+      ],
+      "blend_radius_cm": 12.0,
+      "priority": 1538.0,
+      "shadow_intent": "preserves direct key occlusion and screen-space contact AO",
+      "cubemap": "T_AP38_NeutralIndirect",
+      "bounds_kind": "camera-local postprocess room region, not world-space light clipping"
+    },
+    {
+      "zone": "recovery",
+      "volume_label": "AP38 warm grade recovery",
+      "rect": [
+        -35.98,
+        -32.02,
+        0.02,
+        9.98
+      ],
+      "height": 3.4,
+      "role": "room_indirect_ambient",
+      "intensity": 0.22,
+      "tint": [
+        1.0,
+        0.98,
+        0.94,
+        1.0
+      ],
+      "blend_radius_cm": 12.0,
+      "priority": 1538.0,
+      "shadow_intent": "preserves direct key occlusion and screen-space contact AO",
+      "cubemap": "T_AP38_NeutralIndirect",
+      "bounds_kind": "camera-local postprocess room region, not world-space light clipping"
+    },
+    {
+      "zone": "concourse",
+      "volume_label": "AP38 warm grade concourse",
+      "rect": [
+        -31.98,
+        -26.02,
+        -3.98,
+        13.98
+      ],
+      "height": 3.4,
+      "role": "room_indirect_ambient",
+      "intensity": 0.22,
+      "tint": [
+        1.0,
+        0.98,
+        0.94,
+        1.0
+      ],
+      "blend_radius_cm": 12.0,
+      "priority": 1538.0,
+      "shadow_intent": "preserves direct key occlusion and screen-space contact AO",
+      "cubemap": "T_AP38_NeutralIndirect",
+      "bounds_kind": "camera-local postprocess room region, not world-space light clipping"
+    },
+    {
+      "zone": "gate07",
+      "volume_label": "AP38 warm grade gate07",
+      "rect": [
+        -22.98,
+        -14.02,
+        -2.98,
+        9.98
+      ],
+      "height": 3.4,
+      "role": "room_indirect_ambient",
+      "intensity": 0.22,
+      "tint": [
+        1.0,
+        0.98,
+        0.94,
+        1.0
+      ],
+      "blend_radius_cm": 12.0,
+      "priority": 1538.0,
+      "shadow_intent": "preserves direct key occlusion and screen-space contact AO",
+      "cubemap": "T_AP38_NeutralIndirect",
+      "bounds_kind": "camera-local postprocess room region, not world-space light clipping"
+    },
+    {
+      "zone": "gate08",
+      "volume_label": "AP38 warm grade gate08",
+      "rect": [
+        -31.98,
+        -24.02,
+        14.02,
+        33.98
+      ],
+      "height": 3.8,
+      "role": "room_indirect_ambient",
+      "intensity": 0.22,
+      "tint": [
+        1.0,
+        0.98,
+        0.94,
+        1.0
+      ],
+      "blend_radius_cm": 12.0,
+      "priority": 1538.0,
+      "shadow_intent": "preserves direct key occlusion and screen-space contact AO",
+      "cubemap": "T_AP38_NeutralIndirect",
+      "bounds_kind": "camera-local postprocess room region, not world-space light clipping"
+    },
+    {
+      "zone": "cafefoyer",
+      "volume_label": "AP38 warm grade cafefoyer",
+      "rect": [
+        -37.98,
+        -32.02,
+        10.02,
+        15.98
+      ],
+      "height": 3.4,
+      "role": "room_indirect_ambient",
+      "intensity": 0.22,
+      "tint": [
+        1.0,
+        0.98,
+        0.94,
+        1.0
+      ],
+      "blend_radius_cm": 12.0,
+      "priority": 1538.0,
+      "shadow_intent": "preserves direct key occlusion and screen-space contact AO",
+      "cubemap": "T_AP38_NeutralIndirect",
+      "bounds_kind": "camera-local postprocess room region, not world-space light clipping"
+    },
+    {
+      "zone": "cafe",
+      "volume_label": "AP38 warm grade cafe",
+      "rect": [
+        -48.98,
+        -32.02,
+        16.02,
+        33.98
+      ],
+      "height": 6.8,
+      "role": "room_indirect_ambient",
+      "intensity": 0.26,
+      "tint": [
+        1.0,
+        0.98,
+        0.94,
+        1.0
+      ],
+      "blend_radius_cm": 12.0,
+      "priority": 1538.0,
+      "shadow_intent": "preserves direct key occlusion and screen-space contact AO",
+      "cubemap": "T_AP38_NeutralIndirect",
+      "bounds_kind": "camera-local postprocess room region, not world-space light clipping"
+    },
+    {
+      "zone": "amenitylobby",
+      "volume_label": "AP38 warm grade amenitylobby",
+      "rect": [
+        -25.98,
+        -23.02,
+        -11.98,
+        -1.02
+      ],
+      "height": 3.0,
+      "role": "room_indirect_ambient",
+      "intensity": 0.22,
+      "tint": [
+        1.0,
+        0.98,
+        0.94,
+        1.0
+      ],
+      "blend_radius_cm": 12.0,
+      "priority": 1538.0,
+      "shadow_intent": "preserves direct key occlusion and screen-space contact AO",
+      "cubemap": "T_AP38_NeutralIndirect",
+      "bounds_kind": "camera-local postprocess room region, not world-space light clipping"
+    },
+    {
+      "zone": "amenities",
+      "volume_label": "AP38 warm grade amenities",
+      "rect": [
+        -22.98,
+        -14.02,
+        -11.98,
+        -3.02
+      ],
+      "height": 2.8,
+      "role": "room_indirect_ambient",
+      "intensity": 0.22,
+      "tint": [
+        1.0,
+        0.98,
+        0.94,
+        1.0
+      ],
+      "blend_radius_cm": 12.0,
+      "priority": 1538.0,
+      "shadow_intent": "preserves direct key occlusion and screen-space contact AO",
+      "cubemap": "T_AP38_NeutralIndirect",
+      "bounds_kind": "camera-local postprocess room region, not world-space light clipping"
+    },
+    {
+      "zone": "operations",
+      "volume_label": "AP38 warm grade operations",
+      "rect": [
+        -48.98,
+        -38.02,
+        10.02,
+        15.98
+      ],
+      "height": 3.0,
+      "role": "room_indirect_ambient",
+      "intensity": 0.22,
+      "tint": [
+        1.0,
+        0.98,
+        0.94,
+        1.0
+      ],
+      "blend_radius_cm": 12.0,
+      "priority": 1538.0,
+      "shadow_intent": "preserves direct key occlusion and screen-space contact AO",
+      "cubemap": "T_AP38_NeutralIndirect",
+      "bounds_kind": "camera-local postprocess room region, not world-space light clipping"
+    },
+    {
+      "zone": "gate07entry",
+      "volume_label": "AP38 warm grade gate07entry",
+      "rect": [
+        -25.98,
+        -23.02,
+        -0.98,
+        9.98
+      ],
+      "height": 3.4,
+      "role": "room_indirect_ambient",
+      "intensity": 0.22,
+      "tint": [
+        1.0,
+        0.98,
+        0.94,
+        1.0
+      ],
+      "blend_radius_cm": 12.0,
+      "priority": 1538.0,
+      "shadow_intent": "preserves direct key occlusion and screen-space contact AO",
+      "cubemap": "T_AP38_NeutralIndirect",
+      "bounds_kind": "camera-local postprocess room region, not world-space light clipping"
+    },
+    {
+      "zone": "baggageservice",
+      "volume_label": "AP38 warm grade baggageservice",
+      "rect": [
+        -25.98,
+        -22.02,
+        -18.48,
+        -12.02
+      ],
+      "height": 3.2,
+      "role": "room_indirect_ambient",
+      "intensity": 0.22,
+      "tint": [
+        1.0,
+        0.98,
+        0.94,
+        1.0
+      ],
+      "blend_radius_cm": 12.0,
+      "priority": 1538.0,
+      "shadow_intent": "preserves direct key occlusion and screen-space contact AO",
+      "cubemap": "T_AP38_NeutralIndirect",
+      "bounds_kind": "camera-local postprocess room region, not world-space light clipping"
+    },
+    {
+      "zone": "arrivals",
+      "volume_label": "AP38 warm grade arrivals",
+      "rect": [
+        -21.98,
+        -14.02,
+        -21.98,
+        -12.02
+      ],
+      "height": 3.6,
+      "role": "room_indirect_ambient",
+      "intensity": 0.22,
+      "tint": [
+        1.0,
+        0.98,
+        0.94,
+        1.0
+      ],
+      "blend_radius_cm": 12.0,
+      "priority": 1538.0,
+      "shadow_intent": "preserves direct key occlusion and screen-space contact AO",
+      "cubemap": "T_AP38_NeutralIndirect",
+      "bounds_kind": "camera-local postprocess room region, not world-space light clipping"
+    },
+    {
+      "zone": "arrivalsreturn",
+      "volume_label": "AP38 warm grade arrivalsreturn",
+      "rect": [
+        -24.98,
+        -22.02,
+        -21.98,
+        -18.52
+      ],
+      "height": 3.6,
+      "role": "room_indirect_ambient",
+      "intensity": 0.22,
+      "tint": [
+        1.0,
+        0.98,
+        0.94,
+        1.0
+      ],
+      "blend_radius_cm": 12.0,
+      "priority": 1538.0,
+      "shadow_intent": "preserves direct key occlusion and screen-space contact AO",
+      "cubemap": "T_AP38_NeutralIndirect",
+      "bounds_kind": "camera-local postprocess room region, not world-space light clipping"
+    },
+    {
+      "zone": "publicreturneast",
+      "volume_label": "AP38 warm grade publicreturneast",
+      "rect": [
+        -25.98,
+        -25.02,
+        -21.98,
+        -18.52
+      ],
+      "height": 3.2,
+      "role": "room_indirect_ambient",
+      "intensity": 0.22,
+      "tint": [
+        1.0,
+        0.98,
+        0.94,
+        1.0
+      ],
+      "blend_radius_cm": 12.0,
+      "priority": 1538.0,
+      "shadow_intent": "preserves direct key occlusion and screen-space contact AO",
+      "cubemap": "T_AP38_NeutralIndirect",
+      "bounds_kind": "camera-local postprocess room region, not world-space light clipping"
+    }
+  ]
+}

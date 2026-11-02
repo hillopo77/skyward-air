@@ -1,0 +1,54 @@
+[
+ [
+  "CH12 Waiting passenger 0",
+  "SkeletalMeshActor",
+  "SkeletalMeshActor_68",
+  [
+   -21.02,
+   8.47,
+   0.0
+  ],
+  null,
+  "<ComponentMobility.MOVABLE: 2>",
+  "/Game/Airport38/L_Airport_Repair38.L_Airport_Repair38:PersistentLevel"
+ ],
+ [
+  "CH12COLL Waiting passenger 0",
+  "StaticMeshActor",
+  "StaticMeshActor_861",
+  [
+   -21.02,
+   8.47,
+   0.92
+  ],
+  null,
+  "<ComponentMobility.MOVABLE: 2>",
+  "/Game/Airport38/L_Airport_Repair38.L_Airport_Repair38:PersistentLevel"
+ ],
+ [
+  "CH12 Waiting passenger 6",
+  "SkeletalMeshActor",
+  "SkeletalMeshActor_74",
+  [
+   -29.53,
+   23.4,
+   0.0
+  ],
+  null,
+  "<ComponentMobility.MOVABLE: 2>",
+  "/Game/Airport38/L_Airport_Repair38.L_Airport_Repair38:PersistentLevel"
+ ],
+ [
+  "CH12COLL Waiting passenger 6",
+  "StaticMeshActor",
+  "StaticMeshActor_867",
+  [
+   -29.53,
+   23.4,
+   0.92
+  ],
+  null,
+  "<ComponentMobility.MOVABLE: 2>",
+  "/Game/Airport38/L_Airport_Repair38.L_Airport_Repair38:PersistentLevel"
+ ]
+]

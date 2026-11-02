@@ -1,0 +1,1996 @@
+{
+ "status": "SUCCESS",
+ "lights": [
+  {
+   "label": "AP38 practical 000 welcome",
+   "cls": "RectLight",
+   "p": [
+    -46.0,
+    -15.5,
+    6.431
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A75D6DB0) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 6600.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C661A2B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "attenuation_radius": 1600.0,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 001 welcome",
+   "cls": "RectLight",
+   "p": [
+    -46.0,
+    -10.5,
+    6.431
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A75D6BD0) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 6600.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66211B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "attenuation_radius": 1600.0,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 002 checkin_task",
+   "cls": "RectLight",
+   "p": [
+    -40.167,
+    -15.5,
+    6.431
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A75D5D70) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 8580.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66316B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "attenuation_radius": 1600.0,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 003 checkin_task",
+   "cls": "RectLight",
+   "p": [
+    -40.167,
+    -10.5,
+    6.431
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A75E9640) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 8580.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66320B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "attenuation_radius": 1600.0,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 004 checkin_task",
+   "cls": "RectLight",
+   "p": [
+    -34.5,
+    -15.5,
+    6.431
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A75E9BE0) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 8580.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C6632AB8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "attenuation_radius": 1600.0,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 005 checkin_task",
+   "cls": "RectLight",
+   "p": [
+    -34.5,
+    -10.5,
+    6.431
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A75EAE50) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 8580.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66334B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "attenuation_radius": 1600.0,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 006 checkin_task",
+   "cls": "RectLight",
+   "p": [
+    -28.833,
+    -15.5,
+    6.431
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A75E8830) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 8580.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C6633EB8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "attenuation_radius": 1600.0,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 007 checkin_task",
+   "cls": "RectLight",
+   "p": [
+    -28.833,
+    -10.5,
+    6.431
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A7648E70) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 8580.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66370B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "attenuation_radius": 1600.0,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 008 exit_circulation",
+   "cls": "RectLight",
+   "p": [
+    -46.125,
+    -20.0,
+    3.031
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A7648F10) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 2800.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C6637AB8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "attenuation_radius": 439.4949951171875,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 009 exit_circulation",
+   "cls": "RectLight",
+   "p": [
+    -40.375,
+    -20.0,
+    3.031
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A7648FB0) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 2800.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66384B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "attenuation_radius": 439.4949951171875,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 010 exit_circulation",
+   "cls": "RectLight",
+   "p": [
+    -34.625,
+    -20.0,
+    3.031
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A7649050) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 2800.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C6638EB8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "attenuation_radius": 439.4949951171875,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 011 exit_circulation",
+   "cls": "RectLight",
+   "p": [
+    -28.875,
+    -20.0,
+    3.031
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A76490F0) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 2800.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66398B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "attenuation_radius": 439.4949951171875,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 012 circulation",
+   "cls": "RectLight",
+   "p": [
+    -46.125,
+    -6.0,
+    6.431
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A76491E0) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 7040.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C663A2B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "attenuation_radius": 1600.0,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 013 circulation",
+   "cls": "RectLight",
+   "p": [
+    -40.375,
+    -6.0,
+    6.431
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A76492D0) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 7040.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C660D9B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "attenuation_radius": 1600.0,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 014 circulation",
+   "cls": "RectLight",
+   "p": [
+    -34.625,
+    -6.0,
+    6.431
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A76493C0) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 7040.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C660E3B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "attenuation_radius": 1600.0,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 015 circulation",
+   "cls": "RectLight",
+   "p": [
+    -28.875,
+    -6.0,
+    6.431
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A76494B0) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 7040.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C660EDB8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "attenuation_radius": 1600.0,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 016 screening_task",
+   "cls": "RectLight",
+   "p": [
+    -45.75,
+    -1.667,
+    3.331
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A7649550) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 4000.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C660F7B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3700.0,
+   "use_temperature": true,
+   "attenuation_radius": 482.9949951171875,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 017 screening_task",
+   "cls": "RectLight",
+   "p": [
+    -45.75,
+    3.0,
+    3.331
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A76495F0) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 4000.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66102B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3700.0,
+   "use_temperature": true,
+   "attenuation_radius": 482.9949951171875,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 018 screening_task",
+   "cls": "RectLight",
+   "p": [
+    -45.75,
+    7.667,
+    3.331
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A7649690) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 4000.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C6610CB8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3700.0,
+   "use_temperature": true,
+   "attenuation_radius": 482.9949951171875,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 019 screening_task",
+   "cls": "RectLight",
+   "p": [
+    -39.25,
+    -1.667,
+    3.331
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A7649730) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 4000.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66116B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3700.0,
+   "use_temperature": true,
+   "attenuation_radius": 482.9949951171875,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 020 screening_task",
+   "cls": "RectLight",
+   "p": [
+    -39.25,
+    3.0,
+    3.331
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A76497D0) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 4000.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66120B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3700.0,
+   "use_temperature": true,
+   "attenuation_radius": 482.9949951171875,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 021 screening_task",
+   "cls": "RectLight",
+   "p": [
+    -39.25,
+    7.667,
+    3.331
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A7649870) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 4000.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C6612AB8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3700.0,
+   "use_temperature": true,
+   "attenuation_radius": 482.9949951171875,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 022 repack_task",
+   "cls": "RectLight",
+   "p": [
+    -34.0,
+    2.5,
+    3.231
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A7649960) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 3000.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66134B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "attenuation_radius": 468.4949951171875,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 023 repack_task",
+   "cls": "RectLight",
+   "p": [
+    -34.0,
+    7.5,
+    3.231
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A7649A50) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 3000.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C6613EB8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "attenuation_radius": 468.4949951171875,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 024 wayfinding",
+   "cls": "RectLight",
+   "p": [
+    -29.0,
+    -1.0,
+    3.231
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A7649B40) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 3300.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66148B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "attenuation_radius": 468.4949951171875,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 025 wayfinding",
+   "cls": "RectLight",
+   "p": [
+    -29.0,
+    5.0,
+    3.231
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A7649C30) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 3300.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66152B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "attenuation_radius": 468.4949951171875,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 027 lounge",
+   "cls": "RectLight",
+   "p": [
+    -20.75,
+    0.25,
+    6.231
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A7649E10) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 7040.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66166B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "attenuation_radius": 1600.0,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 028 lounge",
+   "cls": "RectLight",
+   "p": [
+    -20.75,
+    6.75,
+    6.231
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A7649D20) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 7040.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66170B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "attenuation_radius": 1600.0,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 029 lounge",
+   "cls": "RectLight",
+   "p": [
+    -16.25,
+    0.25,
+    6.231
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A7649F00) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 7040.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C6617AB8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "attenuation_radius": 1600.0,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 030 lounge",
+   "cls": "RectLight",
+   "p": [
+    -16.25,
+    6.75,
+    6.231
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A7649FF0) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 7040.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66184B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "attenuation_radius": 1600.0,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 048 amenity_circulation",
+   "cls": "RectLight",
+   "p": [
+    -24.5,
+    -9.25,
+    2.831
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764A180) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 2300.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C6624DB8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "attenuation_radius": 410.4949951171875,
+   "source_width": 144.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 049 amenity_circulation",
+   "cls": "RectLight",
+   "p": [
+    -24.5,
+    -3.75,
+    2.831
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764A090) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 2300.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66257B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "attenuation_radius": 410.4949951171875,
+   "source_width": 144.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 050 washroom",
+   "cls": "RectLight",
+   "p": [
+    -20.75,
+    -9.75,
+    2.631
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764A220) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 2600.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66261B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "attenuation_radius": 381.4949951171875,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 051 washroom",
+   "cls": "RectLight",
+   "p": [
+    -20.75,
+    -5.25,
+    2.631
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764A310) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 2600.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C6626BB8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "attenuation_radius": 381.4949951171875,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 052 washroom",
+   "cls": "RectLight",
+   "p": [
+    -16.25,
+    -9.75,
+    2.631
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764A400) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 2600.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66275B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "attenuation_radius": 381.4949951171875,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 053 washroom",
+   "cls": "RectLight",
+   "p": [
+    -16.25,
+    -5.25,
+    2.631
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764A4F0) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 2600.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C6627FB8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "attenuation_radius": 381.4949951171875,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 056 lounge_arrival",
+   "cls": "RectLight",
+   "p": [
+    -24.5,
+    1.75,
+    3.231
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764A630) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 2800.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C6629DB8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "attenuation_radius": 468.4949951171875,
+   "source_width": 144.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 057 lounge_arrival",
+   "cls": "RectLight",
+   "p": [
+    -24.5,
+    7.25,
+    3.231
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764A720) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 2800.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C662A7B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "attenuation_radius": 468.4949951171875,
+   "source_width": 144.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 058 baggage_task",
+   "cls": "RectLight",
+   "p": [
+    -24.0,
+    -15.25,
+    3.031
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764A590) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 2800.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C662B1B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3600.0,
+   "use_temperature": true,
+   "attenuation_radius": 439.4949951171875,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 059 reclaim_task",
+   "cls": "RectLight",
+   "p": [
+    -20.0,
+    -19.5,
+    6.231
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764A810) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 8580.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C662BBB8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "attenuation_radius": 1600.0,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 060 reclaim_task",
+   "cls": "RectLight",
+   "p": [
+    -20.0,
+    -14.5,
+    6.231
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764A900) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 8580.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C662C5B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "attenuation_radius": 1600.0,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 061 reclaim_task",
+   "cls": "RectLight",
+   "p": [
+    -16.0,
+    -19.5,
+    6.231
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764A9F0) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 8580.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C662CFB8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "attenuation_radius": 1600.0,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 062 reclaim_task",
+   "cls": "RectLight",
+   "p": [
+    -16.0,
+    -14.5,
+    6.231
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764AAE0) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 8580.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C662D9B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "attenuation_radius": 1600.0,
+   "source_width": 178.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 063 exit_circulation",
+   "cls": "RectLight",
+   "p": [
+    -23.5,
+    -20.25,
+    3.431
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764AB80) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 2300.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C662E3B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "attenuation_radius": 497.4949951171875,
+   "source_width": 144.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 064 exit_circulation",
+   "cls": "RectLight",
+   "p": [
+    -25.5,
+    -20.25,
+    3.031
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764AC20) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 1200.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C662EDB8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "attenuation_radius": 439.4949951171875,
+   "source_width": 40.0,
+   "source_height": 25.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 065 entrance_canopy",
+   "cls": "RectLight",
+   "p": [
+    -51.1,
+    -14.2,
+    3.49
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764ACC0) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 1700.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C662F7B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3200.0,
+   "use_temperature": true,
+   "attenuation_radius": 506.04998779296875,
+   "source_width": 80.0,
+   "source_height": 16.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": false,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 066 entrance_canopy",
+   "cls": "RectLight",
+   "p": [
+    -51.1,
+    -12.5,
+    3.49
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764AD60) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 1700.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66402B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3200.0,
+   "use_temperature": true,
+   "attenuation_radius": 506.04998779296875,
+   "source_width": 80.0,
+   "source_height": 16.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": false,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 067 entrance_canopy",
+   "cls": "RectLight",
+   "p": [
+    -51.1,
+    -10.8,
+    3.49
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764AE00) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 1700.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C6640CB8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3200.0,
+   "use_temperature": true,
+   "attenuation_radius": 506.04998779296875,
+   "source_width": 80.0,
+   "source_height": 16.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": false,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 068 covered_forecourt",
+   "cls": "RectLight",
+   "p": [
+    -58.7,
+    -18.0,
+    3.521
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764AEA0) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 1800.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66416B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "attenuation_radius": 510.5450134277344,
+   "source_width": 153.0,
+   "source_height": 20.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": false,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 069 covered_forecourt",
+   "cls": "RectLight",
+   "p": [
+    -58.7,
+    -12.5,
+    3.521
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764AF40) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 1800.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66420B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "attenuation_radius": 510.5450134277344,
+   "source_width": 153.0,
+   "source_height": 20.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": false,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 070 covered_forecourt",
+   "cls": "RectLight",
+   "p": [
+    -58.7,
+    -6.5,
+    3.521
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764AFE0) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 1800.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C6642AB8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "attenuation_radius": 510.5450134277344,
+   "source_width": 153.0,
+   "source_height": 20.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": false,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 071 covered_forecourt",
+   "cls": "RectLight",
+   "p": [
+    -55.2,
+    -18.0,
+    3.521
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764B080) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 1800.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66434B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "attenuation_radius": 510.5450134277344,
+   "source_width": 153.0,
+   "source_height": 20.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": false,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 072 covered_forecourt",
+   "cls": "RectLight",
+   "p": [
+    -55.2,
+    -12.5,
+    3.521
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764B120) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 1800.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C6643EB8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "attenuation_radius": 510.5450134277344,
+   "source_width": 153.0,
+   "source_height": 20.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": false,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  },
+  {
+   "label": "AP38 practical 073 covered_forecourt",
+   "cls": "RectLight",
+   "p": [
+    -55.2,
+    -6.5,
+    3.521
+   ],
+   "rot": "<Struct 'Rotator' (0x00000000A764B1C0) {pitch: -90.000000, yaw: 0.000000, roll: 0.000000}>",
+   "intensity": 1800.0,
+   "intensity_units": "<LightUnits.LUMENS: 2>",
+   "light_color": "<Struct 'Color' (0x00000000C66448B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "attenuation_radius": 510.5450134277344,
+   "source_width": 153.0,
+   "source_height": 20.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "cast_shadows": false,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 0.1599999964237213
+  }
+ ],
+ "volumes": [
+  {
+   "label": "PostProcessVolume",
+   "priority": 0.0,
+   "blend_radius": 100.0,
+   "blend_weight": 1.0,
+   "unbound": true,
+   "c": [
+    0.0,
+    -0.0,
+    0.0
+   ],
+   "e": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "set": {
+    "auto_exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "bloom_intensity": 0.11999999731779099,
+    "vignette_intensity": 0.0,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  },
+  {
+   "label": "Airport clean daylight grade",
+   "priority": 1000.0,
+   "blend_radius": 100.0,
+   "blend_weight": 1.0,
+   "unbound": true,
+   "c": [
+    0.0,
+    -0.0,
+    0.0
+   ],
+   "e": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "set": {
+    "auto_exposure_bias": 0.0,
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "bloom_intensity": 0.30000001192092896,
+    "vignette_intensity": 0.25,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  },
+  {
+   "label": "Airport26 journey overlay",
+   "priority": 500.0,
+   "blend_radius": 100.0,
+   "blend_weight": 1.0,
+   "unbound": true,
+   "c": [
+    0.0,
+    -0.0,
+    0.0
+   ],
+   "e": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "set": {
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  },
+  {
+   "label": "Entrance27 local surface separation",
+   "priority": 1100.0,
+   "blend_radius": 400.0,
+   "blend_weight": 1.0,
+   "unbound": false,
+   "c": [
+    -46.0,
+    -13.0,
+    1.8
+   ],
+   "e": [
+    2.95,
+    4.95,
+    1.78
+   ],
+   "set": {
+    "bloom_intensity": 0.07000000029802322,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0
+   }
+  },
+  {
+   "label": "Checkin33 warm welcoming grade",
+   "priority": 1200.0,
+   "blend_radius": 400.0,
+   "blend_weight": 1.0,
+   "unbound": false,
+   "c": [
+    -34.5,
+    -13.0,
+    1.9
+   ],
+   "e": [
+    8.45,
+    4.95,
+    1.88
+   ],
+   "set": {
+    "auto_exposure_min_brightness": 5.900000095367432,
+    "auto_exposure_max_brightness": 5.900000095367432,
+    "bloom_intensity": 0.04500000178813934,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0,
+    "indirect_lighting_intensity": 2.0,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  },
+  {
+   "label": "AP38 warm grade entrancefoyer",
+   "priority": 1538.0,
+   "blend_radius": 400.0,
+   "blend_weight": 1.0,
+   "unbound": false,
+   "c": [
+    -46.0,
+    -13.0,
+    1.8
+   ],
+   "e": [
+    3.0,
+    5.0,
+    1.8
+   ],
+   "set": {
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "bloom_intensity": 0.04500000178813934,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  },
+  {
+   "label": "AP38 warm grade checkin",
+   "priority": 1538.0,
+   "blend_radius": 400.0,
+   "blend_weight": 1.0,
+   "unbound": false,
+   "c": [
+    -34.5,
+    -13.0,
+    1.9
+   ],
+   "e": [
+    8.5,
+    5.0,
+    1.9
+   ],
+   "set": {
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "bloom_intensity": 0.04500000178813934,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  },
+  {
+   "label": "AP38 warm grade publicreturn",
+   "priority": 1538.0,
+   "blend_radius": 120.0,
+   "blend_weight": 1.0,
+   "unbound": false,
+   "c": [
+    -37.5,
+    -20.0,
+    1.6
+   ],
+   "e": [
+    11.5,
+    2.0,
+    1.6
+   ],
+   "set": {
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "bloom_intensity": 0.04500000178813934,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  },
+  {
+   "label": "AP38 warm grade landsidecorridor",
+   "priority": 1538.0,
+   "blend_radius": 400.0,
+   "blend_weight": 1.0,
+   "unbound": false,
+   "c": [
+    -37.5,
+    -6.0,
+    1.7
+   ],
+   "e": [
+    11.5,
+    2.0,
+    1.7
+   ],
+   "set": {
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "bloom_intensity": 0.04500000178813934,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  },
+  {
+   "label": "AP38 warm grade security",
+   "priority": 1538.0,
+   "blend_radius": 120.0,
+   "blend_weight": 1.0,
+   "unbound": false,
+   "c": [
+    -42.5,
+    3.0,
+    1.75
+   ],
+   "e": [
+    6.5,
+    7.0,
+    1.75
+   ],
+   "set": {
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "bloom_intensity": 0.04500000178813934,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  },
+  {
+   "label": "AP38 warm grade recovery",
+   "priority": 1538.0,
+   "blend_radius": 120.0,
+   "blend_weight": 1.0,
+   "unbound": false,
+   "c": [
+    -34.0,
+    5.0,
+    1.7
+   ],
+   "e": [
+    2.0,
+    5.0,
+    1.7
+   ],
+   "set": {
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "bloom_intensity": 0.04500000178813934,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  },
+  {
+   "label": "AP38 warm grade concourse",
+   "priority": 1538.0,
+   "blend_radius": 120.0,
+   "blend_weight": 1.0,
+   "unbound": false,
+   "c": [
+    -29.0,
+    5.0,
+    1.7
+   ],
+   "e": [
+    3.0,
+    9.0,
+    1.7
+   ],
+   "set": {
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "bloom_intensity": 0.04500000178813934,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  },
+  {
+   "label": "AP38 warm grade gate07",
+   "priority": 1538.0,
+   "blend_radius": 120.0,
+   "blend_weight": 1.0,
+   "unbound": false,
+   "c": [
+    -18.5,
+    3.5,
+    1.7
+   ],
+   "e": [
+    4.5,
+    6.5,
+    1.7
+   ],
+   "set": {
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "bloom_intensity": 0.04500000178813934,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  },
+  {
+   "label": "AP38 warm grade gate08",
+   "priority": 1538.0,
+   "blend_radius": 120.0,
+   "blend_weight": 1.0,
+   "unbound": false,
+   "c": [
+    -28.0,
+    24.0,
+    1.9
+   ],
+   "e": [
+    4.0,
+    10.0,
+    1.9
+   ],
+   "set": {
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "bloom_intensity": 0.04500000178813934,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  },
+  {
+   "label": "AP38 warm grade cafefoyer",
+   "priority": 1538.0,
+   "blend_radius": 120.0,
+   "blend_weight": 1.0,
+   "unbound": false,
+   "c": [
+    -35.0,
+    13.0,
+    1.7
+   ],
+   "e": [
+    3.0,
+    3.0,
+    1.7
+   ],
+   "set": {
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "bloom_intensity": 0.04500000178813934,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  },
+  {
+   "label": "AP38 warm grade cafe",
+   "priority": 1538.0,
+   "blend_radius": 120.0,
+   "blend_weight": 1.0,
+   "unbound": false,
+   "c": [
+    -40.5,
+    25.0,
+    3.4
+   ],
+   "e": [
+    8.5,
+    9.0,
+    3.4
+   ],
+   "set": {
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "bloom_intensity": 0.04500000178813934,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  },
+  {
+   "label": "AP38 warm grade amenitylobby",
+   "priority": 1538.0,
+   "blend_radius": 120.0,
+   "blend_weight": 1.0,
+   "unbound": false,
+   "c": [
+    -24.5,
+    -6.5,
+    1.5
+   ],
+   "e": [
+    1.5,
+    5.5,
+    1.5
+   ],
+   "set": {
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "bloom_intensity": 0.04500000178813934,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  },
+  {
+   "label": "AP38 warm grade amenities",
+   "priority": 1538.0,
+   "blend_radius": 120.0,
+   "blend_weight": 1.0,
+   "unbound": false,
+   "c": [
+    -18.5,
+    -7.5,
+    1.4
+   ],
+   "e": [
+    4.5,
+    4.5,
+    1.4
+   ],
+   "set": {
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "bloom_intensity": 0.04500000178813934,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  },
+  {
+   "label": "AP38 warm grade operations",
+   "priority": 1538.0,
+   "blend_radius": 120.0,
+   "blend_weight": 1.0,
+   "unbound": false,
+   "c": [
+    -43.5,
+    13.0,
+    1.5
+   ],
+   "e": [
+    5.5,
+    3.0,
+    1.5
+   ],
+   "set": {
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "bloom_intensity": 0.04500000178813934,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  },
+  {
+   "label": "AP38 warm grade gate07entry",
+   "priority": 1538.0,
+   "blend_radius": 120.0,
+   "blend_weight": 1.0,
+   "unbound": false,
+   "c": [
+    -24.5,
+    4.5,
+    1.7
+   ],
+   "e": [
+    1.5,
+    5.5,
+    1.7
+   ],
+   "set": {
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "bloom_intensity": 0.04500000178813934,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  },
+  {
+   "label": "AP38 warm grade baggageservice",
+   "priority": 1538.0,
+   "blend_radius": 120.0,
+   "blend_weight": 1.0,
+   "unbound": false,
+   "c": [
+    -24.0,
+    -15.25,
+    1.6
+   ],
+   "e": [
+    2.0,
+    3.25,
+    1.6
+   ],
+   "set": {
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "bloom_intensity": 0.04500000178813934,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  },
+  {
+   "label": "AP38 warm grade arrivals",
+   "priority": 1538.0,
+   "blend_radius": 120.0,
+   "blend_weight": 1.0,
+   "unbound": false,
+   "c": [
+    -18.0,
+    -17.0,
+    1.8
+   ],
+   "e": [
+    4.0,
+    5.0,
+    1.8
+   ],
+   "set": {
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "bloom_intensity": 0.04500000178813934,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  },
+  {
+   "label": "AP38 warm grade arrivalsreturn",
+   "priority": 1538.0,
+   "blend_radius": 120.0,
+   "blend_weight": 1.0,
+   "unbound": false,
+   "c": [
+    -23.5,
+    -20.25,
+    1.8
+   ],
+   "e": [
+    1.5,
+    1.75,
+    1.8
+   ],
+   "set": {
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "bloom_intensity": 0.04500000178813934,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  },
+  {
+   "label": "AP38 warm grade publicreturneast",
+   "priority": 1538.0,
+   "blend_radius": 120.0,
+   "blend_weight": 1.0,
+   "unbound": false,
+   "c": [
+    -25.5,
+    -20.25,
+    1.6
+   ],
+   "e": [
+    0.5,
+    1.75,
+    1.6
+   ],
+   "set": {
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "bloom_intensity": 0.04500000178813934,
+    "ambient_occlusion_intensity": 0.550000011920929,
+    "ambient_occlusion_radius": 110.0,
+    "dynamic_global_illumination_method": "<DynamicGlobalIlluminationMethod.NONE: 0>"
+   }
+  }
+ ],
+ "world": [
+  {
+   "label": "SkyAtmosphere",
+   "cls": "SkyAtmosphere"
+  },
+  {
+   "label": "Airport daylight",
+   "cls": "DirectionalLight",
+   "p": [
+    0.0,
+    -0.0,
+    20.0
+   ],
+   "rot": "<Struct 'Rotator' (0x0000000096E68880) {pitch: -40.000000, yaw: -40.000000, roll: -0.000000}>",
+   "intensity": 300.0,
+   "light_color": "<Struct 'Color' (0x00000000C59074B8) {b: 255, g: 255, r: 255, a: 255}>",
+   "temperature": 6500.0,
+   "use_temperature": false,
+   "cast_shadows": true,
+   "indirect_lighting_intensity": 1.0,
+   "volumetric_scattering_intensity": 1.0,
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "specular_scale": 1.0
+  },
+  {
+   "label": "Airport hemisphere fill",
+   "cls": "SkyLight"
+  },
+  {
+   "label": "Airport hemisphere fill",
+   "cls": "SkyLight",
+   "intensity": 36.0,
+   "light_color": "<Struct 'Color' (0x00000000C5A27AB8) {b: 248, g: 253, r: 255, a: 255}>",
+   "source_type": "<SkyLightSourceType.SLS_SPECIFIED_CUBEMAP: 1>",
+   "indirect_lighting_intensity": 1.0,
+   "lower_hemisphere_color": "<Struct 'LinearColor' (0x00000000C5A27B18) {r: 0.000000, g: 0.000000, b: 0.000000, a: 1.000000}>",
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "real_time_capture": false
+  }
+ ]
+}

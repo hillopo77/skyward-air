@@ -1,0 +1,313 @@
+{
+  "status": "SUCCESS",
+  "phase": "steps",
+  "step": 63,
+  "elapsed_s": 55.09400000000005,
+  "checks": [
+    {
+      "name": "Gate rejects boarding without check-in",
+      "passed": true
+    },
+    {
+      "name": "Bag drop requires check-in",
+      "passed": true
+    },
+    {
+      "name": "Spectator inside aircraft does not count as boarding",
+      "passed": true
+    },
+    {
+      "name": "Airfield position cannot count as cabin boarding",
+      "passed": true
+    },
+    {
+      "name": "Usable pickup target Physical luggage 01",
+      "passed": true,
+      "selected": "Physical luggage 01",
+      "visible": true
+    },
+    {
+      "name": "Suitcase picked up through interaction",
+      "passed": true
+    },
+    {
+      "name": "Usable checkin target Check-in desk 01",
+      "passed": true,
+      "selected": "Check-in desk 01",
+      "visible": true
+    },
+    {
+      "name": "Check-in issued a real journey ticket",
+      "passed": true
+    },
+    {
+      "name": "Usable bagdrop target Bag drop belt 01",
+      "passed": true,
+      "selected": "Bag drop belt 01",
+      "visible": true
+    },
+    {
+      "name": "Checked bag is a native physical body on the belt",
+      "passed": true
+    },
+    {
+      "name": "Accepted suitcase is transported by conveyor forces",
+      "passed": true,
+      "travel_m": 0.5236386793781751
+    },
+    {
+      "name": "Usable security target Security portal 01",
+      "passed": true,
+      "selected": "Security portal 01",
+      "visible": true
+    },
+    {
+      "name": "Full security traversal cleared the ticket",
+      "passed": true
+    },
+    {
+      "name": "Usable boarding target Gate A08 boarding desk",
+      "passed": true,
+      "selected": "Gate A08 boarding desk",
+      "visible": true
+    },
+    {
+      "name": "Gate A08 rejects an A07 boarding pass",
+      "passed": true
+    },
+    {
+      "name": "Usable boarding target Gate A07 boarding desk",
+      "passed": true,
+      "selected": "Gate A07 boarding desk",
+      "visible": true
+    },
+    {
+      "name": "Gate opens after validated boarding pass",
+      "passed": true
+    },
+    {
+      "name": "Both boarding door leaves actually open",
+      "passed": true
+    },
+    {
+      "name": "Real bridge and door traversal registers boarding",
+      "passed": true
+    },
+    {
+      "name": "Assigned economy seat is visible from the aisle",
+      "passed": true
+    },
+    {
+      "name": "Economy 03E can be entered and occupied",
+      "passed": true
+    },
+    {
+      "name": "Standing restores normal camera height",
+      "passed": true
+    },
+    {
+      "name": "Assigned economy seat is visible from the aisle",
+      "passed": true
+    },
+    {
+      "name": "Economy 03E can be entered and occupied",
+      "passed": true
+    },
+    {
+      "name": "Main journey used continuous movement without teleports",
+      "passed": true,
+      "resets": 0
+    },
+    {
+      "name": "Player is seated aboard the aircraft",
+      "passed": true
+    }
+  ],
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\01_Entrance.png",
+      "sha256": "0d256278e570addb92c14609c9aba8cc364abec6ac1f78355705f15519482912",
+      "name": "01_Entrance",
+      "player": [
+        -53.0,
+        -12.5,
+        1.62
+      ],
+      "stage": "checkin"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\02_PhysicalSuitcase.png",
+      "sha256": "a84de97c2e0e5cdfc22bf498af8382f2222adbb3f57f626f714f337fbd0f11cb",
+      "name": "02_PhysicalSuitcase",
+      "player": [
+        -46.308744493937205,
+        -18.569082734647573,
+        1.62
+      ],
+      "stage": "checkin"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\03_CheckInPass.png",
+      "sha256": "16590cd2c74b052a7d29dc662fccf76b8e9733e2f3d4d8ee8e993409ddcee13e",
+      "name": "03_CheckInPass",
+      "player": [
+        -43.204521506106886,
+        -13.301381350187965,
+        1.62
+      ],
+      "stage": "bagdrop_security"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\04_BagAccepted.png",
+      "sha256": "058687f08bfb16fa3a3fb07dd0e875f1270b3771d2040ba43682f06a1d57e90d",
+      "name": "04_BagAccepted",
+      "player": [
+        -41.16452525052101,
+        -13.300006852383593,
+        1.62
+      ],
+      "stage": "bagdrop_security"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\05_SecurityCleared.png",
+      "sha256": "e1359243d3aa97c932ffc1aad774d78086c495e3cfa417d3b7c07604d5ad12d5",
+      "name": "05_SecurityCleared",
+      "player": [
+        -41.001530470087545,
+        -2.2005767497928157,
+        1.62
+      ],
+      "stage": "gate"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\06_GateOpen.png",
+      "sha256": "7c24d9847478481e780b209bcf15ebfca0e5413a6c8d1f19f91e8c5b308730a7",
+      "name": "06_GateOpen",
+      "player": [
+        -18.50002093924144,
+        -1.7964687576995229,
+        1.62
+      ],
+      "stage": "jetbridge"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\07_Jetbridge.png",
+      "sha256": "a9962f2c9877280b90b0c7143dad2aa7dfb6ff4455206f68ad096554e6ed3ea9",
+      "name": "07_Jetbridge",
+      "player": [
+        -7.182704872782717,
+        0.674802769232861,
+        1.62
+      ],
+      "stage": "jetbridge"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\08_Aboard.png",
+      "sha256": "965b20fe67ce583fe73f6c9f12e42163067a66b06681af526e7df2ee1926674d",
+      "name": "08_Aboard",
+      "player": [
+        -1.109483898363291,
+        0.6749934237448956,
+        1.62
+      ],
+      "stage": "aboard"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\09_Seated.png",
+      "sha256": "152fdec70f7e83acb01b2d66498fefe597a61df0ffc89642920636a5b94c334e",
+      "name": "09_Seated",
+      "player": [
+        0.3449999988079071,
+        14.135000190734864,
+        1.28
+      ],
+      "stage": "seated"
+    }
+  ],
+  "continuous_walk": true,
+  "main_route_resets": 0,
+  "ticket": {
+    "id": "SW-SA107-LOCAL-01",
+    "flight": "SA107",
+    "destination": "Azure Bay",
+    "gate": "A07",
+    "cabin": "Economy",
+    "seat": "03E",
+    "checked_bags": [
+      "Physical luggage 01"
+    ],
+    "security_cleared": true,
+    "gate_scanned": true,
+    "aboard": true
+  },
+  "journey": {
+    "checked_in": true,
+    "bag_accepted": true,
+    "security": true,
+    "boarding": true,
+    "aboard": true
+  },
+  "seat": "Economy seat 03E12",
+  "events": [
+    {
+      "event": "Continuous passenger journey started",
+      "elapsed_s": 3.8599999999999
+    },
+    {
+      "event": "Boarding pass issued",
+      "elapsed_s": 12.5,
+      "actor": "Check-in desk 01"
+    },
+    {
+      "event": "Bag placement requested",
+      "elapsed_s": 14.687999999999874,
+      "actor": "Physical luggage 01"
+    },
+    {
+      "event": "Suitcase placed using native physics",
+      "elapsed_s": 15.562999999999874,
+      "actor": "Physical luggage 01"
+    },
+    {
+      "event": "Checked suitcase accepted on physical belt",
+      "elapsed_s": 15.562999999999874,
+      "actor": "Physical luggage 01",
+      "belt": "Bag drop belt 01"
+    },
+    {
+      "event": "Security cleared by full portal traversal",
+      "elapsed_s": 23.202999999999975,
+      "lane": 0
+    },
+    {
+      "event": "Boarding pass validated at A07",
+      "elapsed_s": 38.8599999999999
+    },
+    {
+      "event": "Aircraft boarded through the actual door",
+      "elapsed_s": 46.562999999999874
+    },
+    {
+      "event": "Aircraft seat occupied",
+      "elapsed_s": 54.6719999999998,
+      "actor": "Economy seat 03E12",
+      "title": "Economy 03E"
+    },
+    {
+      "event": "Passenger stood up aboard",
+      "elapsed_s": 55.01599999999985
+    },
+    {
+      "event": "Aircraft seat occupied",
+      "elapsed_s": 55.0469999999998,
+      "actor": "Economy seat 03E12",
+      "title": "Economy 03E"
+    }
+  ],
+  "dependencies": {
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_journey22_qa.py": "cd8ae9a01c0371f163e98eac83ae89120d16cf3c7af067c20c9e71dac60b2d06",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_journey22.py": "d6823d40706ec3e8511fb9d6f3bfe7e58f7dc71cfffb9a177276d6b96105312e",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_runtime.py": "651c63c3a0ac06272f8c7e3767bf7588f7f41c696aa805bb61cabbca94bfa10e",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\characters12_runtime.py": "a73f87bb0b924b2b9bd330fc0567e2eb5102c438cac57816d530897fd628ad30"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "Foyer warm envelope25": {
+    "transform": "<Struct 'Transform' (0x000000009FDF7150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+    "bounds": "(<Struct 'Vector' (0x00000000A67CBBC0) {x: -4594.500000, y: 1300.000031, z: 190.000000}>, <Struct 'Vector' (0x00000000A67A8150) {x: 303.500000, y: 497.999969, z: 190.000000}>)",
+    "materials": [
+      "/Game/Airport27/P5/Materials/MI_AP_P27Plaster.MI_AP_P27Plaster",
+      "/Game/Airport27/P5/Materials/MI_AP_P27Navy.MI_AP_P27Navy",
+      "/Game/Airport27/P5/Materials/MI_AP_P27Rubber.MI_AP_P27Rubber",
+      "/Game/Airport27/P5/Materials/MI_AP_P27Walnut.MI_AP_P27Walnut",
+      "/Game/Airport27/P5/Materials/MI_AP_P27Oak.MI_AP_P27Oak",
+      "/Game/Airport27/P5/Materials/MI_AP_P27Ceiling.MI_AP_P27Ceiling",
+      "/Game/Airport27/P5/Materials/MI_AP_P27Brass.MI_AP_P27Brass",
+      "/Game/Airport27/P5/Materials/MI_AP_P27Steel.MI_AP_P27Steel"
+    ]
+  },
+  "Foyer signs clock and practicals25": {
+    "transform": "<Struct 'Transform' (0x000000009FDF7150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+    "bounds": "(<Struct 'Vector' (0x00000000A67A8150) {x: -4505.000000, y: 1345.349976, z: 297.650002}>, <Struct 'Vector' (0x00000000A67A8600) {x: 177.500000, y: 436.349976, z: 64.849998}>)",
+    "materials": [
+      "/Game/Airport27/P5/Materials/MI_AP_P27Navy.MI_AP_P27Navy",
+      "/Game/Airport27/P5/Materials/MI_AP_P27Steel.MI_AP_P27Steel",
+      "/Game/Airport27/P5/Materials/MI_AP_P27Cream.MI_AP_P27Cream",
+      "/Game/Airport27/P5/Materials/MI_AP_P27LED.MI_AP_P27LED",
+      "/Game/Airport27/P5/Materials/MI_AP_P27SignHeader.MI_AP_P27SignHeader",
+      "/Game/Airport27/P5/Materials/MI_AP_P27Rubber.MI_AP_P27Rubber"
+    ]
+  },
+  "Clear arrival route26": {
+    "transform": "<Struct 'Transform' (0x000000009FDF7150) {rotation: {x: 0.000000, y: 0.000000, z: 0.000000, w: 1.000000}, translation: {x: 0.000000, y: 0.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+    "bounds": "(<Struct 'Vector' (0x00000000A67A8150) {x: -3863.250000, y: 824.749924, z: 180.000000}>, <Struct 'Vector' (0x00000000A67A8600) {x: 968.250000, y: 696.250076, z: 180.000000}>)",
+    "materials": [
+      "/Game/Airport27/P5/Materials/MI_AP_P27Plaster.MI_AP_P27Plaster",
+      "/Game/Airport27/P5/Materials/MI_AP_P27Navy.MI_AP_P27Navy",
+      "/Game/Airport27/P5/Materials/MI_AP_P27Oak.MI_AP_P27Oak",
+      "/Game/Airport27/P5/Materials/MI_AP_P27Walnut.MI_AP_P27Walnut",
+      "/Game/Airport26/Materials/MI_AP_C26Gold.MI_AP_C26Gold",
+      "/Game/Airport26/Materials/MI_AP_C26Blue.MI_AP_C26Blue",
+      "/Game/Airport26/Materials/MI_AP_C26Ink.MI_AP_C26Ink",
+      "/Game/Airport26/Materials/MI_AP_C26Cream.MI_AP_C26Cream",
+      "/Game/Airport27/P5/Materials/MI_AP_P27SignWelcome.MI_AP_P27SignWelcome",
+      "/Game/Airport27/P5/Materials/MI_AP_P27SignStart.MI_AP_P27SignStart",
+      "/Game/Airport27/P5/Materials/MI_AP_P27Steel.MI_AP_P27Steel"
+    ]
+  },
+  "Safety station 0": {
+    "transform": "<Struct 'Transform' (0x000000009FDF7150) {rotation: {x: 0.000000, y: -0.000000, z: 0.707107, w: 0.707107}, translation: {x: -4320.000000, y: 1715.000000, z: 0.000000}, scale3d: {x: 1.000000, y: 1.000000, z: 1.000000}}>",
+    "bounds": "(<Struct 'Vector' (0x00000000A67A8600) {x: -4329.500000, y: 1715.000000, z: 83.395699}>, <Struct 'Vector' (0x00000000A67A8510) {x: 35.000000, y: 36.000000, z: 83.395699}>)",
+    "materials": [
+      "/Game/Airport27/P5/Materials/MI_AP_P27Navy.MI_AP_P27Navy",
+      "/Game/Airport27/P5/Materials/MI_AP_P27Brass.MI_AP_P27Brass",
+      "/Game/Airport27/P5/Materials/MI_AP_P27Cream.MI_AP_P27Cream",
+      "/Game/Airport27/P5/Materials/MI_AP_P27Rubber.MI_AP_P27Rubber",
+      "/Game/Airport27/P5/Materials/MI_AP_P27Steel.MI_AP_P27Steel"
+    ]
+  },
+  "SignStart": {
+    "parent": "/Game/Airport27/Materials/M_Print27.M_Print27",
+    "emission": 0.8500000238418579
+  },
+  "SignHeader": {
+    "parent": "/Game/Airport27/Materials/M_Print27.M_Print27",
+    "emission": 0.8500000238418579
+  },
+  "FlightBoard": {
+    "parent": "/Game/Airport27/Materials/M_Print27.M_Print27",
+    "emission": 0.699999988079071
+  }
+}

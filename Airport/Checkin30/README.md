@@ -1,0 +1,9 @@
+# Check-in craft revision30
+
+Run Checkin30.cmd opens this room directly. Main Run Airport still starts at the original entrance. Press E at the queue marker to join. Three passengers advance, your place is saved, and the objective calls you to Desk01. Staffed desks reject queue jumping; self-service kiosks remain usable. Check-in, physical bag drop and onward security routing use the existing airport journey.
+
+The wider29 layout is retained. Eight changed/adapted families improve the service desks, monitor placement, captured switches and reader details, service alcoves, retained headers, navy textile queue belts, turned metal posts, compact entry marker, floor fields, acoustic ceiling coffers and indirect/practical light. Original graphic faces use matching physical aspect ratios; important print textures remain resident. Waiting furniture gains a supported table and charging module. Existing character models are reused.
+
+Editable master: Airport_Checkin30.blend. Native map: /Game/Airport30/L_Airport_Checkin30. SourceAssets/prepare30.py authors layout and original bitmap graphics; model30.py preserves editable geometry/modifiers; native30.py updates the affected kit in the separate map. Run build_native30.py after exporting. verify30.py performs a focused room walk and takes six raw1920×1080 viewport images in one engine session; review30.py validates hashes and generates the gallery. RecoveryBefore30 preserves the launcher and affected runtime sources. Prior maps and sources remain separate.
+
+The queue is local scripted gameplay, not general crowd navigation. Moving passengers pause near the player and their departing body proxies are nonblocking. Character art, full-airport navigation AI, standalone packaging and broader airport art remain separate work. The focused checks do not certify sustained FPS or production-perfect assets. The preview requires the installed local engine.

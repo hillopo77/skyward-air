@@ -1,0 +1,39 @@
+{
+ "status": "SUCCESS",
+ "started": 1793456688.5936143,
+ "notes": [],
+ "slots": [
+  {
+   "slot": 0,
+   "name": "MI_AP_F39Field",
+   "material": "MI_AP_F39Field"
+  }
+ ],
+ "mesh_bounds_m": {
+  "x": [
+   -3850.0,
+   3850.0
+  ],
+  "y_source": [
+   -3850.0,
+   3850.0
+  ],
+  "z": [
+   -3.83,
+   -0.13
+  ]
+ },
+ "placed": {
+  "actor": "Airport46 ground skirt",
+  "centre_m": [
+   0.0,
+   -0.0,
+   -1.98
+  ],
+  "extent_m": [
+   3850.0,
+   3850.0,
+   1.85
+  ]
+ }
+}

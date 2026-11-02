@@ -1,0 +1,40 @@
+{
+  "status": "SUCCESS",
+  "license": "CC0-1.0",
+  "props": [
+    {
+      "asset": "CoffeeCart_01",
+      "export_id": "SM_AP_PH_CoffeeCart24",
+      "vertices": 15678,
+      "size": [
+        2.1676368713378906,
+        1.0732901096343994,
+        1.7176724672317505
+      ],
+      "anchor": "ground"
+    },
+    {
+      "asset": "security_camera_02",
+      "export_id": "SM_AP_PH_Camera24",
+      "vertices": 6666,
+      "size": [
+        0.14066612720489502,
+        0.3937917649745941,
+        0.2085888683795929
+      ],
+      "anchor": "wall"
+    },
+    {
+      "asset": "potted_plant_04",
+      "export_id": "SM_AP_PH_Succulent24",
+      "vertices": 4968,
+      "size": [
+        0.16788631677627563,
+        0.18475142121315002,
+        0.26745766401290894
+      ],
+      "anchor": "ground"
+    }
+  ],
+  "changes": "Original modeled forms and UVs retained; restrained satin materials; camera rig baked to a static pose; pot is a physical pickup"
+}

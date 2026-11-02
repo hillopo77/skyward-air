@@ -1,0 +1,7 @@
+{
+  "status": "PASS",
+  "tests": 12,
+  "failures": 0,
+  "errors": 0,
+  "scope": "pure math, real old-plane regression, light containment and mocked runtime contracts; native images/performance pending"
+}

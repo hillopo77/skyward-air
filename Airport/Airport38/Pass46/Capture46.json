@@ -1,0 +1,187 @@
+{
+  "status": "SUCCESS",
+  "step": 12,
+  "total": 12,
+  "captures": [
+    {
+      "name": "A1_forecourt_approach",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass46\\Captures\\A1_forecourt_approach.png",
+      "eye": [
+        -58.0,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -49.0,
+        -12.5,
+        1.8
+      ],
+      "sha256": "52737b10cdfdcc4eea7afcf1306e6e35114ae1b2cf6756b1e0006b7166f17ed3"
+    },
+    {
+      "name": "A2_forecourt_north",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass46\\Captures\\A2_forecourt_north.png",
+      "eye": [
+        -52.0,
+        -4.0,
+        1.62
+      ],
+      "target": [
+        -56.0,
+        12.0,
+        2.4
+      ],
+      "sha256": "0868075bde7fd4f81bd8ee0db26d4050a7b5f3faa29f5524ee6fe7cc2cbdf377"
+    },
+    {
+      "name": "A3_forecourt_shelter",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass46\\Captures\\A3_forecourt_shelter.png",
+      "eye": [
+        -53.5,
+        -16.0,
+        1.62
+      ],
+      "target": [
+        -57.5,
+        -10.0,
+        1.4
+      ],
+      "sha256": "9f81a49853b34030a1e71df5ed0b6a54061e1209bbb4ba3f4727d0b77430be48"
+    },
+    {
+      "name": "B1_concourse_alcove",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass46\\Captures\\B1_concourse_alcove.png",
+      "eye": [
+        -29.0,
+        6.0,
+        1.62
+      ],
+      "target": [
+        -29.0,
+        -3.6,
+        1.6
+      ],
+      "sha256": "73c3e355981e75366eee5f15fcf01d8b70367e18ebc3a3ce3c31653f14f419e6"
+    },
+    {
+      "name": "B2_concourse_north",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass46\\Captures\\B2_concourse_north.png",
+      "eye": [
+        -29.0,
+        4.0,
+        1.62
+      ],
+      "target": [
+        -28.0,
+        13.0,
+        1.8
+      ],
+      "sha256": "34d70cab656913f2e7600a3a49c27c0bd57c876db32b0d3f8fb946c413bab7e3"
+    },
+    {
+      "name": "C1_cafe_approach",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass46\\Captures\\C1_cafe_approach.png",
+      "eye": [
+        -33.0,
+        12.0,
+        1.62
+      ],
+      "target": [
+        -37.0,
+        14.5,
+        1.6
+      ],
+      "sha256": "381f08f158e99f74851427ecba93e1bcf9aa548e278894fb9744d84c94e1d6fd"
+    },
+    {
+      "name": "D1_wc_passage",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass46\\Captures\\D1_wc_passage.png",
+      "eye": [
+        -24.5,
+        -2.5,
+        1.62
+      ],
+      "target": [
+        -24.5,
+        -11.0,
+        1.4
+      ],
+      "sha256": "d928c5c698300e3655272579ae81e1b52c5d1bdf537519abf7adbb6c825ed347"
+    },
+    {
+      "name": "E1_landside_corridor",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass46\\Captures\\E1_landside_corridor.png",
+      "eye": [
+        -28.0,
+        -6.0,
+        1.62
+      ],
+      "target": [
+        -45.0,
+        -6.6,
+        1.7
+      ],
+      "sha256": "d3f1e55ded53323974fd1ad5202055fc9fc243a83301fd73ab4bdd670fb78ed8"
+    },
+    {
+      "name": "F1_arrivals",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass46\\Captures\\F1_arrivals.png",
+      "eye": [
+        -20.0,
+        -14.0,
+        1.62
+      ],
+      "target": [
+        -16.0,
+        -20.0,
+        1.4
+      ],
+      "sha256": "c1f0b6bb1e605dbe6c8b271dd5add9bca109eeb40f30e7d0883b59f0b7658a0e"
+    },
+    {
+      "name": "G1_gallery",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass46\\Captures\\G1_gallery.png",
+      "eye": [
+        -42.5,
+        26.0,
+        4.77
+      ],
+      "target": [
+        -47.0,
+        31.5,
+        4.4
+      ],
+      "sha256": "952ae1807f4c7fad291b2754ca93fd5ec03afa8ccea44db15710e9e12a332b64"
+    },
+    {
+      "name": "G2_gallery_retail",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass46\\Captures\\G2_gallery_retail.png",
+      "eye": [
+        -46.0,
+        28.0,
+        4.77
+      ],
+      "target": [
+        -43.5,
+        31.5,
+        4.6
+      ],
+      "sha256": "0cead774ca948420962b60d30266feb74caba380d23c334d21aad4f5c8cffb77"
+    },
+    {
+      "name": "H1_checkin_headers",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass46\\Captures\\H1_checkin_headers.png",
+      "eye": [
+        -34.0,
+        -13.1,
+        1.62
+      ],
+      "target": [
+        -30.3,
+        -12.6,
+        2.9
+      ],
+      "sha256": "341c4f95e4dba73fdbd1579377916d821f3b8b308ac9f7bfbd91cc843998bad6"
+    }
+  ]
+}

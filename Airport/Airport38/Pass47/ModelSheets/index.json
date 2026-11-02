@@ -1,0 +1,4931 @@
+[
+ {
+  "sheet": "sheet_00.png",
+  "tiles": [
+   {
+    "pos": 0,
+    "row": 0,
+    "col": 0,
+    "mesh": "SK_CH39_PassengerCrew",
+    "actor": "CH12 Queue passenger 1",
+    "size_m": [
+     0.63,
+     0.93,
+     2.17
+    ]
+   },
+   {
+    "pos": 1,
+    "row": 0,
+    "col": 1,
+    "mesh": "SK_CH39_PassengerHoodie",
+    "actor": "CH12 Queue passenger 4",
+    "size_m": [
+     0.63,
+     0.93,
+     2.19
+    ]
+   },
+   {
+    "pos": 2,
+    "row": 0,
+    "col": 2,
+    "mesh": "SK_CH39_PassengerSenior",
+    "actor": "CH12 Queue passenger 3",
+    "size_m": [
+     0.63,
+     0.93,
+     2.18
+    ]
+   },
+   {
+    "pos": 3,
+    "row": 0,
+    "col": 3,
+    "mesh": "SK_CH39_PassengerTourist",
+    "actor": "CH12 Queue passenger 0",
+    "size_m": [
+     0.93,
+     0.63,
+     2.17
+    ]
+   },
+   {
+    "pos": 4,
+    "row": 0,
+    "col": 4,
+    "mesh": "SK_CH39_PlayerBlue",
+    "actor": "CH12 Information host",
+    "size_m": [
+     1.06,
+     0.86,
+     2.2
+    ]
+   },
+   {
+    "pos": 5,
+    "row": 1,
+    "col": 0,
+    "mesh": "SK_CH39_PlayerYellow",
+    "actor": "CH12 Gate pilot",
+    "size_m": [
+     0.64,
+     0.93,
+     2.2
+    ]
+   },
+   {
+    "pos": 6,
+    "row": 1,
+    "col": 1,
+    "mesh": "SK_CH39_SecurityGuard",
+    "actor": "CH12 Security pilot",
+    "size_m": [
+     0.64,
+     0.93,
+     2.15
+    ]
+   },
+   {
+    "pos": 7,
+    "row": 1,
+    "col": 2,
+    "mesh": "SK_Teal_Character",
+    "actor": "CharacterPack Player",
+    "size_m": [
+     1.03,
+     0.61,
+     1.9
+    ]
+   },
+   {
+    "pos": 8,
+    "row": 1,
+    "col": 3,
+    "mesh": "SM_AP_A42ExpeditionDuffel",
+    "actor": "Cargo15 -1 bay04 tier1 ExpeditionDuffel 0",
+    "size_m": [
+     0.43,
+     0.88,
+     0.38
+    ]
+   },
+   {
+    "pos": 9,
+    "row": 1,
+    "col": 4,
+    "mesh": "SM_AP_A42PSUCarrier",
+    "actor": "Passenger service unit 0112",
+    "size_m": [
+     0.33,
+     0.52,
+     0.11
+    ]
+   },
+   {
+    "pos": 10,
+    "row": 2,
+    "col": 0,
+    "mesh": "SM_AP_A42Weekender",
+    "actor": "Cargo15 -1 bay02 tier0 Weekender 1",
+    "size_m": [
+     0.34,
+     0.47,
+     0.25
+    ]
+   },
+   {
+    "pos": 11,
+    "row": 2,
+    "col": 1,
+    "mesh": "SM_AP_Apron34",
+    "actor": "Apron service details34",
+    "size_m": [
+     17.42,
+     16.02,
+     0.58
+    ]
+   },
+   {
+    "pos": 12,
+    "row": 2,
+    "col": 2,
+    "mesh": "SM_AP_B40LapStowed",
+    "actor": "B40 stowed Business 01 A",
+    "size_m": [
+     0.66,
+     0.35,
+     0.03
+    ]
+   },
+   {
+    "pos": 13,
+    "row": 2,
+    "col": 3,
+    "mesh": "SM_AP_B40LuxurySeatBase",
+    "actor": "Business 01 A",
+    "size_m": [
+     0.87,
+     0.9,
+     1.39
+    ]
+   },
+   {
+    "pos": 14,
+    "row": 2,
+    "col": 4,
+    "mesh": "SM_AP_B40ReleaseLid",
+    "actor": "Business belt release 112",
+    "size_m": [
+     0.07,
+     0.03,
+     0.04
+    ]
+   },
+   {
+    "pos": 15,
+    "row": 3,
+    "col": 0,
+    "mesh": "SM_AP_B41LapWornCrew",
+    "actor": "B40 worn Business 02 A",
+    "size_m": [
+     0.66,
+     0.6,
+     0.15
+    ]
+   },
+   {
+    "pos": 16,
+    "row": 3,
+    "col": 1,
+    "mesh": "SM_AP_B41LapWornGeneric",
+    "actor": "B40 worn Business 01 A",
+    "size_m": [
+     0.66,
+     0.6,
+     0.15
+    ]
+   },
+   {
+    "pos": 17,
+    "row": 3,
+    "col": 2,
+    "mesh": "SM_AP_BagBlue",
+    "actor": "Physical luggage 02",
+    "size_m": [
+     0.68,
+     0.57,
+     1.04
+    ]
+   },
+   {
+    "pos": 18,
+    "row": 3,
+    "col": 3,
+    "mesh": "SM_AP_BagMint",
+    "actor": "Physical luggage 04",
+    "size_m": [
+     0.81,
+     0.82,
+     1.1
+    ]
+   },
+   {
+    "pos": 19,
+    "row": 3,
+    "col": 4,
+    "mesh": "SM_AP_BagOrange",
+    "actor": "Physical luggage 01",
+    "size_m": [
+     0.59,
+     0.35,
+     1.04
+    ]
+   }
+  ]
+ },
+ {
+  "sheet": "sheet_01.png",
+  "tiles": [
+   {
+    "pos": 0,
+    "row": 0,
+    "col": 0,
+    "mesh": "SM_AP_BagPink",
+    "actor": "Physical luggage 03",
+    "size_m": [
+     0.5,
+     0.67,
+     1.04
+    ]
+   },
+   {
+    "pos": 1,
+    "row": 0,
+    "col": 1,
+    "mesh": "SM_AP_BaggageBackdrop43",
+    "actor": "Airport43 baggage service backdrop",
+    "size_m": [
+     0.29,
+     9.98,
+     3.59
+    ]
+   },
+   {
+    "pos": 2,
+    "row": 0,
+    "col": 2,
+    "mesh": "SM_AP_BaggageDetail38",
+    "actor": "Baggage handling fitted details38",
+    "size_m": [
+     4.18,
+     6.15,
+     2.74
+    ]
+   },
+   {
+    "pos": 3,
+    "row": 0,
+    "col": 3,
+    "mesh": "SM_AP_Bakery36",
+    "actor": "BakeryCounter24_1778",
+    "size_m": [
+     2.0,
+     0.96,
+     1.72
+    ]
+   },
+   {
+    "pos": 4,
+    "row": 0,
+    "col": 4,
+    "mesh": "SM_AP_Belt38",
+    "actor": "Bag drop belt 01",
+    "size_m": [
+     3.6,
+     1.49,
+     1.07
+    ]
+   },
+   {
+    "pos": 5,
+    "row": 1,
+    "col": 0,
+    "mesh": "SM_AP_Bench27_Hardware40",
+    "actor": "Foyer two-seat waiting bench25",
+    "size_m": [
+     2.51,
+     0.68,
+     1.08
+    ]
+   },
+   {
+    "pos": 6,
+    "row": 1,
+    "col": 1,
+    "mesh": "SM_AP_Bench29_Hardware40",
+    "actor": "Check-in waiting bench29",
+    "size_m": [
+     2.51,
+     0.68,
+     1.08
+    ]
+   },
+   {
+    "pos": 7,
+    "row": 1,
+    "col": 2,
+    "mesh": "SM_AP_Bench34_Hardware40",
+    "actor": "Recompose bench24",
+    "size_m": [
+     0.72,
+     2.23,
+     1.16
+    ]
+   },
+   {
+    "pos": 8,
+    "row": 1,
+    "col": 3,
+    "mesh": "SM_AP_Bins36",
+    "actor": "Cafe waste sorting36 entry",
+    "size_m": [
+     1.12,
+     0.57,
+     1.08
+    ]
+   },
+   {
+    "pos": 9,
+    "row": 1,
+    "col": 4,
+    "mesh": "SM_AP_C43DashboardFixed",
+    "actor": "SM_Plane_AnalogDashboard",
+    "size_m": [
+     3.57,
+     0.92,
+     2.07
+    ]
+   },
+   {
+    "pos": 10,
+    "row": 2,
+    "col": 0,
+    "mesh": "SM_AP_CafeChair34_Hardware40",
+    "actor": "CafeChair24_1783",
+    "size_m": [
+     0.81,
+     0.63,
+     1.16
+    ]
+   },
+   {
+    "pos": 11,
+    "row": 2,
+    "col": 1,
+    "mesh": "SM_AP_CafeJoint38",
+    "actor": "Fitted cafe cabinet joints38",
+    "size_m": [
+     4.1,
+     0.85,
+     0.89
+    ]
+   },
+   {
+    "pos": 12,
+    "row": 2,
+    "col": 2,
+    "mesh": "SM_AP_CafeTable34",
+    "actor": "CafeTable24_1782",
+    "size_m": [
+     1.2,
+     0.74,
+     0.77
+    ]
+   },
+   {
+    "pos": 13,
+    "row": 2,
+    "col": 3,
+    "mesh": "SM_AP_Canopy38",
+    "actor": "Airport38 coherent covered forecourt",
+    "size_m": [
+     8.05,
+     17.5,
+     3.85
+    ]
+   },
+   {
+    "pos": 14,
+    "row": 2,
+    "col": 4,
+    "mesh": "SM_AP_Carousel34",
+    "actor": "Reclaim carousel 01",
+    "size_m": [
+     4.65,
+     2.77,
+     0.75
+    ]
+   },
+   {
+    "pos": 15,
+    "row": 3,
+    "col": 0,
+    "mesh": "SM_AP_CarryOn",
+    "actor": "Physical luggage 05",
+    "size_m": [
+     0.51,
+     0.45,
+     0.82
+    ]
+   },
+   {
+    "pos": 16,
+    "row": 3,
+    "col": 1,
+    "mesh": "SM_AP_Charging34",
+    "actor": "ChargingTable24_1749",
+    "size_m": [
+     0.65,
+     2.8,
+     1.1
+    ]
+   },
+   {
+    "pos": 17,
+    "row": 3,
+    "col": 2,
+    "mesh": "SM_AP_ControlTower34",
+    "actor": "ControlTower12_1950",
+    "size_m": [
+     13.12,
+     13.12,
+     39.15
+    ]
+   },
+   {
+    "pos": 18,
+    "row": 3,
+    "col": 3,
+    "mesh": "SM_AP_Counter38",
+    "actor": "Check-in desk 01",
+    "size_m": [
+     1.05,
+     1.98,
+     1.76
+    ]
+   },
+   {
+    "pos": 19,
+    "row": 3,
+    "col": 4,
+    "mesh": "SM_AP_CubicleDoor",
+    "actor": "Terminal WC 0",
+    "size_m": [
+     1.12,
+     0.18,
+     2.1
+    ]
+   }
+  ]
+ },
+ {
+  "sheet": "sheet_02.png",
+  "tiles": [
+   {
+    "pos": 0,
+    "row": 0,
+    "col": 0,
+    "mesh": "SM_AP_Curb",
+    "actor": "Forecourt kerb46 01",
+    "size_m": [
+     0.37,
+     1.96,
+     0.25
+    ]
+   },
+   {
+    "pos": 1,
+    "row": 0,
+    "col": 1,
+    "mesh": "SM_AP_Dolly34",
+    "actor": "Tow dolly 1",
+    "size_m": [
+     1.65,
+     3.57,
+     1.21
+    ]
+   },
+   {
+    "pos": 2,
+    "row": 0,
+    "col": 2,
+    "mesh": "SM_AP_DoorRelease",
+    "actor": "WC release 0 outside",
+    "size_m": [
+     0.14,
+     0.06,
+     0.22
+    ]
+   },
+   {
+    "pos": 3,
+    "row": 0,
+    "col": 3,
+    "mesh": "SM_AP_E39CockpitShellClean",
+    "actor": "SM_Plane_CockpitShell",
+    "size_m": [
+     4.86,
+     6.86,
+     2.72
+    ]
+   },
+   {
+    "pos": 4,
+    "row": 0,
+    "col": 4,
+    "mesh": "SM_AP_E39PassengerDoorL",
+    "actor": "Aircraft door 1L",
+    "size_m": [
+     1.1,
+     0.57,
+     1.87
+    ]
+   },
+   {
+    "pos": 5,
+    "row": 1,
+    "col": 0,
+    "mesh": "SM_AP_E39PassengerDoorR",
+    "actor": "Aircraft door 1R",
+    "size_m": [
+     0.31,
+     1.06,
+     1.82
+    ]
+   },
+   {
+    "pos": 6,
+    "row": 1,
+    "col": 1,
+    "mesh": "SM_AP_EmergencyStop38",
+    "actor": "Security belt 01 emergency stop38",
+    "size_m": [
+     0.35,
+     0.22,
+     0.29
+    ]
+   },
+   {
+    "pos": 7,
+    "row": 1,
+    "col": 2,
+    "mesh": "SM_AP_Espresso36",
+    "actor": "Poly Haven coffee cart24",
+    "size_m": [
+     2.0,
+     0.94,
+     1.72
+    ]
+   },
+   {
+    "pos": 8,
+    "row": 1,
+    "col": 3,
+    "mesh": "SM_AP_Extinguisher11",
+    "actor": "Usable extinguisher 0",
+    "size_m": [
+     0.36,
+     0.3,
+     0.74
+    ]
+   },
+   {
+    "pos": 9,
+    "row": 1,
+    "col": 4,
+    "mesh": "SM_AP_F39GearFixed",
+    "actor": "SM_Plane_LandingGear",
+    "size_m": [
+     10.3,
+     24.8,
+     1.0
+    ]
+   },
+   {
+    "pos": 10,
+    "row": 2,
+    "col": 0,
+    "mesh": "SM_AP_F39Gear_main_L",
+    "actor": "Flight39 gear main_L",
+    "size_m": [
+     1.12,
+     2.52,
+     2.71
+    ]
+   },
+   {
+    "pos": 11,
+    "row": 2,
+    "col": 1,
+    "mesh": "SM_AP_F39Gear_main_R",
+    "actor": "Flight39 gear main_R",
+    "size_m": [
+     1.12,
+     2.52,
+     2.71
+    ]
+   },
+   {
+    "pos": 12,
+    "row": 2,
+    "col": 2,
+    "mesh": "SM_AP_F39Gear_main_door_L",
+    "actor": "Flight39 gear main_door_L",
+    "size_m": [
+     0.05,
+     1.56,
+     1.21
+    ]
+   },
+   {
+    "pos": 13,
+    "row": 2,
+    "col": 3,
+    "mesh": "SM_AP_F39Gear_main_door_R",
+    "actor": "Flight39 gear main_door_R",
+    "size_m": [
+     0.05,
+     1.56,
+     1.21
+    ]
+   },
+   {
+    "pos": 14,
+    "row": 2,
+    "col": 4,
+    "mesh": "SM_AP_F39Gear_nose",
+    "actor": "Flight39 gear nose",
+    "size_m": [
+     0.96,
+     1.38,
+     3.04
+    ]
+   },
+   {
+    "pos": 15,
+    "row": 3,
+    "col": 0,
+    "mesh": "SM_AP_F39Gear_nose_door_L",
+    "actor": "Flight39 gear nose_door_L",
+    "size_m": [
+     0.05,
+     1.29,
+     1.32
+    ]
+   },
+   {
+    "pos": 16,
+    "row": 3,
+    "col": 1,
+    "mesh": "SM_AP_F39Gear_nose_door_R",
+    "actor": "Flight39 gear nose_door_R",
+    "size_m": [
+     0.05,
+     1.29,
+     1.32
+    ]
+   },
+   {
+    "pos": 17,
+    "row": 3,
+    "col": 2,
+    "mesh": "SM_AP_F39Needle_00",
+    "actor": "Flight39 instrument airspeed",
+    "size_m": [
+     0.04,
+     0.02,
+     0.04
+    ]
+   },
+   {
+    "pos": 18,
+    "row": 3,
+    "col": 3,
+    "mesh": "SM_AP_F39Needle_01",
+    "actor": "Flight39 instrument altitude",
+    "size_m": [
+     0.04,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 19,
+    "row": 3,
+    "col": 4,
+    "mesh": "SM_AP_F39Needle_02",
+    "actor": "Flight39 instrument fuel",
+    "size_m": [
+     0.03,
+     0.02,
+     0.05
+    ]
+   }
+  ]
+ },
+ {
+  "sheet": "sheet_03.png",
+  "tiles": [
+   {
+    "pos": 0,
+    "row": 0,
+    "col": 0,
+    "mesh": "SM_AP_F39Needle_03",
+    "actor": "Flight39 instrument temperature",
+    "size_m": [
+     0.04,
+     0.04,
+     0.04
+    ]
+   },
+   {
+    "pos": 1,
+    "row": 0,
+    "col": 1,
+    "mesh": "SM_AP_F39Needle_04",
+    "actor": "Flight39 instrument vertical_speed",
+    "size_m": [
+     0.08,
+     0.04,
+     0.07
+    ]
+   },
+   {
+    "pos": 2,
+    "row": 0,
+    "col": 2,
+    "mesh": "SM_AP_F39Needle_05",
+    "actor": "Flight39 instrument engine_rpm",
+    "size_m": [
+     0.06,
+     0.04,
+     0.05
+    ]
+   },
+   {
+    "pos": 3,
+    "row": 0,
+    "col": 3,
+    "mesh": "SM_AP_F39Needle_06",
+    "actor": "Flight39 instrument oil_pressure",
+    "size_m": [
+     0.06,
+     0.06,
+     0.07
+    ]
+   },
+   {
+    "pos": 4,
+    "row": 0,
+    "col": 4,
+    "mesh": "SM_AP_F39Surface_00",
+    "actor": "Flight39 flap 00",
+    "size_m": [
+     2.16,
+     1.79,
+     0.49
+    ]
+   },
+   {
+    "pos": 5,
+    "row": 1,
+    "col": 0,
+    "mesh": "SM_AP_F39Surface_01",
+    "actor": "Flight39 flap 01",
+    "size_m": [
+     4.01,
+     1.95,
+     0.56
+    ]
+   },
+   {
+    "pos": 6,
+    "row": 1,
+    "col": 1,
+    "mesh": "SM_AP_F39Surface_02",
+    "actor": "Flight39 flap 02",
+    "size_m": [
+     4.93,
+     2.21,
+     0.6
+    ]
+   },
+   {
+    "pos": 7,
+    "row": 1,
+    "col": 2,
+    "mesh": "SM_AP_F39Surface_03",
+    "actor": "Flight39 aileron 03",
+    "size_m": [
+     5.09,
+     1.9,
+     0.63
+    ]
+   },
+   {
+    "pos": 8,
+    "row": 1,
+    "col": 3,
+    "mesh": "SM_AP_F39Surface_04",
+    "actor": "Flight39 aileron 04",
+    "size_m": [
+     4.16,
+     1.15,
+     0.57
+    ]
+   },
+   {
+    "pos": 9,
+    "row": 1,
+    "col": 4,
+    "mesh": "SM_AP_F39Surface_05",
+    "actor": "Flight39 elevator 05",
+    "size_m": [
+     4.6,
+     1.36,
+     0.62
+    ]
+   },
+   {
+    "pos": 10,
+    "row": 2,
+    "col": 0,
+    "mesh": "SM_AP_F39Surface_06",
+    "actor": "Flight39 flap 06",
+    "size_m": [
+     2.16,
+     1.79,
+     0.49
+    ]
+   },
+   {
+    "pos": 11,
+    "row": 2,
+    "col": 1,
+    "mesh": "SM_AP_F39Surface_07",
+    "actor": "Flight39 flap 07",
+    "size_m": [
+     4.01,
+     1.95,
+     0.56
+    ]
+   },
+   {
+    "pos": 12,
+    "row": 2,
+    "col": 2,
+    "mesh": "SM_AP_F39Surface_08",
+    "actor": "Flight39 flap 08",
+    "size_m": [
+     4.93,
+     2.21,
+     0.6
+    ]
+   },
+   {
+    "pos": 13,
+    "row": 2,
+    "col": 3,
+    "mesh": "SM_AP_F39Surface_09",
+    "actor": "Flight39 aileron 09",
+    "size_m": [
+     5.09,
+     1.9,
+     0.63
+    ]
+   },
+   {
+    "pos": 14,
+    "row": 2,
+    "col": 4,
+    "mesh": "SM_AP_F39Surface_10",
+    "actor": "Flight39 aileron 10",
+    "size_m": [
+     4.16,
+     1.15,
+     0.57
+    ]
+   },
+   {
+    "pos": 15,
+    "row": 3,
+    "col": 0,
+    "mesh": "SM_AP_F39Surface_11",
+    "actor": "Flight39 elevator 11",
+    "size_m": [
+     4.6,
+     1.36,
+     0.62
+    ]
+   },
+   {
+    "pos": 16,
+    "row": 3,
+    "col": 1,
+    "mesh": "SM_AP_F39Surface_12",
+    "actor": "Flight39 rudder 12",
+    "size_m": [
+     0.3,
+     1.42,
+     5.3
+    ]
+   },
+   {
+    "pos": 17,
+    "row": 3,
+    "col": 2,
+    "mesh": "SM_AP_FireStand11",
+    "actor": "Safety station 1",
+    "size_m": [
+     0.71,
+     0.8,
+     1.88
+    ]
+   },
+   {
+    "pos": 18,
+    "row": 3,
+    "col": 3,
+    "mesh": "SM_AP_GalleryStair35",
+    "actor": "Crafted GalleryStair35",
+    "size_m": [
+     8.05,
+     16.84,
+     4.27
+    ]
+   },
+   {
+    "pos": 19,
+    "row": 3,
+    "col": 4,
+    "mesh": "SM_AP_GardenBench",
+    "actor": "Forecourt garden bench46 0",
+    "size_m": [
+     2.27,
+     4.9,
+     1.36
+    ]
+   }
+  ]
+ },
+ {
+  "sheet": "sheet_04.png",
+  "tiles": [
+   {
+    "pos": 0,
+    "row": 0,
+    "col": 0,
+    "mesh": "SM_AP_GateDoor",
+    "actor": "Entrance sliding leaf -13.175",
+    "size_m": [
+     0.21,
+     1.35,
+     2.7
+    ]
+   },
+   {
+    "pos": 1,
+    "row": 0,
+    "col": 1,
+    "mesh": "SM_AP_GroundPower34",
+    "actor": "GroundPower12_1954",
+    "size_m": [
+     1.9,
+     2.7,
+     1.26
+    ]
+   },
+   {
+    "pos": 2,
+    "row": 0,
+    "col": 2,
+    "mesh": "SM_AP_Header130",
+    "actor": "Check-in service header29 0",
+    "size_m": [
+     0.21,
+     3.34,
+     0.66
+    ]
+   },
+   {
+    "pos": 3,
+    "row": 0,
+    "col": 3,
+    "mesh": "SM_AP_Header230",
+    "actor": "Check-in service header29 1",
+    "size_m": [
+     0.21,
+     3.34,
+     0.66
+    ]
+   },
+   {
+    "pos": 4,
+    "row": 0,
+    "col": 4,
+    "mesh": "SM_AP_Information27",
+    "actor": "Foyer information and departures25",
+    "size_m": [
+     0.84,
+     2.26,
+     2.67
+    ]
+   },
+   {
+    "pos": 5,
+    "row": 1,
+    "col": 0,
+    "mesh": "SM_AP_Join30",
+    "actor": "Queue entry marker29",
+    "size_m": [
+     0.4,
+     0.82,
+     1.57
+    ]
+   },
+   {
+    "pos": 6,
+    "row": 1,
+    "col": 1,
+    "mesh": "SM_AP_Kiosk",
+    "actor": "Self-service kiosk24 0",
+    "size_m": [
+     0.66,
+     0.63,
+     1.65
+    ]
+   },
+   {
+    "pos": 7,
+    "row": 1,
+    "col": 2,
+    "mesh": "SM_AP_MobileStairs",
+    "actor": "MobileStairs12_1953",
+    "size_m": [
+     2.31,
+     8.17,
+     4.68
+    ]
+   },
+   {
+    "pos": 8,
+    "row": 1,
+    "col": 3,
+    "mesh": "SM_AP_OperatorChair",
+    "actor": "OperatorChair24_1724",
+    "size_m": [
+     0.74,
+     0.66,
+     1.14
+    ]
+   },
+   {
+    "pos": 9,
+    "row": 1,
+    "col": 4,
+    "mesh": "SM_AP_OperatorConsole36",
+    "actor": "Security operator24 0",
+    "size_m": [
+     0.8,
+     1.45,
+     1.73
+    ]
+   },
+   {
+    "pos": 10,
+    "row": 2,
+    "col": 0,
+    "mesh": "SM_AP_Outfeed38",
+    "actor": "Lane 01 receiving station38",
+    "size_m": [
+     1.13,
+     0.74,
+     1.0
+    ]
+   },
+   {
+    "pos": 11,
+    "row": 2,
+    "col": 1,
+    "mesh": "SM_AP_OvalTable36",
+    "actor": "A07 lounge coffee table36",
+    "size_m": [
+     1.25,
+     0.68,
+     0.58
+    ]
+   },
+   {
+    "pos": 12,
+    "row": 2,
+    "col": 2,
+    "mesh": "SM_AP_P38B_A00",
+    "actor": "Bridge38 bank A sleeve 00",
+    "size_m": [
+     4.31,
+     4.23,
+     3.08
+    ]
+   },
+   {
+    "pos": 13,
+    "row": 2,
+    "col": 3,
+    "mesh": "SM_AP_P38B_A01",
+    "actor": "Bridge38 bank A sleeve 01",
+    "size_m": [
+     4.29,
+     4.16,
+     3.05
+    ]
+   },
+   {
+    "pos": 14,
+    "row": 2,
+    "col": 4,
+    "mesh": "SM_AP_P38B_A02",
+    "actor": "Bridge38 bank A sleeve 02",
+    "size_m": [
+     4.26,
+     4.09,
+     3.02
+    ]
+   },
+   {
+    "pos": 15,
+    "row": 3,
+    "col": 0,
+    "mesh": "SM_AP_P38B_A03",
+    "actor": "Bridge38 bank A sleeve 03",
+    "size_m": [
+     4.23,
+     4.02,
+     2.99
+    ]
+   },
+   {
+    "pos": 16,
+    "row": 3,
+    "col": 1,
+    "mesh": "SM_AP_P38B_B00",
+    "actor": "Bridge38 bank B sleeve 00",
+    "size_m": [
+     4.21,
+     4.05,
+     3.08
+    ]
+   },
+   {
+    "pos": 17,
+    "row": 3,
+    "col": 2,
+    "mesh": "SM_AP_P38B_B01",
+    "actor": "Bridge38 bank B sleeve 01",
+    "size_m": [
+     4.18,
+     3.98,
+     3.05
+    ]
+   },
+   {
+    "pos": 18,
+    "row": 3,
+    "col": 3,
+    "mesh": "SM_AP_P38B_B02",
+    "actor": "Bridge38 bank B sleeve 02",
+    "size_m": [
+     4.16,
+     3.91,
+     3.02
+    ]
+   },
+   {
+    "pos": 19,
+    "row": 3,
+    "col": 4,
+    "mesh": "SM_AP_P38B_B03",
+    "actor": "Bridge38 bank B sleeve 03",
+    "size_m": [
+     4.13,
+     3.84,
+     2.99
+    ]
+   }
+  ]
+ },
+ {
+  "sheet": "sheet_05.png",
+  "tiles": [
+   {
+    "pos": 0,
+    "row": 0,
+    "col": 0,
+    "mesh": "SM_AP_P38B_B04",
+    "actor": "Bridge38 bank B sleeve 04",
+    "size_m": [
+     4.11,
+     3.77,
+     2.96
+    ]
+   },
+   {
+    "pos": 1,
+    "row": 0,
+    "col": 1,
+    "mesh": "SM_AP_P38B_bridge_control",
+    "actor": "Bridge38 departure control",
+    "size_m": [
+     0.2,
+     0.36,
+     0.52
+    ]
+   },
+   {
+    "pos": 2,
+    "row": 0,
+    "col": 2,
+    "mesh": "SM_AP_P38B_cab_joint",
+    "actor": "Bridge38 cab mitre",
+    "size_m": [
+     3.31,
+     3.15,
+     3.09
+    ]
+   },
+   {
+    "pos": 3,
+    "row": 0,
+    "col": 3,
+    "mesh": "SM_AP_P38B_docking_cab",
+    "actor": "Bridge38 docking cab",
+    "size_m": [
+     3.53,
+     3.13,
+     3.12
+    ]
+   },
+   {
+    "pos": 4,
+    "row": 0,
+    "col": 4,
+    "mesh": "SM_AP_P38B_elbow_chamber",
+    "actor": "Bridge38 elbow chamber",
+    "size_m": [
+     3.16,
+     3.54,
+     3.09
+    ]
+   },
+   {
+    "pos": 5,
+    "row": 1,
+    "col": 0,
+    "mesh": "SM_AP_P38B_lift",
+    "actor": "Bridge38 A lift",
+    "size_m": [
+     0.9,
+     0.55,
+     3.26
+    ]
+   },
+   {
+    "pos": 6,
+    "row": 1,
+    "col": 1,
+    "mesh": "SM_AP_P38B_parking_pad",
+    "actor": "Ground crew parking bay38",
+    "size_m": [
+     3.0,
+     28.5,
+     0.38
+    ]
+   },
+   {
+    "pos": 7,
+    "row": 1,
+    "col": 2,
+    "mesh": "SM_AP_P38B_pivot_chamber",
+    "actor": "Bridge38 pivot chamber",
+    "size_m": [
+     3.4,
+     3.17,
+     3.09
+    ]
+   },
+   {
+    "pos": 8,
+    "row": 1,
+    "col": 3,
+    "mesh": "SM_AP_P38B_terminal_neck",
+    "actor": "Bridge38 terminal neck",
+    "size_m": [
+     1.9,
+     3.0,
+     3.0
+    ]
+   },
+   {
+    "pos": 9,
+    "row": 1,
+    "col": 4,
+    "mesh": "SM_AP_P38B_truck",
+    "actor": "Bridge38 A truck",
+    "size_m": [
+     2.2,
+     1.88,
+     0.58
+    ]
+   },
+   {
+    "pos": 10,
+    "row": 2,
+    "col": 0,
+    "mesh": "SM_AP_P45B_Closure00",
+    "actor": "P45 bridge closure 00",
+    "size_m": [
+     3.07,
+     0.64,
+     2.34
+    ]
+   },
+   {
+    "pos": 11,
+    "row": 2,
+    "col": 1,
+    "mesh": "SM_AP_P45B_Closure01",
+    "actor": "P45 bridge closure 01",
+    "size_m": [
+     1.95,
+     0.44,
+     2.34
+    ]
+   },
+   {
+    "pos": 12,
+    "row": 2,
+    "col": 2,
+    "mesh": "SM_AP_P45B_Closure02",
+    "actor": "P45 bridge closure 02",
+    "size_m": [
+     1.85,
+     0.46,
+     2.34
+    ]
+   },
+   {
+    "pos": 13,
+    "row": 2,
+    "col": 3,
+    "mesh": "SM_AP_P45B_Closure03",
+    "actor": "P45 bridge closure 03",
+    "size_m": [
+     1.46,
+     0.11,
+     2.34
+    ]
+   },
+   {
+    "pos": 14,
+    "row": 2,
+    "col": 4,
+    "mesh": "SM_AP_P45B_Closure04",
+    "actor": "P45 bridge closure 04",
+    "size_m": [
+     1.3,
+     0.61,
+     2.34
+    ]
+   },
+   {
+    "pos": 15,
+    "row": 3,
+    "col": 0,
+    "mesh": "SM_AP_P45B_Closure05",
+    "actor": "P45 bridge closure 05",
+    "size_m": [
+     1.26,
+     0.35,
+     2.34
+    ]
+   },
+   {
+    "pos": 16,
+    "row": 3,
+    "col": 1,
+    "mesh": "SM_AP_P45B_Closure06",
+    "actor": "P45 bridge closure 06",
+    "size_m": [
+     1.26,
+     0.14,
+     2.34
+    ]
+   },
+   {
+    "pos": 17,
+    "row": 3,
+    "col": 2,
+    "mesh": "SM_AP_P45B_Closure07",
+    "actor": "P45 bridge closure 07",
+    "size_m": [
+     1.01,
+     0.26,
+     2.34
+    ]
+   },
+   {
+    "pos": 18,
+    "row": 3,
+    "col": 3,
+    "mesh": "SM_AP_P45B_Closure08",
+    "actor": "P45 bridge closure 08",
+    "size_m": [
+     0.75,
+     0.36,
+     2.34
+    ]
+   },
+   {
+    "pos": 19,
+    "row": 3,
+    "col": 4,
+    "mesh": "SM_AP_P45B_Closure09",
+    "actor": "P45 bridge closure 09",
+    "size_m": [
+     0.72,
+     0.25,
+     2.34
+    ]
+   }
+  ]
+ },
+ {
+  "sheet": "sheet_06.png",
+  "tiles": [
+   {
+    "pos": 0,
+    "row": 0,
+    "col": 0,
+    "mesh": "SM_AP_P45B_Closure10",
+    "actor": "P45 bridge closure 10",
+    "size_m": [
+     0.56,
+     0.11,
+     2.34
+    ]
+   },
+   {
+    "pos": 1,
+    "row": 0,
+    "col": 1,
+    "mesh": "SM_AP_P45B_Closure11",
+    "actor": "P45 bridge closure 11",
+    "size_m": [
+     1.09,
+     0.21,
+     2.34
+    ]
+   },
+   {
+    "pos": 2,
+    "row": 0,
+    "col": 2,
+    "mesh": "SM_AP_P46M_Header0",
+    "actor": "P46 header mount Header0",
+    "size_m": [
+     0.16,
+     2.6,
+     0.65
+    ]
+   },
+   {
+    "pos": 3,
+    "row": 0,
+    "col": 3,
+    "mesh": "SM_AP_P46M_Header1",
+    "actor": "P46 header mount Header1",
+    "size_m": [
+     0.16,
+     2.6,
+     0.65
+    ]
+   },
+   {
+    "pos": 4,
+    "row": 0,
+    "col": 4,
+    "mesh": "SM_AP_PH_Camera24",
+    "actor": "Security camera24",
+    "size_m": [
+     0.14,
+     0.39,
+     0.21
+    ]
+   },
+   {
+    "pos": 5,
+    "row": 1,
+    "col": 0,
+    "mesh": "SM_AP_PH_Succulent24",
+    "actor": "Small potted plant24",
+    "size_m": [
+     0.17,
+     0.18,
+     0.27
+    ]
+   },
+   {
+    "pos": 6,
+    "row": 1,
+    "col": 1,
+    "mesh": "SM_AP_POS36",
+    "actor": "RegisterCounter24_1779",
+    "size_m": [
+     2.0,
+     0.96,
+     1.62
+    ]
+   },
+   {
+    "pos": 7,
+    "row": 1,
+    "col": 2,
+    "mesh": "SM_AP_Plant12",
+    "actor": "Plant1224_1761",
+    "size_m": [
+     0.84,
+     0.8,
+     2.38
+    ]
+   },
+   {
+    "pos": 8,
+    "row": 1,
+    "col": 3,
+    "mesh": "SM_AP_Planter27",
+    "actor": "Plant1224_1824",
+    "size_m": [
+     0.92,
+     0.87,
+     2.21
+    ]
+   },
+   {
+    "pos": 9,
+    "row": 1,
+    "col": 4,
+    "mesh": "SM_AP_Portal34",
+    "actor": "Security portal 01",
+    "size_m": [
+     1.77,
+     0.7,
+     2.63
+    ]
+   },
+   {
+    "pos": 10,
+    "row": 2,
+    "col": 0,
+    "mesh": "SM_AP_PreparationGuide38",
+    "actor": "Security preparation mounted guide38",
+    "size_m": [
+     1.85,
+     0.2,
+     0.45
+    ]
+   },
+   {
+    "pos": 11,
+    "row": 2,
+    "col": 1,
+    "mesh": "SM_AP_QueueArrow",
+    "actor": "QueueArrow24_1727",
+    "size_m": [
+     0.56,
+     0.9,
+     0.0
+    ]
+   },
+   {
+    "pos": 12,
+    "row": 2,
+    "col": 2,
+    "mesh": "SM_AP_QueuePost30",
+    "actor": "Queue post31 0",
+    "size_m": [
+     0.37,
+     0.37,
+     1.03
+    ]
+   },
+   {
+    "pos": 13,
+    "row": 2,
+    "col": 3,
+    "mesh": "SM_AP_QueueRibbon30",
+    "actor": "Queue ribbon31 6",
+    "size_m": [
+     1.5,
+     0.03,
+     0.07
+    ]
+   },
+   {
+    "pos": 14,
+    "row": 2,
+    "col": 4,
+    "mesh": "SM_AP_Recycling38",
+    "actor": "Recycling24_1810",
+    "size_m": [
+     0.81,
+     0.49,
+     0.99
+    ]
+   },
+   {
+    "pos": 15,
+    "row": 3,
+    "col": 0,
+    "mesh": "SM_AP_RouteHierarchy39",
+    "actor": "Airport39 restrained route hierarchy",
+    "size_m": [
+     24.0,
+     13.73,
+     2.43
+    ]
+   },
+   {
+    "pos": 16,
+    "row": 3,
+    "col": 1,
+    "mesh": "SM_AP_SafetyStation27",
+    "actor": "Safety station 0",
+    "size_m": [
+     0.7,
+     0.72,
+     1.67
+    ]
+   },
+   {
+    "pos": 17,
+    "row": 3,
+    "col": 2,
+    "mesh": "SM_AP_Scanner38",
+    "actor": "X-ray scanner 01",
+    "size_m": [
+     2.26,
+     2.21,
+     2.18
+    ]
+   },
+   {
+    "pos": 18,
+    "row": 3,
+    "col": 3,
+    "mesh": "SM_AP_ScannerCurtain38",
+    "actor": "Scanner 01 front curtain38",
+    "size_m": [
+     1.35,
+     0.06,
+     1.1
+    ]
+   },
+   {
+    "pos": 19,
+    "row": 3,
+    "col": 4,
+    "mesh": "SM_AP_ScreenBoard",
+    "actor": "Compact departures display",
+    "size_m": [
+     0.13,
+     1.97,
+     1.08
+    ]
+   }
+  ]
+ },
+ {
+  "sheet": "sheet_07.png",
+  "tiles": [
+   {
+    "pos": 0,
+    "row": 0,
+    "col": 0,
+    "mesh": "SM_AP_ScreeningGlass36",
+    "actor": "Screening exit24 leaf 0",
+    "size_m": [
+     0.21,
+     1.2,
+     2.7
+    ]
+   },
+   {
+    "pos": 1,
+    "row": 0,
+    "col": 1,
+    "mesh": "SM_AP_ServiceDoor38",
+    "actor": "Baggage service door38",
+    "size_m": [
+     0.23,
+     1.1,
+     2.6
+    ]
+   },
+   {
+    "pos": 2,
+    "row": 0,
+    "col": 2,
+    "mesh": "SM_AP_ServingCup38",
+    "actor": "Cloud Nine serving cup38",
+    "size_m": [
+     0.15,
+     0.11,
+     0.13
+    ]
+   },
+   {
+    "pos": 3,
+    "row": 0,
+    "col": 3,
+    "mesh": "SM_AP_ServingSaucer38",
+    "actor": "Cloud Nine supported cup saucer38",
+    "size_m": [
+     0.39,
+     0.25,
+     0.1
+    ]
+   },
+   {
+    "pos": 4,
+    "row": 0,
+    "col": 4,
+    "mesh": "SM_AP_ShuttleBus",
+    "actor": "Forecourt shuttle bus46",
+    "size_m": [
+     2.6,
+     9.03,
+     3.17
+    ]
+   },
+   {
+    "pos": 5,
+    "row": 1,
+    "col": 0,
+    "mesh": "SM_AP_Sofa36",
+    "actor": "A07 upholstered sofa36",
+    "size_m": [
+     2.17,
+     0.84,
+     0.93
+    ]
+   },
+   {
+    "pos": 6,
+    "row": 1,
+    "col": 1,
+    "mesh": "SM_AP_SprayCloud11",
+    "actor": "Extinguisher powder effect",
+    "size_m": [
+     1.13,
+     2.32,
+     1.14
+    ]
+   },
+   {
+    "pos": 7,
+    "row": 1,
+    "col": 2,
+    "mesh": "SM_AP_StaffStorage38",
+    "actor": "RetailShelf24_1814",
+    "size_m": [
+     0.54,
+     1.5,
+     2.46
+    ]
+   },
+   {
+    "pos": 8,
+    "row": 1,
+    "col": 3,
+    "mesh": "SM_AP_Stanchion",
+    "actor": "Stanchion24_1725",
+    "size_m": [
+     0.36,
+     0.36,
+     1.07
+    ]
+   },
+   {
+    "pos": 9,
+    "row": 1,
+    "col": 4,
+    "mesh": "SM_AP_Streetlight",
+    "actor": "Forecourt streetlight46 0",
+    "size_m": [
+     1.75,
+     0.44,
+     5.81
+    ]
+   },
+   {
+    "pos": 10,
+    "row": 2,
+    "col": 0,
+    "mesh": "SM_AP_TableSetting36",
+    "actor": "Cafe tabletop setting36 0",
+    "size_m": [
+     0.61,
+     0.41,
+     0.13
+    ]
+   },
+   {
+    "pos": 11,
+    "row": 2,
+    "col": 1,
+    "mesh": "SM_AP_TaxiCar",
+    "actor": "Forecourt taxi46 0",
+    "size_m": [
+     1.97,
+     4.55,
+     1.72
+    ]
+   },
+   {
+    "pos": 12,
+    "row": 2,
+    "col": 2,
+    "mesh": "SM_AP_Tea36",
+    "actor": "TeaCounter24_1780",
+    "size_m": [
+     2.0,
+     0.96,
+     1.66
+    ]
+   },
+   {
+    "pos": 13,
+    "row": 2,
+    "col": 3,
+    "mesh": "SM_AP_Toilet34",
+    "actor": "Toilet24_1798",
+    "size_m": [
+     0.58,
+     0.9,
+     0.93
+    ]
+   },
+   {
+    "pos": 14,
+    "row": 2,
+    "col": 4,
+    "mesh": "SM_AP_Transfer38",
+    "actor": "Bag receiving bed38 01",
+    "size_m": [
+     3.4,
+     1.27,
+     1.14
+    ]
+   },
+   {
+    "pos": 15,
+    "row": 3,
+    "col": 0,
+    "mesh": "SM_AP_Transitions39",
+    "actor": "Airport39 fitted room transitions",
+    "size_m": [
+     17.28,
+     31.24,
+     3.46
+    ]
+   },
+   {
+    "pos": 16,
+    "row": 3,
+    "col": 1,
+    "mesh": "SM_AP_TravelStorage38",
+    "actor": "RetailShelf24_1832",
+    "size_m": [
+     1.5,
+     0.54,
+     2.46
+    ]
+   },
+   {
+    "pos": 17,
+    "row": 3,
+    "col": 2,
+    "mesh": "SM_AP_Tray",
+    "actor": "Tray24_1719",
+    "size_m": [
+     0.59,
+     0.43,
+     0.13
+    ]
+   },
+   {
+    "pos": 18,
+    "row": 3,
+    "col": 3,
+    "mesh": "SM_AP_TrayStation38",
+    "actor": "Lane 01 tray station38",
+    "size_m": [
+     0.68,
+     0.5,
+     0.82
+    ]
+   },
+   {
+    "pos": 19,
+    "row": 3,
+    "col": 4,
+    "mesh": "SM_AP_Tree",
+    "actor": "Forecourt tree46 0",
+    "size_m": [
+     7.84,
+     7.71,
+     8.52
+    ]
+   }
+  ]
+ },
+ {
+  "sheet": "sheet_08.png",
+  "tiles": [
+   {
+    "pos": 0,
+    "row": 0,
+    "col": 0,
+    "mesh": "SM_AP_Trolley",
+    "actor": "Trolley24_1820",
+    "size_m": [
+     0.72,
+     1.16,
+     1.11
+    ]
+   },
+   {
+    "pos": 1,
+    "row": 0,
+    "col": 1,
+    "mesh": "SM_AP_Tug34",
+    "actor": "Driveable electric baggage tug",
+    "size_m": [
+     1.63,
+     2.72,
+     1.51
+    ]
+   },
+   {
+    "pos": 2,
+    "row": 0,
+    "col": 2,
+    "mesh": "SM_AP_Vanity34",
+    "actor": "Vanity24_1808",
+    "size_m": [
+     2.5,
+     1.25,
+     2.29
+    ]
+   },
+   {
+    "pos": 3,
+    "row": 0,
+    "col": 3,
+    "mesh": "SM_AP_W40CargoBayWindows",
+    "actor": "Forward lower cargo pressure bay",
+    "size_m": [
+     5.07,
+     1.35,
+     5.15
+    ]
+   },
+   {
+    "pos": 4,
+    "row": 0,
+    "col": 4,
+    "mesh": "SM_AP_W40PressureWindows",
+    "actor": "SM_Plane_OuterWindowBarrel bay10 01",
+    "size_m": [
+     5.0,
+     1.35,
+     5.15
+    ]
+   },
+   {
+    "pos": 5,
+    "row": 1,
+    "col": 0,
+    "mesh": "SM_AP_W40ShadeHandleL",
+    "actor": "Window shade 02 L18",
+    "size_m": [
+     0.01,
+     0.7,
+     0.26
+    ]
+   },
+   {
+    "pos": 6,
+    "row": 1,
+    "col": 1,
+    "mesh": "SM_AP_W40ShadeHandleR",
+    "actor": "Window shade 01 R18",
+    "size_m": [
+     0.01,
+     0.7,
+     0.26
+    ]
+   },
+   {
+    "pos": 7,
+    "row": 1,
+    "col": 2,
+    "mesh": "SM_AP_W41RackL",
+    "actor": "SM_Plane_Rack_L bay10 03",
+    "size_m": [
+     0.59,
+     1.33,
+     0.47
+    ]
+   },
+   {
+    "pos": 8,
+    "row": 1,
+    "col": 3,
+    "mesh": "SM_AP_W41RackR",
+    "actor": "SM_Plane_Rack_R bay10 03",
+    "size_m": [
+     0.59,
+     1.33,
+     0.47
+    ]
+   },
+   {
+    "pos": 9,
+    "row": 1,
+    "col": 4,
+    "mesh": "SM_AP_W42ShadeFrameL",
+    "actor": "Window shade 02 L18 frame",
+    "size_m": [
+     0.33,
+     0.89,
+     1.3
+    ]
+   },
+   {
+    "pos": 10,
+    "row": 2,
+    "col": 0,
+    "mesh": "SM_AP_W42ShadeFrameR",
+    "actor": "Window shade 01 R18 frame",
+    "size_m": [
+     0.33,
+     0.89,
+     1.3
+    ]
+   },
+   {
+    "pos": 11,
+    "row": 2,
+    "col": 1,
+    "mesh": "SM_AP_W42WindowWallL",
+    "actor": "SM_Plane_WindowWall_L bay10 01",
+    "size_m": [
+     1.39,
+     1.35,
+     2.51
+    ]
+   },
+   {
+    "pos": 12,
+    "row": 2,
+    "col": 2,
+    "mesh": "SM_AP_W42WindowWallR",
+    "actor": "SM_Plane_WindowWall_R bay10 01",
+    "size_m": [
+     1.39,
+     1.35,
+     2.51
+    ]
+   },
+   {
+    "pos": 13,
+    "row": 2,
+    "col": 3,
+    "mesh": "SM_AP_WaitingDetails30",
+    "actor": "Check-in waiting details30",
+    "size_m": [
+     5.01,
+     1.1,
+     0.82
+    ]
+   },
+   {
+    "pos": 14,
+    "row": 2,
+    "col": 4,
+    "mesh": "SM_AP_Wayfinding38",
+    "actor": "Airport38 mounted legible route cues",
+    "size_m": [
+     32.54,
+     35.77,
+     2.08
+    ]
+   },
+   {
+    "pos": 15,
+    "row": 3,
+    "col": 0,
+    "mesh": "SM_AP_YellowMarking",
+    "actor": "YellowMarking12_1849",
+    "size_m": [
+     0.12,
+     15.0,
+     0.01
+    ]
+   },
+   {
+    "pos": 16,
+    "row": 3,
+    "col": 1,
+    "mesh": "SM_CH12_ViewHand_L",
+    "actor": "CH12HAND L",
+    "size_m": [
+     0.8,
+     0.48,
+     0.1
+    ]
+   },
+   {
+    "pos": 17,
+    "row": 3,
+    "col": 2,
+    "mesh": "SM_CH12_ViewHand_R",
+    "actor": "CH12HAND R",
+    "size_m": [
+     0.8,
+     0.48,
+     0.1
+    ]
+   },
+   {
+    "pos": 18,
+    "row": 3,
+    "col": 3,
+    "mesh": "SM_Plane_AftDispatch11",
+    "actor": "Aft dispatch11",
+    "size_m": [
+     0.58,
+     1.5,
+     1.52
+    ]
+   },
+   {
+    "pos": 19,
+    "row": 3,
+    "col": 4,
+    "mesh": "SM_Plane_AftGalley",
+    "actor": "Main galley between business and economy",
+    "size_m": [
+     2.16,
+     0.72,
+     2.32
+    ]
+   }
+  ]
+ },
+ {
+  "sheet": "sheet_09.png",
+  "tiles": [
+   {
+    "pos": 0,
+    "row": 0,
+    "col": 0,
+    "mesh": "SM_Plane_AftRoomDetails11",
+    "actor": "Aft room fitted crew systems11",
+    "size_m": [
+     4.54,
+     1.22,
+     0.96
+    ]
+   },
+   {
+    "pos": 1,
+    "row": 0,
+    "col": 1,
+    "mesh": "SM_Plane_AftService10",
+    "actor": "SM_Plane_AftService10",
+    "size_m": [
+     4.6,
+     0.78,
+     2.68
+    ]
+   },
+   {
+    "pos": 2,
+    "row": 0,
+    "col": 2,
+    "mesh": "SM_Plane_AftWaste11",
+    "actor": "Aft waste linen11",
+    "size_m": [
+     0.48,
+     1.5,
+     1.08
+    ]
+   },
+   {
+    "pos": 3,
+    "row": 0,
+    "col": 3,
+    "mesh": "SM_Plane_ArchRib",
+    "actor": "Cabin frame10 00",
+    "size_m": [
+     4.48,
+     0.05,
+     0.58
+    ]
+   },
+   {
+    "pos": 4,
+    "row": 0,
+    "col": 4,
+    "mesh": "SM_Plane_CabinFinish09",
+    "actor": "SM_Plane_CabinFinish09",
+    "size_m": [
+     4.68,
+     35.1,
+     1.9
+    ]
+   },
+   {
+    "pos": 5,
+    "row": 1,
+    "col": 0,
+    "mesh": "SM_Plane_Cargo15_CarrySpinner",
+    "actor": "Cargo15 -1 bay01 tier0 CarrySpinner 0",
+    "size_m": [
+     0.37,
+     0.3,
+     0.55
+    ]
+   },
+   {
+    "pos": 6,
+    "row": 1,
+    "col": 1,
+    "mesh": "SM_Plane_Cargo15_CheckedLaid",
+    "actor": "Cargo15 -1 bay03 tier0 CheckedLaid 0",
+    "size_m": [
+     0.51,
+     0.78,
+     0.39
+    ]
+   },
+   {
+    "pos": 7,
+    "row": 1,
+    "col": 2,
+    "mesh": "SM_Plane_Cargo15_CheckedSpinner",
+    "actor": "Cargo15 -1 bay07 tier1 CheckedSpinner 0",
+    "size_m": [
+     0.51,
+     0.39,
+     0.78
+    ]
+   },
+   {
+    "pos": 8,
+    "row": 1,
+    "col": 3,
+    "mesh": "SM_Plane_Cargo15_CrewEquipment",
+    "actor": "Cargo15 -1 bay05 tier0 CrewEquipment 0",
+    "size_m": [
+     0.48,
+     0.63,
+     0.41
+    ]
+   },
+   {
+    "pos": 9,
+    "row": 1,
+    "col": 4,
+    "mesh": "SM_Plane_Cargo15_InstrumentCase",
+    "actor": "Cargo15 -1 bay03 tier1 InstrumentCase 0",
+    "size_m": [
+     0.36,
+     1.11,
+     0.24
+    ]
+   },
+   {
+    "pos": 10,
+    "row": 2,
+    "col": 0,
+    "mesh": "SM_Plane_Cargo15_LongMailer",
+    "actor": "Cargo15 -1 bay04 tier0 LongMailer 0",
+    "size_m": [
+     0.28,
+     1.04,
+     0.17
+    ]
+   },
+   {
+    "pos": 11,
+    "row": 2,
+    "col": 1,
+    "mesh": "SM_Plane_Cargo15_MediumParcel",
+    "actor": "Cargo15 -1 bay05 tier1 MediumParcel 0",
+    "size_m": [
+     0.44,
+     0.61,
+     0.43
+    ]
+   },
+   {
+    "pos": 12,
+    "row": 2,
+    "col": 2,
+    "mesh": "SM_Plane_Cargo15_PlywoodCrate",
+    "actor": "Cargo15 -1 bay01 tier1 PlywoodCrate 0",
+    "size_m": [
+     0.51,
+     1.06,
+     0.55
+    ]
+   },
+   {
+    "pos": 13,
+    "row": 2,
+    "col": 3,
+    "mesh": "SM_Plane_Cargo15_SmallParcel",
+    "actor": "Cargo15 -1 bay02 tier0 SmallParcel 0",
+    "size_m": [
+     0.26,
+     0.31,
+     0.19
+    ]
+   },
+   {
+    "pos": 14,
+    "row": 2,
+    "col": 4,
+    "mesh": "SM_Plane_CargoHatch10",
+    "actor": "Lower cargo stair hatch",
+    "size_m": [
+     1.47,
+     2.29,
+     0.15
+    ]
+   },
+   {
+    "pos": 15,
+    "row": 3,
+    "col": 0,
+    "mesh": "SM_Plane_CargoHold10",
+    "actor": "Forward lower cargo hold",
+    "size_m": [
+     2.9,
+     33.38,
+     2.01
+    ]
+   },
+   {
+    "pos": 16,
+    "row": 3,
+    "col": 1,
+    "mesh": "SM_Plane_CargoStair10",
+    "actor": "Forward lower cargo stair",
+    "size_m": [
+     1.91,
+     2.37,
+     2.14
+    ]
+   },
+   {
+    "pos": 17,
+    "row": 3,
+    "col": 2,
+    "mesh": "SM_Plane_CentreToggle12_0",
+    "actor": "Cockpit NAV switch12",
+    "size_m": [
+     0.01,
+     0.03,
+     0.05
+    ]
+   },
+   {
+    "pos": 18,
+    "row": 3,
+    "col": 3,
+    "mesh": "SM_Plane_CentreToggle12_1",
+    "actor": "Cockpit FUEL switch12",
+    "size_m": [
+     0.01,
+     0.03,
+     0.05
+    ]
+   },
+   {
+    "pos": 19,
+    "row": 3,
+    "col": 4,
+    "mesh": "SM_Plane_CentreToggle12_2",
+    "actor": "Cockpit PUMP switch12",
+    "size_m": [
+     0.01,
+     0.03,
+     0.05
+    ]
+   }
+  ]
+ },
+ {
+  "sheet": "sheet_10.png",
+  "tiles": [
+   {
+    "pos": 0,
+    "row": 0,
+    "col": 0,
+    "mesh": "SM_Plane_CentreToggle12_3",
+    "actor": "Cockpit CABIN switch12",
+    "size_m": [
+     0.01,
+     0.03,
+     0.05
+    ]
+   },
+   {
+    "pos": 1,
+    "row": 0,
+    "col": 1,
+    "mesh": "SM_Plane_CentreToggle12_4",
+    "actor": "Cockpit AIR switch12",
+    "size_m": [
+     0.01,
+     0.03,
+     0.05
+    ]
+   },
+   {
+    "pos": 2,
+    "row": 0,
+    "col": 2,
+    "mesh": "SM_Plane_CentreToggle12_5",
+    "actor": "Cockpit AUX switch12",
+    "size_m": [
+     0.01,
+     0.03,
+     0.05
+    ]
+   },
+   {
+    "pos": 3,
+    "row": 0,
+    "col": 3,
+    "mesh": "SM_Plane_ClassDivider",
+    "actor": "SM_Plane_ClassDivider",
+    "size_m": [
+     4.79,
+     2.9,
+     2.69
+    ]
+   },
+   {
+    "pos": 4,
+    "row": 0,
+    "col": 4,
+    "mesh": "SM_Plane_CockpitDoor",
+    "actor": "Flightdeck door",
+    "size_m": [
+     1.05,
+     0.23,
+     2.04
+    ]
+   },
+   {
+    "pos": 5,
+    "row": 1,
+    "col": 0,
+    "mesh": "SM_Plane_CockpitEntry",
+    "actor": "SM_Plane_CockpitEntry",
+    "size_m": [
+     3.71,
+     2.32,
+     1.71
+    ]
+   },
+   {
+    "pos": 6,
+    "row": 1,
+    "col": 1,
+    "mesh": "SM_Plane_CockpitLightPod13_2",
+    "actor": "Cockpit supported cabin-light station 213",
+    "size_m": [
+     0.15,
+     1.0,
+     0.28
+    ]
+   },
+   {
+    "pos": 7,
+    "row": 1,
+    "col": 2,
+    "mesh": "SM_Plane_CockpitLightPod13_5",
+    "actor": "Cockpit supported cabin-light station 513",
+    "size_m": [
+     0.15,
+     1.0,
+     0.28
+    ]
+   },
+   {
+    "pos": 8,
+    "row": 1,
+    "col": 3,
+    "mesh": "SM_Plane_CockpitLockerDoor11",
+    "actor": "Flight crew equipment locker11",
+    "size_m": [
+     0.08,
+     0.67,
+     1.64
+    ]
+   },
+   {
+    "pos": 9,
+    "row": 1,
+    "col": 4,
+    "mesh": "SM_Plane_Controls",
+    "actor": "SM_Plane_Controls",
+    "size_m": [
+     2.05,
+     1.06,
+     1.21
+    ]
+   },
+   {
+    "pos": 10,
+    "row": 2,
+    "col": 0,
+    "mesh": "SM_Plane_CrewAmenities07",
+    "actor": "SM_Plane_CrewAmenities07",
+    "size_m": [
+     2.14,
+     0.05,
+     0.15
+    ]
+   },
+   {
+    "pos": 11,
+    "row": 2,
+    "col": 1,
+    "mesh": "SM_Plane_CrewHandbook12",
+    "actor": "Crew service handbook 112",
+    "size_m": [
+     0.22,
+     0.03,
+     0.3
+    ]
+   },
+   {
+    "pos": 12,
+    "row": 2,
+    "col": 2,
+    "mesh": "SM_Plane_CrewHarnessRelease12",
+    "actor": "Crew harness release 112",
+    "size_m": [
+     0.05,
+     0.01,
+     0.05
+    ]
+   },
+   {
+    "pos": 13,
+    "row": 2,
+    "col": 3,
+    "mesh": "SM_Plane_CrewJumpseat",
+    "actor": "SM_Plane_CrewJumpseat",
+    "size_m": [
+     0.57,
+     0.28,
+     1.49
+    ]
+   },
+   {
+    "pos": 14,
+    "row": 2,
+    "col": 4,
+    "mesh": "SM_Plane_CrewMounts11",
+    "actor": "Aft crew solid bulkhead mounts11",
+    "size_m": [
+     3.76,
+     30.89,
+     2.31
+    ]
+   },
+   {
+    "pos": 15,
+    "row": 3,
+    "col": 0,
+    "mesh": "SM_Plane_CrewPan12",
+    "actor": "Crew fold pan 0112",
+    "size_m": [
+     0.51,
+     0.17,
+     0.56
+    ]
+   },
+   {
+    "pos": 16,
+    "row": 3,
+    "col": 1,
+    "mesh": "SM_Plane_DoorBay07",
+    "actor": "Exit structure10 bay00",
+    "size_m": [
+     5.01,
+     1.35,
+     5.15
+    ]
+   },
+   {
+    "pos": 17,
+    "row": 3,
+    "col": 2,
+    "mesh": "SM_Plane_EconomyBulkheadDisplay12",
+    "actor": "Economy first-row display mount 03A12",
+    "size_m": [
+     0.46,
+     0.06,
+     0.31
+    ]
+   },
+   {
+    "pos": 18,
+    "row": 3,
+    "col": 3,
+    "mesh": "SM_Plane_EconomyScreen12",
+    "actor": "Economy display 03A12",
+    "size_m": [
+     0.41,
+     0.0,
+     0.25
+    ]
+   },
+   {
+    "pos": 19,
+    "row": 3,
+    "col": 4,
+    "mesh": "SM_Plane_EconomyTray17",
+    "actor": "Economy folding tray 0117",
+    "size_m": [
+     0.43,
+     0.05,
+     0.32
+    ]
+   }
+  ]
+ },
+ {
+  "sheet": "sheet_11.png",
+  "tiles": [
+   {
+    "pos": 0,
+    "row": 0,
+    "col": 0,
+    "mesh": "SM_Plane_EmergencyPush12_0",
+    "actor": "Cockpit emergency test 112",
+    "size_m": [
+     0.08,
+     0.07,
+     0.03
+    ]
+   },
+   {
+    "pos": 1,
+    "row": 0,
+    "col": 1,
+    "mesh": "SM_Plane_EmergencyPush12_1",
+    "actor": "Cockpit emergency test 212",
+    "size_m": [
+     0.08,
+     0.07,
+     0.03
+    ]
+   },
+   {
+    "pos": 2,
+    "row": 0,
+    "col": 2,
+    "mesh": "SM_Plane_ExitCrank12",
+    "actor": "Aircraft door 1L articulation link 012",
+    "size_m": [
+     0.08,
+     0.05,
+     0.06
+    ]
+   },
+   {
+    "pos": 3,
+    "row": 0,
+    "col": 3,
+    "mesh": "SM_Plane_ExitHingeHardware12",
+    "actor": "Pressure door articulated hinge bearings12",
+    "size_m": [
+     5.14,
+     27.12,
+     1.03
+    ]
+   },
+   {
+    "pos": 4,
+    "row": 0,
+    "col": 4,
+    "mesh": "SM_Plane_ExteriorCargoDoor10",
+    "actor": "Forward exterior cargo door",
+    "size_m": [
+     0.53,
+     0.98,
+     1.24
+    ]
+   },
+   {
+    "pos": 5,
+    "row": 1,
+    "col": 0,
+    "mesh": "SM_Plane_FirstAidDoor11",
+    "actor": "Forward first aid door11",
+    "size_m": [
+     0.35,
+     0.03,
+     0.52
+    ]
+   },
+   {
+    "pos": 6,
+    "row": 1,
+    "col": 1,
+    "mesh": "SM_Plane_FittedCarpet07",
+    "actor": "SM_Plane_FittedCarpet07",
+    "size_m": [
+     4.8,
+     35.1,
+     0.0
+    ]
+   },
+   {
+    "pos": 7,
+    "row": 1,
+    "col": 2,
+    "mesh": "SM_Plane_FlightdeckSystems",
+    "actor": "SM_Plane_FlightdeckSystems",
+    "size_m": [
+     3.13,
+     2.77,
+     2.53
+    ]
+   },
+   {
+    "pos": 8,
+    "row": 1,
+    "col": 3,
+    "mesh": "SM_Plane_Floor",
+    "actor": "SM_Plane_Floor",
+    "size_m": [
+     4.8,
+     35.1,
+     0.09
+    ]
+   },
+   {
+    "pos": 9,
+    "row": 1,
+    "col": 4,
+    "mesh": "SM_Plane_ForwardDispatch11",
+    "actor": "Forward dispatch11",
+    "size_m": [
+     0.58,
+     1.46,
+     1.52
+    ]
+   },
+   {
+    "pos": 10,
+    "row": 2,
+    "col": 0,
+    "mesh": "SM_Plane_ForwardEmergency11",
+    "actor": "Forward emergency equipment11",
+    "size_m": [
+     2.05,
+     0.27,
+     1.56
+    ]
+   },
+   {
+    "pos": 11,
+    "row": 2,
+    "col": 1,
+    "mesh": "SM_Plane_ForwardGalley_L",
+    "actor": "Aft preparation L",
+    "size_m": [
+     1.22,
+     0.72,
+     2.26
+    ]
+   },
+   {
+    "pos": 12,
+    "row": 2,
+    "col": 2,
+    "mesh": "SM_Plane_ForwardGalley_R",
+    "actor": "Aft preparation R",
+    "size_m": [
+     1.22,
+     0.72,
+     2.26
+    ]
+   },
+   {
+    "pos": 13,
+    "row": 2,
+    "col": 3,
+    "mesh": "SM_Plane_ForwardVestibule",
+    "actor": "SM_Plane_ForwardVestibule",
+    "size_m": [
+     4.79,
+     0.12,
+     2.69
+    ]
+   },
+   {
+    "pos": 14,
+    "row": 2,
+    "col": 4,
+    "mesh": "SM_Plane_HandbookCover12",
+    "actor": "Crew service handbook cover 112",
+    "size_m": [
+     0.22,
+     0.01,
+     0.3
+    ]
+   },
+   {
+    "pos": 15,
+    "row": 3,
+    "col": 0,
+    "mesh": "SM_Plane_HandbookSleeve12",
+    "actor": "Crew handbook wall sleeve 112",
+    "size_m": [
+     0.25,
+     0.07,
+     0.33
+    ]
+   },
+   {
+    "pos": 16,
+    "row": 3,
+    "col": 1,
+    "mesh": "SM_Plane_LavCrown13",
+    "actor": "Lavatory fitted ceiling closures13",
+    "size_m": [
+     4.5,
+     2.47,
+     0.12
+    ]
+   },
+   {
+    "pos": 17,
+    "row": 3,
+    "col": 2,
+    "mesh": "SM_Plane_LavCupboard12_L",
+    "actor": "Lavatory L vanity cupboard12",
+    "size_m": [
+     0.04,
+     0.57,
+     0.54
+    ]
+   },
+   {
+    "pos": 18,
+    "row": 3,
+    "col": 3,
+    "mesh": "SM_Plane_LavCupboard12_R",
+    "actor": "Lavatory R vanity cupboard12",
+    "size_m": [
+     0.04,
+     0.57,
+     0.54
+    ]
+   },
+   {
+    "pos": 19,
+    "row": 3,
+    "col": 4,
+    "mesh": "SM_Plane_LavFlag13_L",
+    "actor": "Lavatory occupied shutter L13",
+    "size_m": [
+     0.01,
+     0.12,
+     0.05
+    ]
+   }
+  ]
+ },
+ {
+  "sheet": "sheet_12.png",
+  "tiles": [
+   {
+    "pos": 0,
+    "row": 0,
+    "col": 0,
+    "mesh": "SM_Plane_LavFlag13_R",
+    "actor": "Lavatory occupied shutter R13",
+    "size_m": [
+     0.01,
+     0.12,
+     0.05
+    ]
+   },
+   {
+    "pos": 1,
+    "row": 0,
+    "col": 1,
+    "mesh": "SM_Plane_LavFlush12_L",
+    "actor": "Lavatory L flush button12",
+    "size_m": [
+     0.05,
+     0.01,
+     0.05
+    ]
+   },
+   {
+    "pos": 2,
+    "row": 0,
+    "col": 2,
+    "mesh": "SM_Plane_LavFlush12_R",
+    "actor": "Lavatory R flush button12",
+    "size_m": [
+     0.05,
+     0.01,
+     0.05
+    ]
+   },
+   {
+    "pos": 3,
+    "row": 0,
+    "col": 3,
+    "mesh": "SM_Plane_LavFlushWater12_L",
+    "actor": "Lavatory L flush water12",
+    "size_m": [
+     0.3,
+     0.38,
+     0.04
+    ]
+   },
+   {
+    "pos": 4,
+    "row": 0,
+    "col": 4,
+    "mesh": "SM_Plane_LavFlushWater12_R",
+    "actor": "Lavatory R flush water12",
+    "size_m": [
+     0.3,
+     0.38,
+     0.04
+    ]
+   },
+   {
+    "pos": 5,
+    "row": 1,
+    "col": 0,
+    "mesh": "SM_Plane_LavInsideRelease13_L",
+    "actor": "Lavatory inside release L13",
+    "size_m": [
+     0.03,
+     0.16,
+     0.2
+    ]
+   },
+   {
+    "pos": 6,
+    "row": 1,
+    "col": 1,
+    "mesh": "SM_Plane_LavInsideRelease13_R",
+    "actor": "Lavatory inside release R13",
+    "size_m": [
+     0.03,
+     0.16,
+     0.2
+    ]
+   },
+   {
+    "pos": 7,
+    "row": 1,
+    "col": 2,
+    "mesh": "SM_Plane_LavLock13_L",
+    "actor": "Lavatory occupancy L13",
+    "size_m": [
+     0.04,
+     0.06,
+     0.06
+    ]
+   },
+   {
+    "pos": 8,
+    "row": 1,
+    "col": 3,
+    "mesh": "SM_Plane_LavLock13_R",
+    "actor": "Lavatory occupancy R13",
+    "size_m": [
+     0.04,
+     0.06,
+     0.06
+    ]
+   },
+   {
+    "pos": 9,
+    "row": 1,
+    "col": 4,
+    "mesh": "SM_Plane_LavMixer12_L",
+    "actor": "Lavatory L mixer lever12",
+    "size_m": [
+     0.07,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 10,
+    "row": 2,
+    "col": 0,
+    "mesh": "SM_Plane_LavMixer12_R",
+    "actor": "Lavatory R mixer lever12",
+    "size_m": [
+     0.07,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 11,
+    "row": 2,
+    "col": 1,
+    "mesh": "SM_Plane_LavServiceCover12_L",
+    "actor": "Lavatory L service cover12",
+    "size_m": [
+     0.3,
+     0.03,
+     0.39
+    ]
+   },
+   {
+    "pos": 12,
+    "row": 2,
+    "col": 2,
+    "mesh": "SM_Plane_LavServiceCover12_R",
+    "actor": "Lavatory R service cover12",
+    "size_m": [
+     0.3,
+     0.03,
+     0.39
+    ]
+   },
+   {
+    "pos": 13,
+    "row": 2,
+    "col": 3,
+    "mesh": "SM_Plane_LavStatus13_L",
+    "actor": "Lavatory status module L13",
+    "size_m": [
+     0.05,
+     0.18,
+     0.27
+    ]
+   },
+   {
+    "pos": 14,
+    "row": 2,
+    "col": 4,
+    "mesh": "SM_Plane_LavStatus13_R",
+    "actor": "Lavatory status module R13",
+    "size_m": [
+     0.05,
+     0.18,
+     0.27
+    ]
+   },
+   {
+    "pos": 15,
+    "row": 3,
+    "col": 0,
+    "mesh": "SM_Plane_LavToiletLid12_L",
+    "actor": "Lavatory L toilet lid12",
+    "size_m": [
+     0.42,
+     0.48,
+     0.04
+    ]
+   },
+   {
+    "pos": 16,
+    "row": 3,
+    "col": 1,
+    "mesh": "SM_Plane_LavToiletLid12_R",
+    "actor": "Lavatory R toilet lid12",
+    "size_m": [
+     0.42,
+     0.48,
+     0.04
+    ]
+   },
+   {
+    "pos": 17,
+    "row": 3,
+    "col": 2,
+    "mesh": "SM_Plane_LavWasteFlap12_L",
+    "actor": "Lavatory L waste flap12",
+    "size_m": [
+     0.25,
+     0.02,
+     0.15
+    ]
+   },
+   {
+    "pos": 18,
+    "row": 3,
+    "col": 3,
+    "mesh": "SM_Plane_LavWasteFlap12_R",
+    "actor": "Lavatory R waste flap12",
+    "size_m": [
+     0.25,
+     0.02,
+     0.15
+    ]
+   },
+   {
+    "pos": 19,
+    "row": 3,
+    "col": 4,
+    "mesh": "SM_Plane_LavWater12_L",
+    "actor": "Lavatory L tap water12",
+    "size_m": [
+     0.01,
+     0.01,
+     0.24
+    ]
+   }
+  ]
+ },
+ {
+  "sheet": "sheet_13.png",
+  "tiles": [
+   {
+    "pos": 0,
+    "row": 0,
+    "col": 0,
+    "mesh": "SM_Plane_LavWater12_R",
+    "actor": "Lavatory R tap water12",
+    "size_m": [
+     0.01,
+     0.01,
+     0.24
+    ]
+   },
+   {
+    "pos": 1,
+    "row": 0,
+    "col": 1,
+    "mesh": "SM_Plane_LavatoryDoor_L",
+    "actor": "Lavatory L door \u2014 hinge pivot",
+    "size_m": [
+     0.16,
+     0.97,
+     2.09
+    ]
+   },
+   {
+    "pos": 2,
+    "row": 0,
+    "col": 2,
+    "mesh": "SM_Plane_LavatoryDoor_R",
+    "actor": "Lavatory R door \u2014 hinge pivot",
+    "size_m": [
+     0.16,
+     0.97,
+     2.09
+    ]
+   },
+   {
+    "pos": 3,
+    "row": 0,
+    "col": 3,
+    "mesh": "SM_Plane_Lavatory_L",
+    "actor": "SM_Plane_Lavatory_L",
+    "size_m": [
+     1.66,
+     2.72,
+     2.27
+    ]
+   },
+   {
+    "pos": 4,
+    "row": 0,
+    "col": 4,
+    "mesh": "SM_Plane_Lavatory_R",
+    "actor": "SM_Plane_Lavatory_R",
+    "size_m": [
+     1.66,
+     2.72,
+     2.27
+    ]
+   },
+   {
+    "pos": 5,
+    "row": 1,
+    "col": 0,
+    "mesh": "SM_Plane_MidServiceDetails11",
+    "actor": "Mid galley fitted crew systems11",
+    "size_m": [
+     4.52,
+     1.2,
+     0.97
+    ]
+   },
+   {
+    "pos": 6,
+    "row": 1,
+    "col": 1,
+    "mesh": "SM_Plane_MidSide11_L",
+    "actor": "Mid linen11",
+    "size_m": [
+     0.44,
+     1.5,
+     1.08
+    ]
+   },
+   {
+    "pos": 7,
+    "row": 1,
+    "col": 2,
+    "mesh": "SM_Plane_MidSide11_R",
+    "actor": "Mid water waste11",
+    "size_m": [
+     0.44,
+     1.5,
+     1.08
+    ]
+   },
+   {
+    "pos": 8,
+    "row": 1,
+    "col": 3,
+    "mesh": "SM_Plane_OverheadBinDoor10_L",
+    "actor": "Overhead bin L 04",
+    "size_m": [
+     0.07,
+     1.28,
+     0.35
+    ]
+   },
+   {
+    "pos": 9,
+    "row": 1,
+    "col": 4,
+    "mesh": "SM_Plane_OverheadBinDoor10_R",
+    "actor": "Overhead bin R 04",
+    "size_m": [
+     0.07,
+     1.28,
+     0.35
+    ]
+   },
+   {
+    "pos": 10,
+    "row": 2,
+    "col": 0,
+    "mesh": "SM_Plane_OverheadToggle12_0",
+    "actor": "Cockpit overhead switch 0112",
+    "size_m": [
+     0.01,
+     0.03,
+     0.05
+    ]
+   },
+   {
+    "pos": 11,
+    "row": 2,
+    "col": 1,
+    "mesh": "SM_Plane_OverheadToggle12_1",
+    "actor": "Cockpit overhead switch 0212",
+    "size_m": [
+     0.01,
+     0.03,
+     0.05
+    ]
+   },
+   {
+    "pos": 12,
+    "row": 2,
+    "col": 2,
+    "mesh": "SM_Plane_OverheadToggle12_10",
+    "actor": "Cockpit overhead switch 1112",
+    "size_m": [
+     0.01,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 13,
+    "row": 2,
+    "col": 3,
+    "mesh": "SM_Plane_OverheadToggle12_11",
+    "actor": "Cockpit overhead switch 1212",
+    "size_m": [
+     0.01,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 14,
+    "row": 2,
+    "col": 4,
+    "mesh": "SM_Plane_OverheadToggle12_12",
+    "actor": "Cockpit overhead switch 1312",
+    "size_m": [
+     0.01,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 15,
+    "row": 3,
+    "col": 0,
+    "mesh": "SM_Plane_OverheadToggle12_13",
+    "actor": "Cockpit overhead switch 1412",
+    "size_m": [
+     0.01,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 16,
+    "row": 3,
+    "col": 1,
+    "mesh": "SM_Plane_OverheadToggle12_14",
+    "actor": "Cockpit overhead switch 1512",
+    "size_m": [
+     0.01,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 17,
+    "row": 3,
+    "col": 2,
+    "mesh": "SM_Plane_OverheadToggle12_15",
+    "actor": "Cockpit overhead switch 1612",
+    "size_m": [
+     0.01,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 18,
+    "row": 3,
+    "col": 3,
+    "mesh": "SM_Plane_OverheadToggle12_16",
+    "actor": "Cockpit overhead switch 1712",
+    "size_m": [
+     0.01,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 19,
+    "row": 3,
+    "col": 4,
+    "mesh": "SM_Plane_OverheadToggle12_17",
+    "actor": "Cockpit overhead switch 1812",
+    "size_m": [
+     0.01,
+     0.02,
+     0.05
+    ]
+   }
+  ]
+ },
+ {
+  "sheet": "sheet_14.png",
+  "tiles": [
+   {
+    "pos": 0,
+    "row": 0,
+    "col": 0,
+    "mesh": "SM_Plane_OverheadToggle12_2",
+    "actor": "Cockpit overhead switch 0312",
+    "size_m": [
+     0.01,
+     0.03,
+     0.05
+    ]
+   },
+   {
+    "pos": 1,
+    "row": 0,
+    "col": 1,
+    "mesh": "SM_Plane_OverheadToggle12_3",
+    "actor": "Cockpit overhead switch 0412",
+    "size_m": [
+     0.01,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 2,
+    "row": 0,
+    "col": 2,
+    "mesh": "SM_Plane_OverheadToggle12_4",
+    "actor": "Cockpit overhead switch 0512",
+    "size_m": [
+     0.01,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 3,
+    "row": 0,
+    "col": 3,
+    "mesh": "SM_Plane_OverheadToggle12_5",
+    "actor": "Cockpit overhead switch 0612",
+    "size_m": [
+     0.01,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 4,
+    "row": 0,
+    "col": 4,
+    "mesh": "SM_Plane_OverheadToggle12_6",
+    "actor": "Cockpit overhead switch 0712",
+    "size_m": [
+     0.01,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 5,
+    "row": 1,
+    "col": 0,
+    "mesh": "SM_Plane_OverheadToggle12_7",
+    "actor": "Cockpit overhead switch 0812",
+    "size_m": [
+     0.01,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 6,
+    "row": 1,
+    "col": 1,
+    "mesh": "SM_Plane_OverheadToggle12_8",
+    "actor": "Cockpit overhead switch 0912",
+    "size_m": [
+     0.01,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 7,
+    "row": 1,
+    "col": 2,
+    "mesh": "SM_Plane_OverheadToggle12_9",
+    "actor": "Cockpit overhead switch 1012",
+    "size_m": [
+     0.01,
+     0.03,
+     0.05
+    ]
+   },
+   {
+    "pos": 8,
+    "row": 1,
+    "col": 3,
+    "mesh": "SM_Plane_PSUCallIndicator12",
+    "actor": "PSU 01 CallIndicator12",
+    "size_m": [
+     0.03,
+     0.01,
+     0.0
+    ]
+   },
+   {
+    "pos": 9,
+    "row": 1,
+    "col": 4,
+    "mesh": "SM_Plane_PSUCallKey12",
+    "actor": "PSU 01 CallKey12",
+    "size_m": [
+     0.06,
+     0.05,
+     0.02
+    ]
+   },
+   {
+    "pos": 10,
+    "row": 2,
+    "col": 0,
+    "mesh": "SM_Plane_PSUGasper12",
+    "actor": "PSU 01 Gasper12",
+    "size_m": [
+     0.06,
+     0.06,
+     0.05
+    ]
+   },
+   {
+    "pos": 11,
+    "row": 2,
+    "col": 1,
+    "mesh": "SM_Plane_PSUMount12",
+    "actor": "Centre PSU ceiling attachment 03",
+    "size_m": [
+     0.22,
+     0.32,
+     0.22
+    ]
+   },
+   {
+    "pos": 12,
+    "row": 2,
+    "col": 2,
+    "mesh": "SM_Plane_PSUReadIndicator12",
+    "actor": "PSU 01 ReadIndicator12",
+    "size_m": [
+     0.03,
+     0.01,
+     0.0
+    ]
+   },
+   {
+    "pos": 13,
+    "row": 2,
+    "col": 3,
+    "mesh": "SM_Plane_PSUReadKey12",
+    "actor": "PSU 01 ReadKey12",
+    "size_m": [
+     0.06,
+     0.05,
+     0.02
+    ]
+   },
+   {
+    "pos": 14,
+    "row": 2,
+    "col": 4,
+    "mesh": "SM_Plane_PilotHeadset12_L",
+    "actor": "Pilot headset L12",
+    "size_m": [
+     0.11,
+     0.35,
+     0.51
+    ]
+   },
+   {
+    "pos": 15,
+    "row": 3,
+    "col": 0,
+    "mesh": "SM_Plane_PilotHeadset12_R",
+    "actor": "Pilot headset R12",
+    "size_m": [
+     0.11,
+     0.35,
+     0.51
+    ]
+   },
+   {
+    "pos": 16,
+    "row": 3,
+    "col": 1,
+    "mesh": "SM_Plane_PilotSeat17",
+    "actor": "SM_Plane_Seat.016",
+    "size_m": [
+     0.77,
+     0.7,
+     1.4
+    ]
+   },
+   {
+    "pos": 17,
+    "row": 3,
+    "col": 2,
+    "mesh": "SM_Plane_QuadrantLever12_0",
+    "actor": "Cockpit quadrant lever 112",
+    "size_m": [
+     0.09,
+     0.25,
+     0.42
+    ]
+   },
+   {
+    "pos": 18,
+    "row": 3,
+    "col": 3,
+    "mesh": "SM_Plane_QuadrantLever12_1",
+    "actor": "Cockpit quadrant lever 212",
+    "size_m": [
+     0.09,
+     0.25,
+     0.42
+    ]
+   },
+   {
+    "pos": 19,
+    "row": 3,
+    "col": 4,
+    "mesh": "SM_Plane_QuadrantLever12_2",
+    "actor": "Cockpit quadrant lever 312",
+    "size_m": [
+     0.09,
+     0.25,
+     0.42
+    ]
+   }
+  ]
+ },
+ {
+  "sheet": "sheet_15.png",
+  "tiles": [
+   {
+    "pos": 0,
+    "row": 0,
+    "col": 0,
+    "mesh": "SM_Plane_QuadrantLever12_3",
+    "actor": "Cockpit quadrant lever 412",
+    "size_m": [
+     0.09,
+     0.25,
+     0.42
+    ]
+   },
+   {
+    "pos": 1,
+    "row": 0,
+    "col": 1,
+    "mesh": "SM_Plane_RadarGraphics12",
+    "actor": "Cockpit radar phosphor graphics12",
+    "size_m": [
+     1.2,
+     0.13,
+     0.35
+    ]
+   },
+   {
+    "pos": 2,
+    "row": 0,
+    "col": 2,
+    "mesh": "SM_Plane_RearExtinguisher13",
+    "actor": "Rear extinguisher -113",
+    "size_m": [
+     0.23,
+     0.18,
+     0.56
+    ]
+   },
+   {
+    "pos": 3,
+    "row": 0,
+    "col": 3,
+    "mesh": "SM_Plane_SafetyCard12",
+    "actor": "Passenger safety card 0112",
+    "size_m": [
+     0.2,
+     0.01,
+     0.21
+    ]
+   },
+   {
+    "pos": 4,
+    "row": 0,
+    "col": 4,
+    "mesh": "SM_Plane_Seat",
+    "actor": "Economy 03 A",
+    "size_m": [
+     0.77,
+     0.76,
+     1.4
+    ]
+   },
+   {
+    "pos": 5,
+    "row": 1,
+    "col": 0,
+    "mesh": "SM_Plane_Seat13Rear",
+    "actor": "Economy 12 A",
+    "size_m": [
+     0.77,
+     0.75,
+     1.4
+    ]
+   },
+   {
+    "pos": 6,
+    "row": 1,
+    "col": 1,
+    "mesh": "SM_Plane_SeatPair",
+    "actor": "Economy 03 D E",
+    "size_m": [
+     1.46,
+     0.76,
+     1.4
+    ]
+   },
+   {
+    "pos": 7,
+    "row": 1,
+    "col": 2,
+    "mesh": "SM_Plane_SeatPair13Rear",
+    "actor": "Economy 12 D E",
+    "size_m": [
+     1.46,
+     0.75,
+     1.4
+    ]
+   },
+   {
+    "pos": 8,
+    "row": 1,
+    "col": 3,
+    "mesh": "SM_Plane_Service12_Forward_dispatch_drawer_1",
+    "actor": "Forward_dispatch_drawer_1",
+    "size_m": [
+     0.52,
+     0.81,
+     0.27
+    ]
+   },
+   {
+    "pos": 9,
+    "row": 1,
+    "col": 4,
+    "mesh": "SM_Plane_Service12_Forward_dispatch_drawer_2",
+    "actor": "Forward_dispatch_drawer_2",
+    "size_m": [
+     0.52,
+     0.81,
+     0.27
+    ]
+   },
+   {
+    "pos": 10,
+    "row": 2,
+    "col": 0,
+    "mesh": "SM_Plane_Service12_Forward_dispatch_drawer_3",
+    "actor": "Forward_dispatch_drawer_3",
+    "size_m": [
+     0.52,
+     0.81,
+     0.27
+    ]
+   },
+   {
+    "pos": 11,
+    "row": 2,
+    "col": 1,
+    "mesh": "SM_Plane_Service12_Forward_dispatch_locker",
+    "actor": "Forward_dispatch_locker",
+    "size_m": [
+     0.08,
+     0.56,
+     0.8
+    ]
+   },
+   {
+    "pos": 12,
+    "row": 2,
+    "col": 2,
+    "mesh": "SM_Plane_Service12_Mid_cleaning",
+    "actor": "Mid_cleaning",
+    "size_m": [
+     0.67,
+     0.08,
+     0.61
+    ]
+   },
+   {
+    "pos": 13,
+    "row": 2,
+    "col": 3,
+    "mesh": "SM_Plane_Service12_Mid_coffee_brew",
+    "actor": "Mid_coffee_brew",
+    "size_m": [
+     0.06,
+     0.02,
+     0.06
+    ]
+   },
+   {
+    "pos": 14,
+    "row": 2,
+    "col": 4,
+    "mesh": "SM_Plane_Service12_Mid_coffee_brew_indicator",
+    "actor": "Mid_coffee_brew_indicator",
+    "size_m": [
+     0.02,
+     0.01,
+     0.02
+    ]
+   },
+   {
+    "pos": 15,
+    "row": 3,
+    "col": 0,
+    "mesh": "SM_Plane_Service12_Mid_coffee_coffee_stream",
+    "actor": "Mid_coffee_coffee_stream",
+    "size_m": [
+     0.01,
+     0.01,
+     0.22
+    ]
+   },
+   {
+    "pos": 16,
+    "row": 3,
+    "col": 1,
+    "mesh": "SM_Plane_Service12_Mid_coffee_reservoir",
+    "actor": "Mid_coffee_reservoir",
+    "size_m": [
+     0.14,
+     0.08,
+     0.37
+    ]
+   },
+   {
+    "pos": 17,
+    "row": 3,
+    "col": 2,
+    "mesh": "SM_Plane_Service12_Mid_crockery",
+    "actor": "Mid_crockery",
+    "size_m": [
+     0.64,
+     0.08,
+     0.8
+    ]
+   },
+   {
+    "pos": 18,
+    "row": 3,
+    "col": 3,
+    "mesh": "SM_Plane_Service12_Mid_cutlery_drawer",
+    "actor": "Mid_cutlery_drawer",
+    "size_m": [
+     0.66,
+     0.55,
+     0.2
+    ]
+   },
+   {
+    "pos": 19,
+    "row": 3,
+    "col": 4,
+    "mesh": "SM_Plane_Service12_Mid_lower_oven_door",
+    "actor": "Mid_lower_oven_door",
+    "size_m": [
+     0.64,
+     0.12,
+     0.39
+    ]
+   }
+  ]
+ },
+ {
+  "sheet": "sheet_16.png",
+  "tiles": [
+   {
+    "pos": 0,
+    "row": 0,
+    "col": 0,
+    "mesh": "SM_Plane_Service12_Mid_lower_oven_heat_indicator",
+    "actor": "Mid_lower_oven_heat_indicator",
+    "size_m": [
+     0.03,
+     0.01,
+     0.03
+    ]
+   },
+   {
+    "pos": 1,
+    "row": 0,
+    "col": 1,
+    "mesh": "SM_Plane_Service12_Mid_lower_oven_power",
+    "actor": "Mid_lower_oven_power",
+    "size_m": [
+     0.05,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 2,
+    "row": 0,
+    "col": 2,
+    "mesh": "SM_Plane_Service12_Mid_meals_cart",
+    "actor": "Mid_meals_cart",
+    "size_m": [
+     0.65,
+     0.08,
+     0.8
+    ]
+   },
+   {
+    "pos": 3,
+    "row": 0,
+    "col": 3,
+    "mesh": "SM_Plane_Service12_Mid_port_service_drawer_1",
+    "actor": "Mid_port_service_drawer_1",
+    "size_m": [
+     0.38,
+     0.83,
+     0.27
+    ]
+   },
+   {
+    "pos": 4,
+    "row": 0,
+    "col": 4,
+    "mesh": "SM_Plane_Service12_Mid_port_service_drawer_2",
+    "actor": "Mid_port_service_drawer_2",
+    "size_m": [
+     0.38,
+     0.83,
+     0.27
+    ]
+   },
+   {
+    "pos": 5,
+    "row": 1,
+    "col": 0,
+    "mesh": "SM_Plane_Service12_Mid_port_service_drawer_3",
+    "actor": "Mid_port_service_drawer_3",
+    "size_m": [
+     0.38,
+     0.83,
+     0.27
+    ]
+   },
+   {
+    "pos": 6,
+    "row": 1,
+    "col": 1,
+    "mesh": "SM_Plane_Service12_Mid_port_service_locker",
+    "actor": "Mid_port_service_locker",
+    "size_m": [
+     0.08,
+     0.57,
+     0.8
+    ]
+   },
+   {
+    "pos": 7,
+    "row": 1,
+    "col": 2,
+    "mesh": "SM_Plane_Service12_Mid_starboard_service_drawer_1",
+    "actor": "Mid_starboard_service_drawer_1",
+    "size_m": [
+     0.38,
+     0.83,
+     0.27
+    ]
+   },
+   {
+    "pos": 8,
+    "row": 1,
+    "col": 3,
+    "mesh": "SM_Plane_Service12_Mid_starboard_service_drawer_2",
+    "actor": "Mid_starboard_service_drawer_2",
+    "size_m": [
+     0.38,
+     0.83,
+     0.27
+    ]
+   },
+   {
+    "pos": 9,
+    "row": 1,
+    "col": 4,
+    "mesh": "SM_Plane_Service12_Mid_starboard_service_drawer_3",
+    "actor": "Mid_starboard_service_drawer_3",
+    "size_m": [
+     0.38,
+     0.83,
+     0.27
+    ]
+   },
+   {
+    "pos": 10,
+    "row": 2,
+    "col": 0,
+    "mesh": "SM_Plane_Service12_Mid_starboard_service_locker",
+    "actor": "Mid_starboard_service_locker",
+    "size_m": [
+     0.08,
+     0.57,
+     0.8
+    ]
+   },
+   {
+    "pos": 11,
+    "row": 2,
+    "col": 1,
+    "mesh": "SM_Plane_Service12_Mid_upper_oven_door",
+    "actor": "Mid_upper_oven_door",
+    "size_m": [
+     0.64,
+     0.12,
+     0.39
+    ]
+   },
+   {
+    "pos": 12,
+    "row": 2,
+    "col": 2,
+    "mesh": "SM_Plane_Service12_Mid_upper_oven_heat_indicator",
+    "actor": "Mid_upper_oven_heat_indicator",
+    "size_m": [
+     0.03,
+     0.01,
+     0.03
+    ]
+   },
+   {
+    "pos": 13,
+    "row": 2,
+    "col": 3,
+    "mesh": "SM_Plane_Service12_Mid_upper_oven_power",
+    "actor": "Mid_upper_oven_power",
+    "size_m": [
+     0.05,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 14,
+    "row": 2,
+    "col": 4,
+    "mesh": "SM_Plane_Service12_Mid_upper_supplies",
+    "actor": "Mid_upper_supplies",
+    "size_m": [
+     0.67,
+     0.08,
+     0.41
+    ]
+   },
+   {
+    "pos": 15,
+    "row": 3,
+    "col": 0,
+    "mesh": "SM_Plane_Service12_Mid_wash_tap",
+    "actor": "Mid_wash_tap",
+    "size_m": [
+     0.05,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 16,
+    "row": 3,
+    "col": 1,
+    "mesh": "SM_Plane_Service12_Mid_wash_water_stream",
+    "actor": "Mid_wash_water_stream",
+    "size_m": [
+     0.01,
+     0.01,
+     0.32
+    ]
+   },
+   {
+    "pos": 17,
+    "row": 3,
+    "col": 2,
+    "mesh": "SM_Plane_Service12_Rear_L_coffee_brew",
+    "actor": "Rear_L_coffee_brew",
+    "size_m": [
+     0.06,
+     0.02,
+     0.06
+    ]
+   },
+   {
+    "pos": 18,
+    "row": 3,
+    "col": 3,
+    "mesh": "SM_Plane_Service12_Rear_L_coffee_brew_indicator",
+    "actor": "Rear_L_coffee_brew_indicator",
+    "size_m": [
+     0.02,
+     0.01,
+     0.02
+    ]
+   },
+   {
+    "pos": 19,
+    "row": 3,
+    "col": 4,
+    "mesh": "SM_Plane_Service12_Rear_L_coffee_coffee_stream",
+    "actor": "Rear_L_coffee_coffee_stream",
+    "size_m": [
+     0.01,
+     0.01,
+     0.22
+    ]
+   }
+  ]
+ },
+ {
+  "sheet": "sheet_17.png",
+  "tiles": [
+   {
+    "pos": 0,
+    "row": 0,
+    "col": 0,
+    "mesh": "SM_Plane_Service12_Rear_L_coffee_reservoir",
+    "actor": "Rear_L_coffee_reservoir",
+    "size_m": [
+     0.14,
+     0.08,
+     0.37
+    ]
+   },
+   {
+    "pos": 1,
+    "row": 0,
+    "col": 1,
+    "mesh": "SM_Plane_Service12_Rear_L_lower_oven_door",
+    "actor": "Rear_L_lower_oven_door",
+    "size_m": [
+     0.55,
+     0.12,
+     0.39
+    ]
+   },
+   {
+    "pos": 2,
+    "row": 0,
+    "col": 2,
+    "mesh": "SM_Plane_Service12_Rear_L_lower_oven_heat_indicator",
+    "actor": "Rear_L_lower_oven_heat_indicator",
+    "size_m": [
+     0.03,
+     0.01,
+     0.03
+    ]
+   },
+   {
+    "pos": 3,
+    "row": 0,
+    "col": 3,
+    "mesh": "SM_Plane_Service12_Rear_L_lower_oven_power",
+    "actor": "Rear_L_lower_oven_power",
+    "size_m": [
+     0.05,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 4,
+    "row": 0,
+    "col": 4,
+    "mesh": "SM_Plane_Service12_Rear_L_meal_cart",
+    "actor": "Rear_L_meal_cart",
+    "size_m": [
+     0.55,
+     0.08,
+     0.8
+    ]
+   },
+   {
+    "pos": 5,
+    "row": 1,
+    "col": 0,
+    "mesh": "SM_Plane_Service12_Rear_L_supplies",
+    "actor": "Rear_L_supplies",
+    "size_m": [
+     0.55,
+     0.08,
+     0.8
+    ]
+   },
+   {
+    "pos": 6,
+    "row": 1,
+    "col": 1,
+    "mesh": "SM_Plane_Service12_Rear_L_upper_cups",
+    "actor": "Rear_L_upper_cups",
+    "size_m": [
+     0.55,
+     0.08,
+     0.25
+    ]
+   },
+   {
+    "pos": 7,
+    "row": 1,
+    "col": 2,
+    "mesh": "SM_Plane_Service12_Rear_L_upper_oven_door",
+    "actor": "Rear_L_upper_oven_door",
+    "size_m": [
+     0.55,
+     0.12,
+     0.39
+    ]
+   },
+   {
+    "pos": 8,
+    "row": 1,
+    "col": 3,
+    "mesh": "SM_Plane_Service12_Rear_L_upper_oven_heat_indicator",
+    "actor": "Rear_L_upper_oven_heat_indicator",
+    "size_m": [
+     0.03,
+     0.01,
+     0.03
+    ]
+   },
+   {
+    "pos": 9,
+    "row": 1,
+    "col": 4,
+    "mesh": "SM_Plane_Service12_Rear_L_upper_oven_power",
+    "actor": "Rear_L_upper_oven_power",
+    "size_m": [
+     0.05,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 10,
+    "row": 2,
+    "col": 0,
+    "mesh": "SM_Plane_Service12_Rear_R_coffee_brew",
+    "actor": "Rear_R_coffee_brew",
+    "size_m": [
+     0.06,
+     0.02,
+     0.06
+    ]
+   },
+   {
+    "pos": 11,
+    "row": 2,
+    "col": 1,
+    "mesh": "SM_Plane_Service12_Rear_R_coffee_brew_indicator",
+    "actor": "Rear_R_coffee_brew_indicator",
+    "size_m": [
+     0.02,
+     0.01,
+     0.02
+    ]
+   },
+   {
+    "pos": 12,
+    "row": 2,
+    "col": 2,
+    "mesh": "SM_Plane_Service12_Rear_R_coffee_coffee_stream",
+    "actor": "Rear_R_coffee_coffee_stream",
+    "size_m": [
+     0.01,
+     0.01,
+     0.22
+    ]
+   },
+   {
+    "pos": 13,
+    "row": 2,
+    "col": 3,
+    "mesh": "SM_Plane_Service12_Rear_R_coffee_reservoir",
+    "actor": "Rear_R_coffee_reservoir",
+    "size_m": [
+     0.14,
+     0.08,
+     0.37
+    ]
+   },
+   {
+    "pos": 14,
+    "row": 2,
+    "col": 4,
+    "mesh": "SM_Plane_Service12_Rear_R_lower_oven_door",
+    "actor": "Rear_R_lower_oven_door",
+    "size_m": [
+     0.55,
+     0.12,
+     0.39
+    ]
+   },
+   {
+    "pos": 15,
+    "row": 3,
+    "col": 0,
+    "mesh": "SM_Plane_Service12_Rear_R_lower_oven_heat_indicator",
+    "actor": "Rear_R_lower_oven_heat_indicator",
+    "size_m": [
+     0.03,
+     0.01,
+     0.03
+    ]
+   },
+   {
+    "pos": 16,
+    "row": 3,
+    "col": 1,
+    "mesh": "SM_Plane_Service12_Rear_R_lower_oven_power",
+    "actor": "Rear_R_lower_oven_power",
+    "size_m": [
+     0.05,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 17,
+    "row": 3,
+    "col": 2,
+    "mesh": "SM_Plane_Service12_Rear_R_meal_cart",
+    "actor": "Rear_R_meal_cart",
+    "size_m": [
+     0.55,
+     0.08,
+     0.8
+    ]
+   },
+   {
+    "pos": 18,
+    "row": 3,
+    "col": 3,
+    "mesh": "SM_Plane_Service12_Rear_R_supplies",
+    "actor": "Rear_R_supplies",
+    "size_m": [
+     0.55,
+     0.08,
+     0.8
+    ]
+   },
+   {
+    "pos": 19,
+    "row": 3,
+    "col": 4,
+    "mesh": "SM_Plane_Service12_Rear_R_upper_cups",
+    "actor": "Rear_R_upper_cups",
+    "size_m": [
+     0.55,
+     0.08,
+     0.25
+    ]
+   }
+  ]
+ },
+ {
+  "sheet": "sheet_18.png",
+  "tiles": [
+   {
+    "pos": 0,
+    "row": 0,
+    "col": 0,
+    "mesh": "SM_Plane_Service12_Rear_R_upper_oven_door",
+    "actor": "Rear_R_upper_oven_door",
+    "size_m": [
+     0.55,
+     0.12,
+     0.39
+    ]
+   },
+   {
+    "pos": 1,
+    "row": 0,
+    "col": 1,
+    "mesh": "SM_Plane_Service12_Rear_R_upper_oven_heat_indicator",
+    "actor": "Rear_R_upper_oven_heat_indicator",
+    "size_m": [
+     0.03,
+     0.01,
+     0.03
+    ]
+   },
+   {
+    "pos": 2,
+    "row": 0,
+    "col": 2,
+    "mesh": "SM_Plane_Service12_Rear_R_upper_oven_power",
+    "actor": "Rear_R_upper_oven_power",
+    "size_m": [
+     0.05,
+     0.02,
+     0.05
+    ]
+   },
+   {
+    "pos": 3,
+    "row": 0,
+    "col": 3,
+    "mesh": "SM_Plane_Service12_Rear_centre_left",
+    "actor": "Rear_centre_left",
+    "size_m": [
+     0.61,
+     0.08,
+     0.88
+    ]
+   },
+   {
+    "pos": 4,
+    "row": 0,
+    "col": 4,
+    "mesh": "SM_Plane_Service12_Rear_centre_right",
+    "actor": "Rear_centre_right",
+    "size_m": [
+     0.61,
+     0.08,
+     0.88
+    ]
+   },
+   {
+    "pos": 5,
+    "row": 1,
+    "col": 0,
+    "mesh": "SM_Plane_Service12_Rear_dispatch_drawer_1",
+    "actor": "Rear_dispatch_drawer_1",
+    "size_m": [
+     0.52,
+     0.83,
+     0.27
+    ]
+   },
+   {
+    "pos": 6,
+    "row": 1,
+    "col": 1,
+    "mesh": "SM_Plane_Service12_Rear_dispatch_drawer_2",
+    "actor": "Rear_dispatch_drawer_2",
+    "size_m": [
+     0.52,
+     0.83,
+     0.27
+    ]
+   },
+   {
+    "pos": 7,
+    "row": 1,
+    "col": 2,
+    "mesh": "SM_Plane_Service12_Rear_dispatch_drawer_3",
+    "actor": "Rear_dispatch_drawer_3",
+    "size_m": [
+     0.52,
+     0.83,
+     0.27
+    ]
+   },
+   {
+    "pos": 8,
+    "row": 1,
+    "col": 3,
+    "mesh": "SM_Plane_Service12_Rear_dispatch_locker",
+    "actor": "Rear_dispatch_locker",
+    "size_m": [
+     0.08,
+     0.57,
+     0.8
+    ]
+   },
+   {
+    "pos": 9,
+    "row": 1,
+    "col": 4,
+    "mesh": "SM_Plane_Service12_Rear_service_drawer_1",
+    "actor": "Rear_service_drawer_1",
+    "size_m": [
+     0.42,
+     0.83,
+     0.27
+    ]
+   },
+   {
+    "pos": 10,
+    "row": 2,
+    "col": 0,
+    "mesh": "SM_Plane_Service12_Rear_service_drawer_2",
+    "actor": "Rear_service_drawer_2",
+    "size_m": [
+     0.42,
+     0.83,
+     0.27
+    ]
+   },
+   {
+    "pos": 11,
+    "row": 2,
+    "col": 1,
+    "mesh": "SM_Plane_Service12_Rear_service_drawer_3",
+    "actor": "Rear_service_drawer_3",
+    "size_m": [
+     0.42,
+     0.83,
+     0.27
+    ]
+   },
+   {
+    "pos": 12,
+    "row": 2,
+    "col": 2,
+    "mesh": "SM_Plane_Service12_Rear_service_locker",
+    "actor": "Rear_service_locker",
+    "size_m": [
+     0.08,
+     0.57,
+     0.8
+    ]
+   },
+   {
+    "pos": 13,
+    "row": 2,
+    "col": 3,
+    "mesh": "SM_Plane_Service12_Rear_upper_left",
+    "actor": "Rear_upper_left",
+    "size_m": [
+     0.61,
+     0.08,
+     0.47
+    ]
+   },
+   {
+    "pos": 14,
+    "row": 2,
+    "col": 4,
+    "mesh": "SM_Plane_Service12_Rear_upper_right",
+    "actor": "Rear_upper_right",
+    "size_m": [
+     0.61,
+     0.08,
+     0.47
+    ]
+   },
+   {
+    "pos": 15,
+    "row": 3,
+    "col": 0,
+    "mesh": "SM_Plane_ServiceInterphone12",
+    "actor": "Mid main phone base12",
+    "size_m": [
+     0.19,
+     0.11,
+     0.49
+    ]
+   },
+   {
+    "pos": 16,
+    "row": 3,
+    "col": 1,
+    "mesh": "SM_Plane_ServiceReceiver12",
+    "actor": "Mid main phone receiver12",
+    "size_m": [
+     0.08,
+     0.06,
+     0.25
+    ]
+   },
+   {
+    "pos": 17,
+    "row": 3,
+    "col": 2,
+    "mesh": "SM_Plane_SidePushcap12_0",
+    "actor": "Cockpit side pushbutton 0112",
+    "size_m": [
+     0.04,
+     0.03,
+     0.04
+    ]
+   },
+   {
+    "pos": 18,
+    "row": 3,
+    "col": 3,
+    "mesh": "SM_Plane_SidePushcap12_1",
+    "actor": "Cockpit side pushbutton 0212",
+    "size_m": [
+     0.04,
+     0.03,
+     0.04
+    ]
+   },
+   {
+    "pos": 19,
+    "row": 3,
+    "col": 4,
+    "mesh": "SM_Plane_SidePushcap12_2",
+    "actor": "Cockpit side pushbutton 0312",
+    "size_m": [
+     0.04,
+     0.03,
+     0.04
+    ]
+   }
+  ]
+ },
+ {
+  "sheet": "sheet_19.png",
+  "tiles": [
+   {
+    "pos": 0,
+    "row": 0,
+    "col": 0,
+    "mesh": "SM_Plane_SidePushcap12_3",
+    "actor": "Cockpit side pushbutton 0412",
+    "size_m": [
+     0.04,
+     0.03,
+     0.04
+    ]
+   },
+   {
+    "pos": 1,
+    "row": 0,
+    "col": 1,
+    "mesh": "SM_Plane_SidePushcap12_4",
+    "actor": "Cockpit side pushbutton 0512",
+    "size_m": [
+     0.04,
+     0.03,
+     0.04
+    ]
+   },
+   {
+    "pos": 2,
+    "row": 0,
+    "col": 2,
+    "mesh": "SM_Plane_SidePushcap12_5",
+    "actor": "Cockpit side pushbutton 0612",
+    "size_m": [
+     0.04,
+     0.03,
+     0.04
+    ]
+   },
+   {
+    "pos": 3,
+    "row": 0,
+    "col": 3,
+    "mesh": "SM_Plane_SideRotary12_0",
+    "actor": "Cockpit side rotary 112",
+    "size_m": [
+     0.05,
+     0.05,
+     0.03
+    ]
+   },
+   {
+    "pos": 4,
+    "row": 0,
+    "col": 4,
+    "mesh": "SM_Plane_SideRotary12_1",
+    "actor": "Cockpit side rotary 212",
+    "size_m": [
+     0.05,
+     0.05,
+     0.03
+    ]
+   },
+   {
+    "pos": 5,
+    "row": 1,
+    "col": 0,
+    "mesh": "SM_Plane_SideRotary12_2",
+    "actor": "Cockpit side rotary 312",
+    "size_m": [
+     0.05,
+     0.05,
+     0.03
+    ]
+   },
+   {
+    "pos": 6,
+    "row": 1,
+    "col": 1,
+    "mesh": "SM_Plane_SideRotary12_3",
+    "actor": "Cockpit side rotary 412",
+    "size_m": [
+     0.05,
+     0.05,
+     0.03
+    ]
+   },
+   {
+    "pos": 7,
+    "row": 1,
+    "col": 2,
+    "mesh": "SM_Plane_SideRotary12_4",
+    "actor": "Cockpit side rotary 512",
+    "size_m": [
+     0.05,
+     0.05,
+     0.03
+    ]
+   },
+   {
+    "pos": 8,
+    "row": 1,
+    "col": 3,
+    "mesh": "SM_Plane_SideRotary12_5",
+    "actor": "Cockpit side rotary 612",
+    "size_m": [
+     0.05,
+     0.05,
+     0.03
+    ]
+   },
+   {
+    "pos": 9,
+    "row": 1,
+    "col": 4,
+    "mesh": "SM_Plane_StatusPushcap12_0",
+    "actor": "Cockpit status pushlight 112",
+    "size_m": [
+     0.09,
+     0.02,
+     0.09
+    ]
+   },
+   {
+    "pos": 10,
+    "row": 2,
+    "col": 0,
+    "mesh": "SM_Plane_StatusPushcap12_1",
+    "actor": "Cockpit status pushlight 212",
+    "size_m": [
+     0.09,
+     0.02,
+     0.09
+    ]
+   },
+   {
+    "pos": 11,
+    "row": 2,
+    "col": 1,
+    "mesh": "SM_Plane_Suite11_L",
+    "actor": "Private suite 01 A",
+    "size_m": [
+     1.41,
+     2.38,
+     1.35
+    ]
+   },
+   {
+    "pos": 12,
+    "row": 2,
+    "col": 2,
+    "mesh": "SM_Plane_Suite11_R",
+    "actor": "Private suite 01 K",
+    "size_m": [
+     1.41,
+     2.38,
+     1.35
+    ]
+   },
+   {
+    "pos": 13,
+    "row": 2,
+    "col": 3,
+    "mesh": "SM_Plane_SuiteDetails11_L",
+    "actor": "Suite personal fittings 01 L",
+    "size_m": [
+     0.39,
+     1.06,
+     0.69
+    ]
+   },
+   {
+    "pos": 14,
+    "row": 2,
+    "col": 4,
+    "mesh": "SM_Plane_SuiteDetails11_R",
+    "actor": "Suite personal fittings 01 R",
+    "size_m": [
+     0.39,
+     1.06,
+     0.69
+    ]
+   },
+   {
+    "pos": 15,
+    "row": 3,
+    "col": 0,
+    "mesh": "SM_Plane_SuiteDoor11_L",
+    "actor": "Suite privacy door 01 A",
+    "size_m": [
+     0.06,
+     0.91,
+     1.29
+    ]
+   },
+   {
+    "pos": 16,
+    "row": 3,
+    "col": 1,
+    "mesh": "SM_Plane_SuiteDoor11_R",
+    "actor": "Suite privacy door 01 K",
+    "size_m": [
+     0.06,
+     0.91,
+     1.29
+    ]
+   },
+   {
+    "pos": 17,
+    "row": 3,
+    "col": 2,
+    "mesh": "SM_Plane_UtilityKnob13_POWER",
+    "actor": "Galley power isolation13",
+    "size_m": [
+     0.06,
+     0.04,
+     0.06
+    ]
+   },
+   {
+    "pos": 18,
+    "row": 3,
+    "col": 3,
+    "mesh": "SM_Plane_UtilityKnob13_WATER",
+    "actor": "Galley water isolation13",
+    "size_m": [
+     0.06,
+     0.04,
+     0.06
+    ]
+   },
+   {
+    "pos": 19,
+    "row": 3,
+    "col": 4,
+    "mesh": "SM_Plane_UtilityPanel13",
+    "actor": "Galley utility enclosure13",
+    "size_m": [
+     0.48,
+     0.08,
+     0.38
+    ]
+   }
+  ]
+ },
+ {
+  "sheet": "sheet_20.png",
+  "tiles": [
+   {
+    "pos": 0,
+    "row": 0,
+    "col": 0,
+    "mesh": "SM_Plane_WindowShadeSlat18_L",
+    "actor": "Window shade 02 L18 section 1",
+    "size_m": [
+     0.01,
+     0.7,
+     0.26
+    ]
+   },
+   {
+    "pos": 1,
+    "row": 0,
+    "col": 1,
+    "mesh": "SM_Plane_WindowShadeSlat18_R",
+    "actor": "Window shade 01 R18 section 1",
+    "size_m": [
+     0.01,
+     0.7,
+     0.26
+    ]
+   }
+  ]
+ }
+]

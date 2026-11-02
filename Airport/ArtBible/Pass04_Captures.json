@@ -1,0 +1,29 @@
+{
+  "status": "SUCCESS",
+  "pass_id": 4,
+  "pass_name": "Security lanes, trays, operator equipment and barriers",
+  "captures": [
+    {
+      "file": "Pass04_01_Entrance.png",
+      "sha256": "bba56df196d48a6a98234d4879f1e2a7e5c85b1adc8332fae923561c96438999",
+      "camera": "01_Entrance"
+    },
+    {
+      "file": "Pass04_03_Security.png",
+      "sha256": "7bd5f02c8a6df33f12187952b2586b1181213bdce23a277f16cbfb0bb2daea79",
+      "camera": "03_Security"
+    },
+    {
+      "file": "Pass04_06_Gate.png",
+      "sha256": "ad167638204edb43bfe43d33500d12636bd134cdab8d6d677fd6fc4218f59e94",
+      "camera": "06_Gate"
+    },
+    {
+      "file": "Pass04_02_Departures.png",
+      "sha256": "ca180a959e0d1e14b26671909b7e71c8b0e4cdb10f183a2acfb7b78fd03840a8",
+      "camera": "02_Departures"
+    }
+  ],
+  "runtime_sha256": "cb71573c3626e1e41e1d4ff77d8698cde23dea7052d46f92f1a550abec8d3cdc",
+  "native_bodies": 0
+}

@@ -1,0 +1,24 @@
+{
+  "status": "READY",
+  "map": "/Game/Airport30/L_Airport_Checkin30",
+  "zone": "checkin",
+  "player": [
+    -39.82112939120572,
+    -10.91224447443249,
+    1.62
+  ],
+  "journey": {
+    "checked_in": false,
+    "security": false,
+    "boarding": false,
+    "aboard": false
+  },
+  "controlled_doors": {
+    "Screening entry24 leaf 0": 0,
+    "Screening entry24 leaf 1": 0,
+    "Screening exit24 leaf 0": 0,
+    "Screening exit24 leaf 1": 0,
+    "Staff service leaf24": 0
+  },
+  "updated": 1793201867.0731602
+}

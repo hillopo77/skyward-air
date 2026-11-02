@@ -1,0 +1,38 @@
+{
+ "status": "SUCCESS",
+ "airside": null,
+ "captures": [
+  {
+   "name": "Z03_checkin_in",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\T4\\Z03_checkin_in.png"
+  },
+  {
+   "name": "Z16_gate07_in",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\T4\\Z16_gate07_in.png"
+  },
+  {
+   "name": "Z31_arrivals_in",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\T4\\Z31_arrivals_in.png"
+  },
+  {
+   "name": "H1_hall_from_foyer",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\T4\\H1_hall_from_foyer.png"
+  },
+  {
+   "name": "H2_hall_from_east",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\T4\\H2_hall_from_east.png"
+  },
+  {
+   "name": "H4_hall_entrance",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\T4\\H4_hall_entrance.png"
+  },
+  {
+   "name": "G1_gate08_tall",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\T4\\G1_gate08_tall.png"
+  },
+  {
+   "name": "L3_roof_sign",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\T4\\L3_roof_sign.png"
+  }
+ ]
+}

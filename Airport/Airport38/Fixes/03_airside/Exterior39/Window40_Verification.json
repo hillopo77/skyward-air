@@ -1,0 +1,68 @@
+{
+  "scope": "Factory-empty private source build only; current master and shared manifests untouched",
+  "passes": [
+    {
+      "pass_id": 1,
+      "check": "Measured original envelope defect and coordinated aperture/gasket reconstruction",
+      "original_liner_outside_skin_m": 0.061194344869528905,
+      "kits": 10
+    },
+    {
+      "pass_id": 2,
+      "check": "Actual evaluated geometry, single pane, no obsolete cassette or wall penetration",
+      "evaluated_triangles": 130086,
+      "zero_area_triangles": 0,
+      "minimum_wall_inside_skin_m": 0.005999870845374122
+    },
+    {
+      "pass_id": 3,
+      "check": "All48 real five-leaf mechanisms through41 retained curved-stow states; unchanged switches",
+      "sampled_vertices": 6844704,
+      "minimum_skin_clearance_m": 0.017075641994553692,
+      "minimum_business_clearance_m": 0.005999736785888832,
+      "idempotent": true
+    },
+    {
+      "pass_id": 4,
+      "check": "Actual evaluated upper rack crown/end cheeks clear cassette; retain all bin hinges/door/underbody/contents",
+      "sides": [
+        {
+          "side": "L",
+          "minimum_high_service_gap_m": 0.06020074844360357
+        },
+        {
+          "side": "R",
+          "minimum_high_service_gap_m": 0.06020074844360357
+        }
+      ]
+    },
+    {
+      "pass_id": 5,
+      "check": "Actual opaque geometry ray visibility across88percent rounded clear aperture, both sides",
+      "rays": 66,
+      "clear": 66
+    },
+    {
+      "pass_id": 6,
+      "check": "Actual rack-triangle intersections against moving shade plate interiors at41 stroke states",
+      "cross_section_tests": 10250,
+      "collisions": 0
+    }
+  ],
+  "passed": true,
+  "changed_assets": [
+    "SM_AP_W40WindowWallL",
+    "SM_AP_W40WindowWallR",
+    "SM_AP_W40PressureWindows",
+    "SM_AP_W40CargoBayWindows",
+    "SM_AP_W40ShadeFrameL",
+    "SM_AP_W40ShadeFrameR",
+    "SM_AP_W40RackL",
+    "SM_AP_W40RackR",
+    "SM_AP_W40ShadeHandleL",
+    "SM_AP_W40ShadeHandleR"
+  ],
+  "source_instances": 198,
+  "source_parts": 240,
+  "native_visual_review_required": true
+}

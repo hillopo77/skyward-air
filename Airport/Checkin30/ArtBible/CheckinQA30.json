@@ -1,0 +1,232 @@
+{
+  "status": "SUCCESS",
+  "checks": [
+    {
+      "name": "Starts with check-in objective",
+      "passed": true
+    },
+    {
+      "name": "Native viewport1920x1080",
+      "passed": true
+    },
+    {
+      "name": "Check-in desk 01 quarter-turn matches layout",
+      "passed": true
+    },
+    {
+      "name": "Check-in desk 01 placed correctly",
+      "passed": true
+    },
+    {
+      "name": "Check-in desk 02 quarter-turn matches layout",
+      "passed": true
+    },
+    {
+      "name": "Check-in desk 02 placed correctly",
+      "passed": true
+    },
+    {
+      "name": "Bag drop belt 01 travels along rotated belt",
+      "passed": true
+    },
+    {
+      "name": "Bag drop belt 02 travels along rotated belt",
+      "passed": true
+    },
+    {
+      "name": "One queue with three waiting passengers",
+      "passed": true
+    },
+    {
+      "name": "Two staffed counters",
+      "passed": true
+    },
+    {
+      "name": "Queue width is1.9m",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-48.3, -12.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-46, -15]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-42, -15]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-42, -13]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-40.8, -13]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-39.4, -13]",
+      "passed": true
+    },
+    {
+      "name": "Entry arrives behind the last queue passenger",
+      "passed": true,
+      "player": [
+        -39.48862676111662,
+        -13.00064725564789
+      ],
+      "last_passenger": [
+        -37.5,
+        -13.0
+      ]
+    },
+    {
+      "name": "Counter rejects queue jumping",
+      "passed": true
+    },
+    {
+      "name": "Aim reaches Queue entry marker29",
+      "passed": true,
+      "selected": "Queue entry marker29"
+    },
+    {
+      "name": "Live queue advances all three passengers",
+      "passed": true
+    },
+    {
+      "name": "Player is called to the desk",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-32.1, -13]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-32.1, -10.6]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-31.8, -10.6]",
+      "passed": true
+    },
+    {
+      "name": "Aim reaches Check-in desk 01",
+      "passed": true,
+      "selected": "Check-in desk 01"
+    },
+    {
+      "name": "Rotated counter issues boarding pass",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-33.0, -10.6]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-33.0, -15.7]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-35.7, -15.8]",
+      "passed": true
+    },
+    {
+      "name": "Aim reaches Physical luggage 02",
+      "passed": true,
+      "selected": "Physical luggage 02"
+    },
+    {
+      "name": "Walk reaches [-32.1, -15.7]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-31.8, -12.6]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-30.7, -12.6]",
+      "passed": true
+    },
+    {
+      "name": "Aim reaches Bag drop belt 01",
+      "passed": true,
+      "selected": "Bag drop belt 01"
+    },
+    {
+      "name": "Rotated conveyor accepts the physical suitcase",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-32.1, -12.6]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-32.1, -8.8]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-30, -8.8]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-30, -6]",
+      "passed": true
+    },
+    {
+      "name": "Room exit connects to the unchanged landside corridor",
+      "passed": true
+    },
+    {
+      "name": "Departing passengers remain separated in corridor",
+      "passed": true,
+      "minimum_spacing_m": 2.2702898168480687
+    }
+  ],
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin30\\Screenshots\\01_Arrival.png",
+      "sha256": "2a8ab592f822c1f77660964071dbdc0a5148f6f3290a790e7a7e1c8bf0b7fdd6",
+      "view": "01_Arrival"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin30\\Screenshots\\02_ServiceHall.png",
+      "sha256": "8a46dad5818df9001d96d4a356045bccadeda96d3f2a81acc2658b91b9fb3333",
+      "view": "02_ServiceHall"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin30\\Screenshots\\03_DeskCraft.png",
+      "sha256": "7d8bb20178177d328921d40ec44006a345f6bf901f32caa617ff4859177f513e",
+      "view": "03_DeskCraft"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin30\\Screenshots\\04_SelfService.png",
+      "sha256": "3b66e0deb03057144f07eda3b62725f51e90b903bc515aca2b6e5d33ba2139d9",
+      "view": "04_SelfService"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin30\\Screenshots\\05_WaitingLounge.png",
+      "sha256": "f80d88021b4f661d167693fa654e586373a22f419ff68b6ae53c5ea15017399b",
+      "view": "05_WaitingLounge"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin30\\Screenshots\\06_Overview.png",
+      "sha256": "64556fa4e7db71f8bed3c24310e8f436e1b418830c32c8b9f55077f3bf3760ba",
+      "view": "06_Overview"
+    }
+  ],
+  "step": 45,
+  "continuous_walk": true,
+  "teleports": 0,
+  "elapsed_s": 40.95300000000134,
+  "viewport": [
+    1920,
+    1080
+  ],
+  "journey": {
+    "checked_in": true,
+    "bag_accepted": true,
+    "security": false,
+    "aboard": false
+  }
+}

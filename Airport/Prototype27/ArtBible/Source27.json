@@ -1,0 +1,126 @@
+{
+  "status": "SUCCESS",
+  "source_sha256": "6e2f22470149db23d9c652af4e68ef25d9282ac24cba559e2bc8832008415eed",
+  "families": 11,
+  "construction": [
+    "Fitted panel expansion joints, metal dado, ceiling reveals and backed diffuser housings",
+    "Raster sign faces with authored UV0, closed housings, gaskets and captive hardware",
+    "Bowed solid information carcass, matching curved doors, interior shelves, supported screen and accessible help button",
+    "Spline-shaped continuous seat cushions, supporting shells, sewn piping, cast curved arm frames and anchored feet",
+    "Final scrutiny: supported extinguisher cradle, folded safety spine, curved leaf lofts and thrown planter profile"
+  ],
+  "views": [
+    {
+      "name": "01_Arrival",
+      "eye": [
+        -48.3,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.3,
+        -13.6,
+        1.62
+      ],
+      "fov": 78
+    },
+    {
+      "name": "02_WelcomeDesk",
+      "eye": [
+        -47.9,
+        -13.9,
+        1.62
+      ],
+      "target": [
+        -43.38,
+        -10.3,
+        1.55
+      ],
+      "fov": 72
+    },
+    {
+      "name": "03_Seating",
+      "eye": [
+        -44.5,
+        -13.2,
+        1.62
+      ],
+      "target": [
+        -46.7,
+        -17.1,
+        1.44
+      ],
+      "fov": 74
+    },
+    {
+      "name": "04_WelcomeWall",
+      "eye": [
+        -46.7,
+        -13.3,
+        1.62
+      ],
+      "target": [
+        -46,
+        -8.2,
+        2.0
+      ],
+      "fov": 72
+    },
+    {
+      "name": "05_FromDesk",
+      "eye": [
+        -44.9,
+        -9.1,
+        1.62
+      ],
+      "target": [
+        -48.3,
+        -13.5,
+        1.62
+      ],
+      "fov": 78
+    },
+    {
+      "name": "06_DetailCabinet",
+      "eye": [
+        -44.95,
+        -10.8,
+        1.42
+      ],
+      "target": [
+        -43.5,
+        -10.1,
+        0.91
+      ],
+      "fov": 68
+    },
+    {
+      "name": "07_DetailSeat",
+      "eye": [
+        -45.9,
+        -15.8,
+        1.2
+      ],
+      "target": [
+        -46.8,
+        -17.1,
+        0.67
+      ],
+      "fov": 70
+    },
+    {
+      "name": "08_DistantRoute",
+      "eye": [
+        -50.25,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.25,
+        -13.8,
+        1.7
+      ],
+      "fov": 78
+    }
+  ]
+}

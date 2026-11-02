@@ -1,0 +1,24 @@
+{
+  "status": "SUCCESS",
+  "changed_placements": 29,
+  "people": 9,
+  "labels": 3,
+  "architecture_placements_unchanged": 1867,
+  "asset_scales_unchanged": true,
+  "quarters_turn_exact": true,
+  "room_boundaries_unchanged": true,
+  "conveyor_directions": [
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ],
+    [
+      1,
+      0
+    ]
+  ]
+}

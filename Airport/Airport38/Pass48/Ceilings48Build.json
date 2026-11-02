@@ -1,0 +1,191 @@
+{
+ "rooms": [
+  {
+   "room": "landsidehall",
+   "ceiling": 6.6,
+   "baffles": 0,
+   "wave_baffles": 45,
+   "deepest": 0.75,
+   "light_runs": 3,
+   "light_lines": [
+    7,
+    24,
+    39
+   ]
+  },
+  {
+   "room": "publicreturn",
+   "ceiling": 3.2,
+   "baffles": 12,
+   "wave_baffles": 0,
+   "deepest": 0.0,
+   "light_runs": 1,
+   "light_lines": [
+    6
+   ]
+  },
+  {
+   "room": "security",
+   "ceiling": 3.5,
+   "baffles": 0,
+   "wave_baffles": 41,
+   "deepest": 0.43,
+   "light_runs": 2,
+   "light_lines": [
+    10,
+    32
+   ]
+  },
+  {
+   "room": "recovery",
+   "ceiling": 3.4,
+   "baffles": 0,
+   "wave_baffles": 12,
+   "deepest": 0.242,
+   "light_runs": 1,
+   "light_lines": [
+    6
+   ]
+  },
+  {
+   "room": "concourse",
+   "ceiling": 3.4,
+   "baffles": 0,
+   "wave_baffles": 21,
+   "deepest": 0.43,
+   "light_runs": 1,
+   "light_lines": [
+    9
+   ]
+  },
+  {
+   "room": "gate07",
+   "ceiling": 6.4,
+   "baffles": 0,
+   "wave_baffles": 30,
+   "deepest": 0.65,
+   "light_runs": 2,
+   "light_lines": [
+    7,
+    22
+   ]
+  },
+  {
+   "room": "gate07entry",
+   "ceiling": 3.4,
+   "baffles": 13,
+   "wave_baffles": 0,
+   "deepest": 0.0,
+   "light_runs": 1,
+   "light_lines": [
+    4
+   ]
+  },
+  {
+   "room": "gate08",
+   "ceiling": 6.4,
+   "baffles": 0,
+   "wave_baffles": 25,
+   "deepest": 0.65,
+   "light_runs": 2,
+   "light_lines": [
+    6,
+    19
+   ]
+  },
+  {
+   "room": "cafefoyer",
+   "ceiling": 3.4,
+   "baffles": 0,
+   "wave_baffles": 19,
+   "deepest": 0.384,
+   "light_runs": 1,
+   "light_lines": [
+    9
+   ]
+  },
+  {
+   "room": "amenitylobby",
+   "ceiling": 3.0,
+   "baffles": 9,
+   "wave_baffles": 0,
+   "deepest": 0.0,
+   "light_runs": 1,
+   "light_lines": [
+    4
+   ]
+  },
+  {
+   "room": "arrivals",
+   "ceiling": 6.4,
+   "baffles": 0,
+   "wave_baffles": 24,
+   "deepest": 0.612,
+   "light_runs": 2,
+   "light_lines": [
+    6,
+    19
+   ]
+  },
+  {
+   "room": "arrivalsreturn",
+   "ceiling": 3.6,
+   "baffles": 10,
+   "wave_baffles": 0,
+   "deepest": 0.0,
+   "light_runs": 1,
+   "light_lines": [
+    5
+   ]
+  },
+  {
+   "room": "cafe_low",
+   "ceiling": 4.4,
+   "baffles": 0,
+   "wave_baffles": 48,
+   "deepest": 0.55,
+   "light_runs": 2,
+   "light_lines": [
+    1,
+    20
+   ]
+  },
+  {
+   "room": "cafe_high",
+   "ceiling": 6.8,
+   "baffles": 0,
+   "wave_baffles": 34,
+   "deepest": 0.85,
+   "light_runs": 1,
+   "light_lines": [
+    9
+   ]
+  },
+  {
+   "room": "canopy",
+   "ceiling": 3.69,
+   "baffles": 32,
+   "wave_baffles": 0,
+   "deepest": 0.0,
+   "light_runs": 2,
+   "light_lines": [
+    8,
+    19
+   ]
+  }
+ ],
+ "pendants": 0,
+ "flush": 9,
+ "status": "SUCCESS",
+ "asset": "SM_AP_P48Ceilings",
+ "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass48\\CeilingBuild\\SM_AP_P48Ceilings.fbx",
+ "materials": [
+  "MI_AP_P43TOak",
+  "MI_AP_P38AHousing",
+  "MI_AP_P38AOpal",
+  "MI_AP_P38AFrame",
+  "MI_AP_P38ANavy",
+  "MI_AP_P38AGold"
+ ],
+ "polygons": 83416
+}

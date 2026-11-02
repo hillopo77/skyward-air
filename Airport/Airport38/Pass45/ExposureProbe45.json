@@ -1,0 +1,1219 @@
+{
+  "status": "SUCCESS",
+  "purpose": "entrance exposure boundary evidence; no repair applied",
+  "boundary_under_test": {
+    "portal_x": -49.0,
+    "volume_west_face_x": -48.98,
+    "zone": "entrancefoyer",
+    "y": -12.5
+  },
+  "settle_seconds": 2.2,
+  "camera": "player pawn camera, default view target (not the detached capture camera)",
+  "step": 26,
+  "total": 26,
+  "cvars": {
+    "r.ScreenPercentage": 100.0,
+    "r.Tonemapper.Sharpen": 0.10000000149011612,
+    "r.SSGI.Quality": 3.0,
+    "r.DynamicGlobalIlluminationMethod": 0.0,
+    "r.AntiAliasingMethod": 2.0,
+    "r.TemporalAASamples": 16.0,
+    "r.TemporalAACurrentFrameWeight": 0.10000000149011612,
+    "r.Shadow.MaxResolution": 4096.0,
+    "r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange": 1.0
+  },
+  "volumes": [
+    {
+      "label": "AP38 warm grade amenities",
+      "unbound": false,
+      "priority": 1538.0,
+      "blend_radius": 120.0,
+      "blend_weight": 1.0,
+      "location": [
+        -18.5,
+        -7.5,
+        1.4
+      ],
+      "scale": [
+        4.5,
+        4.5,
+        1.4
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 6.5,
+      "override_exposure_max": true,
+      "exposure_max": 6.5,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 0.25999999046325684,
+      "ao_intensity": 0.2199999988079071,
+      "bloom_intensity": 0.04500000178813934
+    },
+    {
+      "label": "AP38 warm grade amenitylobby",
+      "unbound": false,
+      "priority": 1538.0,
+      "blend_radius": 120.0,
+      "blend_weight": 1.0,
+      "location": [
+        -24.5,
+        -6.5,
+        1.5
+      ],
+      "scale": [
+        1.5,
+        5.5,
+        1.5
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 6.5,
+      "override_exposure_max": true,
+      "exposure_max": 6.5,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 0.25999999046325684,
+      "ao_intensity": 0.2199999988079071,
+      "bloom_intensity": 0.04500000178813934
+    },
+    {
+      "label": "AP38 warm grade arrivals",
+      "unbound": false,
+      "priority": 1538.0,
+      "blend_radius": 120.0,
+      "blend_weight": 1.0,
+      "location": [
+        -18.0,
+        -17.0,
+        1.8
+      ],
+      "scale": [
+        4.0,
+        5.0,
+        1.8
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 6.5,
+      "override_exposure_max": true,
+      "exposure_max": 6.5,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 0.25999999046325684,
+      "ao_intensity": 0.2199999988079071,
+      "bloom_intensity": 0.04500000178813934
+    },
+    {
+      "label": "AP38 warm grade arrivalsreturn",
+      "unbound": false,
+      "priority": 1538.0,
+      "blend_radius": 120.0,
+      "blend_weight": 1.0,
+      "location": [
+        -23.5,
+        -20.25,
+        1.8
+      ],
+      "scale": [
+        1.5,
+        1.75,
+        1.8
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 6.5,
+      "override_exposure_max": true,
+      "exposure_max": 6.5,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 0.25999999046325684,
+      "ao_intensity": 0.2199999988079071,
+      "bloom_intensity": 0.04500000178813934
+    },
+    {
+      "label": "AP38 warm grade baggageservice",
+      "unbound": false,
+      "priority": 1538.0,
+      "blend_radius": 120.0,
+      "blend_weight": 1.0,
+      "location": [
+        -24.0,
+        -15.25,
+        1.6
+      ],
+      "scale": [
+        2.0,
+        3.25,
+        1.6
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 6.5,
+      "override_exposure_max": true,
+      "exposure_max": 6.5,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 0.25999999046325684,
+      "ao_intensity": 0.2199999988079071,
+      "bloom_intensity": 0.04500000178813934
+    },
+    {
+      "label": "AP38 warm grade cafe",
+      "unbound": false,
+      "priority": 1538.0,
+      "blend_radius": 120.0,
+      "blend_weight": 1.0,
+      "location": [
+        -40.5,
+        25.0,
+        3.4
+      ],
+      "scale": [
+        8.5,
+        9.0,
+        3.4
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 6.5,
+      "override_exposure_max": true,
+      "exposure_max": 6.5,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 0.25999999046325684,
+      "ao_intensity": 0.2199999988079071,
+      "bloom_intensity": 0.04500000178813934
+    },
+    {
+      "label": "AP38 warm grade cafefoyer",
+      "unbound": false,
+      "priority": 1538.0,
+      "blend_radius": 120.0,
+      "blend_weight": 1.0,
+      "location": [
+        -35.0,
+        13.0,
+        1.7
+      ],
+      "scale": [
+        3.0,
+        3.0,
+        1.7
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 6.5,
+      "override_exposure_max": true,
+      "exposure_max": 6.5,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 0.25999999046325684,
+      "ao_intensity": 0.2199999988079071,
+      "bloom_intensity": 0.04500000178813934
+    },
+    {
+      "label": "AP38 warm grade checkin",
+      "unbound": false,
+      "priority": 1538.0,
+      "blend_radius": 120.0,
+      "blend_weight": 1.0,
+      "location": [
+        -34.5,
+        -13.0,
+        1.9
+      ],
+      "scale": [
+        8.5,
+        5.0,
+        1.9
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 6.5,
+      "override_exposure_max": true,
+      "exposure_max": 6.5,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 0.25999999046325684,
+      "ao_intensity": 0.2199999988079071,
+      "bloom_intensity": 0.04500000178813934
+    },
+    {
+      "label": "AP38 warm grade concourse",
+      "unbound": false,
+      "priority": 1538.0,
+      "blend_radius": 120.0,
+      "blend_weight": 1.0,
+      "location": [
+        -29.0,
+        5.0,
+        1.7
+      ],
+      "scale": [
+        3.0,
+        9.0,
+        1.7
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 6.5,
+      "override_exposure_max": true,
+      "exposure_max": 6.5,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 0.25999999046325684,
+      "ao_intensity": 0.2199999988079071,
+      "bloom_intensity": 0.04500000178813934
+    },
+    {
+      "label": "AP38 warm grade entrancefoyer",
+      "unbound": false,
+      "priority": 1538.0,
+      "blend_radius": 120.0,
+      "blend_weight": 1.0,
+      "location": [
+        -46.0,
+        -13.0,
+        1.8
+      ],
+      "scale": [
+        3.0,
+        5.0,
+        1.8
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 6.5,
+      "override_exposure_max": true,
+      "exposure_max": 6.5,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 0.25999999046325684,
+      "ao_intensity": 0.2199999988079071,
+      "bloom_intensity": 0.04500000178813934
+    },
+    {
+      "label": "AP38 warm grade gate07",
+      "unbound": false,
+      "priority": 1538.0,
+      "blend_radius": 120.0,
+      "blend_weight": 1.0,
+      "location": [
+        -18.5,
+        3.5,
+        1.7
+      ],
+      "scale": [
+        4.5,
+        6.5,
+        1.7
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 6.5,
+      "override_exposure_max": true,
+      "exposure_max": 6.5,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 0.25999999046325684,
+      "ao_intensity": 0.2199999988079071,
+      "bloom_intensity": 0.04500000178813934
+    },
+    {
+      "label": "AP38 warm grade gate07entry",
+      "unbound": false,
+      "priority": 1538.0,
+      "blend_radius": 120.0,
+      "blend_weight": 1.0,
+      "location": [
+        -24.5,
+        4.5,
+        1.7
+      ],
+      "scale": [
+        1.5,
+        5.5,
+        1.7
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 6.5,
+      "override_exposure_max": true,
+      "exposure_max": 6.5,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 0.25999999046325684,
+      "ao_intensity": 0.2199999988079071,
+      "bloom_intensity": 0.04500000178813934
+    },
+    {
+      "label": "AP38 warm grade gate08",
+      "unbound": false,
+      "priority": 1538.0,
+      "blend_radius": 120.0,
+      "blend_weight": 1.0,
+      "location": [
+        -28.0,
+        24.0,
+        1.9
+      ],
+      "scale": [
+        4.0,
+        10.0,
+        1.9
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 6.5,
+      "override_exposure_max": true,
+      "exposure_max": 6.5,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 0.25999999046325684,
+      "ao_intensity": 0.2199999988079071,
+      "bloom_intensity": 0.04500000178813934
+    },
+    {
+      "label": "AP38 warm grade landsidecorridor",
+      "unbound": false,
+      "priority": 1538.0,
+      "blend_radius": 120.0,
+      "blend_weight": 1.0,
+      "location": [
+        -37.5,
+        -6.0,
+        1.7
+      ],
+      "scale": [
+        11.5,
+        2.0,
+        1.7
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 6.5,
+      "override_exposure_max": true,
+      "exposure_max": 6.5,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 0.25999999046325684,
+      "ao_intensity": 0.2199999988079071,
+      "bloom_intensity": 0.04500000178813934
+    },
+    {
+      "label": "AP38 warm grade operations",
+      "unbound": false,
+      "priority": 1538.0,
+      "blend_radius": 120.0,
+      "blend_weight": 1.0,
+      "location": [
+        -43.5,
+        13.0,
+        1.5
+      ],
+      "scale": [
+        5.5,
+        3.0,
+        1.5
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 6.5,
+      "override_exposure_max": true,
+      "exposure_max": 6.5,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 0.25999999046325684,
+      "ao_intensity": 0.2199999988079071,
+      "bloom_intensity": 0.04500000178813934
+    },
+    {
+      "label": "AP38 warm grade publicreturn",
+      "unbound": false,
+      "priority": 1538.0,
+      "blend_radius": 120.0,
+      "blend_weight": 1.0,
+      "location": [
+        -37.5,
+        -20.0,
+        1.6
+      ],
+      "scale": [
+        11.5,
+        2.0,
+        1.6
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 6.5,
+      "override_exposure_max": true,
+      "exposure_max": 6.5,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 0.25999999046325684,
+      "ao_intensity": 0.2199999988079071,
+      "bloom_intensity": 0.04500000178813934
+    },
+    {
+      "label": "AP38 warm grade publicreturneast",
+      "unbound": false,
+      "priority": 1538.0,
+      "blend_radius": 120.0,
+      "blend_weight": 1.0,
+      "location": [
+        -25.5,
+        -20.25,
+        1.6
+      ],
+      "scale": [
+        0.5,
+        1.75,
+        1.6
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 6.5,
+      "override_exposure_max": true,
+      "exposure_max": 6.5,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 0.25999999046325684,
+      "ao_intensity": 0.2199999988079071,
+      "bloom_intensity": 0.04500000178813934
+    },
+    {
+      "label": "AP38 warm grade recovery",
+      "unbound": false,
+      "priority": 1538.0,
+      "blend_radius": 120.0,
+      "blend_weight": 1.0,
+      "location": [
+        -34.0,
+        5.0,
+        1.7
+      ],
+      "scale": [
+        2.0,
+        5.0,
+        1.7
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 6.5,
+      "override_exposure_max": true,
+      "exposure_max": 6.5,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 0.25999999046325684,
+      "ao_intensity": 0.2199999988079071,
+      "bloom_intensity": 0.04500000178813934
+    },
+    {
+      "label": "AP38 warm grade security",
+      "unbound": false,
+      "priority": 1538.0,
+      "blend_radius": 120.0,
+      "blend_weight": 1.0,
+      "location": [
+        -42.5,
+        3.0,
+        1.75
+      ],
+      "scale": [
+        6.5,
+        7.0,
+        1.75
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 6.5,
+      "override_exposure_max": true,
+      "exposure_max": 6.5,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 0.25999999046325684,
+      "ao_intensity": 0.2199999988079071,
+      "bloom_intensity": 0.04500000178813934
+    },
+    {
+      "label": "Airport clean daylight grade",
+      "unbound": true,
+      "priority": 1000.0,
+      "blend_radius": 100.0,
+      "blend_weight": 1.0,
+      "location": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 6.5,
+      "override_exposure_max": true,
+      "exposure_max": 6.5,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 0.25999999046325684,
+      "ao_intensity": 0.30000001192092896,
+      "bloom_intensity": 0.10000000149011612
+    },
+    {
+      "label": "Airport26 journey overlay",
+      "unbound": true,
+      "priority": 500.0,
+      "blend_radius": 100.0,
+      "blend_weight": 1.0,
+      "location": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 6.5,
+      "override_exposure_max": true,
+      "exposure_max": 6.5,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 0.25999999046325684,
+      "ao_intensity": 0.5,
+      "bloom_intensity": 0.675000011920929
+    },
+    {
+      "label": "Checkin33 warm welcoming grade",
+      "unbound": false,
+      "priority": 1200.0,
+      "blend_radius": 55.0,
+      "blend_weight": 1.0,
+      "location": [
+        -34.5,
+        -13.0,
+        1.9
+      ],
+      "scale": [
+        8.45,
+        4.95,
+        1.88
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 5.900000095367432,
+      "override_exposure_max": true,
+      "exposure_max": 5.900000095367432,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 1.0,
+      "ao_intensity": 0.2199999988079071,
+      "bloom_intensity": 0.04500000178813934
+    },
+    {
+      "label": "Entrance27 local surface separation",
+      "unbound": false,
+      "priority": 1100.0,
+      "blend_radius": 50.0,
+      "blend_weight": 1.0,
+      "location": [
+        -46.0,
+        -13.0,
+        1.8
+      ],
+      "scale": [
+        2.95,
+        4.95,
+        1.78
+      ],
+      "override_exposure_min": false,
+      "exposure_min": -10.0,
+      "override_exposure_max": false,
+      "exposure_max": 20.0,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": false,
+      "gi_method": "<DynamicGlobalIlluminationMethod.LUMEN: 1>",
+      "ambient_cubemap_intensity": 1.0,
+      "ao_intensity": 0.41999998688697815,
+      "bloom_intensity": 0.07000000029802322
+    },
+    {
+      "label": "PostProcessVolume",
+      "unbound": true,
+      "priority": 0.0,
+      "blend_radius": 100.0,
+      "blend_weight": 1.0,
+      "location": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "override_exposure_min": true,
+      "exposure_min": 6.5,
+      "override_exposure_max": true,
+      "exposure_max": 6.5,
+      "exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+      "exposure_speed_up": 3.0,
+      "exposure_speed_down": 1.0,
+      "override_gi_method": true,
+      "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+      "ambient_cubemap_intensity": 0.25999999046325684,
+      "ao_intensity": 0.3499999940395355,
+      "bloom_intensity": 0.11999999731779099
+    }
+  ],
+  "captures": [
+    {
+      "name": "A1_OutsideLookingIn",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\A1_OutsideLookingIn.png",
+      "sha256": "541776e39e5b61e2aaa50504a7f3dadebaea719f8b91b145e3768be7f574757a",
+      "eye": [
+        -53.0,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -44.0,
+        -12.5,
+        1.6
+      ],
+      "inside_zone": null,
+      "inside_grade_volume": null,
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "A2_InsideLookingOut",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\A2_InsideLookingOut.png",
+      "sha256": "0b2678a2010860a1662234efdd7ffdc81a58677f5d2440dd758f535db5546078",
+      "eye": [
+        -46.0,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -56.0,
+        -12.5,
+        1.62
+      ],
+      "inside_zone": "entrancefoyer",
+      "inside_grade_volume": "entrancefoyer",
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "A3_InsideGalleryView",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\A3_InsideGalleryView.png",
+      "sha256": "1480cdb993aa972456f8e8e3a3ca84eb098e523365989ee275c793c02bc56b0a",
+      "eye": [
+        -46.8,
+        -13.0,
+        1.62
+      ],
+      "target": [
+        -43.2,
+        -15.0,
+        1.6
+      ],
+      "inside_zone": "entrancefoyer",
+      "inside_grade_volume": "entrancefoyer",
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "A4_ForecourtGalleryView",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\A4_ForecourtGalleryView.png",
+      "sha256": "a5ebcea2f2035fdbe24b9a86dbf52e41e4de216b0fb0c36d93b5de1f9c347628",
+      "eye": [
+        -57.0,
+        -15.0,
+        1.7
+      ],
+      "target": [
+        -48.0,
+        -12.5,
+        1.7
+      ],
+      "inside_zone": null,
+      "inside_grade_volume": null,
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "A5_DoorwayStraddleOut",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\A5_DoorwayStraddleOut.png",
+      "sha256": "607bc1633af53e4f869185944d8179d4f62ee8dc195608c04a5acce59484bf7c",
+      "eye": [
+        -49.3,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.0,
+        -12.5,
+        1.55
+      ],
+      "inside_zone": null,
+      "inside_grade_volume": null,
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "A6_DoorwayStraddleIn",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\A6_DoorwayStraddleIn.png",
+      "sha256": "212b6fe05eb6e8c3606dbb69560462f66afd0e26e82201508eda11f41fecf69a",
+      "eye": [
+        -48.7,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.0,
+        -12.5,
+        1.55
+      ],
+      "inside_zone": "entrancefoyer",
+      "inside_grade_volume": "entrancefoyer",
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "B_sweep_x-053.000",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\B_sweep_x-053.000.png",
+      "sha256": "fa6ce5c0906312a1925f4be43b1e72744cacd49809f4e1a062b4114002528221",
+      "eye": [
+        -53.0,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.0,
+        -12.5,
+        1.55
+      ],
+      "inside_zone": null,
+      "inside_grade_volume": null,
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "B_sweep_x-052.000",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\B_sweep_x-052.000.png",
+      "sha256": "7a46def6b1a968b46393f3320f5fea3c75a369ec9c27d31da669a90a032a1fa8",
+      "eye": [
+        -52.0,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.0,
+        -12.5,
+        1.55
+      ],
+      "inside_zone": null,
+      "inside_grade_volume": null,
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "B_sweep_x-051.000",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\B_sweep_x-051.000.png",
+      "sha256": "94f04f1c956558307578e4d01c3cd68864642bb553e842225db540312fdbca13",
+      "eye": [
+        -51.0,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.0,
+        -12.5,
+        1.55
+      ],
+      "inside_zone": null,
+      "inside_grade_volume": null,
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "B_sweep_x-050.000",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\B_sweep_x-050.000.png",
+      "sha256": "35fca5eccb46ff16ec45712f68d12dea5fd436c290ecc7ded2b562c7ee00386e",
+      "eye": [
+        -50.0,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.0,
+        -12.5,
+        1.55
+      ],
+      "inside_zone": null,
+      "inside_grade_volume": null,
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "B_sweep_x-049.600",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\B_sweep_x-049.600.png",
+      "sha256": "f430dcabfa10159f17e82fb1592d77ab4d6fd561b295ede125be8a571e61d7d1",
+      "eye": [
+        -49.6,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.0,
+        -12.5,
+        1.55
+      ],
+      "inside_zone": null,
+      "inside_grade_volume": null,
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "B_sweep_x-049.400",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\B_sweep_x-049.400.png",
+      "sha256": "2acbd148f746b33ffb03700d23f78f54eab97236e47cfbfc1955a250a310178a",
+      "eye": [
+        -49.4,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.0,
+        -12.5,
+        1.55
+      ],
+      "inside_zone": null,
+      "inside_grade_volume": null,
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "B_sweep_x-049.200",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\B_sweep_x-049.200.png",
+      "sha256": "790d8f45ef66e6dc3a9e318a85c0565b4231a8f6678f4b81e25f1ad1d64a731d",
+      "eye": [
+        -49.2,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.0,
+        -12.5,
+        1.55
+      ],
+      "inside_zone": null,
+      "inside_grade_volume": null,
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "B_sweep_x-049.100",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\B_sweep_x-049.100.png",
+      "sha256": "3f91d844e0c44ac54517e1681fcb36c79b17418076cf8e51526c6c0d4f010b48",
+      "eye": [
+        -49.1,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.0,
+        -12.5,
+        1.55
+      ],
+      "inside_zone": null,
+      "inside_grade_volume": null,
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "B_sweep_x-049.050",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\B_sweep_x-049.050.png",
+      "sha256": "9c70d9ad2302b38eb42b4e2fb8ec5369d317582d502917a638096a0c323052f4",
+      "eye": [
+        -49.05,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.0,
+        -12.5,
+        1.55
+      ],
+      "inside_zone": null,
+      "inside_grade_volume": null,
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "B_sweep_x-049.000",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\B_sweep_x-049.000.png",
+      "sha256": "bec5e218db2cda292d9b14ef27add053e6a3264cf514aec6331361b60a54fe50",
+      "eye": [
+        -49.0,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.0,
+        -12.5,
+        1.55
+      ],
+      "inside_zone": "entrancefoyer",
+      "inside_grade_volume": null,
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "B_sweep_x-048.980",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\B_sweep_x-048.980.png",
+      "sha256": "164dbb4dc844d21aca5f92fb35c0b9ecd71e2384f33989d2193d983de84bdc3a",
+      "eye": [
+        -48.98,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.0,
+        -12.5,
+        1.55
+      ],
+      "inside_zone": "entrancefoyer",
+      "inside_grade_volume": "entrancefoyer",
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "B_sweep_x-048.960",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\B_sweep_x-048.960.png",
+      "sha256": "b923bea56bb8b2b8e6ce574a5ccbe4a12ba71b876a09439d27916384007c3c88",
+      "eye": [
+        -48.96,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.0,
+        -12.5,
+        1.55
+      ],
+      "inside_zone": "entrancefoyer",
+      "inside_grade_volume": "entrancefoyer",
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "B_sweep_x-048.900",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\B_sweep_x-048.900.png",
+      "sha256": "b45930c78642d43be73182bf755c095d6e35ffdf3a8a1fe059decc7adcf93ac2",
+      "eye": [
+        -48.9,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.0,
+        -12.5,
+        1.55
+      ],
+      "inside_zone": "entrancefoyer",
+      "inside_grade_volume": "entrancefoyer",
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "B_sweep_x-048.800",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\B_sweep_x-048.800.png",
+      "sha256": "755cff37ac9ed341f679b4dce1e7d9f7f45d2e851f00e8eac352a0b2dc154a8f",
+      "eye": [
+        -48.8,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.0,
+        -12.5,
+        1.55
+      ],
+      "inside_zone": "entrancefoyer",
+      "inside_grade_volume": "entrancefoyer",
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "B_sweep_x-048.600",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\B_sweep_x-048.600.png",
+      "sha256": "86ac6d3b5dd0bf1e1f84bc3a253c4af8e8d85c2efa08039b07184a4caa921f2f",
+      "eye": [
+        -48.6,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.0,
+        -12.5,
+        1.55
+      ],
+      "inside_zone": "entrancefoyer",
+      "inside_grade_volume": "entrancefoyer",
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "B_sweep_x-048.400",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\B_sweep_x-048.400.png",
+      "sha256": "9a1ae53e3c2cb4c85cb941c449d4d00f296d539b19581524e6222c2352ceb306",
+      "eye": [
+        -48.4,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.0,
+        -12.5,
+        1.55
+      ],
+      "inside_zone": "entrancefoyer",
+      "inside_grade_volume": "entrancefoyer",
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "B_sweep_x-048.000",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\B_sweep_x-048.000.png",
+      "sha256": "ec66d07a690100c8b5fb4b696cbbf38fcde4ce808460c0dfa40235fa47e7e7bf",
+      "eye": [
+        -48.0,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.0,
+        -12.5,
+        1.55
+      ],
+      "inside_zone": "entrancefoyer",
+      "inside_grade_volume": "entrancefoyer",
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "B_sweep_x-047.000",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\B_sweep_x-047.000.png",
+      "sha256": "3201c96cd1a489cb15493dd7ee5435596d92d56d4fd9f0f0e74af8797aeeec60",
+      "eye": [
+        -47.0,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.0,
+        -12.5,
+        1.55
+      ],
+      "inside_zone": "entrancefoyer",
+      "inside_grade_volume": "entrancefoyer",
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "B_sweep_x-046.000",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\B_sweep_x-046.000.png",
+      "sha256": "75a95b1a3b93f15f4a14bb86c2058ed02573aeb0c1a93f9fc5a329b0b8f232bc",
+      "eye": [
+        -46.0,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.0,
+        -12.5,
+        1.55
+      ],
+      "inside_zone": "entrancefoyer",
+      "inside_grade_volume": "entrancefoyer",
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    },
+    {
+      "name": "B_sweep_x-045.000",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass45\\Captures\\B_sweep_x-045.000.png",
+      "sha256": "808246a3842b8cfb153ce1da575fe622663587703e9252cef5e2c0e2336962fa",
+      "eye": [
+        -45.0,
+        -12.5,
+        1.62
+      ],
+      "target": [
+        -43.0,
+        -12.5,
+        1.55
+      ],
+      "inside_zone": "entrancefoyer",
+      "inside_grade_volume": "entrancefoyer",
+      "settled_seconds": 2.2,
+      "kind": "native_player_camera"
+    }
+  ]
+}

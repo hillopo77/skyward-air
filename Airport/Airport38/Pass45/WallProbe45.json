@@ -1,0 +1,1378 @@
+{
+  "status": "SUCCESS",
+  "method": {
+    "edge_step_m": 0.1,
+    "reach_m": 1.1,
+    "heights_m": [
+      0.12,
+      0.45,
+      0.95,
+      1.55
+    ],
+    "rule": "a sample is OPEN when no geometry blocks within reach at that height, outward along the edge normal"
+  },
+  "done": 736,
+  "total": 736,
+  "open_samples": [
+    {
+      "polygon": "Bridge38 terminal neck",
+      "edge": 1,
+      "point": [
+        -12.1,
+        1.925
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.0
+    },
+    {
+      "polygon": "Bridge38 bank A",
+      "edge": 2,
+      "point": [
+        -1.96,
+        -4.741
+      ],
+      "normal": [
+        -0.374,
+        -0.9274
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95
+      ],
+      "deck_persists_m": 0.0
+    },
+    {
+      "polygon": "Bridge38 bank A",
+      "edge": 2,
+      "point": [
+        -2.146,
+        -4.666
+      ],
+      "normal": [
+        -0.374,
+        -0.9274
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.2
+    },
+    {
+      "polygon": "Bridge38 bank A",
+      "edge": 2,
+      "point": [
+        -2.238,
+        -4.629
+      ],
+      "normal": [
+        -0.374,
+        -0.9274
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95
+      ],
+      "deck_persists_m": 0.2
+    },
+    {
+      "polygon": "Bridge38 bank A",
+      "edge": 2,
+      "point": [
+        -2.702,
+        -4.441
+      ],
+      "normal": [
+        -0.374,
+        -0.9274
+      ],
+      "open_heights": [
+        0.95
+      ],
+      "deck_persists_m": 0.2
+    },
+    {
+      "polygon": "Bridge38 bank A",
+      "edge": 2,
+      "point": [
+        -2.795,
+        -4.404
+      ],
+      "normal": [
+        -0.374,
+        -0.9274
+      ],
+      "open_heights": [
+        0.95
+      ],
+      "deck_persists_m": 0.2
+    },
+    {
+      "polygon": "Bridge38 bank A",
+      "edge": 2,
+      "point": [
+        -2.887,
+        -4.367
+      ],
+      "normal": [
+        -0.374,
+        -0.9274
+      ],
+      "open_heights": [
+        0.95
+      ],
+      "deck_persists_m": 0.2
+    },
+    {
+      "polygon": "Bridge38 bank A",
+      "edge": 2,
+      "point": [
+        -2.98,
+        -4.329
+      ],
+      "normal": [
+        -0.374,
+        -0.9274
+      ],
+      "open_heights": [
+        0.95
+      ],
+      "deck_persists_m": 0.2
+    },
+    {
+      "polygon": "Bridge38 bank B",
+      "edge": 2,
+      "point": [
+        -0.425,
+        -4.417
+      ],
+      "normal": [
+        0.3356,
+        -0.942
+      ],
+      "open_heights": [
+        0.95
+      ],
+      "deck_persists_m": 0.4
+    },
+    {
+      "polygon": "Bridge38 bank B",
+      "edge": 2,
+      "point": [
+        -0.519,
+        -4.45
+      ],
+      "normal": [
+        0.3356,
+        -0.942
+      ],
+      "open_heights": [
+        0.95
+      ],
+      "deck_persists_m": 0.4
+    },
+    {
+      "polygon": "Bridge38 bank B",
+      "edge": 2,
+      "point": [
+        -0.613,
+        -4.484
+      ],
+      "normal": [
+        0.3356,
+        -0.942
+      ],
+      "open_heights": [
+        0.95
+      ],
+      "deck_persists_m": 0.4
+    },
+    {
+      "polygon": "Bridge38 bank B",
+      "edge": 2,
+      "point": [
+        -0.99,
+        -4.618
+      ],
+      "normal": [
+        0.3356,
+        -0.942
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95
+      ],
+      "deck_persists_m": 0.4
+    },
+    {
+      "polygon": "Bridge38 bank B",
+      "edge": 3,
+      "point": [
+        -1.121,
+        -4.664
+      ],
+      "normal": [
+        -0.942,
+        -0.3356
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95
+      ],
+      "deck_persists_m": 0.2
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 0,
+      "point": [
+        13.5,
+        1.925
+      ],
+      "normal": [
+        -0.0,
+        1.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.2
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 0,
+      "point": [
+        13.6,
+        1.925
+      ],
+      "normal": [
+        -0.0,
+        1.0
+      ],
+      "open_heights": [
+        0.45
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 0,
+      "point": [
+        13.7,
+        1.925
+      ],
+      "normal": [
+        -0.0,
+        1.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 0,
+      "point": [
+        13.8,
+        1.925
+      ],
+      "normal": [
+        -0.0,
+        1.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 0,
+      "point": [
+        13.9,
+        1.925
+      ],
+      "normal": [
+        -0.0,
+        1.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 1,
+      "point": [
+        13.916,
+        1.925
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 1,
+      "point": [
+        13.916,
+        1.825
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 1,
+      "point": [
+        13.916,
+        1.725
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 1,
+      "point": [
+        13.916,
+        1.625
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 1,
+      "point": [
+        13.916,
+        1.525
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 1,
+      "point": [
+        13.916,
+        1.425
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 1,
+      "point": [
+        13.916,
+        1.325
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 1,
+      "point": [
+        13.916,
+        1.225
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 1,
+      "point": [
+        13.916,
+        1.125
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 1,
+      "point": [
+        13.916,
+        1.025
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 1,
+      "point": [
+        13.916,
+        0.925
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 1,
+      "point": [
+        13.916,
+        0.825
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 1,
+      "point": [
+        13.916,
+        0.725
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 1,
+      "point": [
+        13.916,
+        0.625
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 1,
+      "point": [
+        13.916,
+        0.525
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 1,
+      "point": [
+        13.916,
+        0.425
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 1,
+      "point": [
+        13.916,
+        0.325
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 1,
+      "point": [
+        13.916,
+        0.225
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12,
+        0.95
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 1,
+      "point": [
+        13.916,
+        0.125
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 1,
+      "point": [
+        13.916,
+        0.025
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 1,
+      "point": [
+        13.916,
+        -0.075
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.0
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 2,
+      "point": [
+        13.516,
+        -0.575
+      ],
+      "normal": [
+        -0.0,
+        -1.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.2
+    },
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge": 3,
+      "point": [
+        10.5,
+        1.925
+      ],
+      "normal": [
+        -1.0,
+        0.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95
+      ],
+      "deck_persists_m": 0.1
+    },
+    {
+      "polygon": "Bridge38 pivot",
+      "edge": 0,
+      "point": [
+        -13.142,
+        -0.769
+      ],
+      "normal": [
+        -0.1905,
+        -0.9817
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.0
+    },
+    {
+      "polygon": "Bridge38 pivot",
+      "edge": 0,
+      "point": [
+        -13.044,
+        -0.788
+      ],
+      "normal": [
+        -0.1905,
+        -0.9817
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.0
+    },
+    {
+      "polygon": "Bridge38 pivot",
+      "edge": 0,
+      "point": [
+        -12.945,
+        -0.807
+      ],
+      "normal": [
+        -0.1905,
+        -0.9817
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.0
+    },
+    {
+      "polygon": "Bridge38 pivot",
+      "edge": 0,
+      "point": [
+        -12.847,
+        -0.826
+      ],
+      "normal": [
+        -0.1905,
+        -0.9817
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.0
+    },
+    {
+      "polygon": "Bridge38 pivot",
+      "edge": 0,
+      "point": [
+        -12.749,
+        -0.845
+      ],
+      "normal": [
+        -0.1905,
+        -0.9817
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.0
+    },
+    {
+      "polygon": "Bridge38 pivot",
+      "edge": 1,
+      "point": [
+        -11.576,
+        -1.073
+      ],
+      "normal": [
+        0.9274,
+        -0.374
+      ],
+      "open_heights": [
+        0.12,
+        0.45
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 pivot",
+      "edge": 1,
+      "point": [
+        -11.538,
+        -0.98
+      ],
+      "normal": [
+        0.9274,
+        -0.374
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 pivot",
+      "edge": 1,
+      "point": [
+        -10.566,
+        1.431
+      ],
+      "normal": [
+        0.9274,
+        -0.374
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 pivot",
+      "edge": 1,
+      "point": [
+        -10.528,
+        1.524
+      ],
+      "normal": [
+        0.9274,
+        -0.374
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 elbow",
+      "edge": 0,
+      "point": [
+        -2.99,
+        -4.497
+      ],
+      "normal": [
+        -0.0206,
+        -0.9998
+      ],
+      "open_heights": [
+        0.95
+      ],
+      "deck_persists_m": 0.0
+    },
+    {
+      "polygon": "Bridge38 elbow",
+      "edge": 0,
+      "point": [
+        -2.89,
+        -4.499
+      ],
+      "normal": [
+        -0.0206,
+        -0.9998
+      ],
+      "open_heights": [
+        0.95
+      ],
+      "deck_persists_m": 0.1
+    },
+    {
+      "polygon": "Bridge38 elbow",
+      "edge": 0,
+      "point": [
+        -2.79,
+        -4.501
+      ],
+      "normal": [
+        -0.0206,
+        -0.9998
+      ],
+      "open_heights": [
+        0.95
+      ],
+      "deck_persists_m": 0.1
+    },
+    {
+      "polygon": "Bridge38 elbow",
+      "edge": 0,
+      "point": [
+        -0.691,
+        -4.545
+      ],
+      "normal": [
+        -0.0206,
+        -0.9998
+      ],
+      "open_heights": [
+        0.95
+      ],
+      "deck_persists_m": 0.4
+    },
+    {
+      "polygon": "Bridge38 elbow",
+      "edge": 0,
+      "point": [
+        -0.591,
+        -4.547
+      ],
+      "normal": [
+        -0.0206,
+        -0.9998
+      ],
+      "open_heights": [
+        0.95
+      ],
+      "deck_persists_m": 0.3
+    },
+    {
+      "polygon": "Bridge38 elbow",
+      "edge": 0,
+      "point": [
+        -0.491,
+        -4.549
+      ],
+      "normal": [
+        -0.0206,
+        -0.9998
+      ],
+      "open_heights": [
+        0.95
+      ],
+      "deck_persists_m": 0.3
+    },
+    {
+      "polygon": "Bridge38 elbow",
+      "edge": 0,
+      "point": [
+        -0.391,
+        -4.551
+      ],
+      "normal": [
+        -0.0206,
+        -0.9998
+      ],
+      "open_heights": [
+        0.95
+      ],
+      "deck_persists_m": 0.2
+    },
+    {
+      "polygon": "Bridge38 elbow",
+      "edge": 0,
+      "point": [
+        -0.291,
+        -4.553
+      ],
+      "normal": [
+        -0.0206,
+        -0.9998
+      ],
+      "open_heights": [
+        0.95
+      ],
+      "deck_persists_m": 0.2
+    },
+    {
+      "polygon": "Bridge38 elbow",
+      "edge": 0,
+      "point": [
+        -0.191,
+        -4.555
+      ],
+      "normal": [
+        -0.0206,
+        -0.9998
+      ],
+      "open_heights": [
+        0.95
+      ],
+      "deck_persists_m": 0.2
+    },
+    {
+      "polygon": "Bridge38 elbow",
+      "edge": 0,
+      "point": [
+        -0.091,
+        -4.557
+      ],
+      "normal": [
+        -0.0206,
+        -0.9998
+      ],
+      "open_heights": [
+        0.95
+      ],
+      "deck_persists_m": 0.1
+    },
+    {
+      "polygon": "Bridge38 elbow",
+      "edge": 0,
+      "point": [
+        0.009,
+        -4.559
+      ],
+      "normal": [
+        -0.0206,
+        -0.9998
+      ],
+      "open_heights": [
+        0.95
+      ],
+      "deck_persists_m": 0.1
+    },
+    {
+      "polygon": "Bridge38 elbow",
+      "edge": 1,
+      "point": [
+        0.052,
+        -4.56
+      ],
+      "normal": [
+        0.942,
+        0.3356
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 elbow",
+      "edge": 1,
+      "point": [
+        0.019,
+        -4.466
+      ],
+      "normal": [
+        0.942,
+        0.3356
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 elbow",
+      "edge": 1,
+      "point": [
+        -0.015,
+        -4.371
+      ],
+      "normal": [
+        0.942,
+        0.3356
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 elbow",
+      "edge": 1,
+      "point": [
+        -0.82,
+        -2.111
+      ],
+      "normal": [
+        0.942,
+        0.3356
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 elbow",
+      "edge": 1,
+      "point": [
+        -0.854,
+        -2.016
+      ],
+      "normal": [
+        0.942,
+        0.3356
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 elbow",
+      "edge": 3,
+      "point": [
+        -2.062,
+        -1.945
+      ],
+      "normal": [
+        -0.9274,
+        0.374
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 elbow",
+      "edge": 3,
+      "point": [
+        -3.034,
+        -4.356
+      ],
+      "normal": [
+        -0.9274,
+        0.374
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 elbow",
+      "edge": 3,
+      "point": [
+        -3.072,
+        -4.449
+      ],
+      "normal": [
+        -0.9274,
+        0.374
+      ],
+      "open_heights": [
+        0.45
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 cab mitre",
+      "edge": 0,
+      "point": [
+        8.948,
+        1.635
+      ],
+      "normal": [
+        -0.942,
+        -0.3356
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95
+      ],
+      "deck_persists_m": 0.1
+    },
+    {
+      "polygon": "Bridge38 cab mitre",
+      "edge": 0,
+      "point": [
+        9.015,
+        1.446
+      ],
+      "normal": [
+        -0.942,
+        -0.3356
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 cab mitre",
+      "edge": 0,
+      "point": [
+        9.82,
+        -0.814
+      ],
+      "normal": [
+        -0.942,
+        -0.3356
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 cab mitre",
+      "edge": 0,
+      "point": [
+        9.854,
+        -0.909
+      ],
+      "normal": [
+        -0.942,
+        -0.3356
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 cab mitre",
+      "edge": 2,
+      "point": [
+        11.64,
+        -0.65
+      ],
+      "normal": [
+        1.0,
+        -0.0
+      ],
+      "open_heights": [
+        0.95
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 cab mitre",
+      "edge": 2,
+      "point": [
+        11.64,
+        1.95
+      ],
+      "normal": [
+        1.0,
+        -0.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95
+      ],
+      "deck_persists_m": 0.9
+    },
+    {
+      "polygon": "Bridge38 cab mitre",
+      "edge": 2,
+      "point": [
+        11.64,
+        2.05
+      ],
+      "normal": [
+        1.0,
+        -0.0
+      ],
+      "open_heights": [
+        0.12,
+        0.45,
+        0.95,
+        1.55
+      ],
+      "deck_persists_m": 0.9
+    }
+  ],
+  "blocked_count": 660
+}

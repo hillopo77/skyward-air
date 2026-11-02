@@ -1,0 +1,70 @@
+{
+  "status": "SUCCESS",
+  "checks": [
+    {
+      "name": "11 emitters match the authored fixture positions",
+      "passed": true
+    },
+    {
+      "name": "Every room fixture casts shadows",
+      "passed": true
+    },
+    {
+      "name": "Native viewport1920x1080",
+      "passed": true
+    },
+    {
+      "name": "Ambient fill reduced from65 to4.5",
+      "passed": true
+    },
+    {
+      "name": "No upward hemisphere wash",
+      "passed": true
+    },
+    {
+      "name": "Screen-space bounce enabled for this room",
+      "passed": true
+    },
+    {
+      "name": "Matched diagnostic disables physical check-in emitters",
+      "passed": true
+    },
+    {
+      "name": "Lamp intensities restored",
+      "passed": true
+    }
+  ],
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Lighting32\\Screenshots\\01_FixtureLitEntrance.png",
+      "sha256": "7eb26ed3b02b900f120b81e1d288d0c1c3f6ca414b0b03b5e2c034da41082d3b",
+      "view": "01_FixtureLitEntrance"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Lighting32\\Screenshots\\Diagnostic_LampsOff.png",
+      "sha256": "bdbfaae347921f00de87ce433908c17197186a0b3b49239c740e93eef3f1313a",
+      "view": "Diagnostic_LampsOff"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Lighting32\\Screenshots\\02_WaitingArea.png",
+      "sha256": "b50b58f0d58e0c8fcaf68adc7feee4a9000332a0c92776df5a81fa0040491284",
+      "view": "02_WaitingArea"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Lighting32\\Screenshots\\03_DeskLighting.png",
+      "sha256": "73cdf3a0e75c79b6211e082a0872c7327df7c3c26a97e6fd5f61e6c0bf309b06",
+      "view": "03_DeskLighting"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Lighting32\\Screenshots\\04_RoomLighting.png",
+      "sha256": "bf7347d40fe083bd51c198afa137e454d1f5c560450e3238439e34be9a2d66b3",
+      "view": "04_RoomLighting"
+    }
+  ],
+  "step": 13,
+  "elapsed_s": 15.343999999997322,
+  "viewport": [
+    1920,
+    1080
+  ]
+}

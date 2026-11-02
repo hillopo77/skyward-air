@@ -1,0 +1,20 @@
+{
+ "status": "SUCCESS",
+ "asset": "SM_AP_P47AirsideRoad",
+ "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\AirsideBuild\\SM_AP_P47AirsideRoad.fbx",
+ "materials": [
+  "MI_AP_F39White"
+ ],
+ "edges": [
+  -8.8,
+  -4.0
+ ],
+ "centre": -6.4,
+ "dashes": 10,
+ "y": [
+  -24.0,
+  36.0
+ ],
+ "z": -3.684,
+ "polygons": 16
+}

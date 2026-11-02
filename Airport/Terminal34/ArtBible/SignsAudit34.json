@@ -1,0 +1,62 @@
+[
+  {
+    "actor": "Sign24_1728",
+    "location": "<Struct 'Vector' (0x00000000A57ABE90) {x: -4520.000000, y: 200.000000, z: 285.000000}>",
+    "rotation": "<Struct 'Rotator' (0x00000000A57ABE90) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+    "mesh": "SM_AP_Sign34",
+    "slots": [
+      {
+        "name": "MI_AP_P34Navy",
+        "material": "/Game/Airport34/Materials/MI_AP_P34Navy.MI_AP_P34Navy",
+        "texture": null,
+        "emission": 0.0
+      },
+      {
+        "name": "MI_AP_P34PrintSignDefault",
+        "material": "/Game/Airport34/Materials/MI_AP_Sign34_Sign24_1728.MI_AP_Sign34_Sign24_1728",
+        "texture": "/Game/Airport34/Textures/T34_Sign24_1728.T34_Sign24_1728",
+        "emission": 26.0
+      }
+    ]
+  },
+  {
+    "actor": "Sign24_1754",
+    "location": "<Struct 'Vector' (0x00000000A57ABE90) {x: -1500.000000, y: -480.000000, z: 305.000000}>",
+    "rotation": "<Struct 'Rotator' (0x00000000A57ABE90) {pitch: 0.000000, yaw: 90.000000, roll: -0.000000}>",
+    "mesh": "SM_AP_Sign34",
+    "slots": [
+      {
+        "name": "MI_AP_P34Navy",
+        "material": "/Game/Airport34/Materials/MI_AP_P34Navy.MI_AP_P34Navy",
+        "texture": null,
+        "emission": 0.0
+      },
+      {
+        "name": "MI_AP_P34PrintSignDefault",
+        "material": "/Game/Airport34/Materials/MI_AP_Sign34_Sign24_1754.MI_AP_Sign34_Sign24_1754",
+        "texture": "/Game/Airport34/Textures/T34_Sign24_1754.T34_Sign24_1754",
+        "emission": 26.0
+      }
+    ]
+  },
+  {
+    "actor": "Sign24_1774",
+    "location": "<Struct 'Vector' (0x00000000A57ABE90) {x: -2900.000000, y: -710.000000, z: 320.000000}>",
+    "rotation": "<Struct 'Rotator' (0x00000000A57ABE90) {pitch: 0.000000, yaw: 0.000000, roll: 0.000000}>",
+    "mesh": "SM_AP_Sign34",
+    "slots": [
+      {
+        "name": "MI_AP_P34Navy",
+        "material": "/Game/Airport34/Materials/MI_AP_P34Navy.MI_AP_P34Navy",
+        "texture": null,
+        "emission": 0.0
+      },
+      {
+        "name": "MI_AP_P34PrintSignDefault",
+        "material": "/Game/Airport34/Materials/MI_AP_Sign34_Sign24_1774.MI_AP_Sign34_Sign24_1774",
+        "texture": "/Game/Airport34/Textures/T34_Sign24_1774.T34_Sign24_1774",
+        "emission": 26.0
+      }
+    ]
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "review": "3 of 5: airside, aircraft connection and departure clearance",
+  "baseline_map": "/Game/Airport37/L_Airport_Clarity37",
+  "method": "Read-only source/runtime/native inventory review and inspection of genuine native captures26–32. No engine processes, source edits or fixes were performed by this reviewer.",
+  "findings": [
+    {
+      "id": "A3-01",
+      "severity": "P1",
+      "status": "verified",
+      "title": "The jetbridge ends in an unsealed, unfinished docking throat",
+      "objects": ["SM_AP_BridgeFloor instance4", "SM_AP_BridgeWall instances6/7", "SM_AP_BridgeRoof instance3", "Jetbridge crafted fittings34", "Aircraft door1L"],
+      "evidence": ["Native BridgeFloor instance4 bounds x[-3.217,-2.083], y[-.7,2.05]; side walls and roof terminate at x=-3.2.", "A 1.117m length of walking deck extends beyond the enclosure. The outer fuselage envelope at L1 begins near x=-2.505, leaving approximately.695m of this tongue outside the fuselage.", "Dock bellows ribs from model34.py are at x=-2.2+j*.075: inside the outer fuselage rather than spanning the exterior enclosure gap.", "BaselineScreenshots/29_DockingJoin.png visibly shows exposed rail/beam ends, a missing roof/side enclosure at the join and the door occupying the approach throat. 28_BridgeInside.png confirms the unfinished end from passenger eye height."],
+      "correction": "Replace the final scaled floor fragment and decorative ribs with a complete docking cab: supported floor/threshold, full side returns, roof, curved sealing bellows that reach the actual fuselage surface, and an apron emergency-stop bumper. Preserve the real door swing envelope and walkable clearance.",
+      "acceptance": ["Continuous walk from bridge into L1 with a normal capsule and no height snap.", "No exposed opening to the apron beside/above the docking throat; join gaps under20mm except intentional door clearances.", "Open/close the aircraft door and inspect its complete sweep against cab, rail and threshold.", "Native close-ups from both sides and through the doorway." ]
+    },
+    {
+      "id": "A3-02",
+      "severity": "P1",
+      "status": "verified",
+      "title": "The service ramp and its sliding doors are orphaned by later terminal redesigns",
+      "objects": ["Service ramp automatic leaf -17.7", "Service ramp automatic leaf -16.3", "SM_AP_ServicePath12", "Physical luggage05"],
+      "evidence": ["Doors remain at[-17.7,18,0] and[-16.3,18,0], with a ramp covering x[-18.4,-15.6],y[18,53].", "Current A07 room ends at y10. A08 is x[-32,-24],y[18,34]. Neither current room reaches the ramp threshold atx-17,y18.", "31_ServiceRamp.png shows a grass-side exposed threshold, leftover beam/door/rail structures and an abandoned suitcase instead of an enclosed staff connection.", "Physical luggage05 remains at[-15.3,17.2,.04], in the footprint of the previous gate rather than the current A08 lounge."],
+      "correction": "Remove the orphan public-side doors and abandoned baggage placement. Either remove the obsolete ramp or connect a coherent secure staff/service corridor from an actual room, with walls, landing, controlled access and a connected apron endpoint. Do not leave a standalone automatic portal on open grass.",
+      "acceptance": ["Every automatic door is attached to a real opening and landing.", "Passengers cannot step from the lounge into an undefined exterior terrace.", "Walk from the defined staff room to the ramp and apron without crossing grass, unsupported deck or a wall.", "Move luggage05 into an actual luggage/seating zone with stable support." ]
+    },
+    {
+      "id": "A3-03",
+      "severity": "P1",
+      "status": "verified runtime omission; forward collision is a source-based risk requiring a native sweep",
+      "title": "Parked clearance is being mistaken for a safe departure envelope",
+      "objects": ["SM_Plane_ExteriorAirframe", "A07 east/north terminal walls", "Jetbridge assemblies", "airport_runtime.py", "airport_journey22.py"],
+      "evidence": ["Complete native airframe bounds are x[-22.668164,22.668164], y[-8.76,43.38], z[-3.434,7.8] at its current origin.", "A07 reaches x=-14, y=-3..10. A08's west-of-wing bound x=-24 only proves a parked lateral separation for that northern room.", "Source forward is -Y. A forward translation brings the broad swept wing from its aft parked position toward the A07 room and the static boarding bridge. No airport-mode bridge retraction, departure interlock or full departure sweep exists in the reviewed airport runtime.", "A straight parked bridge is not intrinsically wrong; the failure is that the arrangement has no modeled articulation/stow state or clearance proof for movement."],
+      "correction": "Choose a complete stand layout rather than nudging one wall. A conservative option is moving the entire aircraft+its absolute gameplay data +16m sourceX. This gives a full-airframe x minimum of-6.668m, over7m beyond the current terminal east face. Build an articulated bridge to the relocated L1 door and define a stowed envelope. Prohibit departure while the cab/bridge is connected or the aircraft door is open. Stow the complete movable bridge to x<=-10m, or use a validated outward pushback route before any forward taxi. Do not claim dynamic aircraft/terminal collision safety from a single parked AABB.",
+      "acceptance": ["Sweep the complete aircraft triangles or conservative decomposed hulls along the intended forward/pushback route; report minimum separations to every terminal and stowed-bridge component.", "No aircraft motion with connected bridge, open L1 door or active service connection.", "After relocation, validate aircraft seat/lever/shade interactions, hold stairs and all cameras, not only the exterior mesh.", "Show parked, bridge-stowed and departure-clearance views." ]
+    },
+    {
+      "id": "A3-04",
+      "severity": "P1",
+      "status": "verified",
+      "title": "The A07 boarding desk penetrates its south wall",
+      "objects": ["Gate A07 boarding desk", "AP COLL Gate A07 boarding desk", "SM_AP_Walls37"],
+      "evidence": ["Desk bounds x[-18.12789,-17], y[-3.055,-.945], z[0,1.6725].", "The room south wall is centered y=-3 with approximately.18m thickness, extending to y=-2.91 on the room side. Desk/wall overlap is approximately.145m alongY.", "The collision proxy extends to z1.9 versus visible geometry max1.6725 and should be reviewed with the visible control approach. This does not prove there are duplicate desk actors; inventory contains one A07 desk."],
+      "correction": "Reposition/recompose the desk clear of the structural wall, give it a deliberate staff-side service pocket and passenger approach, and trim its collision to the actual counter shape. Audit printed identity plates in the model separately rather than assuming all text overlap is a duplicate-actor problem.",
+      "acceptance": ["Native geometry overlap check reports no desk/wall intersection.", "Passenger and staff approaches remain clear with normal capsule sizes.", "Scanner/pass controls remain visible and selectable from a natural standing position.", "Inspect desk front, rear and side close-ups." ]
+    },
+    {
+      "id": "A3-05",
+      "severity": "P1",
+      "status": "verified source mismatch; motion consequence not measured by reviewer",
+      "title": "The exterior navigation floor does not match the sloping physical ground",
+      "objects": ["Compact terminal floor", "Apron floor", "SM_AP_Ground12", "skyward_runtime.floor_at_source"],
+      "evidence": ["Airport floors retain Compact terminal rect[-49,-14,-22,18] at height0, despite the revised terminal no longer occupying x[-24,-14],y[10,18].", "Apron declares a flat-3.7m floor from x=-14 onward. ground12() instead slopes betweenx=-14 andx=-9 from roughly-.08m to-3.78m.", "skyward_runtime.floor_at_source also adds a z0 Cabin deck candidate for any x/y when feet_z is near0; that candidate is not bounded by a cabin footprint.", "These are independently verified code/data mismatches. They can create phantom floor support or collision-swept Z correction against the wrong height; the reviewer did not claim a measured jitter amplitude from them."],
+      "correction": "Replace the old broad rectangles with the real walkable terminal/apron/ramp footprints. Either flatten the apron consistently with collision or provide a matching grade floor. Bound the fallback Cabin deck to the translated cabin footprint and explicit doorway transition. Real floors must own navigation support; an obsolete airport rectangle must not keep a player elevated outdoors.",
+      "acceptance": ["Walk the exterior boundary, grass-side ramp and graded apron with logged eye/feet heights and floor names.", "No unsupported zero-height floor outside the terminal/cabin.", "Standing height remains1.62m over actual support without repeated Z correction.", "Use boundary escape tests off all gate/bridge edges." ]
+    },
+    {
+      "id": "A3-06",
+      "severity": "P2",
+      "status": "verified coplanar overlap; visible flicker not isolated at this exact seam",
+      "title": "The final bridge carpet strip overlaps the previous strip coplanarly",
+      "objects": ["BridgeFloor instance3", "BridgeFloor instance4"],
+      "evidence": ["Full floor carpet on instance3 spans x[-5.89,-3.21]. The scaled tail strip spans approximatelyx[-3.2128,-2.0872].", "Both are at the same carpet elevation, giving2.8mm of coplanar carpet overlap; underlying decks overlap17mm.", "The tail is a nonuniform.42X scale of the generic module, which also stretches its construction details rather than creating a fitted docking transition."],
+      "correction": "Use fitted continuous walking surfacing or deliberate expansion-joint strips with distinct, noncoplanar construction. Replace the scaled tail module with the proper docking cab floor from A3-01.",
+      "acceptance": ["Coplanar-overlap audit of walking surfaces is empty.", "Inspect the seam during slow approach, strafing and static holds at1920x1080.", "No floor edge twinkle or gap during movement." ]
+    },
+    {
+      "id": "A3-07",
+      "severity": "P2",
+      "status": "verified missing brake state; runaway behavior not reproduced in sampled baseline",
+      "title": "Airside vehicles have no deliberate parked/braked state",
+      "objects": ["Driveable electric baggage tug", "Tow dolly1", "Tow dolly2", "PM_AP_GroundVehicle", "airport_runtime.initialize/physics"],
+      "evidence": ["All three are dynamic bodies at initialization, with generic linear damping.18 and angular damping.6.", "PM_AP_GroundVehicle is authored with friction.08 and restitution.02. No parked/parking-brake/sleep-until-use state is implemented; stopping input only changes the active driving velocity target.", "The service ramp is3.7m over35m, tan(slope)=.1057, greater than the authored.08 friction coefficient. A freely dynamic vehicle placed on that grade has no static holding provision.", "BaselineAnalysis38 sampled luggage at rest with zero reported transform range; that data does not establish that runaway motion was reproduced during this audit."],
+      "correction": "Add a real parked state for tug/dollies, wake on deliberate entry/tow interaction, and apply braking while unoccupied. Use suitable vehicle contact material and low-speed stability settings. Keep player-picked luggage dynamic after release but stow resting luggage in intentional stable support zones; do not freeze every interactive item indiscriminately.",
+      "acceptance": ["Unoccupied tug and attached dollies drift under2cm over60s on flat parking and on the defined service grade.", "Enter, drive, stop and exit: no snap, runaway roll or constraint explosion.", "Measure loose luggage resting poses and motion after a real drop, not only static initial transforms." ]
+    }
+  ],
+  "translation_contract": {
+    "recommendation": "Keep P.vector as unit/axis conversion. Deep-copy and translate absolute aircraft source data before configure, and shift native aircraft actor roots exactly once.",
+    "absolute_points": ["instances.location", "cameras.eye/target", "lights.position", "labels.location", "interaction point/location/inside_point/inside_rect/validation_approach", "roller_parts.closed_location", "kinematic_links.start", "navigation_bounds", "navigation_floor rect", "layout room/initial/standing/seat-approach and validation point fields"],
+    "never_translate": ["motion.delta", "roller_parts.delta", "targets.translation_states", "kinematic_links.end_local", "size/dimensions/extents", "facing/direction/offset/basis vectors", "rotation-only quantities"],
+    "hardcoded_runtime_repairs": ["airport_runtime.aircraft_nearest x<-600 filter", "airport_runtime StartAboard(-.8,.675) position", "legacy airport_runtime boarding region x>-1.9", "airport_journey22.py:89 L1 crossing previous.x<=-1.9<p.x<2.4", "skyward_runtime unbounded Cabin deck fallback"],
+    "critical_warning": "plane18_runtime uses P.vector for both roller_parts.closed_location and roller_parts.delta. Offsetting P.vector globally would add the offset twice and break the shade geometry. Translate closed_location data only."
+  }
+}

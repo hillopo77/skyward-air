@@ -1,0 +1,81 @@
+{
+  "passed": true,
+  "source_sha256": "177c3ee1b7a0db92fd668ea205cafe97784a9a734a668018fb88dcc13929301c",
+  "passes": [
+    {
+      "check": "True low-hip route fit to body-only surfaces",
+      "meta": {
+        "version": 2,
+        "assets": [
+          "SM_AP_B41LapWornCrew",
+          "SM_AP_B41LapWornGeneric"
+        ],
+        "worn": {
+          "Crew": {
+            "buckle_centre": [
+              0,
+              -0.4301824712753296,
+              0.6
+            ],
+            "hinge": [
+              0,
+              -0.4411824712753296,
+              0.622
+            ],
+            "complete_buckle_footprint_body_ray_fit": true
+          },
+          "Generic": {
+            "buckle_centre": [
+              0,
+              -0.4301824712753296,
+              0.6
+            ],
+            "hinge": [
+              0,
+              -0.4411824712753296,
+              0.622
+            ],
+            "complete_buckle_footprint_body_ray_fit": true
+          }
+        },
+        "fitting_authority": "Pelvis/spine/thigh/trouser triangles only; all arm/hand/finger weighted triangles excluded",
+        "side_anchors": [
+          [
+            -0.325,
+            0.15,
+            0.5
+          ],
+          [
+            0.325,
+            0.15,
+            0.5
+          ]
+        ]
+      }
+    },
+    {
+      "check": "Complete band/buckle vertex-edge-face contact against full final body including arms/hands",
+      "results": [
+        {
+          "kind": "Crew",
+          "probes": 34126,
+          "minimum_full_body_signed_m": 0.004433190173585899,
+          "minimum_arm_distance_m": 0.004749180283397436,
+          "inside": 0
+        },
+        {
+          "kind": "Generic",
+          "probes": 34126,
+          "minimum_full_body_signed_m": 0.004433190173585899,
+          "minimum_arm_distance_m": 0.004749180283397436,
+          "inside": 0
+        }
+      ]
+    },
+    {
+      "check": "Actual modeled geometry",
+      "triangles": 23624,
+      "degenerates": 0
+    }
+  ]
+}

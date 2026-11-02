@@ -1,0 +1,242 @@
+{
+  "status": "SUCCESS",
+  "blender": "5.2.2 LTS",
+  "panels": [
+    {
+      "index": 0,
+      "asset": "SM_AP_P45B_Closure00",
+      "fbx": "Closure45\\SM_AP_P45B_Closure00.fbx",
+      "part": "Bridge38 cab mitre",
+      "world_centre": [
+        10.294,
+        1.8674,
+        0.008
+      ],
+      "yaw_degrees": 9.8157,
+      "length_m": 3.0919,
+      "outward": [
+        -0.1705,
+        0.9854
+      ],
+      "height_m": 2.34,
+      "triangles": 108
+    },
+    {
+      "index": 1,
+      "asset": "SM_AP_P45B_Closure01",
+      "fbx": "Closure45\\SM_AP_P45B_Closure01.fbx",
+      "part": "Bridge38 cab mitre",
+      "world_centre": [
+        10.7911,
+        -0.8969,
+        0.008
+      ],
+      "yaw_degrees": 9.8084,
+      "length_m": 1.9594,
+      "outward": [
+        0.1704,
+        -0.9854
+      ],
+      "height_m": 2.34,
+      "triangles": 108
+    },
+    {
+      "index": 2,
+      "asset": "SM_AP_P45B_Closure02",
+      "fbx": "Closure45\\SM_AP_P45B_Closure02.fbx",
+      "part": "Bridge38 pivot",
+      "world_centre": [
+        -11.3439,
+        1.7321,
+        0.008
+      ],
+      "yaw_degrees": -11.006,
+      "length_m": 1.8595,
+      "outward": [
+        0.1909,
+        0.9816
+      ],
+      "height_m": 2.34,
+      "triangles": 96
+    },
+    {
+      "index": 3,
+      "asset": "SM_AP_P45B_Closure03",
+      "fbx": "Closure45\\SM_AP_P45B_Closure03.fbx",
+      "part": "Bridge38 docking cab",
+      "world_centre": [
+        11.05,
+        1.925,
+        0.0
+      ],
+      "yaw_degrees": 0.0,
+      "length_m": 1.46,
+      "outward": [
+        -0.0,
+        1.0
+      ],
+      "height_m": 2.34,
+      "triangles": 96
+    },
+    {
+      "index": 4,
+      "asset": "SM_AP_P45B_Closure04",
+      "fbx": "Closure45\\SM_AP_P45B_Closure04.fbx",
+      "part": "Bridge38 bank A",
+      "world_centre": [
+        -11.1765,
+        1.6289,
+        0.0
+      ],
+      "yaw_degrees": -21.9751,
+      "length_m": 1.3597,
+      "outward": [
+        0.3742,
+        0.9273
+      ],
+      "height_m": 2.34,
+      "triangles": 96
+    },
+    {
+      "index": 5,
+      "asset": "SM_AP_P45B_Closure05",
+      "fbx": "Closure45\\SM_AP_P45B_Closure05.fbx",
+      "part": "Bridge38 pivot",
+      "world_centre": [
+        -12.111,
+        -0.9692,
+        0.008
+      ],
+      "yaw_degrees": -11.022,
+      "length_m": 1.2606,
+      "outward": [
+        -0.1912,
+        -0.9816
+      ],
+      "height_m": 2.34,
+      "triangles": 96
+    },
+    {
+      "index": 6,
+      "asset": "SM_AP_P45B_Closure06",
+      "fbx": "Closure45\\SM_AP_P45B_Closure06.fbx",
+      "part": "Bridge38 elbow",
+      "world_centre": [
+        -1.454,
+        -1.864,
+        0.008
+      ],
+      "yaw_degrees": -1.1458,
+      "length_m": 1.2603,
+      "outward": [
+        0.02,
+        0.9998
+      ],
+      "height_m": 2.34,
+      "triangles": 96
+    },
+    {
+      "index": 7,
+      "asset": "SM_AP_P45B_Closure07",
+      "fbx": "Closure45\\SM_AP_P45B_Closure07.fbx",
+      "part": "Bridge38 bank A",
+      "world_centre": [
+        -2.2048,
+        -4.6076,
+        0.0
+      ],
+      "yaw_degrees": -8.4552,
+      "length_m": 1.0045,
+      "outward": [
+        -0.147,
+        -0.9891
+      ],
+      "height_m": 2.34,
+      "triangles": 96
+    },
+    {
+      "index": 8,
+      "asset": "SM_AP_P45B_Closure08",
+      "fbx": "Closure45\\SM_AP_P45B_Closure08.fbx",
+      "part": "Bridge38 bank B",
+      "world_centre": [
+        9.8955,
+        1.6591,
+        0.0
+      ],
+      "yaw_degrees": 19.5768,
+      "length_m": 0.7601,
+      "outward": [
+        -0.3351,
+        0.9422
+      ],
+      "height_m": 2.34,
+      "triangles": 96
+    },
+    {
+      "index": 9,
+      "asset": "SM_AP_P45B_Closure09",
+      "fbx": "Closure45\\SM_AP_P45B_Closure09.fbx",
+      "part": "Bridge38 bank B",
+      "world_centre": [
+        -0.9701,
+        -4.5986,
+        0.0
+      ],
+      "yaw_degrees": 11.6683,
+      "length_m": 0.7085,
+      "outward": [
+        0.2022,
+        -0.9793
+      ],
+      "height_m": 2.34,
+      "triangles": 96
+    },
+    {
+      "index": 10,
+      "asset": "SM_AP_P45B_Closure10",
+      "fbx": "Closure45\\SM_AP_P45B_Closure10.fbx",
+      "part": "Bridge38 docking cab",
+      "world_centre": [
+        13.816,
+        -0.575,
+        0.0
+      ],
+      "yaw_degrees": 0.0,
+      "length_m": 0.56,
+      "outward": [
+        0.0,
+        -1.0
+      ],
+      "height_m": 2.34,
+      "triangles": 96
+    },
+    {
+      "index": 11,
+      "asset": "SM_AP_P45B_Closure11",
+      "fbx": "Closure45\\SM_AP_P45B_Closure11.fbx",
+      "part": "Bridge38 elbow",
+      "world_centre": [
+        -1.54,
+        -4.703,
+        0.0
+      ],
+      "yaw_degrees": 5.1849,
+      "length_m": 1.0844,
+      "outward": [
+        0.0904,
+        -0.9959
+      ],
+      "height_m": 2.34,
+      "triangles": 96
+    }
+  ],
+  "count": 12,
+  "section": {
+    "kick_top": 0.06,
+    "solid_top": 1.02,
+    "glass_top": 2.18,
+    "head_top": 2.34
+  },
+  "blend": "Closure45\\bridge_closure45.blend"
+}

@@ -1,0 +1,18 @@
+{
+ "status": "SUCCESS",
+ "blender": "5.2.2 LTS",
+ "asset": "SM_AP_P46GroundSkirt",
+ "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass46\\SkirtBuild\\SM_AP_P46GroundSkirt.fbx",
+ "materials": [
+  "MI_AP_F39Field"
+ ],
+ "loop_points": 328,
+ "edge_z": [
+  -3.78,
+  -0.08
+ ],
+ "drop_m": 0.05,
+ "near_m": 40.0,
+ "outer_radius_m": 3850.0,
+ "faces": 656
+}

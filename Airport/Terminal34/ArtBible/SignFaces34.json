@@ -1,0 +1,25 @@
+{
+  "status": "SUCCESS",
+  "printed_signs": [
+    "Sign24_1714",
+    "Sign24_1728",
+    "Sign24_1741",
+    "Sign24_1750",
+    "Sign24_1751",
+    "Sign24_1754",
+    "Sign24_1760",
+    "Sign24_1764",
+    "Sign24_1770",
+    "Sign24_1774",
+    "Sign24_1775",
+    "Sign24_1776",
+    "Sign24_1781",
+    "Sign24_1802",
+    "Sign24_1807",
+    "Sign24_1816",
+    "Sign24_1818",
+    "Sign24_1819"
+  ],
+  "master": "/Game/Airport34/Materials/M_SignReadable34.M_SignReadable34",
+  "collision": false
+}

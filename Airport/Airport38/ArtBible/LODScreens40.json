@@ -1,0 +1,227 @@
+{
+  "status": "METADATA_SAVED_REQUIRES_FRESH_NATIVE_VIEW_AND_FPS",
+  "character_source_sha256": "177c3ee1b7a0db92fd668ea205cafe97784a9a734a668018fb88dcc13929301c",
+  "assets": [
+    {
+      "asset": "/Game/Characters39/Meshes/SK_CH39_PlayerBlue",
+      "settings": "/Game/Characters39/LODSettings/LOD39_PlayerBlue.LOD39_PlayerBlue",
+      "before": [
+        1.0,
+        0.41999998688697815,
+        0.18000000715255737,
+        0.07500000298023224
+      ],
+      "after": [
+        1.0,
+        0.2199999988079071,
+        0.07500000298023224,
+        0.02500000037252903
+      ],
+      "retained_geometry_counts": [
+        71169,
+        28932,
+        12577,
+        6317
+      ]
+    },
+    {
+      "asset": "/Game/Characters39/Meshes/SK_CH39_PassengerHoodie",
+      "settings": "/Game/Characters39/LODSettings/LOD39_PassengerHoodie.LOD39_PassengerHoodie",
+      "before": [
+        1.0,
+        0.41999998688697815,
+        0.18000000715255737,
+        0.07500000298023224
+      ],
+      "after": [
+        1.0,
+        0.2199999988079071,
+        0.07500000298023224,
+        0.02500000037252903
+      ],
+      "retained_geometry_counts": [
+        84467,
+        34466,
+        14803,
+        7148
+      ]
+    },
+    {
+      "asset": "/Game/Characters39/Meshes/SK_CH39_PassengerTourist",
+      "settings": "/Game/Characters39/LODSettings/LOD39_PassengerTourist.LOD39_PassengerTourist",
+      "before": [
+        1.0,
+        0.41999998688697815,
+        0.18000000715255737,
+        0.07500000298023224
+      ],
+      "after": [
+        1.0,
+        0.2199999988079071,
+        0.07500000298023224,
+        0.02500000037252903
+      ],
+      "retained_geometry_counts": [
+        83792,
+        33996,
+        14677,
+        7185
+      ]
+    },
+    {
+      "asset": "/Game/Characters39/Meshes/SK_CH39_PassengerCrew",
+      "settings": "/Game/Characters39/LODSettings/LOD39_PassengerCrew.LOD39_PassengerCrew",
+      "before": [
+        1.0,
+        0.41999998688697815,
+        0.18000000715255737,
+        0.07500000298023224
+      ],
+      "after": [
+        1.0,
+        0.2199999988079071,
+        0.07500000298023224,
+        0.02500000037252903
+      ],
+      "retained_geometry_counts": [
+        83699,
+        33907,
+        14686,
+        7199
+      ]
+    },
+    {
+      "asset": "/Game/Characters39/Meshes/SK_CH39_PassengerSenior",
+      "settings": "/Game/Characters39/LODSettings/LOD39_PassengerSenior.LOD39_PassengerSenior",
+      "before": [
+        1.0,
+        0.41999998688697815,
+        0.18000000715255737,
+        0.07500000298023224
+      ],
+      "after": [
+        1.0,
+        0.2199999988079071,
+        0.07500000298023224,
+        0.02500000037252903
+      ],
+      "retained_geometry_counts": [
+        83426,
+        33880,
+        14694,
+        7219
+      ]
+    },
+    {
+      "asset": "/Game/Characters39/Meshes/SK_CH39_SecurityGuard",
+      "settings": "/Game/Characters39/LODSettings/LOD39_SecurityGuard.LOD39_SecurityGuard",
+      "before": [
+        1.0,
+        0.41999998688697815,
+        0.18000000715255737,
+        0.07500000298023224
+      ],
+      "after": [
+        1.0,
+        0.2199999988079071,
+        0.07500000298023224,
+        0.02500000037252903
+      ],
+      "retained_geometry_counts": [
+        87723,
+        35493,
+        15541,
+        7596
+      ]
+    },
+    {
+      "asset": "/Game/Characters39/Meshes/SK_CH39_PlayerYellow",
+      "settings": "/Game/Characters39/LODSettings/LOD39_PlayerYellow.LOD39_PlayerYellow",
+      "before": [
+        1.0,
+        0.41999998688697815,
+        0.18000000715255737,
+        0.07500000298023224
+      ],
+      "after": [
+        1.0,
+        0.2199999988079071,
+        0.07500000298023224,
+        0.02500000037252903
+      ],
+      "retained_geometry_counts": [
+        71169,
+        28932,
+        12577,
+        6317
+      ]
+    },
+    {
+      "asset": "/Game/Characters39/Meshes/SK_CH39_PlayerRed",
+      "settings": "/Game/Characters39/LODSettings/LOD39_PlayerRed.LOD39_PlayerRed",
+      "before": [
+        1.0,
+        0.41999998688697815,
+        0.18000000715255737,
+        0.07500000298023224
+      ],
+      "after": [
+        1.0,
+        0.2199999988079071,
+        0.07500000298023224,
+        0.02500000037252903
+      ],
+      "retained_geometry_counts": [
+        71169,
+        28932,
+        12577,
+        6317
+      ]
+    },
+    {
+      "asset": "/Game/Characters39/Meshes/SK_CH39_PlayerGreen",
+      "settings": "/Game/Characters39/LODSettings/LOD39_PlayerGreen.LOD39_PlayerGreen",
+      "before": [
+        1.0,
+        0.41999998688697815,
+        0.18000000715255737,
+        0.07500000298023224
+      ],
+      "after": [
+        1.0,
+        0.2199999988079071,
+        0.07500000298023224,
+        0.02500000037252903
+      ],
+      "retained_geometry_counts": [
+        71169,
+        28932,
+        12577,
+        6317
+      ]
+    },
+    {
+      "asset": "/Game/Characters39/Meshes/SK_CH39_PlayerPurple",
+      "settings": "/Game/Characters39/LODSettings/LOD39_PlayerPurple.LOD39_PlayerPurple",
+      "before": [
+        1.0,
+        0.41999998688697815,
+        0.18000000715255737,
+        0.07500000298023224
+      ],
+      "after": [
+        1.0,
+        0.2199999988079071,
+        0.07500000298023224,
+        0.02500000037252903
+      ],
+      "retained_geometry_counts": [
+        71169,
+        28932,
+        12577,
+        6317
+      ]
+    }
+  ],
+  "method": "Existing LODSettings screen thresholds only. Fresh mesh PostLoad applies group settings; no geometry regeneration, forced LOD or artificial bounds scale."
+}

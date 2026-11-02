@@ -1,0 +1,17 @@
+{
+  "object_iterator": true,
+  "iterator_doc": "Type for iterating Unreal Object instances",
+  "key_doc": "Key\r\n\r\n**C++ Source:**\r\n\r\n- **Module**: InputCore\r\n- **File**: InputCoreTypes.h\r\n",
+  "worlds": [
+    {
+      "name": "/Script/Engine.Default__World",
+      "controller": null
+    },
+    {
+      "name": "/Game/Maps/L_Plane_Reference.L_Plane_Reference",
+      "controller": "PlayerController_0"
+    }
+  ],
+  "key_polling": "x.was_input_key_just_pressed(key) -> bool\r\nReturns true if the given key/button was up last frame and down this frame.\r\n\r\nArgs:\r\n    key (Key): \r\n\r\nReturns:\r\n    bool:",
+  "status": "SUCCESS"
+}

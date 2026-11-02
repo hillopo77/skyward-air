@@ -1,0 +1,46 @@
+{
+  "revision": "08",
+  "status": "SUCCESS",
+  "checks": [
+    {
+      "test": "Approved cabin fittings unchanged from revision07",
+      "passed": true
+    },
+    {
+      "test": "All current source vertices finite",
+      "passed": true
+    },
+    {
+      "test": "Ten modeled aircraft tires",
+      "passed": true
+    },
+    {
+      "test": "Separate trailing control surfaces",
+      "passed": true
+    },
+    {
+      "test": "Six sloped cockpit glazing panes",
+      "passed": true
+    },
+    {
+      "test": "No upright greenhouse windshield retained",
+      "passed": true
+    },
+    {
+      "test": "Pressure skin has no unintended gaps: SM_Plane_OuterWindowBarrel",
+      "passed": true,
+      "rays": 1504,
+      "misses": []
+    },
+    {
+      "test": "Pressure skin has no unintended gaps: SM_Plane_DoorBay07",
+      "passed": true,
+      "rays": 972,
+      "misses": []
+    },
+    {
+      "test": "Pilot seated eye clears lower windscreen sill",
+      "passed": true
+    }
+  ]
+}

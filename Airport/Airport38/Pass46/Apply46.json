@@ -1,0 +1,2395 @@
+{
+ "status": "SUCCESS",
+ "summary": {
+  "placed": 96,
+  "moved": 6,
+  "varied": 12,
+  "collided": 10,
+  "rejected": 2
+ },
+ "placed": [
+  {
+   "name": "Concourse departures board46",
+   "asset": "SM_AP_ScreenBoard",
+   "room": "concourse",
+   "why": "dead-end south wall, faces north up the concourse at arriving passengers",
+   "mesh_from": "Compact departures display",
+   "snap_m": null,
+   "solid": false,
+   "centre_m": [
+    -29.0,
+    -3.883,
+    2.15
+   ],
+   "extent_cm": [
+    205.0,
+    9.3,
+    112.0
+   ]
+  },
+  {
+   "name": "Concourse alcove bench46 0",
+   "asset": "SM_AP_Bench34_Hardware40",
+   "room": "concourse",
+   "why": "alcove seating, facing its pair across 3.1 m",
+   "mesh_from": "Recompose bench24",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -30.63,
+    -0.9,
+    0.579
+   ],
+   "extent_cm": [
+    36.0,
+    111.7,
+    57.9
+   ]
+  },
+  {
+   "name": "Concourse alcove bench46 1",
+   "asset": "SM_AP_Bench34_Hardware40",
+   "room": "concourse",
+   "why": "alcove seating, facing its pair",
+   "mesh_from": "Recompose bench24",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -27.37,
+    -0.9,
+    0.579
+   ],
+   "extent_cm": [
+    36.0,
+    111.7,
+    57.9
+   ]
+  },
+  {
+   "name": "Concourse charging bar46",
+   "asset": "SM_AP_Charging34",
+   "room": "concourse",
+   "why": "west wall between the facade corner and the recovery portal at y 4.9",
+   "mesh_from": "ChargingTable24_1749",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -31.62,
+    1.5,
+    0.551
+   ],
+   "extent_cm": [
+    32.5,
+    140.0,
+    55.1
+   ]
+  },
+  {
+   "name": "Concourse waste sorting46",
+   "asset": "SM_AP_Bins36",
+   "room": "concourse",
+   "why": "alcove corner; y=3.6 is taken by Plant1224_1772 at (-30.9, 4.0)",
+   "mesh_from": "Cafe waste sorting36 entry",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -31.486,
+    -3.4,
+    0.538
+   ],
+   "extent_cm": [
+    28.4,
+    56.0,
+    53.8
+   ]
+  },
+  {
+   "name": "Concourse planter46 0",
+   "asset": "SM_AP_Planter27",
+   "room": "concourse",
+   "why": "east wall, marks the alcove mouth",
+   "mesh_from": "Plant1224_1824",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -26.42,
+    1.226,
+    1.105
+   ],
+   "extent_cm": [
+    43.5,
+    46.0,
+    110.5
+   ]
+  },
+  {
+   "name": "Concourse information totem46",
+   "asset": "SM_AP_Information27",
+   "room": "concourse",
+   "why": "north decision node: cafe west, A08 north",
+   "mesh_from": "Foyer information and departures25",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -26.536,
+    11.9,
+    1.337
+   ],
+   "extent_cm": [
+    41.9,
+    113.0,
+    133.8
+   ]
+  },
+  {
+   "name": "Concourse plant46 0",
+   "asset": "SM_AP_Plant12",
+   "room": "concourse",
+   "why": "closes the north edge of the alcove; the west wall at y=11 falls inside the cafe portal mouth",
+   "mesh_from": "Plant1224_1761",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -29.005,
+    1.155,
+    1.188
+   ],
+   "extent_cm": [
+    42.2,
+    40.2,
+    118.8
+   ]
+  },
+  {
+   "name": "Concourse recycling46",
+   "asset": "SM_AP_Recycling38",
+   "room": "concourse",
+   "why": "east wall below the existing A07 sign",
+   "mesh_from": "Recycling24_1810",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -26.534,
+    9.0,
+    0.493
+   ],
+   "extent_cm": [
+    24.4,
+    40.2,
+    49.3
+   ]
+  },
+  {
+   "name": "Cafe approach planter46 0",
+   "asset": "SM_AP_Planter27",
+   "room": "cafefoyer",
+   "why": "west of the cafe threshold mouth, which spans x -36.3..-32.7",
+   "mesh_from": "Plant1224_1824",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -37.274,
+    15.32,
+    1.105
+   ],
+   "extent_cm": [
+    46.0,
+    43.5,
+    110.5
+   ]
+  },
+  {
+   "name": "Cafe approach bench46",
+   "asset": "SM_AP_Bench27_Hardware40",
+   "room": "cafefoyer",
+   "why": "south wall, a pause before the cafe",
+   "mesh_from": "Foyer two-seat waiting bench25",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -35.518,
+    10.45,
+    0.542
+   ],
+   "extent_cm": [
+    125.7,
+    34.0,
+    54.2
+   ]
+  },
+  {
+   "name": "Cafe approach waste sorting46",
+   "asset": "SM_AP_Bins36",
+   "room": "cafefoyer",
+   "why": "south-west corner, clear of the welcome sign above y 11.6",
+   "mesh_from": "Cafe waste sorting36 entry",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -37.4,
+    10.486,
+    0.538
+   ],
+   "extent_cm": [
+    56.0,
+    28.4,
+    53.8
+   ]
+  },
+  {
+   "name": "Cafe approach plant46",
+   "asset": "SM_AP_Plant12",
+   "room": "cafefoyer",
+   "why": "south-east corner; against the west wall it would stand in the welcome sign",
+   "mesh_from": "Plant1224_1761",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -33.605,
+    10.655,
+    1.188
+   ],
+   "extent_cm": [
+    42.2,
+    40.2,
+    118.8
+   ]
+  },
+  {
+   "name": "WC passage bench46",
+   "asset": "SM_AP_Bench27_Hardware40",
+   "room": "amenitylobby",
+   "why": "west wall waiting bench, 2.28 m left clear",
+   "mesh_from": "Foyer two-seat waiting bench25",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -25.62,
+    -6.318,
+    0.542
+   ],
+   "extent_cm": [
+    34.0,
+    125.7,
+    54.2
+   ]
+  },
+  {
+   "name": "WC passage plant46",
+   "asset": "SM_AP_Plant12",
+   "room": "amenitylobby",
+   "why": "east wall, opposite the bench",
+   "mesh_from": "Plant1224_1761",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -23.485,
+    -4.645,
+    1.188
+   ],
+   "extent_cm": [
+    42.2,
+    40.2,
+    118.8
+   ]
+  },
+  {
+   "name": "WC passage recycling46",
+   "asset": "SM_AP_Recycling38",
+   "room": "amenitylobby",
+   "why": "south end of the passage",
+   "mesh_from": "Recycling24_1810",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -23.284,
+    -10.8,
+    0.493
+   ],
+   "extent_cm": [
+    24.4,
+    40.2,
+    49.3
+   ]
+  },
+  {
+   "name": "WC passage planter46",
+   "asset": "SM_AP_Planter27",
+   "room": "amenitylobby",
+   "why": "closes the dead south corner",
+   "mesh_from": "Plant1224_1824",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -25.474,
+    -11.48,
+    1.105
+   ],
+   "extent_cm": [
+    46.0,
+    43.5,
+    110.5
+   ]
+  },
+  {
+   "name": "Landside departures board46",
+   "asset": "SM_AP_ScreenBoard",
+   "room": "landsidecorridor",
+   "why": "south wall facing the corridor, between check-in and security",
+   "mesh_from": "Compact departures display",
+   "snap_m": null,
+   "solid": false,
+   "centre_m": [
+    -39.0,
+    -7.903,
+    2.15
+   ],
+   "extent_cm": [
+    205.0,
+    9.3,
+    112.0
+   ]
+  },
+  {
+   "name": "Landside corridor bench46 0",
+   "asset": "SM_AP_Bench29_Hardware40",
+   "room": "landsidecorridor",
+   "why": "south wall, clear of the board",
+   "mesh_from": "Check-in waiting bench29",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -34.918,
+    -7.6,
+    0.542
+   ],
+   "extent_cm": [
+    125.7,
+    34.0,
+    54.2
+   ]
+  },
+  {
+   "name": "Landside corridor bench46 1",
+   "asset": "SM_AP_Bench29_Hardware40",
+   "room": "landsidecorridor",
+   "why": "south wall, west end",
+   "mesh_from": "Check-in waiting bench29",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -46.118,
+    -7.6,
+    0.542
+   ],
+   "extent_cm": [
+    125.7,
+    34.0,
+    54.2
+   ]
+  },
+  {
+   "name": "Landside charging bar46",
+   "asset": "SM_AP_Charging34",
+   "room": "landsidecorridor",
+   "why": "north wall, clear of the security portal at x -43.2..-40.8",
+   "mesh_from": "ChargingTable24_1749",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -37.0,
+    -4.38,
+    0.551
+   ],
+   "extent_cm": [
+    140.0,
+    32.5,
+    55.1
+   ]
+  },
+  {
+   "name": "Landside planter46 1",
+   "asset": "SM_AP_Planter27",
+   "room": "landsidecorridor",
+   "why": "north wall",
+   "mesh_from": "Plant1224_1824",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -43.974,
+    -4.58,
+    1.105
+   ],
+   "extent_cm": [
+    46.0,
+    43.5,
+    110.5
+   ]
+  },
+  {
+   "name": "Landside planter46 2",
+   "asset": "SM_AP_Planter27",
+   "room": "landsidecorridor",
+   "why": "north wall, east end, clear of Safety station 1 at (-26.7, -5.0)",
+   "mesh_from": "Plant1224_1824",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -28.574,
+    -4.58,
+    1.105
+   ],
+   "extent_cm": [
+    46.0,
+    43.5,
+    110.5
+   ]
+  },
+  {
+   "name": "Landside waste sorting46",
+   "asset": "SM_AP_Bins36",
+   "room": "landsidecorridor",
+   "why": "east end, clear of the check-in threshold mouth x -31.5..-28.5",
+   "mesh_from": "Cafe waste sorting36 entry",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -27.6,
+    -7.514,
+    0.538
+   ],
+   "extent_cm": [
+    56.0,
+    28.4,
+    53.8
+   ]
+  },
+  {
+   "name": "Arrivals reclaim board46",
+   "asset": "SM_AP_ScreenBoard",
+   "room": "arrivals",
+   "why": "north wall at y=-12, facing the carousel; x=-14 is glazed",
+   "mesh_from": "Compact departures display",
+   "snap_m": null,
+   "solid": false,
+   "centre_m": [
+    -18.0,
+    -12.123,
+    2.15
+   ],
+   "extent_cm": [
+    205.0,
+    9.3,
+    112.0
+   ]
+  },
+  {
+   "name": "Arrivals trolley rank46 0",
+   "asset": "SM_AP_Trolley",
+   "room": "arrivals",
+   "why": "trolley rank by the exit",
+   "mesh_from": "Trolley24_1820",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -20.8,
+    -20.238,
+    0.557
+   ],
+   "extent_cm": [
+    36.0,
+    58.2,
+    55.8
+   ]
+  },
+  {
+   "name": "Arrivals trolley rank46 1",
+   "asset": "SM_AP_Trolley",
+   "room": "arrivals",
+   "why": "trolley rank by the exit",
+   "mesh_from": "Trolley24_1820",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -20.0,
+    -20.238,
+    0.557
+   ],
+   "extent_cm": [
+    36.0,
+    58.2,
+    55.8
+   ]
+  },
+  {
+   "name": "Arrivals trolley rank46 2",
+   "asset": "SM_AP_Trolley",
+   "room": "arrivals",
+   "why": "trolley rank by the exit",
+   "mesh_from": "Trolley24_1820",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -19.2,
+    -20.238,
+    0.557
+   ],
+   "extent_cm": [
+    36.0,
+    58.2,
+    55.8
+   ]
+  },
+  {
+   "name": "Arrivals bench46",
+   "asset": "SM_AP_Bench34_Hardware40",
+   "room": "arrivals",
+   "why": "west wall, meeting seat",
+   "mesh_from": "Recompose bench24",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -21.08,
+    -13.2,
+    0.579
+   ],
+   "extent_cm": [
+    36.0,
+    111.7,
+    57.9
+   ]
+  },
+  {
+   "name": "Arrivals planter46 0",
+   "asset": "SM_AP_Planter27",
+   "room": "arrivals",
+   "why": "south-west, clear of the arrivals-exit portal mouth",
+   "mesh_from": "Plant1224_1824",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -20.574,
+    -21.38,
+    1.105
+   ],
+   "extent_cm": [
+    46.0,
+    43.5,
+    110.5
+   ]
+  },
+  {
+   "name": "Arrivals planter46 1",
+   "asset": "SM_AP_Planter27",
+   "room": "arrivals",
+   "why": "south-east corner",
+   "mesh_from": "Plant1224_1824",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -14.574,
+    -21.38,
+    1.105
+   ],
+   "extent_cm": [
+    46.0,
+    43.5,
+    110.5
+   ]
+  },
+  {
+   "name": "Arrivals waste sorting46",
+   "asset": "SM_AP_Bins36",
+   "room": "arrivals",
+   "why": "north-east corner",
+   "mesh_from": "Cafe waste sorting36 entry",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -14.686,
+    -13.0,
+    0.538
+   ],
+   "extent_cm": [
+    28.4,
+    56.0,
+    53.8
+   ]
+  },
+  {
+   "name": "Arrivals recycling46",
+   "asset": "SM_AP_Recycling38",
+   "room": "arrivals",
+   "why": "north wall, under the board",
+   "mesh_from": "Recycling24_1810",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -16.5,
+    -12.516,
+    0.493
+   ],
+   "extent_cm": [
+    40.2,
+    24.4,
+    49.3
+   ]
+  },
+  {
+   "name": "Arrivals exit waste sorting46",
+   "asset": "SM_AP_Bins36",
+   "room": "arrivalsreturn",
+   "why": "the one spot clear of both portal mouths; two planters were dropped because a 3x3.5 m vestibule with an opening on each side has no room for them",
+   "mesh_from": "Cafe waste sorting36 entry",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -23.5,
+    -21.514,
+    0.538
+   ],
+   "extent_cm": [
+    56.0,
+    28.4,
+    53.8
+   ]
+  },
+  {
+   "name": "Operations storage46 0",
+   "asset": "SM_AP_StaffStorage38",
+   "room": "operations",
+   "why": "north wall racking; RetailShelf24_1814 already holds the west wall",
+   "mesh_from": "RetailShelf24_1814",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -48.2,
+    15.6,
+    1.23
+   ],
+   "extent_cm": [
+    75.0,
+    27.0,
+    123.0
+   ]
+  },
+  {
+   "name": "Operations storage46 1",
+   "asset": "SM_AP_StaffStorage38",
+   "room": "operations",
+   "why": "north wall racking",
+   "mesh_from": "RetailShelf24_1814",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -43.0,
+    15.6,
+    1.23
+   ],
+   "extent_cm": [
+    75.0,
+    27.0,
+    123.0
+   ]
+  },
+  {
+   "name": "Operations break table46",
+   "asset": "SM_AP_CafeTable34",
+   "room": "operations",
+   "why": "staff break table",
+   "mesh_from": "CafeTable24_1782",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -40.5,
+    14.5,
+    0.386
+   ],
+   "extent_cm": [
+    60.0,
+    37.0,
+    38.6
+   ]
+  },
+  {
+   "name": "Operations break chair46 0",
+   "asset": "SM_AP_CafeChair34_Hardware40",
+   "room": "operations",
+   "why": "break seat",
+   "mesh_from": "CafeChair24_1783",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -40.5,
+    13.65,
+    0.579
+   ],
+   "extent_cm": [
+    37.7,
+    27.0,
+    57.9
+   ]
+  },
+  {
+   "name": "Operations break chair46 1",
+   "asset": "SM_AP_CafeChair34_Hardware40",
+   "room": "operations",
+   "why": "break seat",
+   "mesh_from": "CafeChair24_1783",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -40.5,
+    15.35,
+    0.579
+   ],
+   "extent_cm": [
+    37.7,
+    27.0,
+    57.9
+   ]
+  },
+  {
+   "name": "Operations plant46",
+   "asset": "SM_AP_Plant12",
+   "room": "operations",
+   "why": "south-east corner",
+   "mesh_from": "Plant1224_1761",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -39.005,
+    10.755,
+    1.188
+   ],
+   "extent_cm": [
+    42.2,
+    40.2,
+    118.8
+   ]
+  },
+  {
+   "name": "Operations recycling46",
+   "asset": "SM_AP_Recycling38",
+   "room": "operations",
+   "why": "south wall",
+   "mesh_from": "Recycling24_1810",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -47.0,
+    10.584,
+    0.493
+   ],
+   "extent_cm": [
+    40.2,
+    24.4,
+    49.3
+   ]
+  },
+  {
+   "name": "Operations waste sorting46",
+   "asset": "SM_AP_Bins36",
+   "room": "operations",
+   "why": "west wall, south of RetailShelf24_1814",
+   "mesh_from": "Cafe waste sorting36 entry",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -48.386,
+    11.0,
+    0.538
+   ],
+   "extent_cm": [
+    28.4,
+    56.0,
+    53.8
+   ]
+  },
+  {
+   "name": "A07 entry bench46 0",
+   "asset": "SM_AP_Bench34_Hardware40",
+   "room": "gate07entry",
+   "why": "west wall, north of the main route along y=6.5",
+   "mesh_from": "Recompose bench24",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -25.58,
+    8.8,
+    0.579
+   ],
+   "extent_cm": [
+    36.0,
+    111.7,
+    57.9
+   ]
+  },
+  {
+   "name": "A07 entry bench46 1",
+   "asset": "SM_AP_Bench34_Hardware40",
+   "room": "gate07entry",
+   "why": "east wall, north of the main route along y=6.5",
+   "mesh_from": "Recompose bench24",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -23.42,
+    8.8,
+    0.579
+   ],
+   "extent_cm": [
+    36.0,
+    111.7,
+    57.9
+   ]
+  },
+  {
+   "name": "A07 entry planter46 0",
+   "asset": "SM_AP_Planter27",
+   "room": "gate07entry",
+   "why": "flanks the south threshold",
+   "mesh_from": "Plant1224_1824",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -25.474,
+    0.12,
+    1.105
+   ],
+   "extent_cm": [
+    46.0,
+    43.5,
+    110.5
+   ]
+  },
+  {
+   "name": "A07 entry planter46 1",
+   "asset": "SM_AP_Planter27",
+   "room": "gate07entry",
+   "why": "flanks the south threshold",
+   "mesh_from": "Plant1224_1824",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -23.474,
+    0.12,
+    1.105
+   ],
+   "extent_cm": [
+    46.0,
+    43.5,
+    110.5
+   ]
+  },
+  {
+   "name": "A07 entry recycling46",
+   "asset": "SM_AP_Recycling38",
+   "room": "gate07entry",
+   "why": "north wall, between the benches",
+   "mesh_from": "Recycling24_1810",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -24.5,
+    9.584,
+    0.493
+   ],
+   "extent_cm": [
+    40.2,
+    24.4,
+    49.3
+   ]
+  },
+  {
+   "name": "Public return bench46 0",
+   "asset": "SM_AP_Bench27_Hardware40",
+   "room": "publicreturn",
+   "why": "south wall, between the existing trolleys at x=-46 and x=-42",
+   "mesh_from": "Foyer two-seat waiting bench25",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -44.118,
+    -21.4,
+    0.542
+   ],
+   "extent_cm": [
+    125.7,
+    34.0,
+    54.2
+   ]
+  },
+  {
+   "name": "Public return bench46 1",
+   "asset": "SM_AP_Bench27_Hardware40",
+   "room": "publicreturn",
+   "why": "south wall, east of the trolley at x=-34",
+   "mesh_from": "Foyer two-seat waiting bench25",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -31.618,
+    -21.4,
+    0.542
+   ],
+   "extent_cm": [
+    125.7,
+    34.0,
+    54.2
+   ]
+  },
+  {
+   "name": "Public return planter46 0",
+   "asset": "SM_AP_Planter27",
+   "room": "publicreturn",
+   "why": "north wall rhythm",
+   "mesh_from": "Plant1224_1824",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -39.974,
+    -18.68,
+    1.105
+   ],
+   "extent_cm": [
+    46.0,
+    43.5,
+    110.5
+   ]
+  },
+  {
+   "name": "Public return planter46 1",
+   "asset": "SM_AP_Planter27",
+   "room": "publicreturn",
+   "why": "north wall rhythm",
+   "mesh_from": "Plant1224_1824",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -28.974,
+    -18.68,
+    1.105
+   ],
+   "extent_cm": [
+    46.0,
+    43.5,
+    110.5
+   ]
+  },
+  {
+   "name": "Public return trolley46 0",
+   "asset": "SM_AP_Trolley",
+   "room": "publicreturn",
+   "why": "trolley return by the exit",
+   "mesh_from": "Trolley24_1820",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -47.5,
+    -19.038,
+    0.557
+   ],
+   "extent_cm": [
+    36.0,
+    58.2,
+    55.8
+   ]
+  },
+  {
+   "name": "Public return trolley46 1",
+   "asset": "SM_AP_Trolley",
+   "room": "publicreturn",
+   "why": "trolley return by the exit",
+   "mesh_from": "Trolley24_1820",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -46.7,
+    -19.038,
+    0.557
+   ],
+   "extent_cm": [
+    36.0,
+    58.2,
+    55.8
+   ]
+  },
+  {
+   "name": "Public return waste sorting46",
+   "asset": "SM_AP_Bins36",
+   "room": "publicreturn",
+   "why": "north wall",
+   "mesh_from": "Cafe waste sorting36 entry",
+   "snap_m": -0.0,
+   "solid": true,
+   "centre_m": [
+    -36.0,
+    -18.614,
+    0.538
+   ],
+   "extent_cm": [
+    56.0,
+    28.4,
+    53.8
+   ]
+  },
+  {
+   "name": "Gallery table46 0",
+   "asset": "SM_AP_OvalTable36",
+   "room": "cafe",
+   "why": "the gallery had no table at all; seats face each other across it",
+   "mesh_from": "A07 lounge coffee table36",
+   "snap_m": null,
+   "solid": true,
+   "centre_m": [
+    -46.5,
+    28.6,
+    3.439
+   ],
+   "extent_cm": [
+    62.5,
+    34.0,
+    28.9
+   ]
+  },
+  {
+   "name": "Gallery chair46 0",
+   "asset": "SM_AP_CafeChair34_Hardware40",
+   "room": "cafe",
+   "why": "serves table46 0",
+   "mesh_from": "CafeChair24_1783",
+   "snap_m": null,
+   "solid": true,
+   "centre_m": [
+    -46.5,
+    27.75,
+    3.729
+   ],
+   "extent_cm": [
+    37.7,
+    27.0,
+    57.9
+   ]
+  },
+  {
+   "name": "Gallery chair46 1",
+   "asset": "SM_AP_CafeChair34_Hardware40",
+   "room": "cafe",
+   "why": "serves table46 0",
+   "mesh_from": "CafeChair24_1783",
+   "snap_m": null,
+   "solid": true,
+   "centre_m": [
+    -46.5,
+    29.45,
+    3.729
+   ],
+   "extent_cm": [
+    37.7,
+    27.0,
+    57.9
+   ]
+  },
+  {
+   "name": "Gallery table46 1",
+   "asset": "SM_AP_OvalTable36",
+   "room": "cafe",
+   "why": "second gallery table",
+   "mesh_from": "A07 lounge coffee table36",
+   "snap_m": null,
+   "solid": true,
+   "centre_m": [
+    -43.5,
+    26.6,
+    3.439
+   ],
+   "extent_cm": [
+    62.5,
+    34.0,
+    28.9
+   ]
+  },
+  {
+   "name": "Gallery chair46 2",
+   "asset": "SM_AP_CafeChair34_Hardware40",
+   "room": "cafe",
+   "why": "serves table46 1",
+   "mesh_from": "CafeChair24_1783",
+   "snap_m": null,
+   "solid": true,
+   "centre_m": [
+    -43.5,
+    25.75,
+    3.729
+   ],
+   "extent_cm": [
+    37.7,
+    27.0,
+    57.9
+   ]
+  },
+  {
+   "name": "Gallery chair46 3",
+   "asset": "SM_AP_CafeChair34_Hardware40",
+   "room": "cafe",
+   "why": "serves table46 1",
+   "mesh_from": "CafeChair24_1783",
+   "snap_m": null,
+   "solid": true,
+   "centre_m": [
+    -43.5,
+    27.45,
+    3.729
+   ],
+   "extent_cm": [
+    37.7,
+    27.0,
+    57.9
+   ]
+  },
+  {
+   "name": "Gallery planter46",
+   "asset": "SM_AP_Planter27",
+   "room": "cafe",
+   "why": "softens the glazed north-west corner the charging bar vacated",
+   "mesh_from": "Plant1224_1824",
+   "snap_m": null,
+   "solid": true,
+   "centre_m": [
+    -48.274,
+    33.12,
+    4.255
+   ],
+   "extent_cm": [
+    46.0,
+    43.5,
+    110.5
+   ]
+  },
+  {
+   "name": "Forecourt kerb46 01",
+   "asset": "SM_AP_Curb",
+   "room": "forecourt",
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Curb",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -61.795,
+    -22.0,
+    0.095
+   ],
+   "extent_cm": [
+    18.5,
+    98.0,
+    12.5
+   ]
+  },
+  {
+   "name": "Forecourt kerb46 02",
+   "asset": "SM_AP_Curb",
+   "room": "forecourt",
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Curb",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -61.795,
+    -20.0,
+    0.095
+   ],
+   "extent_cm": [
+    18.5,
+    98.0,
+    12.5
+   ]
+  },
+  {
+   "name": "Forecourt kerb46 03",
+   "asset": "SM_AP_Curb",
+   "room": "forecourt",
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Curb",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -61.795,
+    -18.0,
+    0.095
+   ],
+   "extent_cm": [
+    18.5,
+    98.0,
+    12.5
+   ]
+  },
+  {
+   "name": "Forecourt kerb46 04",
+   "asset": "SM_AP_Curb",
+   "room": "forecourt",
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Curb",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -61.795,
+    -16.0,
+    0.095
+   ],
+   "extent_cm": [
+    18.5,
+    98.0,
+    12.5
+   ]
+  },
+  {
+   "name": "Forecourt kerb46 05",
+   "asset": "SM_AP_Curb",
+   "room": "forecourt",
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Curb",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -61.795,
+    -14.0,
+    0.095
+   ],
+   "extent_cm": [
+    18.5,
+    98.0,
+    12.5
+   ]
+  },
+  {
+   "name": "Forecourt kerb46 06",
+   "asset": "SM_AP_Curb",
+   "room": "forecourt",
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Curb",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -61.795,
+    -12.0,
+    0.095
+   ],
+   "extent_cm": [
+    18.5,
+    98.0,
+    12.5
+   ]
+  },
+  {
+   "name": "Forecourt kerb46 07",
+   "asset": "SM_AP_Curb",
+   "room": "forecourt",
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Curb",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -61.795,
+    -10.0,
+    0.095
+   ],
+   "extent_cm": [
+    18.5,
+    98.0,
+    12.5
+   ]
+  },
+  {
+   "name": "Forecourt kerb46 08",
+   "asset": "SM_AP_Curb",
+   "room": "forecourt",
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Curb",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -61.795,
+    -8.0,
+    0.095
+   ],
+   "extent_cm": [
+    18.5,
+    98.0,
+    12.5
+   ]
+  },
+  {
+   "name": "Forecourt kerb46 09",
+   "asset": "SM_AP_Curb",
+   "room": "forecourt",
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Curb",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -61.795,
+    -6.0,
+    0.095
+   ],
+   "extent_cm": [
+    18.5,
+    98.0,
+    12.5
+   ]
+  },
+  {
+   "name": "Forecourt kerb46 10",
+   "asset": "SM_AP_Curb",
+   "room": "forecourt",
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Curb",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -61.795,
+    -4.0,
+    0.095
+   ],
+   "extent_cm": [
+    18.5,
+    98.0,
+    12.5
+   ]
+  },
+  {
+   "name": "Forecourt kerb46 11",
+   "asset": "SM_AP_Curb",
+   "room": "forecourt",
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Curb",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -61.795,
+    -2.0,
+    0.095
+   ],
+   "extent_cm": [
+    18.5,
+    98.0,
+    12.5
+   ]
+  },
+  {
+   "name": "Forecourt kerb46 12",
+   "asset": "SM_AP_Curb",
+   "room": "forecourt",
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Curb",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -61.795,
+    -0.0,
+    0.095
+   ],
+   "extent_cm": [
+    18.5,
+    98.0,
+    12.5
+   ]
+  },
+  {
+   "name": "Forecourt kerb46 13",
+   "asset": "SM_AP_Curb",
+   "room": "forecourt",
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Curb",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -61.795,
+    2.0,
+    0.095
+   ],
+   "extent_cm": [
+    18.5,
+    98.0,
+    12.5
+   ]
+  },
+  {
+   "name": "Forecourt kerb46 14",
+   "asset": "SM_AP_Curb",
+   "room": "forecourt",
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Curb",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -61.795,
+    4.0,
+    0.095
+   ],
+   "extent_cm": [
+    18.5,
+    98.0,
+    12.5
+   ]
+  },
+  {
+   "name": "Forecourt kerb46 15",
+   "asset": "SM_AP_Curb",
+   "room": "forecourt",
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Curb",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -61.795,
+    6.0,
+    0.095
+   ],
+   "extent_cm": [
+    18.5,
+    98.0,
+    12.5
+   ]
+  },
+  {
+   "name": "Forecourt kerb46 16",
+   "asset": "SM_AP_Curb",
+   "room": "forecourt",
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Curb",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -61.795,
+    8.0,
+    0.095
+   ],
+   "extent_cm": [
+    18.5,
+    98.0,
+    12.5
+   ]
+  },
+  {
+   "name": "Forecourt kerb46 17",
+   "asset": "SM_AP_Curb",
+   "room": "forecourt",
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Curb",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -61.795,
+    10.0,
+    0.095
+   ],
+   "extent_cm": [
+    18.5,
+    98.0,
+    12.5
+   ]
+  },
+  {
+   "name": "Forecourt kerb46 18",
+   "asset": "SM_AP_Curb",
+   "room": "forecourt",
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Curb",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -61.795,
+    12.0,
+    0.095
+   ],
+   "extent_cm": [
+    18.5,
+    98.0,
+    12.5
+   ]
+  },
+  {
+   "name": "Forecourt kerb46 19",
+   "asset": "SM_AP_Curb",
+   "room": "forecourt",
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Curb",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -61.795,
+    14.0,
+    0.095
+   ],
+   "extent_cm": [
+    18.5,
+    98.0,
+    12.5
+   ]
+  },
+  {
+   "name": "Forecourt kerb46 20",
+   "asset": "SM_AP_Curb",
+   "room": "forecourt",
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Curb",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -61.795,
+    16.0,
+    0.095
+   ],
+   "extent_cm": [
+    18.5,
+    98.0,
+    12.5
+   ]
+  },
+  {
+   "name": "Forecourt kerb46 21",
+   "asset": "SM_AP_Curb",
+   "room": "forecourt",
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Curb",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -61.795,
+    18.0,
+    0.095
+   ],
+   "extent_cm": [
+    18.5,
+    98.0,
+    12.5
+   ]
+  },
+  {
+   "name": "Forecourt streetlight46 0",
+   "asset": "SM_AP_Streetlight",
+   "room": "forecourt",
+   "why": "outside the canopy footprint; arm direction alternates along the row",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Streetlight",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -59.745,
+    -23.0,
+    2.877
+   ],
+   "extent_cm": [
+    87.5,
+    22.0,
+    290.7
+   ]
+  },
+  {
+   "name": "Forecourt streetlight46 1",
+   "asset": "SM_AP_Streetlight",
+   "room": "forecourt",
+   "why": "outside the canopy footprint; arm direction alternates along the row",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Streetlight",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -61.055,
+    4.8,
+    2.877
+   ],
+   "extent_cm": [
+    87.5,
+    22.0,
+    290.7
+   ]
+  },
+  {
+   "name": "Forecourt streetlight46 2",
+   "asset": "SM_AP_Streetlight",
+   "room": "forecourt",
+   "why": "outside the canopy footprint; arm direction alternates along the row",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Streetlight",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -59.745,
+    14.0,
+    2.877
+   ],
+   "extent_cm": [
+    87.5,
+    22.0,
+    290.7
+   ]
+  },
+  {
+   "name": "Forecourt streetlight46 3",
+   "asset": "SM_AP_Streetlight",
+   "room": "forecourt",
+   "why": "outside the canopy footprint; arm direction alternates along the row",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Streetlight",
+   "snap_m": null,
+   "solid": true,
+   "centre_m": [
+    -61.055,
+    22.0,
+    2.907
+   ],
+   "extent_cm": [
+    87.5,
+    22.0,
+    290.7
+   ]
+  },
+  {
+   "name": "Forecourt tree46 0",
+   "asset": "SM_AP_Tree",
+   "room": "forecourt",
+   "why": "north of the canopy; yaw, scale and offset differ per tree so the row is not a stamped array",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Tree",
+   "snap_m": -0.0092,
+   "solid": true,
+   "centre_m": [
+    -54.902,
+    0.948,
+    4.23
+   ],
+   "extent_cm": [
+    392.1,
+    385.6,
+    426.0
+   ]
+  },
+  {
+   "name": "Forecourt tree46 1",
+   "asset": "SM_AP_Tree",
+   "room": "forecourt",
+   "why": "north of the canopy; yaw, scale and offset differ per tree so the row is not a stamped array",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Tree",
+   "snap_m": -0.0114,
+   "solid": true,
+   "centre_m": [
+    -54.381,
+    9.402,
+    3.787
+   ],
+   "extent_cm": [
+    403.3,
+    401.7,
+    381.7
+   ]
+  },
+  {
+   "name": "Forecourt tree46 2",
+   "asset": "SM_AP_Tree",
+   "room": "forecourt",
+   "why": "north of the canopy; yaw, scale and offset differ per tree so the row is not a stamped array",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_Tree",
+   "snap_m": -0.0102,
+   "solid": true,
+   "centre_m": [
+    -54.7,
+    18.035,
+    4.026
+   ],
+   "extent_cm": [
+    413.5,
+    416.8,
+    405.6
+   ]
+  },
+  {
+   "name": "Forecourt garden bench46 0",
+   "asset": "SM_AP_GardenBench",
+   "room": "forecourt",
+   "why": "sheltered seating under the canopy, facing alternately",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_GardenBench",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -55.7,
+    -18.0,
+    0.649
+   ],
+   "extent_cm": [
+    113.5,
+    245.0,
+    67.9
+   ]
+  },
+  {
+   "name": "Forecourt garden bench46 1",
+   "asset": "SM_AP_GardenBench",
+   "room": "forecourt",
+   "why": "sheltered seating under the canopy, facing alternately",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_GardenBench",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -55.7,
+    -12.25,
+    0.649
+   ],
+   "extent_cm": [
+    113.5,
+    245.0,
+    67.9
+   ]
+  },
+  {
+   "name": "Forecourt garden bench46 2",
+   "asset": "SM_AP_GardenBench",
+   "room": "forecourt",
+   "why": "sheltered seating under the canopy, facing alternately",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_GardenBench",
+   "snap_m": -0.03,
+   "solid": true,
+   "centre_m": [
+    -55.7,
+    -6.5,
+    0.649
+   ],
+   "extent_cm": [
+    113.5,
+    245.0,
+    67.9
+   ]
+  },
+  {
+   "name": "Forecourt taxi46 0",
+   "asset": "SM_AP_TaxiCar",
+   "room": "forecourt",
+   "why": "drop-off rank on the asphalt road",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_TaxiCar",
+   "snap_m": 0.005,
+   "solid": true,
+   "centre_m": [
+    -64.5,
+    -19.0,
+    0.873
+   ],
+   "extent_cm": [
+    98.4,
+    227.5,
+    85.8
+   ]
+  },
+  {
+   "name": "Forecourt taxi46 1",
+   "asset": "SM_AP_TaxiCar",
+   "room": "forecourt",
+   "why": "drop-off rank on the asphalt road",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_TaxiCar",
+   "snap_m": 0.005,
+   "solid": true,
+   "centre_m": [
+    -64.5,
+    -6.0,
+    0.873
+   ],
+   "extent_cm": [
+    108.3,
+    231.6,
+    85.8
+   ]
+  },
+  {
+   "name": "Forecourt taxi46 2",
+   "asset": "SM_AP_TaxiCar",
+   "room": "forecourt",
+   "why": "drop-off rank on the asphalt road",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_TaxiCar",
+   "snap_m": 0.005,
+   "solid": true,
+   "centre_m": [
+    -64.5,
+    8.0,
+    0.873
+   ],
+   "extent_cm": [
+    110.2,
+    232.3,
+    85.8
+   ]
+  },
+  {
+   "name": "Forecourt shuttle bus46",
+   "asset": "SM_AP_ShuttleBus",
+   "room": "forecourt",
+   "why": "the layout asks for a shuttle bus; it is absent from the level",
+   "mesh_from": "/Game/Airport10/Meshes/SM_AP_ShuttleBus",
+   "snap_m": -0.035,
+   "solid": true,
+   "centre_m": [
+    -66.0,
+    22.995,
+    1.598
+   ],
+   "extent_cm": [
+    129.8,
+    451.5,
+    158.2
+   ]
+  }
+ ],
+ "moved": [
+  {
+   "actor": "ChargingTable24_1797",
+   "why": "becomes a window counter facing the west glazing at the stair head, instead of blocking the retail shelf face",
+   "from_m": [
+    -48.4,
+    27.2,
+    3.15
+   ],
+   "to_m": [
+    -48.4,
+    27.2,
+    3.701
+   ],
+   "from_yaw": 90.0,
+   "to_yaw": 90,
+   "scale": null
+  },
+  {
+   "actor": "RetailShelf24_1832",
+   "why": "back-to-back gondola island with an end cap, so the backs face each other instead of the glazing, and 2.1 m of walkway opens behind it",
+   "from_m": [
+    -43.4,
+    31.6,
+    3.15
+   ],
+   "to_m": [
+    -43.4,
+    31.6,
+    4.38
+   ],
+   "from_yaw": -0.0,
+   "to_yaw": 180,
+   "scale": null
+  },
+  {
+   "actor": "RetailShelf24_1833",
+   "why": "back-to-back gondola island with an end cap, so the backs face each other instead of the glazing, and 2.1 m of walkway opens behind it",
+   "from_m": [
+    -43.4,
+    31.06,
+    3.15
+   ],
+   "to_m": [
+    -43.4,
+    31.06,
+    4.38
+   ],
+   "from_yaw": -180.0,
+   "to_yaw": 0,
+   "scale": null
+  },
+  {
+   "actor": "RetailShelf24_1834",
+   "why": "back-to-back gondola island with an end cap, so the backs face each other instead of the glazing, and 2.1 m of walkway opens behind it",
+   "from_m": [
+    -44.7,
+    31.2,
+    3.15
+   ],
+   "to_m": [
+    -44.7,
+    31.2,
+    4.38
+   ],
+   "from_yaw": 90.0,
+   "to_yaw": 90,
+   "scale": null
+  },
+  {
+   "actor": "WC release 0 inside",
+   "why": "hung 30.7 cm clear of the cubicle door inner face; the matching outside plate meets its face within 1 mm. Reseated flush, 1 mm in.",
+   "from_m": [
+    -20.55,
+    -7.083,
+    1.13
+   ],
+   "to_m": [
+    -20.55,
+    -7.068,
+    1.13
+   ],
+   "from_yaw": -180.0,
+   "to_yaw": -180.0,
+   "scale": null
+  },
+  {
+   "actor": "WC release 1 inside",
+   "why": "hung 30.7 cm clear of the cubicle door inner face; the matching outside plate meets its face within 1 mm. Reseated flush, 1 mm in.",
+   "from_m": [
+    -16.65,
+    -7.083,
+    1.13
+   ],
+   "to_m": [
+    -16.65,
+    -7.068,
+    1.13
+   ],
+   "from_yaw": -180.0,
+   "to_yaw": -180.0,
+   "scale": null
+  }
+ ],
+ "varied": [
+  {
+   "actor": "CafeChair24_1783",
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up",
+   "from_m": [
+    -38.5,
+    20.65,
+    0.0
+   ],
+   "to_m": [
+    -38.5,
+    20.65,
+    0.579
+   ],
+   "from_yaw": 173.0,
+   "to_yaw": 173.0,
+   "scale": [
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "actor": "CafeChair24_1784",
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up",
+   "from_m": [
+    -38.5,
+    22.35,
+    0.0
+   ],
+   "to_m": [
+    -38.5,
+    22.35,
+    0.579
+   ],
+   "from_yaw": 5.0,
+   "to_yaw": 5.0,
+   "scale": [
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "actor": "CafeChair24_1786",
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up",
+   "from_m": [
+    -34.5,
+    21.95,
+    0.0
+   ],
+   "to_m": [
+    -34.5,
+    21.95,
+    0.579
+   ],
+   "from_yaw": -169.0,
+   "to_yaw": 191.0,
+   "scale": [
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "actor": "CafeChair24_1787",
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up",
+   "from_m": [
+    -34.5,
+    23.65,
+    0.0
+   ],
+   "to_m": [
+    -34.5,
+    23.65,
+    0.579
+   ],
+   "from_yaw": -4.0,
+   "to_yaw": -4.0,
+   "scale": [
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "actor": "CafeChair24_1789",
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up",
+   "from_m": [
+    -38.5,
+    27.15,
+    0.0
+   ],
+   "to_m": [
+    -38.5,
+    27.15,
+    0.579
+   ],
+   "from_yaw": -174.0,
+   "to_yaw": 186.0,
+   "scale": [
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "actor": "CafeChair24_1790",
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up",
+   "from_m": [
+    -38.5,
+    28.85,
+    0.0
+   ],
+   "to_m": [
+    -38.5,
+    28.85,
+    0.579
+   ],
+   "from_yaw": -9.0,
+   "to_yaw": -9.0,
+   "scale": [
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "actor": "CafeChair24_1792",
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up",
+   "from_m": [
+    -34.5,
+    29.15,
+    0.0
+   ],
+   "to_m": [
+    -34.5,
+    29.15,
+    0.579
+   ],
+   "from_yaw": 174.0,
+   "to_yaw": 174.0,
+   "scale": [
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "actor": "CafeChair24_1793",
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up",
+   "from_m": [
+    -34.5,
+    30.85,
+    0.0
+   ],
+   "to_m": [
+    -34.5,
+    30.85,
+    0.579
+   ],
+   "from_yaw": 8.0,
+   "to_yaw": 8.0,
+   "scale": [
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "actor": "Cafe extra chair36 0",
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up",
+   "from_m": [
+    -37.26,
+    25.8,
+    0.0
+   ],
+   "to_m": [
+    -37.26,
+    25.8,
+    0.579
+   ],
+   "from_yaw": 94.0,
+   "to_yaw": 94.0,
+   "scale": [
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "actor": "Cafe extra chair36 1",
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up",
+   "from_m": [
+    -35.54,
+    25.8,
+    0.0
+   ],
+   "to_m": [
+    -35.54,
+    25.8,
+    0.579
+   ],
+   "from_yaw": -95.0,
+   "to_yaw": -95.0,
+   "scale": [
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "actor": "Cafe extra chair36 2",
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up",
+   "from_m": [
+    -37.2,
+    30.14,
+    0.0
+   ],
+   "to_m": [
+    -37.2,
+    30.14,
+    0.579
+   ],
+   "from_yaw": -171.0,
+   "to_yaw": 189.0,
+   "scale": [
+    1,
+    1,
+    1
+   ]
+  },
+  {
+   "actor": "Cafe extra chair36 3",
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up",
+   "from_m": [
+    -37.2,
+    31.86,
+    0.0
+   ],
+   "to_m": [
+    -37.2,
+    31.86,
+    0.579
+   ],
+   "from_yaw": -7.0,
+   "to_yaw": -7.0,
+   "scale": [
+    1,
+    1,
+    1
+   ]
+  }
+ ],
+ "collided": [
+  {
+   "actor": "Plant1224_1761",
+   "was": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "now": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "profile": "BlockAll",
+   "why": "visible 1.1-1.2 m planting with collision disabled; the player walks through it"
+  },
+  {
+   "actor": "Plant1224_1771",
+   "was": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "now": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "profile": "BlockAll",
+   "why": "visible 1.1-1.2 m planting with collision disabled; the player walks through it"
+  },
+  {
+   "actor": "Plant1224_1772",
+   "was": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "now": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "profile": "BlockAll",
+   "why": "visible 1.1-1.2 m planting with collision disabled; the player walks through it"
+  },
+  {
+   "actor": "Plant1224_1773",
+   "was": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "now": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "profile": "BlockAll",
+   "why": "visible 1.1-1.2 m planting with collision disabled; the player walks through it"
+  },
+  {
+   "actor": "Plant1224_1827",
+   "was": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "now": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "profile": "BlockAll",
+   "why": "visible 1.1-1.2 m planting with collision disabled; the player walks through it"
+  },
+  {
+   "actor": "Plant1224_1828",
+   "was": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "now": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "profile": "BlockAll",
+   "why": "visible 1.1-1.2 m planting with collision disabled; the player walks through it"
+  },
+  {
+   "actor": "Plant1224_1829",
+   "was": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "now": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "profile": "BlockAll",
+   "why": "visible 1.1-1.2 m planting with collision disabled; the player walks through it"
+  },
+  {
+   "actor": "Plant1224_1824",
+   "was": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "now": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "profile": "BlockAll",
+   "why": "visible 1.1-1.2 m planting with collision disabled; the player walks through it"
+  },
+  {
+   "actor": "Plant1224_1825",
+   "was": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "now": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "profile": "BlockAll",
+   "why": "visible 1.1-1.2 m planting with collision disabled; the player walks through it"
+  },
+  {
+   "actor": "Plant1224_1826",
+   "was": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "now": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "profile": "BlockAll",
+   "why": "visible 1.1-1.2 m planting with collision disabled; the player walks through it"
+  }
+ ],
+ "rejected": [
+  {
+   "name": "Forecourt kerb46 00",
+   "asset": "SM_AP_Curb",
+   "reason": "live geometry overlap",
+   "hits": [
+    "Slab12_1"
+   ]
+  },
+  {
+   "name": "Forecourt kerb46 22",
+   "asset": "SM_AP_Curb",
+   "reason": "live geometry overlap",
+   "hits": [
+    "Slab12_1"
+   ]
+  }
+ ],
+ "removed_previous": [
+  "Concourse departures board46",
+  "Concourse alcove bench46 0",
+  "Concourse alcove bench46 1",
+  "Concourse charging bar46",
+  "Concourse waste sorting46",
+  "Concourse planter46 0",
+  "Concourse information totem46",
+  "Concourse plant46 0",
+  "Concourse recycling46",
+  "Cafe approach planter46 0",
+  "Cafe approach bench46",
+  "Cafe approach waste sorting46",
+  "Cafe approach plant46",
+  "WC passage bench46",
+  "WC passage plant46",
+  "WC passage recycling46",
+  "WC passage planter46",
+  "Landside departures board46",
+  "Landside corridor bench46 0",
+  "Landside corridor bench46 1",
+  "Landside charging bar46",
+  "Landside planter46 1",
+  "Landside planter46 2",
+  "Landside waste sorting46",
+  "Arrivals reclaim board46",
+  "Arrivals trolley rank46 0",
+  "Arrivals trolley rank46 1",
+  "Arrivals trolley rank46 2",
+  "Arrivals bench46",
+  "Arrivals planter46 0",
+  "Arrivals planter46 1",
+  "Arrivals waste sorting46",
+  "Arrivals recycling46",
+  "Arrivals exit waste sorting46",
+  "Operations storage46 0",
+  "Operations storage46 1",
+  "Operations break table46",
+  "Operations break chair46 0",
+  "Operations break chair46 1",
+  "Operations plant46",
+  "Operations recycling46",
+  "Operations waste sorting46",
+  "A07 entry bench46 0",
+  "A07 entry bench46 1",
+  "A07 entry planter46 0",
+  "A07 entry planter46 1",
+  "A07 entry recycling46",
+  "Public return bench46 0",
+  "Public return bench46 1",
+  "Public return planter46 0",
+  "Public return planter46 1",
+  "Public return trolley46 0",
+  "Public return trolley46 1",
+  "Public return waste sorting46",
+  "Gallery table46 0",
+  "Gallery chair46 0",
+  "Gallery chair46 1",
+  "Gallery table46 1",
+  "Gallery chair46 2",
+  "Gallery chair46 3",
+  "Gallery planter46",
+  "Forecourt kerb46 01",
+  "Forecourt kerb46 02",
+  "Forecourt kerb46 03",
+  "Forecourt kerb46 04",
+  "Forecourt kerb46 05",
+  "Forecourt kerb46 06",
+  "Forecourt kerb46 07",
+  "Forecourt kerb46 08",
+  "Forecourt kerb46 09",
+  "Forecourt kerb46 10",
+  "Forecourt kerb46 11",
+  "Forecourt kerb46 12",
+  "Forecourt kerb46 13",
+  "Forecourt kerb46 14",
+  "Forecourt kerb46 15",
+  "Forecourt kerb46 16",
+  "Forecourt kerb46 17",
+  "Forecourt kerb46 18",
+  "Forecourt kerb46 19",
+  "Forecourt kerb46 20",
+  "Forecourt kerb46 21",
+  "Forecourt streetlight46 0",
+  "Forecourt streetlight46 1",
+  "Forecourt streetlight46 2",
+  "Forecourt streetlight46 3",
+  "Forecourt tree46 0",
+  "Forecourt tree46 1",
+  "Forecourt tree46 2",
+  "Forecourt garden bench46 0",
+  "Forecourt garden bench46 1",
+  "Forecourt garden bench46 2",
+  "Forecourt taxi46 0",
+  "Forecourt taxi46 1",
+  "Forecourt taxi46 2",
+  "Forecourt shuttle bus46"
+ ],
+ "notes": [
+  "level holds 3189 actors before this pass",
+  "asset library built from 407 distinct meshes",
+  "order: moves and variations first, then placements, so a placement is checked against final positions",
+  "loaded /Game/Airport10/Meshes/SM_AP_Curb from content",
+  "loaded /Game/Airport10/Meshes/SM_AP_Streetlight from content",
+  "Forecourt streetlight46 3: no floor below it, left at the authored z",
+  "loaded /Game/Airport10/Meshes/SM_AP_Tree from content",
+  "loaded /Game/Airport10/Meshes/SM_AP_GardenBench from content",
+  "loaded /Game/Airport10/Meshes/SM_AP_TaxiCar from content",
+  "loaded /Game/Airport10/Meshes/SM_AP_ShuttleBus from content"
+ ],
+ "finished": 1793429744.7274303
+}

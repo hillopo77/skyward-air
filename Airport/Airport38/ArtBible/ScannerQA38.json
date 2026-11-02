@@ -1,0 +1,5971 @@
+{
+  "status": "SUCCESS",
+  "context": {
+    "schema": 1,
+    "installed": 1793390391.2146804,
+    "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+    "layout_sha256": "37a70bcaa86e64177a54875e97b291492bfe6f953d4c9be35a03ba41a26ec446",
+    "map": "/Game/Airport38/L_Airport_Repair38",
+    "runtime_sha256": {
+      "airport_runtime.py": "d3113561e325d2be28c68242c38fc1689b1c7ec28a88c5be01f26a1a2a6e14fd",
+      "characters12_runtime.py": "2baf24f676c974d64148dc0ac01601f18e41a7b8ef272ee3b2d3ecca9ab9702f",
+      "characters39_runtime.py": "ce2f96525f828235bb15b76a1a22ce75e0bac3c093787ca867d08726619befd4",
+      "chair_runtime39.py": "ccf2ae35b0d653748317438ce32da575118aa781924e92466babee8f89640677",
+      "airport_repair38.py": "e1685edf17f195fb2757dd287d4241e1cd8f91917c21bbae6bb8b6b267d81370",
+      "airport_airside38.py": "31464373653eb0ebe376d93339388ba296db5761768f7596b9c8ac1d2fc58e02",
+      "airside_math38.py": "82a72c5b4192b6bcf3116d06b2d33a4171086dc75b05d975545f28bb04dd8393",
+      "airport_rendering38.py": "8c7825a5d8586bde0ef12a7a81e622b5806bc5ea9bbfa05ae5cc267ee1ec1f9d",
+      "rendering38.py": "f3c603037c1aad0a30bd7213eeef3b29f5cdd8d624ecb4ed6e143aff15ee4303",
+      "airport_journey38.py": "756cffcd497620a155d7807a8bc7975697d8f70550007320719eaaeae820f1af",
+      "equipment_displays38.py": "139a8755859d677b0722c8a51a643f031fdf9c159b5653b03348f8cfae011a35",
+      "exterior39.py": "5518ef6c3ea4ae3a5193cba1be5f4eb84bde613902fee4ee707959e56d08577a",
+      "window40.py": "0ab782922c3e525edfeb7b0fa0b876d212b2f08fb61a9b198b34600f2ad9ed24",
+      "airport_flight39.py": "b28a5a0f1155b7c8b266984bc3ec7cc1767a218bdb155ab31120ec9dcd000120",
+      "flight39_model.py": "f6f0a7b608a620ce97835302c857ada35536bedf57afc9507a9329532d490c51",
+      "flight39_frame.py": "1fa5f5b8ef84b22707e025e3770725024f54d57acbc29b304407ad06fd3eaaf0",
+      "flight39_envelope.py": "8ec3af9e6b90af952e47a680562e37b7ebd65ab62041d5c4ce063de7cc3f7872",
+      "flight39_driver.py": "3c26d3ff32a303f05c37f1f91977c05ee7c1e4fe26e9c403581f0ffd0b828854",
+      "qa_flight39.py": "66a6311ba66cefb847b1fdbe212175fc5fc902f553bacfe0b0ac86f3bb18cbac",
+      "locomotion40.py": "225dbfddfc75d329f2f7bee0189bc0268d62ede3bb13d0a747f37b52032d52fa",
+      "lifecycle43.py": "c8c35d29da996baf52abab808b6418d6e1e99e13c43b6dc6c37a2c7dcc667dbb",
+      "window41.py": "88d296e718020c35a8f07021fdab698f9af1bd64f71947fb8c5dcd1a41b51367",
+      "business_belt40.py": "d685d29031cc3ab386d3c9a10a70882dd692a2dd1fe6eabffc8e3cfc0781226f",
+      "business_belt41.py": "c52c5cadc82f458dddc284a90d7d32e52a892fa05f845dd8bee1e9ce2af61bb1",
+      "window42.py": "950639750b6a4e1747701365719911aa224205bb03ce6f8b4be1e962b4513f97",
+      "aircraft_finish42.py": "61f30bf6b98556683aa3dd327535d03873bdde5891469c7e903904fcce6f2dcf",
+      "console_surface43.py": "b1860dad6d37083ac287f1b33edb37427367fcb5843d76aacead22d1d0c6a485"
+    }
+  },
+  "step": 42,
+  "checks": [
+    {
+      "name": "not G.S['checked_in'] and not G.S['security'] and G.S['held'] is None",
+      "passed": true
+    },
+    {
+      "name": "Normal swept walk [-48, -12.5]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Normal swept walk [-46, -15.8]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Aim and use actual Physical luggage 01",
+      "passed": true,
+      "selected": "Physical luggage 01",
+      "visible": true,
+      "player": [
+        -46.08164597958967,
+        -15.672285479406714,
+        1.62
+      ],
+      "point": [
+        -45.68860544624923,
+        -17.249723534063502,
+        0.7420010032358718
+      ]
+    },
+    {
+      "name": "Normal swept walk [-45.2, -15]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Normal swept walk [-42, -15]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Normal swept walk [-40.5, -11.8]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Normal swept walk [-40.5, -10.2]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Aim and use actual Self-service kiosk24 0",
+      "passed": true,
+      "selected": "Self-service kiosk24 0",
+      "visible": true,
+      "player": [
+        -40.50319960410849,
+        -10.310185402448445,
+        1.62
+      ],
+      "point": [
+        -40.5,
+        -8.950000000000001,
+        1.35
+      ]
+    },
+    {
+      "name": "Normal swept walk [-39, -11]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Normal swept walk [-32.1, -8.8]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Normal swept walk [-30, -8.8]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Normal swept walk [-30, -6]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Normal swept walk [-42, -6]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Normal swept walk [-42, -3]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Normal swept walk [-45.5, 0.5]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Normal swept walk [-45.5, 2.5]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Normal swept walk [-45.5, 3.6]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "G.S['held']=='Physical luggage 01' and not G.S['security'] and 'Physical luggage 01' not in G.journey38['state']['scanned_bags']",
+      "passed": true
+    },
+    {
+      "name": "Normal swept walk [-45.5, 2.5]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Normal swept walk [-45.5, -0.4]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Normal swept walk [-42.4, -0.4]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Normal swept walk [-42.4, 0.3]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Aim and use actual Security belt 01",
+      "passed": true,
+      "selected": "Security belt 01",
+      "visible": true,
+      "player": [
+        -42.41741751216361,
+        0.19999312587482176,
+        1.62
+      ],
+      "point": [
+        -42.39,
+        1.35,
+        1.044
+      ]
+    },
+    {
+      "name": "Wait for physical outcome G.S['held'] is None",
+      "passed": true
+    },
+    {
+      "name": "Wait for physical outcome 'Physical luggage 01' in G.journey38['state']['scanned_bags']",
+      "passed": true
+    },
+    {
+      "name": "not G.S['security']",
+      "passed": true
+    },
+    {
+      "name": "Normal swept walk [-42.4, -0.4]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Normal swept walk [-47.7, -0.4]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Normal swept walk [-47.7, 6.1]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Normal swept walk [-43.15, 6.1]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Aim and use actual Physical luggage 01",
+      "passed": true,
+      "selected": "Physical luggage 01",
+      "visible": true,
+      "player": [
+        -43.28459899209098,
+        6.096725377109022,
+        1.62
+      ],
+      "point": [
+        -43.07782591763681,
+        5.010455977844094,
+        1.0001693881590188
+      ]
+    },
+    {
+      "name": "G.S['held']=='Physical luggage 01' and not G.S['security']",
+      "passed": true
+    },
+    {
+      "name": "Normal swept walk [-47.7, 6.1]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Normal swept walk [-47.7, -0.4]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Normal swept walk [-45.5, -0.4]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Normal swept walk [-45.5, 2.5]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "Normal swept walk [-45.5, 3.6]",
+      "passed": true,
+      "eye_z": 1.62
+    },
+    {
+      "name": "G.S['security'] and G.journey38['ticket']()['security_cleared']",
+      "passed": true
+    },
+    {
+      "name": "WelcomeCheckin_clear_eye_height",
+      "passed": true,
+      "blocking": false
+    },
+    {
+      "name": "WelcomeCheckin_real_curved_head",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "A07_clear_eye_height",
+      "passed": true,
+      "blocking": false
+    },
+    {
+      "name": "A07_real_curved_head",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "A08_clear_eye_height",
+      "passed": true,
+      "blocking": false
+    },
+    {
+      "name": "A08_real_curved_head",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "Cafe_clear_eye_height",
+      "passed": true,
+      "blocking": false
+    },
+    {
+      "name": "Cafe_real_curved_head",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "Recovery_clear_eye_height",
+      "passed": true,
+      "blocking": false
+    },
+    {
+      "name": "Recovery_real_curved_head",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "WC_clear_eye_height",
+      "passed": true,
+      "blocking": false
+    },
+    {
+      "name": "WC_real_curved_head",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_0",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_1",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_2",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_3",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_4",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_5",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_6",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_7",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_8",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_9",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_10",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_11",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_12",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_13",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_14",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_15",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_16",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_17",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_18",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_19",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_20",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_21",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_22",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_23",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_24",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_25",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_26",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_27",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "sealed_roof_step_28",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "L02_east_WC",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "L03_west_security",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "L07_no_y18_partition",
+      "passed": true,
+      "blocking": false
+    },
+    {
+      "name": "L09_no_A07_inner_wall",
+      "passed": true,
+      "blocking": false
+    },
+    {
+      "name": "baggage_window01",
+      "passed": true,
+      "blocking": false
+    },
+    {
+      "name": "baggage_window02",
+      "passed": true,
+      "blocking": false
+    },
+    {
+      "name": "baggage_wall_below",
+      "passed": true,
+      "blocking": true
+    },
+    {
+      "name": "No phantom deck at [-18, 18, 0]",
+      "passed": true,
+      "actual": null,
+      "floor_name": "No supported walk surface"
+    },
+    {
+      "name": "No phantom deck at [-15, 12, 0]",
+      "passed": true,
+      "actual": null,
+      "floor_name": "No supported walk surface"
+    },
+    {
+      "name": "No phantom deck at [-5, 30, 0]",
+      "passed": true,
+      "actual": null,
+      "floor_name": "No supported walk surface"
+    },
+    {
+      "name": "No phantom deck at [0, -50, 0]",
+      "passed": true,
+      "actual": null,
+      "floor_name": "No supported walk surface"
+    },
+    {
+      "name": "Measured viewport",
+      "passed": true
+    }
+  ],
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Screenshots\\Scanner38_InputRelease.png",
+      "sha256": "f3e0cbc6a4ce6f9dee93af5624f12f43ae45ec946e1a58ee9869b31dd7e17007"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Screenshots\\Scanner38_CollectedAndCleared.png",
+      "sha256": "1836e7cba1139cdeac1d25787ad4d93f26ffff20bc6c12c66a39b35c4951f491"
+    }
+  ],
+  "bag_samples": [
+    {
+      "t": 0.25,
+      "position": [
+        -45.68860544624923,
+        -17.249723534063502,
+        0.7420010032358718
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 0.45300000000861473,
+      "position": [
+        -45.68860544624923,
+        -17.249723534063502,
+        0.7420010032358718
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 0.6089999999967404,
+      "position": [
+        -45.68860544624923,
+        -17.249723534063502,
+        0.7420010032358718
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 0.75,
+      "position": [
+        -45.68860544624923,
+        -17.249723534063502,
+        0.7420010032358718
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 0.8589999999967404,
+      "position": [
+        -45.68860544624923,
+        -17.249723534063502,
+        0.7420010032358718
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 0.9839999999967404,
+      "position": [
+        -45.68860544624923,
+        -17.249723534063502,
+        0.7420010032358718
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 1.125,
+      "position": [
+        -45.68860544624923,
+        -17.249723534063502,
+        0.7420010032358718
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 1.3589999999967404,
+      "position": [
+        -45.68860544624923,
+        -17.249723534063502,
+        0.7420010032358718
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 1.5,
+      "position": [
+        -45.68860544624923,
+        -17.249723534063502,
+        0.7420010032358718
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 1.6410000000032596,
+      "position": [
+        -45.68860544624923,
+        -17.249723534063502,
+        0.7420010032358718
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 1.7660000000032596,
+      "position": [
+        -45.68860544624923,
+        -17.249723534063502,
+        0.7420010032358718
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 1.8910000000032596,
+      "position": [
+        -45.68860544624923,
+        -17.249723534063502,
+        0.7420010032358718
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 2.0,
+      "position": [
+        -45.68860544624923,
+        -17.249723534063502,
+        0.7420010032358718
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 2.1089999999967404,
+      "position": [
+        -45.68860544624923,
+        -17.249723534063502,
+        0.7420010032358718
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 2.2190000000118744,
+      "position": [
+        -45.68860544624923,
+        -17.249723534063502,
+        0.7420010032358718
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 2.3440000000118744,
+      "position": [
+        -45.68860544624923,
+        -17.249723534063502,
+        0.7420010032358718
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 2.4530000000086147,
+      "position": [
+        -45.68860544624923,
+        -17.249723534063502,
+        0.7420010032358718
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 2.562000000005355,
+      "position": [
+        -45.68860544624923,
+        -17.249723534063502,
+        0.7420010032358718
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 2.6719999999913853,
+      "position": [
+        -45.68860544624923,
+        -17.249723534063502,
+        0.7420010032358718
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 2.7810000000172295,
+      "position": [
+        -45.68860544624923,
+        -17.249723534063502,
+        0.7420010032358718
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 2.9060000000172295,
+      "position": [
+        -45.68860544624923,
+        -17.249723534063502,
+        0.7420010032358718
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 3.0160000000032596,
+      "position": [
+        -45.69855749139558,
+        -17.20927143004515,
+        0.8057223186509982
+      ],
+      "speed_cm_s": 103.79749185834785,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 3.125,
+      "position": [
+        -45.63124707652166,
+        -16.930665512527053,
+        0.8956136019641805
+      ],
+      "speed_cm_s": 384.8065976174972,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 3.25,
+      "position": [
+        -45.48429999794745,
+        -16.451575417504706,
+        1.0292705660573374
+      ],
+      "speed_cm_s": 470.66068900041705,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 3.3589999999967404,
+      "position": [
+        -45.303070380975626,
+        -15.972055488187612,
+        1.15376292453352
+      ],
+      "speed_cm_s": 451.7413424799645,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 3.4839999999967404,
+      "position": [
+        -45.074382103721476,
+        -15.529039482536923,
+        1.258217196700942
+      ],
+      "speed_cm_s": 374.4997713347144,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 3.6089999999967404,
+      "position": [
+        -44.78964952812986,
+        -15.269371193046272,
+        1.3374359755948677
+      ],
+      "speed_cm_s": 267.9400327012336,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 3.7190000000118744,
+      "position": [
+        -44.53748274967026,
+        -15.153798222330552,
+        1.3868760314840518
+      ],
+      "speed_cm_s": 226.12677912009357,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 3.8280000000086147,
+      "position": [
+        -44.30456154377302,
+        -15.098762026280326,
+        1.4181035244718447
+      ],
+      "speed_cm_s": 221.74724591903853,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 3.937000000005355,
+      "position": [
+        -44.06001238218255,
+        -15.068914765924099,
+        1.4388015489630634
+      ],
+      "speed_cm_s": 241.88040447259726,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 4.062000000005355,
+      "position": [
+        -43.737477320457295,
+        -15.048229818567387,
+        1.4546122505326189
+      ],
+      "speed_cm_s": 273.33376490457476,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 4.171999999991385,
+      "position": [
+        -43.423889713116886,
+        -15.035919366850782,
+        1.463450079372396
+      ],
+      "speed_cm_s": 297.6118225427413,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 4.2810000000172295,
+      "position": [
+        -43.090457472416595,
+        -15.026027402980464,
+        1.4691950616649632
+      ],
+      "speed_cm_s": 316.30844888853915,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 4.39100000000326,
+      "position": [
+        -42.742926932781884,
+        -15.017167112521781,
+        1.4729382385147534
+      ],
+      "speed_cm_s": 329.9333868348888,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 4.5,
+      "position": [
+        -42.365800621596954,
+        -15.008255423819353,
+        1.4754973928104351
+      ],
+      "speed_cm_s": 339.966597620506,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 4.60899999999674,
+      "position": [
+        -42.0297217693325,
+        -14.95128677293119,
+        1.4770121461533947
+      ],
+      "speed_cm_s": 284.22722229337495,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 4.719000000011874,
+      "position": [
+        -41.82263059419902,
+        -14.754466688212615,
+        1.4779868722975416
+      ],
+      "speed_cm_s": 262.12174127384674,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 4.828000000008615,
+      "position": [
+        -41.686539654213085,
+        -14.51162918789919,
+        1.478664906022807
+      ],
+      "speed_cm_s": 251.689956117212,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 4.953000000008615,
+      "position": [
+        -41.56639534830449,
+        -14.222235956587381,
+        1.4791741646496184
+      ],
+      "speed_cm_s": 252.88846050998882,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 5.062000000005355,
+      "position": [
+        -41.46357532491026,
+        -13.957810433276855,
+        1.4794583129086203
+      ],
+      "speed_cm_s": 270.1539277015452,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 5.187000000005355,
+      "position": [
+        -41.33179504179711,
+        -13.632430324056635,
+        1.4796673210114781
+      ],
+      "speed_cm_s": 294.09198096291254,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 5.296999999991385,
+      "position": [
+        -41.19712698933253,
+        -13.317493998145315,
+        1.4797873648214626
+      ],
+      "speed_cm_s": 312.9282241098087,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 5.4060000000172295,
+      "position": [
+        -41.057272185894234,
+        -13.003554450770165,
+        1.479861362249868
+      ],
+      "speed_cm_s": 326.92244541071443,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 5.5310000000172295,
+      "position": [
+        -40.88504947284343,
+        -12.628476232476306,
+        1.4799156351563405
+      ],
+      "speed_cm_s": 338.5333988998862,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 5.64100000000326,
+      "position": [
+        -40.70569299096791,
+        -12.246238994528058,
+        1.4799486272018083
+      ],
+      "speed_cm_s": 346.2942703700123,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 5.75,
+      "position": [
+        -40.56023371822754,
+        -11.90835228862622,
+        1.4799666353500132
+      ],
+      "speed_cm_s": 335.44914943905445,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 5.85899999999674,
+      "position": [
+        -40.494801268545416,
+        -11.577015429869189,
+        1.4799784695433857
+      ],
+      "speed_cm_s": 292.32011882688965,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 5.969000000011874,
+      "position": [
+        -40.475525123281564,
+        -11.286992041649869,
+        1.4799860517872039
+      ],
+      "speed_cm_s": 256.09733204820554,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 6.078000000008615,
+      "position": [
+        -40.473730682460534,
+        -11.019500463797185,
+        1.4799910092488928
+      ],
+      "speed_cm_s": 242.34003382948563,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 6.187000000005355,
+      "position": [
+        -40.47655020858886,
+        -10.752225218537367,
+        1.479994198825422
+      ],
+      "speed_cm_s": 253.28027841501697,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 6.296999999991385,
+      "position": [
+        -40.47852334740991,
+        -10.466571462084328,
+        1.47999624970986
+      ],
+      "speed_cm_s": 275.05781874375094,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 6.4060000000172295,
+      "position": [
+        -40.4789419644562,
+        -10.160904788572418,
+        1.4732571280755418
+      ],
+      "speed_cm_s": 286.2611963916908,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 6.5310000000172295,
+      "position": [
+        -40.4827950919692,
+        -9.841083301914052,
+        1.4280433347049426
+      ],
+      "speed_cm_s": 241.53529876777486,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 6.64100000000326,
+      "position": [
+        -40.487583527970294,
+        -9.589104540991267,
+        1.3748102130111404
+      ],
+      "speed_cm_s": 178.3693078115755,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 6.75,
+      "position": [
+        -40.47161314158053,
+        -9.47652394520769,
+        1.3389253522639253
+      ],
+      "speed_cm_s": 81.45351110000432,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 6.85899999999674,
+      "position": [
+        -40.29179245272825,
+        -9.613797657145351,
+        1.3218424276594734
+      ],
+      "speed_cm_s": 286.5736112371753,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 6.969000000011874,
+      "position": [
+        -40.05292957637868,
+        -9.879095862745633,
+        1.3446667955864535
+      ],
+      "speed_cm_s": 350.58408778889105,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 7.078000000008615,
+      "position": [
+        -39.79466819763144,
+        -10.158603001706405,
+        1.3754467069374146
+      ],
+      "speed_cm_s": 352.8827408184821,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 7.187000000005355,
+      "position": [
+        -39.523904326598306,
+        -10.417393329150032,
+        1.403440330645622
+      ],
+      "speed_cm_s": 348.6744039539763,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 7.296999999991385,
+      "position": [
+        -39.23396889984431,
+        -10.654089620020946,
+        1.4259173603497686
+      ],
+      "speed_cm_s": 347.75514619241227,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 7.421999999991385,
+      "position": [
+        -38.887274409585956,
+        -10.821932050519363,
+        1.4446841446744052
+      ],
+      "speed_cm_s": 281.4491582936728,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 7.5310000000172295,
+      "position": [
+        -38.60705868900241,
+        -10.825132310412867,
+        1.4561182294422792
+      ],
+      "speed_cm_s": 245.3570711991852,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 7.6560000000172295,
+      "position": [
+        -38.32080693319318,
+        -10.764475649364124,
+        1.4650071883872067
+      ],
+      "speed_cm_s": 228.73167628417926,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 7.76600000000326,
+      "position": [
+        -38.08283412702789,
+        -10.689749898422154,
+        1.470037922313957
+      ],
+      "speed_cm_s": 237.4210248812688,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 7.875,
+      "position": [
+        -37.81591024431489,
+        -10.59867415825363,
+        1.4735613443456395
+      ],
+      "speed_cm_s": 261.8304931482271,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 7.98399999999674,
+      "position": [
+        -37.53287428883387,
+        -10.50209544136327,
+        1.475785486796343
+      ],
+      "speed_cm_s": 286.52433263421113,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 8.10899999999674,
+      "position": [
+        -37.18473991124625,
+        -10.385918938438799,
+        1.477392921219425
+      ],
+      "speed_cm_s": 309.72682902082227,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 8.219000000011874,
+      "position": [
+        -36.855589125759586,
+        -10.278533357082452,
+        1.4783032989546234
+      ],
+      "speed_cm_s": 325.08503748386164,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 8.328000000008615,
+      "position": [
+        -36.51430462872102,
+        -10.16907291500027,
+        1.478896195646228
+      ],
+      "speed_cm_s": 336.16593309690205,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 8.437000000005355,
+      "position": [
+        -36.165025532160705,
+        -10.05844904599137,
+        1.4792817475843356
+      ],
+      "speed_cm_s": 343.9154463655749,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 8.546999999991385,
+      "position": [
+        -35.75252943875019,
+        -9.929032203517663,
+        1.479564283368881
+      ],
+      "speed_cm_s": 349.9176855723408,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 8.65600000001723,
+      "position": [
+        -35.39317145877472,
+        -9.81701213414279,
+        1.4797166041155478
+      ],
+      "speed_cm_s": 353.3024656890097,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 8.76600000000326,
+      "position": [
+        -35.025270090565385,
+        -9.702786392714742,
+        1.4798169738825855
+      ],
+      "speed_cm_s": 355.6036584097587,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 8.875,
+      "position": [
+        -34.65401383909991,
+        -9.587831180600961,
+        1.4798819650933677
+      ],
+      "speed_cm_s": 357.1284466441121,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 8.98399999999674,
+      "position": [
+        -34.28413427485243,
+        -9.473507194093674,
+        1.4799236910006306
+      ],
+      "speed_cm_s": 358.12464041655926,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 9.094000000011874,
+      "position": [
+        -33.917002421540396,
+        -9.360165750110461,
+        1.4799505189504765
+      ],
+      "speed_cm_s": 358.77375697260294,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 9.203000000008615,
+      "position": [
+        -33.53056590542487,
+        -9.240958311054996,
+        1.4799687001580961
+      ],
+      "speed_cm_s": 359.21729760026994,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 9.312000000005355,
+      "position": [
+        -33.16345809385221,
+        -9.12777250579433,
+        1.4799797271526973
+      ],
+      "speed_cm_s": 359.49022116883117,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 9.421999999991385,
+      "position": [
+        -32.7929934453885,
+        -9.013589413071383,
+        1.4799869234135454
+      ],
+      "speed_cm_s": 359.6692614947319,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 9.53100000001723,
+      "position": [
+        -32.419299597458924,
+        -8.898436099191635,
+        1.4799915923314706
+      ],
+      "speed_cm_s": 359.786285099182,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 9.64100000000326,
+      "position": [
+        -32.05104598907103,
+        -8.816104933626912,
+        1.4799945988036556
+      ],
+      "speed_cm_s": 328.53558360942014,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 9.75,
+      "position": [
+        -31.72981645978884,
+        -8.78777856744308,
+        1.4799965026354434
+      ],
+      "speed_cm_s": 280.311163320585,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 9.85899999999674,
+      "position": [
+        -31.449459257946966,
+        -8.781517919252204,
+        1.4799977412318588
+      ],
+      "speed_cm_s": 248.47849125227157,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 9.98399999999674,
+      "position": [
+        -31.145707780246777,
+        -8.783940545945347,
+        1.4799986389403634
+      ],
+      "speed_cm_s": 245.4000078060754,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 10.094000000011874,
+      "position": [
+        -30.871843958643172,
+        -8.787582402457764,
+        1.4799991208355225
+      ],
+      "speed_cm_s": 263.90693623659473,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 10.203000000008615,
+      "position": [
+        -30.525086566579535,
+        -8.790571371591144,
+        1.479999470414298
+      ],
+      "speed_cm_s": 289.8824743714543,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 10.312000000005355,
+      "position": [
+        -30.238295705573773,
+        -8.791494092442663,
+        1.4799996411996315
+      ],
+      "speed_cm_s": 307.33266850319023,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 10.421999999991385,
+      "position": [
+        -29.975813631249103,
+        -8.67949010513488,
+        1.475496859318068
+      ],
+      "speed_cm_s": 215.28298454025204,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 10.53100000001723,
+      "position": [
+        -29.91725366991006,
+        -8.439887009406412,
+        1.4741720638400913
+      ],
+      "speed_cm_s": 244.22566010889295,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 10.64100000000326,
+      "position": [
+        -29.922352108656323,
+        -8.168937193569066,
+        1.4747212871931277
+      ],
+      "speed_cm_s": 257.11102026046393,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 10.75,
+      "position": [
+        -29.94553118670306,
+        -7.887528200289415,
+        1.4757989776956726
+      ],
+      "speed_cm_s": 268.20204178404254,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 10.875,
+      "position": [
+        -29.971103150570343,
+        -7.540522033634595,
+        1.477030550380972
+      ],
+      "speed_cm_s": 289.2835439228,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 11.0,
+      "position": [
+        -29.986748303674208,
+        -7.164774086462346,
+        1.478007714462389
+      ],
+      "speed_cm_s": 309.982947667872,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 11.125,
+      "position": [
+        -29.991774436974517,
+        -6.7659528723940605,
+        1.4787047941235207
+      ],
+      "speed_cm_s": 326.3413484363842,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 11.25,
+      "position": [
+        -29.988300046067923,
+        -6.352261320127562,
+        1.4791734091934812
+      ],
+      "speed_cm_s": 338.00160989025676,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 11.35899999999674,
+      "position": [
+        -30.077398729460935,
+        -6.082309391110581,
+        1.4735359718488932
+      ],
+      "speed_cm_s": 226.93294428480624,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 11.48399999999674,
+      "position": [
+        -30.354178077397073,
+        -5.993741782358475,
+        1.4710599923613068
+      ],
+      "speed_cm_s": 251.24516186137367,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 11.594000000011874,
+      "position": [
+        -30.642652978952,
+        -5.995702543403059,
+        1.4720238529424108
+      ],
+      "speed_cm_s": 263.70717941257055,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 11.703000000008615,
+      "position": [
+        -30.933065448792203,
+        -6.0202657270774855,
+        1.4737141438307193
+      ],
+      "speed_cm_s": 275.33903264837215,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 11.812000000005355,
+      "position": [
+        -31.237202164815884,
+        -6.046768093056452,
+        1.4753400950760855
+      ],
+      "speed_cm_s": 292.6894060358706,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 11.937000000005355,
+      "position": [
+        -31.608663440773565,
+        -6.071365074493178,
+        1.4768421062077772
+      ],
+      "speed_cm_s": 311.987672354341,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 12.062000000005355,
+      "position": [
+        -32.00357608776173,
+        -6.08808272522804,
+        1.4779306860073584
+      ],
+      "speed_cm_s": 327.4305645338439,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 12.187000000005355,
+      "position": [
+        -32.42100640291176,
+        -6.097924239404258,
+        1.4786810062258298
+      ],
+      "speed_cm_s": 338.7350255612685,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 12.312000000005355,
+      "position": [
+        -32.89100243191949,
+        -6.102608178593369,
+        1.4792071646164664
+      ],
+      "speed_cm_s": 347.01630506311034,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 12.437000000005355,
+      "position": [
+        -33.32107645149865,
+        -6.103137529672503,
+        1.4795042644381524
+      ],
+      "speed_cm_s": 351.78336261284795,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 12.546999999991385,
+      "position": [
+        -33.70689600206716,
+        -6.101642227868452,
+        1.4796749870557409
+      ],
+      "speed_cm_s": 354.5786390083263,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 12.65600000001723,
+      "position": [
+        -34.09786010612691,
+        -6.0988923119294505,
+        1.4797882936410331
+      ],
+      "speed_cm_s": 356.451655627715,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 12.76600000000326,
+      "position": [
+        -34.48342720495416,
+        -6.0953810409320806,
+        1.479861546034972
+      ],
+      "speed_cm_s": 357.66984476488005,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 12.875,
+      "position": [
+        -34.87306110683905,
+        -6.091300161256815,
+        1.4799100006517392
+      ],
+      "speed_cm_s": 358.480985203203,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 13.0,
+      "position": [
+        -35.305668627297734,
+        -6.0863603682346605,
+        1.4799442167018253
+      ],
+      "speed_cm_s": 359.05768194257587,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 13.125,
+      "position": [
+        -35.75143136727683,
+        -6.080989389794814,
+        1.4799660374242385
+      ],
+      "speed_cm_s": 359.4245791855955,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 13.23399999999674,
+      "position": [
+        -36.13810401390636,
+        -6.0761831175608965,
+        1.4799779332286405
+      ],
+      "speed_cm_s": 359.62550105751285,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 13.35899999999674,
+      "position": [
+        -36.585466628463834,
+        -6.0705161075121365,
+        1.4799866235209629
+      ],
+      "speed_cm_s": 359.77293852272516,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 13.48399999999674,
+      "position": [
+        -37.07984048658262,
+        -6.064171345817693,
+        1.4799923074714092
+      ],
+      "speed_cm_s": 359.86833428757546,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 13.594000000011874,
+      "position": [
+        -37.47354129279405,
+        -6.059081203378448,
+        1.4799950518309555
+      ],
+      "speed_cm_s": 359.9149091993192,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 13.703000000008615,
+      "position": [
+        -37.86061436105238,
+        -6.054056694982651,
+        1.4799967938463436
+      ],
+      "speed_cm_s": 359.9450753033423,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 13.812000000005355,
+      "position": [
+        -38.24576445621146,
+        -6.049044388031524,
+        1.4799979196693824
+      ],
+      "speed_cm_s": 359.9642162519867,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 13.921999999991385,
+      "position": [
+        -38.6327281851426,
+        -6.044000115634293,
+        1.4799986529067275
+      ],
+      "speed_cm_s": 359.9766294081637,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 14.03100000001723,
+      "position": [
+        -39.02559230907643,
+        -6.038873371405431,
+        1.4799991333802405
+      ],
+      "speed_cm_s": 359.98443610741793,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 14.14100000000326,
+      "position": [
+        -39.41770187394446,
+        -6.0337528727538,
+        1.4799994420017526
+      ],
+      "speed_cm_s": 359.9895985604697,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 14.25,
+      "position": [
+        -39.82105381139773,
+        -6.02848317173223,
+        1.4799996455719233
+      ],
+      "speed_cm_s": 359.9954203562041,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 14.35899999999674,
+      "position": [
+        -40.212155898112854,
+        -6.023372002335958,
+        1.4799997719182088
+      ],
+      "speed_cm_s": 359.99696075999066,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 14.469000000011874,
+      "position": [
+        -40.60428130607668,
+        -6.018246511336036,
+        1.4799998529948368
+      ],
+      "speed_cm_s": 359.9981298142227,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 14.578000000008615,
+      "position": [
+        -40.99270403897808,
+        -6.0131688178856635,
+        1.479999904137618
+      ],
+      "speed_cm_s": 359.99844094752564,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 14.687000000005355,
+      "position": [
+        -41.3848213267323,
+        -6.008042434846689,
+        1.4799999372142625
+      ],
+      "speed_cm_s": 359.9982006488409,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 14.796999999991385,
+      "position": [
+        -41.760574628664855,
+        -5.990850719191407,
+        1.4786205532222463
+      ],
+      "speed_cm_s": 307.37799842998504,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 14.921999999991385,
+      "position": [
+        -41.97645847101687,
+        -5.786629039516571,
+        1.473177622915156
+      ],
+      "speed_cm_s": 241.06161051660928,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 15.03100000001723,
+      "position": [
+        -42.02513073035304,
+        -5.523382645928628,
+        1.4729171731679294
+      ],
+      "speed_cm_s": 254.41669820962838,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 15.14100000000326,
+      "position": [
+        -42.02626717356774,
+        -5.243637527797141,
+        1.47404262000169
+      ],
+      "speed_cm_s": 262.1519346433948,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 15.25,
+      "position": [
+        -42.01353585601555,
+        -4.9486913916110895,
+        1.4754552622485442
+      ],
+      "speed_cm_s": 277.1254055664952,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 15.375,
+      "position": [
+        -42.00012944164701,
+        -4.589139024389456,
+        1.4768672143731256
+      ],
+      "speed_cm_s": 298.8113149518833,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 15.5,
+      "position": [
+        -41.99385775996938,
+        -4.166099031457877,
+        1.478008039677234
+      ],
+      "speed_cm_s": 319.3145125570465,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 15.60899999999674,
+      "position": [
+        -41.99534669889268,
+        -3.8125075915337607,
+        1.4786405471600648
+      ],
+      "speed_cm_s": 331.54567476669854,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 15.719000000011874,
+      "position": [
+        -42.00151810488588,
+        -3.446865804330226,
+        1.4790856515495185
+      ],
+      "speed_cm_s": 340.5262737695897,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 15.844000000011874,
+      "position": [
+        -42.058726726378346,
+        -3.051095971007009,
+        1.4794235177954878
+      ],
+      "speed_cm_s": 305.36032428525397,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 15.969000000011874,
+      "position": [
+        -42.243707747593874,
+        -2.7530165617695257,
+        1.4796426387528312
+      ],
+      "speed_cm_s": 265.49236277289964,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 16.094000000011874,
+      "position": [
+        -42.45592997809283,
+        -2.5270243341400787,
+        1.4797788423001583
+      ],
+      "speed_cm_s": 243.67698690210793,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 16.203000000008615,
+      "position": [
+        -42.64914141011445,
+        -2.347126260808031,
+        1.4798554692790427
+      ],
+      "speed_cm_s": 247.06342601689315,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 16.312000000005355,
+      "position": [
+        -42.854207255607506,
+        -2.1589806335973707,
+        1.479905745216445
+      ],
+      "speed_cm_s": 266.6710950364243,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 16.421999999991385,
+      "position": [
+        -43.07227495229974,
+        -1.9544434742311063,
+        1.4799384505624218
+      ],
+      "speed_cm_s": 288.9483678856612,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 16.53100000001723,
+      "position": [
+        -43.34129545992254,
+        -1.6949698035301304,
+        1.4799625328369883
+      ],
+      "speed_cm_s": 311.12652222613804,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 16.64100000000326,
+      "position": [
+        -43.590696926506,
+        -1.4488980054850853,
+        1.4799758454932554
+      ],
+      "speed_cm_s": 326.0208120738628,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 16.75,
+      "position": [
+        -43.84146212964376,
+        -1.1977462545517312,
+        1.4799842714151947
+      ],
+      "speed_cm_s": 336.60451970683823,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 16.85899999999674,
+      "position": [
+        -44.09789099114661,
+        -0.9382531816332296,
+        1.479989778691263
+      ],
+      "speed_cm_s": 344.13661898205874,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 16.969000000011874,
+      "position": [
+        -44.360973875473164,
+        -0.6701163721700689,
+        1.4799933965232797
+      ],
+      "speed_cm_s": 349.4127814688746,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 17.078000000008615,
+      "position": [
+        -44.62221304558038,
+        -0.4025692458188911,
+        1.4799957070707321
+      ],
+      "speed_cm_s": 352.9385105306286,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 17.203000000008615,
+      "position": [
+        -44.93278127274857,
+        -0.08340588921435695,
+        1.4799974201863169
+      ],
+      "speed_cm_s": 355.65508413248995,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 17.312000000005355,
+      "position": [
+        -45.20437203669694,
+        0.19633687330879152,
+        1.479998342902544
+      ],
+      "speed_cm_s": 357.1669635095052,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 17.421999999991385,
+      "position": [
+        -45.43485974291297,
+        0.48811542707723554,
+        1.4799989326492282
+      ],
+      "speed_cm_s": 320.00361767293197,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 17.53100000001723,
+      "position": [
+        -45.52566275138536,
+        0.79813989791267,
+        1.4799993135302905
+      ],
+      "speed_cm_s": 280.03689588421804,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 17.65600000001723,
+      "position": [
+        -45.54871837908032,
+        1.1138612084182613,
+        1.4799995795114176
+      ],
+      "speed_cm_s": 251.50506291626343,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 17.76600000000326,
+      "position": [
+        -45.5448380983632,
+        1.3811154646448847,
+        1.4799997290931701
+      ],
+      "speed_cm_s": 247.78796517882006,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 17.875,
+      "position": [
+        -45.534513962444045,
+        1.698462906342755,
+        1.4799998360231355
+      ],
+      "speed_cm_s": 266.7626359805682,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 17.98399999999674,
+      "position": [
+        -45.52726794052466,
+        2.0026435080123473,
+        1.4799998952206903
+      ],
+      "speed_cm_s": 288.65473880365647,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 18.094000000011874,
+      "position": [
+        -45.52360732919279,
+        2.332170375071246,
+        1.4799999336913081
+      ],
+      "speed_cm_s": 308.3765324653614,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 18.219000000011874,
+      "position": [
+        -45.51944825302505,
+        2.6905007185069407,
+        1.4799999600399514
+      ],
+      "speed_cm_s": 283.3344889914708,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 18.344000000011874,
+      "position": [
+        -45.514176732958184,
+        3.016019130719095,
+        1.4799999773656562
+      ],
+      "speed_cm_s": 241.15323348373707,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 18.453000000008615,
+      "position": [
+        -45.51037766176468,
+        3.2669779922506006,
+        1.4799999859213921
+      ],
+      "speed_cm_s": 227.244751342426,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 18.562000000005355,
+      "position": [
+        -45.50759825390303,
+        3.520044385485735,
+        1.4799999922541016
+      ],
+      "speed_cm_s": 239.36995999353778,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 18.671999999991385,
+      "position": [
+        -45.50577980872893,
+        3.7709414568346222,
+        1.4771352458689426
+      ],
+      "speed_cm_s": 168.12246901021953,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 18.78100000001723,
+      "position": [
+        -45.50425050071688,
+        3.7652594084010076,
+        1.4532325456023545
+      ],
+      "speed_cm_s": 140.14479490695336,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 18.89100000000326,
+      "position": [
+        -45.50300513539333,
+        3.5012509032605443,
+        1.4449509303188224
+      ],
+      "speed_cm_s": 298.245479708345,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 19.01600000000326,
+      "position": [
+        -45.501985810917176,
+        3.0958373139867295,
+        1.449082159452569
+      ],
+      "speed_cm_s": 340.8912763666403,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 19.125,
+      "position": [
+        -45.50137670818774,
+        2.717615712498695,
+        1.455820750688009
+      ],
+      "speed_cm_s": 346.73846631759693,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 19.23399999999674,
+      "position": [
+        -45.500941771504046,
+        2.363255739686023,
+        1.4622180994779916
+      ],
+      "speed_cm_s": 305.6099949422878,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 19.35899999999674,
+      "position": [
+        -45.50059572585571,
+        2.0179985773042386,
+        1.4680553392889457
+      ],
+      "speed_cm_s": 257.1843868586476,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 19.469000000011874,
+      "position": [
+        -45.50039274757342,
+        1.7495864519644673,
+        1.4717867204904622
+      ],
+      "speed_cm_s": 241.20558284268589,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 19.578000000008615,
+      "position": [
+        -45.50025762615126,
+        1.4863531711547386,
+        1.474409753977425
+      ],
+      "speed_cm_s": 251.57189322160798,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 19.687000000005355,
+      "position": [
+        -45.500166946345274,
+        1.2018124705287339,
+        1.4762495367671309
+      ],
+      "speed_cm_s": 273.5388143680265,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 19.796999999991385,
+      "position": [
+        -45.50010114059227,
+        0.8484424211060398,
+        1.4776454480012327
+      ],
+      "speed_cm_s": 298.4400471508165,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 19.90600000001723,
+      "position": [
+        -45.50006515040666,
+        0.512978743903336,
+        1.478449222999882
+      ],
+      "speed_cm_s": 316.3110822196762,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 20.03100000001723,
+      "position": [
+        -45.500040749707495,
+        0.11837430870202499,
+        1.4790318800180144
+      ],
+      "speed_cm_s": 331.1398130739922,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 20.14100000000326,
+      "position": [
+        -45.48906513459243,
+        -0.2337828563104483,
+        1.4781307751709527
+      ],
+      "speed_cm_s": 288.73964998277023,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 20.25,
+      "position": [
+        -45.3316496694526,
+        -0.4174366588663391,
+        1.4731975634446066
+      ],
+      "speed_cm_s": 228.98960056740532,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 20.375,
+      "position": [
+        -45.048254259982876,
+        -0.46892024981914104,
+        1.4726150348633409
+      ],
+      "speed_cm_s": 252.4974776929986,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 20.48399999999674,
+      "position": [
+        -44.732565829266676,
+        -0.459367401660656,
+        1.4739180049185716
+      ],
+      "speed_cm_s": 264.38699362229937,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 20.594000000011874,
+      "position": [
+        -44.460870997811924,
+        -0.4399618607119027,
+        1.475253142907335
+      ],
+      "speed_cm_s": 278.70407551062505,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 20.703000000008615,
+      "position": [
+        -44.13962595721665,
+        -0.42049119785561734,
+        1.4765784490837703
+      ],
+      "speed_cm_s": 297.74265055914765,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 20.812000000005355,
+      "position": [
+        -43.81367707771684,
+        -0.4081796065608075,
+        1.4775770197285671
+      ],
+      "speed_cm_s": 314.1709213007082,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 20.921999999991385,
+      "position": [
+        -43.46678974318381,
+        -0.4023989980040147,
+        1.4783302414618722
+      ],
+      "speed_cm_s": 327.5552039372055,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 21.03100000001723,
+      "position": [
+        -43.10453903807661,
+        -0.40242261372142607,
+        1.4788704128623644
+      ],
+      "speed_cm_s": 337.61628868788534,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 21.15600000001723,
+      "position": [
+        -42.66834249632588,
+        -0.4081000718451502,
+        1.4792963332789253
+      ],
+      "speed_cm_s": 345.81732083326335,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 21.26600000000326,
+      "position": [
+        -42.4162330239636,
+        -0.28781447373384983,
+        1.4752544237948981
+      ],
+      "speed_cm_s": 244.11965082244737,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 21.375,
+      "position": [
+        -42.30870499194056,
+        -0.04177287813166147,
+        1.4743915399017196
+      ],
+      "speed_cm_s": 253.4218792875516,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 21.48399999999674,
+      "position": [
+        -42.26391996617768,
+        0.23998787101162922,
+        1.4750795711602518
+      ],
+      "speed_cm_s": 258.4495535384364,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 21.594000000011874,
+      "position": [
+        -42.25148745149518,
+        0.5426063582335867,
+        1.4425726540026078
+      ],
+      "speed_cm_s": 244.88253309097232,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 21.703000000008615,
+      "position": [
+        -42.27195770334927,
+        0.7687057068140106,
+        1.3426387668537385
+      ],
+      "speed_cm_s": 209.95168079434578,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 21.812000000005355,
+      "position": [
+        -42.29900838450041,
+        0.9364849034332898,
+        1.2376416290430263
+      ],
+      "speed_cm_s": 165.52258437076458,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 21.937000000005355,
+      "position": [
+        -42.37778637338391,
+        1.0307645098216276,
+        1.17666130415337
+      ],
+      "speed_cm_s": 115.7863902291235,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 22.046999999991385,
+      "position": [
+        -42.52733737810292,
+        1.0908610829022651,
+        1.1978167945209262
+      ],
+      "speed_cm_s": 164.1986639029274,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 22.15600000001723,
+      "position": [
+        -42.6833256197142,
+        1.151610037354343,
+        1.2402874946166045
+      ],
+      "speed_cm_s": 150.89128915693576,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 22.26600000000326,
+      "position": [
+        -42.81450878012105,
+        1.2065926700110114,
+        1.2819296839980787
+      ],
+      "speed_cm_s": 125.2245959202713,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 22.39100000000326,
+      "position": [
+        -42.92653488637228,
+        1.2639623701442955,
+        1.3148416414832982
+      ],
+      "speed_cm_s": 92.01999856437465,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 22.5,
+      "position": [
+        -42.9979664168792,
+        1.30445335507936,
+        1.3348329398972683
+      ],
+      "speed_cm_s": 66.32024843998902,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 22.60899999999674,
+      "position": [
+        -43.04514655952901,
+        1.336787535562833,
+        1.3483440504158901
+      ],
+      "speed_cm_s": 45.420625668402,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 22.719000000011874,
+      "position": [
+        -43.06221678399183,
+        1.3903027185140349,
+        1.3000426870696602
+      ],
+      "speed_cm_s": 67.34515170041269,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 22.828000000008615,
+      "position": [
+        -43.068229716212315,
+        1.4581877540732977,
+        1.2617771241366484
+      ],
+      "speed_cm_s": 73.01184237856039,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 22.937000000005355,
+      "position": [
+        -43.06782852466846,
+        1.5285406349764727,
+        1.20197808924847
+      ],
+      "speed_cm_s": 100.97045235051527,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 23.062000000005355,
+      "position": [
+        -43.065939879338465,
+        1.6121988939326437,
+        1.061683006087565
+      ],
+      "speed_cm_s": 161.6414396008673,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 23.171999999991385,
+      "position": [
+        -43.06457055520201,
+        1.6800746728366382,
+        1.0001692366250026
+      ],
+      "speed_cm_s": 60.4565313628281,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 23.98399999999674,
+      "position": [
+        -43.064229215160964,
+        1.7469698815361057,
+        1.0001691934978985
+      ],
+      "speed_cm_s": 61.48169592444704,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 24.094000000011874,
+      "position": [
+        -43.06413554559464,
+        1.8178971447154313,
+        1.0001691947822602
+      ],
+      "speed_cm_s": 61.822720064549706,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 24.203000000008615,
+      "position": [
+        -43.064117558706215,
+        1.8841347226224803,
+        1.000169208364235
+      ],
+      "speed_cm_s": 61.92111225596354,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 24.328000000008615,
+      "position": [
+        -43.064119830559235,
+        1.9611792106020163,
+        1.000169210068828
+      ],
+      "speed_cm_s": 61.95629142686238,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 24.437000000005355,
+      "position": [
+        -43.0641267677315,
+        2.0273522096926024,
+        1.0001692005612164
+      ],
+      "speed_cm_s": 61.96525994854299,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 24.546999999991385,
+      "position": [
+        -43.06413443119265,
+        2.095038413808378,
+        1.0001691816698912
+      ],
+      "speed_cm_s": 61.96820106657456,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 24.65600000001723,
+      "position": [
+        -43.06414163673845,
+        2.163042655401345,
+        1.0001692100164892
+      ],
+      "speed_cm_s": 61.96900590185526,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 24.76600000000326,
+      "position": [
+        -43.06414797864731,
+        2.2296616846329367,
+        1.0001692181330086
+      ],
+      "speed_cm_s": 61.969269051506764,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 24.875,
+      "position": [
+        -43.06415370988861,
+        2.2975255439968585,
+        1.000169197731823
+      ],
+      "speed_cm_s": 61.96932240224895,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 24.98399999999674,
+      "position": [
+        -43.064158723579766,
+        2.3645953259874037,
+        1.0001691924812852
+      ],
+      "speed_cm_s": 61.96922317701846,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 25.094000000011874,
+      "position": [
+        -43.06416326487175,
+        2.4332670447839275,
+        1.000169196165692
+      ],
+      "speed_cm_s": 61.9695931690942,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 25.203000000008615,
+      "position": [
+        -43.064167171112196,
+        2.500095851483627,
+        1.0001691953558134
+      ],
+      "speed_cm_s": 61.96939096400533,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 25.312000000005355,
+      "position": [
+        -43.06417103087724,
+        2.575229827611013,
+        1.0001692069694406
+      ],
+      "speed_cm_s": 61.969066692123775,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 25.421999999991385,
+      "position": [
+        -43.064174044840314,
+        2.6416832447273335,
+        1.0001692114085061
+      ],
+      "speed_cm_s": 61.9690971946102,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 25.53100000001723,
+      "position": [
+        -43.06417674409793,
+        2.708627321686166,
+        1.000169207880252
+      ],
+      "speed_cm_s": 61.96905903569152,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 25.64100000000326,
+      "position": [
+        -43.06417913992829,
+        2.7754003013444786,
+        1.0001692181072468
+      ],
+      "speed_cm_s": 61.96910861742923,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 25.75,
+      "position": [
+        -43.064181367422734,
+        2.8451379637572725,
+        1.000169160155495
+      ],
+      "speed_cm_s": 61.96941760035778,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 25.85899999999674,
+      "position": [
+        -43.064183285930355,
+        2.912787501695764,
+        1.0001692017185226
+      ],
+      "speed_cm_s": 61.96929170946919,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 25.969000000011874,
+      "position": [
+        -43.06418498817442,
+        2.9800545118930684,
+        1.000169224743637
+      ],
+      "speed_cm_s": 61.96918107865258,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 26.078000000008615,
+      "position": [
+        -43.064186497919145,
+        3.0469039337722745,
+        1.000169189500579
+      ],
+      "speed_cm_s": 61.96918488975734,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 26.187000000005355,
+      "position": [
+        -43.06418786154455,
+        3.1144707320973417,
+        1.0001691983590149
+      ],
+      "speed_cm_s": 61.9691276664048,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 26.296999999991385,
+      "position": [
+        -43.06418905575073,
+        3.180624991002519,
+        1.0001691826195858
+      ],
+      "speed_cm_s": 61.96910859066959,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 26.421999999991385,
+      "position": [
+        -43.06419029327818,
+        3.257747218551683,
+        1.0001692055625173
+      ],
+      "speed_cm_s": 61.96912003270876,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 26.53100000001723,
+      "position": [
+        -43.06419127818724,
+        3.3268787186009514,
+        1.000169214343049
+      ],
+      "speed_cm_s": 61.969348913121394,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 26.64100000000326,
+      "position": [
+        -43.06419212558734,
+        3.3934311438259557,
+        1.000169210317172
+      ],
+      "speed_cm_s": 61.96919632411935,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 26.75,
+      "position": [
+        -43.06419288698242,
+        3.4601967342454483,
+        1.000169181482744
+      ],
+      "speed_cm_s": 61.96919250853247,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 26.85899999999674,
+      "position": [
+        -43.06419357556132,
+        3.527454246701396,
+        1.0001691932263481
+      ],
+      "speed_cm_s": 61.96913147266058,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 26.98399999999674,
+      "position": [
+        -43.06419427383376,
+        3.603965228798155,
+        1.0001692417816421
+      ],
+      "speed_cm_s": 61.96913147201682,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 27.094000000011874,
+      "position": [
+        -43.064194817502354,
+        3.670861368786877,
+        1.0001692223621867
+      ],
+      "speed_cm_s": 61.96907806580932,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 27.203000000008615,
+      "position": [
+        -43.06419531240461,
+        3.7387959150858525,
+        1.000169183855077
+      ],
+      "speed_cm_s": 61.96905899195951,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 27.328000000008615,
+      "position": [
+        -43.06419581465411,
+        3.816220481193558,
+        1.0001692148396149
+      ],
+      "speed_cm_s": 61.969230653013156,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 27.437000000005355,
+      "position": [
+        -43.0641962538149,
+        3.892782583368305,
+        1.0001691919426592
+      ],
+      "speed_cm_s": 61.96929550261612,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 27.546999999991385,
+      "position": [
+        -43.064196600616135,
+        3.960565380584674,
+        1.0001692102009063
+      ],
+      "speed_cm_s": 61.96921920849368,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 27.671999999991385,
+      "position": [
+        -43.06419691109091,
+        4.028280027526588,
+        1.0001691925815095
+      ],
+      "speed_cm_s": 61.96920394956267,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 27.78100000001723,
+      "position": [
+        -43.064197223385065,
+        4.104509166098488,
+        1.0001691829061337
+      ],
+      "speed_cm_s": 61.96930694626271,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 27.89100000000326,
+      "position": [
+        -43.06419746788678,
+        4.171240995274909,
+        1.000169199965619
+      ],
+      "speed_cm_s": 61.96920776404566,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 28.0,
+      "position": [
+        -43.064197687882576,
+        4.237976841119795,
+        1.0001692043666068
+      ],
+      "speed_cm_s": 61.96920013457999,
+      "held": null,
+      "registered": false,
+      "scanned": false,
+      "state": null
+    },
+    {
+      "t": 28.10899999999674,
+      "position": [
+        -43.064197886000414,
+        4.304855774316539,
+        1.0001691895840963
+      ],
+      "speed_cm_s": 61.96925735498161,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 28.219000000011874,
+      "position": [
+        -43.064198066510045,
+        4.372291722314443,
+        1.0001692095655175
+      ],
+      "speed_cm_s": 61.96914672871341,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 28.328000000008615,
+      "position": [
+        -43.064198225407615,
+        4.438167174933621,
+        1.0001692175894525
+      ],
+      "speed_cm_s": 61.96908187882261,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 28.453000000008615,
+      "position": [
+        -43.064198402093155,
+        4.515346070430894,
+        1.0001692041691594
+      ],
+      "speed_cm_s": 61.96911621113513,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 28.578000000008615,
+      "position": [
+        -43.064198571483196,
+        4.59210723320478,
+        1.000169195268928
+      ],
+      "speed_cm_s": 61.96906280539237,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 28.687000000005355,
+      "position": [
+        -43.06419867549686,
+        4.65948229018714,
+        1.0001691663398276
+      ],
+      "speed_cm_s": 61.969047546547756,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 28.796999999991385,
+      "position": [
+        -43.064197697712956,
+        4.718868940684601,
+        1.0001691931093182
+      ],
+      "speed_cm_s": 41.08647156424395,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 28.90600000001723,
+      "position": [
+        -43.064197182020756,
+        4.757837948494402,
+        1.0001692095785353
+      ],
+      "speed_cm_s": 32.7628135699179,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 29.01600000000326,
+      "position": [
+        -43.06419687063979,
+        4.790000972548946,
+        1.0001692256153043
+      ],
+      "speed_cm_s": 27.945575715239382,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 29.125,
+      "position": [
+        -43.06419664308305,
+        4.818280959457304,
+        1.0001692404293336
+      ],
+      "speed_cm_s": 24.544921875791662,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 29.23399999999674,
+      "position": [
+        -43.064196452339274,
+        4.843251825563398,
+        1.0001691911962567
+      ],
+      "speed_cm_s": 21.859113693921103,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 29.35899999999674,
+      "position": [
+        -43.06419625807126,
+        4.868660243761256,
+        1.000169214775567
+      ],
+      "speed_cm_s": 19.265346527716957,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 29.469000000011874,
+      "position": [
+        -43.064196110485284,
+        4.888297951240173,
+        1.0001692090564267
+      ],
+      "speed_cm_s": 17.300823212211405,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 29.578000000008615,
+      "position": [
+        -43.06419597750561,
+        4.9061104074085815,
+        1.0001691917668252
+      ],
+      "speed_cm_s": 15.533679962636413,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 29.687000000005355,
+      "position": [
+        -43.06441236650896,
+        4.9186763746562425,
+        1.0001691654167026
+      ],
+      "speed_cm_s": 4.9629616610694685,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 29.796999999991385,
+      "position": [
+        -43.06540439120253,
+        4.924689858283557,
+        1.0001691657265332
+      ],
+      "speed_cm_s": 6.214019382491687,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 29.90600000001723,
+      "position": [
+        -43.06656180384364,
+        4.931819890974986,
+        1.0001691809451776
+      ],
+      "speed_cm_s": 7.088223730640059,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 30.01600000000326,
+      "position": [
+        -43.067769834093426,
+        4.939685499784826,
+        1.0001691618562432
+      ],
+      "speed_cm_s": 7.618550286657274,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 30.125,
+      "position": [
+        -43.069189675755936,
+        4.949159160489325,
+        1.0001691268692863
+      ],
+      "speed_cm_s": 7.87517174704145,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 30.23399999999674,
+      "position": [
+        -43.070526981055046,
+        4.957550983521561,
+        1.0001692281625365
+      ],
+      "speed_cm_s": 7.655031108047648,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 30.344000000011874,
+      "position": [
+        -43.07197048490973,
+        4.965706191073242,
+        1.0001692171855567
+      ],
+      "speed_cm_s": 7.51042445465545,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 30.453000000008615,
+      "position": [
+        -43.073368336384355,
+        4.973575854509151,
+        1.000169249217313
+      ],
+      "speed_cm_s": 7.091413739551547,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 30.562000000005355,
+      "position": [
+        -43.07449260931875,
+        4.9807612676129125,
+        1.0001691779366209
+      ],
+      "speed_cm_s": 6.541158357572243,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 30.671999999991385,
+      "position": [
+        -43.075404741088086,
+        4.9874746673528865,
+        1.0001692661180557
+      ],
+      "speed_cm_s": 6.022204680947573,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 30.78100000001723,
+      "position": [
+        -43.07612082529729,
+        4.993640283139624,
+        1.000169356603249
+      ],
+      "speed_cm_s": 5.507261292549516,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 30.89100000000326,
+      "position": [
+        -43.07667287237431,
+        4.9992360203222415,
+        1.00016919545416
+      ],
+      "speed_cm_s": 4.974267137075965,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 31.0,
+      "position": [
+        -43.07711074524877,
+        5.004210346582821,
+        1.0001694641573833
+      ],
+      "speed_cm_s": 4.519350824695654,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 31.125,
+      "position": [
+        -43.07744582136525,
+        5.008099064755548,
+        1.0001696456126208
+      ],
+      "speed_cm_s": 1.663533136911845,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 31.25,
+      "position": [
+        -43.07749997789195,
+        5.008901466872427,
+        1.0001700360162864
+      ],
+      "speed_cm_s": 0.016710843146309638,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 31.375,
+      "position": [
+        -43.07749938912579,
+        5.008931319835347,
+        1.0001692262786575
+      ],
+      "speed_cm_s": 0.0006047011940362007,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 31.48399999999674,
+      "position": [
+        -43.07749740425291,
+        5.009019571187324,
+        1.0001693079688645
+      ],
+      "speed_cm_s": 0.14183942621304774,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 31.60899999999674,
+      "position": [
+        -43.07749903225398,
+        5.009118803638719,
+        1.0001691341403123
+      ],
+      "speed_cm_s": 0.046503866124818195,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 31.73399999999674,
+      "position": [
+        -43.0775060433268,
+        5.009159347688123,
+        1.0001694714750138
+      ],
+      "speed_cm_s": 0.06434165462168322,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 31.85899999999674,
+      "position": [
+        -43.07751109269588,
+        5.009215040530661,
+        1.0001700451168207
+      ],
+      "speed_cm_s": 0.11432227019429758,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 31.98399999999674,
+      "position": [
+        -43.07751964215552,
+        5.009308917412876,
+        1.0001699178953607
+      ],
+      "speed_cm_s": 0.10507087308569238,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 32.094000000011874,
+      "position": [
+        -43.07753115738891,
+        5.009346341514824,
+        1.000168609534416
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 32.203000000008615,
+      "position": [
+        -43.0775363267865,
+        5.009381850821888,
+        1.000168352857244
+      ],
+      "speed_cm_s": 0.008840061304073124,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 32.328000000008615,
+      "position": [
+        -43.077543876850505,
+        5.009413946530461,
+        1.0001684153987553
+      ],
+      "speed_cm_s": 0.007257802618341402,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 32.437000000005355,
+      "position": [
+        -43.07754754263348,
+        5.009465400208687,
+        1.0001699737772065
+      ],
+      "speed_cm_s": 0.11282648107047501,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 32.546999999991385,
+      "position": [
+        -43.07755895863355,
+        5.009531514545645,
+        1.0001677380676306
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 32.671999999991385,
+      "position": [
+        -43.07756613936851,
+        5.0095711707055095,
+        1.0001685959334679
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 32.796999999991385,
+      "position": [
+        -43.07757184385115,
+        5.009609299368382,
+        1.0001685962951692
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 32.90600000001723,
+      "position": [
+        -43.0775744384655,
+        5.009638316584921,
+        1.0001684007201053
+      ],
+      "speed_cm_s": 0.0046008308059217184,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 33.03100000001723,
+      "position": [
+        -43.077586754307895,
+        5.0097082269971756,
+        1.000168112397358
+      ],
+      "speed_cm_s": 0.05926908989848603,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 33.14100000000326,
+      "position": [
+        -43.07761114221491,
+        5.009765091262865,
+        1.0001683645314279
+      ],
+      "speed_cm_s": 0.040021755627049405,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 33.26600000000326,
+      "position": [
+        -43.077630699992966,
+        5.009812201063545,
+        1.0001684137772022
+      ],
+      "speed_cm_s": 0.04169415559907354,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 33.375,
+      "position": [
+        -43.07764953258588,
+        5.009869025705863,
+        1.0001684166783478
+      ],
+      "speed_cm_s": 0.041230794816021474,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 33.5,
+      "position": [
+        -43.07766914971268,
+        5.009918496173566,
+        1.0001685057085477
+      ],
+      "speed_cm_s": 0.038160105342326105,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 33.60899999999674,
+      "position": [
+        -43.07768579064851,
+        5.009970419906012,
+        1.0001685291307632
+      ],
+      "speed_cm_s": 0.03847101177743423,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 33.73399999999674,
+      "position": [
+        -43.07770556169327,
+        5.010015283386723,
+        1.0001686409060926
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 33.844000000011874,
+      "position": [
+        -43.07772406537263,
+        5.010069366180616,
+        1.0001684928324508
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 33.953000000008615,
+      "position": [
+        -43.077740166331274,
+        5.01011120415109,
+        1.0001685821356365
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 34.062000000005355,
+      "position": [
+        -43.07775986912404,
+        5.0101645204833645,
+        1.0001685980478983
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 34.187000000005355,
+      "position": [
+        -43.07777639328515,
+        5.010220854120171,
+        1.0001683521019153
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 34.296999999991385,
+      "position": [
+        -43.077796769025575,
+        5.010277634048276,
+        1.0001685808432519
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 34.421999999991385,
+      "position": [
+        -43.077809200439454,
+        5.010324096380672,
+        1.0001685354199465
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 34.53100000001723,
+      "position": [
+        -43.07782058454929,
+        5.010383427691369,
+        1.0001699918491795
+      ],
+      "speed_cm_s": 0.0,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 34.64100000000326,
+      "position": [
+        -43.077829600110675,
+        5.0104443062796244,
+        1.0001685972723746
+      ],
+      "speed_cm_s": 0.04082158506455305,
+      "held": null,
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 34.75,
+      "position": [
+        -43.09342511946283,
+        5.0180117251868825,
+        1.003125516352062
+      ],
+      "speed_cm_s": 80.71071639286565,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 34.85899999999674,
+      "position": [
+        -43.28345278552478,
+        5.092715183076313,
+        1.0569795147799754
+      ],
+      "speed_cm_s": 260.823769551545,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 34.98399999999674,
+      "position": [
+        -43.6152546667394,
+        5.227355267942582,
+        1.168201217671235
+      ],
+      "speed_cm_s": 337.5852712090078,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 35.094000000011874,
+      "position": [
+        -43.936085915264954,
+        5.410102905197715,
+        1.2597218463391744
+      ],
+      "speed_cm_s": 352.1060492647921,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 35.203000000008615,
+      "position": [
+        -44.26162626420404,
+        5.588802663378118,
+        1.326947277885464
+      ],
+      "speed_cm_s": 346.42387735508856,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 35.312000000005355,
+      "position": [
+        -44.59961783105011,
+        5.735909604130611,
+        1.3756320375098654
+      ],
+      "speed_cm_s": 342.1146440753149,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 35.421999999991385,
+      "position": [
+        -44.949205953299625,
+        5.846841926204758,
+        1.4096750754598535
+      ],
+      "speed_cm_s": 341.9496434950763,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 35.53100000001723,
+      "position": [
+        -45.31325834092735,
+        5.927616555987038,
+        1.433239951996855
+      ],
+      "speed_cm_s": 344.5070074783936,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 35.64100000000326,
+      "position": [
+        -45.67958547675805,
+        5.983346901004053,
+        1.4489357641108447
+      ],
+      "speed_cm_s": 347.8926284427304,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 35.75,
+      "position": [
+        -46.11244761896523,
+        6.026748787967178,
+        1.4608226931236634
+      ],
+      "speed_cm_s": 351.5534111556279,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 35.85899999999674,
+      "position": [
+        -46.493921472570236,
+        6.051533913785473,
+        1.4674559844483064
+      ],
+      "speed_cm_s": 354.08140906864406,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 35.969000000011874,
+      "position": [
+        -46.879743961903614,
+        6.06819253350957,
+        1.471830510933847
+      ],
+      "speed_cm_s": 355.9591781985073,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 36.078000000008615,
+      "position": [
+        -47.26131026787185,
+        6.079167469708548,
+        1.4746591382481495
+      ],
+      "speed_cm_s": 357.27032106616633,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 36.187000000005355,
+      "position": [
+        -47.58623717916782,
+        6.024630776751284,
+        1.4716938544120466
+      ],
+      "speed_cm_s": 241.98030537780514,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 36.312000000005355,
+      "position": [
+        -47.7137218761819,
+        5.772427333671746,
+        1.4690623199119932
+      ],
+      "speed_cm_s": 241.8026390508774,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 36.421999999991385,
+      "position": [
+        -47.72731995471342,
+        5.50340273163744,
+        1.4702982522541561
+      ],
+      "speed_cm_s": 255.65860500229476,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 36.53100000001723,
+      "position": [
+        -47.710136534145825,
+        5.2176488438486395,
+        1.472398693003139
+      ],
+      "speed_cm_s": 267.21877559937406,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 36.64100000000326,
+      "position": [
+        -47.68720200325144,
+        4.919512173259732,
+        1.4743905182046861
+      ],
+      "speed_cm_s": 285.511231073107,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 36.75,
+      "position": [
+        -47.667473400532124,
+        4.598495498322517,
+        1.476023933712972
+      ],
+      "speed_cm_s": 304.26357988930704,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 36.875,
+      "position": [
+        -47.65212088927537,
+        4.208122621440399,
+        1.4773999770363115
+      ],
+      "speed_cm_s": 321.98071107626305,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 36.98399999999674,
+      "position": [
+        -47.644795667624884,
+        3.8533657514900983,
+        1.4782338487459932
+      ],
+      "speed_cm_s": 333.5198659671277,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 37.10899999999674,
+      "position": [
+        -47.64180537538054,
+        3.431400779215684,
+        1.4788863484676347
+      ],
+      "speed_cm_s": 342.9452752359225,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 37.219000000011874,
+      "position": [
+        -47.642743413414074,
+        3.047141401137359,
+        1.479270233691378
+      ],
+      "speed_cm_s": 348.6381931796685,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 37.328000000008615,
+      "position": [
+        -47.645993687701754,
+        2.6670217251658115,
+        1.4795193088309464
+      ],
+      "speed_cm_s": 352.4507190841233,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 37.437000000005355,
+      "position": [
+        -47.65078842861959,
+        2.2854560621336137,
+        1.4796842899401625
+      ],
+      "speed_cm_s": 355.0091966833827,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 37.546999999991385,
+      "position": [
+        -47.65668520887093,
+        1.8991285612481286,
+        1.479794034458419
+      ],
+      "speed_cm_s": 356.72903143299465,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 37.65600000001723,
+      "position": [
+        -47.66333120618661,
+        1.5099207308825637,
+        1.479866099615632
+      ],
+      "speed_cm_s": 357.8659829905739,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 37.76600000000326,
+      "position": [
+        -47.67038060821925,
+        1.1238924298743194,
+        1.4799127295666596
+      ],
+      "speed_cm_s": 358.60493074983214,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 37.875,
+      "position": [
+        -47.678716968633644,
+        0.6869367100997141,
+        1.4799462179416145
+      ],
+      "speed_cm_s": 359.13984341259874,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 37.98399999999674,
+      "position": [
+        -47.686374909599444,
+        0.29623569673423455,
+        1.4799651697666492
+      ],
+      "speed_cm_s": 359.4420163919228,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 38.094000000011874,
+      "position": [
+        -47.77000358406892,
+        0.04059098472948829,
+        1.4680211842936717
+      ],
+      "speed_cm_s": 234.29636679173535,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 38.219000000011874,
+      "position": [
+        -47.801631247212505,
+        -0.09628336576061222,
+        1.4362591162376657
+      ],
+      "speed_cm_s": 48.838293295033466,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 38.328000000008615,
+      "position": [
+        -47.78075322460848,
+        -0.11976584488745891,
+        1.3861163075296756
+      ],
+      "speed_cm_s": 60.021393214284785,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 38.437000000005355,
+      "position": [
+        -47.73241043717737,
+        -0.11536056586937693,
+        1.308785863553226
+      ],
+      "speed_cm_s": 96.20097959557512,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 38.546999999991385,
+      "position": [
+        -47.62178022582955,
+        -0.10451612029117689,
+        1.2442852392053831
+      ],
+      "speed_cm_s": 159.08238392501877,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 38.65600000001723,
+      "position": [
+        -47.397473201438004,
+        -0.10496097196697585,
+        1.2212071272901317
+      ],
+      "speed_cm_s": 242.72299459103763,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 38.76600000000326,
+      "position": [
+        -47.25875578746888,
+        -0.08378656485665058,
+        1.2277773531616052
+      ],
+      "speed_cm_s": 47.42960472702023,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 38.89100000000326,
+      "position": [
+        -47.223984075042864,
+        -0.05061835008751569,
+        1.2383084848196253
+      ],
+      "speed_cm_s": 21.105015830013183,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 39.0,
+      "position": [
+        -47.214334313136725,
+        -0.035234528127077204,
+        1.2362293246737894
+      ],
+      "speed_cm_s": 18.730751733800638,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 39.10899999999674,
+      "position": [
+        -47.199410251036355,
+        -0.01953716516532765,
+        1.2349649438206318
+      ],
+      "speed_cm_s": 14.97197055698632,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 39.23399999999674,
+      "position": [
+        -47.18521486824418,
+        -0.00913465357532317,
+        1.2297612480982563
+      ],
+      "speed_cm_s": 16.76546445599849,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 39.344000000011874,
+      "position": [
+        -47.09259623205127,
+        0.07289000691406791,
+        1.2353200348034366
+      ],
+      "speed_cm_s": 213.60163026512768,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 39.469000000011874,
+      "position": [
+        -46.75085001857655,
+        0.30988906101359226,
+        1.2863985684848256
+      ],
+      "speed_cm_s": 346.94949310838706,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 39.578000000008615,
+      "position": [
+        -46.439365030375214,
+        0.531232444179908,
+        1.3354528957956786
+      ],
+      "speed_cm_s": 337.4475240124941,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 39.687000000005355,
+      "position": [
+        -46.18410894060572,
+        0.7672706636659017,
+        1.3759401933123774
+      ],
+      "speed_cm_s": 315.7149743492763,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 39.796999999991385,
+      "position": [
+        -45.98511015199113,
+        1.034485630034383,
+        1.4072919384744795
+      ],
+      "speed_cm_s": 307.7020025149589,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 39.90600000001723,
+      "position": [
+        -45.83613729349404,
+        1.3349210588517864,
+        1.4303311632160531
+      ],
+      "speed_cm_s": 311.7825886609761,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 40.01600000000326,
+      "position": [
+        -45.72793341185957,
+        1.661251993338849,
+        1.4465386558881537
+      ],
+      "speed_cm_s": 321.1764349046114,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 40.125,
+      "position": [
+        -45.65009463511484,
+        2.005188374613748,
+        1.457639832092521
+      ],
+      "speed_cm_s": 331.03499604402043,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 40.23399999999674,
+      "position": [
+        -45.593848679122786,
+        2.361485699605951,
+        1.4651563862302828
+      ],
+      "speed_cm_s": 335.07840091802973,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 40.35899999999674,
+      "position": [
+        -45.5536543176516,
+        2.74632051437369,
+        1.4708192573898264
+      ],
+      "speed_cm_s": 288.14893654502515,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 40.469000000011874,
+      "position": [
+        -45.53301562804631,
+        3.0347935687879732,
+        1.4740099777372189
+      ],
+      "speed_cm_s": 248.45367973703233,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 40.578000000008615,
+      "position": [
+        -45.52035047889468,
+        3.2925388546021748,
+        1.4760905339483406
+      ],
+      "speed_cm_s": 233.84186918922066,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 40.703000000008615,
+      "position": [
+        -45.51135717608714,
+        3.59047860678906,
+        1.4776124790556113
+      ],
+      "speed_cm_s": 248.86532127978427,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 40.812000000005355,
+      "position": [
+        -45.506346349332716,
+        3.861716545726196,
+        1.478450992175355
+      ],
+      "speed_cm_s": 242.99587367566517,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 40.921999999991385,
+      "position": [
+        -45.50300118187601,
+        4.10254885033592,
+        1.4790003966600278
+      ],
+      "speed_cm_s": 199.0256307417788,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 41.03100000001723,
+      "position": [
+        -45.500826721544755,
+        4.28846600441472,
+        1.4793524265891356
+      ],
+      "speed_cm_s": 150.34046885205998,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 41.14100000000326,
+      "position": [
+        -45.49940229124958,
+        4.425067706701566,
+        1.479580461028628
+      ],
+      "speed_cm_s": 108.42148818364534,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 41.25,
+      "position": [
+        -45.49846569687806,
+        4.522316858115753,
+        1.4797291092105853
+      ],
+      "speed_cm_s": 75.67850375158353,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 41.35899999999674,
+      "position": [
+        -45.49779805335145,
+        4.596080444592006,
+        1.4798343006982053
+      ],
+      "speed_cm_s": 49.208957640288,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 41.625,
+      "position": [
+        -45.49766458608278,
+        4.6113251556132555,
+        1.4798552425359055
+      ],
+      "speed_cm_s": 43.70978104994149,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    },
+    {
+      "t": 42.094000000011874,
+      "position": [
+        -45.49744919994939,
+        4.636382644806609,
+        1.479888958429539
+      ],
+      "speed_cm_s": 34.146392021119745,
+      "held": "Physical luggage 01",
+      "registered": false,
+      "scanned": true,
+      "state": null
+    }
+  ],
+  "carried_samples": [
+    {
+      "t": 3.0,
+      "step": 4,
+      "actor": "Physical luggage 01",
+      "distance_m": 1.8183006125278265,
+      "body_local": [
+        -45.70202230930873,
+        -17.237566170829613,
+        0.7761994646006962
+      ],
+      "pawn_local": [
+        -46.08164597958967,
+        -15.672285479406714,
+        1.62
+      ],
+      "body_velocity": [
+        -8.783451080322266,
+        -0.7272525429725647,
+        8.600996971130371
+      ],
+      "carrier_velocity": [
+        0.0,
+        -1.36422292353554e-11,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 4.01600000000326,
+      "step": 5,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.17614512514543512,
+      "body_local": [
+        -43.86190560049315,
+        -15.054749529500278,
+        1.4496065397062337
+      ],
+      "pawn_local": [
+        -43.90486341493065,
+        -15.042592227975215,
+        1.62
+      ],
+      "body_velocity": [
+        261.0152893066406,
+        -15.600400924682617,
+        12.052339553833008
+      ],
+      "carrier_velocity": [
+        0.0,
+        7.952297574252524e-12,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 5.0310000000172295,
+      "step": 6,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.17655161804054212,
+      "body_local": [
+        -41.492930481582974,
+        -14.032778668719947,
+        1.479391563413752
+      ],
+      "pawn_local": [
+        -41.59765497982702,
+        -14.053575804605362,
+        1.62
+      ],
+      "body_velocity": [
+        95.90972137451172,
+        -246.63870239257812,
+        0.24276062846183777
+      ],
+      "carrier_velocity": [
+        0.0,
+        -8.001747866468233e-12,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 6.062000000005355,
+      "step": 7,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.2866502674206224,
+      "body_local": [
+        -40.4734975818541,
+        -11.059898826641774,
+        1.479990378233249
+      ],
+      "pawn_local": [
+        -40.532031781479745,
+        -11.303084823564355,
+        1.62
+      ],
+      "body_velocity": [
+        -0.8897977471351624,
+        -242.54824829101562,
+        0.003977749962359667
+      ],
+      "carrier_velocity": [
+        2.7284787791860093e-11,
+        -1.3642393895930047e-11,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 7.078000000008615,
+      "step": 9,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.5147295194916026,
+      "body_local": [
+        -39.79466819763144,
+        -10.158603001706405,
+        1.3754467069374146
+      ],
+      "pawn_local": [
+        -39.85546864464777,
+        -10.60742754507599,
+        1.62
+      ],
+      "body_velocity": [
+        244.4364471435547,
+        252.93536376953125,
+        28.29759407043457
+      ],
+      "carrier_velocity": [
+        -1.5967252043873664e-11,
+        -3.991813010968416e-12,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 8.10899999999674,
+      "step": 10,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.18385451711075593,
+      "body_local": [
+        -37.184739911246254,
+        -10.385918938438799,
+        1.477392921219425
+      ],
+      "pawn_local": [
+        -37.080846256033986,
+        -10.334229355829384,
+        1.62
+      ],
+      "body_velocity": [
+        294.12567138671875,
+        -97.05510711669922,
+        1.0508230924606323
+      ],
+      "carrier_velocity": [
+        2.7284781693248044e-11,
+        0.0,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 9.125,
+      "step": 10,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.28622721102564147,
+      "body_local": [
+        -33.802695450331385,
+        -9.324895940396217,
+        1.4799568056416152
+      ],
+      "pawn_local": [
+        -33.564248003677484,
+        -9.251026222448655,
+        1.62
+      ],
+      "body_velocity": [
+        342.9728698730469,
+        -105.81668090820312,
+        0.017925264313817024
+      ],
+      "carrier_velocity": [
+        0.0,
+        -1.3642311565145867e-11,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 10.14100000000326,
+      "step": 11,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.1412252284312697,
+      "body_local": [
+        -30.703011945304297,
+        -8.789313582478103,
+        1.4799993172704164
+      ],
+      "pawn_local": [
+        -30.70151242241068,
+        -8.80781021492313,
+        1.62
+      ],
+      "body_velocity": [
+        277.0036315917969,
+        2.4938948154449463,
+        0.00028302473947405815
+      ],
+      "carrier_velocity": [
+        2.7284781693248044e-11,
+        6.821195423312011e-12,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 11.171999999991385,
+      "step": 12,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.22777514786738579,
+      "body_local": [
+        -29.991317748730452,
+        -6.613309590162044,
+        1.47890185328888
+      ],
+      "pawn_local": [
+        -30.020606938367564,
+        -6.436915218508357,
+        1.62
+      ],
+      "body_velocity": [
+        1.8648936748504639,
+        -331.2001647949219,
+        0.4019870460033417
+      ],
+      "carrier_velocity": [
+        -2.7284623130291734e-11,
+        -1.3642311565145867e-11,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 12.187000000005355,
+      "step": 13,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.24335851652401128,
+      "body_local": [
+        -32.42100640291175,
+        -6.097924239404255,
+        1.4786810062258298
+      ],
+      "pawn_local": [
+        -32.617575755541274,
+        -6.122679020159381,
+        1.62
+      ],
+      "body_velocity": [
+        -338.6868896484375,
+        5.688988208770752,
+        0.4936956763267517
+      ],
+      "carrier_velocity": [
+        -2.7284623130291734e-11,
+        1.3642311565145867e-11,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 13.203000000008615,
+      "step": 13,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.2876153043230253,
+      "body_local": [
+        -36.0389548694883,
+        -6.077425569317079,
+        1.4799753621506284
+      ],
+      "pawn_local": [
+        -36.290167939896435,
+        -6.074658380836058,
+        1.62
+      ],
+      "body_velocity": [
+        -359.5542297363281,
+        -4.488874912261963,
+        0.010122080333530903
+      ],
+      "carrier_velocity": [
+        2.7284787791860093e-11,
+        0.0,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 14.219000000011874,
+      "step": 13,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.28847711308107227,
+      "body_local": [
+        -39.701064135163634,
+        -6.030051001283027,
+        1.4799995940375812
+      ],
+      "pawn_local": [
+        -39.95327062277341,
+        -6.026761820611341,
+        1.62
+      ],
+      "body_velocity": [
+        -359.9626770019531,
+        -4.703126907348633,
+        0.00016752516967244446
+      ],
+      "carrier_velocity": [
+        -1.5834041779608394e-11,
+        -7.917020889804197e-12,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 15.25,
+      "step": 14,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.17765332069389062,
+      "body_local": [
+        -42.01353585601555,
+        -4.948691391611091,
+        1.4754552622485442
+      ],
+      "pawn_local": [
+        -41.91123878204518,
+        -4.962933224324279,
+        1.62
+      ],
+      "body_velocity": [
+        12.672832489013672,
+        -276.8326110839844,
+        1.262999415397644
+      ],
+      "carrier_velocity": [
+        0.0,
+        -7.553616649026962e-12,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 16.26600000000326,
+      "step": 15,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.17542023569881945,
+      "body_local": [
+        -42.766355861417544,
+        -2.2399022703501554,
+        1.4798872263107674
+      ],
+      "pawn_local": [
+        -42.74946849758514,
+        -2.3440919372299938,
+        1.62
+      ],
+      "body_velocity": [
+        -189.8584747314453,
+        -174.00732421875,
+        0.04562878608703613
+      ],
+      "carrier_velocity": [
+        0.0,
+        1.9295119720797946e-12,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 17.296999999991385,
+      "step": 15,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.28199831101564377,
+      "body_local": [
+        -45.16292535703184,
+        0.15361856859960427,
+        1.4799982264020328
+      ],
+      "pawn_local": [
+        -45.33417580076853,
+        0.3285352239674853,
+        1.62
+      ],
+      "body_velocity": [
+        -248.5995330810547,
+        -256.18621826171875,
+        0.0007341509917750955
+      ],
+      "carrier_velocity": [
+        0.0,
+        -2.9842556548756586e-12,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 18.312000000005355,
+      "step": 17,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.3651946319516264,
+      "body_local": [
+        -45.51538477494769,
+        2.942930697632687,
+        1.479999974166117
+      ],
+      "pawn_local": [
+        -45.49747761504643,
+        2.606112578171951,
+        1.62
+      ],
+      "body_velocity": [
+        4.147233963012695,
+        -249.56373596191406,
+        1.2067132047377527e-05
+      ],
+      "carrier_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 19.328000000008615,
+      "step": 20,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.3220533357921781,
+      "body_local": [
+        -45.50066317704932,
+        2.0927089783450925,
+        1.4668654073229175
+      ],
+      "pawn_local": [
+        -45.49997632680325,
+        2.3760244841989584,
+        1.62
+      ],
+      "body_velocity": [
+        0.25199592113494873,
+        266.2675476074219,
+        4.374403953552246
+      ],
+      "carrier_velocity": [
+        0.0,
+        5.1158668369297e-12,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 20.344000000011874,
+      "step": 21,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.26510428789850204,
+      "body_local": [
+        -45.092210871024214,
+        -0.4669108339900049,
+        1.4725256120216033
+      ],
+      "pawn_local": [
+        -45.2261956343714,
+        -0.29204039182389807,
+        1.62
+      ],
+      "body_velocity": [
+        249.4736328125,
+        17.227428436279297,
+        0.33733513951301575
+      ],
+      "carrier_velocity": [
+        0.0,
+        -1.5970123934752157e-12,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 21.375,
+      "step": 22,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.25813768048163044,
+      "body_local": [
+        -42.30870499194056,
+        -0.04177287813166231,
+        1.4743915399017196
+      ],
+      "pawn_local": [
+        -42.48130645570255,
+        -0.16684075226191453,
+        1.62
+      ],
+      "body_velocity": [
+        63.36744689941406,
+        -245.37156677246094,
+        0.09896823763847351
+      ],
+      "carrier_velocity": [
+        0.0,
+        -2.898986222370172e-12,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 22.39100000000326,
+      "step": 24,
+      "actor": "Physical luggage 01",
+      "distance_m": 1.2183401320013618,
+      "body_local": [
+        -42.92653488637228,
+        1.2639623701442952,
+        1.3148416414832982
+      ],
+      "pawn_local": [
+        -42.41741751216361,
+        0.1999931258748211,
+        1.62
+      ],
+      "body_velocity": [
+        -78.39044952392578,
+        -42.67905807495117,
+        22.385610580444336
+      ],
+      "carrier_velocity": [
+        0.0,
+        -1.7052378719021102e-12,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 34.703000000008615,
+      "step": 33,
+      "actor": "Physical luggage 01",
+      "distance_m": 1.2676039755664332,
+      "body_local": [
+        -43.07785005992219,
+        5.010500499315358,
+        1.0001691901970071
+      ],
+      "pawn_local": [
+        -43.28459899209098,
+        6.096725377109023,
+        1.62
+      ],
+      "body_velocity": [
+        -0.1428873986005783,
+        -0.2435033917427063,
+        0.002581518143415451
+      ],
+      "carrier_velocity": [
+        0.0,
+        -3.4104963252673687e-12,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 35.719000000011874,
+      "step": 34,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.2889599338021409,
+      "body_local": [
+        -45.954375273366075,
+        6.0131700141152145,
+        1.457138389653178
+      ],
+      "pawn_local": [
+        -46.17715172812236,
+        6.098870600019852,
+        1.62
+      ],
+      "body_velocity": [
+        -348.5991516113281,
+        -33.270320892333984,
+        9.079133033752441
+      ],
+      "carrier_velocity": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 36.75,
+      "step": 35,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.1835876077810796,
+      "body_local": [
+        -47.667473400532124,
+        4.598495498322518,
+        1.476023933712972
+      ],
+      "pawn_local": [
+        -47.599376153579044,
+        4.5071824815904895,
+        1.62
+      ],
+      "body_velocity": [
+        15.857181549072266,
+        303.84716796875,
+        1.3320502042770386
+      ],
+      "carrier_velocity": [
+        0.0,
+        3.4105778912864667e-12,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 37.76600000000326,
+      "step": 35,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.28555700013884205,
+      "body_local": [
+        -47.67038060821925,
+        1.12389242987432,
+        1.4799127295666596
+      ],
+      "pawn_local": [
+        -47.67385389194052,
+        0.8750826766671298,
+        1.62
+      ],
+      "body_velocity": [
+        -6.690508842468262,
+        358.5425109863281,
+        0.03556879982352257
+      ],
+      "carrier_velocity": [
+        0.0,
+        2.0161243371597373e-12,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 38.78100000001723,
+      "step": 36,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.5650737396069136,
+      "body_local": [
+        -47.2530862101168,
+        -0.07769967013077576,
+        1.2291382916746507
+      ],
+      "pawn_local": [
+        -46.91043542315782,
+        0.14394395002267402,
+        1.62
+      ],
+      "body_velocity": [
+        29.240169525146484,
+        -36.48004150390625,
+        8.982245445251465
+      ],
+      "carrier_velocity": [
+        0.0,
+        -2.254371265849977e-12,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 39.796999999991385,
+      "step": 37,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.48760823161833416,
+      "body_local": [
+        -45.98511015199113,
+        1.0344856300343828,
+        1.4072919384744795
+      ],
+      "pawn_local": [
+        -45.54814573649756,
+        0.9947468870197872,
+        1.62
+      ],
+      "body_velocity": [
+        161.59063720703125,
+        -260.6329040527344,
+        25.28789520263672
+      ],
+      "carrier_velocity": [
+        0.0,
+        -1.7052683633198286e-12,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 40.812000000005355,
+      "step": 40,
+      "actor": "Physical luggage 01",
+      "distance_m": 0.41250551499243526,
+      "body_local": [
+        -45.506346349332716,
+        3.8617165457261966,
+        1.478450992175355
+      ],
+      "pawn_local": [
+        -45.50036507780644,
+        3.4743034552478775,
+        1.62
+      ],
+      "body_velocity": [
+        3.8215441703796387,
+        -242.96499633789062,
+        0.6332283020019531
+      ],
+      "carrier_velocity": [
+        0.0,
+        3.41055730883885e-12,
+        0.0
+      ],
+      "registered": false
+    },
+    {
+      "t": 42.094000000011874,
+      "step": 42,
+      "actor": "Physical luggage 01",
+      "distance_m": 1.1704988889867072,
+      "body_local": [
+        -45.49744919994939,
+        4.636382644806608,
+        1.479888958429539
+      ],
+      "pawn_local": [
+        -45.50036507780644,
+        3.4743034552478775,
+        1.62
+      ],
+      "body_velocity": [
+        0.2909066081047058,
+        -34.14512252807617,
+        0.045485690236091614
+      ],
+      "carrier_velocity": [
+        0.0,
+        -4.616724307433371e-13,
+        0.0
+      ],
+      "registered": false
+    }
+  ],
+  "journey": {
+    "checked_in": true,
+    "bag_accepted": false,
+    "security": true,
+    "boarding": false,
+    "aboard": false
+  },
+  "player": [
+    -45.50036507780644,
+    3.4743034552478775,
+    1.62
+  ],
+  "fresh_route_teleports": 0,
+  "setup": "Fresh entrance, normal walking and interactions",
+  "direct_bag_transform_assignments": 0,
+  "elapsed_s": 42.094000000011874,
+  "process_exit_code": 0,
+  "process_exit_verified": true
+}

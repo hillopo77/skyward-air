@@ -1,0 +1,16 @@
+{
+  "variant": "767-300 proportions",
+  "seating": "2-3-2",
+  "rows": 32,
+  "seats": 224,
+  "cabin_width_m": 4.72,
+  "side_group_m": 1.07,
+  "center_group_m": 1.57,
+  "aisles_m": 0.48,
+  "pitch_m": 0.84,
+  "length_m": 54.94,
+  "span_m": 47.57,
+  "height_m": 15.85,
+  "source": "https://www.boeing.com/content/dam/boeing/v2/airports/acaps/767_REV_K.pdf",
+  "limits": "Stylized original model, not an engineering or flight-simulation replica; economy section and separate cockpit lookdev."
+}

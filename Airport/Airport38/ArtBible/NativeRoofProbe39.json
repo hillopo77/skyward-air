@@ -1,0 +1,123 @@
+{
+  "before": [
+    {
+      "block": false,
+      "mesh": null,
+      "position": null
+    },
+    {
+      "block": false,
+      "mesh": null,
+      "position": null
+    }
+  ],
+  "flags": [
+    {
+      "mesh": "SM_AP_Ceilings38",
+      "double_sided": false
+    },
+    {
+      "mesh": "SM_AP_Roofs38",
+      "double_sided": false
+    },
+    {
+      "mesh": "SM_AP_Walls38",
+      "double_sided": false
+    }
+  ],
+  "after_two_sided": [
+    {
+      "block": true,
+      "mesh": "SM_AP_Walls38",
+      "position": "<Struct 'Vector' (0x00000000A85B71C0) {x: -4291.000003, y: 1300.000000, z: 406.000000}>"
+    },
+    {
+      "block": true,
+      "mesh": "SM_AP_Walls38",
+      "position": "<Struct 'Vector' (0x00000000A85B7210) {x: -4291.000000, y: 1300.000000, z: 406.000000}>"
+    }
+  ],
+  "adjacent_samples": [
+    {
+      "dy": -0.03,
+      "dz": -0.03,
+      "forward": {
+        "block": true,
+        "mesh": "SM_AP_Walls38",
+        "position": "<Struct 'Vector' (0x00000000A85B71C0) {x: -4291.000003, y: 1303.000000, z: 403.000000}>"
+      }
+    },
+    {
+      "dy": -0.03,
+      "dz": 0,
+      "forward": {
+        "block": true,
+        "mesh": "SM_AP_Walls38",
+        "position": "<Struct 'Vector' (0x00000000A85B7210) {x: -4291.000003, y: 1303.000000, z: 406.000000}>"
+      }
+    },
+    {
+      "dy": -0.03,
+      "dz": 0.03,
+      "forward": {
+        "block": true,
+        "mesh": "SM_AP_Walls38",
+        "position": "<Struct 'Vector' (0x00000000A85B71C0) {x: -4291.000003, y: 1303.000000, z: 409.000000}>"
+      }
+    },
+    {
+      "dy": 0,
+      "dz": -0.03,
+      "forward": {
+        "block": true,
+        "mesh": "SM_AP_Walls38",
+        "position": "<Struct 'Vector' (0x00000000A85B7210) {x: -4291.000003, y: 1300.000000, z: 403.000000}>"
+      }
+    },
+    {
+      "dy": 0,
+      "dz": 0,
+      "forward": {
+        "block": true,
+        "mesh": "SM_AP_Walls38",
+        "position": "<Struct 'Vector' (0x00000000A85B71C0) {x: -4291.000003, y: 1300.000000, z: 406.000000}>"
+      }
+    },
+    {
+      "dy": 0,
+      "dz": 0.03,
+      "forward": {
+        "block": true,
+        "mesh": "SM_AP_Walls38",
+        "position": "<Struct 'Vector' (0x00000000A85B7210) {x: -4291.000003, y: 1300.000000, z: 409.000000}>"
+      }
+    },
+    {
+      "dy": 0.03,
+      "dz": -0.03,
+      "forward": {
+        "block": true,
+        "mesh": "SM_AP_Walls38",
+        "position": "<Struct 'Vector' (0x00000000A85B71C0) {x: -4291.000003, y: 1297.000000, z: 403.000000}>"
+      }
+    },
+    {
+      "dy": 0.03,
+      "dz": 0,
+      "forward": {
+        "block": true,
+        "mesh": "SM_AP_Walls38",
+        "position": "<Struct 'Vector' (0x00000000A85B7210) {x: -4291.000003, y: 1297.000000, z: 406.000000}>"
+      }
+    },
+    {
+      "dy": 0.03,
+      "dz": 0.03,
+      "forward": {
+        "block": true,
+        "mesh": "SM_AP_Walls38",
+        "position": "<Struct 'Vector' (0x00000000A85B71C0) {x: -4291.000003, y: 1297.000000, z: 409.000000}>"
+      }
+    }
+  ]
+}

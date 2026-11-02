@@ -1,0 +1,227 @@
+{
+ "status": "SUCCESS",
+ "volumes": [
+  {
+   "label": "PostProcessVolume",
+   "unbound": true,
+   "gi": true,
+   "refl": false,
+   "ao": 0.55
+  },
+  {
+   "label": "Airport clean daylight grade",
+   "unbound": true,
+   "gi": true,
+   "refl": false,
+   "ao": 0.55
+  },
+  {
+   "label": "Airport26 journey overlay",
+   "unbound": true,
+   "gi": true,
+   "refl": false,
+   "ao": 0.5
+  },
+  {
+   "label": "Entrance27 local surface separation",
+   "unbound": false,
+   "gi": false,
+   "refl": false,
+   "ao": 0.55
+  },
+  {
+   "label": "Checkin33 warm welcoming grade",
+   "unbound": false,
+   "gi": true,
+   "refl": false,
+   "ao": 0.55
+  },
+  {
+   "label": "AP38 warm grade entrancefoyer",
+   "unbound": false,
+   "gi": true,
+   "refl": false,
+   "ao": 0.55
+  },
+  {
+   "label": "AP38 warm grade checkin",
+   "unbound": false,
+   "gi": true,
+   "refl": false,
+   "ao": 0.55
+  },
+  {
+   "label": "AP38 warm grade publicreturn",
+   "unbound": false,
+   "gi": true,
+   "refl": false,
+   "ao": 0.55
+  },
+  {
+   "label": "AP38 warm grade landsidecorridor",
+   "unbound": false,
+   "gi": true,
+   "refl": false,
+   "ao": 0.55
+  },
+  {
+   "label": "AP38 warm grade security",
+   "unbound": false,
+   "gi": true,
+   "refl": false,
+   "ao": 0.55
+  },
+  {
+   "label": "AP38 warm grade recovery",
+   "unbound": false,
+   "gi": true,
+   "refl": false,
+   "ao": 0.55
+  },
+  {
+   "label": "AP38 warm grade concourse",
+   "unbound": false,
+   "gi": true,
+   "refl": false,
+   "ao": 0.55
+  },
+  {
+   "label": "AP38 warm grade gate07",
+   "unbound": false,
+   "gi": true,
+   "refl": false,
+   "ao": 0.55
+  },
+  {
+   "label": "AP38 warm grade gate08",
+   "unbound": false,
+   "gi": true,
+   "refl": false,
+   "ao": 0.55
+  },
+  {
+   "label": "AP38 warm grade cafefoyer",
+   "unbound": false,
+   "gi": true,
+   "refl": false,
+   "ao": 0.55
+  },
+  {
+   "label": "AP38 warm grade cafe",
+   "unbound": false,
+   "gi": true,
+   "refl": false,
+   "ao": 0.55
+  },
+  {
+   "label": "AP38 warm grade amenitylobby",
+   "unbound": false,
+   "gi": true,
+   "refl": false,
+   "ao": 0.55
+  },
+  {
+   "label": "AP38 warm grade amenities",
+   "unbound": false,
+   "gi": true,
+   "refl": false,
+   "ao": 0.55
+  },
+  {
+   "label": "AP38 warm grade operations",
+   "unbound": false,
+   "gi": true,
+   "refl": false,
+   "ao": 0.55
+  },
+  {
+   "label": "AP38 warm grade gate07entry",
+   "unbound": false,
+   "gi": true,
+   "refl": false,
+   "ao": 0.55
+  },
+  {
+   "label": "AP38 warm grade baggageservice",
+   "unbound": false,
+   "gi": true,
+   "refl": false,
+   "ao": 0.55
+  },
+  {
+   "label": "AP38 warm grade arrivals",
+   "unbound": false,
+   "gi": true,
+   "refl": false,
+   "ao": 0.55
+  },
+  {
+   "label": "AP38 warm grade arrivalsreturn",
+   "unbound": false,
+   "gi": true,
+   "refl": false,
+   "ao": 0.55
+  },
+  {
+   "label": "AP38 warm grade publicreturneast",
+   "unbound": false,
+   "gi": true,
+   "refl": false,
+   "ao": 0.55
+  }
+ ],
+ "lights": {
+  "RectLight/MOVABLE: 2>": {
+   "count": 141,
+   "intensity": [
+    10.0,
+    21.0,
+    75.0,
+    100.0,
+    140.0,
+    189.0,
+    350.0,
+    385.0,
+    1200.0,
+    1470.0,
+    1700.0,
+    1800.0
+   ],
+   "shadows": 80
+  },
+  "SpotLight/MOVABLE: 2>": {
+   "count": 44,
+   "intensity": [
+    0.0,
+    3600.0,
+    5200.0
+   ],
+   "shadows": 0
+  },
+  "PointLight/MOVABLE: 2>": {
+   "count": 30,
+   "intensity": [
+    45.0,
+    110.0,
+    160.0,
+    850.0
+   ],
+   "shadows": 0
+  },
+  "DirectionalLight/MOVABLE: 2>": {
+   "count": 1,
+   "intensity": [
+    300.0
+   ],
+   "shadows": 1
+  }
+ },
+ "skylights": [
+  {
+   "label": "Airport hemisphere fill",
+   "mobility": "<ComponentMobility.MOVABLE: 2>",
+   "intensity": 36.0,
+   "real_time": false
+  }
+ ]
+}

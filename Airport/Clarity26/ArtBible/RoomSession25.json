@@ -1,0 +1,24 @@
+{
+  "status": "READY",
+  "map": "/Game/Airport25/L_Airport_Foyer25",
+  "zone": "entrancefoyer",
+  "player": [
+    -47.362961703566754,
+    -11.375865560990043,
+    1.5221007077631705
+  ],
+  "journey": {
+    "checked_in": true,
+    "security": true,
+    "boarding": false,
+    "aboard": false
+  },
+  "controlled_doors": {
+    "Screening entry24 leaf 0": 0,
+    "Screening entry24 leaf 1": 0,
+    "Screening exit24 leaf 0": 0,
+    "Screening exit24 leaf 1": 0,
+    "Staff service leaf24": 0
+  },
+  "updated": 1793186711.8847806
+}

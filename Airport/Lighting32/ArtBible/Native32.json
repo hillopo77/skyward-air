@@ -1,0 +1,4934 @@
+{
+  "status": "SUCCESS",
+  "started": 1793204062.8849616,
+  "before": [
+    {
+      "name": "Cockpit daylight",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        577.5000095367432,
+        407.0000171661377
+      ],
+      "intensity": 1470.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cockpit ceiling practical",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        214.49999809265137,
+        255.20000457763672
+      ],
+      "intensity": 10.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cockpit rear entry practical",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        71.49999737739563,
+        244.2000150680542
+      ],
+      "intensity": 10.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -179.99999523162842,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.001",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -179.99999523162842,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.002",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -540.0000095367432,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.003",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -540.0000095367432,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.004",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -780.0000190734863,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.005",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -780.0000190734863,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.006",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -1089.9999618530273,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.007",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -1089.9999618530273,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.008",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -1417.5000190734863,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.009",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -1417.5000190734863,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.010",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -1700.0,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.011",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -1700.0,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.012",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -2000.0,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.013",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -2000.0,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.014",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -2300.0,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.015",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -2300.0,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.016",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -2600.0,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.017",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -2600.0,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.018",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -2800.0,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.019",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -2800.0,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.020",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -3120.0000762939453,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.021",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -3120.0000762939453,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.022",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -3359.9998474121094,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.023",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -3359.9998474121094,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Lavatory dedicated practical10",
+      "type": "RectLight",
+      "location": [
+        -153.99999618530273,
+        -2943.000030517578,
+        215.00000953674316
+      ],
+      "intensity": 189.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Lavatory dedicated practical10.001",
+      "type": "RectLight",
+      "location": [
+        153.99999618530273,
+        -2943.000030517578,
+        215.00000953674316
+      ],
+      "intensity": 189.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Stair inspection practical10",
+      "type": "RectLight",
+      "location": [
+        -135.0000023841858,
+        -234.99999046325684,
+        34.99999940395355
+      ],
+      "intensity": 140.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Suite reading practical 1L",
+      "type": "RectLight",
+      "location": [
+        -202.99999713897705,
+        -580.0000190734863,
+        108.00000429153442
+      ],
+      "intensity": 21.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Suite reading practical 2L",
+      "type": "RectLight",
+      "location": [
+        -202.99999713897705,
+        -819.9999809265137,
+        108.00000429153442
+      ],
+      "intensity": 21.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Suite reading practical 1R",
+      "type": "RectLight",
+      "location": [
+        202.99999713897705,
+        -580.0000190734863,
+        108.00000429153442
+      ],
+      "intensity": 21.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Suite reading practical 2R",
+      "type": "RectLight",
+      "location": [
+        202.99999713897705,
+        -819.9999809265137,
+        108.00000429153442
+      ],
+      "intensity": 21.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "LIGHT_HoldSoftPool12_0",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -469.9999809265137,
+        -22.499999403953552
+      ],
+      "intensity": 385.0,
+      "shadows": true,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "LIGHT_HoldSoftPool12_1",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -769.9999809265137,
+        -22.499999403953552
+      ],
+      "intensity": 385.0,
+      "shadows": true,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "LIGHT_HoldSoftPool12_2",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -1069.9999809265137,
+        -22.499999403953552
+      ],
+      "intensity": 385.0,
+      "shadows": true,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "LIGHT_HoldSoftPool12_3",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -1369.9999809265137,
+        -22.499999403953552
+      ],
+      "intensity": 385.0,
+      "shadows": true,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "LIGHT_HoldSoftPool12_4",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -1670.0000762939453,
+        -22.499999403953552
+      ],
+      "intensity": 385.0,
+      "shadows": true,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "LIGHT_HoldSoftPool12_5",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -1970.0000762939453,
+        -22.499999403953552
+      ],
+      "intensity": 385.0,
+      "shadows": true,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 0112",
+      "type": "SpotLight",
+      "location": [
+        -175.9000062942505,
+        -1394.9999809265137,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 0212",
+      "type": "SpotLight",
+      "location": [
+        190.70000648498535,
+        -1394.9999809265137,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 0312",
+      "type": "SpotLight",
+      "location": [
+        -27.09999978542328,
+        -1394.9999809265137,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 0412",
+      "type": "SpotLight",
+      "location": [
+        41.89999997615814,
+        -1394.9999809265137,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 0512",
+      "type": "SpotLight",
+      "location": [
+        -175.9000062942505,
+        -1529.9999237060547,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 0612",
+      "type": "SpotLight",
+      "location": [
+        190.70000648498535,
+        -1529.9999237060547,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 0712",
+      "type": "SpotLight",
+      "location": [
+        -27.09999978542328,
+        -1529.9999237060547,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 0812",
+      "type": "SpotLight",
+      "location": [
+        41.89999997615814,
+        -1529.9999237060547,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 0912",
+      "type": "SpotLight",
+      "location": [
+        -175.9000062942505,
+        -1664.9999618530273,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 1012",
+      "type": "SpotLight",
+      "location": [
+        190.70000648498535,
+        -1664.9999618530273,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 1112",
+      "type": "SpotLight",
+      "location": [
+        -27.09999978542328,
+        -1664.9999618530273,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 1212",
+      "type": "SpotLight",
+      "location": [
+        41.89999997615814,
+        -1664.9999618530273,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 1312",
+      "type": "SpotLight",
+      "location": [
+        -175.9000062942505,
+        -1800.0,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 1412",
+      "type": "SpotLight",
+      "location": [
+        190.70000648498535,
+        -1800.0,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 1512",
+      "type": "SpotLight",
+      "location": [
+        -27.09999978542328,
+        -1800.0,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 1612",
+      "type": "SpotLight",
+      "location": [
+        41.89999997615814,
+        -1800.0,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 1712",
+      "type": "SpotLight",
+      "location": [
+        -175.9000062942505,
+        -1935.0000381469727,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 1812",
+      "type": "SpotLight",
+      "location": [
+        190.70000648498535,
+        -1935.0000381469727,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 1912",
+      "type": "SpotLight",
+      "location": [
+        -27.09999978542328,
+        -1935.0000381469727,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 2012",
+      "type": "SpotLight",
+      "location": [
+        41.89999997615814,
+        -1935.0000381469727,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 2112",
+      "type": "SpotLight",
+      "location": [
+        -175.9000062942505,
+        -2069.999885559082,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 2212",
+      "type": "SpotLight",
+      "location": [
+        190.70000648498535,
+        -2069.999885559082,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 2312",
+      "type": "SpotLight",
+      "location": [
+        -27.09999978542328,
+        -2069.999885559082,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 2412",
+      "type": "SpotLight",
+      "location": [
+        41.89999997615814,
+        -2069.999885559082,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 2512",
+      "type": "SpotLight",
+      "location": [
+        -175.9000062942505,
+        -2204.9999237060547,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 2612",
+      "type": "SpotLight",
+      "location": [
+        190.70000648498535,
+        -2204.9999237060547,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 2712",
+      "type": "SpotLight",
+      "location": [
+        -27.09999978542328,
+        -2204.9999237060547,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 2812",
+      "type": "SpotLight",
+      "location": [
+        41.89999997615814,
+        -2204.9999237060547,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 2912",
+      "type": "SpotLight",
+      "location": [
+        -175.9000062942505,
+        -2339.9999618530273,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 3012",
+      "type": "SpotLight",
+      "location": [
+        190.70000648498535,
+        -2339.9999618530273,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 3112",
+      "type": "SpotLight",
+      "location": [
+        -27.09999978542328,
+        -2339.9999618530273,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 3212",
+      "type": "SpotLight",
+      "location": [
+        41.89999997615814,
+        -2339.9999618530273,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 3312",
+      "type": "SpotLight",
+      "location": [
+        -175.9000062942505,
+        -2475.0,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 3412",
+      "type": "SpotLight",
+      "location": [
+        190.70000648498535,
+        -2475.0,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 3512",
+      "type": "SpotLight",
+      "location": [
+        -27.09999978542328,
+        -2475.0,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 3612",
+      "type": "SpotLight",
+      "location": [
+        41.89999997615814,
+        -2475.0,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 3712",
+      "type": "SpotLight",
+      "location": [
+        -175.9000062942505,
+        -2610.0000381469727,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 3812",
+      "type": "SpotLight",
+      "location": [
+        190.70000648498535,
+        -2610.0000381469727,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 3912",
+      "type": "SpotLight",
+      "location": [
+        -27.09999978542328,
+        -2610.0000381469727,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 4012",
+      "type": "SpotLight",
+      "location": [
+        41.89999997615814,
+        -2610.0000381469727,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Extended hold practical13 0",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -2300.0,
+        -25.0
+      ],
+      "intensity": 385.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Extended hold practical13 1",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -2600.0,
+        -25.0
+      ],
+      "intensity": 385.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Extended hold practical13 2",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -2900.0,
+        -25.0
+      ],
+      "intensity": 385.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Extended hold practical13 3",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -3250.0,
+        -25.0
+      ],
+      "intensity": 385.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Ceiling bounce approximation",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        280.0,
+        105.0
+      ],
+      "intensity": 75.0,
+      "shadows": false,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Soft indirect fill",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        280.0,
+        155.0
+      ],
+      "intensity": 160.0,
+      "shadows": false,
+      "attenuation_radius": "380.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 1",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -258.2692307692308,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 2",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -514.8076923076924,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 3",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -771.3461538461538,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 4",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -1027.8846153846155,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 5",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -1284.4230769230771,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 6",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -1540.9615384615386,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 7",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -1797.5000000000002,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 8",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -2054.038461538462,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 9",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -2310.5769230769233,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 10",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -2567.1153846153848,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 11",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -2823.653846153846,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 12",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -3080.192307692308,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 13",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -3336.730769230769,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Airport daylight",
+      "type": "DirectionalLight",
+      "location": [
+        0.0,
+        0.0,
+        2000.0
+      ],
+      "intensity": 300.0,
+      "shadows": true
+    },
+    {
+      "name": "Airport hemisphere fill",
+      "type": "SkyLight",
+      "location": [
+        0.0,
+        0.0,
+        1800.0
+      ],
+      "intensity": 65.0,
+      "shadows": true,
+      "lower_hemisphere_is_black": "False"
+    },
+    {
+      "name": "AP24 practical 8",
+      "type": "RectLight",
+      "location": [
+        -4660.0,
+        2000.0,
+        302.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 9",
+      "type": "RectLight",
+      "location": [
+        -4180.0,
+        2000.0,
+        302.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 10",
+      "type": "RectLight",
+      "location": [
+        -3700.0,
+        2000.0,
+        302.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 11",
+      "type": "RectLight",
+      "location": [
+        -3220.0000000000005,
+        2000.0,
+        302.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 12",
+      "type": "RectLight",
+      "location": [
+        -2740.0,
+        2000.0,
+        302.0
+      ],
+      "intensity": 5000.0,
+      "shadows": true,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 13",
+      "type": "RectLight",
+      "location": [
+        -4670.0,
+        600.0,
+        322.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 14",
+      "type": "RectLight",
+      "location": [
+        -4210.0,
+        600.0,
+        322.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 15",
+      "type": "RectLight",
+      "location": [
+        -3750.0,
+        600.0,
+        322.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 16",
+      "type": "RectLight",
+      "location": [
+        -3290.0,
+        600.0,
+        322.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 17",
+      "type": "RectLight",
+      "location": [
+        -2830.0,
+        600.0,
+        322.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 18",
+      "type": "RectLight",
+      "location": [
+        -4575.0,
+        125.0,
+        332.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 19",
+      "type": "RectLight",
+      "location": [
+        -4575.0,
+        -425.0,
+        332.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 20",
+      "type": "RectLight",
+      "location": [
+        -3925.0,
+        125.0,
+        332.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 21",
+      "type": "RectLight",
+      "location": [
+        -3925.0,
+        -425.0,
+        332.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 22",
+      "type": "RectLight",
+      "location": [
+        -3400.0,
+        -350.0,
+        311.99999999999994
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 23",
+      "type": "RectLight",
+      "location": [
+        -2900.0,
+        179.99999999999997,
+        402.00000000000006
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 24",
+      "type": "RectLight",
+      "location": [
+        -2900.0,
+        -259.99999999999994,
+        402.00000000000006
+      ],
+      "intensity": 5000.0,
+      "shadows": true,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 25",
+      "type": "RectLight",
+      "location": [
+        -2900.0,
+        -700.0,
+        402.00000000000006
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 26",
+      "type": "RectLight",
+      "location": [
+        -2900.0,
+        -1140.0,
+        402.00000000000006
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 27",
+      "type": "RectLight",
+      "location": [
+        -2900.0,
+        -1580.0,
+        402.00000000000006
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 28",
+      "type": "RectLight",
+      "location": [
+        -2450.0,
+        -200.0,
+        311.99999999999994
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 29",
+      "type": "RectLight",
+      "location": [
+        -2075.0,
+        37.5,
+        342.0
+      ],
+      "intensity": 6500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 30",
+      "type": "RectLight",
+      "location": [
+        -2075.0,
+        -487.5,
+        342.0
+      ],
+      "intensity": 6500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 31",
+      "type": "RectLight",
+      "location": [
+        -1625.0,
+        37.5,
+        342.0
+      ],
+      "intensity": 6500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 32",
+      "type": "RectLight",
+      "location": [
+        -1625.0,
+        -487.5,
+        342.0
+      ],
+      "intensity": 6500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 33",
+      "type": "RectLight",
+      "location": [
+        -2450.0,
+        -1400.0,
+        311.99999999999994
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 34",
+      "type": "RectLight",
+      "location": [
+        -2075.0,
+        -1125.0,
+        342.0
+      ],
+      "intensity": 6500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 35",
+      "type": "RectLight",
+      "location": [
+        -2075.0,
+        -1575.0,
+        342.0
+      ],
+      "intensity": 6500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 36",
+      "type": "RectLight",
+      "location": [
+        -1625.0,
+        -1125.0,
+        342.0
+      ],
+      "intensity": 6500.0,
+      "shadows": true,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 37",
+      "type": "RectLight",
+      "location": [
+        -1625.0,
+        -1575.0,
+        342.0
+      ],
+      "intensity": 6500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 38",
+      "type": "RectLight",
+      "location": [
+        -3400.0,
+        -850.0,
+        311.99999999999994
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 39",
+      "type": "RectLight",
+      "location": [
+        -2450.0,
+        950.0,
+        282.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 40",
+      "type": "RectLight",
+      "location": [
+        -2450.0,
+        450.0,
+        282.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 41",
+      "type": "RectLight",
+      "location": [
+        -2075.0,
+        975.0,
+        261.99999999999994
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 42",
+      "type": "RectLight",
+      "location": [
+        -2075.0,
+        525.0,
+        261.99999999999994
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 43",
+      "type": "RectLight",
+      "location": [
+        -1625.0,
+        975.0,
+        261.99999999999994
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 44",
+      "type": "RectLight",
+      "location": [
+        -1625.0,
+        525.0,
+        261.99999999999994
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 45",
+      "type": "RectLight",
+      "location": [
+        -2225.0,
+        1950.0,
+        342.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 46",
+      "type": "RectLight",
+      "location": [
+        -2225.0,
+        1450.0,
+        342.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 47",
+      "type": "RectLight",
+      "location": [
+        -1675.0,
+        1950.0,
+        342.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 48",
+      "type": "RectLight",
+      "location": [
+        -1675.0,
+        1450.0,
+        342.0
+      ],
+      "intensity": 5000.0,
+      "shadows": true,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 49",
+      "type": "RectLight",
+      "location": [
+        -4575.0,
+        -850.0,
+        282.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 50",
+      "type": "RectLight",
+      "location": [
+        -3925.0,
+        -850.0,
+        282.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 51",
+      "type": "RectLight",
+      "location": [
+        -4600.0,
+        -1639.9999999999998,
+        269.0
+      ],
+      "intensity": 5500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 52",
+      "type": "RectLight",
+      "location": [
+        -4250.0,
+        -1639.9999999999998,
+        269.0
+      ],
+      "intensity": 5500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 53",
+      "type": "RectLight",
+      "location": [
+        -4620.0,
+        -1600.0,
+        605.0
+      ],
+      "intensity": 5500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 54",
+      "type": "RectLight",
+      "location": [
+        -4230.0,
+        -1250.0,
+        605.0
+      ],
+      "intensity": 5500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 55",
+      "type": "RectLight",
+      "location": [
+        -3800.0,
+        -1250.0,
+        380.0
+      ],
+      "intensity": 5500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 56",
+      "type": "RectLight",
+      "location": [
+        -3450.0,
+        -1250.0,
+        380.0
+      ],
+      "intensity": 5500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 57",
+      "type": "RectLight",
+      "location": [
+        -3800.0,
+        -1600.0,
+        380.0
+      ],
+      "intensity": 5500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 58",
+      "type": "RectLight",
+      "location": [
+        -3450.0,
+        -1600.0,
+        380.0
+      ],
+      "intensity": 5500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP25 foyer practical 5",
+      "type": "RectLight",
+      "location": [
+        -4204.0,
+        1480.0,
+        316.0
+      ],
+      "intensity": 1800.0,
+      "shadows": true,
+      "attenuation_radius": "425.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP27 fixture source 0",
+      "type": "RectLight",
+      "location": [
+        -4610.0,
+        1525.0,
+        340.0
+      ],
+      "intensity": 1800.0,
+      "shadows": true,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP27 fixture source 1",
+      "type": "RectLight",
+      "location": [
+        -4610.0,
+        1250.0,
+        340.0
+      ],
+      "intensity": 1800.0,
+      "shadows": true,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP27 fixture source 2",
+      "type": "RectLight",
+      "location": [
+        -4610.0,
+        975.0,
+        340.0
+      ],
+      "intensity": 1800.0,
+      "shadows": true,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP27 fixture source 3",
+      "type": "RectLight",
+      "location": [
+        -4372.0,
+        1090.0,
+        337.0
+      ],
+      "intensity": 850.0,
+      "shadows": true,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP27 fixture source 4",
+      "type": "RectLight",
+      "location": [
+        -4372.0,
+        919.9999999999999,
+        337.0
+      ],
+      "intensity": 850.0,
+      "shadows": true,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP27 fixture source 5",
+      "type": "RectLight",
+      "location": [
+        -4782.0,
+        1250.0,
+        345.5
+      ],
+      "intensity": 950.0,
+      "shadows": true,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP27 fixture source 6",
+      "type": "RectLight",
+      "location": [
+        -4655.0,
+        1755.9999999999998,
+        302.0
+      ],
+      "intensity": 500.0,
+      "shadows": true,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP27 fixture source 7",
+      "type": "RectLight",
+      "location": [
+        -4853.5,
+        1410.0,
+        150.0
+      ],
+      "intensity": 270.0,
+      "shadows": false,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP27 fixture source 8",
+      "type": "RectLight",
+      "location": [
+        -4853.5,
+        1090.0,
+        150.0
+      ],
+      "intensity": 270.0,
+      "shadows": false,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP27 fixture source 9",
+      "type": "RectLight",
+      "location": [
+        -4715.0,
+        844.9999999999999,
+        291.5
+      ],
+      "intensity": 320.0,
+      "shadows": true,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP27 fixture source 10",
+      "type": "RectLight",
+      "location": [
+        -4485.0,
+        844.9999999999999,
+        291.5
+      ],
+      "intensity": 320.0,
+      "shadows": true,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP30 practical 0",
+      "type": "RectLight",
+      "location": [
+        -3950.0,
+        1200.0,
+        349.0
+      ],
+      "intensity": 1350.0,
+      "shadows": true,
+      "attenuation_radius": "400.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP30 practical 1",
+      "type": "RectLight",
+      "location": [
+        -3560.0,
+        1280.0,
+        349.0
+      ],
+      "intensity": 1440.0,
+      "shadows": true,
+      "attenuation_radius": "400.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP30 practical 2",
+      "type": "RectLight",
+      "location": [
+        -3160.0,
+        1080.0,
+        349.0
+      ],
+      "intensity": 1170.0,
+      "shadows": true,
+      "attenuation_radius": "400.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP30 practical 3",
+      "type": "RectLight",
+      "location": [
+        -3160.0,
+        1510.0,
+        349.0
+      ],
+      "intensity": 1170.0,
+      "shadows": true,
+      "attenuation_radius": "400.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP30 practical 4",
+      "type": "RectLight",
+      "location": [
+        -3720.0000000000005,
+        1735.0000000000002,
+        349.0
+      ],
+      "intensity": 630.0,
+      "shadows": true,
+      "attenuation_radius": "400.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP30 practical 5",
+      "type": "RectLight",
+      "location": [
+        -3879.9999999999995,
+        1300.0,
+        342.0
+      ],
+      "intensity": 440.0,
+      "shadows": false,
+      "attenuation_radius": "400.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP30 practical 6",
+      "type": "RectLight",
+      "location": [
+        -3329.9999999999995,
+        1300.0,
+        342.0
+      ],
+      "intensity": 440.0,
+      "shadows": false,
+      "attenuation_radius": "400.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP30 practical 7",
+      "type": "RectLight",
+      "location": [
+        -2670.0,
+        1060.0,
+        330.0
+      ],
+      "intensity": 585.0,
+      "shadows": true,
+      "attenuation_radius": "400.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP30 practical 8",
+      "type": "RectLight",
+      "location": [
+        -2670.0,
+        1460.0,
+        330.0
+      ],
+      "intensity": 585.0,
+      "shadows": true,
+      "attenuation_radius": "400.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP30 practical 9",
+      "type": "RectLight",
+      "location": [
+        -4050.0,
+        880.0000000000001,
+        344.0
+      ],
+      "intensity": 540.0,
+      "shadows": true,
+      "attenuation_radius": "400.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP30 practical 10",
+      "type": "RectLight",
+      "location": [
+        -3840.0,
+        880.0000000000001,
+        344.0
+      ],
+      "intensity": 540.0,
+      "shadows": true,
+      "attenuation_radius": "400.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    }
+  ],
+  "after": [
+    {
+      "name": "Cockpit daylight",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        577.5000095367432,
+        407.0000171661377
+      ],
+      "intensity": 1470.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cockpit ceiling practical",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        214.49999809265137,
+        255.20000457763672
+      ],
+      "intensity": 10.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cockpit rear entry practical",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        71.49999737739563,
+        244.2000150680542
+      ],
+      "intensity": 10.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -179.99999523162842,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.001",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -179.99999523162842,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.002",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -540.0000095367432,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.003",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -540.0000095367432,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.004",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -780.0000190734863,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.005",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -780.0000190734863,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.006",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -1089.9999618530273,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.007",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -1089.9999618530273,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.008",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -1417.5000190734863,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.009",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -1417.5000190734863,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.010",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -1700.0,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.011",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -1700.0,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.012",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -2000.0,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.013",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -2000.0,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.014",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -2300.0,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.015",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -2300.0,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.016",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -2600.0,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.017",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -2600.0,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.018",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -2800.0,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.019",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -2800.0,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.020",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -3120.0000762939453,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.021",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -3120.0000762939453,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.022",
+      "type": "RectLight",
+      "location": [
+        -100.0,
+        -3359.9998474121094,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Cabin broad practical10.023",
+      "type": "RectLight",
+      "location": [
+        100.0,
+        -3359.9998474121094,
+        229.99999523162842
+      ],
+      "intensity": 350.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Lavatory dedicated practical10",
+      "type": "RectLight",
+      "location": [
+        -153.99999618530273,
+        -2943.000030517578,
+        215.00000953674316
+      ],
+      "intensity": 189.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Lavatory dedicated practical10.001",
+      "type": "RectLight",
+      "location": [
+        153.99999618530273,
+        -2943.000030517578,
+        215.00000953674316
+      ],
+      "intensity": 189.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Stair inspection practical10",
+      "type": "RectLight",
+      "location": [
+        -135.0000023841858,
+        -234.99999046325684,
+        34.99999940395355
+      ],
+      "intensity": 140.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Suite reading practical 1L",
+      "type": "RectLight",
+      "location": [
+        -202.99999713897705,
+        -580.0000190734863,
+        108.00000429153442
+      ],
+      "intensity": 21.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Suite reading practical 2L",
+      "type": "RectLight",
+      "location": [
+        -202.99999713897705,
+        -819.9999809265137,
+        108.00000429153442
+      ],
+      "intensity": 21.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Suite reading practical 1R",
+      "type": "RectLight",
+      "location": [
+        202.99999713897705,
+        -580.0000190734863,
+        108.00000429153442
+      ],
+      "intensity": 21.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Suite reading practical 2R",
+      "type": "RectLight",
+      "location": [
+        202.99999713897705,
+        -819.9999809265137,
+        108.00000429153442
+      ],
+      "intensity": 21.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "LIGHT_HoldSoftPool12_0",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -469.9999809265137,
+        -22.499999403953552
+      ],
+      "intensity": 385.0,
+      "shadows": true,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "LIGHT_HoldSoftPool12_1",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -769.9999809265137,
+        -22.499999403953552
+      ],
+      "intensity": 385.0,
+      "shadows": true,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "LIGHT_HoldSoftPool12_2",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -1069.9999809265137,
+        -22.499999403953552
+      ],
+      "intensity": 385.0,
+      "shadows": true,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "LIGHT_HoldSoftPool12_3",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -1369.9999809265137,
+        -22.499999403953552
+      ],
+      "intensity": 385.0,
+      "shadows": true,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "LIGHT_HoldSoftPool12_4",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -1670.0000762939453,
+        -22.499999403953552
+      ],
+      "intensity": 385.0,
+      "shadows": true,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "LIGHT_HoldSoftPool12_5",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -1970.0000762939453,
+        -22.499999403953552
+      ],
+      "intensity": 385.0,
+      "shadows": true,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 0112",
+      "type": "SpotLight",
+      "location": [
+        -175.9000062942505,
+        -1394.9999809265137,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 0212",
+      "type": "SpotLight",
+      "location": [
+        190.70000648498535,
+        -1394.9999809265137,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 0312",
+      "type": "SpotLight",
+      "location": [
+        -27.09999978542328,
+        -1394.9999809265137,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 0412",
+      "type": "SpotLight",
+      "location": [
+        41.89999997615814,
+        -1394.9999809265137,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 0512",
+      "type": "SpotLight",
+      "location": [
+        -175.9000062942505,
+        -1529.9999237060547,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 0612",
+      "type": "SpotLight",
+      "location": [
+        190.70000648498535,
+        -1529.9999237060547,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 0712",
+      "type": "SpotLight",
+      "location": [
+        -27.09999978542328,
+        -1529.9999237060547,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 0812",
+      "type": "SpotLight",
+      "location": [
+        41.89999997615814,
+        -1529.9999237060547,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 0912",
+      "type": "SpotLight",
+      "location": [
+        -175.9000062942505,
+        -1664.9999618530273,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 1012",
+      "type": "SpotLight",
+      "location": [
+        190.70000648498535,
+        -1664.9999618530273,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 1112",
+      "type": "SpotLight",
+      "location": [
+        -27.09999978542328,
+        -1664.9999618530273,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 1212",
+      "type": "SpotLight",
+      "location": [
+        41.89999997615814,
+        -1664.9999618530273,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 1312",
+      "type": "SpotLight",
+      "location": [
+        -175.9000062942505,
+        -1800.0,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 1412",
+      "type": "SpotLight",
+      "location": [
+        190.70000648498535,
+        -1800.0,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 1512",
+      "type": "SpotLight",
+      "location": [
+        -27.09999978542328,
+        -1800.0,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 1612",
+      "type": "SpotLight",
+      "location": [
+        41.89999997615814,
+        -1800.0,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 1712",
+      "type": "SpotLight",
+      "location": [
+        -175.9000062942505,
+        -1935.0000381469727,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 1812",
+      "type": "SpotLight",
+      "location": [
+        190.70000648498535,
+        -1935.0000381469727,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 1912",
+      "type": "SpotLight",
+      "location": [
+        -27.09999978542328,
+        -1935.0000381469727,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 2012",
+      "type": "SpotLight",
+      "location": [
+        41.89999997615814,
+        -1935.0000381469727,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 2112",
+      "type": "SpotLight",
+      "location": [
+        -175.9000062942505,
+        -2069.999885559082,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 2212",
+      "type": "SpotLight",
+      "location": [
+        190.70000648498535,
+        -2069.999885559082,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 2312",
+      "type": "SpotLight",
+      "location": [
+        -27.09999978542328,
+        -2069.999885559082,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 2412",
+      "type": "SpotLight",
+      "location": [
+        41.89999997615814,
+        -2069.999885559082,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 2512",
+      "type": "SpotLight",
+      "location": [
+        -175.9000062942505,
+        -2204.9999237060547,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 2612",
+      "type": "SpotLight",
+      "location": [
+        190.70000648498535,
+        -2204.9999237060547,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 2712",
+      "type": "SpotLight",
+      "location": [
+        -27.09999978542328,
+        -2204.9999237060547,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 2812",
+      "type": "SpotLight",
+      "location": [
+        41.89999997615814,
+        -2204.9999237060547,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 2912",
+      "type": "SpotLight",
+      "location": [
+        -175.9000062942505,
+        -2339.9999618530273,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 3012",
+      "type": "SpotLight",
+      "location": [
+        190.70000648498535,
+        -2339.9999618530273,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 3112",
+      "type": "SpotLight",
+      "location": [
+        -27.09999978542328,
+        -2339.9999618530273,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 3212",
+      "type": "SpotLight",
+      "location": [
+        41.89999997615814,
+        -2339.9999618530273,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 3312",
+      "type": "SpotLight",
+      "location": [
+        -175.9000062942505,
+        -2475.0,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 3412",
+      "type": "SpotLight",
+      "location": [
+        190.70000648498535,
+        -2475.0,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 3512",
+      "type": "SpotLight",
+      "location": [
+        -27.09999978542328,
+        -2475.0,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 3612",
+      "type": "SpotLight",
+      "location": [
+        41.89999997615814,
+        -2475.0,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 3712",
+      "type": "SpotLight",
+      "location": [
+        -175.9000062942505,
+        -2610.0000381469727,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 3812",
+      "type": "SpotLight",
+      "location": [
+        190.70000648498535,
+        -2610.0000381469727,
+        172.00000286102295
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 3912",
+      "type": "SpotLight",
+      "location": [
+        -27.09999978542328,
+        -2610.0000381469727,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "PSU reading practical 4012",
+      "type": "SpotLight",
+      "location": [
+        41.89999997615814,
+        -2610.0000381469727,
+        207.3000192642212
+      ],
+      "intensity": 0.0,
+      "shadows": false,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Extended hold practical13 0",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -2300.0,
+        -25.0
+      ],
+      "intensity": 385.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Extended hold practical13 1",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -2600.0,
+        -25.0
+      ],
+      "intensity": 385.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Extended hold practical13 2",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -2900.0,
+        -25.0
+      ],
+      "intensity": 385.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Extended hold practical13 3",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -3250.0,
+        -25.0
+      ],
+      "intensity": 385.0,
+      "shadows": false,
+      "attenuation_radius": "450.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Ceiling bounce approximation",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -150.0,
+        105.0
+      ],
+      "intensity": 100.0,
+      "shadows": false,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Soft indirect fill",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -150.0,
+        155.0
+      ],
+      "intensity": 160.0,
+      "shadows": false,
+      "attenuation_radius": "380.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Ceiling bounce approximation",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -450.0,
+        105.0
+      ],
+      "intensity": 100.0,
+      "shadows": false,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Soft indirect fill",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -450.0,
+        155.0
+      ],
+      "intensity": 160.0,
+      "shadows": false,
+      "attenuation_radius": "380.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Ceiling bounce approximation",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -750.0,
+        105.0
+      ],
+      "intensity": 100.0,
+      "shadows": false,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Soft indirect fill",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -750.0,
+        155.0
+      ],
+      "intensity": 160.0,
+      "shadows": false,
+      "attenuation_radius": "380.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Ceiling bounce approximation",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -1050.0,
+        105.0
+      ],
+      "intensity": 100.0,
+      "shadows": false,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Soft indirect fill",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -1050.0,
+        155.0
+      ],
+      "intensity": 160.0,
+      "shadows": false,
+      "attenuation_radius": "380.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Ceiling bounce approximation",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -1350.0,
+        105.0
+      ],
+      "intensity": 100.0,
+      "shadows": false,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Soft indirect fill",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -1350.0,
+        155.0
+      ],
+      "intensity": 160.0,
+      "shadows": false,
+      "attenuation_radius": "380.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Ceiling bounce approximation",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -1650.0,
+        105.0
+      ],
+      "intensity": 100.0,
+      "shadows": false,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Soft indirect fill",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -1650.0,
+        155.0
+      ],
+      "intensity": 160.0,
+      "shadows": false,
+      "attenuation_radius": "380.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Ceiling bounce approximation",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -1950.0,
+        105.0
+      ],
+      "intensity": 100.0,
+      "shadows": false,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Soft indirect fill",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -1950.0,
+        155.0
+      ],
+      "intensity": 160.0,
+      "shadows": false,
+      "attenuation_radius": "380.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Ceiling bounce approximation",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -2250.0,
+        105.0
+      ],
+      "intensity": 100.0,
+      "shadows": false,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Soft indirect fill",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -2250.0,
+        155.0
+      ],
+      "intensity": 160.0,
+      "shadows": false,
+      "attenuation_radius": "380.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Ceiling bounce approximation",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -2550.0,
+        105.0
+      ],
+      "intensity": 100.0,
+      "shadows": false,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Soft indirect fill",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -2550.0,
+        155.0
+      ],
+      "intensity": 160.0,
+      "shadows": false,
+      "attenuation_radius": "380.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Ceiling bounce approximation",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -2850.0,
+        105.0
+      ],
+      "intensity": 100.0,
+      "shadows": false,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Soft indirect fill",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -2850.0,
+        155.0
+      ],
+      "intensity": 160.0,
+      "shadows": false,
+      "attenuation_radius": "380.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Ceiling bounce approximation",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -3150.0,
+        105.0
+      ],
+      "intensity": 100.0,
+      "shadows": false,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Soft indirect fill",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -3150.0,
+        155.0
+      ],
+      "intensity": 160.0,
+      "shadows": false,
+      "attenuation_radius": "380.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Ceiling bounce approximation",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        -3450.0,
+        105.0
+      ],
+      "intensity": 100.0,
+      "shadows": false,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Soft indirect fill",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -3450.0,
+        155.0
+      ],
+      "intensity": 160.0,
+      "shadows": false,
+      "attenuation_radius": "380.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Ceiling bounce approximation",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        130.0,
+        105.0
+      ],
+      "intensity": 75.0,
+      "shadows": false,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Soft indirect fill",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        130.0,
+        155.0
+      ],
+      "intensity": 160.0,
+      "shadows": false,
+      "attenuation_radius": "380.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Ceiling bounce approximation",
+      "type": "RectLight",
+      "location": [
+        0.0,
+        280.0,
+        105.0
+      ],
+      "intensity": 75.0,
+      "shadows": false,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Soft indirect fill",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        280.0,
+        155.0
+      ],
+      "intensity": 160.0,
+      "shadows": false,
+      "attenuation_radius": "380.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 1",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -258.2692307692308,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 2",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -514.8076923076924,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 3",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -771.3461538461538,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 4",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -1027.8846153846155,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 5",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -1284.4230769230771,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 6",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -1540.9615384615386,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 7",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -1797.5000000000002,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 8",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -2054.038461538462,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 9",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -2310.5769230769233,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 10",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -2567.1153846153848,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 11",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -2823.653846153846,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 12",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -3080.192307692308,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Forward lower cargo hold warm service fill 13",
+      "type": "PointLight",
+      "location": [
+        0.0,
+        -3336.730769230769,
+        -79.99999999999999
+      ],
+      "intensity": 110.0,
+      "shadows": false,
+      "attenuation_radius": "270.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "Airport daylight",
+      "type": "DirectionalLight",
+      "location": [
+        0.0,
+        0.0,
+        2000.0
+      ],
+      "intensity": 300.0,
+      "shadows": true
+    },
+    {
+      "name": "Airport hemisphere fill",
+      "type": "SkyLight",
+      "location": [
+        0.0,
+        0.0,
+        1800.0
+      ],
+      "intensity": 8.0,
+      "shadows": true,
+      "lower_hemisphere_is_black": "True"
+    },
+    {
+      "name": "AP24 practical 8",
+      "type": "RectLight",
+      "location": [
+        -4660.0,
+        2000.0,
+        302.0
+      ],
+      "intensity": 5000.0,
+      "shadows": true,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 9",
+      "type": "RectLight",
+      "location": [
+        -4180.0,
+        2000.0,
+        302.0
+      ],
+      "intensity": 5000.0,
+      "shadows": true,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 10",
+      "type": "RectLight",
+      "location": [
+        -3700.0,
+        2000.0,
+        302.0
+      ],
+      "intensity": 5000.0,
+      "shadows": true,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 11",
+      "type": "RectLight",
+      "location": [
+        -3220.0000000000005,
+        2000.0,
+        302.0
+      ],
+      "intensity": 5000.0,
+      "shadows": true,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 12",
+      "type": "RectLight",
+      "location": [
+        -2740.0,
+        2000.0,
+        302.0
+      ],
+      "intensity": 5000.0,
+      "shadows": true,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 13",
+      "type": "RectLight",
+      "location": [
+        -4670.0,
+        600.0,
+        322.0
+      ],
+      "intensity": 5000.0,
+      "shadows": true,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 14",
+      "type": "RectLight",
+      "location": [
+        -4210.0,
+        600.0,
+        322.0
+      ],
+      "intensity": 5000.0,
+      "shadows": true,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 15",
+      "type": "RectLight",
+      "location": [
+        -3750.0,
+        600.0,
+        322.0
+      ],
+      "intensity": 5000.0,
+      "shadows": true,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 16",
+      "type": "RectLight",
+      "location": [
+        -3290.0,
+        600.0,
+        322.0
+      ],
+      "intensity": 5000.0,
+      "shadows": true,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 17",
+      "type": "RectLight",
+      "location": [
+        -2830.0,
+        600.0,
+        322.0
+      ],
+      "intensity": 5000.0,
+      "shadows": true,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 18",
+      "type": "RectLight",
+      "location": [
+        -4575.0,
+        125.0,
+        332.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 19",
+      "type": "RectLight",
+      "location": [
+        -4575.0,
+        -425.0,
+        332.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 20",
+      "type": "RectLight",
+      "location": [
+        -3925.0,
+        125.0,
+        332.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 21",
+      "type": "RectLight",
+      "location": [
+        -3925.0,
+        -425.0,
+        332.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 22",
+      "type": "RectLight",
+      "location": [
+        -3400.0,
+        -350.0,
+        311.99999999999994
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 23",
+      "type": "RectLight",
+      "location": [
+        -2900.0,
+        179.99999999999997,
+        402.00000000000006
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 24",
+      "type": "RectLight",
+      "location": [
+        -2900.0,
+        -259.99999999999994,
+        402.00000000000006
+      ],
+      "intensity": 5000.0,
+      "shadows": true,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 25",
+      "type": "RectLight",
+      "location": [
+        -2900.0,
+        -700.0,
+        402.00000000000006
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 26",
+      "type": "RectLight",
+      "location": [
+        -2900.0,
+        -1140.0,
+        402.00000000000006
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 27",
+      "type": "RectLight",
+      "location": [
+        -2900.0,
+        -1580.0,
+        402.00000000000006
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 28",
+      "type": "RectLight",
+      "location": [
+        -2450.0,
+        -200.0,
+        311.99999999999994
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 29",
+      "type": "RectLight",
+      "location": [
+        -2075.0,
+        37.5,
+        342.0
+      ],
+      "intensity": 6500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 30",
+      "type": "RectLight",
+      "location": [
+        -2075.0,
+        -487.5,
+        342.0
+      ],
+      "intensity": 6500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 31",
+      "type": "RectLight",
+      "location": [
+        -1625.0,
+        37.5,
+        342.0
+      ],
+      "intensity": 6500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 32",
+      "type": "RectLight",
+      "location": [
+        -1625.0,
+        -487.5,
+        342.0
+      ],
+      "intensity": 6500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 33",
+      "type": "RectLight",
+      "location": [
+        -2450.0,
+        -1400.0,
+        311.99999999999994
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 34",
+      "type": "RectLight",
+      "location": [
+        -2075.0,
+        -1125.0,
+        342.0
+      ],
+      "intensity": 6500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 35",
+      "type": "RectLight",
+      "location": [
+        -2075.0,
+        -1575.0,
+        342.0
+      ],
+      "intensity": 6500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 36",
+      "type": "RectLight",
+      "location": [
+        -1625.0,
+        -1125.0,
+        342.0
+      ],
+      "intensity": 6500.0,
+      "shadows": true,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 37",
+      "type": "RectLight",
+      "location": [
+        -1625.0,
+        -1575.0,
+        342.0
+      ],
+      "intensity": 6500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 38",
+      "type": "RectLight",
+      "location": [
+        -3400.0,
+        -850.0,
+        311.99999999999994
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 39",
+      "type": "RectLight",
+      "location": [
+        -2450.0,
+        950.0,
+        282.0
+      ],
+      "intensity": 5000.0,
+      "shadows": true,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 40",
+      "type": "RectLight",
+      "location": [
+        -2450.0,
+        450.0,
+        282.0
+      ],
+      "intensity": 5000.0,
+      "shadows": true,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 41",
+      "type": "RectLight",
+      "location": [
+        -2075.0,
+        975.0,
+        261.99999999999994
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 42",
+      "type": "RectLight",
+      "location": [
+        -2075.0,
+        525.0,
+        261.99999999999994
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 43",
+      "type": "RectLight",
+      "location": [
+        -1625.0,
+        975.0,
+        261.99999999999994
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 44",
+      "type": "RectLight",
+      "location": [
+        -1625.0,
+        525.0,
+        261.99999999999994
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 45",
+      "type": "RectLight",
+      "location": [
+        -2225.0,
+        1950.0,
+        342.0
+      ],
+      "intensity": 5000.0,
+      "shadows": true,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 46",
+      "type": "RectLight",
+      "location": [
+        -2225.0,
+        1450.0,
+        342.0
+      ],
+      "intensity": 5000.0,
+      "shadows": true,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 47",
+      "type": "RectLight",
+      "location": [
+        -1675.0,
+        1950.0,
+        342.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 48",
+      "type": "RectLight",
+      "location": [
+        -1675.0,
+        1450.0,
+        342.0
+      ],
+      "intensity": 5000.0,
+      "shadows": true,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 49",
+      "type": "RectLight",
+      "location": [
+        -4575.0,
+        -850.0,
+        282.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 50",
+      "type": "RectLight",
+      "location": [
+        -3925.0,
+        -850.0,
+        282.0
+      ],
+      "intensity": 5000.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 51",
+      "type": "RectLight",
+      "location": [
+        -4600.0,
+        -1639.9999999999998,
+        269.0
+      ],
+      "intensity": 5500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 52",
+      "type": "RectLight",
+      "location": [
+        -4250.0,
+        -1639.9999999999998,
+        269.0
+      ],
+      "intensity": 5500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 53",
+      "type": "RectLight",
+      "location": [
+        -4620.0,
+        -1600.0,
+        605.0
+      ],
+      "intensity": 5500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 54",
+      "type": "RectLight",
+      "location": [
+        -4230.0,
+        -1250.0,
+        605.0
+      ],
+      "intensity": 5500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 55",
+      "type": "RectLight",
+      "location": [
+        -3800.0,
+        -1250.0,
+        380.0
+      ],
+      "intensity": 5500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 56",
+      "type": "RectLight",
+      "location": [
+        -3450.0,
+        -1250.0,
+        380.0
+      ],
+      "intensity": 5500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 57",
+      "type": "RectLight",
+      "location": [
+        -3800.0,
+        -1600.0,
+        380.0
+      ],
+      "intensity": 5500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP24 practical 58",
+      "type": "RectLight",
+      "location": [
+        -3450.0,
+        -1600.0,
+        380.0
+      ],
+      "intensity": 5500.0,
+      "shadows": false,
+      "attenuation_radius": "520.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP25 foyer practical 5",
+      "type": "RectLight",
+      "location": [
+        -4204.0,
+        1480.0,
+        316.0
+      ],
+      "intensity": 1800.0,
+      "shadows": true,
+      "attenuation_radius": "425.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP27 fixture source 0",
+      "type": "RectLight",
+      "location": [
+        -4610.0,
+        1525.0,
+        340.0
+      ],
+      "intensity": 1800.0,
+      "shadows": true,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP27 fixture source 1",
+      "type": "RectLight",
+      "location": [
+        -4610.0,
+        1250.0,
+        340.0
+      ],
+      "intensity": 1800.0,
+      "shadows": true,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP27 fixture source 2",
+      "type": "RectLight",
+      "location": [
+        -4610.0,
+        975.0,
+        340.0
+      ],
+      "intensity": 1800.0,
+      "shadows": true,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP27 fixture source 3",
+      "type": "RectLight",
+      "location": [
+        -4372.0,
+        1090.0,
+        337.0
+      ],
+      "intensity": 850.0,
+      "shadows": true,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP27 fixture source 4",
+      "type": "RectLight",
+      "location": [
+        -4372.0,
+        919.9999999999999,
+        337.0
+      ],
+      "intensity": 850.0,
+      "shadows": true,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP27 fixture source 5",
+      "type": "RectLight",
+      "location": [
+        -4782.0,
+        1250.0,
+        345.5
+      ],
+      "intensity": 950.0,
+      "shadows": true,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP27 fixture source 6",
+      "type": "RectLight",
+      "location": [
+        -4655.0,
+        1755.9999999999998,
+        302.0
+      ],
+      "intensity": 500.0,
+      "shadows": true,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP27 fixture source 7",
+      "type": "RectLight",
+      "location": [
+        -4853.5,
+        1410.0,
+        150.0
+      ],
+      "intensity": 270.0,
+      "shadows": true,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP27 fixture source 8",
+      "type": "RectLight",
+      "location": [
+        -4853.5,
+        1090.0,
+        150.0
+      ],
+      "intensity": 270.0,
+      "shadows": true,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP27 fixture source 9",
+      "type": "RectLight",
+      "location": [
+        -4715.0,
+        844.9999999999999,
+        291.5
+      ],
+      "intensity": 320.0,
+      "shadows": true,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP27 fixture source 10",
+      "type": "RectLight",
+      "location": [
+        -4485.0,
+        844.9999999999999,
+        291.5
+      ],
+      "intensity": 320.0,
+      "shadows": true,
+      "attenuation_radius": "360.0",
+      "intensity_units": "<LightUnits.CANDELAS: 1>"
+    },
+    {
+      "name": "AP32 fixture 0",
+      "type": "RectLight",
+      "location": [
+        -3950.0,
+        1200.0,
+        348.09999999999997
+      ],
+      "intensity": 4200.0,
+      "shadows": true,
+      "attenuation_radius": "620.0",
+      "intensity_units": "<LightUnits.LUMENS: 2>"
+    },
+    {
+      "name": "AP32 fixture 1",
+      "type": "RectLight",
+      "location": [
+        -3560.0,
+        1280.0,
+        348.09999999999997
+      ],
+      "intensity": 4500.0,
+      "shadows": true,
+      "attenuation_radius": "620.0",
+      "intensity_units": "<LightUnits.LUMENS: 2>"
+    },
+    {
+      "name": "AP32 fixture 2",
+      "type": "RectLight",
+      "location": [
+        -3160.0,
+        1080.0,
+        348.09999999999997
+      ],
+      "intensity": 3500.0,
+      "shadows": true,
+      "attenuation_radius": "570.0",
+      "intensity_units": "<LightUnits.LUMENS: 2>"
+    },
+    {
+      "name": "AP32 fixture 3",
+      "type": "RectLight",
+      "location": [
+        -3160.0,
+        1510.0,
+        348.09999999999997
+      ],
+      "intensity": 3500.0,
+      "shadows": true,
+      "attenuation_radius": "570.0",
+      "intensity_units": "<LightUnits.LUMENS: 2>"
+    },
+    {
+      "name": "AP32 fixture 4",
+      "type": "RectLight",
+      "location": [
+        -3720.0000000000005,
+        1735.0000000000002,
+        348.09999999999997
+      ],
+      "intensity": 2100.0,
+      "shadows": true,
+      "attenuation_radius": "480.0",
+      "intensity_units": "<LightUnits.LUMENS: 2>"
+    },
+    {
+      "name": "AP32 fixture 5",
+      "type": "RectLight",
+      "location": [
+        -3879.9999999999995,
+        1300.0,
+        343.40000000000003
+      ],
+      "intensity": 2500.0,
+      "shadows": true,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.LUMENS: 2>"
+    },
+    {
+      "name": "AP32 fixture 6",
+      "type": "RectLight",
+      "location": [
+        -3329.9999999999995,
+        1300.0,
+        343.40000000000003
+      ],
+      "intensity": 2500.0,
+      "shadows": true,
+      "attenuation_radius": "175.0",
+      "intensity_units": "<LightUnits.LUMENS: 2>"
+    },
+    {
+      "name": "AP32 fixture 7",
+      "type": "RectLight",
+      "location": [
+        -2666.0,
+        1060.0,
+        330.90000000000003
+      ],
+      "intensity": 950.0,
+      "shadows": true,
+      "attenuation_radius": "250.0",
+      "intensity_units": "<LightUnits.LUMENS: 2>"
+    },
+    {
+      "name": "AP32 fixture 8",
+      "type": "RectLight",
+      "location": [
+        -2666.0,
+        1460.0,
+        330.90000000000003
+      ],
+      "intensity": 950.0,
+      "shadows": true,
+      "attenuation_radius": "250.0",
+      "intensity_units": "<LightUnits.LUMENS: 2>"
+    },
+    {
+      "name": "AP32 fixture 9",
+      "type": "RectLight",
+      "location": [
+        -4050.0,
+        880.0000000000001,
+        343.2
+      ],
+      "intensity": 850.0,
+      "shadows": true,
+      "attenuation_radius": "260.0",
+      "intensity_units": "<LightUnits.LUMENS: 2>"
+    },
+    {
+      "name": "AP32 fixture 10",
+      "type": "RectLight",
+      "location": [
+        -3840.0,
+        880.0000000000001,
+        343.2
+      ],
+      "intensity": 850.0,
+      "shadows": true,
+      "attenuation_radius": "260.0",
+      "intensity_units": "<LightUnits.LUMENS: 2>"
+    }
+  ],
+  "changes": [
+    "Airport hemisphere fill: lower ambient fill, black lower hemisphere",
+    "AP24 practical 8: partition shadows enabled",
+    "AP24 practical 9: partition shadows enabled",
+    "AP24 practical 10: partition shadows enabled",
+    "AP24 practical 11: partition shadows enabled",
+    "AP24 practical 12: partition shadows enabled",
+    "AP24 practical 13: partition shadows enabled",
+    "AP24 practical 14: partition shadows enabled",
+    "AP24 practical 15: partition shadows enabled",
+    "AP24 practical 16: partition shadows enabled",
+    "AP24 practical 17: partition shadows enabled",
+    "AP24 practical 39: partition shadows enabled",
+    "AP24 practical 40: partition shadows enabled",
+    "AP24 practical 45: partition shadows enabled",
+    "AP24 practical 46: partition shadows enabled",
+    "AP25 foyer practical 5: partition shadows enabled",
+    "AP27 fixture source 0: partition shadows enabled",
+    "AP27 fixture source 1: partition shadows enabled",
+    "AP27 fixture source 2: partition shadows enabled",
+    "AP27 fixture source 3: partition shadows enabled",
+    "AP27 fixture source 4: partition shadows enabled",
+    "AP27 fixture source 5: partition shadows enabled",
+    "AP27 fixture source 6: partition shadows enabled",
+    "AP27 fixture source 7: partition shadows enabled",
+    "AP27 fixture source 8: partition shadows enabled",
+    "AP27 fixture source 9: partition shadows enabled",
+    "AP27 fixture source 10: partition shadows enabled",
+    "AP30 practical 0: partition shadows enabled",
+    "AP30 practical 1: partition shadows enabled",
+    "AP30 practical 2: partition shadows enabled",
+    "AP30 practical 3: partition shadows enabled",
+    "AP30 practical 4: partition shadows enabled",
+    "AP30 practical 5: partition shadows enabled",
+    "AP30 practical 6: partition shadows enabled",
+    "AP30 practical 7: partition shadows enabled",
+    "AP30 practical 8: partition shadows enabled",
+    "AP30 practical 9: partition shadows enabled",
+    "AP30 practical 10: partition shadows enabled"
+  ],
+  "map": "/Game/Airport32/L_Airport_Lighting32",
+  "finished": 1793204072.2457633,
+  "geometry_imports": 0,
+  "fixture_sources": 11
+}

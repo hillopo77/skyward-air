@@ -1,0 +1,157 @@
+{
+ "status": "SUCCESS",
+ "posters": [
+  {
+   "actor": "Public return poster47 0",
+   "poster": "AzureBay",
+   "wall": "north",
+   "yaw": 0.0,
+   "screen_slots": [
+    "MI_AP_Screen"
+   ],
+   "x": [
+    -45.23,
+    -42.77
+   ],
+   "y": [
+    -18.203,
+    -18.092
+   ],
+   "z": [
+    1.28,
+    2.62
+   ]
+  },
+  {
+   "actor": "Public return poster47 1",
+   "poster": "Highlands",
+   "wall": "north",
+   "yaw": 0.0,
+   "screen_slots": [
+    "MI_AP_Screen"
+   ],
+   "x": [
+    -35.23,
+    -32.77
+   ],
+   "y": [
+    -18.203,
+    -18.092
+   ],
+   "z": [
+    1.28,
+    2.62
+   ]
+  },
+  {
+   "actor": "Public return poster47 2",
+   "poster": "CoralCoast",
+   "wall": "south",
+   "yaw": 180.0,
+   "screen_slots": [
+    "MI_AP_Screen"
+   ],
+   "x": [
+    -41.23,
+    -38.77
+   ],
+   "y": [
+    -21.908,
+    -21.797
+   ],
+   "z": [
+    1.28,
+    2.62
+   ]
+  },
+  {
+   "actor": "Landside poster47 0",
+   "poster": "AzureBay",
+   "wall": "south",
+   "yaw": 180.0,
+   "screen_slots": [
+    "MI_AP_Screen"
+   ],
+   "x": [
+    -47.23,
+    -44.77
+   ],
+   "y": [
+    -7.908,
+    -7.797
+   ],
+   "z": [
+    1.28,
+    2.62
+   ]
+  },
+  {
+   "actor": "Landside poster47 1",
+   "poster": "CoralCoast",
+   "wall": "north",
+   "yaw": 0.0,
+   "screen_slots": [
+    "MI_AP_Screen"
+   ],
+   "x": [
+    -34.73,
+    -32.27
+   ],
+   "y": [
+    -4.203,
+    -4.092
+   ],
+   "z": [
+    1.28,
+    2.62
+   ]
+  },
+  {
+   "actor": "Recovery poster47 0",
+   "poster": "Highlands",
+   "wall": "south",
+   "yaw": 180.0,
+   "screen_slots": [
+    "MI_AP_Screen"
+   ],
+   "x": [
+    -35.23,
+    -32.77
+   ],
+   "y": [
+    0.092,
+    0.203
+   ],
+   "z": [
+    1.28,
+    2.62
+   ]
+  },
+  {
+   "actor": "Recovery poster47 1",
+   "poster": "AzureBay",
+   "wall": "east",
+   "yaw": 90.0,
+   "screen_slots": [
+    "MI_AP_Screen"
+   ],
+   "x": [
+    -32.2,
+    -32.09
+   ],
+   "y": [
+    1.22,
+    3.68
+   ],
+   "z": [
+    1.28,
+    2.62
+   ]
+  }
+ ],
+ "materials": {
+  "AzureBay": "/Game/Airport38/Pass47/Posters/MI_AP_Poster47_AzureBay.MI_AP_Poster47_AzureBay",
+  "Highlands": "/Game/Airport38/Pass47/Posters/MI_AP_Poster47_Highlands.MI_AP_Poster47_Highlands",
+  "CoralCoast": "/Game/Airport38/Pass47/Posters/MI_AP_Poster47_CoralCoast.MI_AP_Poster47_CoralCoast"
+ }
+}

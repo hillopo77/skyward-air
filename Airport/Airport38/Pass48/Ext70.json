@@ -1,0 +1,239 @@
+{
+ "status": "SUCCESS",
+ "stations": [
+  {
+   "station": "Safety station 0",
+   "extinguisher": "Usable extinguisher 0",
+   "at": [
+    -43.2,
+    -17.15,
+    0.0
+   ],
+   "centre": [
+    -43.295,
+    -17.15,
+    0.8339569854736328
+   ],
+   "yaw": 90.0,
+   "ext_at": [
+    -43.5,
+    -17.15,
+    0.48
+   ],
+   "hits": [
+    {
+     "dir": [
+      0,
+      1
+     ],
+     "dist": 76.0,
+     "point": [
+      -43.295,
+      -17.91,
+      1.0
+     ],
+     "normal": [
+      0.0,
+      -1.0
+     ],
+     "actor": "Airport38 complete physical perimeter and partitions"
+    }
+   ],
+   "floor": 0.0
+  },
+  {
+   "station": "Safety station 1",
+   "extinguisher": "Usable extinguisher 1",
+   "at": [
+    -26.7,
+    -5.0,
+    0.0
+   ],
+   "centre": [
+    -26.612500009536742,
+    -5.0,
+    0.9375
+   ],
+   "yaw": -90.0,
+   "ext_at": [
+    -26.4,
+    -5.0,
+    0.48
+   ],
+   "hits": [
+    {
+     "dir": [
+      1,
+      0
+     ],
+     "dist": 52.2,
+     "point": [
+      -26.09,
+      -5.0,
+      1.0
+     ],
+     "normal": [
+      -1.0,
+      0.0
+     ],
+     "actor": "Airport38 complete physical perimeter and partitions"
+    },
+    {
+     "dir": [
+      0,
+      -1
+     ],
+     "dist": 91.0,
+     "point": [
+      -26.612500009536742,
+      -4.089999694824218,
+      1.0
+     ],
+     "normal": [
+      0.0,
+      1.0
+     ],
+     "actor": "Airport38 complete physical perimeter and partitions"
+    }
+   ],
+   "floor": 0.0
+  },
+  {
+   "station": "Safety station 2",
+   "extinguisher": "Usable extinguisher 2",
+   "at": [
+    -37.1,
+    9.1,
+    0.0
+   ],
+   "centre": [
+    -37.1,
+    9.187499990463257,
+    0.9375
+   ],
+   "yaw": 180.0,
+   "ext_at": [
+    -37.1,
+    9.4,
+    0.48
+   ],
+   "hits": [
+    {
+     "dir": [
+      1,
+      0
+     ],
+     "dist": 101.0,
+     "point": [
+      -36.09,
+      9.187499990463257,
+      1.0
+     ],
+     "normal": [
+      -1.0,
+      0.0
+     ],
+     "actor": "Airport38 complete physical perimeter and partitions"
+    },
+    {
+     "dir": [
+      0,
+      -1
+     ],
+     "dist": 72.2,
+     "point": [
+      -37.1,
+      9.91,
+      1.0
+     ],
+     "normal": [
+      0.0,
+      1.0
+     ],
+     "actor": "Airport38 complete physical perimeter and partitions"
+    }
+   ],
+   "floor": 0.0
+  },
+  {
+   "station": "Safety station 3",
+   "extinguisher": "Usable extinguisher 3",
+   "at": [
+    -29.45,
+    32.6,
+    0.0
+   ],
+   "centre": [
+    -29.45,
+    32.68749999046326,
+    0.9375
+   ],
+   "yaw": 180.0,
+   "ext_at": [
+    -29.15,
+    32.55,
+    0.1
+   ],
+   "hits": [
+    {
+     "dir": [
+      0,
+      -1
+     ],
+     "dist": 122.2,
+     "point": [
+      -29.45,
+      33.91,
+      1.0
+     ],
+     "normal": [
+      0.0,
+      1.0
+     ],
+     "actor": "Airport38 complete physical perimeter and partitions"
+    }
+   ],
+   "floor": 0.0
+  },
+  {
+   "station": "Safety station 4",
+   "extinguisher": "Usable extinguisher 4",
+   "at": [
+    -33.0,
+    32.0,
+    0.0
+   ],
+   "centre": [
+    -33.0,
+    32.08749999046326,
+    0.9375
+   ],
+   "yaw": 180.0,
+   "ext_at": [
+    -33.0,
+    32.3,
+    0.48
+   ],
+   "hits": [
+    {
+     "dir": [
+      1,
+      0
+     ],
+     "dist": 91.0,
+     "point": [
+      -32.09,
+      32.08749999046326,
+      1.0
+     ],
+     "normal": [
+      -1.0,
+      0.0
+     ],
+     "actor": "Airport38 complete physical perimeter and partitions"
+    }
+   ],
+   "floor": 0.0
+  }
+ ]
+}

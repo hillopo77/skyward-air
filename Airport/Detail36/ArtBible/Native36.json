@@ -1,0 +1,27 @@
+{
+  "status": "SUCCESS",
+  "started": 1793271454.0859146,
+  "map": "/Game/Airport36/L_Airport_Detail36",
+  "finished": 1793271489.843429,
+  "source_sha256": "6cff758f1e4c6e471be1d90a1f80d681f2a55232305e0ed8d8285c81aa18f7e2",
+  "families": 18,
+  "wing_bounds": [
+    {
+      "mesh": "SM_Plane_ExteriorAirframe",
+      "min_x": -22.6681640625,
+      "max_x": 22.6681640625
+    }
+  ],
+  "obsolete_wayfinding_text_removed": 36,
+  "refined_meshes": [
+    "SM_AP_Bakery36",
+    "SM_AP_Bins36",
+    "SM_AP_Espresso36",
+    "SM_AP_Identity36",
+    "SM_AP_POS36",
+    "SM_AP_ScreeningGlass36",
+    "SM_AP_TableSetting36",
+    "SM_AP_Tea36"
+  ],
+  "sightline_plant_moved": true
+}

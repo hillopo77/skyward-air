@@ -1,0 +1,119 @@
+[
+  {
+    "pixel": [
+      130,
+      260
+    ],
+    "hit": true,
+    "owner": "W41 continuous rolled collar shields actual guide channels.001",
+    "point": [
+      2.3070850372314453,
+      0.3517243564128876,
+      1.7866201400756836
+    ]
+  },
+  {
+    "pixel": [
+      132,
+      320
+    ],
+    "hit": true,
+    "owner": "W41 continuous rolled collar shields actual guide channels.001",
+    "point": [
+      2.3034839630126953,
+      0.3486582934856415,
+      1.674172043800354
+    ]
+  },
+  {
+    "pixel": [
+      139,
+      370
+    ],
+    "hit": true,
+    "owner": "W41 continuous rolled collar shields actual guide channels.001",
+    "point": [
+      2.3319826126098633,
+      0.3474161624908447,
+      1.5789905786514282
+    ]
+  },
+  {
+    "pixel": [
+      148,
+      450
+    ],
+    "hit": true,
+    "owner": "W41 continuous rolled collar shields actual guide channels.001",
+    "point": [
+      2.378024101257324,
+      0.34887659549713135,
+      1.41627836227417
+    ]
+  },
+  {
+    "pixel": [
+      160,
+      540
+    ],
+    "hit": true,
+    "owner": "W41 continuous rolled collar shields actual guide channels.001",
+    "point": [
+      2.4471325874328613,
+      0.35090091824531555,
+      1.212792992591858
+    ]
+  },
+  {
+    "pixel": [
+      540,
+      310
+    ],
+    "hit": true,
+    "owner": "W41 continuous rolled collar shields actual guide channels.001",
+    "point": [
+      2.2218356132507324,
+      -0.3849043846130371,
+      1.6842583417892456
+    ]
+  },
+  {
+    "pixel": [
+      543,
+      450
+    ],
+    "hit": true,
+    "owner": "W41 continuous rolled collar shields actual guide channels.001",
+    "point": [
+      2.323669910430908,
+      -0.4152992069721222,
+      1.4358243942260742
+    ]
+  },
+  {
+    "pixel": [
+      320,
+      200
+    ],
+    "hit": true,
+    "owner": "W40 single curved laminated optical pane.003",
+    "point": [
+      2.386784315109253,
+      0.0007374286651611328,
+      1.9060431718826294
+    ]
+  },
+  {
+    "pixel": [
+      320,
+      400
+    ],
+    "hit": true,
+    "owner": "W40 single curved laminated optical pane.003",
+    "point": [
+      2.4606900215148926,
+      0.008770644664764404,
+      1.5141528844833374
+    ]
+  }
+]

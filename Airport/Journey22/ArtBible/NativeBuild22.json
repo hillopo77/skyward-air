@@ -1,0 +1,23 @@
+{
+  "status": "SUCCESS",
+  "started": 1793041407.7316124,
+  "finished": 1793041411.1509397,
+  "map": "/Game/Airport12/L_Airport_Journey22",
+  "base": "/Game/Airport12/L_Airport_Characters21",
+  "removed_review_actors": [
+    "CH17 Hero terminal art review",
+    "CH21 Pilot terminal art review"
+  ],
+  "story_bindings": [
+    {
+      "id": "antagonist_01",
+      "actor": "CH12 Cabin passenger 0",
+      "name": "Eli Arden"
+    },
+    {
+      "id": "antagonist_02",
+      "actor": "CH12 Cabin passenger 1",
+      "name": "Jonah Hale"
+    }
+  ]
+}

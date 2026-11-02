@@ -1,0 +1,1537 @@
+{
+  "props_metallic": {
+    "4k": {
+      "jpg": {
+        "size": 446821,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_props_metallic_4k.jpg",
+        "md5": "84dba8f53be4eb80aef3856dccaac4a9"
+      },
+      "png": {
+        "size": 394159,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_props_metallic_4k.png",
+        "md5": "98f07df8997dd5f38c2a9db4052ce6b0"
+      },
+      "exr": {
+        "size": 905441,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CoffeeCart_01/CoffeeCart_01_props_metallic_4k.exr",
+        "md5": "21603ac3ae74ebf972451ad6a2df463e"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 161329,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_props_metallic_2k.jpg",
+        "md5": "d6da500a44599e1dfe72ec8ee2e1c8ca"
+      },
+      "png": {
+        "size": 167563,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_props_metallic_2k.png",
+        "md5": "be88156c114554720a8e5112a77ca985"
+      },
+      "exr": {
+        "size": 359775,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CoffeeCart_01/CoffeeCart_01_props_metallic_2k.exr",
+        "md5": "114fa61c0ce342348ec4382dee3032ce"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 61737,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_props_metallic_1k.jpg",
+        "md5": "eeee105749885fba949ee9a9f505c702"
+      },
+      "png": {
+        "size": 63059,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_props_metallic_1k.png",
+        "md5": "32b0b825eaa10dbbe740611c77502e7a"
+      },
+      "exr": {
+        "size": 134547,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CoffeeCart_01/CoffeeCart_01_props_metallic_1k.exr",
+        "md5": "559cbb344448fa5755fe7b8ab873baac"
+      }
+    }
+  },
+  "mugs_diff": {
+    "4k": {
+      "jpg": {
+        "size": 262835,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_mugs_diff_4k.jpg",
+        "md5": "924824864e7052f67044de035c8179cd"
+      },
+      "png": {
+        "size": 58789,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_mugs_diff_4k.png",
+        "md5": "408508afeac6b397fe0f1da3e80b031c"
+      },
+      "exr": {
+        "size": 29110,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CoffeeCart_01/CoffeeCart_01_mugs_diff_4k.exr",
+        "md5": "4d18fca4718a28fa164322fd09faac45"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 66227,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_mugs_diff_2k.jpg",
+        "md5": "8a9a6799293eb024ce983bd35521f335"
+      },
+      "png": {
+        "size": 16923,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_mugs_diff_2k.png",
+        "md5": "b8f15805517b9f42ef23aa1b37dd031b"
+      },
+      "exr": {
+        "size": 13366,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CoffeeCart_01/CoffeeCart_01_mugs_diff_2k.exr",
+        "md5": "0bff033e4acf0f91ce8f6b3bab0ada14"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 17075,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_mugs_diff_1k.jpg",
+        "md5": "609814b65990501c03b2cf2458205a76"
+      },
+      "png": {
+        "size": 5377,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_mugs_diff_1k.png",
+        "md5": "e0f721f172be6c39506078b56d2edb56"
+      },
+      "exr": {
+        "size": 6550,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CoffeeCart_01/CoffeeCart_01_mugs_diff_1k.exr",
+        "md5": "dbc9e61b459053f90ed3dcb04cdb3dd2"
+      }
+    }
+  },
+  "blend": {
+    "4k": {
+      "blend": {
+        "include": {
+          "textures/CoffeeCart_01_props_nor_gl_4k.png": {
+            "size": 4201637,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_props_nor_gl_4k.png",
+            "md5": "491811a54d87e7be14344ae7afeb878a"
+          },
+          "textures/CoffeeCart_01_props_metallic_4k.png": {
+            "size": 394159,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_props_metallic_4k.png",
+            "md5": "98f07df8997dd5f38c2a9db4052ce6b0"
+          },
+          "textures/CoffeeCart_01_props_diff_4k.png": {
+            "size": 9599929,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_props_diff_4k.png",
+            "md5": "0ded55785f3eca24b42b2b1bee71e920"
+          },
+          "textures/CoffeeCart_01_cart_nor_gl_4k.png": {
+            "size": 3012433,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_cart_nor_gl_4k.png",
+            "md5": "e31a29e462cd5bbe01a3202c2501c391"
+          },
+          "textures/CoffeeCart_01_cart_metallic_4k.png": {
+            "size": 43805,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_cart_metallic_4k.png",
+            "md5": "91c8b65148256bdd0e806ce17d22895d"
+          },
+          "textures/CoffeeCart_01_cart_diff_4k.png": {
+            "size": 9411256,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_cart_diff_4k.png",
+            "md5": "e13fc68102aad190aa93273c38e98724"
+          },
+          "textures/CoffeeCart_01_props_roughness_4k.png": {
+            "size": 4927315,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_props_roughness_4k.png",
+            "md5": "5613e88352116545b185c32019f5028f"
+          },
+          "textures/CoffeeCart_01_cart_roughness_4k.png": {
+            "size": 4269686,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_cart_roughness_4k.png",
+            "md5": "ceae19614943630379f135569e84d050"
+          }
+        },
+        "size": 1088458,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/CoffeeCart_01/CoffeeCart_01_4k.blend",
+        "md5": "31347b2fef6c5bacd1e4675931057436"
+      }
+    },
+    "2k": {
+      "blend": {
+        "include": {
+          "textures/CoffeeCart_01_props_diff_2k.png": {
+            "size": 3640662,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_props_diff_2k.png",
+            "md5": "25d04f5a376723437ecf18d8fdc0b32e"
+          },
+          "textures/CoffeeCart_01_props_roughness_2k.png": {
+            "size": 1777048,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_props_roughness_2k.png",
+            "md5": "c3aa60660cb2af558cc95a7f81a1db0a"
+          },
+          "textures/CoffeeCart_01_cart_metallic_2k.png": {
+            "size": 23863,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_cart_metallic_2k.png",
+            "md5": "9ad907f77165f1db6debcddde95d1f58"
+          },
+          "textures/CoffeeCart_01_cart_roughness_2k.png": {
+            "size": 1589520,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_cart_roughness_2k.png",
+            "md5": "bed7ccc98016162a18bed77aef0d4284"
+          },
+          "textures/CoffeeCart_01_props_metallic_2k.png": {
+            "size": 167563,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_props_metallic_2k.png",
+            "md5": "be88156c114554720a8e5112a77ca985"
+          },
+          "textures/CoffeeCart_01_cart_diff_2k.png": {
+            "size": 3509441,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_cart_diff_2k.png",
+            "md5": "c6f1d4fca5bf38a90d78bd46884a2ed8"
+          },
+          "textures/CoffeeCart_01_props_nor_gl_2k.png": {
+            "size": 1799442,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_props_nor_gl_2k.png",
+            "md5": "3bc0847b4c4e7cd41ac4ebe59294ae7b"
+          },
+          "textures/CoffeeCart_01_cart_nor_gl_2k.png": {
+            "size": 1267498,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_cart_nor_gl_2k.png",
+            "md5": "ff07fa070c17115c0859fe822bae6b28"
+          }
+        },
+        "size": 1088188,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/CoffeeCart_01/CoffeeCart_01_2k.blend",
+        "md5": "d5ec05e91918a27b6a74c0fdb7681acd"
+      }
+    },
+    "1k": {
+      "blend": {
+        "include": {
+          "textures/CoffeeCart_01_props_metallic_1k.png": {
+            "size": 63059,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_props_metallic_1k.png",
+            "md5": "32b0b825eaa10dbbe740611c77502e7a"
+          },
+          "textures/CoffeeCart_01_cart_roughness_1k.png": {
+            "size": 460338,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_cart_roughness_1k.png",
+            "md5": "72a3f681233aa56c53b87675206142d4"
+          },
+          "textures/CoffeeCart_01_cart_nor_gl_1k.png": {
+            "size": 459551,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_cart_nor_gl_1k.png",
+            "md5": "9bb896ccf18f53715173a6e43300329d"
+          },
+          "textures/CoffeeCart_01_cart_metallic_1k.png": {
+            "size": 12970,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_cart_metallic_1k.png",
+            "md5": "cc407e97c40367902e47555b1a13b0a3"
+          },
+          "textures/CoffeeCart_01_props_diff_1k.png": {
+            "size": 1095926,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_props_diff_1k.png",
+            "md5": "290842c062b2747e7f9895e8cab764b0"
+          },
+          "textures/CoffeeCart_01_cart_diff_1k.png": {
+            "size": 1016304,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_cart_diff_1k.png",
+            "md5": "3e9eb6af7ef1ffe8eddf0ca15af5a049"
+          },
+          "textures/CoffeeCart_01_props_nor_gl_1k.png": {
+            "size": 644534,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_props_nor_gl_1k.png",
+            "md5": "078cd0d11c3de1f680df449651ec6aec"
+          },
+          "textures/CoffeeCart_01_props_roughness_1k.png": {
+            "size": 517658,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_props_roughness_1k.png",
+            "md5": "35d2576a09733afc0d3e0d617ee19a0a"
+          }
+        },
+        "size": 1088416,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/CoffeeCart_01/CoffeeCart_01_1k.blend",
+        "md5": "171ea6c7485cdfe30e32d4b5b880d9b3"
+      }
+    }
+  },
+  "gltf": {
+    "4k": {
+      "gltf": {
+        "include": {
+          "textures/CoffeeCart_01_cart_diff_4k.jpg": {
+            "size": 1255055,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_cart_diff_4k.jpg",
+            "md5": "761e115da905b8a7006dca72c85fd910"
+          },
+          "textures/CoffeeCart_01_cart_arm_4k.jpg": {
+            "size": 1555640,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_cart_arm_4k.jpg",
+            "md5": "89f54cfab23bf1e7ff012d494a4cd429"
+          },
+          "CoffeeCart_01.bin": {
+            "size": 865700,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/CoffeeCart_01/CoffeeCart_01.bin",
+            "md5": "ef3a282d8fbf3ab6c5d91219be61e69a"
+          },
+          "textures/CoffeeCart_01_props_nor_gl_4k.jpg": {
+            "size": 1198288,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_props_nor_gl_4k.jpg",
+            "md5": "2c8c7d866920ebfbb6bbbfbfe8f3af16"
+          },
+          "textures/CoffeeCart_01_props_arm_4k.jpg": {
+            "size": 1838246,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_props_arm_4k.jpg",
+            "md5": "b2b120c73380287a32865a41bda1a47b"
+          },
+          "textures/CoffeeCart_01_props_diff_4k.jpg": {
+            "size": 1411167,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_props_diff_4k.jpg",
+            "md5": "2028c1b9f4111f7a71ffd6e5892ebadf"
+          },
+          "textures/CoffeeCart_01_cart_nor_gl_4k.jpg": {
+            "size": 1323231,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_cart_nor_gl_4k.jpg",
+            "md5": "e55d9532b20c630f21e0fd0907bcbf05"
+          }
+        },
+        "size": 6637,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/CoffeeCart_01/CoffeeCart_01_4k.gltf",
+        "md5": "7d7f3295630e043dbd155352f971df59"
+      }
+    },
+    "2k": {
+      "gltf": {
+        "include": {
+          "textures/CoffeeCart_01_cart_diff_2k.jpg": {
+            "size": 401955,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_cart_diff_2k.jpg",
+            "md5": "76b8b5238122ea9ebacf85952d199a98"
+          },
+          "textures/CoffeeCart_01_props_nor_gl_2k.jpg": {
+            "size": 439426,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_props_nor_gl_2k.jpg",
+            "md5": "71d49edcb4bb8b4de8020806203f225f"
+          },
+          "CoffeeCart_01.bin": {
+            "size": 865700,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/CoffeeCart_01/CoffeeCart_01.bin",
+            "md5": "ef3a282d8fbf3ab6c5d91219be61e69a"
+          },
+          "textures/CoffeeCart_01_cart_nor_gl_2k.jpg": {
+            "size": 496228,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_cart_nor_gl_2k.jpg",
+            "md5": "44d85503aae0de59b0c4f23732e187ac"
+          },
+          "textures/CoffeeCart_01_cart_arm_2k.jpg": {
+            "size": 511101,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_cart_arm_2k.jpg",
+            "md5": "f2b709afd52e2371a8e0556d058180a0"
+          },
+          "textures/CoffeeCart_01_props_arm_2k.jpg": {
+            "size": 620502,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_props_arm_2k.jpg",
+            "md5": "74256cafc7d978f3f0a8891d6b9a2192"
+          },
+          "textures/CoffeeCart_01_props_diff_2k.jpg": {
+            "size": 492206,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_props_diff_2k.jpg",
+            "md5": "72f9a9a7e9e4f10442d8b559df980ce5"
+          }
+        },
+        "size": 6637,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/CoffeeCart_01/CoffeeCart_01_2k.gltf",
+        "md5": "a205007985fd3cd02e47512e1361dbc1"
+      }
+    },
+    "1k": {
+      "gltf": {
+        "include": {
+          "textures/CoffeeCart_01_cart_arm_1k.jpg": {
+            "size": 159358,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_cart_arm_1k.jpg",
+            "md5": "83254d27de5af53360d06f774d94baa9"
+          },
+          "textures/CoffeeCart_01_props_arm_1k.jpg": {
+            "size": 198809,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_props_arm_1k.jpg",
+            "md5": "b4b2e1aa668e757e67666cdf092ddd54"
+          },
+          "CoffeeCart_01.bin": {
+            "size": 865700,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/CoffeeCart_01/CoffeeCart_01.bin",
+            "md5": "ef3a282d8fbf3ab6c5d91219be61e69a"
+          },
+          "textures/CoffeeCart_01_props_nor_gl_1k.jpg": {
+            "size": 156633,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_props_nor_gl_1k.jpg",
+            "md5": "119787e463389d7877b4bfa96cc569ca"
+          },
+          "textures/CoffeeCart_01_cart_nor_gl_1k.jpg": {
+            "size": 171213,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_cart_nor_gl_1k.jpg",
+            "md5": "52e3125e23024b146ffe195488283641"
+          },
+          "textures/CoffeeCart_01_cart_diff_1k.jpg": {
+            "size": 118396,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_cart_diff_1k.jpg",
+            "md5": "d8fbad3535234e02aa278ec6dc74d15e"
+          },
+          "textures/CoffeeCart_01_props_diff_1k.jpg": {
+            "size": 158758,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_props_diff_1k.jpg",
+            "md5": "022cf4bfd25543f932efd1786d2961e7"
+          }
+        },
+        "size": 6637,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/CoffeeCart_01/CoffeeCart_01_1k.gltf",
+        "md5": "29a775b98a898b38dc8a34b53e2a65e9"
+      }
+    }
+  },
+  "props_arm": {
+    "4k": {
+      "jpg": {
+        "size": 1838246,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_props_arm_4k.jpg",
+        "md5": "b2b120c73380287a32865a41bda1a47b"
+      },
+      "png": {
+        "size": 11293385,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_props_arm_4k.png",
+        "md5": "f2b624d085df06df4978156fed095034"
+      },
+      "exr": {
+        "size": 13185354,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CoffeeCart_01/CoffeeCart_01_props_arm_4k.exr",
+        "md5": "e415b98e48ec05d9cff2700a5022679a"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 620502,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_props_arm_2k.jpg",
+        "md5": "74256cafc7d978f3f0a8891d6b9a2192"
+      },
+      "png": {
+        "size": 4208631,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_props_arm_2k.png",
+        "md5": "c7626dda4fa54ed704d0c3b3de175a05"
+      },
+      "exr": {
+        "size": 5237373,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CoffeeCart_01/CoffeeCart_01_props_arm_2k.exr",
+        "md5": "51a2b2346da1a61b2338e5ce15090c77"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 198809,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_props_arm_1k.jpg",
+        "md5": "b4b2e1aa668e757e67666cdf092ddd54"
+      },
+      "png": {
+        "size": 1202513,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_props_arm_1k.png",
+        "md5": "d50a602a2bf41189c645bfaaca03aa33"
+      },
+      "exr": {
+        "size": 1609423,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CoffeeCart_01/CoffeeCart_01_props_arm_1k.exr",
+        "md5": "18247229e4d1fc6f2f35bc9c5a1a3b00"
+      }
+    }
+  },
+  "props_nor_dx": {
+    "4k": {
+      "jpg": {
+        "size": 1195855,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_props_nor_dx_4k.jpg",
+        "md5": "b456e8ca7aeb9220bae24b21ec444c8d"
+      },
+      "png": {
+        "size": 4144613,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_props_nor_dx_4k.png",
+        "md5": "ddb17494c7e7e02987e1eb695d7f1f45"
+      },
+      "exr": {
+        "size": 6906818,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CoffeeCart_01/CoffeeCart_01_props_nor_dx_4k.exr",
+        "md5": "92174c9fdc7ad69418dc88c3c9563c8a"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 439381,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_props_nor_dx_2k.jpg",
+        "md5": "708ac80bf374448354a2f63a342236a9"
+      },
+      "png": {
+        "size": 1801831,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_props_nor_dx_2k.png",
+        "md5": "f42496d7828e03e00fc6023870ff5511"
+      },
+      "exr": {
+        "size": 2543398,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CoffeeCart_01/CoffeeCart_01_props_nor_dx_2k.exr",
+        "md5": "c4bf5137dbc08bd0f45be41809f9a594"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 156218,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_props_nor_dx_1k.jpg",
+        "md5": "f92cd36233f8d0b872050f70a35d992c"
+      },
+      "png": {
+        "size": 644872,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_props_nor_dx_1k.png",
+        "md5": "64b94e4cd35a599408c5fbcc313b5f27"
+      },
+      "exr": {
+        "size": 905466,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CoffeeCart_01/CoffeeCart_01_props_nor_dx_1k.exr",
+        "md5": "8b2efbf446b92a4e59cc70e336b91263"
+      }
+    }
+  },
+  "usd": {
+    "4k": {
+      "usd": {
+        "include": {
+          "textures/CoffeeCart_01_props_nor_gl_4k.png": {
+            "size": 4201637,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_props_nor_gl_4k.png",
+            "md5": "491811a54d87e7be14344ae7afeb878a"
+          },
+          "textures/CoffeeCart_01_props_metallic_4k.png": {
+            "size": 394159,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_props_metallic_4k.png",
+            "md5": "98f07df8997dd5f38c2a9db4052ce6b0"
+          },
+          "textures/CoffeeCart_01_props_diff_4k.png": {
+            "size": 9599929,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_props_diff_4k.png",
+            "md5": "0ded55785f3eca24b42b2b1bee71e920"
+          },
+          "textures/CoffeeCart_01_cart_nor_gl_4k.png": {
+            "size": 3012433,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_cart_nor_gl_4k.png",
+            "md5": "e31a29e462cd5bbe01a3202c2501c391"
+          },
+          "textures/CoffeeCart_01_cart_metallic_4k.png": {
+            "size": 43805,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_cart_metallic_4k.png",
+            "md5": "91c8b65148256bdd0e806ce17d22895d"
+          },
+          "textures/CoffeeCart_01_cart_diff_4k.png": {
+            "size": 9411256,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_cart_diff_4k.png",
+            "md5": "e13fc68102aad190aa93273c38e98724"
+          },
+          "textures/CoffeeCart_01_props_roughness_4k.png": {
+            "size": 4927315,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_props_roughness_4k.png",
+            "md5": "5613e88352116545b185c32019f5028f"
+          },
+          "textures/CoffeeCart_01_cart_roughness_4k.png": {
+            "size": 4269686,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_cart_roughness_4k.png",
+            "md5": "ceae19614943630379f135569e84d050"
+          }
+        },
+        "size": 1879706,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/CoffeeCart_01/CoffeeCart_01_4k.usdc",
+        "md5": "30a36a649d410f3bdf9768c2da821c86"
+      }
+    },
+    "2k": {
+      "usd": {
+        "include": {
+          "textures/CoffeeCart_01_props_diff_2k.png": {
+            "size": 3640662,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_props_diff_2k.png",
+            "md5": "25d04f5a376723437ecf18d8fdc0b32e"
+          },
+          "textures/CoffeeCart_01_props_roughness_2k.png": {
+            "size": 1777048,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_props_roughness_2k.png",
+            "md5": "c3aa60660cb2af558cc95a7f81a1db0a"
+          },
+          "textures/CoffeeCart_01_cart_metallic_2k.png": {
+            "size": 23863,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_cart_metallic_2k.png",
+            "md5": "9ad907f77165f1db6debcddde95d1f58"
+          },
+          "textures/CoffeeCart_01_cart_roughness_2k.png": {
+            "size": 1589520,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_cart_roughness_2k.png",
+            "md5": "bed7ccc98016162a18bed77aef0d4284"
+          },
+          "textures/CoffeeCart_01_props_metallic_2k.png": {
+            "size": 167563,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_props_metallic_2k.png",
+            "md5": "be88156c114554720a8e5112a77ca985"
+          },
+          "textures/CoffeeCart_01_cart_diff_2k.png": {
+            "size": 3509441,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_cart_diff_2k.png",
+            "md5": "c6f1d4fca5bf38a90d78bd46884a2ed8"
+          },
+          "textures/CoffeeCart_01_props_nor_gl_2k.png": {
+            "size": 1799442,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_props_nor_gl_2k.png",
+            "md5": "3bc0847b4c4e7cd41ac4ebe59294ae7b"
+          },
+          "textures/CoffeeCart_01_cart_nor_gl_2k.png": {
+            "size": 1267498,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_cart_nor_gl_2k.png",
+            "md5": "ff07fa070c17115c0859fe822bae6b28"
+          }
+        },
+        "size": 1879642,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/CoffeeCart_01/CoffeeCart_01_2k.usdc",
+        "md5": "e1980572947b4bca4b4d81b898d1fb7d"
+      }
+    },
+    "1k": {
+      "usd": {
+        "include": {
+          "textures/CoffeeCart_01_props_metallic_1k.png": {
+            "size": 63059,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_props_metallic_1k.png",
+            "md5": "32b0b825eaa10dbbe740611c77502e7a"
+          },
+          "textures/CoffeeCart_01_cart_roughness_1k.png": {
+            "size": 460338,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_cart_roughness_1k.png",
+            "md5": "72a3f681233aa56c53b87675206142d4"
+          },
+          "textures/CoffeeCart_01_cart_nor_gl_1k.png": {
+            "size": 459551,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_cart_nor_gl_1k.png",
+            "md5": "9bb896ccf18f53715173a6e43300329d"
+          },
+          "textures/CoffeeCart_01_cart_metallic_1k.png": {
+            "size": 12970,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_cart_metallic_1k.png",
+            "md5": "cc407e97c40367902e47555b1a13b0a3"
+          },
+          "textures/CoffeeCart_01_props_diff_1k.png": {
+            "size": 1095926,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_props_diff_1k.png",
+            "md5": "290842c062b2747e7f9895e8cab764b0"
+          },
+          "textures/CoffeeCart_01_cart_diff_1k.png": {
+            "size": 1016304,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_cart_diff_1k.png",
+            "md5": "3e9eb6af7ef1ffe8eddf0ca15af5a049"
+          },
+          "textures/CoffeeCart_01_props_nor_gl_1k.png": {
+            "size": 644534,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_props_nor_gl_1k.png",
+            "md5": "078cd0d11c3de1f680df449651ec6aec"
+          },
+          "textures/CoffeeCart_01_props_roughness_1k.png": {
+            "size": 517658,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_props_roughness_1k.png",
+            "md5": "35d2576a09733afc0d3e0d617ee19a0a"
+          }
+        },
+        "size": 1879704,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/CoffeeCart_01/CoffeeCart_01_1k.usdc",
+        "md5": "b186d0c32551cbb74532c611edeab94c"
+      }
+    }
+  },
+  "mugs_nor_gl": {
+    "4k": {
+      "jpg": {
+        "size": 262837,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_mugs_nor_gl_4k.jpg",
+        "md5": "533dc0389451cf917b46db030529c184"
+      },
+      "png": {
+        "size": 58788,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_mugs_nor_gl_4k.png",
+        "md5": "a830184ea3aacc39d883a702597ac5e0"
+      },
+      "exr": {
+        "size": 30006,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CoffeeCart_01/CoffeeCart_01_mugs_nor_gl_4k.exr",
+        "md5": "ab337236e22759e798819538a5b717b1"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 66229,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_mugs_nor_gl_2k.jpg",
+        "md5": "6e1da7a258742893595766d7ba050c69"
+      },
+      "png": {
+        "size": 16922,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_mugs_nor_gl_2k.png",
+        "md5": "d7c52e8ee21b3ac32c737841ba96d695"
+      },
+      "exr": {
+        "size": 13750,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CoffeeCart_01/CoffeeCart_01_mugs_nor_gl_2k.exr",
+        "md5": "f558bfa1cfeb7eeba9a8cf671691cc5f"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 17077,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_mugs_nor_gl_1k.jpg",
+        "md5": "b487da64181c500852ee514b8ae5e4a3"
+      },
+      "png": {
+        "size": 5376,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_mugs_nor_gl_1k.png",
+        "md5": "31825caf0194972b7a935888afeed366"
+      },
+      "exr": {
+        "size": 6774,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CoffeeCart_01/CoffeeCart_01_mugs_nor_gl_1k.exr",
+        "md5": "284e4987d8051f556778fc2d746fa328"
+      }
+    }
+  },
+  "mugs_roughness": {
+    "4k": {
+      "jpg": {
+        "size": 197004,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_mugs_roughness_4k.jpg",
+        "md5": "28556eed5d54f652d69fa68f3a2e7e28"
+      },
+      "png": {
+        "size": 25416,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_mugs_roughness_4k.png",
+        "md5": "fc3651da90b91345ba0ec0c1c379ffd6"
+      },
+      "exr": {
+        "size": 44912,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CoffeeCart_01/CoffeeCart_01_mugs_roughness_4k.exr",
+        "md5": "addc1267dca931da59826c9b0ad7c656"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 49548,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_mugs_roughness_2k.jpg",
+        "md5": "8ee25a87fbcc4d46dd5985e37b5ec99e"
+      },
+      "png": {
+        "size": 8597,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_mugs_roughness_2k.png",
+        "md5": "a44b8ca05d7cd4df7fbd5aaddf34c8bb"
+      },
+      "exr": {
+        "size": 14320,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CoffeeCart_01/CoffeeCart_01_mugs_roughness_2k.exr",
+        "md5": "f7c72b8d23a237e08ac59db5a314621d"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 12684,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_mugs_roughness_1k.jpg",
+        "md5": "b8e5b8431b0c53b20d83ec0bcff51747"
+      },
+      "png": {
+        "size": 3200,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_mugs_roughness_1k.png",
+        "md5": "029b8bdfbc4120cdd22e7fc0e3fe2954"
+      },
+      "exr": {
+        "size": 5296,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CoffeeCart_01/CoffeeCart_01_mugs_roughness_1k.exr",
+        "md5": "3d56cad130a561223a6ab03de35be879"
+      }
+    }
+  },
+  "props_diff": {
+    "4k": {
+      "jpg": {
+        "size": 1411167,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_props_diff_4k.jpg",
+        "md5": "2028c1b9f4111f7a71ffd6e5892ebadf"
+      },
+      "png": {
+        "size": 9599929,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_props_diff_4k.png",
+        "md5": "0ded55785f3eca24b42b2b1bee71e920"
+      },
+      "exr": {
+        "size": 8074920,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CoffeeCart_01/CoffeeCart_01_props_diff_4k.exr",
+        "md5": "067ea1ee8db6c22952151962c0a99bc7"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 492206,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_props_diff_2k.jpg",
+        "md5": "72f9a9a7e9e4f10442d8b559df980ce5"
+      },
+      "png": {
+        "size": 3640662,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_props_diff_2k.png",
+        "md5": "25d04f5a376723437ecf18d8fdc0b32e"
+      },
+      "exr": {
+        "size": 2959074,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CoffeeCart_01/CoffeeCart_01_props_diff_2k.exr",
+        "md5": "4b1143bde3034cf9fff7b7a74d0edba1"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 158758,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_props_diff_1k.jpg",
+        "md5": "022cf4bfd25543f932efd1786d2961e7"
+      },
+      "png": {
+        "size": 1095926,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_props_diff_1k.png",
+        "md5": "290842c062b2747e7f9895e8cab764b0"
+      },
+      "exr": {
+        "size": 932588,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CoffeeCart_01/CoffeeCart_01_props_diff_1k.exr",
+        "md5": "5fc7f5700daf003158f10331029b295d"
+      }
+    }
+  },
+  "mugs_arm": {
+    "4k": {
+      "jpg": {
+        "size": 262837,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_mugs_arm_4k.jpg",
+        "md5": "05a54c560b64fcc9d6570b0caa81ac12"
+      },
+      "png": {
+        "size": 58788,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_mugs_arm_4k.png",
+        "md5": "8109ec63a223b347f7372605b1c944a8"
+      },
+      "exr": {
+        "size": 29878,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CoffeeCart_01/CoffeeCart_01_mugs_arm_4k.exr",
+        "md5": "9794ac8ea22cc09dbc82714b13b4d08e"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 66229,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_mugs_arm_2k.jpg",
+        "md5": "23b3b948485990168224f07107b0d9f1"
+      },
+      "png": {
+        "size": 16922,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_mugs_arm_2k.png",
+        "md5": "909dd2fe04f97fcd3a7eb2b6a18cd6bf"
+      },
+      "exr": {
+        "size": 13750,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CoffeeCart_01/CoffeeCart_01_mugs_arm_2k.exr",
+        "md5": "7f822e34ee6dec91204671b6b9b3fb97"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 17077,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_mugs_arm_1k.jpg",
+        "md5": "87901ce9a17f9d3e948714109cd19e16"
+      },
+      "png": {
+        "size": 5376,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_mugs_arm_1k.png",
+        "md5": "be5cc1635971034e7cefc78812404b53"
+      },
+      "exr": {
+        "size": 6742,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CoffeeCart_01/CoffeeCart_01_mugs_arm_1k.exr",
+        "md5": "8454c08b516bad8da122101ebba3b877"
+      }
+    }
+  },
+  "props_roughness": {
+    "4k": {
+      "jpg": {
+        "size": 1477278,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_props_roughness_4k.jpg",
+        "md5": "7e075aa26a00f405e3c88819171be8fb"
+      },
+      "png": {
+        "size": 4927315,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_props_roughness_4k.png",
+        "md5": "5613e88352116545b185c32019f5028f"
+      },
+      "exr": {
+        "size": 8288722,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CoffeeCart_01/CoffeeCart_01_props_roughness_4k.exr",
+        "md5": "9584d3fadc1a8f7f4ca79d634004ea5b"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 509070,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_props_roughness_2k.jpg",
+        "md5": "7b6c1d255b27d816e4dc7b251594284a"
+      },
+      "png": {
+        "size": 1777048,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_props_roughness_2k.png",
+        "md5": "c3aa60660cb2af558cc95a7f81a1db0a"
+      },
+      "exr": {
+        "size": 2877690,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CoffeeCart_01/CoffeeCart_01_props_roughness_2k.exr",
+        "md5": "1269f4424e79938dbf1892f353c3d56b"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 155550,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_props_roughness_1k.jpg",
+        "md5": "e8326f1c289801cac54bb883285b6cc5"
+      },
+      "png": {
+        "size": 517658,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_props_roughness_1k.png",
+        "md5": "35d2576a09733afc0d3e0d617ee19a0a"
+      },
+      "exr": {
+        "size": 862256,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CoffeeCart_01/CoffeeCart_01_props_roughness_1k.exr",
+        "md5": "cc01a01fddb51e128c359f8e7bbcd681"
+      }
+    }
+  },
+  "cart_metallic": {
+    "4k": {
+      "jpg": {
+        "size": 285765,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_cart_metallic_4k.jpg",
+        "md5": "104975d224bb5773aa0a67af1479714e"
+      },
+      "png": {
+        "size": 43805,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_cart_metallic_4k.png",
+        "md5": "91c8b65148256bdd0e806ce17d22895d"
+      },
+      "exr": {
+        "size": 81847,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CoffeeCart_01/CoffeeCart_01_cart_metallic_4k.exr",
+        "md5": "75f00c7226099fba5b59b26405182d86"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 91397,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_cart_metallic_2k.jpg",
+        "md5": "7165e946c8cd8127fdd1cc5ab5cbb9e8"
+      },
+      "png": {
+        "size": 23863,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_cart_metallic_2k.png",
+        "md5": "9ad907f77165f1db6debcddde95d1f58"
+      },
+      "exr": {
+        "size": 48009,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CoffeeCart_01/CoffeeCart_01_cart_metallic_2k.exr",
+        "md5": "3316c835c6ca70d034446c518a679ea4"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 32792,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_cart_metallic_1k.jpg",
+        "md5": "de8fffdd52436b2f9c7f1f629d253b56"
+      },
+      "png": {
+        "size": 12970,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_cart_metallic_1k.png",
+        "md5": "cc407e97c40367902e47555b1a13b0a3"
+      },
+      "exr": {
+        "size": 26998,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CoffeeCart_01/CoffeeCart_01_cart_metallic_1k.exr",
+        "md5": "3a77a244ec59256b1d8eb61c812ea3bb"
+      }
+    }
+  },
+  "cart_diff": {
+    "4k": {
+      "jpg": {
+        "size": 1255055,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_cart_diff_4k.jpg",
+        "md5": "761e115da905b8a7006dca72c85fd910"
+      },
+      "png": {
+        "size": 9411256,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_cart_diff_4k.png",
+        "md5": "e13fc68102aad190aa93273c38e98724"
+      },
+      "exr": {
+        "size": 6157066,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CoffeeCart_01/CoffeeCart_01_cart_diff_4k.exr",
+        "md5": "720d1c9e3c4f8ec00e79fc1b989221bf"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 401955,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_cart_diff_2k.jpg",
+        "md5": "76b8b5238122ea9ebacf85952d199a98"
+      },
+      "png": {
+        "size": 3509441,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_cart_diff_2k.png",
+        "md5": "c6f1d4fca5bf38a90d78bd46884a2ed8"
+      },
+      "exr": {
+        "size": 2131709,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CoffeeCart_01/CoffeeCart_01_cart_diff_2k.exr",
+        "md5": "eb11f9ea7c3ff01c1b805f1d39d6c862"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 118396,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_cart_diff_1k.jpg",
+        "md5": "d8fbad3535234e02aa278ec6dc74d15e"
+      },
+      "png": {
+        "size": 1016304,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_cart_diff_1k.png",
+        "md5": "3e9eb6af7ef1ffe8eddf0ca15af5a049"
+      },
+      "exr": {
+        "size": 633133,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CoffeeCart_01/CoffeeCart_01_cart_diff_1k.exr",
+        "md5": "eeb1109a0cfcb545cb25be3c03849cf9"
+      }
+    }
+  },
+  "cart_nor_gl": {
+    "4k": {
+      "jpg": {
+        "size": 1323231,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_cart_nor_gl_4k.jpg",
+        "md5": "e55d9532b20c630f21e0fd0907bcbf05"
+      },
+      "png": {
+        "size": 3012433,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_cart_nor_gl_4k.png",
+        "md5": "e31a29e462cd5bbe01a3202c2501c391"
+      },
+      "exr": {
+        "size": 5835874,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CoffeeCart_01/CoffeeCart_01_cart_nor_gl_4k.exr",
+        "md5": "3813ebe0b01a5c5ed2ec9fd02f098a55"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 496228,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_cart_nor_gl_2k.jpg",
+        "md5": "44d85503aae0de59b0c4f23732e187ac"
+      },
+      "png": {
+        "size": 1267498,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_cart_nor_gl_2k.png",
+        "md5": "ff07fa070c17115c0859fe822bae6b28"
+      },
+      "exr": {
+        "size": 2259491,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CoffeeCart_01/CoffeeCart_01_cart_nor_gl_2k.exr",
+        "md5": "96fc1192f4c39fcfc316645af73584a7"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 171213,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_cart_nor_gl_1k.jpg",
+        "md5": "52e3125e23024b146ffe195488283641"
+      },
+      "png": {
+        "size": 459551,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_cart_nor_gl_1k.png",
+        "md5": "9bb896ccf18f53715173a6e43300329d"
+      },
+      "exr": {
+        "size": 794992,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CoffeeCart_01/CoffeeCart_01_cart_nor_gl_1k.exr",
+        "md5": "560b757e9da88cac6e6459167a6383bb"
+      }
+    }
+  },
+  "props_nor_gl": {
+    "4k": {
+      "jpg": {
+        "size": 1198288,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_props_nor_gl_4k.jpg",
+        "md5": "2c8c7d866920ebfbb6bbbfbfe8f3af16"
+      },
+      "png": {
+        "size": 4201637,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_props_nor_gl_4k.png",
+        "md5": "491811a54d87e7be14344ae7afeb878a"
+      },
+      "exr": {
+        "size": 6908872,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CoffeeCart_01/CoffeeCart_01_props_nor_gl_4k.exr",
+        "md5": "bb143d55faa5fe35cd027e9d8e9577d1"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 439426,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_props_nor_gl_2k.jpg",
+        "md5": "71d49edcb4bb8b4de8020806203f225f"
+      },
+      "png": {
+        "size": 1799442,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_props_nor_gl_2k.png",
+        "md5": "3bc0847b4c4e7cd41ac4ebe59294ae7b"
+      },
+      "exr": {
+        "size": 2547177,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CoffeeCart_01/CoffeeCart_01_props_nor_gl_2k.exr",
+        "md5": "6ecae9bbd48dbc200af2f0ec18301189"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 156633,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_props_nor_gl_1k.jpg",
+        "md5": "119787e463389d7877b4bfa96cc569ca"
+      },
+      "png": {
+        "size": 644534,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_props_nor_gl_1k.png",
+        "md5": "078cd0d11c3de1f680df449651ec6aec"
+      },
+      "exr": {
+        "size": 907611,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CoffeeCart_01/CoffeeCart_01_props_nor_gl_1k.exr",
+        "md5": "425c11d0cbb890e1d4e85e5cef22122f"
+      }
+    }
+  },
+  "cart_arm": {
+    "4k": {
+      "jpg": {
+        "size": 1555640,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_cart_arm_4k.jpg",
+        "md5": "89f54cfab23bf1e7ff012d494a4cd429"
+      },
+      "png": {
+        "size": 8353079,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_cart_arm_4k.png",
+        "md5": "fd7481ad9d05cc242bc1279029af873c"
+      },
+      "exr": {
+        "size": 11070293,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CoffeeCart_01/CoffeeCart_01_cart_arm_4k.exr",
+        "md5": "568c05bcff1c15b71b1d3e236dea90e2"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 511101,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_cart_arm_2k.jpg",
+        "md5": "f2b709afd52e2371a8e0556d058180a0"
+      },
+      "png": {
+        "size": 3200045,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_cart_arm_2k.png",
+        "md5": "caaf709076d06f14bdd388823429321d"
+      },
+      "exr": {
+        "size": 4378488,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CoffeeCart_01/CoffeeCart_01_cart_arm_2k.exr",
+        "md5": "786e679419347925ba92e6648cf2e440"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 159358,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_cart_arm_1k.jpg",
+        "md5": "83254d27de5af53360d06f774d94baa9"
+      },
+      "png": {
+        "size": 945306,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_cart_arm_1k.png",
+        "md5": "f7e8d37481c238f997e13c407caa51d1"
+      },
+      "exr": {
+        "size": 1344969,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CoffeeCart_01/CoffeeCart_01_cart_arm_1k.exr",
+        "md5": "e9f2367797d08823a9b7aec75ce949f3"
+      }
+    }
+  },
+  "mugs_metallic": {
+    "4k": {
+      "jpg": {
+        "size": 197004,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_mugs_metallic_4k.jpg",
+        "md5": "921d904a81bd79b20edf344db2775b2c"
+      },
+      "png": {
+        "size": 16411,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_mugs_metallic_4k.png",
+        "md5": "97772cc26786af05b2da8fe6f616b7e7"
+      },
+      "exr": {
+        "size": 42864,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CoffeeCart_01/CoffeeCart_01_mugs_metallic_4k.exr",
+        "md5": "b7ec079ed1afc685200459d7ad67dca5"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 49548,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_mugs_metallic_2k.jpg",
+        "md5": "55a2f4c6c290ccc7dca012bae0d5413e"
+      },
+      "png": {
+        "size": 4187,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_mugs_metallic_2k.png",
+        "md5": "12f0d8cf69c8a3427fbdfaaffe7978a5"
+      },
+      "exr": {
+        "size": 13296,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CoffeeCart_01/CoffeeCart_01_mugs_metallic_2k.exr",
+        "md5": "bc830b84b891ed5c1673caaa096c8d99"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 12684,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_mugs_metallic_1k.jpg",
+        "md5": "e8c0e6464de97eac1caa382a44a2682f"
+      },
+      "png": {
+        "size": 1139,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_mugs_metallic_1k.png",
+        "md5": "14c604b27ea726bc5b38e48671f77ce0"
+      },
+      "exr": {
+        "size": 4784,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CoffeeCart_01/CoffeeCart_01_mugs_metallic_1k.exr",
+        "md5": "17ac24b66e6b07606d06cf3e92246ed9"
+      }
+    }
+  },
+  "mugs_nor_dx": {
+    "4k": {
+      "jpg": {
+        "size": 262837,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_mugs_nor_dx_4k.jpg",
+        "md5": "533dc0389451cf917b46db030529c184"
+      },
+      "png": {
+        "size": 58788,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_mugs_nor_dx_4k.png",
+        "md5": "a830184ea3aacc39d883a702597ac5e0"
+      },
+      "exr": {
+        "size": 30006,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CoffeeCart_01/CoffeeCart_01_mugs_nor_dx_4k.exr",
+        "md5": "6ef68ba37ece82e5d11163ae64d6c0ef"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 66229,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_mugs_nor_dx_2k.jpg",
+        "md5": "6e1da7a258742893595766d7ba050c69"
+      },
+      "png": {
+        "size": 16922,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_mugs_nor_dx_2k.png",
+        "md5": "d7c52e8ee21b3ac32c737841ba96d695"
+      },
+      "exr": {
+        "size": 13750,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CoffeeCart_01/CoffeeCart_01_mugs_nor_dx_2k.exr",
+        "md5": "4f0783f39fa5a80603770bbb05d055a3"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 17077,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_mugs_nor_dx_1k.jpg",
+        "md5": "b487da64181c500852ee514b8ae5e4a3"
+      },
+      "png": {
+        "size": 5376,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_mugs_nor_dx_1k.png",
+        "md5": "31825caf0194972b7a935888afeed366"
+      },
+      "exr": {
+        "size": 6774,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CoffeeCart_01/CoffeeCart_01_mugs_nor_dx_1k.exr",
+        "md5": "b1061bbd732c93fd91905bb7238c5679"
+      }
+    }
+  },
+  "cart_nor_dx": {
+    "4k": {
+      "jpg": {
+        "size": 1332016,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_cart_nor_dx_4k.jpg",
+        "md5": "43732b0b11f8d6aecdd50b4ab1570eae"
+      },
+      "png": {
+        "size": 2989023,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_cart_nor_dx_4k.png",
+        "md5": "471f6066594696491855fe374c8a9c48"
+      },
+      "exr": {
+        "size": 5843160,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CoffeeCart_01/CoffeeCart_01_cart_nor_dx_4k.exr",
+        "md5": "b4433621d75a06c1b24eaa3f176d998d"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 498434,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_cart_nor_dx_2k.jpg",
+        "md5": "c38d551148f4bccbca15989127e96ebf"
+      },
+      "png": {
+        "size": 1267393,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_cart_nor_dx_2k.png",
+        "md5": "a7b11646a5902ecb11884bfe0f91bd57"
+      },
+      "exr": {
+        "size": 2261270,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CoffeeCart_01/CoffeeCart_01_cart_nor_dx_2k.exr",
+        "md5": "77e03c018e2b50086353a46f82ae5992"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 172211,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_cart_nor_dx_1k.jpg",
+        "md5": "d539d641b0523dc2964b4e3a576fce4a"
+      },
+      "png": {
+        "size": 460522,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_cart_nor_dx_1k.png",
+        "md5": "1198bf2a7a1006d20b2a42560d0baaa6"
+      },
+      "exr": {
+        "size": 795898,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CoffeeCart_01/CoffeeCart_01_cart_nor_dx_1k.exr",
+        "md5": "4da7c995138bb285e0539bd13a989cd0"
+      }
+    }
+  },
+  "cart_roughness": {
+    "4k": {
+      "jpg": {
+        "size": 1211672,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/CoffeeCart_01/CoffeeCart_01_cart_roughness_4k.jpg",
+        "md5": "e9d2bcb7f604318d6e306efef24d64e0"
+      },
+      "png": {
+        "size": 4269686,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_cart_roughness_4k.png",
+        "md5": "ceae19614943630379f135569e84d050"
+      },
+      "exr": {
+        "size": 6327247,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/CoffeeCart_01/CoffeeCart_01_cart_roughness_4k.exr",
+        "md5": "c0fdb19211a4fb5c9555a144fb9c5767"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 393435,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/CoffeeCart_01/CoffeeCart_01_cart_roughness_2k.jpg",
+        "md5": "89b2ffa636b9057b01c9b1c588fe6c04"
+      },
+      "png": {
+        "size": 1589520,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_cart_roughness_2k.png",
+        "md5": "bed7ccc98016162a18bed77aef0d4284"
+      },
+      "exr": {
+        "size": 2255172,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/CoffeeCart_01/CoffeeCart_01_cart_roughness_2k.exr",
+        "md5": "3ac633a6deb9a81548054e47da6bc0e5"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 111996,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/CoffeeCart_01/CoffeeCart_01_cart_roughness_1k.jpg",
+        "md5": "13577cf1770eb635079aaeb06486cedc"
+      },
+      "png": {
+        "size": 460338,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_cart_roughness_1k.png",
+        "md5": "72a3f681233aa56c53b87675206142d4"
+      },
+      "exr": {
+        "size": 652879,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/CoffeeCart_01/CoffeeCart_01_cart_roughness_1k.exr",
+        "md5": "c2d781770ff4cd659fd6a403546cf889"
+      }
+    }
+  },
+  "fbx": {
+    "4k": {
+      "fbx": {
+        "include": {
+          "textures/CoffeeCart_01_props_nor_gl_4k.png": {
+            "size": 4201637,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_props_nor_gl_4k.png",
+            "md5": "491811a54d87e7be14344ae7afeb878a"
+          },
+          "textures/CoffeeCart_01_props_metallic_4k.png": {
+            "size": 394159,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_props_metallic_4k.png",
+            "md5": "98f07df8997dd5f38c2a9db4052ce6b0"
+          },
+          "textures/CoffeeCart_01_props_diff_4k.png": {
+            "size": 9599929,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_props_diff_4k.png",
+            "md5": "0ded55785f3eca24b42b2b1bee71e920"
+          },
+          "textures/CoffeeCart_01_cart_nor_gl_4k.png": {
+            "size": 3012433,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_cart_nor_gl_4k.png",
+            "md5": "e31a29e462cd5bbe01a3202c2501c391"
+          },
+          "textures/CoffeeCart_01_cart_metallic_4k.png": {
+            "size": 43805,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_cart_metallic_4k.png",
+            "md5": "91c8b65148256bdd0e806ce17d22895d"
+          },
+          "textures/CoffeeCart_01_cart_diff_4k.png": {
+            "size": 9411256,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_cart_diff_4k.png",
+            "md5": "e13fc68102aad190aa93273c38e98724"
+          },
+          "textures/CoffeeCart_01_props_roughness_4k.png": {
+            "size": 4927315,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_props_roughness_4k.png",
+            "md5": "5613e88352116545b185c32019f5028f"
+          },
+          "textures/CoffeeCart_01_cart_roughness_4k.png": {
+            "size": 4269686,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/CoffeeCart_01/CoffeeCart_01_cart_roughness_4k.png",
+            "md5": "ceae19614943630379f135569e84d050"
+          }
+        },
+        "size": 1036732,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/CoffeeCart_01/CoffeeCart_01_4k.fbx",
+        "md5": "1c10496814dc6fdec325e0f5eb00de8e"
+      }
+    },
+    "2k": {
+      "fbx": {
+        "include": {
+          "textures/CoffeeCart_01_props_diff_2k.png": {
+            "size": 3640662,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_props_diff_2k.png",
+            "md5": "25d04f5a376723437ecf18d8fdc0b32e"
+          },
+          "textures/CoffeeCart_01_props_roughness_2k.png": {
+            "size": 1777048,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_props_roughness_2k.png",
+            "md5": "c3aa60660cb2af558cc95a7f81a1db0a"
+          },
+          "textures/CoffeeCart_01_cart_metallic_2k.png": {
+            "size": 23863,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_cart_metallic_2k.png",
+            "md5": "9ad907f77165f1db6debcddde95d1f58"
+          },
+          "textures/CoffeeCart_01_cart_roughness_2k.png": {
+            "size": 1589520,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_cart_roughness_2k.png",
+            "md5": "bed7ccc98016162a18bed77aef0d4284"
+          },
+          "textures/CoffeeCart_01_props_metallic_2k.png": {
+            "size": 167563,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_props_metallic_2k.png",
+            "md5": "be88156c114554720a8e5112a77ca985"
+          },
+          "textures/CoffeeCart_01_cart_diff_2k.png": {
+            "size": 3509441,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_cart_diff_2k.png",
+            "md5": "c6f1d4fca5bf38a90d78bd46884a2ed8"
+          },
+          "textures/CoffeeCart_01_props_nor_gl_2k.png": {
+            "size": 1799442,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_props_nor_gl_2k.png",
+            "md5": "3bc0847b4c4e7cd41ac4ebe59294ae7b"
+          },
+          "textures/CoffeeCart_01_cart_nor_gl_2k.png": {
+            "size": 1267498,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/CoffeeCart_01/CoffeeCart_01_cart_nor_gl_2k.png",
+            "md5": "ff07fa070c17115c0859fe822bae6b28"
+          }
+        },
+        "size": 1036732,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/CoffeeCart_01/CoffeeCart_01_2k.fbx",
+        "md5": "fbbd3185d43d77573af1e61e33f18da5"
+      }
+    },
+    "1k": {
+      "fbx": {
+        "include": {
+          "textures/CoffeeCart_01_props_metallic_1k.png": {
+            "size": 63059,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_props_metallic_1k.png",
+            "md5": "32b0b825eaa10dbbe740611c77502e7a"
+          },
+          "textures/CoffeeCart_01_cart_roughness_1k.png": {
+            "size": 460338,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_cart_roughness_1k.png",
+            "md5": "72a3f681233aa56c53b87675206142d4"
+          },
+          "textures/CoffeeCart_01_cart_nor_gl_1k.png": {
+            "size": 459551,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_cart_nor_gl_1k.png",
+            "md5": "9bb896ccf18f53715173a6e43300329d"
+          },
+          "textures/CoffeeCart_01_cart_metallic_1k.png": {
+            "size": 12970,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_cart_metallic_1k.png",
+            "md5": "cc407e97c40367902e47555b1a13b0a3"
+          },
+          "textures/CoffeeCart_01_props_diff_1k.png": {
+            "size": 1095926,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_props_diff_1k.png",
+            "md5": "290842c062b2747e7f9895e8cab764b0"
+          },
+          "textures/CoffeeCart_01_cart_diff_1k.png": {
+            "size": 1016304,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_cart_diff_1k.png",
+            "md5": "3e9eb6af7ef1ffe8eddf0ca15af5a049"
+          },
+          "textures/CoffeeCart_01_props_roughness_1k.png": {
+            "size": 517658,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_props_roughness_1k.png",
+            "md5": "35d2576a09733afc0d3e0d617ee19a0a"
+          },
+          "textures/CoffeeCart_01_props_nor_gl_1k.png": {
+            "size": 644534,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_props_nor_gl_1k.png",
+            "md5": "078cd0d11c3de1f680df449651ec6aec"
+          }
+        },
+        "size": 1036732,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/CoffeeCart_01/CoffeeCart_01_1k.fbx",
+        "md5": "7b0a0c85868316b9a8308184ede78319"
+      }
+    }
+  }
+}

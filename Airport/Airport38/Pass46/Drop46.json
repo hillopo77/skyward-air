@@ -1,0 +1,110 @@
+{
+ "status": "SUCCESS",
+ "results": [
+  {
+   "drop": "deck west",
+   "released": [
+    -46.0,
+    30.5,
+    3.8
+   ],
+   "rest_com": [
+    -46.006,
+    30.488,
+    3.613
+   ],
+   "fell_m": 0.187,
+   "resting_on": "Crafted GalleryStair35",
+   "support_z": 3.165,
+   "speed_cm_s": 0.0
+  },
+  {
+   "drop": "deck east",
+   "released": [
+    -42.2,
+    32.6,
+    3.8
+   ],
+   "rest_com": [
+    -42.214,
+    32.596,
+    3.613
+   ],
+   "fell_m": 0.187,
+   "resting_on": "Crafted GalleryStair35",
+   "support_z": 3.165,
+   "speed_cm_s": 0.0
+  },
+  {
+   "drop": "deck stair head",
+   "released": [
+    -46.4,
+    26.2,
+    3.8
+   ],
+   "rest_com": [
+    -46.416,
+    26.194,
+    3.613
+   ],
+   "fell_m": 0.187,
+   "resting_on": "Crafted GalleryStair35",
+   "support_z": 3.165,
+   "speed_cm_s": 0.0
+  },
+  {
+   "drop": "control: cafe floor under the deck",
+   "released": [
+    -45.0,
+    29.5,
+    0.8
+   ],
+   "rest_com": [
+    -45.022,
+    29.497,
+    0.449
+   ],
+   "fell_m": 0.351,
+   "resting_on": "Airport38 coherent bounded floors",
+   "support_z": 0.0,
+   "speed_cm_s": 0.0
+  }
+ ],
+ "control": {
+  "floor": "Airport38 coherent bounded floors",
+  "z": 0.0,
+  "passed": true
+ },
+ "deck_traces": [
+  {
+   "at": [
+    -46.0,
+    30.5
+   ],
+   "hit": [
+    "Crafted GalleryStair35",
+    3.165
+   ]
+  },
+  {
+   "at": [
+    -42.2,
+    32.6
+   ],
+   "hit": [
+    "Crafted GalleryStair35",
+    3.165
+   ]
+  },
+  {
+   "at": [
+    -46.4,
+    26.2
+   ],
+   "hit": [
+    "Crafted GalleryStair35",
+    3.165
+   ]
+  }
+ ]
+}

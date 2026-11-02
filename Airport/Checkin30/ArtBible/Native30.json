@@ -1,0 +1,9 @@
+{
+  "status": "SUCCESS",
+  "started": 1793199656.1019595,
+  "finished": 1793199679.140357,
+  "map": "/Game/Airport30/L_Airport_Checkin30",
+  "families": 8,
+  "triangles": 133014,
+  "source_sha256": "2419dc2514d9a8c0e4967f01841cb40aa74e1f5bc42be4bd210b5d29adb44b82"
+}

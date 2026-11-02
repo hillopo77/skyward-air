@@ -1,0 +1,350 @@
+{
+  "step_m": 0.1,
+  "deck_cells": 8761,
+  "deck_area_m2": 87.61,
+  "uncovered_cells": 1612,
+  "uncovered_area_m2": 16.12,
+  "by_mesh": {
+    "SM_AP_P38B_bridge_control": 6,
+    "SM_AP_P38B_terminal_neck": 44,
+    "SM_AP_P38B_pivot_chamber": 6,
+    "SM_AP_P38B_A00": 168,
+    "SM_AP_P38B_A01": 182,
+    "SM_AP_P38B_A02": 164,
+    "SM_AP_P38B_A03": 122,
+    "SM_AP_P38B_elbow_chamber": 15,
+    "SM_AP_P38B_B00": 158,
+    "SM_AP_P38B_B01": 187,
+    "SM_AP_P38B_B02": 168,
+    "SM_AP_P38B_B03": 151,
+    "SM_AP_P38B_B04": 113,
+    "SM_AP_P38B_cab_joint": 4,
+    "SM_AP_P38B_docking_cab": 124
+  },
+  "blobs": [
+    {
+      "index": 0,
+      "cells": 404,
+      "area_m2": 4.04,
+      "x_min": -1.1,
+      "x_max": 9.8,
+      "y_min": -5.0,
+      "y_max": -0.8,
+      "centroid": [
+        4.07,
+        -3.01
+      ],
+      "deck_z": 0.482,
+      "meshes": [
+        "SM_AP_P38B_B00",
+        "SM_AP_P38B_B01",
+        "SM_AP_P38B_B02",
+        "SM_AP_P38B_B03",
+        "SM_AP_P38B_B04",
+        "SM_AP_P38B_elbow_chamber"
+      ]
+    },
+    {
+      "index": 1,
+      "cells": 367,
+      "area_m2": 3.67,
+      "x_min": -1.0,
+      "x_max": 9.0,
+      "y_min": -2.1,
+      "y_max": 1.5,
+      "centroid": [
+        3.66,
+        -0.37
+      ],
+      "deck_z": 0.52,
+      "meshes": [
+        "SM_AP_P38B_B00",
+        "SM_AP_P38B_B01",
+        "SM_AP_P38B_B02",
+        "SM_AP_P38B_B03",
+        "SM_AP_P38B_B04"
+      ]
+    },
+    {
+      "index": 2,
+      "cells": 321,
+      "area_m2": 3.21,
+      "x_min": -11.6,
+      "x_max": -2.1,
+      "y_min": -2.0,
+      "y_max": 2.1,
+      "centroid": [
+        -7.03,
+        0.13
+      ],
+      "deck_z": 0.489,
+      "meshes": [
+        "SM_AP_P38B_A00",
+        "SM_AP_P38B_A01",
+        "SM_AP_P38B_A02",
+        "SM_AP_P38B_A03"
+      ]
+    },
+    {
+      "index": 3,
+      "cells": 319,
+      "area_m2": 3.19,
+      "x_min": -12.1,
+      "x_max": -2.0,
+      "y_min": -4.9,
+      "y_max": -0.9,
+      "centroid": [
+        -7.34,
+        -2.74
+      ],
+      "deck_z": 0.5,
+      "meshes": [
+        "SM_AP_P38B_A00",
+        "SM_AP_P38B_A01",
+        "SM_AP_P38B_A02",
+        "SM_AP_P38B_A03",
+        "SM_AP_P38B_elbow_chamber",
+        "SM_AP_P38B_pivot_chamber"
+      ]
+    },
+    {
+      "index": 4,
+      "cells": 69,
+      "area_m2": 0.69,
+      "x_min": 11.7,
+      "x_max": 13.9,
+      "y_min": -0.9,
+      "y_max": -0.6,
+      "centroid": [
+        12.7,
+        -0.71
+      ],
+      "deck_z": 0.682,
+      "meshes": [
+        "SM_AP_P38B_docking_cab"
+      ]
+    },
+    {
+      "index": 5,
+      "cells": 53,
+      "area_m2": 0.53,
+      "x_min": 10.5,
+      "x_max": 13.4,
+      "y_min": 2.0,
+      "y_max": 2.1,
+      "centroid": [
+        12.05,
+        2.05
+      ],
+      "deck_z": 0.351,
+      "meshes": [
+        "SM_AP_P38B_docking_cab"
+      ]
+    },
+    {
+      "index": 6,
+      "cells": 33,
+      "area_m2": 0.33,
+      "x_min": -13.9,
+      "x_max": -12.1,
+      "y_min": 1.9,
+      "y_max": 2.1,
+      "centroid": [
+        -13.0,
+        2.05
+      ],
+      "deck_z": 0.41,
+      "meshes": [
+        "SM_AP_P38B_terminal_neck"
+      ]
+    },
+    {
+      "index": 7,
+      "cells": 14,
+      "area_m2": 0.14,
+      "x_min": -13.9,
+      "x_max": -13.3,
+      "y_min": -0.7,
+      "y_max": -0.6,
+      "centroid": [
+        -13.6,
+        -0.65
+      ],
+      "deck_z": 0.221,
+      "meshes": [
+        "SM_AP_P38B_pivot_chamber",
+        "SM_AP_P38B_terminal_neck"
+      ]
+    },
+    {
+      "index": 8,
+      "cells": 10,
+      "area_m2": 0.1,
+      "x_min": -2.1,
+      "x_max": -1.2,
+      "y_min": -5.3,
+      "y_max": -5.3,
+      "centroid": [
+        -1.65,
+        -5.3
+      ],
+      "deck_z": 0.927,
+      "meshes": [
+        "SM_AP_P38B_elbow_chamber"
+      ]
+    },
+    {
+      "index": 9,
+      "cells": 7,
+      "area_m2": 0.07,
+      "x_min": 9.6,
+      "x_max": 10.0,
+      "y_min": 1.8,
+      "y_max": 1.9,
+      "centroid": [
+        9.81,
+        1.84
+      ],
+      "deck_z": 0.024,
+      "meshes": [
+        "SM_AP_P38B_B04"
+      ]
+    },
+    {
+      "index": 10,
+      "cells": 6,
+      "area_m2": 0.06,
+      "x_min": -14.2,
+      "x_max": -14.1,
+      "y_min": -1.1,
+      "y_max": -0.8,
+      "centroid": [
+        -14.13,
+        -0.95
+      ],
+      "deck_z": 1.325,
+      "meshes": [
+        "SM_AP_P38B_bridge_control"
+      ]
+    },
+    {
+      "index": 11,
+      "cells": 2,
+      "area_m2": 0.02,
+      "x_min": 13.7,
+      "x_max": 13.8,
+      "y_min": 2.0,
+      "y_max": 2.0,
+      "centroid": [
+        13.75,
+        2.0
+      ],
+      "deck_z": 0.014,
+      "meshes": [
+        "SM_AP_P38B_docking_cab"
+      ]
+    },
+    {
+      "index": 12,
+      "cells": 2,
+      "area_m2": 0.02,
+      "x_min": 10.2,
+      "x_max": 10.3,
+      "y_min": -1.0,
+      "y_max": -1.0,
+      "centroid": [
+        10.25,
+        -1.0
+      ],
+      "deck_z": 0.926,
+      "meshes": [
+        "SM_AP_P38B_cab_joint"
+      ]
+    },
+    {
+      "index": 13,
+      "cells": 1,
+      "area_m2": 0.01,
+      "x_min": -12.5,
+      "x_max": -12.5,
+      "y_min": -0.9,
+      "y_max": -0.9,
+      "centroid": [
+        -12.5,
+        -0.9
+      ],
+      "deck_z": 0.928,
+      "meshes": [
+        "SM_AP_P38B_pivot_chamber"
+      ]
+    },
+    {
+      "index": 14,
+      "cells": 1,
+      "area_m2": 0.01,
+      "x_min": 10.8,
+      "x_max": 10.8,
+      "y_min": -0.9,
+      "y_max": -0.9,
+      "centroid": [
+        10.8,
+        -0.9
+      ],
+      "deck_z": 0.93,
+      "meshes": [
+        "SM_AP_P38B_cab_joint"
+      ]
+    },
+    {
+      "index": 15,
+      "cells": 1,
+      "area_m2": 0.01,
+      "x_min": -13.0,
+      "x_max": -13.0,
+      "y_min": -0.8,
+      "y_max": -0.8,
+      "centroid": [
+        -13.0,
+        -0.8
+      ],
+      "deck_z": 0.928,
+      "meshes": [
+        "SM_AP_P38B_pivot_chamber"
+      ]
+    },
+    {
+      "index": 16,
+      "cells": 1,
+      "area_m2": 0.01,
+      "x_min": 11.4,
+      "x_max": 11.4,
+      "y_min": -0.8,
+      "y_max": -0.8,
+      "centroid": [
+        11.4,
+        -0.8
+      ],
+      "deck_z": 0.929,
+      "meshes": [
+        "SM_AP_P38B_cab_joint"
+      ]
+    },
+    {
+      "index": 17,
+      "cells": 1,
+      "area_m2": 0.01,
+      "x_min": 9.3,
+      "x_max": 9.3,
+      "y_min": 1.7,
+      "y_max": 1.7,
+      "centroid": [
+        9.3,
+        1.7
+      ],
+      "deck_z": 0.023,
+      "meshes": [
+        "SM_AP_P38B_B04"
+      ]
+    }
+  ]
+}

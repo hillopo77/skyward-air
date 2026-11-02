@@ -1,0 +1,593 @@
+{
+  "status": "SUCCESS",
+  "checks": [
+    {
+      "name": "Starts with check-in objective",
+      "passed": true
+    },
+    {
+      "name": "Native viewport1920x1080",
+      "passed": true
+    },
+    {
+      "name": "Check-in desk 01 quarter-turn matches layout",
+      "passed": true
+    },
+    {
+      "name": "Check-in desk 01 placed correctly",
+      "passed": true
+    },
+    {
+      "name": "Check-in desk 02 quarter-turn matches layout",
+      "passed": true
+    },
+    {
+      "name": "Check-in desk 02 placed correctly",
+      "passed": true
+    },
+    {
+      "name": "Bag drop belt 01 travels along rotated belt",
+      "passed": true
+    },
+    {
+      "name": "Bag drop belt 02 travels along rotated belt",
+      "passed": true
+    },
+    {
+      "name": "Set-back queue has two waiting passengers",
+      "passed": true
+    },
+    {
+      "name": "Two staffed counters",
+      "passed": true
+    },
+    {
+      "name": "Queue width is1.9m",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-51, -12.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-51, -20]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-49, -20]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-26, -20]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-24, -20]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-20, -20.4]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-24, -20]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-26, -20]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-49, -20]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-51, -20]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-51, -12.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-48.3, -12.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-46, -15]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-42, -15]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-42, -13]",
+      "passed": true
+    },
+    {
+      "name": "Entrance does not offer immediate queue interaction",
+      "passed": true
+    },
+    {
+      "name": "Arrival is separate from process",
+      "passed": true
+    },
+    {
+      "name": "Queue moved more than4m beyond pocket",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-40.4, -13]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-40.4, -16]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-37.6, -16]",
+      "passed": true
+    },
+    {
+      "name": "Right-side waiting route accessible before joining",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-40.4, -16]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-40.4, -13]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-37.4, -13]",
+      "passed": true
+    },
+    {
+      "name": "Entry arrives behind the last queue passenger",
+      "passed": true,
+      "player": [
+        -37.52350649411344,
+        -13.006301689016832
+      ],
+      "last_passenger": [
+        -35.7,
+        -13.0
+      ]
+    },
+    {
+      "name": "Counter rejects queue jumping",
+      "passed": true
+    },
+    {
+      "name": "Aim reaches Queue entry marker29",
+      "passed": true,
+      "selected": "Queue entry marker29"
+    },
+    {
+      "name": "Live queue advances both passengers",
+      "passed": true
+    },
+    {
+      "name": "Player is called to the desk",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-32.1, -13]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-32.1, -10.6]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-31.8, -10.6]",
+      "passed": true
+    },
+    {
+      "name": "Aim reaches Check-in desk 01",
+      "passed": true,
+      "selected": "Check-in desk 01"
+    },
+    {
+      "name": "Rotated counter issues boarding pass",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-33, -10.6]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-33, -15.7]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-35.7, -15.8]",
+      "passed": true
+    },
+    {
+      "name": "Aim reaches Physical luggage 02",
+      "passed": true,
+      "selected": "Physical luggage 02"
+    },
+    {
+      "name": "Walk reaches [-32.1, -15.7]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-31.8, -12.6]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-30.7, -12.6]",
+      "passed": true
+    },
+    {
+      "name": "Aim reaches Bag drop belt 01",
+      "passed": true,
+      "selected": "Bag drop belt 01"
+    },
+    {
+      "name": "Rotated conveyor accepts the physical suitcase",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-32.1, -12.6]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-32.1, -8.8]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-30, -8.8]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-30, -6]",
+      "passed": true
+    },
+    {
+      "name": "Room exit connects to the unchanged landside corridor",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-42, -6]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-42, -5.3]",
+      "passed": true
+    },
+    {
+      "name": "Screening entry24 access opens",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-42, -3]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-45.5, -2]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-45.5, -1.3]",
+      "passed": true
+    },
+    {
+      "name": "Aim reaches Security portal 01",
+      "passed": true,
+      "selected": "Security portal 01"
+    },
+    {
+      "name": "Walk reaches [-45.5, 1.2]",
+      "passed": true
+    },
+    {
+      "name": "Security actually clears the boarding pass",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-45.5, 3.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-38, 3.5]",
+      "passed": true
+    },
+    {
+      "name": "Screening exit24 access opens",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-34, 3.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-34, 1.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-30.5, 1.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-30.5, 8.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-34, 8.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-34, 10.8]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-35.1, 10.8]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-34, 10.8]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-34, 8.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-29, 8.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-29, 11.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-24.5, 11.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-24.5, 15]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-22.5, 15]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-19, 14.3]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-22.5, 15]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-24.5, 15]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-24.5, 11.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-29, 11.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-29, -3]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-24.5, -3]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-24.5, -8.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-22, -8.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-19, -8.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-22, -8.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-24.5, -8.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-24.5, -3]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-29, -3]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-29, 4.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-24.5, 4.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-24.5, 0.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-22.5, 0.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-19, 0.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-18.9, -2]",
+      "passed": true
+    },
+    {
+      "name": "Aim reaches Gate A07 boarding desk",
+      "passed": true,
+      "selected": "Gate A07 boarding desk"
+    },
+    {
+      "name": "A07 actually validates the boarding pass",
+      "passed": true
+    },
+    {
+      "name": "A07 boarding access opens",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-19, 0.3]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-15.4, 0.3]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-15.2, 0.675]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-13, 0.675]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-7, 0.675]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-0.9, 0.675]",
+      "passed": true
+    },
+    {
+      "name": "Jetbridge reaches the real aircraft",
+      "passed": true
+    },
+    {
+      "name": "Eye height retained after whole journey",
+      "passed": true
+    }
+  ],
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\01_SecurityArrival.png",
+      "sha256": "93b231f93f3c072a561a31d40bc7cbb84ce5785b294aca19b745016dc1242751",
+      "view": "01_SecurityArrival"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\02_ScreeningDetail.png",
+      "sha256": "cc00d68b56e760af68ac7415caf2f3bcf1266d618a5e24ef6424a509138d11ee",
+      "view": "02_ScreeningDetail"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\03_Repacking.png",
+      "sha256": "64f30a38aa26fec379033410a9dde77333477bfca35ca7e7cd1723f0d768e26b",
+      "view": "03_Repacking"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\04_Concourse.png",
+      "sha256": "e4f4c36b6433e69599af9e21dbe3ee32a1b9d8fd9e6491737aeac23f37f49f4b",
+      "view": "04_Concourse"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\05_A07Approach.png",
+      "sha256": "b729fa186c358b3b0c733e274bbe59da29d2d331e2bad8be9d9e76c1cea7b819",
+      "view": "05_A07Approach"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\06_A07Lounge.png",
+      "sha256": "52a3e1f83aeb1878d213db58484ef2d8290b2275033a45478108f9763f3730b6",
+      "view": "06_A07Lounge"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\07_A08Lounge.png",
+      "sha256": "4e208cbcfdc0e1a2bec151e97e5d2be46153a2ac322a63c32421868eee76b288",
+      "view": "07_A08Lounge"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\08_Cafe.png",
+      "sha256": "e49fe6351da734d11e754413a03fd99fd070ce37ad0b7035aa918741213dd2e4",
+      "view": "08_Cafe"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\09_CafeGallery.png",
+      "sha256": "f479c83131484bcb384279bcb213e60abea053e341d61d238378a3fcfda30ab2",
+      "view": "09_CafeGallery"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\10_Amenities.png",
+      "sha256": "24e880aececc911ae47dc6c593cd4c25524d5d01e56f802cf0239a2da0602582",
+      "view": "10_Amenities"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\11_Arrivals.png",
+      "sha256": "893bb9f9a655d58cfae9092114f1242232ca33f585147578e01440fd30db2ef1",
+      "view": "11_Arrivals"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\12_PublicReturn.png",
+      "sha256": "dcc29c205e0da192b60bdcf18de4060819fd315382d8f91a323f753590fb4521",
+      "view": "12_PublicReturn"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\13_Jetbridge.png",
+      "sha256": "ae679227fcd9fc28e16ef45cac1e7eeecbe7a73fb3ca67dd0d0179c449f9b058",
+      "view": "13_Jetbridge"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\14_EntranceExterior.png",
+      "sha256": "5ac0737cef7a13d6a7a71c1529e9dddb0f021b7a2fbd54a07f73a7f8f78377aa",
+      "view": "14_EntranceExterior"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\15_Apron.png",
+      "sha256": "9bb263e46a8ebb8e6c4cd5f66848f464eba6b0aef547bbb6d60d2c88b63f0a26",
+      "view": "15_Apron"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\16_Runway.png",
+      "sha256": "68fd4ac5f4579dcc5ee723331ec3c73f006b5646b1ef6addc8b8c7199f3faf94",
+      "view": "16_Runway"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\17_StaffOperations.png",
+      "sha256": "67cfd539cbd0ba107a247fa6a6ae586097671167bdccb5e0fb852aaffff07699",
+      "view": "17_StaffOperations"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\18_CompletedCheckin.png",
+      "sha256": "38979b11452a11b62af03932f7ed5813a1679f1893b511015ee0832cfbc80d68",
+      "view": "18_CompletedCheckin"
+    }
+  ],
+  "step": 158,
+  "continuous_walk": true,
+  "teleports": 0,
+  "elapsed_s": 141.04699999999866,
+  "viewport": [
+    1920,
+    1080
+  ],
+  "journey": {
+    "checked_in": true,
+    "bag_accepted": true,
+    "security": true,
+    "aboard": true
+  }
+}

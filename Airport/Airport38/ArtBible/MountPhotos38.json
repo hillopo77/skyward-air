@@ -1,0 +1,493 @@
+{
+  "status": "SUCCESS",
+  "step": 4,
+  "captures": [
+    {
+      "name": "44_PreparationRearMounted",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Screenshots\\44_PreparationRearMounted.png",
+      "sha256": "342d0d9a1ea2888806f0bcd613afd123b9055c1e048040eeff360e67bae50db8"
+    },
+    {
+      "name": "45_PreparationFrontMounted",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Screenshots\\45_PreparationFrontMounted.png",
+      "sha256": "61c40452cdf777971687ee5e8d9b94810391802abfad43d01b8a6235c0337e6f"
+    },
+    {
+      "name": "46_PreparationSideMounted",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Screenshots\\46_PreparationSideMounted.png",
+      "sha256": "72cc16c6fdfbcb83155a55c8f9718bcc1070043633ccd10e30cb3a876fa08f50"
+    },
+    {
+      "name": "47_CeilingSoftFill",
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Screenshots\\47_CeilingSoftFill.png",
+      "sha256": "e55e4f201883eb534c4f4f0652ad1541104955327d6138cbe949b8ccea7dccee"
+    }
+  ],
+  "samples": [
+    {
+      "time": 3.6090000000112923,
+      "view": "44_PreparationRearMounted",
+      "objects": {
+        "X-ray scanner 01": {
+          "position": [
+            -43.15,
+            3.0,
+            0.0
+          ],
+          "speed": 0.0
+        },
+        "X-ray scanner 02": {
+          "position": [
+            -38.05,
+            3.0,
+            0.0
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 01": {
+          "position": [
+            -45.69,
+            -17.25,
+            0.3
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 02": {
+          "position": [
+            -35.71,
+            -17.2,
+            0.3
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 03": {
+          "position": [
+            -34.68440888670624,
+            2.976857197674788,
+            -0.002008527370109192
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 04": {
+          "position": [
+            -15.309902898838132,
+            7.017547664393603,
+            0.053079904166287266
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 05": {
+          "position": [
+            -27.500796883123694,
+            25.79968335559257,
+            -0.0019988162706705737
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 06": {
+          "position": [
+            -36.1999160942374,
+            28.798759258836245,
+            -0.00199097069601045
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 07": {
+          "position": [
+            -15.999132423797642,
+            -18.80080155346235,
+            -0.001995310275621307
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 08": {
+          "position": [
+            -15.498727830093694,
+            -20.499946938650893,
+            -0.0020018147169717083
+          ],
+          "speed": 0.0
+        }
+      }
+    },
+    {
+      "time": 4.953000000008615,
+      "view": "45_PreparationFrontMounted",
+      "objects": {
+        "X-ray scanner 01": {
+          "position": [
+            -43.15,
+            3.0,
+            0.0
+          ],
+          "speed": 0.0
+        },
+        "X-ray scanner 02": {
+          "position": [
+            -38.05,
+            3.0,
+            0.0
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 01": {
+          "position": [
+            -45.69,
+            -17.25,
+            0.3
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 02": {
+          "position": [
+            -35.71,
+            -17.2,
+            0.3
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 03": {
+          "position": [
+            -34.68440888670624,
+            2.976857197674788,
+            -0.002008527370109192
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 04": {
+          "position": [
+            -15.309902898838132,
+            7.017547664393603,
+            0.053079904166287266
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 05": {
+          "position": [
+            -27.500796883123694,
+            25.79968335559257,
+            -0.0019988162706705737
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 06": {
+          "position": [
+            -36.1999160942374,
+            28.798759258836245,
+            -0.00199097069601045
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 07": {
+          "position": [
+            -15.999132423797642,
+            -18.80080155346235,
+            -0.001995310275621307
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 08": {
+          "position": [
+            -15.498727830093694,
+            -20.499946938650893,
+            -0.0020018147169717083
+          ],
+          "speed": 0.0
+        }
+      }
+    },
+    {
+      "time": 6.187000000005355,
+      "view": "46_PreparationSideMounted",
+      "objects": {
+        "X-ray scanner 01": {
+          "position": [
+            -43.15,
+            3.0,
+            0.0
+          ],
+          "speed": 0.0
+        },
+        "X-ray scanner 02": {
+          "position": [
+            -38.05,
+            3.0,
+            0.0
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 01": {
+          "position": [
+            -45.69,
+            -17.25,
+            0.3
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 02": {
+          "position": [
+            -35.71,
+            -17.2,
+            0.3
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 03": {
+          "position": [
+            -34.68440888670624,
+            2.976857197674788,
+            -0.002008527370109192
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 04": {
+          "position": [
+            -15.309902898838132,
+            7.017547664393603,
+            0.053079904166287266
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 05": {
+          "position": [
+            -27.500796883123694,
+            25.79968335559257,
+            -0.0019988162706705737
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 06": {
+          "position": [
+            -36.1999160942374,
+            28.798759258836245,
+            -0.00199097069601045
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 07": {
+          "position": [
+            -15.999132423797642,
+            -18.80080155346235,
+            -0.001995310275621307
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 08": {
+          "position": [
+            -15.498727830093694,
+            -20.499946938650893,
+            -0.0020018147169717083
+          ],
+          "speed": 0.0
+        }
+      }
+    },
+    {
+      "time": 7.422000000005937,
+      "view": "47_CeilingSoftFill",
+      "objects": {
+        "X-ray scanner 01": {
+          "position": [
+            -43.15,
+            3.0,
+            0.0
+          ],
+          "speed": 0.0
+        },
+        "X-ray scanner 02": {
+          "position": [
+            -38.05,
+            3.0,
+            0.0
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 01": {
+          "position": [
+            -45.69,
+            -17.25,
+            0.3
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 02": {
+          "position": [
+            -35.71,
+            -17.2,
+            0.3
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 03": {
+          "position": [
+            -34.68440888670624,
+            2.976857197674788,
+            -0.002008527370109192
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 04": {
+          "position": [
+            -15.309902898838132,
+            7.017547664393603,
+            0.053079904166287266
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 05": {
+          "position": [
+            -27.500796883123694,
+            25.79968335559257,
+            -0.0019988162706705737
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 06": {
+          "position": [
+            -36.1999160942374,
+            28.798759258836245,
+            -0.00199097069601045
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 07": {
+          "position": [
+            -15.999132423797642,
+            -18.80080155346235,
+            -0.001995310275621307
+          ],
+          "speed": 0.0
+        },
+        "Physical luggage 08": {
+          "position": [
+            -15.498727830093694,
+            -20.499946938650893,
+            -0.0020018147169717083
+          ],
+          "speed": 0.0
+        }
+      }
+    }
+  ],
+  "traces": [
+    {
+      "id": "L02_east_WC",
+      "start": [
+        -15,
+        -3.8,
+        1
+      ],
+      "end": [
+        -12,
+        -3.8,
+        1
+      ],
+      "expected": "block",
+      "blocking": true,
+      "passed": true,
+      "mesh": "SM_AP_Walls38"
+    },
+    {
+      "id": "L03_west_security",
+      "start": [
+        -48,
+        -4.25,
+        1
+      ],
+      "end": [
+        -50,
+        -4.25,
+        1
+      ],
+      "expected": "block",
+      "blocking": true,
+      "passed": true,
+      "mesh": "SM_AP_Walls38"
+    },
+    {
+      "id": "L07_no_y18_partition",
+      "start": [
+        -29,
+        17,
+        1.5
+      ],
+      "end": [
+        -29,
+        19,
+        1.5
+      ],
+      "expected": "clear",
+      "blocking": false,
+      "passed": true,
+      "mesh": null
+    },
+    {
+      "id": "L09_no_A07_inner_wall",
+      "start": [
+        -24,
+        4,
+        1.5
+      ],
+      "end": [
+        -22,
+        4,
+        1.5
+      ],
+      "expected": "clear",
+      "blocking": false,
+      "passed": true,
+      "mesh": null
+    },
+    {
+      "id": "baggage_window01",
+      "start": [
+        -26.8,
+        -13,
+        1.25
+      ],
+      "end": [
+        -25.2,
+        -13,
+        1.25
+      ],
+      "expected": "clear",
+      "blocking": false,
+      "passed": true,
+      "mesh": null
+    },
+    {
+      "id": "baggage_window02",
+      "start": [
+        -26.8,
+        -16,
+        1.25
+      ],
+      "end": [
+        -25.2,
+        -16,
+        1.25
+      ],
+      "expected": "clear",
+      "blocking": false,
+      "passed": true,
+      "mesh": null
+    },
+    {
+      "id": "baggage_wall_below",
+      "start": [
+        -26.8,
+        -16,
+        0.3
+      ],
+      "end": [
+        -25.2,
+        -16,
+        0.3
+      ],
+      "expected": "block",
+      "blocking": true,
+      "passed": true,
+      "mesh": "SM_AP_Walls38"
+    }
+  ]
+}

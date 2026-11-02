@@ -1,0 +1,23 @@
+{
+ "status": "SUCCESS",
+ "blender": "5.2.2 LTS",
+ "asset": "SM_AP_P46RooftopPlant",
+ "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass46\\RoofBuild\\SM_AP_P46RooftopPlant.fbx",
+ "materials": [
+  "MI_AP_P38BSteel",
+  "MI_AP_DarkSteel_001",
+  "MI_AP_P38ARubber",
+  "MI_AP_P38AHousing"
+ ],
+ "units": {
+  "ahu": 3,
+  "condenser": 4,
+  "exhaust": 5,
+  "gooseneck": 4,
+  "hatch": 1
+ },
+ "walkways": 1,
+ "trays": 1,
+ "parts": 294,
+ "triangles": 21640
+}

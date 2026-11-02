@@ -1,0 +1,236 @@
+[
+  {
+    "name": "SECURITY  /  PREPARE HERE",
+    "text": "SECURITY  /  PREPARE HERE",
+    "location": [
+      -42.0,
+      -4.232999801635742,
+      3.1500000953674316
+    ],
+    "collections": [
+      "Scene Collection"
+    ],
+    "render": false
+  },
+  {
+    "name": "SCREENING  01",
+    "text": "SCREENING  01",
+    "location": [
+      -45.20000076293945,
+      -2.0829999446868896,
+      2.8499999046325684
+    ],
+    "collections": [
+      "Scene Collection"
+    ],
+    "render": false
+  },
+  {
+    "name": "SCREENING  02",
+    "text": "SCREENING  02",
+    "location": [
+      -39.45000076293945,
+      -2.0829999446868896,
+      2.8499999046325684
+    ],
+    "collections": [
+      "Scene Collection"
+    ],
+    "render": false
+  },
+  {
+    "name": "REPACK  /  TAKE YOUR TIME",
+    "text": "REPACK  /  TAKE YOUR TIME",
+    "location": [
+      -35.862998962402344,
+      1.0,
+      2.7200000286102295
+    ],
+    "collections": [
+      "Scene Collection"
+    ],
+    "render": false
+  },
+  {
+    "name": "GATES  A07  /  A08",
+    "text": "GATES  A07  /  A08",
+    "location": [
+      -32.2130012512207,
+      1.5,
+      2.9800000190734863
+    ],
+    "collections": [
+      "Scene Collection"
+    ],
+    "render": false
+  },
+  {
+    "name": "GATE A07",
+    "text": "GATE A07",
+    "location": [
+      -15.083000183105469,
+      4.800000190734863,
+      3.049999952316284
+    ],
+    "collections": [
+      "Scene Collection"
+    ],
+    "render": false
+  },
+  {
+    "name": "A07  /  LOUNGE",
+    "text": "A07  /  LOUNGE",
+    "location": [
+      -26.202999114990234,
+      4.5,
+      3.0
+    ],
+    "collections": [
+      "Scene Collection"
+    ],
+    "render": false
+  },
+  {
+    "name": "GATE A08",
+    "text": "GATE A08",
+    "location": [
+      -15.083000183105469,
+      13.300000190734863,
+      3.049999952316284
+    ],
+    "collections": [
+      "Scene Collection"
+    ],
+    "render": false
+  },
+  {
+    "name": "A08  /  LOUNGE",
+    "text": "A08  /  LOUNGE",
+    "location": [
+      -26.202999114990234,
+      11.5,
+      3.0
+    ],
+    "collections": [
+      "Scene Collection"
+    ],
+    "render": false
+  },
+  {
+    "name": "A07  RIGHT  /  A08  AHEAD",
+    "text": "A07  RIGHT  /  A08  AHEAD",
+    "location": [
+      -29.0,
+      7.017000198364258,
+      3.200000047683716
+    ],
+    "collections": [
+      "Scene Collection"
+    ],
+    "render": false
+  },
+  {
+    "name": "CAF\u00c9  /  GALLERY",
+    "text": "CAF\u00c9  /  GALLERY",
+    "location": [
+      -32.202999114990234,
+      8.5,
+      2.950000047683716
+    ],
+    "collections": [
+      "Scene Collection"
+    ],
+    "render": false
+  },
+  {
+    "name": "TOILETS  /  ASSISTANCE",
+    "text": "TOILETS  /  ASSISTANCE",
+    "location": [
+      -26.202999114990234,
+      -3.0,
+      2.6500000953674316
+    ],
+    "collections": [
+      "Scene Collection"
+    ],
+    "render": false
+  },
+  {
+    "name": "CLOUD NINE  /  COFFEE & BAKERY",
+    "text": "CLOUD NINE  /  COFFEE & BAKERY",
+    "location": [
+      -44.29999923706055,
+      16.41699981689453,
+      2.5299999713897705
+    ],
+    "collections": [
+      "Scene Collection"
+    ],
+    "render": false
+  },
+  {
+    "name": "WC  1",
+    "text": "WC  1",
+    "location": [
+      -21.0,
+      -7.313000202178955,
+      2.430000066757202
+    ],
+    "collections": [
+      "Scene Collection"
+    ],
+    "render": false
+  },
+  {
+    "name": "WC  2",
+    "text": "WC  2",
+    "location": [
+      -17.100000381469727,
+      -7.313000202178955,
+      2.430000066757202
+    ],
+    "collections": [
+      "Scene Collection"
+    ],
+    "render": false
+  },
+  {
+    "name": "OPERATIONS  /  STAFF",
+    "text": "OPERATIONS  /  STAFF",
+    "location": [
+      -42.0,
+      6.7769999504089355,
+      2.7200000286102295
+    ],
+    "collections": [
+      "Scene Collection"
+    ],
+    "render": false
+  },
+  {
+    "name": "BAGGAGE  /  ARRIVALS",
+    "text": "BAGGAGE  /  ARRIVALS",
+    "location": [
+      -19.0,
+      -12.282999992370605,
+      2.799999952316284
+    ],
+    "collections": [
+      "Scene Collection"
+    ],
+    "render": false
+  },
+  {
+    "name": "PUBLIC EXIT",
+    "text": "PUBLIC EXIT",
+    "location": [
+      -25.232999801635742,
+      -20.0,
+      2.75
+    ],
+    "collections": [
+      "Scene Collection"
+    ],
+    "render": false
+  }
+]

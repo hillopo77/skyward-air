@@ -1,0 +1,29 @@
+{
+ "status": "SUCCESS",
+ "asset": "SM_AP_P47SignFaces",
+ "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\SignBuild\\SM_AP_P47SignFaces.fbx",
+ "materials": [
+  "MI_AP_P38ANavy",
+  "MI_AP_P38AText",
+  "MI_AP_P38AGold"
+ ],
+ "signs": [
+  {
+   "id": "Checkin_start",
+   "text_shift_m": -0.26,
+   "plate_depth": [
+    0.06,
+    0.07
+   ]
+  },
+  {
+   "id": "Cafe_concourse",
+   "text_shift_m": -0.26,
+   "plate_depth": [
+    0.06,
+    0.07
+   ]
+  }
+ ],
+ "polygons": 3297
+}

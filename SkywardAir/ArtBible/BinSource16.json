@@ -1,0 +1,58 @@
+{
+  "status": "SUCCESS",
+  "revision": "16",
+  "source_sha256": "ae048f469cf2a55e726e07289c23dc5514783b5656ea1e928a3da6a72f8105d0",
+  "changed_assets": [
+    "SM_Plane_OverheadBinDoor10_L",
+    "SM_Plane_OverheadBinDoor10_R",
+    "SM_Plane_Rack_L",
+    "SM_Plane_Rack_R"
+  ],
+  "bin_depth_increase_percent": 4.794520547945202,
+  "lower_edge_drop_m": 0.03,
+  "inward_extension_m": 0.035,
+  "measured_geometry": [
+    {
+      "side": "R",
+      "lowest_underside_m": 1.8350000381469727,
+      "inner_edge_abs_x_m": 1.4335616827011108,
+      "hinge_abs_x_m": 1.465000033378601,
+      "hinge_z_m": 2.294999837875366,
+      "closed_leaf_lowest_m": 1.9589998424053192
+    },
+    {
+      "side": "L",
+      "lowest_underside_m": 1.8350000381469727,
+      "inner_edge_abs_x_m": 1.4335616827011108,
+      "hinge_abs_x_m": 1.465000033378601,
+      "hinge_z_m": 2.294999837875366,
+      "closed_leaf_lowest_m": 1.9589998424053192
+    }
+  ],
+  "attached_service_parts_moved": 140,
+  "navigation_bounds_unchanged": true,
+  "scope": "Small bin sizing edit. Existing cargo, exterior, rooms and seats are preserved. No full walking or all-fittings test requested.",
+  "checks": [
+    {
+      "test": "R bin bottom lowered by 3cm and inner hinge shifted 3.5cm",
+      "passed": true
+    },
+    {
+      "test": "R side-bin underside retains clearance above standing eye height",
+      "passed": true,
+      "vertical_margin_above_eye_m": 0.21500003814697255,
+      "location": "Off the central aisle, above side passenger seating"
+    },
+    {
+      "test": "L bin bottom lowered by 3cm and inner hinge shifted 3.5cm",
+      "passed": true
+    },
+    {
+      "test": "L side-bin underside retains clearance above standing eye height",
+      "passed": true,
+      "vertical_margin_above_eye_m": 0.21500003814697255,
+      "location": "Off the central aisle, above side passenger seating"
+    }
+  ],
+  "method": "Read-only saved-mesh vertex extents and actual hinge placements; no authoring helper invoked."
+}

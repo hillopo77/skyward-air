@@ -1,0 +1,2725 @@
+{
+  "status": "IMPLEMENTED_SOURCE_REQUIRES_NATIVE_VISUAL_VALIDATION",
+  "asset_ids": [
+    "SM_AP_TerminalWallFinish43",
+    "SM_AP_BaggageBackdrop43",
+    "SM_AP_Walls38",
+    "SM_AP_Floors38",
+    "SM_AP_Ceilings38"
+  ],
+  "new_assets": [
+    "SM_AP_TerminalWallFinish43",
+    "SM_AP_BaggageBackdrop43"
+  ],
+  "material_changes": [
+    {
+      "asset": "SM_AP_Walls38",
+      "part": "Exposed Walls38 structure union38",
+      "slot": 0,
+      "before": "MI_AP_P38ACream",
+      "after": "MI_AP_P43TPlaster"
+    },
+    {
+      "asset": "SM_AP_Walls38",
+      "part": "Exposed Walls38 structure union38",
+      "slot": 2,
+      "before": "MI_AP_P38ANavy",
+      "after": "MI_AP_P43TDado"
+    },
+    {
+      "asset": "SM_AP_Walls38",
+      "part": "Exposed Walls38 structure union38",
+      "slot": 3,
+      "before": "MI_AP_P38AOak",
+      "after": "MI_AP_P43TOak"
+    },
+    {
+      "asset": "SM_AP_Walls38",
+      "part": "Exposed Walls38 structure union38",
+      "slot": 6,
+      "before": "MI_AP_P38ASage",
+      "after": "MI_AP_P43TDado"
+    },
+    {
+      "asset": "SM_AP_Walls38",
+      "part": "Exposed Walls38 structure union38",
+      "slot": 7,
+      "before": "MI_AP_P38ACeiling",
+      "after": "MI_AP_P43TCeiling"
+    },
+    {
+      "asset": "SM_AP_Walls38",
+      "part": "WelcomeCheckin constructed curved aperture corner39 left",
+      "slot": 0,
+      "before": "MI_AP_P38ACream",
+      "after": "MI_AP_P43TPlaster"
+    },
+    {
+      "asset": "SM_AP_Walls38",
+      "part": "WelcomeCheckin constructed curved aperture corner39 right",
+      "slot": 0,
+      "before": "MI_AP_P38ACream",
+      "after": "MI_AP_P43TPlaster"
+    },
+    {
+      "asset": "SM_AP_Walls38",
+      "part": "A07 constructed curved aperture corner39 left",
+      "slot": 0,
+      "before": "MI_AP_P38ACream",
+      "after": "MI_AP_P43TPlaster"
+    },
+    {
+      "asset": "SM_AP_Walls38",
+      "part": "A07 constructed curved aperture corner39 right",
+      "slot": 0,
+      "before": "MI_AP_P38ACream",
+      "after": "MI_AP_P43TPlaster"
+    },
+    {
+      "asset": "SM_AP_Walls38",
+      "part": "A08 constructed curved aperture corner39 left",
+      "slot": 0,
+      "before": "MI_AP_P38ACream",
+      "after": "MI_AP_P43TPlaster"
+    },
+    {
+      "asset": "SM_AP_Walls38",
+      "part": "A08 constructed curved aperture corner39 right",
+      "slot": 0,
+      "before": "MI_AP_P38ACream",
+      "after": "MI_AP_P43TPlaster"
+    },
+    {
+      "asset": "SM_AP_Walls38",
+      "part": "Cafe constructed curved aperture corner39 left",
+      "slot": 0,
+      "before": "MI_AP_P38ACream",
+      "after": "MI_AP_P43TPlaster"
+    },
+    {
+      "asset": "SM_AP_Walls38",
+      "part": "Cafe constructed curved aperture corner39 right",
+      "slot": 0,
+      "before": "MI_AP_P38ACream",
+      "after": "MI_AP_P43TPlaster"
+    },
+    {
+      "asset": "SM_AP_Walls38",
+      "part": "Recovery constructed curved aperture corner39 left",
+      "slot": 0,
+      "before": "MI_AP_P38ACream",
+      "after": "MI_AP_P43TPlaster"
+    },
+    {
+      "asset": "SM_AP_Walls38",
+      "part": "Recovery constructed curved aperture corner39 right",
+      "slot": 0,
+      "before": "MI_AP_P38ACream",
+      "after": "MI_AP_P43TPlaster"
+    },
+    {
+      "asset": "SM_AP_Walls38",
+      "part": "WC constructed curved aperture corner39 left",
+      "slot": 0,
+      "before": "MI_AP_P38ACream",
+      "after": "MI_AP_P43TPlaster"
+    },
+    {
+      "asset": "SM_AP_Walls38",
+      "part": "WC constructed curved aperture corner39 right",
+      "slot": 0,
+      "before": "MI_AP_P38ACream",
+      "after": "MI_AP_P43TPlaster"
+    },
+    {
+      "asset": "SM_AP_Floors38",
+      "part": "Exposed Floors38 structure union38",
+      "slot": 0,
+      "before": "MI_AP_P38AStone",
+      "after": "MI_AP_P43TFloor"
+    },
+    {
+      "asset": "SM_AP_Floors38",
+      "part": "Exposed Floors38 structure union38",
+      "slot": 1,
+      "before": "MI_AP_P38ACarpet",
+      "after": "MI_AP_P43TCarpet"
+    },
+    {
+      "asset": "SM_AP_Floors38",
+      "part": "Exposed Floors38 structure union38",
+      "slot": 2,
+      "before": "MI_AP_P38AWCStone",
+      "after": "MI_AP_P43TWC"
+    },
+    {
+      "asset": "SM_AP_Ceilings38",
+      "part": "Exposed Ceilings38 structure union38",
+      "slot": 0,
+      "before": "MI_AP_P38ACeiling",
+      "after": "MI_AP_P43TCeiling"
+    }
+  ],
+  "wall_panels": {
+    "panels": 298,
+    "surfaces": [
+      {
+        "zone": "publicreturn",
+        "axis": "x",
+        "k": -18,
+        "side": -1,
+        "interval": [
+          -49,
+          -43
+        ],
+        "height": [
+          1.075,
+          3.5
+        ],
+        "panel_count": 3
+      },
+      {
+        "zone": "entrancefoyer",
+        "axis": "x",
+        "k": -18,
+        "side": 1,
+        "interval": [
+          -49,
+          -43
+        ],
+        "height": [
+          1.075,
+          3.5
+        ],
+        "panel_count": 3
+      },
+      {
+        "zone": "publicreturn",
+        "axis": "x",
+        "k": -18,
+        "side": -1,
+        "interval": [
+          -43,
+          -26
+        ],
+        "height": [
+          1.075,
+          3.6999999999999997
+        ],
+        "panel_count": 7
+      },
+      {
+        "zone": "checkin",
+        "axis": "x",
+        "k": -18,
+        "side": 1,
+        "interval": [
+          -43,
+          -26
+        ],
+        "height": [
+          1.075,
+          3.6999999999999997
+        ],
+        "panel_count": 7
+      },
+      {
+        "zone": "entrancefoyer",
+        "axis": "x",
+        "k": -8,
+        "side": -1,
+        "interval": [
+          -49,
+          -43
+        ],
+        "height": [
+          1.075,
+          3.5
+        ],
+        "panel_count": 3
+      },
+      {
+        "zone": "landsidecorridor",
+        "axis": "x",
+        "k": -8,
+        "side": 1,
+        "interval": [
+          -49,
+          -43
+        ],
+        "height": [
+          1.075,
+          3.5
+        ],
+        "panel_count": 3
+      },
+      {
+        "zone": "checkin",
+        "axis": "x",
+        "k": -8,
+        "side": -1,
+        "interval": [
+          -43,
+          -31.5
+        ],
+        "height": [
+          1.075,
+          3.6999999999999997
+        ],
+        "panel_count": 5
+      },
+      {
+        "zone": "checkin",
+        "axis": "x",
+        "k": -8,
+        "side": -1,
+        "interval": [
+          -31.5,
+          -28.5
+        ],
+        "height": [
+          2.8,
+          3.6999999999999997
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "checkin",
+        "axis": "x",
+        "k": -8,
+        "side": -1,
+        "interval": [
+          -28.5,
+          -26
+        ],
+        "height": [
+          1.075,
+          3.6999999999999997
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "landsidecorridor",
+        "axis": "x",
+        "k": -8,
+        "side": 1,
+        "interval": [
+          -43,
+          -31.5
+        ],
+        "height": [
+          1.075,
+          3.6999999999999997
+        ],
+        "panel_count": 5
+      },
+      {
+        "zone": "landsidecorridor",
+        "axis": "x",
+        "k": -8,
+        "side": 1,
+        "interval": [
+          -31.5,
+          -28.5
+        ],
+        "height": [
+          2.8,
+          3.6999999999999997
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "landsidecorridor",
+        "axis": "x",
+        "k": -8,
+        "side": 1,
+        "interval": [
+          -28.5,
+          -26
+        ],
+        "height": [
+          1.075,
+          3.6999999999999997
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "publicreturn",
+        "axis": "y",
+        "k": -49,
+        "side": 1,
+        "interval": [
+          -22,
+          -21.2
+        ],
+        "height": [
+          1.075,
+          3.1
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "publicreturn",
+        "axis": "y",
+        "k": -49,
+        "side": 1,
+        "interval": [
+          -21.2,
+          -18.8
+        ],
+        "height": [
+          2.8,
+          3.1
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "publicreturn",
+        "axis": "y",
+        "k": -49,
+        "side": 1,
+        "interval": [
+          -18.8,
+          -18
+        ],
+        "height": [
+          1.075,
+          3.1
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "facade",
+        "axis": "y",
+        "k": -49,
+        "side": -1,
+        "interval": [
+          -22,
+          -21.2
+        ],
+        "height": [
+          1.075,
+          3.1
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "facade",
+        "axis": "y",
+        "k": -49,
+        "side": -1,
+        "interval": [
+          -21.2,
+          -18.8
+        ],
+        "height": [
+          2.8,
+          3.1
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "facade",
+        "axis": "y",
+        "k": -49,
+        "side": -1,
+        "interval": [
+          -18.8,
+          -18
+        ],
+        "height": [
+          1.075,
+          3.1
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "landsidecorridor",
+        "axis": "y",
+        "k": -49,
+        "side": 1,
+        "interval": [
+          -8,
+          -4
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "facade",
+        "axis": "y",
+        "k": -49,
+        "side": -1,
+        "interval": [
+          -8,
+          -4
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "security",
+        "axis": "y",
+        "k": -49,
+        "side": 1,
+        "interval": [
+          -4,
+          10
+        ],
+        "height": [
+          1.075,
+          3.4
+        ],
+        "panel_count": 6
+      },
+      {
+        "zone": "facade",
+        "axis": "y",
+        "k": -49,
+        "side": -1,
+        "interval": [
+          -4,
+          10
+        ],
+        "height": [
+          1.075,
+          3.4
+        ],
+        "panel_count": 6
+      },
+      {
+        "zone": "entrancefoyer",
+        "axis": "y",
+        "k": -43,
+        "side": -1,
+        "interval": [
+          -18,
+          -16.3
+        ],
+        "height": [
+          1.075,
+          3.6999999999999997
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "entrancefoyer",
+        "axis": "y",
+        "k": -43,
+        "side": -1,
+        "interval": [
+          -16.3,
+          -13.7
+        ],
+        "height": [
+          2.8,
+          3.6999999999999997
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "entrancefoyer",
+        "axis": "y",
+        "k": -43,
+        "side": -1,
+        "interval": [
+          -13.7,
+          -8
+        ],
+        "height": [
+          1.075,
+          3.6999999999999997
+        ],
+        "panel_count": 3
+      },
+      {
+        "zone": "checkin",
+        "axis": "y",
+        "k": -43,
+        "side": 1,
+        "interval": [
+          -18,
+          -16.3
+        ],
+        "height": [
+          1.075,
+          3.6999999999999997
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "checkin",
+        "axis": "y",
+        "k": -43,
+        "side": 1,
+        "interval": [
+          -16.3,
+          -13.7
+        ],
+        "height": [
+          2.8,
+          3.6999999999999997
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "checkin",
+        "axis": "y",
+        "k": -43,
+        "side": 1,
+        "interval": [
+          -13.7,
+          -8
+        ],
+        "height": [
+          1.075,
+          3.6999999999999997
+        ],
+        "panel_count": 3
+      },
+      {
+        "zone": "publicreturn",
+        "axis": "y",
+        "k": -26,
+        "side": -1,
+        "interval": [
+          -18.5,
+          -18
+        ],
+        "height": [
+          1.075,
+          3.1
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "amenitylobby",
+        "axis": "y",
+        "k": -26,
+        "side": 1,
+        "interval": [
+          -12,
+          -8
+        ],
+        "height": [
+          1.075,
+          3.6999999999999997
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "landsidecorridor",
+        "axis": "y",
+        "k": -26,
+        "side": -1,
+        "interval": [
+          -8,
+          -4
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "amenitylobby",
+        "axis": "y",
+        "k": -26,
+        "side": 1,
+        "interval": [
+          -8,
+          -4
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "concourse",
+        "axis": "y",
+        "k": -26,
+        "side": -1,
+        "interval": [
+          -3.9,
+          -2.1
+        ],
+        "height": [
+          2.8,
+          3.3
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "concourse",
+        "axis": "y",
+        "k": -26,
+        "side": -1,
+        "interval": [
+          -2.1,
+          -1
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "amenitylobby",
+        "axis": "y",
+        "k": -26,
+        "side": 1,
+        "interval": [
+          -3.9,
+          -2.1
+        ],
+        "height": [
+          2.8,
+          3.3
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "amenitylobby",
+        "axis": "y",
+        "k": -26,
+        "side": 1,
+        "interval": [
+          -2.1,
+          -1
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "concourse",
+        "axis": "y",
+        "k": -26,
+        "side": -1,
+        "interval": [
+          -1,
+          2.1
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "concourse",
+        "axis": "y",
+        "k": -26,
+        "side": -1,
+        "interval": [
+          5.9,
+          10
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "gate07entry",
+        "axis": "y",
+        "k": -26,
+        "side": 1,
+        "interval": [
+          -1,
+          2.1
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "gate07entry",
+        "axis": "y",
+        "k": -26,
+        "side": 1,
+        "interval": [
+          5.9,
+          10
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "concourse",
+        "axis": "y",
+        "k": -26,
+        "side": -1,
+        "interval": [
+          10,
+          14
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "facade",
+        "axis": "y",
+        "k": -26,
+        "side": 1,
+        "interval": [
+          10,
+          14
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "publicreturn",
+        "axis": "x",
+        "k": -22,
+        "side": 1,
+        "interval": [
+          -49,
+          -26
+        ],
+        "height": [
+          1.075,
+          3.1
+        ],
+        "panel_count": 10
+      },
+      {
+        "zone": "facade",
+        "axis": "x",
+        "k": -22,
+        "side": -1,
+        "interval": [
+          -49,
+          -26
+        ],
+        "height": [
+          1.075,
+          3.1
+        ],
+        "panel_count": 10
+      },
+      {
+        "zone": "publicreturneast",
+        "axis": "x",
+        "k": -22,
+        "side": 1,
+        "interval": [
+          -26,
+          -25
+        ],
+        "height": [
+          1.075,
+          3.1
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "facade",
+        "axis": "x",
+        "k": -22,
+        "side": -1,
+        "interval": [
+          -26,
+          -25
+        ],
+        "height": [
+          1.075,
+          3.1
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "arrivalsreturn",
+        "axis": "x",
+        "k": -22,
+        "side": 1,
+        "interval": [
+          -25,
+          -22
+        ],
+        "height": [
+          1.075,
+          3.5
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "facade",
+        "axis": "x",
+        "k": -22,
+        "side": -1,
+        "interval": [
+          -25,
+          -22
+        ],
+        "height": [
+          1.075,
+          3.5
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "arrivals",
+        "axis": "x",
+        "k": -22,
+        "side": 1,
+        "interval": [
+          -22,
+          -14
+        ],
+        "height": [
+          1.075,
+          3.5
+        ],
+        "panel_count": 4
+      },
+      {
+        "zone": "facade",
+        "axis": "x",
+        "k": -22,
+        "side": -1,
+        "interval": [
+          -22,
+          -14
+        ],
+        "height": [
+          1.075,
+          3.5
+        ],
+        "panel_count": 4
+      },
+      {
+        "zone": "landsidecorridor",
+        "axis": "x",
+        "k": -4,
+        "side": -1,
+        "interval": [
+          -49,
+          -43.2
+        ],
+        "height": [
+          1.075,
+          3.4
+        ],
+        "panel_count": 3
+      },
+      {
+        "zone": "landsidecorridor",
+        "axis": "x",
+        "k": -4,
+        "side": -1,
+        "interval": [
+          -43.2,
+          -40.8
+        ],
+        "height": [
+          2.8,
+          3.4
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "landsidecorridor",
+        "axis": "x",
+        "k": -4,
+        "side": -1,
+        "interval": [
+          -40.8,
+          -36
+        ],
+        "height": [
+          1.075,
+          3.4
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "security",
+        "axis": "x",
+        "k": -4,
+        "side": 1,
+        "interval": [
+          -49,
+          -43.2
+        ],
+        "height": [
+          1.075,
+          3.4
+        ],
+        "panel_count": 3
+      },
+      {
+        "zone": "security",
+        "axis": "x",
+        "k": -4,
+        "side": 1,
+        "interval": [
+          -43.2,
+          -40.8
+        ],
+        "height": [
+          2.8,
+          3.4
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "security",
+        "axis": "x",
+        "k": -4,
+        "side": 1,
+        "interval": [
+          -40.8,
+          -36
+        ],
+        "height": [
+          1.075,
+          3.4
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "landsidecorridor",
+        "axis": "x",
+        "k": -4,
+        "side": -1,
+        "interval": [
+          -36,
+          -32
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "facade",
+        "axis": "x",
+        "k": -4,
+        "side": 1,
+        "interval": [
+          -36,
+          -32
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "landsidecorridor",
+        "axis": "x",
+        "k": -4,
+        "side": -1,
+        "interval": [
+          -32,
+          -26
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 3
+      },
+      {
+        "zone": "concourse",
+        "axis": "x",
+        "k": -4,
+        "side": 1,
+        "interval": [
+          -32,
+          -26
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 3
+      },
+      {
+        "zone": "security",
+        "axis": "x",
+        "k": 10,
+        "side": -1,
+        "interval": [
+          -49,
+          -46.5
+        ],
+        "height": [
+          1.075,
+          3.4
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "security",
+        "axis": "x",
+        "k": 10,
+        "side": -1,
+        "interval": [
+          -46.5,
+          -45.5
+        ],
+        "height": [
+          2.8,
+          3.4
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "security",
+        "axis": "x",
+        "k": 10,
+        "side": -1,
+        "interval": [
+          -45.5,
+          -38
+        ],
+        "height": [
+          1.075,
+          3.4
+        ],
+        "panel_count": 4
+      },
+      {
+        "zone": "security",
+        "axis": "x",
+        "k": 10,
+        "side": -1,
+        "interval": [
+          -38,
+          -36
+        ],
+        "height": [
+          1.075,
+          3.4
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "cafefoyer",
+        "axis": "x",
+        "k": 10,
+        "side": 1,
+        "interval": [
+          -38,
+          -36
+        ],
+        "height": [
+          1.075,
+          3.4
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "recovery",
+        "axis": "x",
+        "k": 10,
+        "side": -1,
+        "interval": [
+          -36,
+          -32
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "cafefoyer",
+        "axis": "x",
+        "k": 10,
+        "side": 1,
+        "interval": [
+          -36,
+          -32
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "gate07entry",
+        "axis": "x",
+        "k": 10,
+        "side": -1,
+        "interval": [
+          -26,
+          -23
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "facade",
+        "axis": "x",
+        "k": 10,
+        "side": 1,
+        "interval": [
+          -26,
+          -23
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "security",
+        "axis": "y",
+        "k": -36,
+        "side": -1,
+        "interval": [
+          -4,
+          0
+        ],
+        "height": [
+          1.075,
+          3.4
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "facade",
+        "axis": "y",
+        "k": -36,
+        "side": 1,
+        "interval": [
+          -4,
+          0
+        ],
+        "height": [
+          1.075,
+          3.4
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "security",
+        "axis": "y",
+        "k": -36,
+        "side": -1,
+        "interval": [
+          0,
+          5.3
+        ],
+        "height": [
+          1.075,
+          3.4
+        ],
+        "panel_count": 3
+      },
+      {
+        "zone": "security",
+        "axis": "y",
+        "k": -36,
+        "side": -1,
+        "interval": [
+          5.3,
+          7.7
+        ],
+        "height": [
+          2.8,
+          3.4
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "security",
+        "axis": "y",
+        "k": -36,
+        "side": -1,
+        "interval": [
+          7.7,
+          10
+        ],
+        "height": [
+          1.075,
+          3.4
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "recovery",
+        "axis": "y",
+        "k": -36,
+        "side": 1,
+        "interval": [
+          0,
+          5.3
+        ],
+        "height": [
+          1.075,
+          3.4
+        ],
+        "panel_count": 3
+      },
+      {
+        "zone": "recovery",
+        "axis": "y",
+        "k": -36,
+        "side": 1,
+        "interval": [
+          5.3,
+          7.7
+        ],
+        "height": [
+          2.8,
+          3.4
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "recovery",
+        "axis": "y",
+        "k": -36,
+        "side": 1,
+        "interval": [
+          7.7,
+          10
+        ],
+        "height": [
+          1.075,
+          3.4
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "recovery",
+        "axis": "x",
+        "k": 0,
+        "side": 1,
+        "interval": [
+          -36,
+          -32
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "facade",
+        "axis": "x",
+        "k": 0,
+        "side": -1,
+        "interval": [
+          -36,
+          -32
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "concourse",
+        "axis": "y",
+        "k": -32,
+        "side": 1,
+        "interval": [
+          -4,
+          0
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "facade",
+        "axis": "y",
+        "k": -32,
+        "side": -1,
+        "interval": [
+          -4,
+          0
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "recovery",
+        "axis": "y",
+        "k": -32,
+        "side": -1,
+        "interval": [
+          0,
+          4.9
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "recovery",
+        "axis": "y",
+        "k": -32,
+        "side": -1,
+        "interval": [
+          8.1,
+          10
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "concourse",
+        "axis": "y",
+        "k": -32,
+        "side": 1,
+        "interval": [
+          0,
+          4.9
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "concourse",
+        "axis": "y",
+        "k": -32,
+        "side": 1,
+        "interval": [
+          8.1,
+          10
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "cafefoyer",
+        "axis": "y",
+        "k": -32,
+        "side": -1,
+        "interval": [
+          14,
+          16
+        ],
+        "height": [
+          1.075,
+          3.6999999999999997
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "gate08",
+        "axis": "y",
+        "k": -32,
+        "side": 1,
+        "interval": [
+          14,
+          16
+        ],
+        "height": [
+          1.075,
+          3.6999999999999997
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "cafe",
+        "axis": "y",
+        "k": -32,
+        "side": -1,
+        "interval": [
+          16,
+          34
+        ],
+        "height": [
+          1.075,
+          6.7
+        ],
+        "panel_count": 8
+      },
+      {
+        "zone": "gate08",
+        "axis": "y",
+        "k": -32,
+        "side": 1,
+        "interval": [
+          16,
+          34
+        ],
+        "height": [
+          1.075,
+          6.7
+        ],
+        "panel_count": 8
+      },
+      {
+        "zone": "concourse",
+        "axis": "x",
+        "k": 14,
+        "side": -1,
+        "interval": [
+          -32,
+          -31.4
+        ],
+        "height": [
+          1.075,
+          3.6999999999999997
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "concourse",
+        "axis": "x",
+        "k": 14,
+        "side": -1,
+        "interval": [
+          -31.4,
+          -26.6
+        ],
+        "height": [
+          3.12,
+          3.6999999999999997
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "concourse",
+        "axis": "x",
+        "k": 14,
+        "side": -1,
+        "interval": [
+          -26.6,
+          -26
+        ],
+        "height": [
+          1.075,
+          3.6999999999999997
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "gate08",
+        "axis": "x",
+        "k": 14,
+        "side": 1,
+        "interval": [
+          -32,
+          -31.4
+        ],
+        "height": [
+          1.075,
+          3.6999999999999997
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "gate08",
+        "axis": "x",
+        "k": 14,
+        "side": 1,
+        "interval": [
+          -31.4,
+          -26.6
+        ],
+        "height": [
+          3.12,
+          3.6999999999999997
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "gate08",
+        "axis": "x",
+        "k": 14,
+        "side": 1,
+        "interval": [
+          -26.6,
+          -26
+        ],
+        "height": [
+          1.075,
+          3.6999999999999997
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "gate08",
+        "axis": "x",
+        "k": 14,
+        "side": 1,
+        "interval": [
+          -26,
+          -24
+        ],
+        "height": [
+          1.075,
+          3.6999999999999997
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "facade",
+        "axis": "x",
+        "k": 14,
+        "side": -1,
+        "interval": [
+          -26,
+          -24
+        ],
+        "height": [
+          1.075,
+          3.6999999999999997
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "amenities",
+        "axis": "x",
+        "k": -3,
+        "side": -1,
+        "interval": [
+          -23,
+          -14
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 4
+      },
+      {
+        "zone": "gate07",
+        "axis": "x",
+        "k": -3,
+        "side": 1,
+        "interval": [
+          -23,
+          -14
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 4
+      },
+      {
+        "zone": "amenitylobby",
+        "axis": "y",
+        "k": -23,
+        "side": -1,
+        "interval": [
+          -12,
+          -9.4
+        ],
+        "height": [
+          1.075,
+          2.9
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "amenitylobby",
+        "axis": "y",
+        "k": -23,
+        "side": -1,
+        "interval": [
+          -7.6,
+          -3
+        ],
+        "height": [
+          1.075,
+          2.9
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "amenities",
+        "axis": "y",
+        "k": -23,
+        "side": 1,
+        "interval": [
+          -12,
+          -9.4
+        ],
+        "height": [
+          1.075,
+          2.9
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "amenities",
+        "axis": "y",
+        "k": -23,
+        "side": 1,
+        "interval": [
+          -7.6,
+          -3
+        ],
+        "height": [
+          1.075,
+          2.9
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "amenitylobby",
+        "axis": "y",
+        "k": -23,
+        "side": -1,
+        "interval": [
+          -3,
+          -1
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "gate07",
+        "axis": "y",
+        "k": -23,
+        "side": 1,
+        "interval": [
+          -3,
+          -1
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "amenities",
+        "axis": "y",
+        "k": -14,
+        "side": -1,
+        "interval": [
+          -12,
+          -3
+        ],
+        "height": [
+          1.075,
+          2.6999999999999997
+        ],
+        "panel_count": 4
+      },
+      {
+        "zone": "facade",
+        "axis": "y",
+        "k": -14,
+        "side": 1,
+        "interval": [
+          -12,
+          -3
+        ],
+        "height": [
+          1.075,
+          2.6999999999999997
+        ],
+        "panel_count": 4
+      },
+      {
+        "zone": "cafe",
+        "axis": "x",
+        "k": 16,
+        "side": 1,
+        "interval": [
+          -49,
+          -38
+        ],
+        "height": [
+          1.075,
+          6.7
+        ],
+        "panel_count": 5
+      },
+      {
+        "zone": "cafefoyer",
+        "axis": "x",
+        "k": 16,
+        "side": -1,
+        "interval": [
+          -38,
+          -36.3
+        ],
+        "height": [
+          3.4,
+          6.7
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "cafefoyer",
+        "axis": "x",
+        "k": 16,
+        "side": -1,
+        "interval": [
+          -36.3,
+          -32.7
+        ],
+        "height": [
+          3.4,
+          6.7
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "cafefoyer",
+        "axis": "x",
+        "k": 16,
+        "side": -1,
+        "interval": [
+          -32.7,
+          -32
+        ],
+        "height": [
+          3.4,
+          6.7
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "cafe",
+        "axis": "x",
+        "k": 16,
+        "side": 1,
+        "interval": [
+          -38,
+          -36.3
+        ],
+        "height": [
+          3.4,
+          6.7
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "cafe",
+        "axis": "x",
+        "k": 16,
+        "side": 1,
+        "interval": [
+          -36.3,
+          -32.7
+        ],
+        "height": [
+          3.4,
+          6.7
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "cafe",
+        "axis": "x",
+        "k": 16,
+        "side": 1,
+        "interval": [
+          -32.7,
+          -32
+        ],
+        "height": [
+          3.4,
+          6.7
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "cafefoyer",
+        "axis": "y",
+        "k": -38,
+        "side": 1,
+        "interval": [
+          10,
+          16
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 3
+      },
+      {
+        "zone": "amenitylobby",
+        "axis": "x",
+        "k": -12,
+        "side": 1,
+        "interval": [
+          -26,
+          -23
+        ],
+        "height": [
+          1.075,
+          3.1
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "amenities",
+        "axis": "x",
+        "k": -12,
+        "side": 1,
+        "interval": [
+          -23,
+          -22
+        ],
+        "height": [
+          1.075,
+          3.1
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "arrivals",
+        "axis": "x",
+        "k": -12,
+        "side": -1,
+        "interval": [
+          -22,
+          -14
+        ],
+        "height": [
+          1.075,
+          3.5
+        ],
+        "panel_count": 4
+      },
+      {
+        "zone": "amenities",
+        "axis": "x",
+        "k": -12,
+        "side": 1,
+        "interval": [
+          -22,
+          -14
+        ],
+        "height": [
+          1.075,
+          3.5
+        ],
+        "panel_count": 4
+      },
+      {
+        "zone": "amenitylobby",
+        "axis": "x",
+        "k": -1,
+        "side": -1,
+        "interval": [
+          -26,
+          -23
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "gate07entry",
+        "axis": "x",
+        "k": -1,
+        "side": 1,
+        "interval": [
+          -26,
+          -23
+        ],
+        "height": [
+          1.075,
+          3.3
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "publicreturneast",
+        "axis": "x",
+        "k": -18.5,
+        "side": -1,
+        "interval": [
+          -26,
+          -25
+        ],
+        "height": [
+          1.075,
+          3.1
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "arrivalsreturn",
+        "axis": "x",
+        "k": -18.5,
+        "side": -1,
+        "interval": [
+          -25,
+          -22
+        ],
+        "height": [
+          1.075,
+          3.5
+        ],
+        "panel_count": 2
+      },
+      {
+        "zone": "arrivals",
+        "axis": "y",
+        "k": -22,
+        "side": 1,
+        "interval": [
+          -18.224999999999998,
+          -17.075
+        ],
+        "height": [
+          2.6,
+          3.5
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "arrivals",
+        "axis": "y",
+        "k": -22,
+        "side": 1,
+        "interval": [
+          -17.075,
+          -15.899999999999999
+        ],
+        "height": [
+          1.075,
+          3.5
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "arrivals",
+        "axis": "y",
+        "k": -22,
+        "side": 1,
+        "interval": [
+          -15.899999999999999,
+          -13.5
+        ],
+        "height": [
+          2.12,
+          3.5
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "arrivals",
+        "axis": "y",
+        "k": -22,
+        "side": 1,
+        "interval": [
+          -13.5,
+          -12
+        ],
+        "height": [
+          1.075,
+          3.5
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "publicreturneast",
+        "axis": "y",
+        "k": -25,
+        "side": -1,
+        "interval": [
+          -22,
+          -21.2
+        ],
+        "height": [
+          1.075,
+          3.5
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "publicreturneast",
+        "axis": "y",
+        "k": -25,
+        "side": -1,
+        "interval": [
+          -21.2,
+          -18.8
+        ],
+        "height": [
+          2.9,
+          3.5
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "arrivalsreturn",
+        "axis": "y",
+        "k": -25,
+        "side": 1,
+        "interval": [
+          -22,
+          -21.2
+        ],
+        "height": [
+          1.075,
+          3.5
+        ],
+        "panel_count": 1
+      },
+      {
+        "zone": "arrivalsreturn",
+        "axis": "y",
+        "k": -25,
+        "side": 1,
+        "interval": [
+          -21.2,
+          -18.8
+        ],
+        "height": [
+          2.9,
+          3.5
+        ],
+        "panel_count": 1
+      }
+    ],
+    "maximum_projection_from_wall_face_m": 0.051,
+    "cassette_thickness_m": 0.0265,
+    "shadow_joint_m": 0.018,
+    "largest_panel_width_m": 2.45
+  },
+  "baggage_service_portals": [
+    {
+      "centre": -13.0,
+      "clear_width_m": 1.45,
+      "clear_z": [
+        0.55,
+        1.95
+      ],
+      "portal_projection_m": 0.115,
+      "open_rectangle_unchanged": true,
+      "deep_return_m": 0.29,
+      "service_identity": {
+        "bay": "BAY 01",
+        "centre": -13.0,
+        "front_plane_x": -26.16,
+        "glyph_relief_m": 0.01,
+        "text_size_m": 0.26,
+        "text_extrusion_m": 0.006,
+        "mount_penetration_m": 0.001,
+        "parts": 5
+      }
+    },
+    {
+      "centre": -16.0,
+      "clear_width_m": 1.45,
+      "clear_z": [
+        0.55,
+        1.95
+      ],
+      "portal_projection_m": 0.115,
+      "open_rectangle_unchanged": true,
+      "deep_return_m": 0.29,
+      "service_identity": {
+        "bay": "BAY 02",
+        "centre": -16.0,
+        "front_plane_x": -26.16,
+        "glyph_relief_m": 0.01,
+        "text_size_m": 0.26,
+        "text_extrusion_m": 0.006,
+        "mount_penetration_m": 0.001,
+        "parts": 5
+      }
+    }
+  ],
+  "texture_tile_metres": {
+    "P43TPlaster": 4.0,
+    "P43TPlasterWarm": 4.0,
+    "P43TOak": 2.0,
+    "P43TFloor": 2.0,
+    "P43TCarpet": 2.0,
+    "P43TWC": 2.0,
+    "P43TCeiling": 4.0
+  },
+  "floor_joint_m": 0.003,
+  "collision_topology_unchanged": true,
+  "interaction_names_unchanged": true,
+  "public_room_dimensions_unchanged": true,
+  "plane_and_characters_untouched": true,
+  "native_hook": "Fixes/06_visual_finish43/native_finish43.py:apply_native",
+  "native_validation": "Root must bind authored texture graph after fresh asset import and inspect gameplay shots",
+  "source_master_sha256": "80049b883f8bda5eea272b71eaa71bd16132dd51d4de0c17a10b872f1ba927a5",
+  "private_source_only": true,
+  "selected_terminal_instances": 193,
+  "repeat_safe_verified": true,
+  "service_opening_vertex_clearance_verified": true,
+  "unit_blend": "TerminalFinish43_UnitKit.blend",
+  "native_verified": false,
+  "actual_reopen_verified": true,
+  "reopened_unit_sha256": "cbfa2e63e726c3dd35ab1ddd4fb70f72aa1587f7546d0e8aa8c3396934309249",
+  "reopened_service_clearance_rays": [
+    {
+      "point": [
+        -26.5,
+        -13.6899995803833,
+        0.5849999785423279
+      ],
+      "direction": [
+        1,
+        0,
+        0
+      ],
+      "distance_m": 1.0,
+      "clear": true
+    },
+    {
+      "point": [
+        -26.5,
+        -13.6899995803833,
+        1.25
+      ],
+      "direction": [
+        1,
+        0,
+        0
+      ],
+      "distance_m": 1.0,
+      "clear": true
+    },
+    {
+      "point": [
+        -26.5,
+        -13.6899995803833,
+        1.9149999618530273
+      ],
+      "direction": [
+        1,
+        0,
+        0
+      ],
+      "distance_m": 1.0,
+      "clear": true
+    },
+    {
+      "point": [
+        -26.5,
+        -13.0,
+        0.5849999785423279
+      ],
+      "direction": [
+        1,
+        0,
+        0
+      ],
+      "distance_m": 1.0,
+      "clear": true
+    },
+    {
+      "point": [
+        -26.5,
+        -13.0,
+        1.25
+      ],
+      "direction": [
+        1,
+        0,
+        0
+      ],
+      "distance_m": 1.0,
+      "clear": true
+    },
+    {
+      "point": [
+        -26.5,
+        -13.0,
+        1.9149999618530273
+      ],
+      "direction": [
+        1,
+        0,
+        0
+      ],
+      "distance_m": 1.0,
+      "clear": true
+    },
+    {
+      "point": [
+        -26.5,
+        -12.3100004196167,
+        0.5849999785423279
+      ],
+      "direction": [
+        1,
+        0,
+        0
+      ],
+      "distance_m": 1.0,
+      "clear": true
+    },
+    {
+      "point": [
+        -26.5,
+        -12.3100004196167,
+        1.25
+      ],
+      "direction": [
+        1,
+        0,
+        0
+      ],
+      "distance_m": 1.0,
+      "clear": true
+    },
+    {
+      "point": [
+        -26.5,
+        -12.3100004196167,
+        1.9149999618530273
+      ],
+      "direction": [
+        1,
+        0,
+        0
+      ],
+      "distance_m": 1.0,
+      "clear": true
+    },
+    {
+      "point": [
+        -26.5,
+        -16.690000534057617,
+        0.5849999785423279
+      ],
+      "direction": [
+        1,
+        0,
+        0
+      ],
+      "distance_m": 1.0,
+      "clear": true
+    },
+    {
+      "point": [
+        -26.5,
+        -16.690000534057617,
+        1.25
+      ],
+      "direction": [
+        1,
+        0,
+        0
+      ],
+      "distance_m": 1.0,
+      "clear": true
+    },
+    {
+      "point": [
+        -26.5,
+        -16.690000534057617,
+        1.9149999618530273
+      ],
+      "direction": [
+        1,
+        0,
+        0
+      ],
+      "distance_m": 1.0,
+      "clear": true
+    },
+    {
+      "point": [
+        -26.5,
+        -16.0,
+        0.5849999785423279
+      ],
+      "direction": [
+        1,
+        0,
+        0
+      ],
+      "distance_m": 1.0,
+      "clear": true
+    },
+    {
+      "point": [
+        -26.5,
+        -16.0,
+        1.25
+      ],
+      "direction": [
+        1,
+        0,
+        0
+      ],
+      "distance_m": 1.0,
+      "clear": true
+    },
+    {
+      "point": [
+        -26.5,
+        -16.0,
+        1.9149999618530273
+      ],
+      "direction": [
+        1,
+        0,
+        0
+      ],
+      "distance_m": 1.0,
+      "clear": true
+    },
+    {
+      "point": [
+        -26.5,
+        -15.3100004196167,
+        0.5849999785423279
+      ],
+      "direction": [
+        1,
+        0,
+        0
+      ],
+      "distance_m": 1.0,
+      "clear": true
+    },
+    {
+      "point": [
+        -26.5,
+        -15.3100004196167,
+        1.25
+      ],
+      "direction": [
+        1,
+        0,
+        0
+      ],
+      "distance_m": 1.0,
+      "clear": true
+    },
+    {
+      "point": [
+        -26.5,
+        -15.3100004196167,
+        1.9149999618530273
+      ],
+      "direction": [
+        1,
+        0,
+        0
+      ],
+      "distance_m": 1.0,
+      "clear": true
+    }
+  ],
+  "solid_wall_probe_hits": [
+    {
+      "start": [
+        -31.5,
+        22,
+        2.0
+      ],
+      "hit": [
+        -31.868000030517578,
+        22.0,
+        2.0
+      ]
+    },
+    {
+      "start": [
+        -42.5,
+        -17.5,
+        2.0
+      ],
+      "hit": [
+        -42.5,
+        -17.868000030517578,
+        2.0
+      ]
+    }
+  ],
+  "packed_material_graphs": [
+    {
+      "material": "MI_AP_P43TPlaster",
+      "image": "Plaster43.png",
+      "packed": true,
+      "tile_metres": 4.0
+    },
+    {
+      "material": "MI_AP_P43TPlasterWarm",
+      "image": "PlasterWarm43.png",
+      "packed": true,
+      "tile_metres": 4.0
+    },
+    {
+      "material": "MI_AP_P43TOak",
+      "image": "Oak43.png",
+      "packed": true,
+      "tile_metres": 2.0
+    },
+    {
+      "material": "MI_AP_P43TFloor",
+      "image": "Floor43.png",
+      "packed": true,
+      "tile_metres": 2.0
+    },
+    {
+      "material": "MI_AP_P43TCarpet",
+      "image": "Carpet43.png",
+      "packed": true,
+      "tile_metres": 2.0
+    },
+    {
+      "material": "MI_AP_P43TWC",
+      "image": "WC43.png",
+      "packed": true,
+      "tile_metres": 2.0
+    },
+    {
+      "material": "MI_AP_P43TCeiling",
+      "image": "Ceiling43.png",
+      "packed": true,
+      "tile_metres": 4.0
+    }
+  ],
+  "repeat_safe_after_reopen_verified": true,
+  "source_unit_bytes": 4445049,
+  "service_identity_actual_reopen_verified": true,
+  "service_identity_bearing_bounds": [
+    {
+      "part": "43 mounted service identity 01 luggage body",
+      "bounds": [
+        [
+          -26.170000076293945,
+          -26.159000396728516
+        ],
+        [
+          -12.595000267028809,
+          -12.305000305175781
+        ],
+        [
+          2.325000047683716,
+          2.5250000953674316
+        ]
+      ],
+      "type": "MESH",
+      "text": null
+    },
+    {
+      "part": "43 mounted service identity 01 luggage handle left",
+      "bounds": [
+        [
+          -26.170000076293945,
+          -26.159000396728516
+        ],
+        [
+          -12.53499984741211,
+          -12.505000114440918
+        ],
+        [
+          2.5199999809265137,
+          2.5920000076293945
+        ]
+      ],
+      "type": "MESH",
+      "text": null
+    },
+    {
+      "part": "43 mounted service identity 01 luggage handle right",
+      "bounds": [
+        [
+          -26.170000076293945,
+          -26.159000396728516
+        ],
+        [
+          -12.395000457763672,
+          -12.364999771118164
+        ],
+        [
+          2.5199999809265137,
+          2.5920000076293945
+        ]
+      ],
+      "type": "MESH",
+      "text": null
+    },
+    {
+      "part": "43 mounted service identity 01 luggage handle crown",
+      "bounds": [
+        [
+          -26.170000076293945,
+          -26.159000396728516
+        ],
+        [
+          -12.53499984741211,
+          -12.364999771118164
+        ],
+        [
+          2.5739998817443848,
+          2.6040000915527344
+        ]
+      ],
+      "type": "MESH",
+      "text": null
+    },
+    {
+      "part": "43 mounted service identity 01 BAY 01",
+      "bounds": [
+        [
+          -26.165401458740234,
+          -26.158599853515625
+        ],
+        [
+          -13.582959175109863,
+          -12.844539642333984
+        ],
+        [
+          2.3422584533691406,
+          2.52506160736084
+        ]
+      ],
+      "type": "FONT",
+      "text": "BAY 01"
+    },
+    {
+      "part": "43 mounted service identity 02 luggage body",
+      "bounds": [
+        [
+          -26.170000076293945,
+          -26.159000396728516
+        ],
+        [
+          -15.595000267028809,
+          -15.305000305175781
+        ],
+        [
+          2.325000047683716,
+          2.5250000953674316
+        ]
+      ],
+      "type": "MESH",
+      "text": null
+    },
+    {
+      "part": "43 mounted service identity 02 luggage handle left",
+      "bounds": [
+        [
+          -26.170000076293945,
+          -26.159000396728516
+        ],
+        [
+          -15.53499984741211,
+          -15.505000114440918
+        ],
+        [
+          2.5199999809265137,
+          2.5920000076293945
+        ]
+      ],
+      "type": "MESH",
+      "text": null
+    },
+    {
+      "part": "43 mounted service identity 02 luggage handle right",
+      "bounds": [
+        [
+          -26.170000076293945,
+          -26.159000396728516
+        ],
+        [
+          -15.395000457763672,
+          -15.364999771118164
+        ],
+        [
+          2.5199999809265137,
+          2.5920000076293945
+        ]
+      ],
+      "type": "MESH",
+      "text": null
+    },
+    {
+      "part": "43 mounted service identity 02 luggage handle crown",
+      "bounds": [
+        [
+          -26.170000076293945,
+          -26.159000396728516
+        ],
+        [
+          -15.53499984741211,
+          -15.364999771118164
+        ],
+        [
+          2.5739998817443848,
+          2.6040000915527344
+        ]
+      ],
+      "type": "MESH",
+      "text": null
+    },
+    {
+      "part": "43 mounted service identity 02 BAY 02",
+      "bounds": [
+        [
+          -26.165401458740234,
+          -26.158599853515625
+        ],
+        [
+          -16.62611961364746,
+          -15.844539642333984
+        ],
+        [
+          2.3422584533691406,
+          2.52506160736084
+        ]
+      ],
+      "type": "FONT",
+      "text": "BAY 02"
+    }
+  ]
+}

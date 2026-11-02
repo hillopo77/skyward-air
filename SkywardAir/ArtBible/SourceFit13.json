@@ -1,0 +1,403 @@
+{
+  "status": "SUCCESS",
+  "source_sha256": "022f2968fa97ac1d2561ea8b4c20605d15c6aaeed653e0b0eb861d8d69217a6f",
+  "checks": [
+    {
+      "test": "Inner ceiling max is2.40m",
+      "passed": true,
+      "measured_m": 2.4000000953674316
+    },
+    {
+      "test": "Upper bin hinge matches root R",
+      "passed": true,
+      "fixed_z": 2.294999837875366,
+      "root_z": 2.294999837875366
+    },
+    {
+      "test": "Lift-up angle R",
+      "passed": true
+    },
+    {
+      "test": "Open bin clears inner roof R",
+      "passed": true,
+      "minimum_clearance_m": 0.042731523513793945
+    },
+    {
+      "test": "Upper bin hinge matches root L",
+      "passed": true,
+      "fixed_z": 2.294999837875366,
+      "root_z": 2.294999837875366
+    },
+    {
+      "test": "Lift-up angle L",
+      "passed": true
+    },
+    {
+      "test": "Open bin clears inner roof L",
+      "passed": true,
+      "minimum_clearance_m": 0.042731523513793945
+    },
+    {
+      "test": "Lowered unit Passenger service unit 0112",
+      "passed": true,
+      "height_m": 1.7969999313354492
+    },
+    {
+      "test": "Lowered unit Passenger service unit 0212",
+      "passed": true,
+      "height_m": 1.7969999313354492
+    },
+    {
+      "test": "Lowered unit Passenger service unit 0312",
+      "passed": true,
+      "height_m": 2.120000123977661
+    },
+    {
+      "test": "Lowered unit Passenger service unit 0412",
+      "passed": true,
+      "height_m": 2.120000123977661
+    },
+    {
+      "test": "Lowered unit Passenger service unit 0512",
+      "passed": true,
+      "height_m": 1.7969999313354492
+    },
+    {
+      "test": "Lowered unit Passenger service unit 0612",
+      "passed": true,
+      "height_m": 1.7969999313354492
+    },
+    {
+      "test": "Lowered unit Passenger service unit 0712",
+      "passed": true,
+      "height_m": 2.120000123977661
+    },
+    {
+      "test": "Lowered unit Passenger service unit 0812",
+      "passed": true,
+      "height_m": 2.120000123977661
+    },
+    {
+      "test": "Lowered unit Passenger service unit 0912",
+      "passed": true,
+      "height_m": 1.7969999313354492
+    },
+    {
+      "test": "Lowered unit Passenger service unit 1012",
+      "passed": true,
+      "height_m": 1.7969999313354492
+    },
+    {
+      "test": "Lowered unit Passenger service unit 1112",
+      "passed": true,
+      "height_m": 2.120000123977661
+    },
+    {
+      "test": "Lowered unit Passenger service unit 1212",
+      "passed": true,
+      "height_m": 2.120000123977661
+    },
+    {
+      "test": "Lowered unit Passenger service unit 1312",
+      "passed": true,
+      "height_m": 1.7969999313354492
+    },
+    {
+      "test": "Lowered unit Passenger service unit 1412",
+      "passed": true,
+      "height_m": 1.7969999313354492
+    },
+    {
+      "test": "Lowered unit Passenger service unit 1512",
+      "passed": true,
+      "height_m": 2.120000123977661
+    },
+    {
+      "test": "Lowered unit Passenger service unit 1612",
+      "passed": true,
+      "height_m": 2.120000123977661
+    },
+    {
+      "test": "Lowered unit Passenger service unit 1712",
+      "passed": true,
+      "height_m": 1.7969999313354492
+    },
+    {
+      "test": "Lowered unit Passenger service unit 1812",
+      "passed": true,
+      "height_m": 1.7969999313354492
+    },
+    {
+      "test": "Lowered unit Passenger service unit 1912",
+      "passed": true,
+      "height_m": 2.120000123977661
+    },
+    {
+      "test": "Lowered unit Passenger service unit 2012",
+      "passed": true,
+      "height_m": 2.120000123977661
+    },
+    {
+      "test": "Lowered unit Passenger service unit 2112",
+      "passed": true,
+      "height_m": 1.7969999313354492
+    },
+    {
+      "test": "Lowered unit Passenger service unit 2212",
+      "passed": true,
+      "height_m": 1.7969999313354492
+    },
+    {
+      "test": "Lowered unit Passenger service unit 2312",
+      "passed": true,
+      "height_m": 2.120000123977661
+    },
+    {
+      "test": "Lowered unit Passenger service unit 2412",
+      "passed": true,
+      "height_m": 2.120000123977661
+    },
+    {
+      "test": "Lowered unit Passenger service unit 2512",
+      "passed": true,
+      "height_m": 1.7969999313354492
+    },
+    {
+      "test": "Lowered unit Passenger service unit 2612",
+      "passed": true,
+      "height_m": 1.7969999313354492
+    },
+    {
+      "test": "Lowered unit Passenger service unit 2712",
+      "passed": true,
+      "height_m": 2.120000123977661
+    },
+    {
+      "test": "Lowered unit Passenger service unit 2812",
+      "passed": true,
+      "height_m": 2.120000123977661
+    },
+    {
+      "test": "Lowered unit Passenger service unit 2912",
+      "passed": true,
+      "height_m": 1.7969999313354492
+    },
+    {
+      "test": "Lowered unit Passenger service unit 3012",
+      "passed": true,
+      "height_m": 1.7969999313354492
+    },
+    {
+      "test": "Lowered unit Passenger service unit 3112",
+      "passed": true,
+      "height_m": 2.120000123977661
+    },
+    {
+      "test": "Lowered unit Passenger service unit 3212",
+      "passed": true,
+      "height_m": 2.120000123977661
+    },
+    {
+      "test": "Lowered unit Passenger service unit 3312",
+      "passed": true,
+      "height_m": 1.7969999313354492
+    },
+    {
+      "test": "Lowered unit Passenger service unit 3412",
+      "passed": true,
+      "height_m": 1.7969999313354492
+    },
+    {
+      "test": "Lowered unit Passenger service unit 3512",
+      "passed": true,
+      "height_m": 2.120000123977661
+    },
+    {
+      "test": "Lowered unit Passenger service unit 3612",
+      "passed": true,
+      "height_m": 2.120000123977661
+    },
+    {
+      "test": "Lowered unit Passenger service unit 3712",
+      "passed": true,
+      "height_m": 1.7969999313354492
+    },
+    {
+      "test": "Lowered unit Passenger service unit 3812",
+      "passed": true,
+      "height_m": 1.7969999313354492
+    },
+    {
+      "test": "Lowered unit Passenger service unit 3912",
+      "passed": true,
+      "height_m": 2.120000123977661
+    },
+    {
+      "test": "Lowered unit Passenger service unit 4012",
+      "passed": true,
+      "height_m": 2.120000123977661
+    },
+    {
+      "test": "IFE boot actually seats against curved shell IFE structural seatback adapter13",
+      "passed": true,
+      "samples": 117,
+      "embedding_m": [
+        0.0040000081062316895,
+        0.0040000081062316895
+      ]
+    },
+    {
+      "test": "IFE boot actually seats against curved shell IFE structural seatback adapter13.001",
+      "passed": true,
+      "samples": 117,
+      "embedding_m": [
+        0.0040000081062316895,
+        0.0040000081062316895
+      ]
+    },
+    {
+      "test": "IFE boot actually seats against curved shell IFE structural seatback adapter13.002",
+      "passed": true,
+      "samples": 117,
+      "embedding_m": [
+        0.0040000081062316895,
+        0.0040000081062316895
+      ]
+    },
+    {
+      "test": "Last row uses screen-free kits",
+      "passed": true
+    },
+    {
+      "test": "No last-row display actors",
+      "passed": true
+    },
+    {
+      "test": "Forty-four active displays",
+      "passed": true
+    },
+    {
+      "test": "Drawer fitted reveal SM_Plane_Service12_Forward_dispatch_drawer_1",
+      "passed": true,
+      "reveal_m": 0.00400001208856704
+    },
+    {
+      "test": "Drawer fitted reveal SM_Plane_Service12_Forward_dispatch_drawer_2",
+      "passed": true,
+      "reveal_m": 0.00400001208856704
+    },
+    {
+      "test": "Drawer fitted reveal SM_Plane_Service12_Forward_dispatch_drawer_3",
+      "passed": true,
+      "reveal_m": 0.00400001208856704
+    },
+    {
+      "test": "Drawer fitted reveal SM_Plane_Service12_Rear_dispatch_drawer_1",
+      "passed": true,
+      "reveal_m": 0.00400001208856704
+    },
+    {
+      "test": "Drawer fitted reveal SM_Plane_Service12_Rear_dispatch_drawer_2",
+      "passed": true,
+      "reveal_m": 0.00400001208856704
+    },
+    {
+      "test": "Drawer fitted reveal SM_Plane_Service12_Rear_dispatch_drawer_3",
+      "passed": true,
+      "reveal_m": 0.00400001208856704
+    },
+    {
+      "test": "Drawer fitted reveal SM_Plane_Service12_Rear_service_drawer_1",
+      "passed": true,
+      "reveal_m": 0.00400001208856704
+    },
+    {
+      "test": "Drawer fitted reveal SM_Plane_Service12_Rear_service_drawer_2",
+      "passed": true,
+      "reveal_m": 0.00400001208856704
+    },
+    {
+      "test": "Drawer fitted reveal SM_Plane_Service12_Rear_service_drawer_3",
+      "passed": true,
+      "reveal_m": 0.00400001208856704
+    },
+    {
+      "test": "Drawer fitted reveal SM_Plane_Service12_Mid_port_service_drawer_1",
+      "passed": true,
+      "reveal_m": 0.00400001208856704
+    },
+    {
+      "test": "Drawer fitted reveal SM_Plane_Service12_Mid_port_service_drawer_2",
+      "passed": true,
+      "reveal_m": 0.00400001208856704
+    },
+    {
+      "test": "Drawer fitted reveal SM_Plane_Service12_Mid_port_service_drawer_3",
+      "passed": true,
+      "reveal_m": 0.00400001208856704
+    },
+    {
+      "test": "Drawer fitted reveal SM_Plane_Service12_Mid_starboard_service_drawer_1",
+      "passed": true,
+      "reveal_m": 0.00400001208856704
+    },
+    {
+      "test": "Drawer fitted reveal SM_Plane_Service12_Mid_starboard_service_drawer_2",
+      "passed": true,
+      "reveal_m": 0.00400001208856704
+    },
+    {
+      "test": "Drawer fitted reveal SM_Plane_Service12_Mid_starboard_service_drawer_3",
+      "passed": true,
+      "reveal_m": 0.00400001208856704
+    },
+    {
+      "test": "Hold extends33.35m within existing barrel",
+      "passed": true,
+      "length_m": 33.34999752044678,
+      "remaining_barrel_m": 0.4500022888183608
+    },
+    {
+      "test": "Four different cargo constructions",
+      "passed": true
+    },
+    {
+      "test": "Unsupported checklist text removed",
+      "passed": true
+    },
+    {
+      "test": "Rear fire equipment backplate seats in partition Rear extinguisher -113",
+      "passed": true,
+      "backplate_y_range": [
+        30.77750015258789,
+        30.802499771118164
+      ]
+    },
+    {
+      "test": "Rear fire equipment backplate seats in partition Rear extinguisher 113",
+      "passed": true,
+      "backplate_y_range": [
+        30.77750015258789,
+        30.802499771118164
+      ]
+    },
+    {
+      "test": "Vacuum toilet service plinth clears lid hinge R",
+      "passed": true,
+      "plinth_top_m": 0.4699999988079071,
+      "lid_hinge_m": 0.51
+    },
+    {
+      "test": "Vacuum toilet service plinth clears lid hinge L",
+      "passed": true,
+      "plinth_top_m": 0.4699999988079071,
+      "lid_hinge_m": 0.51
+    },
+    {
+      "test": "Normal model and authoring source match",
+      "passed": true
+    }
+  ],
+  "passed": 76,
+  "total": 76
+}

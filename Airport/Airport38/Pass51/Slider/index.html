@@ -1,0 +1,262 @@
+<title>Landside Hall Makeover</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Overpass:wght@600;800&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+/* Layout: a single column of full-width comparison frames, each with a signage-style caption bar, like walking the route stop by stop. */
+:root {
+  --ground: #f3f1ec;     /* warm terrazzo */
+  --ink: #12222b;        /* navy text */
+  --muted: #5b6870;
+  --panel: #0f2a33;      /* Skyward navy sign board */
+  --panel-ink: #f4ead6;  /* lit sign lettering */
+  --gold: #b88a2c;
+  --line: #dcd6ca;
+  --display: "Overpass", "Segoe UI", system-ui, sans-serif;
+  --body: "Atkinson Hyperlegible", "Segoe UI", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --ground: #0b1418; --ink: #e9e4d8; --muted: #9aa6ab; --panel: #132f39; --panel-ink: #f4ead6; --gold: #d3a648; --line: #24343b; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --ground: #0b1418; --ink: #e9e4d8; --muted: #9aa6ab; --panel: #132f39; --panel-ink: #f4ead6; --gold: #d3a648; --line: #24343b; color-scheme: dark }
+
+body { background: var(--ground); color: var(--ink); font-family: var(--body); font-size: 16px; line-height: 1.55; }
+.wrap { max-width: 1180px; margin: 0 auto; padding-block: 28px 64px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: grid; gap: 40px; }
+header { display: grid; gap: 10px; }
+.eyebrow { font-family: var(--display); font-weight: 600; letter-spacing: .14em; text-transform: uppercase; font-size: 12px; color: var(--gold); }
+h1 { font-family: var(--display); font-weight: 800; font-size: clamp(28px, 4.6vw, 44px); line-height: 1.05; margin: 0; text-wrap: balance; }
+.lede { margin: 0; max-width: 64ch; color: var(--muted); }
+.how { font-size: 14px; color: var(--muted); margin: 0; }
+
+figure { margin: 0; display: grid; gap: 0; }
+.bar { background: var(--panel); color: var(--panel-ink); display: flex; align-items: center; gap: 14px;
+  padding: 10px 16px; border-radius: 4px 4px 0 0; flex-wrap: wrap; }
+.badge { flex: none; width: 30px; height: 30px; border-radius: 50%; background: var(--gold); color: #0f2a33;
+  display: grid; place-items: center; font-family: var(--display); font-weight: 800; font-size: 15px; }
+.bar h2 { font-family: var(--display); font-weight: 800; font-size: 17px; letter-spacing: .06em; text-transform: uppercase; margin: 0; }
+.bar .where { margin-left: auto; font-size: 13px; opacity: .75; font-variant-numeric: tabular-nums; }
+
+.cmp { position: relative; aspect-ratio: 16 / 9; max-width: 100%; overflow: hidden; background: #000;
+  touch-action: pan-y; user-select: none; cursor: ew-resize; }
+.cmp img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; pointer-events: none; }
+.cmp .after { clip-path: inset(0 0 0 var(--pos, 50%)); }
+.handle { position: absolute; top: 0; bottom: 0; left: var(--pos, 50%); width: 0; pointer-events: none; }
+.handle::before { content: ""; position: absolute; top: 0; bottom: 0; left: -1.5px; width: 3px; background: var(--panel-ink); box-shadow: 0 0 0 1px rgba(15,42,51,.5); }
+.knob { position: absolute; top: 50%; left: 0; transform: translate(-50%, -50%); width: 44px; height: 44px; border-radius: 50%;
+  background: var(--panel); border: 3px solid var(--panel-ink); display: grid; place-items: center; }
+.knob svg { width: 22px; height: 22px; fill: var(--panel-ink); }
+.tag { position: absolute; top: 12px; font-family: var(--display); font-weight: 800; font-size: 12px; letter-spacing: .14em;
+  text-transform: uppercase; padding: 5px 9px; border-radius: 3px; pointer-events: none; }
+.tag.b { left: 12px; background: rgba(15,42,51,.82); color: #f4ead6; }
+.tag.a { right: 12px; background: var(--gold); color: #0f2a33; }
+.cmp input { position: absolute; inset: 0; width: 100%; height: 100%; opacity: 0; margin: 0; cursor: ew-resize; }
+.cmp:has(input:focus-visible) .knob { outline: 3px solid var(--gold); outline-offset: 3px; }
+
+.seg { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 6px; }
+.seg-label { font-size: 13px; color: var(--muted); margin-right: 4px; }
+.seg button { font: 700 14px var(--body); padding: 8px 14px; border-radius: 999px; border: 1.5px solid var(--panel);
+  background: transparent; color: var(--ink); cursor: pointer; }
+.seg button[aria-checked="true"] { background: var(--panel); color: var(--panel-ink); }
+.seg button:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+.part { display: grid; gap: 24px; }
+.part-head { display: grid; gap: 8px; border-top: 2px solid var(--panel); padding-top: 18px; }
+.part-title { font-family: var(--display); font-weight: 800; font-size: clamp(22px, 3vw, 30px); margin: 0; text-wrap: balance; }
+.list { display: grid; gap: 40px; }
+figcaption { border: 1px solid var(--line); border-top: 0; border-radius: 0 0 4px 4px; padding: 12px 16px; font-size: 15px; }
+figcaption p { margin: 0; max-width: 78ch; }
+footer { font-size: 13px; color: var(--muted); border-top: 1px solid var(--line); padding-top: 16px; }
+@media (max-width: 520px) { .bar .where { margin-left: 0; width: 100%; } .knob { width: 36px; height: 36px; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Skyward Air · Terminal 1 · Landside hall</div>
+    <h1>Walking in, before and after</h1>
+    <p class="lede">The same camera spots photographed in the game before this pass and after it. The route now reads in one direction: in through the door, down the carpet to check-in, then left to security.</p>
+    <p class="how">Drag across any picture (or focus it and use the arrow keys) to wipe between before and after.</p>
+  </header>
+  <section class="part" id="cafe">
+    <div class="part-head">
+      <h2 class="part-title">Cloud Nine cafe, redesigned</h2>
+      <p class="how">Before: the old cafe, rows of identical tables on a bare floor. After: honey-oak floor, a lounge under the gallery beside a clear stair, a library wall in late sun, a window bar, a counter with menu boards, and golden-hour sun shafts through the west glass.</p>
+    </div>
+    <div id="list-cafe" class="list"></div>
+  </section>
+  <section class="part" id="lounges">
+    <div class="part-head">
+      <h2 class="part-title">Gate lounges and the gallery</h2>
+      <p class="how">Each lounge redesigned around what the room is for and what it looks at. The waiting passengers were moved onto the new seating; the gate desks, boarding route and pickups stay where they were.</p>
+    </div>
+    <div id="list-lounges" class="list"></div>
+  </section>
+  <section class="part" id="rooms70">
+    <div class="part-head">
+      <h2 class="part-title">Security, the washrooms, and fixes</h2>
+      <p class="how">A 50 million brief for the screening hall, the WC passage and the washrooms, built around every lane, belt, scanner, door and fitting that works; plus the A08 sign flicker, the play corner and the gate agent.</p>
+    </div>
+    <div id="list-rooms70" class="list"></div>
+  </section>
+  <section class="part" id="cabin">
+    <div class="part-head">
+      <h2 class="part-title">In the plane</h2>
+      <p class="how">Before: the sky light leaked through the moving aircraft and lit every surface the same, from nowhere. After: no light on the ceiling at all; soft light from under the bins onto the seats, glowing path lights along the aisles, and luminous reading lights and call buttons.</p>
+    </div>
+    <div id="list-cabin" class="list"></div>
+  </section>
+  <section class="part" id="lighting">
+    <div class="part-head">
+      <h2 class="part-title">Lighting, stripped and rebuilt</h2>
+      <p class="how">Real baked light: the ceiling fittings, the sun through the windows and the sky, bounced around the rooms by Lightmass.</p>
+      <div class="seg" role="radiogroup" aria-label="Compare the lighting now against">
+        <span class="seg-label">Compare now with</span>
+        <button id="lt-p58" role="radio" aria-checked="true" data-light="p58">Too dark, black signs</button>
+        <button id="lt-p57" role="radio" aria-checked="false" data-light="p57">Half-lit rooms</button>
+        <button id="lt-p56" role="radio" aria-checked="false" data-light="p56">Dark, orange rooms</button>
+        <button id="lt-p55" role="radio" aria-checked="false" data-light="p55">First bake</button>
+        <button id="lt-p54" role="radio" aria-checked="false" data-light="p54">Fake lighting</button>
+      </div>
+      <p class="how" id="light-note"></p>
+    </div>
+    <div id="list-light" class="list"></div>
+  </section>
+  <section class="part" id="layout">
+    <div class="part-head">
+      <h2 class="part-title">The route through the hall</h2>
+    <div class="seg" role="radiogroup" aria-label="Compare now against">
+      <span class="seg-label">Compare now with</span>
+      <button id="cmp-p50" role="radio" aria-checked="true" data-base="p50">Original hall</button>
+      <button id="cmp-p51" role="radio" aria-checked="false" data-base="p51">Spotlight version</button>
+      <button id="cmp-p52" role="radio" aria-checked="false" data-base="p52">Panel and uplight version</button>
+      <button id="cmp-p53" role="radio" aria-checked="false" data-base="p53">Before the clarity pass</button>
+    </div>
+    <p class="how" id="mode-note">Before: the hall as it was (Pass 50). After: the route, signs and soft edges (Pass 54, before the lighting rebuild).</p>
+    </div>
+    <div id="list" class="list"></div>
+  </section>
+  <footer>Stills captured in Unreal Engine at 1920×1080 with the level's fixed exposure (EV 6.5), resized for the web. Original: Pass 50. Spotlight version: Pass 51. Panel and uplight version: Pass 52. Before the clarity pass: Pass 53. Fake-lit: Pass 54. First bake: Pass 55. Dark, orange rooms: Pass 56. Half-lit rooms: Pass 57. Too dark, black signs: Pass 58. Now: Pass 59. In the plane: before, Pass 68 with the sky light on; after, Pass 69, where the cabin has its own exposure (EV 5.6, as eyes adapt indoors).</footer>
+</div>
+
+<script>
+const VIEWS = [
+  ['H4_hall_entrance', 'Through the front door', 'step 0', 'The free-standing START HERE board that blocked the middle of the view is gone. A two-sided gantry over the carpet reads "1 CHECK-IN · BAG DROP ↑", and the desks sit under an oak canopy straight ahead.'],
+  ['Z01_foyer_in', 'Just inside', 'step 0', 'A navy carpet route with warm floor lights runs from the door into the queue. A stone border and the darker, warmer terrazzo cut the white glare.'],
+  ['H1_hall_from_foyer', 'The whole hall', 'step 1', 'Every stop is signed from here. The light is one warm, even fill: no sun bars on the floor, no flares in the wood ceiling, no pools, and the room holds together as one space.'],
+  ['Z03_checkin_in', 'At check-in', 'step 1', 'The canopy gives the desks a human-scale ceiling inside the 6.6 m hall. It is plain oak underneath now, with one soft glow over the desks instead of three bright panels.'],
+  ['H2_hall_from_east', 'Leaving the desks', 'step 2', 'The old facade lettering that read backwards through the high windows is gone. The carpet turns north, and the "2 SECURITY" sign tells you to turn left.'],
+  ['Z07_landside_w', 'On to security', 'step 2', 'Before, the security door had no sign at all from inside the hall. Now the carpet leads straight to an oak portal lit from above.'],
+];
+const LIGHT = [
+  ['H1_hall_from_foyer', 'The hall from the door', 'Sun from the high windows lands on the floor in real patches, the upper walls and ceiling are lit by light bounced off the floor, and every desk and kiosk sits in its own soft shadow.'],
+  ['H2_hall_from_east', 'The hall from the desks', 'No flat glow: the corners and the underside of the canopy are darker because less light reaches them, the way a real room works.'],
+  ['Z03_checkin_in', 'Check-in', 'Six small round downlights in the underside of the oak canopy light the desks and the agents behind them.'],
+  ['G1_gate08_tall', 'Gate A08', 'The fake beams that came out of a wall with no glass are gone. The sun comes through the real windows and lights the floor and furniture.'],
+  ['Z09_security_in', 'Security', 'A low room lit by its own ceiling fittings: no glowing patches buried in the slats.'],
+  ['Z21_cafe_in', 'Cafe', 'The hanging drum lights are gone (their lights are flush in the ceiling now), the glass no longer blocks the daylight, and the soft fill hangs below the slats instead of inside them.'],
+  ['Z31_arrivals_in', 'Arrivals', 'Daylight from the tall windows falls across the reclaim belt.'],
+  ['X1_forecourt_arrival', 'Outside, arriving', 'Outside matches inside now: the same sun and sky light both, so the doors no longer feel like a switch between two worlds.'],
+];
+const arrows = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6 3 12l6 6V6zm6 0v12l6-6-6-6z"/></svg>';
+let n = 0;
+function figure(list, id, title, badge, note, before, after, tagB, tagA, switchable) {
+  const i = n++;
+  const f = document.createElement('figure');
+  f.innerHTML = `
+    <div class="bar"><span class="badge">${badge}</span><h2>${title}</h2></div>
+    <div class="cmp" style="--pos:50%">
+      <img class="before${switchable ? ' sw' : ''}" data-id="${id}" src="img/${id}_${before}.jpg" alt="${title}, before" loading="${i < 2 ? 'eager' : 'lazy'}">
+      <img class="after" src="img/${id}_${after}.jpg" alt="${title}, after" loading="${i < 2 ? 'eager' : 'lazy'}">
+      <span class="tag b">${tagB}</span><span class="tag a">${tagA}</span>
+      <div class="handle"><div class="knob">${arrows}</div></div>
+      <input id="s${i}" type="range" min="0" max="100" step="0.1" value="50" aria-label="${title}: before and after">
+    </div>
+    <figcaption><p>${note}</p></figcaption>`;
+  list.appendChild(f);
+  return f;
+}
+LIGHT.forEach(([id, title, note], i) => {
+  const f = figure(document.getElementById('list-light'), id, title, i + 1, note, 'p58', 'p59', 'Before', 'Now', false);
+  f.querySelector('img.before').classList.add('lt');
+});
+[['Z30_baggage_service', 'Baggage service', 'A grid of soft panels across the whole ceiling, pointing down, so the room is evenly lit wall to wall.', 'p58'],
+ ['C1_cabin_aisle', 'In the plane', 'The cabin used to be lit from nowhere. Now the light comes from glowing strips along the top edge of the overhead bins, like a real airliner, washing the ceiling and the seats.', 'p57']]
+  .forEach(([id, title, note, b], i) => figure(document.getElementById('list-light'), id, title, LIGHT.length + i + 1, note, b, b === 'p58' ? 'p59' : 'p58', 'Before', 'Now', false));
+[['Z21_cafe_in', 'The cafe from the entrance', 'Warm oak floor over the dining area, a window lounge with armchairs and indoor trees on the sunny side, a bar along the north glass, and the counter under the gallery with its menu boards and downlights. Sun shafts fall through the west glass.'],
+ ['K_cafe_sun', 'Into the sun', 'The afternoon sun comes through the west glass in soft shafts that end where it lands on the floor and the stair.'],
+ ['K_cafe_wide', 'From the corner', 'Zones instead of one hall of tables: lounge by the window, dining in the middle, bar on the glass, books and banquettes on the back wall.'],
+ ['Z20_cafefoyer', 'Walking in', 'The view in from the corridor now lands on the trees and the lounge.'],
+ ['Z22_cafe_back', 'At the counter', 'Menu boards hang over the counters, and downlights in the gallery underside light the pastries and the barista.']]
+  .forEach(([id, title, note], i) => figure(document.getElementById('list-cafe'), id, title, i + 1, note, 'c59', 'c62', 'Before', 'After', false));
+[['P64_terrace', 'Gate A08: the viewing terrace', 'A08 is a long room whose whole east side is glass onto the apron and the aircraft. So the passengers now sit on a three-tier oak terrace along the back wall, all facing the window like a viewing gallery, with warm light under every step, a window bar with ten stools along the glass, and a play corner for children with a timber play-plane.'],
+ ['P64_wave', 'Gate A07: the wave', 'One sculpted bench curving through the room like the wave ceiling above, seats on both sides of an upholstered spine: one side faces the window and the aircraft, the other faces the gate. The boarding route and the window stay clear.'],
+ ['P64_stair', 'Cafe: the stair now faces you', 'The stair is turned into an L: the first flight comes towards the room from the cafe floor, turns at a landing by the glass, and rises onto the gallery. The trees beside it now stand in their planters.']]
+  .forEach(([id, title, note], i) => figure(document.getElementById('list-lounges'), id, title, i + 1, note, 'before', 'after', 'Before', 'After', false));
+[['G1_gate08_tall', 'Gate A08, North Coast', 'A slatted oak gate wall with 1 m gold "A08" letters behind the desk, a sage rug under the bench groups, a planted island with cushioned seat edges, a work bar with stools and power points along the window onto the apron, armchairs in the far corner, and trees.'],
+ ['Z16_gate07_in', 'Gate A07, Azure Bay', 'The window onto the apron and the aircraft stays open. "A07 · AZURE BAY" sits on the band above it, two armchairs face the glass, and the benches get side tables with power, a lamp, a rug and trees.'],
+ ['Z23_gallery', 'The gallery above the cafe', 'An upper lounge: an open sunset bar along the west glass, a screen of trees along the north glass, a conversation group facing the bench, a rug and lamps. The stair landing and the travel shop stay clear.']]
+  .slice(2).forEach(([id, title, note], i) => figure(document.getElementById('list-lounges'), id, title, i + 4, note, 'g61', 'g62', 'Before', 'Earlier', false));
+[['P_a08_terrace', 'Gate A08: the terrace, finished', 'The bare back wall is now slatted oak under a landscape mural, each tier has an upholstered back, planters close the ends, and the display board that stood in front of the window is gone.'],
+ ['P_a08_kids', 'Gate A08: the window corner', 'With the "Azure Bay" board gone, the corner lounge looks straight out at the apron and the trees.']]
+  .forEach(([id, title, note], i) => figure(document.getElementById('list-lounges'), id, title, i + 6, note, 'before', 'after', 'Before', 'After', false));
+[['S70sec', 'Security: the calm screening hall', 'Sage acoustic bays above the oak, a backlit SECURITY / SAFE TRAVELS wall with what-to-divest pictograms, lane signs hung over both lanes, an oak divest counter per lane with a lit instruction panel, and brass lane lines in the floor.'],
+ ['S70wcp', 'The WC passage', 'Three backlit landscapes with picture lights, a sunrise mural on the end wall, a lit WC sign with pictograms at the washroom door, a bottle-refill station, a living green wall and a teal runner.'],
+ ['S70wc', 'The washrooms', 'Walnut slats on the cubicle fronts with brass lintels and lit numbers, a sage tile wainscot, a large-format tile floor, three backlit round mirrors and globe pendants over the vanity.'],
+ ['S70sign', 'Gate A08: the sign stops flickering', 'The slat wall behind the A08 numerals sat exactly on the wall and fought it, drawing a noisy band; it now stands just proud of it. The same fix stops the terrace flicker.'],
+ ['S70kids', 'Gate A08: a real play plane', 'The big green cylinder with flat wings is gone; a cartoon play plane with a propeller, canopy, portholes, wheels and little stairs sits on the mat.'],
+ ['S70desk', 'Gate A07: the agent, fixed', 'The agent wore a character model whose update broke its skinning, stretching a red sheet across the gate. They now wear the working coat model.']]
+  .forEach(([id, title, note], i) => figure(document.getElementById('list-rooms70'), id, title, i + 1, note, 'before', 'after', 'Before', 'After', false));
+[['C69eco', 'Economy', 'The flat glow from nowhere is gone, and so are the controls above the seats. The light comes from glowing strips under the bins, nothing lights the ceiling, path lights glow along the aisle, and the pale line down the carpet is gone.'],
+ ['C69bus', 'Business', 'The suites lit from the strips under the bins, a quiet ceiling, and glowing path lights just inside the carpet trim.']]
+  .forEach(([id, title, note], i) => figure(document.getElementById('list-cabin'), id, title, i + 1, note, 'before', 'after', 'Before', 'After', false));
+const LNOTES = {
+  p58: 'Before: Pass 58. The soft panels and the check-in downlights were accidentally pointing sideways, so rooms were too dark and the canopy lights lit the wood instead of the agents, and many signs baked black. After: now (Pass 59), with every light pointing down, signs and props lit from the smooth light grid, and a light warm haze and gentle fill for atmosphere.',
+  p57: 'Before: Pass 57, with half-lit rooms, a gloomy cafe with hanging drum lights, dark agents at check-in, and a cabin lit from nowhere. After: now (Pass 59).',
+  p56: 'Before: Pass 56, with security, the cafe and the other low rooms dark and very orange. After: now (Pass 59).',
+  p55: 'Before: the first bake (Pass 55), with dark spots and sharp, messy sun stripes on the floor. After: now (Pass 59).',
+  p54: 'Before: the fake set-up (Pass 54), with a flat glow on every surface, sky light through the roof and built "sun shaft" cards. After: now (Pass 59), real baked light with some of that warmth blended back in.',
+};
+const LTAGS = { p58: 'Before', p57: 'Half-lit', p56: 'Orange', p55: 'First bake', p54: 'Fake light' };
+const lseg = document.querySelectorAll('[data-light]');
+const chooseLight = base => {
+  lseg.forEach(b => b.setAttribute('aria-checked', String(b.dataset.light === base)));
+  document.querySelectorAll('img.before.lt').forEach(im => {
+    im.src = `img/${im.dataset.id}_${base}.jpg`;
+    im.parentElement.querySelector('.tag.b').textContent = LTAGS[base];
+  });
+  document.getElementById('light-note').textContent = LNOTES[base];
+};
+lseg.forEach(b => b.addEventListener('click', () => chooseLight(b.dataset.light)));
+chooseLight('p58');
+const list = document.getElementById('list');
+VIEWS.forEach(([id, title, step, note]) => figure(list, id, title, step.slice(-1), note, 'p50', 'p54', 'Before', 'After', true));
+document.querySelectorAll('figure').forEach(f => {
+  const box = f.querySelector('.cmp'), input = f.querySelector('input');
+  const set = v => { box.style.setProperty('--pos', v + '%'); input.value = v; };
+  input.addEventListener('input', () => set(input.value));
+  let drag = false;
+  const move = e => { const r = box.getBoundingClientRect(); set(Math.max(0, Math.min(100, (e.clientX - r.left) / r.width * 100))); };
+  box.addEventListener('pointerdown', e => { drag = true; box.setPointerCapture(e.pointerId); move(e); });
+  box.addEventListener('pointermove', e => { if (drag) move(e); });
+  box.addEventListener('pointerup', () => drag = false);
+  box.addEventListener('pointercancel', () => drag = false);
+});
+if (location.hash === '#layout') document.getElementById('layout').scrollIntoView();
+const NOTES = {
+  p50: 'Before: the hall as it was (Pass 50). After: the route, signs and soft edges (Pass 54, before the lighting rebuild).',
+  p51: 'Before: spotlights hanging in mid-air, hard shadows and pools of light (Pass 51). After: Pass 54.',
+  p52: 'Before: three glaring canopy panels, uplight streaks at the top of the walls and ceiling flares (Pass 52). After: Pass 54.',
+  p53: 'Before: sharp-edged models, single-sided benches (Pass 53). After: soft rounded edges and back-to-back benches (Pass 54).',
+};
+const TAGS = { p50: 'Before', p51: 'Spotlights', p52: 'Panels', p53: 'Pass 53' };
+const seg = document.querySelectorAll('[data-base]');
+const choose = base => {
+  seg.forEach(b => b.setAttribute('aria-checked', String(b.dataset.base === base)));
+  document.querySelectorAll('img.before.sw').forEach(im => {
+    im.src = `img/${im.dataset.id}_${base}.jpg`;
+    im.parentElement.querySelector('.tag.b').textContent = TAGS[base];
+  });
+  document.getElementById('mode-note').textContent = NOTES[base];
+};
+seg.forEach(b => b.addEventListener('click', () => choose(b.dataset.base)));
+</script>

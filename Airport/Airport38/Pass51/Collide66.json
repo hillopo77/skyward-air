@@ -1,0 +1,331 @@
+{
+ "status": "SUCCESS",
+ "meshes": {
+  "SM_AP_P66Ball": {
+   "before": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   },
+   "after": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   }
+  },
+  "SM_AP_P66BallTeal": {
+   "before": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   },
+   "after": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   }
+  },
+  "SM_AP_P66BookClay": {
+   "before": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   },
+   "after": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   }
+  },
+  "SM_AP_P66BookNavy": {
+   "before": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   },
+   "after": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   }
+  },
+  "SM_AP_P66BookSage": {
+   "before": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   },
+   "after": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   }
+  },
+  "SM_AP_P66Cushion": {
+   "before": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   },
+   "after": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   }
+  },
+  "SM_AP_P66CushionGold": {
+   "before": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   },
+   "after": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   }
+  },
+  "SM_AP_P66CushionTeal": {
+   "before": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   },
+   "after": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   }
+  },
+  "SM_AP_P66Hammer": {
+   "before": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   },
+   "after": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   }
+  },
+  "SM_AP_P66Magazine": {
+   "before": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   },
+   "after": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   }
+  },
+  "SM_AP_P66MagazineGold": {
+   "before": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   },
+   "after": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   }
+  },
+  "SM_AP_P66Mallet": {
+   "before": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   },
+   "after": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   }
+  },
+  "SM_AP_P66Mug": {
+   "before": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 0,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   },
+   "after": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 0,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   }
+  },
+  "SM_AP_P66MugCream": {
+   "before": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   },
+   "after": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   }
+  },
+  "SM_AP_P66MugTeal": {
+   "before": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   },
+   "after": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   }
+  },
+  "SM_AP_P66Plant": {
+   "before": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   },
+   "after": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   }
+  },
+  "SM_AP_P66TakeawayCup": {
+   "before": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   },
+   "after": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   }
+  },
+  "SM_AP_P66Toolbox": {
+   "before": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   },
+   "after": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   }
+  },
+  "SM_AP_P66ToyPlane": {
+   "before": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   },
+   "after": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   }
+  },
+  "SM_AP_P66WetSign": {
+   "before": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   },
+   "after": {
+    "box_elems": 0,
+    "sphere_elems": 0,
+    "sphyl_elems": 0,
+    "convex_elems": 1,
+    "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>"
+   }
+  }
+ },
+ "fixed": [
+  [
+   "SM_AP_P66Mug",
+   -1
+  ]
+ ]
+}

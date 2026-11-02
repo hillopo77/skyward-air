@@ -1,0 +1,1496 @@
+{
+  "status": "SUCCESS",
+  "passes": [
+    {
+      "module": "../../Characters/Revision39/chair_hardware40.py",
+      "result": [
+        {
+          "source": "SM_AP_Bench27_CharacterFit39",
+          "asset": "SM_AP_Bench27_Hardware40",
+          "changed_frames": [
+            {
+              "name": "Cast curved armrest frame27 fitted depth39",
+              "before": {
+                "vertices": 336,
+                "self_crossing_pairs": 232,
+                "nonmanifold_edges": 0,
+                "signed_volume_m3": 0.00040120778698663357
+              },
+              "support_attached": true,
+              "ring_reference": "fixed X / tangent-cross-X",
+              "nominal_path": [
+                [
+                  -1.1050000190734863,
+                  -0.08650598675012589,
+                  0.3094000220298767
+                ],
+                [
+                  -1.1050000190734863,
+                  -0.08550000190734863,
+                  0.6039235591888428
+                ],
+                [
+                  -1.1049998998641968,
+                  -0.053999997675418854,
+                  0.6800000071525574
+                ],
+                [
+                  -1.1049998998641968,
+                  0.13199998438358307,
+                  0.6800000071525574
+                ],
+                [
+                  -1.1049998998641968,
+                  0.17399999499320984,
+                  0.6399999856948853
+                ]
+              ],
+              "radius_m": 0.018
+            },
+            {
+              "name": "Cast curved armrest frame27.001 fitted depth39",
+              "before": {
+                "vertices": 336,
+                "self_crossing_pairs": 200,
+                "nonmanifold_edges": 0,
+                "signed_volume_m3": 0.000401207600974411
+              },
+              "support_attached": true,
+              "ring_reference": "fixed X / tangent-cross-X",
+              "nominal_path": [
+                [
+                  -0.4349999725818634,
+                  -0.08650598675012589,
+                  0.3094000220298767
+                ],
+                [
+                  -0.4350000023841858,
+                  -0.08550000935792923,
+                  0.6039235591888428
+                ],
+                [
+                  -0.434999942779541,
+                  -0.053999997675418854,
+                  0.6800000071525574
+                ],
+                [
+                  -0.434999942779541,
+                  0.13199998438358307,
+                  0.6800000071525574
+                ],
+                [
+                  -0.434999942779541,
+                  0.17399999499320984,
+                  0.6399999856948853
+                ]
+              ],
+              "radius_m": 0.018
+            },
+            {
+              "name": "Cast curved armrest frame27.002 fitted depth39",
+              "before": {
+                "vertices": 336,
+                "self_crossing_pairs": 232,
+                "nonmanifold_edges": 0,
+                "signed_volume_m3": 0.00040120746415834554
+              },
+              "support_attached": true,
+              "ring_reference": "fixed X / tangent-cross-X",
+              "nominal_path": [
+                [
+                  -0.3449999988079071,
+                  -0.08650598675012589,
+                  0.3094000220298767
+                ],
+                [
+                  -0.3449999690055847,
+                  -0.08550000190734863,
+                  0.6039235591888428
+                ],
+                [
+                  -0.3449999690055847,
+                  -0.053999997675418854,
+                  0.6800000071525574
+                ],
+                [
+                  -0.3449999690055847,
+                  0.13199998438358307,
+                  0.6800000071525574
+                ],
+                [
+                  -0.3449999988079071,
+                  0.17399999499320984,
+                  0.6399999856948853
+                ]
+              ],
+              "radius_m": 0.018
+            },
+            {
+              "name": "Cast curved armrest frame27.003 fitted depth39",
+              "before": {
+                "vertices": 336,
+                "self_crossing_pairs": 200,
+                "nonmanifold_edges": 0,
+                "signed_volume_m3": 0.00040120760097441113
+              },
+              "support_attached": true,
+              "ring_reference": "fixed X / tangent-cross-X",
+              "nominal_path": [
+                [
+                  0.32499998807907104,
+                  -0.08650598675012589,
+                  0.3094000220298767
+                ],
+                [
+                  0.32499998807907104,
+                  -0.08550000935792923,
+                  0.6039235591888428
+                ],
+                [
+                  0.32500001788139343,
+                  -0.053999997675418854,
+                  0.6800000071525574
+                ],
+                [
+                  0.32500001788139343,
+                  0.13199998438358307,
+                  0.6800000071525574
+                ],
+                [
+                  0.32499998807907104,
+                  0.17399999499320984,
+                  0.6399999856948853
+                ]
+              ],
+              "radius_m": 0.018
+            }
+          ],
+          "preserved_parts": [
+            "Continuous tailored saddle cushion27 fitted depth39",
+            "Continuous molded supporting shell27 fitted depth39",
+            "Continuous sewn edge piping27 fitted depth39",
+            "Continuous sewn edge piping27.001 fitted depth39",
+            "Soft touch armrest contact27 fitted depth39",
+            "Soft touch armrest contact27.001 fitted depth39",
+            "Continuous tailored saddle cushion27.001 fitted depth39",
+            "Continuous molded supporting shell27.001 fitted depth39",
+            "Continuous sewn edge piping27.002 fitted depth39",
+            "Continuous sewn edge piping27.003 fitted depth39",
+            "Soft touch armrest contact27.002 fitted depth39",
+            "Soft touch armrest contact27.003 fitted depth39",
+            "Extruded seat support beam27 fitted depth39",
+            "Cast taper-legged pedestal27 fitted depth39",
+            "Floor anchored seat shoe27 fitted depth39",
+            "Seat anchor socket27 fitted depth39",
+            "Seat anchor fixing27 fitted depth39",
+            "Seat anchor socket27.001 fitted depth39",
+            "Seat anchor fixing27.001 fitted depth39",
+            "Cast taper-legged pedestal27.001 fitted depth39",
+            "Floor anchored seat shoe27.001 fitted depth39",
+            "Seat anchor socket27.002 fitted depth39",
+            "Seat anchor fixing27.002 fitted depth39",
+            "Seat anchor socket27.003 fitted depth39",
+            "Seat anchor fixing27.003 fitted depth39",
+            "Luggage cradle rim27 fitted depth39",
+            "Non-slip luggage support27 fitted depth39",
+            "Non-slip luggage support27.001 fitted depth39",
+            "Non-slip luggage support27.002 fitted depth39",
+            "Non-slip luggage support27.003 fitted depth39",
+            "Non-slip luggage support27.004 fitted depth39",
+            "Bent luggage retaining rail27 fitted depth39"
+          ],
+          "welded_pairs": [],
+          "final_frames": [
+            {
+              "name": "Closed supported armrest sweep40 Cast curved armrest frame27 fitted depth39",
+              "vertices": 696,
+              "self_crossing_pairs": 0,
+              "nonmanifold_edges": 0,
+              "signed_volume_m3": 0.0006181541123264875
+            },
+            {
+              "name": "Closed supported armrest sweep40 Cast curved armrest frame27.001 fitted depth39",
+              "vertices": 696,
+              "self_crossing_pairs": 0,
+              "nonmanifold_edges": 0,
+              "signed_volume_m3": 0.0006181546327456264
+            },
+            {
+              "name": "Closed supported armrest sweep40 Cast curved armrest frame27.002 fitted depth39",
+              "vertices": 696,
+              "self_crossing_pairs": 0,
+              "nonmanifold_edges": 0,
+              "signed_volume_m3": 0.0006181546433601292
+            },
+            {
+              "name": "Closed supported armrest sweep40 Cast curved armrest frame27.003 fitted depth39",
+              "vertices": 696,
+              "self_crossing_pairs": 0,
+              "nonmanifold_edges": 0,
+              "signed_volume_m3": 0.0006181546331089402
+            }
+          ],
+          "preservation": "All cushion/back/piping/pad/pedestal/foot/beam objects copied with original transforms/modifiers/data; only proven self-crossing metal sweeps replaced. No character/master writes."
+        },
+        {
+          "source": "SM_AP_Bench29_CharacterFit39",
+          "asset": "SM_AP_Bench29_Hardware40",
+          "changed_frames": [],
+          "preserved_parts": [
+            "Continuous tailored saddle cushion27.002 fitted depth39",
+            "Continuous molded supporting shell27.002 fitted depth39",
+            "Continuous sewn edge piping27.004 fitted depth39",
+            "Continuous sewn edge piping27.005 fitted depth39",
+            "Soft touch armrest contact27.004 fitted depth39",
+            "Soft touch armrest contact27.005 fitted depth39",
+            "Continuous tailored saddle cushion27.003 fitted depth39",
+            "Continuous molded supporting shell27.003 fitted depth39",
+            "Continuous sewn edge piping27.006 fitted depth39",
+            "Continuous sewn edge piping27.007 fitted depth39",
+            "Soft touch armrest contact27.006 fitted depth39",
+            "Soft touch armrest contact27.007 fitted depth39",
+            "Extruded seat support beam27.001 fitted depth39",
+            "Cast taper-legged pedestal27.002 fitted depth39",
+            "Floor anchored seat shoe27.002 fitted depth39",
+            "Seat anchor socket27.004 fitted depth39",
+            "Seat anchor fixing27.004 fitted depth39",
+            "Seat anchor socket27.005 fitted depth39",
+            "Seat anchor fixing27.005 fitted depth39",
+            "Cast taper-legged pedestal27.003 fitted depth39",
+            "Floor anchored seat shoe27.003 fitted depth39",
+            "Seat anchor socket27.006 fitted depth39",
+            "Seat anchor fixing27.006 fitted depth39",
+            "Seat anchor socket27.007 fitted depth39",
+            "Seat anchor fixing27.007 fitted depth39",
+            "Luggage cradle rim27.001 fitted depth39",
+            "Non-slip luggage support27.005 fitted depth39",
+            "Non-slip luggage support27.006 fitted depth39",
+            "Non-slip luggage support27.007 fitted depth39",
+            "Non-slip luggage support27.008 fitted depth39",
+            "Non-slip luggage support27.009 fitted depth39",
+            "Bent luggage retaining rail27.001 fitted depth39",
+            "Untwisted cast bench arm29 fitted depth39",
+            "Untwisted cast bench arm29.001 fitted depth39",
+            "Untwisted cast bench arm29.002 fitted depth39",
+            "Untwisted cast bench arm29.003 fitted depth39"
+          ],
+          "welded_pairs": [],
+          "preservation": "All cushion/back/piping/pad/pedestal/foot/beam objects copied with original transforms/modifiers/data; only proven self-crossing metal sweeps replaced. No character/master writes."
+        },
+        {
+          "source": "SM_AP_Bench34_CharacterFit39",
+          "asset": "SM_AP_Bench34_Hardware40",
+          "changed_frames": [
+            {
+              "name": "Cast curved armrest.010 fitted depth39",
+              "before": {
+                "vertices": 60,
+                "self_crossing_pairs": 102,
+                "nonmanifold_edges": 0,
+                "signed_volume_m3": 0.0008668514965979815
+              },
+              "support_attached": true,
+              "ring_reference": "fixed X / tangent-cross-X",
+              "nominal_path": [
+                [
+                  -1.090000033378601,
+                  0.07213220745325089,
+                  0.30000001192092896
+                ],
+                [
+                  -1.090000033378601,
+                  0.16800546646118164,
+                  0.3499999940395355
+                ],
+                [
+                  -1.090000033378601,
+                  0.18000000715255737,
+                  0.6799999475479126
+                ],
+                [
+                  -1.090000033378601,
+                  0.09600000828504562,
+                  0.7400000095367432
+                ],
+                [
+                  -1.090000033378601,
+                  -0.16200000047683716,
+                  0.7399999499320984
+                ]
+              ],
+              "radius_m": 0.027
+            },
+            {
+              "name": "Cast curved armrest.011 fitted depth39",
+              "before": {
+                "vertices": 60,
+                "self_crossing_pairs": 102,
+                "nonmanifold_edges": 0,
+                "signed_volume_m3": 0.0008668506252050181
+              },
+              "support_attached": true,
+              "ring_reference": "fixed X / tangent-cross-X",
+              "nominal_path": [
+                [
+                  -0.38999998569488525,
+                  0.07213220745325089,
+                  0.30000001192092896
+                ],
+                [
+                  -0.38999998569488525,
+                  0.16800546646118164,
+                  0.3499999940395355
+                ],
+                [
+                  -0.39000004529953003,
+                  0.18000000715255737,
+                  0.6799999475479126
+                ],
+                [
+                  -0.39000004529953003,
+                  0.09600000828504562,
+                  0.7400000095367432
+                ],
+                [
+                  -0.39000004529953003,
+                  -0.16200000047683716,
+                  0.7399999499320984
+                ]
+              ],
+              "radius_m": 0.027
+            },
+            {
+              "name": "Cast curved armrest.012 fitted depth39",
+              "before": {
+                "vertices": 60,
+                "self_crossing_pairs": 102,
+                "nonmanifold_edges": 0,
+                "signed_volume_m3": 0.0008668506252050191
+              },
+              "support_attached": true,
+              "ring_reference": "fixed X / tangent-cross-X",
+              "nominal_path": [
+                [
+                  -0.34999996423721313,
+                  0.07213220745325089,
+                  0.30000001192092896
+                ],
+                [
+                  -0.34999996423721313,
+                  0.16800546646118164,
+                  0.3499999940395355
+                ],
+                [
+                  -0.3500000238418579,
+                  0.18000000715255737,
+                  0.6799999475479126
+                ],
+                [
+                  -0.3500000238418579,
+                  0.09600000828504562,
+                  0.7400000095367432
+                ],
+                [
+                  -0.3500000238418579,
+                  -0.16200000047683716,
+                  0.7399999499320984
+                ]
+              ],
+              "radius_m": 0.027
+            },
+            {
+              "name": "Cast curved armrest.013 fitted depth39",
+              "before": {
+                "vertices": 60,
+                "self_crossing_pairs": 102,
+                "nonmanifold_edges": 0,
+                "signed_volume_m3": 0.0008668506252050164
+              },
+              "support_attached": true,
+              "ring_reference": "fixed X / tangent-cross-X",
+              "nominal_path": [
+                [
+                  0.3500000238418579,
+                  0.07213220745325089,
+                  0.30000001192092896
+                ],
+                [
+                  0.3500000238418579,
+                  0.16800546646118164,
+                  0.3499999940395355
+                ],
+                [
+                  0.34999996423721313,
+                  0.18000000715255737,
+                  0.6799999475479126
+                ],
+                [
+                  0.34999996423721313,
+                  0.09600000828504562,
+                  0.7400000095367432
+                ],
+                [
+                  0.34999996423721313,
+                  -0.16200000047683716,
+                  0.7399999499320984
+                ]
+              ],
+              "radius_m": 0.027
+            },
+            {
+              "name": "Cast curved armrest.014 fitted depth39",
+              "before": {
+                "vertices": 60,
+                "self_crossing_pairs": 102,
+                "nonmanifold_edges": 0,
+                "signed_volume_m3": 0.0008668506252050186
+              },
+              "support_attached": true,
+              "ring_reference": "fixed X / tangent-cross-X",
+              "nominal_path": [
+                [
+                  0.39000004529953003,
+                  0.07213220745325089,
+                  0.30000001192092896
+                ],
+                [
+                  0.39000004529953003,
+                  0.16800546646118164,
+                  0.3499999940395355
+                ],
+                [
+                  0.38999998569488525,
+                  0.18000000715255737,
+                  0.6799999475479126
+                ],
+                [
+                  0.38999998569488525,
+                  0.09600000828504562,
+                  0.7400000095367432
+                ],
+                [
+                  0.38999998569488525,
+                  -0.16200000047683716,
+                  0.7399999499320984
+                ]
+              ],
+              "radius_m": 0.027
+            },
+            {
+              "name": "Cast curved armrest.015 fitted depth39",
+              "before": {
+                "vertices": 60,
+                "self_crossing_pairs": 102,
+                "nonmanifold_edges": 0,
+                "signed_volume_m3": 0.0008668514965608576
+              },
+              "support_attached": true,
+              "ring_reference": "fixed X / tangent-cross-X",
+              "nominal_path": [
+                [
+                  1.090000033378601,
+                  0.07213220745325089,
+                  0.30000001192092896
+                ],
+                [
+                  1.090000033378601,
+                  0.16800546646118164,
+                  0.3499999940395355
+                ],
+                [
+                  1.090000033378601,
+                  0.18000000715255737,
+                  0.6799999475479126
+                ],
+                [
+                  1.090000033378601,
+                  0.09600000828504562,
+                  0.7400000095367432
+                ],
+                [
+                  1.090000033378601,
+                  -0.16200000047683716,
+                  0.7399999499320984
+                ]
+              ],
+              "radius_m": 0.027
+            }
+          ],
+          "preserved_parts": [
+            "Sculpted upholstered seat.005 fitted depth39",
+            "Formed shell.005 fitted depth39",
+            "Seat piping.010 fitted depth39",
+            "Seat piping.011 fitted depth39",
+            "Sculpted upholstered seat.006 fitted depth39",
+            "Formed shell.006 fitted depth39",
+            "Seat piping.012 fitted depth39",
+            "Seat piping.013 fitted depth39",
+            "Sculpted upholstered seat.007 fitted depth39",
+            "Formed shell.007 fitted depth39",
+            "Seat piping.014 fitted depth39",
+            "Seat piping.015 fitted depth39",
+            "Extruded beam.001 fitted depth39",
+            "Tapered pedestal.002 fitted depth39",
+            "Floor anchored foot.002 fitted depth39",
+            "Captive screw.016 fitted depth39",
+            "Captive screw.017 fitted depth39",
+            "Captive screw.018 fitted depth39",
+            "Captive screw.019 fitted depth39",
+            "Tapered pedestal.003 fitted depth39",
+            "Floor anchored foot.003 fitted depth39",
+            "Captive screw.020 fitted depth39",
+            "Captive screw.021 fitted depth39",
+            "Captive screw.022 fitted depth39",
+            "Captive screw.023 fitted depth39",
+            "Seat rear support plate34 fitted depth39",
+            "Seat concealed fixing34 fitted depth39",
+            "Seat concealed fixing34.001 fitted depth39",
+            "Seat rear support plate34.001 fitted depth39",
+            "Seat concealed fixing34.002 fitted depth39",
+            "Seat concealed fixing34.003 fitted depth39",
+            "Seat rear support plate34.002 fitted depth39",
+            "Seat concealed fixing34.004 fitted depth39",
+            "Seat concealed fixing34.005 fitted depth39",
+            "Bench floor anchored fixing34 fitted depth39",
+            "Bench floor anchored fixing34.001 fitted depth39",
+            "Bench floor anchored fixing34.002 fitted depth39",
+            "Bench floor anchored fixing34.003 fitted depth39",
+            "Bench pedestal captured load-bearing shim38R fitted depth39",
+            "Bench pedestal captured load-bearing shim38R.001 fitted depth39"
+          ],
+          "welded_pairs": [
+            [
+              "Closed supported armrest sweep40 Cast curved armrest.011 fitted depth39",
+              "Closed supported armrest sweep40 Cast curved armrest.012 fitted depth39"
+            ],
+            [
+              "Closed supported armrest sweep40 Cast curved armrest.013 fitted depth39",
+              "Closed supported armrest sweep40 Cast curved armrest.014 fitted depth39"
+            ]
+          ],
+          "final_frames": [
+            {
+              "name": "Closed supported armrest sweep40 Cast curved armrest.010 fitted depth39",
+              "vertices": 696,
+              "self_crossing_pairs": 0,
+              "nonmanifold_edges": 0,
+              "signed_volume_m3": 0.001786205979930927
+            },
+            {
+              "name": "Closed supported armrest sweep40 shared cast",
+              "vertices": 1550,
+              "self_crossing_pairs": 0,
+              "nonmanifold_edges": 0,
+              "signed_volume_m3": 0.0033207755482642038
+            },
+            {
+              "name": "Closed supported armrest sweep40 shared cast.001",
+              "vertices": 1550,
+              "self_crossing_pairs": 0,
+              "nonmanifold_edges": 0,
+              "signed_volume_m3": 0.003320775547864911
+            },
+            {
+              "name": "Closed supported armrest sweep40 Cast curved armrest.015 fitted depth39",
+              "vertices": 696,
+              "self_crossing_pairs": 0,
+              "nonmanifold_edges": 0,
+              "signed_volume_m3": 0.0017862059806220438
+            }
+          ],
+          "preservation": "All cushion/back/piping/pad/pedestal/foot/beam objects copied with original transforms/modifiers/data; only proven self-crossing metal sweeps replaced. No character/master writes."
+        },
+        {
+          "source": "SM_AP_CafeChair34_CharacterFit39",
+          "asset": "SM_AP_CafeChair34_Hardware40",
+          "changed_frames": [
+            {
+              "name": "Cast curved armrest.016 fitted depth39",
+              "before": {
+                "vertices": 60,
+                "self_crossing_pairs": 102,
+                "nonmanifold_edges": 0,
+                "signed_volume_m3": 0.0008668506252050191
+              },
+              "support_attached": false,
+              "ring_reference": "fixed X / tangent-cross-X",
+              "nominal_path": [
+                [
+                  -0.34999996423721313,
+                  0.16800546646118164,
+                  0.3499999940395355
+                ],
+                [
+                  -0.3500000238418579,
+                  0.18000000715255737,
+                  0.6799999475479126
+                ],
+                [
+                  -0.3500000238418579,
+                  0.09600000828504562,
+                  0.7400000095367432
+                ],
+                [
+                  -0.3500000238418579,
+                  -0.16200000047683716,
+                  0.7399999499320984
+                ]
+              ],
+              "radius_m": 0.027
+            },
+            {
+              "name": "Cast curved armrest.017 fitted depth39",
+              "before": {
+                "vertices": 60,
+                "self_crossing_pairs": 102,
+                "nonmanifold_edges": 0,
+                "signed_volume_m3": 0.0008668506252050164
+              },
+              "support_attached": false,
+              "ring_reference": "fixed X / tangent-cross-X",
+              "nominal_path": [
+                [
+                  0.3500000238418579,
+                  0.16800546646118164,
+                  0.3499999940395355
+                ],
+                [
+                  0.34999996423721313,
+                  0.18000000715255737,
+                  0.6799999475479126
+                ],
+                [
+                  0.34999996423721313,
+                  0.09600000828504562,
+                  0.7400000095367432
+                ],
+                [
+                  0.34999996423721313,
+                  -0.16200000047683716,
+                  0.7399999499320984
+                ]
+              ],
+              "radius_m": 0.027
+            }
+          ],
+          "preserved_parts": [
+            "Sculpted upholstered seat.008 fitted depth39",
+            "Formed shell.008 fitted depth39",
+            "Seat piping.016 fitted depth39",
+            "Seat piping.017 fitted depth39",
+            "Tapered chair leg.004 fitted depth39",
+            "Tapered chair leg.005 fitted depth39",
+            "Tapered chair leg.006 fitted depth39",
+            "Tapered chair leg.007 fitted depth39",
+            "Cafe chair resilient foot34 fitted depth39",
+            "Cafe chair resilient foot34.001 fitted depth39",
+            "Cafe chair resilient foot34.002 fitted depth39",
+            "Cafe chair resilient foot34.003 fitted depth39"
+          ],
+          "welded_pairs": [],
+          "final_frames": [
+            {
+              "name": "Closed supported armrest sweep40 Cast curved armrest.016 fitted depth39",
+              "vertices": 528,
+              "self_crossing_pairs": 0,
+              "nonmanifold_edges": 0,
+              "signed_volume_m3": 0.0015524043666888623
+            },
+            {
+              "name": "Closed supported armrest sweep40 Cast curved armrest.017 fitted depth39",
+              "vertices": 528,
+              "self_crossing_pairs": 0,
+              "nonmanifold_edges": 0,
+              "signed_volume_m3": 0.0015524043666888616
+            }
+          ],
+          "preservation": "All cushion/back/piping/pad/pedestal/foot/beam objects copied with original transforms/modifiers/data; only proven self-crossing metal sweeps replaced. No character/master writes."
+        }
+      ]
+    },
+    {
+      "module": "Fixes/03_airside/Exterior39/business_belt40.py",
+      "result": {
+        "version": 1,
+        "assets": [
+          "SM_AP_B40LuxurySeatBase",
+          "SM_AP_B40LapStowed",
+          "SM_AP_B40LapWornCrew",
+          "SM_AP_B40LapWornGeneric",
+          "SM_AP_B40ReleaseLid"
+        ],
+        "records": [
+          {
+            "seat": "Business 01 A",
+            "control": "Business belt release 112",
+            "location": [
+              14.480000019073486,
+              5.400000095367432,
+              0.0
+            ],
+            "occupied_npc": null,
+            "worn_kind": "Generic",
+            "worn_asset": "SM_AP_B40LapWornGeneric",
+            "worn_hinge": [
+              14.480000019073486,
+              5.035565339565277,
+              0.727
+            ],
+            "stowed_hinge": [
+              14.190000019073487,
+              5.242000095367431,
+              0.5121829063892365
+            ],
+            "initial_state": 1,
+            "stowed_actor": "B40 stowed Business 01 A",
+            "worn_actor": "B40 worn Business 01 A"
+          },
+          {
+            "seat": "Business 01 K",
+            "control": "Business belt release 212",
+            "location": [
+              17.519999980926514,
+              5.400000095367432,
+              0.0
+            ],
+            "occupied_npc": null,
+            "worn_kind": "Generic",
+            "worn_asset": "SM_AP_B40LapWornGeneric",
+            "worn_hinge": [
+              17.519999980926514,
+              5.035565339565277,
+              0.727
+            ],
+            "stowed_hinge": [
+              17.229999980926515,
+              5.242000095367431,
+              0.5121829063892365
+            ],
+            "initial_state": 1,
+            "stowed_actor": "B40 stowed Business 01 K",
+            "worn_actor": "B40 worn Business 01 K"
+          },
+          {
+            "seat": "Business 02 A",
+            "control": "Business belt release 312",
+            "location": [
+              14.480000019073486,
+              7.800000190734863,
+              0.0
+            ],
+            "occupied_npc": "CH12 Business passenger",
+            "worn_kind": "Crew",
+            "worn_asset": "SM_AP_B40LapWornCrew",
+            "worn_hinge": [
+              14.480000019073486,
+              7.435565434932709,
+              0.727
+            ],
+            "stowed_hinge": [
+              14.190000019073487,
+              7.642000190734863,
+              0.5121829063892365
+            ],
+            "initial_state": 0,
+            "stowed_actor": "B40 stowed Business 02 A",
+            "worn_actor": "B40 worn Business 02 A"
+          },
+          {
+            "seat": "Business 02 K",
+            "control": "Business belt release 412",
+            "location": [
+              17.519999980926514,
+              7.800000190734863,
+              0.0
+            ],
+            "occupied_npc": null,
+            "worn_kind": "Generic",
+            "worn_asset": "SM_AP_B40LapWornGeneric",
+            "worn_hinge": [
+              17.519999980926514,
+              7.435565434932709,
+              0.727
+            ],
+            "stowed_hinge": [
+              17.229999980926515,
+              7.642000190734863,
+              0.5121829063892365
+            ],
+            "initial_state": 1,
+            "stowed_actor": "B40 stowed Business 02 K",
+            "worn_actor": "B40 worn Business 02 K"
+          }
+        ],
+        "old_static_webbing_removed": true,
+        "real_webbing_states": true
+      }
+    },
+    {
+      "module": "Fixes/03_airside/Exterior39/window41.py",
+      "result": {
+        "version": 1,
+        "assets": [
+          "SM_AP_W41WindowWallL",
+          "SM_AP_W41WindowWallR",
+          "SM_AP_W41ShadeFrameL",
+          "SM_AP_W41ShadeFrameR",
+          "SM_AP_W41RackL",
+          "SM_AP_W41RackR"
+        ],
+        "lift_m": 0.15,
+        "shade_fit_m": 0.008,
+        "moving_actor_names": [
+          "Overhead bin L 04",
+          "Overhead bin L 05",
+          "Overhead bin L 06",
+          "Overhead bin L 07",
+          "Overhead bin L 10",
+          "Overhead bin L 11",
+          "Overhead bin L 12",
+          "Overhead bin L 13",
+          "Overhead bin L 14",
+          "Overhead bin L 15",
+          "Overhead bin L 16",
+          "Overhead bin L 17",
+          "Overhead bin L 18",
+          "Overhead bin L 19",
+          "Overhead bin L 20",
+          "Overhead bin R 04",
+          "Overhead bin R 05",
+          "Overhead bin R 06",
+          "Overhead bin R 07",
+          "Overhead bin R 10",
+          "Overhead bin R 11",
+          "Overhead bin R 12",
+          "Overhead bin R 13",
+          "Overhead bin R 14",
+          "Overhead bin R 15",
+          "Overhead bin R 16",
+          "Overhead bin R 17",
+          "Overhead bin R 18",
+          "Overhead bin R 19",
+          "Overhead bin R 20",
+          "PSU 01 CallIndicator12",
+          "PSU 01 CallKey12",
+          "PSU 01 Gasper12",
+          "PSU 01 ReadIndicator12",
+          "PSU 01 ReadKey12",
+          "PSU 02 CallIndicator12",
+          "PSU 02 CallKey12",
+          "PSU 02 Gasper12",
+          "PSU 02 ReadIndicator12",
+          "PSU 02 ReadKey12",
+          "PSU 05 CallIndicator12",
+          "PSU 05 CallKey12",
+          "PSU 05 Gasper12",
+          "PSU 05 ReadIndicator12",
+          "PSU 05 ReadKey12",
+          "PSU 06 CallIndicator12",
+          "PSU 06 CallKey12",
+          "PSU 06 Gasper12",
+          "PSU 06 ReadIndicator12",
+          "PSU 06 ReadKey12",
+          "PSU 09 CallIndicator12",
+          "PSU 09 CallKey12",
+          "PSU 09 Gasper12",
+          "PSU 09 ReadIndicator12",
+          "PSU 09 ReadKey12",
+          "PSU 10 CallIndicator12",
+          "PSU 10 CallKey12",
+          "PSU 10 Gasper12",
+          "PSU 10 ReadIndicator12",
+          "PSU 10 ReadKey12",
+          "PSU 13 CallIndicator12",
+          "PSU 13 CallKey12",
+          "PSU 13 Gasper12",
+          "PSU 13 ReadIndicator12",
+          "PSU 13 ReadKey12",
+          "PSU 14 CallIndicator12",
+          "PSU 14 CallKey12",
+          "PSU 14 Gasper12",
+          "PSU 14 ReadIndicator12",
+          "PSU 14 ReadKey12",
+          "PSU 17 CallIndicator12",
+          "PSU 17 CallKey12",
+          "PSU 17 Gasper12",
+          "PSU 17 ReadIndicator12",
+          "PSU 17 ReadKey12",
+          "PSU 18 CallIndicator12",
+          "PSU 18 CallKey12",
+          "PSU 18 Gasper12",
+          "PSU 18 ReadIndicator12",
+          "PSU 18 ReadKey12",
+          "PSU 21 CallIndicator12",
+          "PSU 21 CallKey12",
+          "PSU 21 Gasper12",
+          "PSU 21 ReadIndicator12",
+          "PSU 21 ReadKey12",
+          "PSU 22 CallIndicator12",
+          "PSU 22 CallKey12",
+          "PSU 22 Gasper12",
+          "PSU 22 ReadIndicator12",
+          "PSU 22 ReadKey12",
+          "PSU 25 CallIndicator12",
+          "PSU 25 CallKey12",
+          "PSU 25 Gasper12",
+          "PSU 25 ReadIndicator12",
+          "PSU 25 ReadKey12",
+          "PSU 26 CallIndicator12",
+          "PSU 26 CallKey12",
+          "PSU 26 Gasper12",
+          "PSU 26 ReadIndicator12",
+          "PSU 26 ReadKey12",
+          "PSU 29 CallIndicator12",
+          "PSU 29 CallKey12",
+          "PSU 29 Gasper12",
+          "PSU 29 ReadIndicator12",
+          "PSU 29 ReadKey12",
+          "PSU 30 CallIndicator12",
+          "PSU 30 CallKey12",
+          "PSU 30 Gasper12",
+          "PSU 30 ReadIndicator12",
+          "PSU 30 ReadKey12",
+          "PSU 33 CallIndicator12",
+          "PSU 33 CallKey12",
+          "PSU 33 Gasper12",
+          "PSU 33 ReadIndicator12",
+          "PSU 33 ReadKey12",
+          "PSU 34 CallIndicator12",
+          "PSU 34 CallKey12",
+          "PSU 34 Gasper12",
+          "PSU 34 ReadIndicator12",
+          "PSU 34 ReadKey12",
+          "PSU 37 CallIndicator12",
+          "PSU 37 CallKey12",
+          "PSU 37 Gasper12",
+          "PSU 37 ReadIndicator12",
+          "PSU 37 ReadKey12",
+          "PSU 38 CallIndicator12",
+          "PSU 38 CallKey12",
+          "PSU 38 Gasper12",
+          "PSU 38 ReadIndicator12",
+          "PSU 38 ReadKey12",
+          "Passenger service unit 0112",
+          "Passenger service unit 0212",
+          "Passenger service unit 0512",
+          "Passenger service unit 0612",
+          "Passenger service unit 0912",
+          "Passenger service unit 1012",
+          "Passenger service unit 1312",
+          "Passenger service unit 1412",
+          "Passenger service unit 1712",
+          "Passenger service unit 1812",
+          "Passenger service unit 2112",
+          "Passenger service unit 2212",
+          "Passenger service unit 2512",
+          "Passenger service unit 2612",
+          "Passenger service unit 2912",
+          "Passenger service unit 3012",
+          "Passenger service unit 3312",
+          "Passenger service unit 3412",
+          "Passenger service unit 3712",
+          "Passenger service unit 3812"
+        ],
+        "shade_actor_names": [
+          "Window shade 01 R18",
+          "Window shade 01 R18 section 1",
+          "Window shade 01 R18 section 2",
+          "Window shade 01 R18 section 3",
+          "Window shade 01 R18 section 4",
+          "Window shade 02 L18",
+          "Window shade 02 L18 section 1",
+          "Window shade 02 L18 section 2",
+          "Window shade 02 L18 section 3",
+          "Window shade 02 L18 section 4",
+          "Window shade 03 R18",
+          "Window shade 03 R18 section 1",
+          "Window shade 03 R18 section 2",
+          "Window shade 03 R18 section 3",
+          "Window shade 03 R18 section 4",
+          "Window shade 04 L18",
+          "Window shade 04 L18 section 1",
+          "Window shade 04 L18 section 2",
+          "Window shade 04 L18 section 3",
+          "Window shade 04 L18 section 4",
+          "Window shade 05 R18",
+          "Window shade 05 R18 section 1",
+          "Window shade 05 R18 section 2",
+          "Window shade 05 R18 section 3",
+          "Window shade 05 R18 section 4",
+          "Window shade 06 L18",
+          "Window shade 06 L18 section 1",
+          "Window shade 06 L18 section 2",
+          "Window shade 06 L18 section 3",
+          "Window shade 06 L18 section 4",
+          "Window shade 07 R18",
+          "Window shade 07 R18 section 1",
+          "Window shade 07 R18 section 2",
+          "Window shade 07 R18 section 3",
+          "Window shade 07 R18 section 4",
+          "Window shade 08 L18",
+          "Window shade 08 L18 section 1",
+          "Window shade 08 L18 section 2",
+          "Window shade 08 L18 section 3",
+          "Window shade 08 L18 section 4",
+          "Window shade 09 R18",
+          "Window shade 09 R18 section 1",
+          "Window shade 09 R18 section 2",
+          "Window shade 09 R18 section 3",
+          "Window shade 09 R18 section 4",
+          "Window shade 10 L18",
+          "Window shade 10 L18 section 1",
+          "Window shade 10 L18 section 2",
+          "Window shade 10 L18 section 3",
+          "Window shade 10 L18 section 4",
+          "Window shade 11 R18",
+          "Window shade 11 R18 section 1",
+          "Window shade 11 R18 section 2",
+          "Window shade 11 R18 section 3",
+          "Window shade 11 R18 section 4",
+          "Window shade 12 L18",
+          "Window shade 12 L18 section 1",
+          "Window shade 12 L18 section 2",
+          "Window shade 12 L18 section 3",
+          "Window shade 12 L18 section 4",
+          "Window shade 13 R18",
+          "Window shade 13 R18 section 1",
+          "Window shade 13 R18 section 2",
+          "Window shade 13 R18 section 3",
+          "Window shade 13 R18 section 4",
+          "Window shade 14 L18",
+          "Window shade 14 L18 section 1",
+          "Window shade 14 L18 section 2",
+          "Window shade 14 L18 section 3",
+          "Window shade 14 L18 section 4",
+          "Window shade 15 R18",
+          "Window shade 15 R18 section 1",
+          "Window shade 15 R18 section 2",
+          "Window shade 15 R18 section 3",
+          "Window shade 15 R18 section 4",
+          "Window shade 16 L18",
+          "Window shade 16 L18 section 1",
+          "Window shade 16 L18 section 2",
+          "Window shade 16 L18 section 3",
+          "Window shade 16 L18 section 4",
+          "Window shade 17 R18",
+          "Window shade 17 R18 section 1",
+          "Window shade 17 R18 section 2",
+          "Window shade 17 R18 section 3",
+          "Window shade 17 R18 section 4",
+          "Window shade 18 L18",
+          "Window shade 18 L18 section 1",
+          "Window shade 18 L18 section 2",
+          "Window shade 18 L18 section 3",
+          "Window shade 18 L18 section 4",
+          "Window shade 19 R18",
+          "Window shade 19 R18 section 1",
+          "Window shade 19 R18 section 2",
+          "Window shade 19 R18 section 3",
+          "Window shade 19 R18 section 4",
+          "Window shade 20 L18",
+          "Window shade 20 L18 section 1",
+          "Window shade 20 L18 section 2",
+          "Window shade 20 L18 section 3",
+          "Window shade 20 L18 section 4",
+          "Window shade 21 R18",
+          "Window shade 21 R18 section 1",
+          "Window shade 21 R18 section 2",
+          "Window shade 21 R18 section 3",
+          "Window shade 21 R18 section 4",
+          "Window shade 22 L18",
+          "Window shade 22 L18 section 1",
+          "Window shade 22 L18 section 2",
+          "Window shade 22 L18 section 3",
+          "Window shade 22 L18 section 4",
+          "Window shade 23 R18",
+          "Window shade 23 R18 section 1",
+          "Window shade 23 R18 section 2",
+          "Window shade 23 R18 section 3",
+          "Window shade 23 R18 section 4",
+          "Window shade 24 L18",
+          "Window shade 24 L18 section 1",
+          "Window shade 24 L18 section 2",
+          "Window shade 24 L18 section 3",
+          "Window shade 24 L18 section 4",
+          "Window shade 25 R18",
+          "Window shade 25 R18 section 1",
+          "Window shade 25 R18 section 2",
+          "Window shade 25 R18 section 3",
+          "Window shade 25 R18 section 4",
+          "Window shade 26 L18",
+          "Window shade 26 L18 section 1",
+          "Window shade 26 L18 section 2",
+          "Window shade 26 L18 section 3",
+          "Window shade 26 L18 section 4",
+          "Window shade 27 R18",
+          "Window shade 27 R18 section 1",
+          "Window shade 27 R18 section 2",
+          "Window shade 27 R18 section 3",
+          "Window shade 27 R18 section 4",
+          "Window shade 28 L18",
+          "Window shade 28 L18 section 1",
+          "Window shade 28 L18 section 2",
+          "Window shade 28 L18 section 3",
+          "Window shade 28 L18 section 4",
+          "Window shade 29 R18",
+          "Window shade 29 R18 section 1",
+          "Window shade 29 R18 section 2",
+          "Window shade 29 R18 section 3",
+          "Window shade 29 R18 section 4",
+          "Window shade 30 L18",
+          "Window shade 30 L18 section 1",
+          "Window shade 30 L18 section 2",
+          "Window shade 30 L18 section 3",
+          "Window shade 30 L18 section 4",
+          "Window shade 31 R18",
+          "Window shade 31 R18 section 1",
+          "Window shade 31 R18 section 2",
+          "Window shade 31 R18 section 3",
+          "Window shade 31 R18 section 4",
+          "Window shade 32 L18",
+          "Window shade 32 L18 section 1",
+          "Window shade 32 L18 section 2",
+          "Window shade 32 L18 section 3",
+          "Window shade 32 L18 section 4",
+          "Window shade 33 R18",
+          "Window shade 33 R18 section 1",
+          "Window shade 33 R18 section 2",
+          "Window shade 33 R18 section 3",
+          "Window shade 33 R18 section 4",
+          "Window shade 34 L18",
+          "Window shade 34 L18 section 1",
+          "Window shade 34 L18 section 2",
+          "Window shade 34 L18 section 3",
+          "Window shade 34 L18 section 4",
+          "Window shade 35 R18",
+          "Window shade 35 R18 section 1",
+          "Window shade 35 R18 section 2",
+          "Window shade 35 R18 section 3",
+          "Window shade 35 R18 section 4",
+          "Window shade 36 L18",
+          "Window shade 36 L18 section 1",
+          "Window shade 36 L18 section 2",
+          "Window shade 36 L18 section 3",
+          "Window shade 36 L18 section 4",
+          "Window shade 37 R18",
+          "Window shade 37 R18 section 1",
+          "Window shade 37 R18 section 2",
+          "Window shade 37 R18 section 3",
+          "Window shade 37 R18 section 4",
+          "Window shade 38 L18",
+          "Window shade 38 L18 section 1",
+          "Window shade 38 L18 section 2",
+          "Window shade 38 L18 section 3",
+          "Window shade 38 L18 section 4",
+          "Window shade 39 R18",
+          "Window shade 39 R18 section 1",
+          "Window shade 39 R18 section 2",
+          "Window shade 39 R18 section 3",
+          "Window shade 39 R18 section 4",
+          "Window shade 40 L18",
+          "Window shade 40 L18 section 1",
+          "Window shade 40 L18 section 2",
+          "Window shade 40 L18 section 3",
+          "Window shade 40 L18 section 4",
+          "Window shade 41 R18",
+          "Window shade 41 R18 section 1",
+          "Window shade 41 R18 section 2",
+          "Window shade 41 R18 section 3",
+          "Window shade 41 R18 section 4",
+          "Window shade 42 L18",
+          "Window shade 42 L18 section 1",
+          "Window shade 42 L18 section 2",
+          "Window shade 42 L18 section 3",
+          "Window shade 42 L18 section 4",
+          "Window shade 43 R18",
+          "Window shade 43 R18 section 1",
+          "Window shade 43 R18 section 2",
+          "Window shade 43 R18 section 3",
+          "Window shade 43 R18 section 4",
+          "Window shade 44 L18",
+          "Window shade 44 L18 section 1",
+          "Window shade 44 L18 section 2",
+          "Window shade 44 L18 section 3",
+          "Window shade 44 L18 section 4",
+          "Window shade 45 R18",
+          "Window shade 45 R18 section 1",
+          "Window shade 45 R18 section 2",
+          "Window shade 45 R18 section 3",
+          "Window shade 45 R18 section 4",
+          "Window shade 46 L18",
+          "Window shade 46 L18 section 1",
+          "Window shade 46 L18 section 2",
+          "Window shade 46 L18 section 3",
+          "Window shade 46 L18 section 4",
+          "Window shade 47 R18",
+          "Window shade 47 R18 section 1",
+          "Window shade 47 R18 section 2",
+          "Window shade 47 R18 section 3",
+          "Window shade 47 R18 section 4",
+          "Window shade 48 L18",
+          "Window shade 48 L18 section 1",
+          "Window shade 48 L18 section 2",
+          "Window shade 48 L18 section 3",
+          "Window shade 48 L18 section 4"
+        ],
+        "source_lifted": [
+          "Overhead bin R 04",
+          "Overhead bin R 05",
+          "Overhead bin R 06",
+          "Overhead bin R 07",
+          "Overhead bin R 10",
+          "Overhead bin R 11",
+          "Overhead bin R 12",
+          "Overhead bin R 13",
+          "Overhead bin R 14",
+          "Overhead bin R 15",
+          "Overhead bin R 16",
+          "Overhead bin R 17",
+          "Overhead bin R 18",
+          "Overhead bin R 19",
+          "Overhead bin R 20",
+          "Overhead bin L 04",
+          "Overhead bin L 05",
+          "Overhead bin L 06",
+          "Overhead bin L 07",
+          "Overhead bin L 10",
+          "Overhead bin L 11",
+          "Overhead bin L 12",
+          "Overhead bin L 13",
+          "Overhead bin L 14",
+          "Overhead bin L 15",
+          "Overhead bin L 16",
+          "Overhead bin L 17",
+          "Overhead bin L 18",
+          "Overhead bin L 19",
+          "Overhead bin L 20",
+          "Passenger service unit 0112",
+          "PSU 01 Gasper12",
+          "PSU 01 ReadKey12",
+          "PSU 01 CallKey12",
+          "PSU 01 ReadIndicator12",
+          "PSU 01 CallIndicator12",
+          "Passenger service unit 0212",
+          "PSU 02 Gasper12",
+          "PSU 02 ReadKey12",
+          "PSU 02 CallKey12",
+          "PSU 02 ReadIndicator12",
+          "PSU 02 CallIndicator12",
+          "Passenger service unit 0512",
+          "PSU 05 Gasper12",
+          "PSU 05 ReadKey12",
+          "PSU 05 CallKey12",
+          "PSU 05 ReadIndicator12",
+          "PSU 05 CallIndicator12",
+          "Passenger service unit 0612",
+          "PSU 06 Gasper12",
+          "PSU 06 ReadKey12",
+          "PSU 06 CallKey12",
+          "PSU 06 ReadIndicator12",
+          "PSU 06 CallIndicator12",
+          "Passenger service unit 0912",
+          "PSU 09 Gasper12",
+          "PSU 09 ReadKey12",
+          "PSU 09 CallKey12",
+          "PSU 09 ReadIndicator12",
+          "PSU 09 CallIndicator12",
+          "Passenger service unit 1012",
+          "PSU 10 Gasper12",
+          "PSU 10 ReadKey12",
+          "PSU 10 CallKey12",
+          "PSU 10 ReadIndicator12",
+          "PSU 10 CallIndicator12",
+          "Passenger service unit 1312",
+          "PSU 13 Gasper12",
+          "PSU 13 ReadKey12",
+          "PSU 13 CallKey12",
+          "PSU 13 ReadIndicator12",
+          "PSU 13 CallIndicator12",
+          "Passenger service unit 1412",
+          "PSU 14 Gasper12",
+          "PSU 14 ReadKey12",
+          "PSU 14 CallKey12",
+          "PSU 14 ReadIndicator12",
+          "PSU 14 CallIndicator12",
+          "Passenger service unit 1712",
+          "PSU 17 Gasper12",
+          "PSU 17 ReadKey12",
+          "PSU 17 CallKey12",
+          "PSU 17 ReadIndicator12",
+          "PSU 17 CallIndicator12",
+          "Passenger service unit 1812",
+          "PSU 18 Gasper12",
+          "PSU 18 ReadKey12",
+          "PSU 18 CallKey12",
+          "PSU 18 ReadIndicator12",
+          "PSU 18 CallIndicator12",
+          "Passenger service unit 2112",
+          "PSU 21 Gasper12",
+          "PSU 21 ReadKey12",
+          "PSU 21 CallKey12",
+          "PSU 21 ReadIndicator12",
+          "PSU 21 CallIndicator12",
+          "Passenger service unit 2212",
+          "PSU 22 Gasper12",
+          "PSU 22 ReadKey12",
+          "PSU 22 CallKey12",
+          "PSU 22 ReadIndicator12",
+          "PSU 22 CallIndicator12",
+          "Passenger service unit 2512",
+          "PSU 25 Gasper12",
+          "PSU 25 ReadKey12",
+          "PSU 25 CallKey12",
+          "PSU 25 ReadIndicator12",
+          "PSU 25 CallIndicator12",
+          "Passenger service unit 2612",
+          "PSU 26 Gasper12",
+          "PSU 26 ReadKey12",
+          "PSU 26 CallKey12",
+          "PSU 26 ReadIndicator12",
+          "PSU 26 CallIndicator12",
+          "Passenger service unit 2912",
+          "PSU 29 Gasper12",
+          "PSU 29 ReadKey12",
+          "PSU 29 CallKey12",
+          "PSU 29 ReadIndicator12",
+          "PSU 29 CallIndicator12",
+          "Passenger service unit 3012",
+          "PSU 30 Gasper12",
+          "PSU 30 ReadKey12",
+          "PSU 30 CallKey12",
+          "PSU 30 ReadIndicator12",
+          "PSU 30 CallIndicator12",
+          "Passenger service unit 3312",
+          "PSU 33 Gasper12",
+          "PSU 33 ReadKey12",
+          "PSU 33 CallKey12",
+          "PSU 33 ReadIndicator12",
+          "PSU 33 CallIndicator12",
+          "Passenger service unit 3412",
+          "PSU 34 Gasper12",
+          "PSU 34 ReadKey12",
+          "PSU 34 CallKey12",
+          "PSU 34 ReadIndicator12",
+          "PSU 34 CallIndicator12",
+          "Passenger service unit 3712",
+          "PSU 37 Gasper12",
+          "PSU 37 ReadKey12",
+          "PSU 37 CallKey12",
+          "PSU 37 ReadIndicator12",
+          "PSU 37 CallIndicator12",
+          "Passenger service unit 3812",
+          "PSU 38 Gasper12",
+          "PSU 38 ReadKey12",
+          "PSU 38 CallKey12",
+          "PSU 38 ReadIndicator12",
+          "PSU 38 CallIndicator12"
+        ],
+        "full_clear_pressure_aperture": [
+          0.7,
+          1.0
+        ],
+        "stow_vectors_unchanged": true
+      }
+    }
+  ],
+  "unused_empty_material_slots": [],
+  "pending_assets": {
+    "SM_AP_Bench27_Hardware40": "complex",
+    "SM_AP_Bench29_Hardware40": "complex",
+    "SM_AP_Bench34_Hardware40": "complex",
+    "SM_AP_CafeChair34_Hardware40": "complex",
+    "SM_AP_B40LuxurySeatBase": "complex",
+    "SM_AP_B40LapStowed": "none",
+    "SM_AP_B40LapWornCrew": "none",
+    "SM_AP_B40LapWornGeneric": "none",
+    "SM_AP_B40ReleaseLid": "none",
+    "SM_AP_W41WindowWallL": "complex",
+    "SM_AP_W41WindowWallR": "complex",
+    "SM_AP_W41ShadeFrameL": "complex",
+    "SM_AP_W41ShadeFrameR": "complex",
+    "SM_AP_W41RackL": "complex",
+    "SM_AP_W41RackR": "complex"
+  },
+  "glass39": {
+    "presets": {
+      "Terminal": {
+        "tint": [
+          0.25,
+          0.47,
+          0.49,
+          1
+        ],
+        "opacity": 0.13,
+        "edge": 0.3,
+        "roughness": 0.18,
+        "specular": 0.48
+      },
+      "Bridge": {
+        "tint": [
+          0.24,
+          0.46,
+          0.48,
+          1
+        ],
+        "opacity": 0.12,
+        "edge": 0.28,
+        "roughness": 0.19,
+        "specular": 0.46
+      },
+      "Cabin": {
+        "tint": [
+          0.29,
+          0.52,
+          0.56,
+          1
+        ],
+        "opacity": 0.09,
+        "edge": 0.24,
+        "roughness": 0.16,
+        "specular": 0.48
+      },
+      "Cockpit": {
+        "tint": [
+          0.3,
+          0.53,
+          0.57,
+          1
+        ],
+        "opacity": 0.085,
+        "edge": 0.23,
+        "roughness": 0.17,
+        "specular": 0.48
+      }
+    },
+    "source_materials": [
+      "MI_AP_Glass",
+      "MI_AP_Glass.001",
+      "MI_AP_Glass.002",
+      "MI_AP_P36Glass",
+      "MI_AP_P38AGlass",
+      "MI_AP_P38BGlass",
+      "MI_Plane_SkyGlass18"
+    ],
+    "design": "Subtle blue-green tint, soft specular and stronger glancing edges. No procedural dirt or distortion. Instrument glass excluded."
+  },
+  "changed_assets": [
+    "SM_AP_B40LapStowed",
+    "SM_AP_B40LapWornCrew",
+    "SM_AP_B40LapWornGeneric",
+    "SM_AP_B40LuxurySeatBase",
+    "SM_AP_B40ReleaseLid",
+    "SM_AP_Bench27_Hardware40",
+    "SM_AP_Bench29_Hardware40",
+    "SM_AP_Bench34_Hardware40",
+    "SM_AP_CafeChair34_Hardware40",
+    "SM_AP_W41RackL",
+    "SM_AP_W41RackR",
+    "SM_AP_W41ShadeFrameL",
+    "SM_AP_W41ShadeFrameR",
+    "SM_AP_W41WindowWallL",
+    "SM_AP_W41WindowWallR"
+  ],
+  "families": 134,
+  "source_sha256": "80049b883f8bda5eea272b71eaa71bd16132dd51d4de0c17a10b872f1ba927a5",
+  "retired_names": []
+}

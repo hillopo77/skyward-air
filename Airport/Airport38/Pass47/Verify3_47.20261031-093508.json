@@ -1,0 +1,30 @@
+{
+ "status": "SUCCESS",
+ "airside": null,
+ "captures": [
+  {
+   "name": "G1_gate08_row",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\After3\\G1_gate08_row.png"
+  },
+  {
+   "name": "G2_gate08_window",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\After3\\G2_gate08_window.png"
+  },
+  {
+   "name": "R1_road_from_gate",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\After3\\R1_road_from_gate.png"
+  },
+  {
+   "name": "R2_road_aerial",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\After3\\R2_road_aerial.png"
+  },
+  {
+   "name": "R3_road_low",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\After3\\R3_road_low.png"
+  },
+  {
+   "name": "B1_big_picture",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\After3\\B1_big_picture.png"
+  }
+ ]
+}

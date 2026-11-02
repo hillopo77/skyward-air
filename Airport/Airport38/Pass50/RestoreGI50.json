@@ -1,0 +1,150 @@
+{
+ "status": "SUCCESS",
+ "restored": [
+  [
+   "PostProcessVolume",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "0.550000011920929"
+  ],
+  [
+   "Airport clean daylight grade",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "0.550000011920929"
+  ],
+  [
+   "Airport26 journey overlay",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "-"
+  ],
+  [
+   "Entrance27 local surface separation",
+   "-",
+   "-",
+   "0.550000011920929"
+  ],
+  [
+   "Checkin33 warm welcoming grade",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "0.550000011920929"
+  ],
+  [
+   "AP38 warm grade entrancefoyer",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "0.550000011920929"
+  ],
+  [
+   "AP38 warm grade checkin",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "0.550000011920929"
+  ],
+  [
+   "AP38 warm grade publicreturn",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "0.550000011920929"
+  ],
+  [
+   "AP38 warm grade landsidecorridor",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "0.550000011920929"
+  ],
+  [
+   "AP38 warm grade security",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "0.550000011920929"
+  ],
+  [
+   "AP38 warm grade recovery",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "0.550000011920929"
+  ],
+  [
+   "AP38 warm grade concourse",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "0.550000011920929"
+  ],
+  [
+   "AP38 warm grade gate07",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "0.550000011920929"
+  ],
+  [
+   "AP38 warm grade gate08",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "0.550000011920929"
+  ],
+  [
+   "AP38 warm grade cafefoyer",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "0.550000011920929"
+  ],
+  [
+   "AP38 warm grade cafe",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "0.550000011920929"
+  ],
+  [
+   "AP38 warm grade amenitylobby",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "0.550000011920929"
+  ],
+  [
+   "AP38 warm grade amenities",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "0.550000011920929"
+  ],
+  [
+   "AP38 warm grade operations",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "0.550000011920929"
+  ],
+  [
+   "AP38 warm grade gate07entry",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "0.550000011920929"
+  ],
+  [
+   "AP38 warm grade baggageservice",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "0.550000011920929"
+  ],
+  [
+   "AP38 warm grade arrivals",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "0.550000011920929"
+  ],
+  [
+   "AP38 warm grade arrivalsreturn",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "0.550000011920929"
+  ],
+  [
+   "AP38 warm grade publicreturneast",
+   "<DynamicGlobalIlluminationMethod.NONE: 0>",
+   "-",
+   "0.550000011920929"
+  ]
+ ],
+ "missing": []
+}

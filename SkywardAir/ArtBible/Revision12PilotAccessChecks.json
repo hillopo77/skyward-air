@@ -1,0 +1,395 @@
+{
+  "revision": "12",
+  "status": "SUCCESS",
+  "source_file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\Plane.blend",
+  "source_sha256": "718cd6c2845211682a6eac6057aed830bfcc02e185a01c5032b68cf2e8431000",
+  "checked_at_utc": "2026-10-24T18:45:06Z",
+  "method": "Read-only evaluated upholstery and complete yoke bounds, physical action/collision alignment, saved walking prerequisites, independent unchanged-interaction snapshot and first-hit geometry rays from both actual moved seated eye positions. No authoring helpers imported/applied.",
+  "checks": [
+    {
+      "test": "Actual complete chairs provide at least half a metre between upholstery and yokes",
+      "passed": true,
+      "seats": [
+        {
+          "actor": "SM_Plane_Seat.016",
+          "root": [
+            -1.100000023841858,
+            -3.240000009536743,
+            0.0
+          ],
+          "cushion_front_y_m": -3.5785677433013916,
+          "armrest_front_y_m": -3.5536224842071533,
+          "yoke_rear_y_m": -4.102499961853027,
+          "standing_gap_m": 0.5239322185516357,
+          "full_body_margin_each_side_m": 0.06196610927581786,
+          "chair_rear_y_m": -2.8964218497276306
+        },
+        {
+          "actor": "SM_Plane_Seat.017",
+          "root": [
+            1.100000023841858,
+            -3.240000009536743,
+            0.0
+          ],
+          "cushion_front_y_m": -3.5785677433013916,
+          "armrest_front_y_m": -3.5536224842071533,
+          "yoke_rear_y_m": -4.102499961853027,
+          "standing_gap_m": 0.5239322185516357,
+          "full_body_margin_each_side_m": 0.06196610927581786,
+          "chair_rear_y_m": -2.8964218497276306
+        }
+      ],
+      "body_diameter_m": 0.4
+    },
+    {
+      "test": "Seat action poses match real chair locations and standing gap centres",
+      "passed": true,
+      "approaches": [
+        {
+          "actor": "SM_Plane_Seat.016",
+          "seat_location": [
+            -1.100000023841858,
+            -3.24,
+            1.6
+          ],
+          "physical_root": [
+            -1.100000023841858,
+            -3.240000009536743,
+            0.0
+          ],
+          "standing_approach": [
+            -1.100000023841858,
+            -3.8405338525772095,
+            1.62
+          ],
+          "measured_cross_y_m": -3.8405338525772095
+        },
+        {
+          "actor": "SM_Plane_Seat.017",
+          "seat_location": [
+            1.100000023841858,
+            -3.24,
+            1.6
+          ],
+          "physical_root": [
+            1.100000023841858,
+            -3.240000009536743,
+            0.0
+          ],
+          "standing_approach": [
+            1.100000023841858,
+            -3.8405338525772095,
+            1.62
+          ],
+          "measured_cross_y_m": -3.8405338525772095
+        }
+      ]
+    },
+    {
+      "test": "Pilot collision bounds follow the complete chair placements",
+      "passed": true,
+      "bounds": [
+        {
+          "actor": "SM_Plane_Seat.016",
+          "bounds": {
+            "name": "COL_Seat10_Pilot_-1",
+            "location": [
+              -1.1,
+              -3.2199999999999998,
+              0.98
+            ],
+            "size": [
+              0.78,
+              0.67,
+              1.96
+            ]
+          },
+          "centre_y_minus_chair_y_m": 0.020000009536743413
+        },
+        {
+          "actor": "SM_Plane_Seat.017",
+          "bounds": {
+            "name": "COL_Seat10_Pilot_1",
+            "location": [
+              1.1,
+              -3.2199999999999998,
+              0.98
+            ],
+            "size": [
+              0.78,
+              0.67,
+              1.96
+            ]
+          },
+          "centre_y_minus_chair_y_m": 0.020000009536743413
+        }
+      ]
+    },
+    {
+      "test": "Both authored walking approaches use the actual clear standing gap",
+      "passed": true,
+      "routes": [
+        {
+          "name": "Pilot footwell -1",
+          "start": [
+            0,
+            -1.5,
+            1.62
+          ],
+          "path": [
+            [
+              -0.48,
+              -2.8,
+              1.62
+            ],
+            [
+              -0.48,
+              -3.8405338525772095,
+              1.62
+            ],
+            [
+              -1.1,
+              -3.8405338525772095,
+              1.62
+            ]
+          ],
+          "required": true,
+          "tolerance": 0.12,
+          "look_at": [
+            -1.1,
+            -4.8,
+            1.2
+          ],
+          "body_audit": true
+        },
+        {
+          "name": "Pilot footwell 1",
+          "start": [
+            0,
+            -1.5,
+            1.62
+          ],
+          "path": [
+            [
+              0.48,
+              -2.8,
+              1.62
+            ],
+            [
+              0.48,
+              -3.8405338525772095,
+              1.62
+            ],
+            [
+              1.1,
+              -3.8405338525772095,
+              1.62
+            ]
+          ],
+          "required": true,
+          "tolerance": 0.12,
+          "look_at": [
+            1.1,
+            -4.8,
+            1.2
+          ],
+          "body_audit": true
+        }
+      ]
+    },
+    {
+      "test": "Both complete headset mounts and their action points follow the chairs",
+      "passed": true,
+      "headsets": [
+        {
+          "actor": "Pilot headset L12",
+          "root": [
+            -1.465000033378601,
+            -2.9100000858306885,
+            1.1200000047683716
+          ],
+          "seat_root": [
+            -1.100000023841858,
+            -3.240000009536743,
+            0.0
+          ],
+          "longitudinal_offset_m": 0.3299999237060547,
+          "control_point": [
+            -1.465,
+            -2.9699999999999998,
+            1.14
+          ],
+          "approach": [
+            -1.1,
+            -3.2199999999999998,
+            1.62
+          ]
+        },
+        {
+          "actor": "Pilot headset R12",
+          "root": [
+            1.465000033378601,
+            -2.9100000858306885,
+            1.1200000047683716
+          ],
+          "seat_root": [
+            1.100000023841858,
+            -3.240000009536743,
+            0.0
+          ],
+          "longitudinal_offset_m": 0.3299999237060547,
+          "control_point": [
+            1.465,
+            -2.9699999999999998,
+            1.14
+          ],
+          "approach": [
+            1.1,
+            -3.2199999999999998,
+            1.62
+          ]
+        }
+      ]
+    },
+    {
+      "test": "Every saved route audits body clearance and both hold routes require real stowed pans",
+      "passed": true,
+      "route_count": 22,
+      "hold_routes": [
+        {
+          "name": "Natural straight lower stair landing and full hold12",
+          "close_actors": [
+            "Crew fold pan 0112",
+            "Crew fold pan 0212",
+            "Crew fold pan 0312",
+            "Crew fold pan 0412"
+          ]
+        },
+        {
+          "name": "Natural hold landing return and stair ascent12",
+          "close_actors": [
+            "Crew fold pan 0112",
+            "Crew fold pan 0212",
+            "Crew fold pan 0312",
+            "Crew fold pan 0412"
+          ]
+        }
+      ]
+    },
+    {
+      "test": "All other interaction descriptors retain their independently snapshotted semantics",
+      "passed": true,
+      "baseline_source_sha256": "7382f0e1b5f8255dac623d1e1460aaa990e9aecce7fc68e7b6a4a93bfe64fe6b",
+      "changed_actor_ids": [
+        "Pilot headset L12",
+        "Pilot headset R12",
+        "SM_Plane_Seat.016",
+        "SM_Plane_Seat.017"
+      ],
+      "unchanged_sha256": "895b3ca5906f60ba483793b8f2d16ee9e5627d85fb06bfa831501ff3e1f68b5f"
+    },
+    {
+      "test": "Both moved pilot eye positions retain actual horizon and upward glazing views",
+      "passed": true,
+      "rays": [
+        {
+          "actor": "SM_Plane_Seat.016",
+          "eye": [
+            -1.100000023841858,
+            -3.240000009536743,
+            1.600000023841858
+          ],
+          "pitch_deg": 0,
+          "first_hit": "Fitted curved cockpit glazing11.003",
+          "hit_point": [
+            -1.100000023841858,
+            -6.203754901885986,
+            1.600000023841858
+          ]
+        },
+        {
+          "actor": "SM_Plane_Seat.016",
+          "eye": [
+            -1.100000023841858,
+            -3.240000009536743,
+            1.600000023841858
+          ],
+          "pitch_deg": 5,
+          "first_hit": "Fitted curved cockpit glazing11.003",
+          "hit_point": [
+            -1.100000023841858,
+            -5.87583065032959,
+            1.8306052684783936
+          ]
+        },
+        {
+          "actor": "SM_Plane_Seat.016",
+          "eye": [
+            -1.100000023841858,
+            -3.240000009536743,
+            1.600000023841858
+          ],
+          "pitch_deg": 10,
+          "first_hit": "Fitted curved cockpit glazing11.003",
+          "hit_point": [
+            -1.100000023841858,
+            -5.603880882263184,
+            2.0168159008026123
+          ]
+        },
+        {
+          "actor": "SM_Plane_Seat.017",
+          "eye": [
+            1.100000023841858,
+            -3.240000009536743,
+            1.600000023841858
+          ],
+          "pitch_deg": 0,
+          "first_hit": "Fitted curved cockpit glazing11",
+          "hit_point": [
+            1.100000023841858,
+            -6.203517436981201,
+            1.600000023841858
+          ]
+        },
+        {
+          "actor": "SM_Plane_Seat.017",
+          "eye": [
+            1.100000023841858,
+            -3.240000009536743,
+            1.600000023841858
+          ],
+          "pitch_deg": 5,
+          "first_hit": "Fitted curved cockpit glazing11",
+          "hit_point": [
+            1.100000023841858,
+            -5.875609397888184,
+            1.8305859565734863
+          ]
+        },
+        {
+          "actor": "SM_Plane_Seat.017",
+          "eye": [
+            1.100000023841858,
+            -3.240000009536743,
+            1.600000023841858
+          ],
+          "pitch_deg": 10,
+          "first_hit": "Fitted curved cockpit glazing11",
+          "hit_point": [
+            1.100000023841858,
+            -5.6038079261779785,
+            2.01680326461792
+          ]
+        }
+      ]
+    },
+    {
+      "test": "Source file remains unchanged by independent saved-scene checks",
+      "passed": true
+    }
+  ],
+  "limits": [
+    "Native actual-game positive controls, capsule sweeps, player movement and the four affected action cycles are separate required checks."
+  ]
+}

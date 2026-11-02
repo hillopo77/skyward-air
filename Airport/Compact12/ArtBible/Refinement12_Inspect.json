@@ -1,0 +1,36 @@
+{
+  "status": "SUCCESS",
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Compact12\\Screenshots\\Refine12_04_GateHall.png",
+      "sha256": "906e485337d9563547eaad19ec7203702bbcfa2280ffa9d91cfa60e521087e3f",
+      "view": "04_GateHall"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Compact12\\Screenshots\\Refine12_14_Business.png",
+      "sha256": "59bc55c5105f3184ea72b718bdb08aba3bc9451d2af9c85b95e9ccdec1266241",
+      "view": "14_Business"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Compact12\\Screenshots\\Refine12_16_Lineup.png",
+      "sha256": "8fb6a366f8471fc95b6b2d1b698ce4d8cfe7f0715477b7b2d643aa4d8a3e883e",
+      "view": "16_Lineup"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Compact12\\Screenshots\\Refine12_17_BenchContact.png",
+      "sha256": "924b9aafbc3ccd94cd633f3260a63f48d6fc0c6404f4071cfcb1103bc9de085a",
+      "view": "17_BenchContact"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Compact12\\Screenshots\\Refine12_CockpitWide.png",
+      "sha256": "abd6ae83eba3d09e66aad38fa269b5fa531d6ce4063820aa28774de7f2c2dab0",
+      "view": "CockpitWide"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Compact12\\Screenshots\\Refine12_ClearWindow.png",
+      "sha256": "0d7e5b61463f60a7756645c7ef0aaf82f1bbbd67c9deec4d43146e8d0cb0cca7",
+      "view": "ClearWindow"
+    }
+  ],
+  "runtime_sha256": "b3abb045cc3772accd8541e9a4c4bb8394e39906284d65cc946ed2796d98f888"
+}

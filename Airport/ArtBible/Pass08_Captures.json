@@ -1,0 +1,34 @@
+{
+  "status": "SUCCESS",
+  "pass_id": 8,
+  "pass_name": "Original signs, information systems and boarding sequence",
+  "captures": [
+    {
+      "file": "Pass08_01_Entrance.png",
+      "sha256": "ccbea638787876bf4cf9b09f6dc69375f2077d52f1b2845f726571f50c308714",
+      "camera": "01_Entrance"
+    },
+    {
+      "file": "Pass08_03_Security.png",
+      "sha256": "96e7379fad2b164c82cccbff0ef3b3cfbb4c218a65f886db1eb8d6a567975810",
+      "camera": "03_Security"
+    },
+    {
+      "file": "Pass08_06_Gate.png",
+      "sha256": "b112993116fcf856fec03429a21ecd8f50df191e4862624c0ccee22f5191fdb9",
+      "camera": "06_Gate"
+    },
+    {
+      "file": "Pass08_02_Departures.png",
+      "sha256": "ccf632dd1d505a56f9a918ab5af9e3fb35509feb341fb9f60ae371b477b3ec5a",
+      "camera": "02_Departures"
+    },
+    {
+      "file": "Pass08_07_BoardingBridge.png",
+      "sha256": "dbbb326d8065a6d7a6770919e5002e600a96c5e494f55604cce9c3748634a3f2",
+      "camera": "07_BoardingBridge"
+    }
+  ],
+  "runtime_sha256": "cdfa0263f3ef4fac59658b04f2a4b04296cbb0efd1e5a17bcc26db5dbe1ce8ea",
+  "native_bodies": 31
+}

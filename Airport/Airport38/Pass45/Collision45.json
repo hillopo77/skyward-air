@@ -1,0 +1,575 @@
+{
+  "status": "SUCCESS",
+  "question": "does the same capsule trace block with simple collision, or only with complex?",
+  "capsule": {
+    "radius_cm": 34.0,
+    "half_height_cm": 88.0
+  },
+  "pawn": {
+    "error": "'NoneType' object has no attribute 'get_scaled_capsule_radius'"
+  },
+  "traces": [
+    {
+      "probe": "bridgeA_lateral_left",
+      "start": [
+        -9.61,
+        -0.33,
+        1.2
+      ],
+      "end": [
+        -9.61,
+        3.67,
+        1.2
+      ],
+      "capsule_simple": {
+        "actor": "Bridge38 bank A sleeve 00",
+        "mesh": "SM_AP_P38B_A00",
+        "impact": [
+          -9.61,
+          0.806,
+          1.2
+        ]
+      },
+      "capsule_complex": {
+        "actor": "Bridge38 bank A sleeve 00",
+        "mesh": "SM_AP_P38B_A00",
+        "impact": [
+          -9.61,
+          0.806,
+          1.2
+        ]
+      },
+      "line_simple": {
+        "mesh": "SM_AP_P38B_A00",
+        "impact": [
+          -9.61,
+          1.323,
+          1.2
+        ]
+      },
+      "line_complex": {
+        "mesh": "SM_AP_P38B_A00",
+        "impact": [
+          -9.61,
+          1.323,
+          1.2
+        ]
+      }
+    },
+    {
+      "probe": "bridgeA_lateral_right",
+      "start": [
+        -9.61,
+        -0.33,
+        1.2
+      ],
+      "end": [
+        -9.61,
+        -4.33,
+        1.2
+      ],
+      "capsule_simple": {
+        "actor": "Bridge38 bank A sleeve 01",
+        "mesh": "SM_AP_P38B_A01",
+        "impact": [
+          -9.61,
+          -1.424,
+          1.2
+        ]
+      },
+      "capsule_complex": {
+        "actor": "Bridge38 bank A sleeve 01",
+        "mesh": "SM_AP_P38B_A01",
+        "impact": [
+          -9.61,
+          -1.424,
+          1.2
+        ]
+      },
+      "line_simple": {
+        "mesh": "SM_AP_P38B_A00",
+        "impact": [
+          -9.61,
+          -1.933,
+          1.2
+        ]
+      },
+      "line_complex": {
+        "mesh": "SM_AP_P38B_A00",
+        "impact": [
+          -9.61,
+          -1.933,
+          1.2
+        ]
+      }
+    },
+    {
+      "probe": "bridgeB_lateral_left",
+      "start": [
+        2.92,
+        -2.03,
+        1.2
+      ],
+      "end": [
+        2.92,
+        1.97,
+        1.2
+      ],
+      "capsule_simple": {
+        "actor": "Bridge38 bank B sleeve 02",
+        "mesh": "SM_AP_P38B_B02",
+        "impact": [
+          2.92,
+          -1.04,
+          1.2
+        ]
+      },
+      "capsule_complex": {
+        "actor": "Bridge38 bank B sleeve 02",
+        "mesh": "SM_AP_P38B_B02",
+        "impact": [
+          2.92,
+          -1.04,
+          1.2
+        ]
+      },
+      "line_simple": {
+        "mesh": "SM_AP_P38B_B02",
+        "impact": [
+          2.92,
+          -0.532,
+          1.2
+        ]
+      },
+      "line_complex": {
+        "mesh": "SM_AP_P38B_B02",
+        "impact": [
+          2.92,
+          -0.532,
+          1.2
+        ]
+      }
+    },
+    {
+      "probe": "bridgeB_lateral_right",
+      "start": [
+        2.92,
+        -2.03,
+        1.2
+      ],
+      "end": [
+        2.92,
+        -6.03,
+        1.2
+      ],
+      "capsule_simple": {
+        "actor": "Bridge38 bank B sleeve 01",
+        "mesh": "SM_AP_P38B_B01",
+        "impact": [
+          2.92,
+          -3.05,
+          1.2
+        ]
+      },
+      "capsule_complex": {
+        "actor": "Bridge38 bank B sleeve 01",
+        "mesh": "SM_AP_P38B_B01",
+        "impact": [
+          2.92,
+          -3.05,
+          1.2
+        ]
+      },
+      "line_simple": {
+        "mesh": "SM_AP_P38B_B01",
+        "impact": [
+          2.92,
+          -3.559,
+          1.2
+        ]
+      },
+      "line_complex": {
+        "mesh": "SM_AP_P38B_B01",
+        "impact": [
+          2.92,
+          -3.559,
+          1.2
+        ]
+      }
+    },
+    {
+      "probe": "bridgeA_deck_down",
+      "start": [
+        -9.61,
+        -0.33,
+        1.6
+      ],
+      "end": [
+        -9.61,
+        -0.33,
+        -2.4
+      ],
+      "capsule_simple": {
+        "actor": "Bridge38 bank A sleeve 01",
+        "mesh": "SM_AP_P38B_A01",
+        "impact": [
+          -9.61,
+          -0.33,
+          0.897
+        ]
+      },
+      "capsule_complex": {
+        "actor": "Bridge38 bank A sleeve 01",
+        "mesh": "SM_AP_P38B_A01",
+        "impact": [
+          -9.61,
+          -0.33,
+          0.897
+        ]
+      },
+      "line_simple": {
+        "mesh": "SM_AP_P38B_A00",
+        "impact": [
+          -9.61,
+          -0.33,
+          0.012
+        ]
+      },
+      "line_complex": {
+        "mesh": "SM_AP_P38B_A00",
+        "impact": [
+          -9.61,
+          -0.33,
+          0.012
+        ]
+      }
+    },
+    {
+      "probe": "terminal_west_wall",
+      "start": [
+        -48.0,
+        -4.25,
+        1.2
+      ],
+      "end": [
+        -50.5,
+        -4.25,
+        1.2
+      ],
+      "capsule_simple": {
+        "actor": "Airport38 complete physical perimeter and partitions",
+        "mesh": "SM_AP_Walls38",
+        "impact": [
+          -48.0,
+          -4.25,
+          1.2
+        ]
+      },
+      "capsule_complex": {
+        "actor": "Airport38 complete physical perimeter and partitions",
+        "mesh": "SM_AP_Walls38",
+        "impact": [
+          -48.0,
+          -4.25,
+          1.2
+        ]
+      },
+      "line_simple": {
+        "mesh": "SM_AP_Walls38",
+        "impact": [
+          -48.91,
+          -4.25,
+          1.2
+        ]
+      },
+      "line_complex": {
+        "mesh": "SM_AP_Walls38",
+        "impact": [
+          -48.91,
+          -4.25,
+          1.2
+        ]
+      }
+    },
+    {
+      "probe": "terminal_floor_down",
+      "start": [
+        -46.0,
+        -13.0,
+        1.6
+      ],
+      "end": [
+        -46.0,
+        -13.0,
+        -1.4
+      ],
+      "capsule_simple": {
+        "actor": "Airport38 coherent bounded floors",
+        "mesh": "SM_AP_Floors38",
+        "impact": [
+          -46.0,
+          -13.0,
+          0.88
+        ]
+      },
+      "capsule_complex": {
+        "actor": "Airport38 coherent bounded floors",
+        "mesh": "SM_AP_Floors38",
+        "impact": [
+          -46.0,
+          -13.0,
+          0.88
+        ]
+      },
+      "line_simple": {
+        "mesh": "SM_AP_Floors38",
+        "impact": [
+          -46.0,
+          -13.0,
+          -0.0
+        ]
+      },
+      "line_complex": {
+        "mesh": "SM_AP_Floors38",
+        "impact": [
+          -46.0,
+          -13.0,
+          -0.0
+        ]
+      }
+    },
+    {
+      "probe": "checkin_floor_down",
+      "start": [
+        -35.0,
+        -13.0,
+        1.6
+      ],
+      "end": [
+        -35.0,
+        -13.0,
+        -1.4
+      ],
+      "capsule_simple": {
+        "actor": "Airport38 coherent bounded floors",
+        "mesh": "SM_AP_Floors38",
+        "impact": [
+          -35.0,
+          -13.0,
+          0.88
+        ]
+      },
+      "capsule_complex": {
+        "actor": "Airport38 coherent bounded floors",
+        "mesh": "SM_AP_Floors38",
+        "impact": [
+          -35.0,
+          -13.0,
+          0.88
+        ]
+      },
+      "line_simple": {
+        "mesh": "SM_AP_Floors38",
+        "impact": [
+          -35.0,
+          -13.0,
+          -0.0
+        ]
+      },
+      "line_complex": {
+        "mesh": "SM_AP_Floors38",
+        "impact": [
+          -35.0,
+          -13.0,
+          -0.0
+        ]
+      }
+    }
+  ],
+  "mesh_config": [
+    {
+      "mesh": "SM_AP_Floors38",
+      "actor": "Airport38 coherent bounded floors",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "collision_profile": "BlockAll",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    },
+    {
+      "mesh": "SM_AP_GroundPower34",
+      "actor": "GroundPower12_1954",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "collision_profile": "BlockAll",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    },
+    {
+      "mesh": "SM_AP_Grounds34",
+      "actor": "Finished Grounds34",
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+      "collision_profile": "NoCollision",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    },
+    {
+      "mesh": "SM_AP_P38B_A00",
+      "actor": "Bridge38 bank A sleeve 00",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "collision_profile": "BlockAll",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    },
+    {
+      "mesh": "SM_AP_P38B_A01",
+      "actor": "Bridge38 bank A sleeve 01",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "collision_profile": "BlockAll",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    },
+    {
+      "mesh": "SM_AP_P38B_A02",
+      "actor": "Bridge38 bank A sleeve 02",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "collision_profile": "BlockAll",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    },
+    {
+      "mesh": "SM_AP_P38B_A03",
+      "actor": "Bridge38 bank A sleeve 03",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "collision_profile": "BlockAll",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    },
+    {
+      "mesh": "SM_AP_P38B_B00",
+      "actor": "Bridge38 bank B sleeve 00",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "collision_profile": "BlockAll",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    },
+    {
+      "mesh": "SM_AP_P38B_B01",
+      "actor": "Bridge38 bank B sleeve 01",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "collision_profile": "BlockAll",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    },
+    {
+      "mesh": "SM_AP_P38B_B02",
+      "actor": "Bridge38 bank B sleeve 02",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "collision_profile": "BlockAll",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    },
+    {
+      "mesh": "SM_AP_P38B_B03",
+      "actor": "Bridge38 bank B sleeve 03",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "collision_profile": "BlockAll",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    },
+    {
+      "mesh": "SM_AP_P38B_B04",
+      "actor": "Bridge38 bank B sleeve 04",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "collision_profile": "BlockAll",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    },
+    {
+      "mesh": "SM_AP_P38B_bridge_control",
+      "actor": "Bridge38 departure control",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "collision_profile": "BlockAll",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    },
+    {
+      "mesh": "SM_AP_P38B_cab_joint",
+      "actor": "Bridge38 cab mitre",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "collision_profile": "BlockAll",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    },
+    {
+      "mesh": "SM_AP_P38B_docking_cab",
+      "actor": "Bridge38 docking cab",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "collision_profile": "BlockAll",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    },
+    {
+      "mesh": "SM_AP_P38B_elbow_chamber",
+      "actor": "Bridge38 elbow chamber",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "collision_profile": "BlockAll",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    },
+    {
+      "mesh": "SM_AP_P38B_lift",
+      "actor": "Bridge38 A lift",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "collision_profile": "BlockAll",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    },
+    {
+      "mesh": "SM_AP_P38B_parking_pad",
+      "actor": "Ground crew parking bay38",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "collision_profile": "BlockAll",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    },
+    {
+      "mesh": "SM_AP_P38B_pivot_chamber",
+      "actor": "Bridge38 pivot chamber",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "collision_profile": "BlockAll",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    },
+    {
+      "mesh": "SM_AP_P38B_terminal_neck",
+      "actor": "Bridge38 terminal neck",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "collision_profile": "BlockAll",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    },
+    {
+      "mesh": "SM_AP_P38B_truck",
+      "actor": "Bridge38 A truck",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "collision_profile": "BlockAll",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    },
+    {
+      "mesh": "SM_AP_Roofs38",
+      "actor": "Airport38 coherent roof union",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "collision_profile": "BlockAll",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    },
+    {
+      "mesh": "SM_AP_Walls38",
+      "actor": "Airport38 complete physical perimeter and partitions",
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "collision_profile": "BlockAll",
+      "collision_object_type": "<CollisionChannel.ECC_WORLD_STATIC: 0>",
+      "body_setup": "StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+    }
+  ]
+}

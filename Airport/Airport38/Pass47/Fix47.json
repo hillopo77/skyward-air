@@ -1,0 +1,126 @@
+{
+ "status": "SUCCESS",
+ "destroyed": [
+  "Forecourt kerb46 01",
+  "Forecourt kerb46 02",
+  "Forecourt kerb46 03",
+  "Forecourt kerb46 04",
+  "Forecourt kerb46 05",
+  "Forecourt kerb46 06",
+  "Forecourt kerb46 07",
+  "Forecourt kerb46 08",
+  "Forecourt kerb46 09",
+  "Forecourt kerb46 10",
+  "Forecourt kerb46 11",
+  "Forecourt kerb46 12",
+  "Forecourt kerb46 13",
+  "Forecourt kerb46 14",
+  "Forecourt kerb46 15",
+  "Forecourt kerb46 16",
+  "Forecourt kerb46 17",
+  "Forecourt kerb46 18",
+  "Forecourt kerb46 19",
+  "Forecourt kerb46 20",
+  "Forecourt kerb46 21",
+  "Forecourt taxi46 0",
+  "Forecourt taxi46 1",
+  "Forecourt taxi46 2",
+  "Forecourt shuttle bus46",
+  "Forecourt garden bench46 0",
+  "Forecourt garden bench46 2",
+  "Forecourt streetlight46 1",
+  "Forecourt streetlight46 2",
+  "Forecourt tree46 0",
+  "Forecourt tree46 1",
+  "Concourse plant46 0"
+ ],
+ "missing": [],
+ "instances_removed": [
+  {
+   "mesh": "SM_AP_Tree",
+   "at": [
+    -58.8,
+    -8.0
+   ]
+  },
+  {
+   "mesh": "SM_AP_Tree",
+   "at": [
+    -58.8,
+    -18.0
+   ]
+  },
+  {
+   "mesh": "SM_AP_Streetlight",
+   "at": [
+    -61.0,
+    -8.0
+   ]
+  },
+  {
+   "mesh": "SM_AP_Streetlight",
+   "at": [
+    -61.0,
+    -18.0
+   ]
+  }
+ ],
+ "replanted": [
+  {
+   "actor": "Verge tree47 0",
+   "mesh": "SM_AP_Tree",
+   "at": [
+    -71.2,
+    -16.5
+   ],
+   "yaw": 23.0,
+   "scale": 1.32,
+   "top_m": 8.98
+  },
+  {
+   "actor": "Verge tree47 1",
+   "mesh": "SM_AP_Tree",
+   "at": [
+    -71.8,
+    -4.0
+   ],
+   "yaw": -41.0,
+   "scale": 1.18,
+   "top_m": 8.02
+  },
+  {
+   "actor": "Verge streetlight47 0",
+   "mesh": "SM_AP_Streetlight",
+   "at": [
+    -68.9,
+    -18.0
+   ],
+   "yaw": 180.0,
+   "scale": 1.0,
+   "top_m": 5.81
+  },
+  {
+   "actor": "Verge streetlight47 1",
+   "mesh": "SM_AP_Streetlight",
+   "at": [
+    -68.9,
+    -8.0
+   ],
+   "yaw": 180.0,
+   "scale": 1.0,
+   "top_m": 5.81
+  }
+ ],
+ "arrivals": {
+  "texture": "/Game/Airport38/EquipmentScreens/T_AP_UI38_Arrivals.T_AP_UI38_Arrivals",
+  "material": "/Game/Airport38/EquipmentScreens/MI_AP_UI38_Arrivals.MI_AP_UI38_Arrivals",
+  "settings_from_departures": {
+   "compression_settings": "<TextureCompressionSettings.TC_DEFAULT: 0>",
+   "srgb": "True",
+   "mip_gen_settings": "<TextureMipGenSettings.TMGS_NO_MIPMAPS: 13>",
+   "lod_group": "<TextureGroup.TEXTUREGROUP_WORLD: 0>",
+   "filter": "<TextureFilter.TF_DEFAULT: 3>"
+  },
+  "image": "T_AP_UI38_Arrivals"
+ }
+}

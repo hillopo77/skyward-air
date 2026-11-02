@@ -1,0 +1,34 @@
+{
+ "status": "SUCCESS",
+ "airside": null,
+ "captures": [
+  {
+   "name": "Z21_cafe_in",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\R66\\Z21_cafe_in.png"
+  },
+  {
+   "name": "P_a08_terrace",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\R66\\P_a08_terrace.png"
+  },
+  {
+   "name": "R66_cafe_bar",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\R66\\R66_cafe_bar.png"
+  },
+  {
+   "name": "R66_terrace_props",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\R66\\R66_terrace_props.png"
+  },
+  {
+   "name": "R66_reno_corner",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\R66\\R66_reno_corner.png"
+  },
+  {
+   "name": "R66_cafe_lounge",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\R66\\R66_cafe_lounge.png"
+  },
+  {
+   "name": "R66_kids_corner",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\R66\\R66_kids_corner.png"
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+  "status": "PASS",
+  "validation": "Factory-empty source build",
+  "plan": {
+    "zones": 19,
+    "cells": 118,
+    "area_m2": 1696.0,
+    "overlap_m2": 0
+  },
+  "probes": [
+    {
+      "id": "L02_east_WC",
+      "passed": true,
+      "hit": true
+    },
+    {
+      "id": "L03_west_security",
+      "passed": true,
+      "hit": true
+    },
+    {
+      "id": "L07_no_y18_partition",
+      "passed": true,
+      "hit": false
+    },
+    {
+      "id": "L09_no_A07_inner_wall",
+      "passed": true,
+      "hit": false
+    },
+    {
+      "id": "baggage_window01",
+      "passed": true,
+      "hit": false
+    },
+    {
+      "id": "baggage_window02",
+      "passed": true,
+      "hit": false
+    },
+    {
+      "id": "baggage_wall_below",
+      "passed": true,
+      "hit": true
+    }
+  ],
+  "collections": {
+    "SM_AP_RetainedCraft38": {
+      "vertices": 192,
+      "faces": 196,
+      "objects": 2
+    },
+    "SM_AP_Floors38": {
+      "vertices": 265,
+      "faces": 92,
+      "objects": 1
+    },
+    "SM_AP_Ceilings38": {
+      "vertices": 349,
+      "faces": 122,
+      "objects": 1
+    },
+    "SM_AP_Roofs38": {
+      "vertices": 262,
+      "faces": 118,
+      "objects": 1
+    },
+    "SM_AP_Walls38": {
+      "vertices": 2337,
+      "faces": 1744,
+      "objects": 3
+    },
+    "SM_AP_Glazing38": {
+      "vertices": 6536,
+      "faces": 6644,
+      "objects": 80
+    },
+    "SM_AP_Canopy38": {
+      "vertices": 2592,
+      "faces": 2286,
+      "objects": 9
+    },
+    "SM_AP_Wayfinding38": {
+      "vertices": 4708,
+      "faces": 4777,
+      "objects": 71
+    },
+    "SM_AP_Fixtures38": {
+      "vertices": 41120,
+      "faces": 36208,
+      "objects": 156
+    },
+    "mesh_object_count": 299
+  },
+  "native_validation": "NOT RUN; root must inspect the assembled Unreal scene and collision"
+}

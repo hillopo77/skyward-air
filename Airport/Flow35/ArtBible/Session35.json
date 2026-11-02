@@ -1,0 +1,15 @@
+{
+  "status": "READY",
+  "map": "/Game/Airport35/L_Airport_Flow35",
+  "zone": "concourse",
+  "player": [
+    -31.790242445730033,
+    11.853779388668592,
+    1.62
+  ],
+  "viewport": [
+    1920,
+    1080
+  ],
+  "updated": 1793271273.750811
+}

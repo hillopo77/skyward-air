@@ -1,0 +1,62 @@
+{
+ "status": "SUCCESS",
+ "items": [
+  {
+   "asset": "SM_AP_P70Extinguisher",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Props70Build\\SM_AP_P70Extinguisher.fbx",
+   "materials": [
+    "MI_AP_Red",
+    "MI_AP_P34Cream",
+    "MI_AP_P36Black",
+    "MI_AP_P27Steel",
+    "MI_AP_Rubber",
+    "MI_AP_WhiteMark"
+   ],
+   "kg": 6.0,
+   "polygons": 1384,
+   "dims": [
+    0.18,
+    0.174,
+    0.605
+   ]
+  },
+  {
+   "asset": "SM_AP_P70ExtStand",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Props70Build\\SM_AP_P70ExtStand.fbx",
+   "materials": [
+    "MI_AP_Red",
+    "MI_AP_P34Cream",
+    "MI_AP_P36Black",
+    "MI_AP_P27Steel",
+    "MI_AP_WhiteMark"
+   ],
+   "kg": 0,
+   "polygons": 810,
+   "dims": [
+    0.342,
+    0.308,
+    1.455
+   ]
+  },
+  {
+   "asset": "SM_AP_P70PlayPlane",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Props70Build\\SM_AP_P70PlayPlane.fbx",
+   "materials": [
+    "MI_AP_P34Cream",
+    "MI_AP_P27Steel",
+    "MI_AP_Rubber",
+    "MI_AP_P27Teal",
+    "MI_AP_P38AGold",
+    "MI_AP_P38ANavy",
+    "MI_AP_P43TOak"
+   ],
+   "kg": 0,
+   "polygons": 4056,
+   "dims": [
+    1.84,
+    2.003,
+    1.21
+   ]
+  }
+ ]
+}

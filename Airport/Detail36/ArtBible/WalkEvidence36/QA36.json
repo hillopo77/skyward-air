@@ -1,0 +1,531 @@
+{
+  "status": "SUCCESS",
+  "checks": [
+    {
+      "name": "Viewport is native1920x1080",
+      "passed": true
+    },
+    {
+      "name": "Security has7m preparation setback",
+      "passed": true
+    },
+    {
+      "name": "Cafe chair faces table 0",
+      "passed": true
+    },
+    {
+      "name": "Cafe chair faces table 1",
+      "passed": true
+    },
+    {
+      "name": "Cafe chair faces table 2",
+      "passed": true
+    },
+    {
+      "name": "Cafe chair faces table 3",
+      "passed": true
+    },
+    {
+      "name": "Three sorting bins are available in cafe and gallery",
+      "passed": true
+    },
+    {
+      "name": "Exit and next opening are aligned",
+      "passed": true
+    },
+    {
+      "name": "Plant canopy is outside the main gold route",
+      "passed": true
+    },
+    {
+      "name": "Screening exit has two framed safety-glass leaves",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-42, -2.8]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-42, -0.8]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-39.75, 0.5]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-39.75, 1.8]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-39.75, 4.5]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Actual northbound screening traversal clears security",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-39.75, 7.5]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-43.5, 7.3]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-45.5, 7.3]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-45.5, 4.5]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-45.5, 1.4]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-45.5, 4.5]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-45.5, 7.3]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-38, 6.5]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-34, 6.5]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-29, 6.5]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-29, 9]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-29, 12.5]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-33.5, 12.5]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-34.5, 15]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-34.5, 18.3]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-34.5, 19.4]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-40.4, 19.4]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-40.4, 24.2]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-40.4, 28.6]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-40.4, 29.8]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-46.8, 29.8]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-43.2, 29.8]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-43.2, 18.3]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-43.2, 17]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-46.5, 17]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-46.5, 20.5]",
+      "passed": true,
+      "eye_height": 3.004386087179798
+    },
+    {
+      "name": "Walk reaches [-46.5, 21.3]",
+      "passed": true,
+      "eye_height": 3.195
+    },
+    {
+      "name": "Walk reaches [-46.5, 23.6]",
+      "passed": true,
+      "eye_height": 3.9023827176132375
+    },
+    {
+      "name": "Walk reaches [-46.5, 25.7]",
+      "passed": true,
+      "eye_height": 4.77
+    },
+    {
+      "name": "Gallery reached by continuous walking",
+      "passed": true,
+      "actual": 4.77
+    },
+    {
+      "name": "Walk reaches [-44.3, 26.5]",
+      "passed": true,
+      "eye_height": 4.77
+    },
+    {
+      "name": "Walk reaches [-44.3, 29.5]",
+      "passed": true,
+      "eye_height": 4.77
+    },
+    {
+      "name": "Walk reaches [-44.3, 26]",
+      "passed": true,
+      "eye_height": 4.77
+    },
+    {
+      "name": "Walk reaches [-46.5, 25.7]",
+      "passed": true,
+      "eye_height": 4.77
+    },
+    {
+      "name": "Walk reaches [-46.5, 23.6]",
+      "passed": true,
+      "eye_height": 4.106333027270984
+    },
+    {
+      "name": "Walk reaches [-46.5, 21.3]",
+      "passed": true,
+      "eye_height": 3.195
+    },
+    {
+      "name": "Walk reaches [-46.5, 20.5]",
+      "passed": true,
+      "eye_height": 3.195
+    },
+    {
+      "name": "Walk reaches [-46.5, 17]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Normal height after stair descent",
+      "passed": true,
+      "actual": 1.62
+    },
+    {
+      "name": "Walk reaches [-43.2, 17]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-43.2, 18.3]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-34.5, 18.3]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-34.5, 15]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-33.5, 12.5]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-29, 12.5]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-28, 15.5]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-28, 19.5]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-27.7, 24]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-27.7, 29.8]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-28, 19.5]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-29, 12.5]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-29, 6.5]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-24.5, 6.5]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-24.5, 4]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-21, 4]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-19.6, 6]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-17.1, 6]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-17.1, 8]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Reach A07 upholstered sofa36 seat 1",
+      "passed": true,
+      "selected": "A07 upholstered sofa36 seat 1"
+    },
+    {
+      "name": "New sofa can actually be occupied",
+      "passed": true
+    },
+    {
+      "name": "Standing from sofa restores height",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-17.1, 6]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-19, 4]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-19, 0.5]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-18.9, -2]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Reach Gate A07 boarding desk",
+      "passed": true,
+      "selected": "Gate A07 boarding desk"
+    },
+    {
+      "name": "Boarding pass opens A07",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-19, 0.3]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-15.4, 0.3]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-15.2, 0.675]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-13, 0.675]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-7, 0.675]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Walk reaches [-0.9, 0.675]",
+      "passed": true,
+      "eye_height": 1.62
+    },
+    {
+      "name": "Player reaches actual aircraft across bridge",
+      "passed": true
+    },
+    {
+      "name": "Final standing eye height preserved",
+      "passed": true
+    }
+  ],
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\ArtBible\\WalkEvidence36\\Screenshots\\01_RightScreeningExit.png",
+      "sha256": "1b28632c5c5a4be6375f63580bcdefe7309df4e822fdfa8ce1e268ff2f56546a",
+      "original_file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\Screenshots\\01_RightScreeningExit.png"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\ArtBible\\WalkEvidence36\\Screenshots\\02_ClearRepackingRoute.png",
+      "sha256": "7d4caef911b515977d1e38e47173a16a02fd0db1fc0d579c3eceb5b2b114b824",
+      "original_file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\Screenshots\\02_ClearRepackingRoute.png"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\ArtBible\\WalkEvidence36\\Screenshots\\03_JunctionDestinations.png",
+      "sha256": "f05fa4b70c06a8834883dea5352431ab38c472559f052fe02078eb91270d053f",
+      "original_file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\Screenshots\\03_JunctionDestinations.png"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\ArtBible\\WalkEvidence36\\Screenshots\\04_CafeEntrance.png",
+      "sha256": "4007256e69ebed50408a013e66119ae6e8cb47bbc05f37c1cce36a132cb83151",
+      "original_file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\Screenshots\\04_CafeEntrance.png"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\ArtBible\\WalkEvidence36\\Screenshots\\05_CafeRoom.png",
+      "sha256": "9843a91350a06a006c9e79e010363b8deb21336f17b4cfbe8ac18b00580c8a5a",
+      "original_file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\Screenshots\\05_CafeRoom.png"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\ArtBible\\WalkEvidence36\\Screenshots\\06_CafeDining.png",
+      "sha256": "4b7019371b994a855bb59836921d06d699fb09246d16a9d87e26ce09a235b999",
+      "original_file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\Screenshots\\06_CafeDining.png"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\ArtBible\\WalkEvidence36\\Screenshots\\07_Espresso.png",
+      "sha256": "7b8c46a4fdcf6e975b90a8dc02637e5391be5e6d80d730f14aeab1383f4d2e31",
+      "original_file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\Screenshots\\07_Espresso.png"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\ArtBible\\WalkEvidence36\\Screenshots\\08_Bakery.png",
+      "sha256": "ed7bd46e78b10dac05ce1deaf9202d21d689087c31e2e1a76988736ecd8fdca8",
+      "original_file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\Screenshots\\08_Bakery.png"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\ArtBible\\WalkEvidence36\\Screenshots\\09_TeaAndPOS.png",
+      "sha256": "8d08e3083ef496ecd40240794fbf6c8dd85b8897eea215b6ae30d6234a9202f3",
+      "original_file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\Screenshots\\09_TeaAndPOS.png"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\ArtBible\\WalkEvidence36\\Screenshots\\10_CafeBins.png",
+      "sha256": "836e46e8db3160566ff0aa7eb17ac5e278a6ffac535fb55777fb81e20ffce6a6",
+      "original_file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\Screenshots\\10_CafeBins.png"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\ArtBible\\WalkEvidence36\\Screenshots\\11_TableDetails.png",
+      "sha256": "5547e54f24eb84cde0ed617ffcce6e0517b138e5d6700ecea8319b79af773ece",
+      "original_file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\Screenshots\\11_TableDetails.png"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\ArtBible\\WalkEvidence36\\Screenshots\\12_A07Entrance.png",
+      "sha256": "ab5093d91f782eb33dd7c3add4da4a38c1b6b3e351c5854777ce789e02257cde",
+      "original_file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\Screenshots\\12_A07Entrance.png"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\ArtBible\\WalkEvidence36\\Screenshots\\13_A07Lounge.png",
+      "sha256": "62cddedb0ab3f5801358575bb33543b7f2111e8f87212ca837abd5c533045ecf",
+      "original_file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\Screenshots\\13_A07Lounge.png"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\ArtBible\\WalkEvidence36\\Screenshots\\14_A08Entrance.png",
+      "sha256": "13ee97d4bb1e0420299a1de88fc4508272934ccec6f8cfcdbbfe7cdabbe51286",
+      "original_file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\Screenshots\\14_A08Entrance.png"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\ArtBible\\WalkEvidence36\\Screenshots\\15_A08Lounge.png",
+      "sha256": "f6ae72164939c1589cf020f0ae9967add2f689545ec08aee708f367ad9f75eb6",
+      "original_file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\Screenshots\\15_A08Lounge.png"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\ArtBible\\WalkEvidence36\\Screenshots\\16_Gallery.png",
+      "sha256": "cbc13a3706e14ae6427205446ad74b49dc3c9013a1c25c7c40be7877f192bacf",
+      "original_file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\Screenshots\\16_Gallery.png"
+    }
+  ],
+  "step": 119,
+  "setup_player_teleports": 1,
+  "walk_teleports": 0,
+  "elapsed_s": 113.53100000000268,
+  "evidence_note": "Capture paths relocated to this archive before the material-only correction; geometry and walking paths unchanged."
+}

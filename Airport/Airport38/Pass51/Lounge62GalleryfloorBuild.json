@@ -1,0 +1,12 @@
+{
+ "status": "SUCCESS",
+ "asset": "SM_AP_P63GalleryFloor",
+ "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\LoungeBuild\\SM_AP_P63GalleryFloor.fbx",
+ "materials": [
+  "MI_AP_P27Teal",
+  "MI_AP_P38ASage",
+  "MI_AP_P27Oak",
+  "MI_AP_P43TOak"
+ ],
+ "polygons": 54
+}

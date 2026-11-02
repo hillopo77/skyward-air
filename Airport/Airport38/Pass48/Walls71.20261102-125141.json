@@ -1,0 +1,99 @@
+{
+ "status": "SUCCESS",
+ "stations": [
+  {
+   "station": "Safety station 0",
+   "extinguisher": "Usable extinguisher 0",
+   "at": [
+    -43.28,
+    -17.15,
+    0.045
+   ],
+   "floor": 0.0,
+   "wall_point": [
+    -43.28,
+    -17.91,
+    1.0
+   ],
+   "normal": [
+    0.0,
+    1.0
+   ],
+   "dist": 0.76,
+   "actor": "Airport38 complete physical perimeter and partitions"
+  },
+  {
+   "station": "Safety station 1",
+   "extinguisher": "Usable extinguisher 1",
+   "at": [
+    -26.28,
+    -5.0,
+    0.045
+   ],
+   "floor": 0.0,
+   "wall_point": [
+    -26.09,
+    -5.0,
+    1.0
+   ],
+   "normal": [
+    -1.0,
+    -0.0
+   ],
+   "dist": 0.19,
+   "actor": "Airport38 complete physical perimeter and partitions"
+  },
+  {
+   "station": "Safety station 2",
+   "extinguisher": "Usable extinguisher 2",
+   "at": [
+    -37.1,
+    9.72,
+    0.045
+   ],
+   "floor": 0.0,
+   "wall_point": [
+    -37.1,
+    9.91,
+    1.0
+   ],
+   "normal": [
+    0.0,
+    -1.0
+   ],
+   "dist": 0.19,
+   "actor": "Airport38 complete physical perimeter and partitions"
+  },
+  {
+   "station": "Safety station 3",
+   "extinguisher": "Usable extinguisher 3",
+   "at": [
+    -29.45,
+    33.72,
+    0.045
+   ],
+   "floor": 0.0
+  },
+  {
+   "station": "Safety station 4",
+   "extinguisher": "Usable extinguisher 4",
+   "at": [
+    -32.28,
+    32.08749999046326,
+    0.045
+   ],
+   "floor": 0.0,
+   "wall_point": [
+    -32.09,
+    32.08749999046326,
+    1.0
+   ],
+   "normal": [
+    -1.0,
+    -0.0
+   ],
+   "dist": 0.19,
+   "actor": "Airport38 complete physical perimeter and partitions"
+  }
+ ]
+}

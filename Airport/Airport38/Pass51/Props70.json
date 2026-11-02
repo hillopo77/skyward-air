@@ -1,0 +1,81 @@
+{
+ "status": "SUCCESS",
+ "meshes": [
+  "SM_AP_P70Extinguisher",
+  "SM_AP_P70ExtStand",
+  "SM_AP_P70PlayPlane"
+ ],
+ "stations": [
+  {
+   "station": "Safety station 0",
+   "at": [
+    -43.27,
+    -17.15,
+    0.0
+   ],
+   "facing": [
+    -1,
+    0
+   ],
+   "yaw": 90.0,
+   "wall": true
+  },
+  {
+   "station": "Safety station 1",
+   "at": [
+    -26.27,
+    -5.0,
+    0.0
+   ],
+   "facing": [
+    -1,
+    0
+   ],
+   "yaw": 90.0,
+   "wall": true
+  },
+  {
+   "station": "Safety station 2",
+   "at": [
+    -37.1,
+    9.73,
+    0.0
+   ],
+   "facing": [
+    0,
+    -1
+   ],
+   "yaw": 0.0,
+   "wall": true
+  },
+  {
+   "station": "Safety station 3",
+   "at": [
+    -29.45,
+    33.73,
+    0.0
+   ],
+   "facing": [
+    0,
+    -1
+   ],
+   "yaw": 0.0,
+   "wall": true
+  },
+  {
+   "station": "Safety station 4",
+   "at": [
+    -32.27,
+    32.087,
+    0.0
+   ],
+   "facing": [
+    -1,
+    0
+   ],
+   "yaw": 90.0,
+   "wall": true
+  }
+ ],
+ "notes": []
+}

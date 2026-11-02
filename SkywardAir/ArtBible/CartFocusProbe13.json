@@ -1,0 +1,1930 @@
+[
+  {
+    "actor": "Mid_meals_cart",
+    "progress": 0.0,
+    "pawn": [
+      -72.50000238418579,
+      -1000.999927520752,
+      162.0
+    ],
+    "target": [
+      -54.46800661087036,
+      -1052.9999732971191,
+      73.90400069952011
+    ],
+    "rotation": [
+      -4.6562428224206087e-07,
+      -58.005008697509766,
+      -70.87504577636719
+    ],
+    "distance": 103.87522671485873,
+    "dot": 1.0000000000000002,
+    "lateral": 0.0,
+    "visible": true,
+    "selected": "Mid_meals_cart",
+    "hit_owner": "Mid_meals_cart",
+    "hit_label": "Mid_meals_cart",
+    "impact": [
+      -54.61687998974684,
+      -1052.5706573958857,
+      74.63132723875827
+    ],
+    "hit_gap": 0.8576009099051289,
+    "candidate_offsets": [
+      {
+        "delta": [
+          0,
+          -0.025,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.05
+        ],
+        "visible": true
+      }
+    ]
+  },
+  {
+    "actor": "Mid_meals_cart",
+    "progress": 1.0,
+    "pawn": [
+      -72.50000238418579,
+      -1000.999927520752,
+      162.0
+    ],
+    "target": [
+      -115.65201807022095,
+      -1007.8135147094727,
+      73.90400069952011
+    ],
+    "rotation": [
+      -1.1869136642417288e-06,
+      -63.6232795715332,
+      -171.02723693847656
+    ],
+    "distance": 98.3332421966055,
+    "dot": 1.0,
+    "lateral": 0.0,
+    "visible": true,
+    "selected": "Mid_meals_cart",
+    "hit_owner": "Mid_meals_cart",
+    "hit_label": "Mid_meals_cart",
+    "impact": [
+      -110.02096579639476,
+      -1006.924383341548,
+      85.39994591197954
+    ],
+    "hit_gap": 12.831837772815689,
+    "candidate_offsets": [
+      {
+        "delta": [
+          0,
+          -0.025,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.05
+        ],
+        "visible": true
+      }
+    ]
+  },
+  {
+    "actor": "Rear_L_meal_cart",
+    "progress": 0.0,
+    "pawn": [
+      -195.49999237060547,
+      -3365.999984741211,
+      162.0
+    ],
+    "target": [
+      -180.12800312042236,
+      -3417.9996490478516,
+      73.90400069952011
+    ],
+    "rotation": [
+      -4.850780328524706e-07,
+      -58.38718032836914,
+      -73.53141784667969
+    ],
+    "distance": 103.44645104720226,
+    "dot": 0.9999999999999999,
+    "lateral": 1.5414722419858316e-06,
+    "visible": true,
+    "selected": "Rear_L_meal_cart",
+    "hit_owner": "Rear_L_meal_cart",
+    "hit_label": "Rear_L_meal_cart",
+    "impact": [
+      -180.2548965466979,
+      -3417.5703997515075,
+      74.63121973477092
+    ],
+    "hit_gap": 0.8539346727209094,
+    "candidate_offsets": [
+      {
+        "delta": [
+          0,
+          -0.025,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.05
+        ],
+        "visible": true
+      }
+    ]
+  },
+  {
+    "actor": "Rear_L_meal_cart",
+    "progress": 1.0,
+    "pawn": [
+      -195.49999237060547,
+      -3365.999984741211,
+      162.0
+    ],
+    "target": [
+      -232.87084197998047,
+      -3380.151180267334,
+      73.90400069952011
+    ],
+    "rotation": [
+      -1.123505057876173e-06,
+      -65.60090637207031,
+      -159.25985717773438
+    ],
+    "distance": 96.7354217858962,
+    "dot": 1.0,
+    "lateral": 0.0,
+    "visible": true,
+    "selected": "Rear_L_meal_cart",
+    "hit_owner": "Rear_L_meal_cart",
+    "hit_label": "Rear_L_meal_cart",
+    "impact": [
+      -227.40558601061662,
+      -3378.081652301329,
+      86.78749724855928
+    ],
+    "hit_gap": 14.146959112892342,
+    "candidate_offsets": [
+      {
+        "delta": [
+          0,
+          -0.025,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.05
+        ],
+        "visible": true
+      }
+    ]
+  },
+  {
+    "actor": "Lavatory R waste flap12",
+    "progress": 0.0,
+    "pawn": [
+      185.0,
+      -2849.0,
+      162.0
+    ],
+    "target": [
+      206.99999332427979,
+      -2877.7000427246094,
+      77.99999713897705
+    ],
+    "rotation": [
+      -3.737400788850209e-07,
+      -66.7081069946289,
+      -52.52806091308594
+    ],
+    "distance": 91.45322651123153,
+    "dot": 1.0,
+    "lateral": 0.0,
+    "visible": true,
+    "selected": "Lavatory R waste flap12",
+    "hit_owner": null,
+    "hit_label": null,
+    "impact": null,
+    "hit_gap": null,
+    "candidate_offsets": [
+      {
+        "delta": [
+          0,
+          -0.025,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.05
+        ],
+        "visible": true
+      }
+    ]
+  },
+  {
+    "actor": "Lavatory R waste flap12",
+    "progress": 1.0,
+    "pawn": [
+      185.0,
+      -2849.0,
+      162.0
+    ],
+    "target": [
+      206.99999332427979,
+      -2884.6383452415466,
+      80.50905084609985
+    ],
+    "rotation": [
+      -4.017554999791173e-07,
+      -62.79932403564453,
+      -58.31245040893555
+    ],
+    "distance": 91.6235021805408,
+    "dot": 1.0,
+    "lateral": 0.0,
+    "visible": false,
+    "selected": null,
+    "hit_owner": "SM_Plane_Lavatory_R",
+    "hit_label": "SM_Plane_Lavatory_R",
+    "impact": [
+      204.7695452031269,
+      -2881.0251859549353,
+      88.77093219088574
+    ],
+    "hit_gap": 9.289160468357798,
+    "candidate_offsets": [
+      {
+        "delta": [
+          0,
+          -0.025,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.05
+        ],
+        "visible": true
+      }
+    ]
+  },
+  {
+    "actor": "Lavatory L waste flap12",
+    "progress": 0.0,
+    "pawn": [
+      -185.0,
+      -2849.0,
+      162.0
+    ],
+    "target": [
+      -206.99999332427979,
+      -2877.7000427246094,
+      77.99999713897705
+    ],
+    "rotation": [
+      -9.069700013242254e-07,
+      -66.7081069946289,
+      -127.47193908691406
+    ],
+    "distance": 91.45322651123153,
+    "dot": 1.0,
+    "lateral": 0.0,
+    "visible": true,
+    "selected": "Lavatory L waste flap12",
+    "hit_owner": null,
+    "hit_label": null,
+    "impact": null,
+    "hit_gap": null,
+    "candidate_offsets": [
+      {
+        "delta": [
+          0,
+          -0.025,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.05
+        ],
+        "visible": true
+      }
+    ]
+  },
+  {
+    "actor": "Lavatory L waste flap12",
+    "progress": 1.0,
+    "pawn": [
+      -185.0,
+      -2849.0,
+      162.0
+    ],
+    "target": [
+      -206.99999332427979,
+      -2884.6383452415466,
+      80.50905084609985
+    ],
+    "rotation": [
+      -8.383911449527659e-07,
+      -62.79932403564453,
+      -121.68754577636719
+    ],
+    "distance": 91.6235021805408,
+    "dot": 1.0,
+    "lateral": 0.0,
+    "visible": false,
+    "selected": null,
+    "hit_owner": "SM_Plane_Lavatory_L",
+    "hit_label": "SM_Plane_Lavatory_L",
+    "impact": [
+      -204.7695452031269,
+      -2881.0251859549353,
+      88.77093219088574
+    ],
+    "hit_gap": 9.289160468357798,
+    "candidate_offsets": [
+      {
+        "delta": [
+          0,
+          -0.025,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.05
+        ],
+        "visible": true
+      }
+    ]
+  },
+  {
+    "actor": "Lavatory R toilet lid12",
+    "progress": 0.0,
+    "pawn": [
+      154.0,
+      -2948.0,
+      162.0
+    ],
+    "target": [
+      153.99999618530273,
+      -2998.9999771118164,
+      53.50000262260437
+    ],
+    "rotation": [
+      -6.309469426923897e-07,
+      -64.82432556152344,
+      -90.00000762939453
+    ],
+    "distance": 119.88847774619823,
+    "dot": 1.0000000000000002,
+    "lateral": 0.0,
+    "visible": true,
+    "selected": "Lavatory R toilet lid12",
+    "hit_owner": null,
+    "hit_label": null,
+    "impact": null,
+    "hit_gap": null,
+    "candidate_offsets": [
+      {
+        "delta": [
+          0,
+          -0.025,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.05
+        ],
+        "visible": true
+      }
+    ]
+  },
+  {
+    "actor": "Lavatory R toilet lid12",
+    "progress": 1.0,
+    "pawn": [
+      154.0,
+      -2948.0,
+      162.0
+    ],
+    "target": [
+      153.99999618530273,
+      -3051.1901483535767,
+      95.4922399520874
+    ],
+    "rotation": [
+      -3.776894175189227e-07,
+      -32.802452087402344,
+      -90.0
+    ],
+    "distance": 122.76599229356594,
+    "dot": 1.0,
+    "lateral": 0.0,
+    "visible": false,
+    "selected": null,
+    "hit_owner": "SM_Plane_Lavatory_R",
+    "hit_label": "SM_Plane_Lavatory_R",
+    "impact": [
+      153.9999963769171,
+      -3046.0068500127986,
+      98.83296159853762
+    ],
+    "hit_gap": 6.166603831005642,
+    "candidate_offsets": [
+      {
+        "delta": [
+          0,
+          -0.025,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.05
+        ],
+        "visible": true
+      }
+    ]
+  },
+  {
+    "actor": "Lavatory L toilet lid12",
+    "progress": 0.0,
+    "pawn": [
+      -154.0,
+      -2948.0,
+      162.0
+    ],
+    "target": [
+      -153.99999618530273,
+      -2998.9999771118164,
+      53.50000262260437
+    ],
+    "rotation": [
+      -6.309469426923897e-07,
+      -64.82432556152344,
+      -89.99999237060547
+    ],
+    "distance": 119.88847774619823,
+    "dot": 1.0000000000000002,
+    "lateral": 0.0,
+    "visible": true,
+    "selected": "Lavatory L toilet lid12",
+    "hit_owner": null,
+    "hit_label": null,
+    "impact": null,
+    "hit_gap": null,
+    "candidate_offsets": [
+      {
+        "delta": [
+          0,
+          -0.025,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.05
+        ],
+        "visible": true
+      }
+    ]
+  },
+  {
+    "actor": "Lavatory L toilet lid12",
+    "progress": 1.0,
+    "pawn": [
+      -154.0,
+      -2948.0,
+      162.0
+    ],
+    "target": [
+      -153.99999618530273,
+      -3051.1901483535767,
+      95.4922399520874
+    ],
+    "rotation": [
+      -3.776893890972133e-07,
+      -32.802452087402344,
+      -90.0
+    ],
+    "distance": 122.76599229356594,
+    "dot": 1.0,
+    "lateral": 0.0,
+    "visible": false,
+    "selected": null,
+    "hit_owner": "SM_Plane_Lavatory_L",
+    "hit_label": "SM_Plane_Lavatory_L",
+    "impact": [
+      -153.99999637691724,
+      -3046.0068458302962,
+      98.83296429422988
+    ],
+    "hit_gap": 6.166608806956096,
+    "candidate_offsets": [
+      {
+        "delta": [
+          0,
+          -0.025,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.015
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.03
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.025,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          -0.015,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0,
+          0.05
+        ],
+        "visible": true
+      },
+      {
+        "delta": [
+          0,
+          0.015,
+          0.05
+        ],
+        "visible": true
+      }
+    ]
+  }
+]

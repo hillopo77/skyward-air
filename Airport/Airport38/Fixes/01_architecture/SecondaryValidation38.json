@@ -1,0 +1,2972 @@
+{
+  "status": "PATCH_CONTACTS_PASS_WITH_REMAINING_BASELINE_FINDINGS",
+  "source_sha256": "710e3697a04d3fc2301e567742c9f5f24f56dae2f4d17347927136e67778f0c8",
+  "result": {
+    "status": "IMPLEMENTED_SOURCE_REQUIRES_NATIVE_REVIEW",
+    "asset_ids": [
+      "SM_AP_Attachments38",
+      "SM_AP_RetainedCraft38",
+      "SM_AP_Wayfinding38"
+    ],
+    "moved_actors": [
+      "Compact departures display"
+    ],
+    "changed_parts": [
+      "A08 wall-mounted oak backing",
+      "A08 navy laminated face",
+      "A08 A08   NORTH LOUNGE"
+    ],
+    "removed_unused_parts": [
+      "Gate timber feature supported backing35.006",
+      "Gate timber feature supported backing35.007"
+    ],
+    "new_actor": "Airport38 verified architectural attachments",
+    "findings": [
+      "AT02_A08_ceiling_crop",
+      "AT03_display_orientation",
+      "AT04_flight_display_supports",
+      "AT05_A07_picture_mount",
+      "AT06_menu_support",
+      "AT07_fascia_hangers",
+      "AT08_gallery_soffit_closure",
+      "AT09_clock_backplate",
+      "AT10_wall_plaque_standoffs"
+    ],
+    "unresolved": [
+      "AT11 shared-boundary roof-step plenum gap requires union repair",
+      "AT12 duplicated glazing mullions require union repair",
+      "AT13 gallery source contact candidates require exposure scrutiny"
+    ],
+    "untouched": [
+      "PreparationGuide38 owned by root",
+      "A08 rear artwork and Vanity34 owned by equipment agent"
+    ]
+  },
+  "contacts": [
+    {
+      "id": "A07_hanger_upper",
+      "actor": "Airport38 coherent ceiling union",
+      "point": [
+        -14.275,
+        5.1499999999999995,
+        3.4
+      ],
+      "distance_m": 4.76837158203125e-07,
+      "passed": true
+    },
+    {
+      "id": "A07_hanger_lower",
+      "actor": "Gate A07 flight display",
+      "point": [
+        -14.275,
+        5.1499999999999995,
+        2.9386
+      ],
+      "distance_m": 0.0009999275207519531,
+      "passed": true
+    },
+    {
+      "id": "A07_hanger_upper",
+      "actor": "Airport38 coherent ceiling union",
+      "point": [
+        -14.275,
+        6.45,
+        3.4
+      ],
+      "distance_m": 0.0,
+      "passed": true
+    },
+    {
+      "id": "A07_hanger_lower",
+      "actor": "Gate A07 flight display",
+      "point": [
+        -14.275,
+        6.45,
+        2.9386
+      ],
+      "distance_m": 0.0009999989997595549,
+      "passed": true
+    },
+    {
+      "id": "A08_hanger_upper",
+      "actor": "Airport38 coherent ceiling union",
+      "point": [
+        -24.325000000000003,
+        26.150000000000002,
+        3.8
+      ],
+      "distance_m": 1.9073486328125e-06,
+      "passed": true
+    },
+    {
+      "id": "A08_hanger_lower",
+      "actor": "Gate A08 flight display",
+      "point": [
+        -24.325000000000003,
+        26.150000000000002,
+        2.9886
+      ],
+      "distance_m": 0.0009999275207519531,
+      "passed": true
+    },
+    {
+      "id": "A08_hanger_upper",
+      "actor": "Airport38 coherent ceiling union",
+      "point": [
+        -24.325000000000003,
+        27.45,
+        3.8
+      ],
+      "distance_m": 0.0,
+      "passed": true
+    },
+    {
+      "id": "A08_hanger_lower",
+      "actor": "Gate A08 flight display",
+      "point": [
+        -24.325000000000003,
+        27.45,
+        2.9886
+      ],
+      "distance_m": 0.0009999566245824099,
+      "passed": true
+    },
+    {
+      "id": "menu_floor",
+      "actor": "Airport38 coherent bounded floors",
+      "point": [
+        -44.3,
+        33.9,
+        0
+      ],
+      "distance_m": 0.0,
+      "passed": true
+    },
+    {
+      "id": "menu_deck",
+      "actor": "Crafted GalleryStair35",
+      "point": [
+        -44.3,
+        33.938,
+        2.87
+      ],
+      "distance_m": 0.0,
+      "passed": true
+    },
+    {
+      "id": "fascia_deck",
+      "actor": "Crafted GalleryStair35",
+      "point": [
+        -47.5,
+        31.35,
+        2.87
+      ],
+      "distance_m": 0.0,
+      "passed": true
+    },
+    {
+      "id": "fascia_deck",
+      "actor": "Crafted GalleryStair35",
+      "point": [
+        -42,
+        31.35,
+        2.87
+      ],
+      "distance_m": 0.0,
+      "passed": true
+    },
+    {
+      "id": "soffit_lower",
+      "actor": "Airport38 coherent ceiling union",
+      "point": [
+        -40.965,
+        25,
+        4.56
+      ],
+      "distance_m": 1.9073486328125e-06,
+      "passed": true
+    },
+    {
+      "id": "soffit_upper",
+      "actor": "Airport38 coherent ceiling union",
+      "point": [
+        -41.035,
+        25,
+        6.8
+      ],
+      "distance_m": 1.9073486328125e-06,
+      "passed": true
+    },
+    {
+      "id": "departures_back_wall",
+      "actor": "Airport38 complete physical perimeter and partitions",
+      "point": [
+        -42.91,
+        -10.2,
+        2.2
+      ],
+      "distance_m": 2.384185791015625e-07,
+      "passed": true
+    }
+  ],
+  "gap_rays": [
+    {
+      "id": "AT08_open_soffit_side",
+      "start": [
+        -41.5,
+        29,
+        5.5
+      ],
+      "direction": [
+        1,
+        0,
+        0
+      ],
+      "distance": 1,
+      "before_hit": false,
+      "after_hit": true
+    },
+    {
+      "id": "AT11_open_roof_step",
+      "start": [
+        -45,
+        15.5,
+        7.06
+      ],
+      "direction": [
+        0,
+        1,
+        0
+      ],
+      "distance": 1,
+      "before_hit": false,
+      "after_hit": false,
+      "status": "UNRESOLVED; next architecture repair must close roof steps by union"
+    }
+  ],
+  "coplanarity": {
+    "status": "FAIL",
+    "scope": "active same-facing axis-planar structural face candidates across different parts; exposure not yet established",
+    "eligible_faces": 16716,
+    "narrow_phase_pairs": 2248,
+    "plane_tolerance_m": 0.00075,
+    "minimum_area_m2": 0.002,
+    "conflicts": [
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.029"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.030"
+          }
+        ],
+        "axis": "x",
+        "normal": [
+          -1,
+          0,
+          0
+        ],
+        "depth_m": -32.027000427246094,
+        "depth_range_m": [
+          -32.027000427246094,
+          -32.027000427246094
+        ],
+        "area_m2": 0.18108611213301629,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -32.027000427246094,
+          33.965999603271484,
+          1.0110000371932983
+        ],
+        "overlap_world_max": [
+          -32.027000427246094,
+          34.034000396728516,
+          3.6740000247955322
+        ],
+        "overlap_sample_points": [
+          [
+            -32.027000427246094,
+            34.026006130431796,
+            2.3425000309944153
+          ],
+          [
+            -32.027000427246094,
+            34.00900593206754,
+            2.3425000309944153
+          ],
+          [
+            -32.027000427246094,
+            33.98866653442383,
+            1.8986666997273762
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.029"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.030"
+          }
+        ],
+        "axis": "x",
+        "normal": [
+          1,
+          0,
+          0
+        ],
+        "depth_m": -31.972999572753906,
+        "depth_range_m": [
+          -31.972999572753906,
+          -31.972999572753906
+        ],
+        "area_m2": 0.18108611213301629,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -31.972999572753906,
+          33.965999603271484,
+          1.0110000371932983
+        ],
+        "overlap_world_max": [
+          -31.972999572753906,
+          34.034000396728516,
+          3.6740000247955322
+        ],
+        "overlap_sample_points": [
+          [
+            -31.972999572753906,
+            34.026006130431796,
+            2.3425000309944153
+          ],
+          [
+            -31.972999572753906,
+            34.00900593206754,
+            2.3425000309944153
+          ],
+          [
+            -31.972999572753906,
+            33.98866653442383,
+            1.8986666997273762
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 retained crafted furniture and artwork",
+            "asset": "SM_AP_RetainedCraft38",
+            "part": "Gallery table grounded base35.007"
+          },
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Fitted upper lounge carpet35"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          -1
+        ],
+        "depth_m": 3.1500000953674316,
+        "depth_range_m": [
+          3.1500000953674316,
+          3.1505000591278076
+        ],
+        "area_m2": 0.17979522912355606,
+        "maximum_plane_distance_m": 0.0004999637603759766,
+        "overlap_world_min": [
+          -43.84000015258789,
+          29.760000228881836,
+          3.1500000953674316
+        ],
+        "overlap_world_max": [
+          -43.36000061035156,
+          30.239999771118164,
+          3.1500000953674316
+        ],
+        "overlap_sample_points": [
+          [
+            -43.367627461751304,
+            29.9537779490153,
+            3.1500000953674316
+          ],
+          [
+            -43.40300369262695,
+            29.868370691935223,
+            3.1500000953674316
+          ],
+          [
+            -43.468371073404946,
+            29.803003311157227,
+            3.1500000953674316
+          ],
+          [
+            -43.55377705891927,
+            29.767627080281574,
+            3.1500000953674316
+          ],
+          [
+            -43.64622116088867,
+            29.767627080281574,
+            3.1500000953674316
+          ],
+          [
+            -43.73162968953451,
+            29.803003311157227,
+            3.1500000953674316
+          ],
+          [
+            -43.7969970703125,
+            29.868370691935223,
+            3.1500000953674316
+          ],
+          [
+            -43.83237330118815,
+            29.9537779490153,
+            3.1500000953674316
+          ],
+          [
+            -43.83237330118815,
+            30.0462220509847,
+            3.1500000953674316
+          ],
+          [
+            -43.7969970703125,
+            30.131629308064777,
+            3.1500000953674316
+          ],
+          [
+            -43.73162968953451,
+            30.196996688842773,
+            3.1500000953674316
+          ],
+          [
+            -43.64622116088867,
+            30.232372919718426,
+            3.1500000953674316
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 retained crafted furniture and artwork",
+            "asset": "SM_AP_RetainedCraft38",
+            "part": "Gallery table grounded base35.006"
+          },
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Fitted upper lounge carpet35"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          -1
+        ],
+        "depth_m": 3.1500000953674316,
+        "depth_range_m": [
+          3.1500000953674316,
+          3.1505000591278076
+        ],
+        "area_m2": 0.1797951373300748,
+        "maximum_plane_distance_m": 0.0004999637603759766,
+        "overlap_world_min": [
+          -44.7400016784668,
+          29.760000228881836,
+          3.1500000953674316
+        ],
+        "overlap_world_max": [
+          -44.2599983215332,
+          30.239999771118164,
+          3.1500000953674316
+        ],
+        "overlap_sample_points": [
+          [
+            -44.267626444498696,
+            29.9537779490153,
+            3.1500000953674316
+          ],
+          [
+            -44.3030039469401,
+            29.868370691935223,
+            3.1500000953674316
+          ],
+          [
+            -44.36837259928385,
+            29.803003311157227,
+            3.1500000953674316
+          ],
+          [
+            -44.45377858479818,
+            29.767627080281574,
+            3.1500000953674316
+          ],
+          [
+            -44.54622141520182,
+            29.767627080281574,
+            3.1500000953674316
+          ],
+          [
+            -44.63162740071615,
+            29.803003311157227,
+            3.1500000953674316
+          ],
+          [
+            -44.6969960530599,
+            29.868370691935223,
+            3.1500000953674316
+          ],
+          [
+            -44.732373555501304,
+            29.9537779490153,
+            3.1500000953674316
+          ],
+          [
+            -44.732373555501304,
+            30.0462220509847,
+            3.1500000953674316
+          ],
+          [
+            -44.6969960530599,
+            30.131629308064777,
+            3.1500000953674316
+          ],
+          [
+            -44.63162740071615,
+            30.196996688842773,
+            3.1500000953674316
+          ],
+          [
+            -44.54622141520182,
+            30.232372919718426,
+            3.1500000953674316
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.029"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.030"
+          }
+        ],
+        "axis": "y",
+        "normal": [
+          0,
+          -1,
+          0
+        ],
+        "depth_m": 33.959999084472656,
+        "depth_range_m": [
+          33.959999084472656,
+          33.959999084472656
+        ],
+        "area_m2": 0.11184551186943281,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -32.020999908447266,
+          33.959999084472656,
+          1.0110000371932983
+        ],
+        "overlap_world_max": [
+          -31.979000091552734,
+          33.959999084472656,
+          3.6740000247955322
+        ],
+        "overlap_sample_points": [
+          [
+            -31.983937647478175,
+            33.959999084472656,
+            2.3425000309944153
+          ],
+          [
+            -31.994437601701808,
+            33.959999084472656,
+            2.3425000309944153
+          ],
+          [
+            -32.00699996948242,
+            33.959999084472656,
+            1.8986666997273762
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.029"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.030"
+          }
+        ],
+        "axis": "y",
+        "normal": [
+          0,
+          1,
+          0
+        ],
+        "depth_m": 34.040000915527344,
+        "depth_range_m": [
+          34.040000915527344,
+          34.040000915527344
+        ],
+        "area_m2": 0.11184551186943281,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -32.020999908447266,
+          34.040000915527344,
+          1.0110000371932983
+        ],
+        "overlap_world_max": [
+          -31.979000091552734,
+          34.040000915527344,
+          3.6740000247955322
+        ],
+        "overlap_sample_points": [
+          [
+            -31.983937647478175,
+            34.040000915527344,
+            2.3425000309944153
+          ],
+          [
+            -31.994437601701808,
+            34.040000915527344,
+            2.3425000309944153
+          ],
+          [
+            -32.00699996948242,
+            34.040000915527344,
+            1.8986666997273762
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 complete physical perimeter and partitions",
+            "asset": "SM_AP_Walls38",
+            "part": "Exposed Walls38 structure union38"
+          },
+          {
+            "actor": "Airport38 retained crafted furniture and artwork",
+            "asset": "SM_AP_RetainedCraft38",
+            "part": "Canopy warm soffit34.001"
+          }
+        ],
+        "axis": "x",
+        "normal": [
+          1,
+          0,
+          0
+        ],
+        "depth_m": -48.90999984741211,
+        "depth_range_m": [
+          -48.90999984741211,
+          -48.90999984741211
+        ],
+        "area_m2": 0.062000225067095016,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -48.90999984741211,
+          -14.979999542236328,
+          3.541749954223633
+        ],
+        "overlap_world_max": [
+          -48.90999984741211,
+          -10.020000457763619,
+          3.5542500019073486
+        ],
+        "overlap_sample_points": [
+          [
+            -48.90999984741211,
+            -11.300484718552054,
+            3.546560238599153
+          ],
+          [
+            -48.90999984741211,
+            -11.3863389679719,
+            3.552330349285565
+          ],
+          [
+            -48.90999984741211,
+            -13.380645833639067,
+            3.5439969841630874
+          ],
+          [
+            -48.90999984741211,
+            -13.524753882656183,
+            3.5496852505200818
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.001"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.002"
+          }
+        ],
+        "axis": "y",
+        "normal": [
+          0,
+          -1,
+          0
+        ],
+        "depth_m": -13.876999855041504,
+        "depth_range_m": [
+          -13.876999855041504,
+          -13.876999855041504
+        ],
+        "area_m2": 0.04542452886198589,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -49.034000396728516,
+          -13.876999855041504,
+          2.805999994277954
+        ],
+        "overlap_world_max": [
+          -48.965999603271484,
+          -13.876999855041504,
+          3.4739999771118164
+        ],
+        "overlap_sample_points": [
+          [
+            -48.98866653442383,
+            -13.876999855041504,
+            3.251333316167196
+          ],
+          [
+            -49.01238950713709,
+            -13.876999855041504,
+            3.1399999856948853
+          ],
+          [
+            -49.029389705501345,
+            -13.876999855041504,
+            3.1399999856948853
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.001"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.002"
+          }
+        ],
+        "axis": "y",
+        "normal": [
+          0,
+          1,
+          0
+        ],
+        "depth_m": -13.822999954223633,
+        "depth_range_m": [
+          -13.822999954223633,
+          -13.822999954223633
+        ],
+        "area_m2": 0.04542452886198589,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -49.034000396728516,
+          -13.822999954223633,
+          2.805999994277954
+        ],
+        "overlap_world_max": [
+          -48.965999603271484,
+          -13.822999954223633,
+          3.4739999771118164
+        ],
+        "overlap_sample_points": [
+          [
+            -48.98866653442383,
+            -13.822999954223633,
+            3.251333316167196
+          ],
+          [
+            -49.01238950713709,
+            -13.822999954223633,
+            3.1399999856948853
+          ],
+          [
+            -49.029389705501345,
+            -13.822999954223633,
+            3.1399999856948853
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.003"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.004"
+          }
+        ],
+        "axis": "y",
+        "normal": [
+          0,
+          -1,
+          0
+        ],
+        "depth_m": -11.177000045776367,
+        "depth_range_m": [
+          -11.177000045776367,
+          -11.177000045776367
+        ],
+        "area_m2": 0.04542452886198589,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -49.034000396728516,
+          -11.177000045776367,
+          2.805999994277954
+        ],
+        "overlap_world_max": [
+          -48.965999603271484,
+          -11.177000045776367,
+          3.4739999771118164
+        ],
+        "overlap_sample_points": [
+          [
+            -49.0,
+            -11.177000045776367,
+            3.306999981403351
+          ],
+          [
+            -49.003111526363966,
+            -11.177000045776367,
+            3.073199987411499
+          ],
+          [
+            -49.02785280842562,
+            -11.177000045776367,
+            3.0286666552225747
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.003"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.004"
+          }
+        ],
+        "axis": "y",
+        "normal": [
+          0,
+          1,
+          0
+        ],
+        "depth_m": -11.123000144958496,
+        "depth_range_m": [
+          -11.123000144958496,
+          -11.123000144958496
+        ],
+        "area_m2": 0.04542452886198589,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -49.034000396728516,
+          -11.123000144958496,
+          2.805999994277954
+        ],
+        "overlap_world_max": [
+          -48.965999603271484,
+          -11.123000144958496,
+          3.4739999771118164
+        ],
+        "overlap_sample_points": [
+          [
+            -49.0,
+            -11.123000144958496,
+            3.306999981403351
+          ],
+          [
+            -49.003111526363966,
+            -11.123000144958496,
+            3.073199987411499
+          ],
+          [
+            -49.02785280842562,
+            -11.123000144958496,
+            3.0286666552225747
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.019"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.020"
+          }
+        ],
+        "axis": "y",
+        "normal": [
+          0,
+          -1,
+          0
+        ],
+        "depth_m": -0.7020000219345093,
+        "depth_range_m": [
+          -0.7020000219345093,
+          -0.7020000219345093
+        ],
+        "area_m2": 0.03182436692804913,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -14.034000396728516,
+          -0.7020000219345093,
+          2.805999994277954
+        ],
+        "overlap_world_max": [
+          -13.965999603271484,
+          -0.7020000219345093,
+          3.2739999294281006
+        ],
+        "overlap_sample_points": [
+          [
+            -13.988666534423828,
+            -0.7020000219345093,
+            3.1179999510447183
+          ],
+          [
+            -14.013484470520297,
+            -0.7020000219345093,
+            3.0399999618530273
+          ],
+          [
+            -14.030484668884554,
+            -0.7020000219345093,
+            3.0399999618530273
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.019"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.020"
+          }
+        ],
+        "axis": "y",
+        "normal": [
+          0,
+          1,
+          0
+        ],
+        "depth_m": -0.6480000019073486,
+        "depth_range_m": [
+          -0.6480000019073486,
+          -0.6480000019073486
+        ],
+        "area_m2": 0.03182436692804913,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -14.034000396728516,
+          -0.6480000019073486,
+          2.805999994277954
+        ],
+        "overlap_world_max": [
+          -13.965999603271484,
+          -0.6480000019073486,
+          3.2739999294281006
+        ],
+        "overlap_sample_points": [
+          [
+            -13.988666534423828,
+            -0.6480000019073486,
+            3.1179999510447183
+          ],
+          [
+            -14.013484470520297,
+            -0.6480000019073486,
+            3.0399999618530273
+          ],
+          [
+            -14.030484668884554,
+            -0.6480000019073486,
+            3.0399999618530273
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.021"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.022"
+          }
+        ],
+        "axis": "y",
+        "normal": [
+          0,
+          -1,
+          0
+        ],
+        "depth_m": 1.9980000257492065,
+        "depth_range_m": [
+          1.9980000257492065,
+          1.9980000257492065
+        ],
+        "area_m2": 0.03182436692804913,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -14.034000396728516,
+          1.9980000257492065,
+          2.805999994277954
+        ],
+        "overlap_world_max": [
+          -13.965999603271484,
+          1.9980000257492065,
+          3.2739999294281006
+        ],
+        "overlap_sample_points": [
+          [
+            -14.0,
+            1.9980000257492065,
+            3.156999945640564
+          ],
+          [
+            -14.003987497070534,
+            1.9980000257492065,
+            2.9931999683380126
+          ],
+          [
+            -14.029312759603235,
+            1.9980000257492065,
+            2.9619999726613364
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.021"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.022"
+          }
+        ],
+        "axis": "y",
+        "normal": [
+          0,
+          1,
+          0
+        ],
+        "depth_m": 2.052000045776367,
+        "depth_range_m": [
+          2.052000045776367,
+          2.052000045776367
+        ],
+        "area_m2": 0.03182436692804913,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -14.034000396728516,
+          2.052000045776367,
+          2.805999994277954
+        ],
+        "overlap_world_max": [
+          -13.965999603271484,
+          2.052000045776367,
+          3.2739999294281006
+        ],
+        "overlap_sample_points": [
+          [
+            -14.0,
+            2.052000045776367,
+            3.156999945640564
+          ],
+          [
+            -14.003987497070534,
+            2.052000045776367,
+            2.9931999683380126
+          ],
+          [
+            -14.029312759603235,
+            2.052000045776367,
+            2.9619999726613364
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.001"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.002"
+          }
+        ],
+        "axis": "x",
+        "normal": [
+          -1,
+          0,
+          0
+        ],
+        "depth_m": -49.040000915527344,
+        "depth_range_m": [
+          -49.040000915527344,
+          -49.040000915527344
+        ],
+        "area_m2": 0.028056514018999223,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -49.040000915527344,
+          -13.871000289916992,
+          2.805999994277954
+        ],
+        "overlap_world_max": [
+          -49.040000915527344,
+          -13.828999519348145,
+          3.4739999771118164
+        ],
+        "overlap_sample_points": [
+          [
+            -49.040000915527344,
+            -13.842999776204428,
+            3.251333316167196
+          ],
+          [
+            -49.040000915527344,
+            -13.85765229838081,
+            3.1399999856948853
+          ],
+          [
+            -49.040000915527344,
+            -13.868152491023022,
+            3.1399999856948853
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.001"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.002"
+          }
+        ],
+        "axis": "x",
+        "normal": [
+          1,
+          0,
+          0
+        ],
+        "depth_m": -48.959999084472656,
+        "depth_range_m": [
+          -48.959999084472656,
+          -48.959999084472656
+        ],
+        "area_m2": 0.028056514018999223,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -48.959999084472656,
+          -13.871000289916992,
+          2.805999994277954
+        ],
+        "overlap_world_max": [
+          -48.959999084472656,
+          -13.828999519348145,
+          3.4739999771118164
+        ],
+        "overlap_sample_points": [
+          [
+            -48.959999084472656,
+            -13.842999776204428,
+            3.251333316167196
+          ],
+          [
+            -48.959999084472656,
+            -13.85765229838081,
+            3.1399999856948853
+          ],
+          [
+            -48.959999084472656,
+            -13.868152491023022,
+            3.1399999856948853
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.003"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.004"
+          }
+        ],
+        "axis": "x",
+        "normal": [
+          -1,
+          0,
+          0
+        ],
+        "depth_m": -49.040000915527344,
+        "depth_range_m": [
+          -49.040000915527344,
+          -49.040000915527344
+        ],
+        "area_m2": 0.028056514018999223,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -49.040000915527344,
+          -11.171000480651855,
+          2.805999994277954
+        ],
+        "overlap_world_max": [
+          -49.040000915527344,
+          -11.128999710083008,
+          3.4739999771118164
+        ],
+        "overlap_sample_points": [
+          [
+            -49.040000915527344,
+            -11.150000095367432,
+            3.306999981403351
+          ],
+          [
+            -49.040000915527344,
+            -11.15192193330914,
+            3.073199987411499
+          ],
+          [
+            -49.040000915527344,
+            -11.167203415459895,
+            3.0286666552225747
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.003"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.004"
+          }
+        ],
+        "axis": "x",
+        "normal": [
+          1,
+          0,
+          0
+        ],
+        "depth_m": -48.959999084472656,
+        "depth_range_m": [
+          -48.959999084472656,
+          -48.959999084472656
+        ],
+        "area_m2": 0.028056514018999223,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -48.959999084472656,
+          -11.171000480651855,
+          2.805999994277954
+        ],
+        "overlap_world_max": [
+          -48.959999084472656,
+          -11.128999710083008,
+          3.4739999771118164
+        ],
+        "overlap_sample_points": [
+          [
+            -48.959999084472656,
+            -11.150000095367432,
+            3.306999981403351
+          ],
+          [
+            -48.959999084472656,
+            -11.15192193330914,
+            3.073199987411499
+          ],
+          [
+            -48.959999084472656,
+            -11.167203415459895,
+            3.0286666552225747
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.019"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.020"
+          }
+        ],
+        "axis": "x",
+        "normal": [
+          -1,
+          0,
+          0
+        ],
+        "depth_m": -14.039999961853027,
+        "depth_range_m": [
+          -14.039999961853027,
+          -14.039999961853027
+        ],
+        "area_m2": 0.01965602316283821,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -14.039999961853027,
+          -0.6960000395774841,
+          2.805999994277954
+        ],
+        "overlap_world_max": [
+          -14.039999961853027,
+          -0.6539999842643738,
+          3.2739999294281006
+        ],
+        "overlap_sample_points": [
+          [
+            -14.039999961853027,
+            -0.6680000027020773,
+            3.1179999510447183
+          ],
+          [
+            -14.039999961853027,
+            -0.6833285692645769,
+            3.0399999618530273
+          ],
+          [
+            -14.039999961853027,
+            -0.6938285830928544,
+            3.0399999618530273
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.019"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.020"
+          }
+        ],
+        "axis": "x",
+        "normal": [
+          1,
+          0,
+          0
+        ],
+        "depth_m": -13.960000038146973,
+        "depth_range_m": [
+          -13.960000038146973,
+          -13.960000038146973
+        ],
+        "area_m2": 0.01965602316283821,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -13.960000038146973,
+          -0.6960000395774841,
+          2.805999994277954
+        ],
+        "overlap_world_max": [
+          -13.960000038146973,
+          -0.6539999842643738,
+          3.2739999294281006
+        ],
+        "overlap_sample_points": [
+          [
+            -13.960000038146973,
+            -0.6680000027020773,
+            3.1179999510447183
+          ],
+          [
+            -13.960000038146973,
+            -0.6833285692645769,
+            3.0399999618530273
+          ],
+          [
+            -13.960000038146973,
+            -0.6938285830928544,
+            3.0399999618530273
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.021"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.022"
+          }
+        ],
+        "axis": "x",
+        "normal": [
+          -1,
+          0,
+          0
+        ],
+        "depth_m": -14.039999961853027,
+        "depth_range_m": [
+          -14.039999961853027,
+          -14.039999961853027
+        ],
+        "area_m2": 0.01965602316283821,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -14.039999961853027,
+          2.003999948501587,
+          2.805999994277954
+        ],
+        "overlap_world_max": [
+          -14.039999961853027,
+          2.0460000038146973,
+          3.2739999294281006
+        ],
+        "overlap_sample_points": [
+          [
+            -14.039999961853027,
+            2.024999976158142,
+            3.156999945640564
+          ],
+          [
+            -14.039999961853027,
+            2.022537135814535,
+            2.9931999683380126
+          ],
+          [
+            -14.039999961853027,
+            2.0068952238144266,
+            2.9619999726613364
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.021"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.022"
+          }
+        ],
+        "axis": "x",
+        "normal": [
+          1,
+          0,
+          0
+        ],
+        "depth_m": -13.960000038146973,
+        "depth_range_m": [
+          -13.960000038146973,
+          -13.960000038146973
+        ],
+        "area_m2": 0.01965602316283821,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -13.960000038146973,
+          2.003999948501587,
+          2.805999994277954
+        ],
+        "overlap_world_max": [
+          -13.960000038146973,
+          2.0460000038146973,
+          3.2739999294281006
+        ],
+        "overlap_sample_points": [
+          [
+            -13.960000038146973,
+            2.024999976158142,
+            3.156999945640564
+          ],
+          [
+            -13.960000038146973,
+            2.022537135814535,
+            2.9931999683380126
+          ],
+          [
+            -13.960000038146973,
+            2.0068952238144266,
+            2.9619999726613364
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Closed stair riser35.004"
+          },
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Supported wide stair tread35.004"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          1
+        ],
+        "depth_m": 0.875,
+        "depth_range_m": [
+          0.875,
+          0.875
+        ],
+        "area_m2": 0.008320493681821972,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -47.6879997253418,
+          19.082998275756836,
+          0.875
+        ],
+        "overlap_world_max": [
+          -45.3120002746582,
+          19.08650016784668,
+          0.875
+        ],
+        "overlap_sample_points": [
+          [
+            -45.32083298637078,
+            19.0853328704834,
+            0.875
+          ],
+          [
+            -46.61545035377575,
+            19.085092877538518,
+            0.875
+          ],
+          [
+            -47.475584361474866,
+            19.084154683999742,
+            0.875
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Closed stair riser35.009"
+          },
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Supported wide stair tread35.009"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          1
+        ],
+        "depth_m": 1.75,
+        "depth_range_m": [
+          1.75,
+          1.75
+        ],
+        "area_m2": 0.008320493681821972,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -47.6879997253418,
+          22.082998275756836,
+          1.75
+        ],
+        "overlap_world_max": [
+          -45.3120002746582,
+          22.08650016784668,
+          1.75
+        ],
+        "overlap_sample_points": [
+          [
+            -45.32070972052973,
+            22.0853328704834,
+            1.75
+          ],
+          [
+            -46.61537639427112,
+            22.085092877538518,
+            1.75
+          ],
+          [
+            -47.475584361474866,
+            22.084154683999742,
+            1.75
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Closed stair riser35.012"
+          },
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Supported wide stair tread35.012"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          1
+        ],
+        "depth_m": 2.2750000953674316,
+        "depth_range_m": [
+          2.2750000953674316,
+          2.2750000953674316
+        ],
+        "area_m2": 0.008320493681821972,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -47.6879997253418,
+          23.056331634521484,
+          2.2750000953674316
+        ],
+        "overlap_world_max": [
+          -45.3120002746582,
+          23.059833526611328,
+          2.2750000953674316
+        ],
+        "overlap_sample_points": [
+          [
+            -45.32070972052973,
+            23.058666229248047,
+            2.2750000953674316
+          ],
+          [
+            -46.61537639427112,
+            23.058426236303166,
+            2.2750000953674316
+          ],
+          [
+            -47.475584361474866,
+            23.05748804276439,
+            2.2750000953674316
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Closed stair riser35.015"
+          },
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Supported wide stair tread35.015"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          1
+        ],
+        "depth_m": 2.799999952316284,
+        "depth_range_m": [
+          2.799999952316284,
+          2.799999952316284
+        ],
+        "area_m2": 0.008320493681821972,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -47.6879997253418,
+          24.029664993286133,
+          2.799999952316284
+        ],
+        "overlap_world_max": [
+          -45.3120002746582,
+          24.033166885375977,
+          2.799999952316284
+        ],
+        "overlap_sample_points": [
+          [
+            -45.32070972052973,
+            24.031999588012695,
+            2.799999952316284
+          ],
+          [
+            -46.61537639427112,
+            24.031759595067815,
+            2.799999952316284
+          ],
+          [
+            -47.475584361474866,
+            24.03082140152904,
+            2.799999952316284
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Closed stair riser35"
+          },
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Supported wide stair tread35"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          1
+        ],
+        "depth_m": 0.17499999701976776,
+        "depth_range_m": [
+          0.17499999701976776,
+          0.17499999701976776
+        ],
+        "area_m2": 0.008315961822518148,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -47.6879997253418,
+          17.80299949645996,
+          0.17499999701976776
+        ],
+        "overlap_world_max": [
+          -45.3120002746582,
+          17.806499481201172,
+          0.17499999701976776
+        ],
+        "overlap_sample_points": [
+          [
+            -45.32082822914927,
+            17.80533281962077,
+            0.17499999701976776
+          ],
+          [
+            -46.61549870278485,
+            17.80509295479101,
+            0.17499999701976776
+          ],
+          [
+            -47.475669700378205,
+            17.80415527051757,
+            0.17499999701976776
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Closed stair riser35.001"
+          },
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Supported wide stair tread35.001"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          1
+        ],
+        "depth_m": 0.3499999940395355,
+        "depth_range_m": [
+          0.3499999940395355,
+          0.3499999940395355
+        ],
+        "area_m2": 0.008315961822518148,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -47.6879997253418,
+          18.12299919128418,
+          0.3499999940395355
+        ],
+        "overlap_world_max": [
+          -45.3120002746582,
+          18.12649917602539,
+          0.3499999940395355
+        ],
+        "overlap_sample_points": [
+          [
+            -45.32082822914927,
+            18.125332514444988,
+            0.3499999940395355
+          ],
+          [
+            -46.61549870278485,
+            18.12509264961523,
+            0.3499999940395355
+          ],
+          [
+            -47.475669700378205,
+            18.124154965341788,
+            0.3499999940395355
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Closed stair riser35.002"
+          },
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Supported wide stair tread35.002"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          1
+        ],
+        "depth_m": 0.5249999761581421,
+        "depth_range_m": [
+          0.5249999761581421,
+          0.5249999761581421
+        ],
+        "area_m2": 0.008315961822518148,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -47.6879997253418,
+          18.4429988861084,
+          0.5249999761581421
+        ],
+        "overlap_world_max": [
+          -45.3120002746582,
+          18.44649887084961,
+          0.5249999761581421
+        ],
+        "overlap_sample_points": [
+          [
+            -45.32082822914927,
+            18.445332209269207,
+            0.5249999761581421
+          ],
+          [
+            -46.61549870278485,
+            18.44509234443945,
+            0.5249999761581421
+          ],
+          [
+            -47.475669700378205,
+            18.444154660166006,
+            0.5249999761581421
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Closed stair riser35.003"
+          },
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Supported wide stair tread35.003"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          1
+        ],
+        "depth_m": 0.699999988079071,
+        "depth_range_m": [
+          0.699999988079071,
+          0.699999988079071
+        ],
+        "area_m2": 0.008315961822518148,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -47.6879997253418,
+          18.762998580932617,
+          0.699999988079071
+        ],
+        "overlap_world_max": [
+          -45.3120002746582,
+          18.766498565673828,
+          0.699999988079071
+        ],
+        "overlap_sample_points": [
+          [
+            -45.32082817552563,
+            18.765331904093426,
+            0.699999988079071
+          ],
+          [
+            -46.615498670610656,
+            18.765092039263667,
+            0.699999988079071
+          ],
+          [
+            -47.475669700378205,
+            18.764154354990225,
+            0.699999988079071
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Closed stair riser35.005"
+          },
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Supported wide stair tread35.005"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          1
+        ],
+        "depth_m": 1.0499999523162842,
+        "depth_range_m": [
+          1.0499999523162842,
+          1.0499999523162842
+        ],
+        "area_m2": 0.008315961822518148,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -47.6879997253418,
+          19.402999877929688,
+          1.0499999523162842
+        ],
+        "overlap_world_max": [
+          -45.3120002746582,
+          19.4064998626709,
+          1.0499999523162842
+        ],
+        "overlap_sample_points": [
+          [
+            -45.32082822914927,
+            19.405333201090496,
+            1.0499999523162842
+          ],
+          [
+            -46.61549870278485,
+            19.405093336260737,
+            1.0499999523162842
+          ],
+          [
+            -47.475669700378205,
+            19.404155651987296,
+            1.0499999523162842
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Closed stair riser35.006"
+          },
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Supported wide stair tread35.006"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          1
+        ],
+        "depth_m": 1.225000023841858,
+        "depth_range_m": [
+          1.225000023841858,
+          1.225000023841858
+        ],
+        "area_m2": 0.008315961822518148,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -47.6879997253418,
+          19.722999572753906,
+          1.225000023841858
+        ],
+        "overlap_world_max": [
+          -45.3120002746582,
+          19.726499557495117,
+          1.225000023841858
+        ],
+        "overlap_sample_points": [
+          [
+            -45.32082822914927,
+            19.725332895914715,
+            1.225000023841858
+          ],
+          [
+            -46.61549870278485,
+            19.725093031084956,
+            1.225000023841858
+          ],
+          [
+            -47.475669700378205,
+            19.724155346811514,
+            1.225000023841858
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Closed stair riser35.007"
+          },
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Supported wide stair tread35.007"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          1
+        ],
+        "depth_m": 1.399999976158142,
+        "depth_range_m": [
+          1.399999976158142,
+          1.399999976158142
+        ],
+        "area_m2": 0.008315961822518148,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -47.6879997253418,
+          20.042999267578125,
+          1.399999976158142
+        ],
+        "overlap_world_max": [
+          -45.3120002746582,
+          20.046499252319336,
+          1.399999976158142
+        ],
+        "overlap_sample_points": [
+          [
+            -45.32082822914927,
+            20.045332590738933,
+            1.399999976158142
+          ],
+          [
+            -46.61549870278485,
+            20.045092725909175,
+            1.399999976158142
+          ],
+          [
+            -47.475669700378205,
+            20.044155041635733,
+            1.399999976158142
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Closed stair riser35.008"
+          },
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Supported wide stair tread35.008"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          1
+        ],
+        "depth_m": 1.5750000476837158,
+        "depth_range_m": [
+          1.5750000476837158,
+          1.5750000476837158
+        ],
+        "area_m2": 0.008315961822518148,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -47.6879997253418,
+          20.362998962402344,
+          1.5750000476837158
+        ],
+        "overlap_world_max": [
+          -45.3120002746582,
+          20.366498947143555,
+          1.5750000476837158
+        ],
+        "overlap_sample_points": [
+          [
+            -45.32082822914927,
+            20.365332285563152,
+            1.5750000476837158
+          ],
+          [
+            -46.61549870278485,
+            20.365092420733394,
+            1.5750000476837158
+          ],
+          [
+            -47.475669700378205,
+            20.364154736459952,
+            1.5750000476837158
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Closed stair riser35.010"
+          },
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Supported wide stair tread35.010"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          1
+        ],
+        "depth_m": 1.9249999523162842,
+        "depth_range_m": [
+          1.9249999523162842,
+          1.9249999523162842
+        ],
+        "area_m2": 0.008315961822518148,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -47.6879997253418,
+          22.40744400024414,
+          1.9249999523162842
+        ],
+        "overlap_world_max": [
+          -45.3120002746582,
+          22.41094398498535,
+          1.9249999523162842
+        ],
+        "overlap_sample_points": [
+          [
+            -45.32070502896022,
+            22.40977732340495,
+            1.9249999523162842
+          ],
+          [
+            -46.61542478267141,
+            22.40953745857519,
+            1.9249999523162842
+          ],
+          [
+            -47.475669700378205,
+            22.40859977430175,
+            1.9249999523162842
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Closed stair riser35.011"
+          },
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Supported wide stair tread35.011"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          1
+        ],
+        "depth_m": 2.0999999046325684,
+        "depth_range_m": [
+          2.0999999046325684,
+          2.0999999046325684
+        ],
+        "area_m2": 0.008315961822518148,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -47.6879997253418,
+          22.731887817382812,
+          2.0999999046325684
+        ],
+        "overlap_world_max": [
+          -45.3120002746582,
+          22.735387802124023,
+          2.0999999046325684
+        ],
+        "overlap_sample_points": [
+          [
+            -45.32070497682283,
+            22.73422114054362,
+            2.0999999046325684
+          ],
+          [
+            -46.61542475138898,
+            22.733981275713862,
+            2.0999999046325684
+          ],
+          [
+            -47.475669700378205,
+            22.73304359144042,
+            2.0999999046325684
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Closed stair riser35.013"
+          },
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Supported wide stair tread35.013"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          1
+        ],
+        "depth_m": 2.450000047683716,
+        "depth_range_m": [
+          2.450000047683716,
+          2.450000047683716
+        ],
+        "area_m2": 0.008315961822518148,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -47.6879997253418,
+          23.38077735900879,
+          2.450000047683716
+        ],
+        "overlap_world_max": [
+          -45.3120002746582,
+          23.38427734375,
+          2.450000047683716
+        ],
+        "overlap_sample_points": [
+          [
+            -45.32070502896022,
+            23.383110682169598,
+            2.450000047683716
+          ],
+          [
+            -46.61542478267141,
+            23.38287081733984,
+            2.450000047683716
+          ],
+          [
+            -47.475669700378205,
+            23.381933133066397,
+            2.450000047683716
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Closed stair riser35.014"
+          },
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Supported wide stair tread35.014"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          1
+        ],
+        "depth_m": 2.625,
+        "depth_range_m": [
+          2.625,
+          2.625
+        ],
+        "area_m2": 0.008315961822518148,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -47.6879997253418,
+          23.70522117614746,
+          2.625
+        ],
+        "overlap_world_max": [
+          -45.3120002746582,
+          23.708721160888672,
+          2.625
+        ],
+        "overlap_sample_points": [
+          [
+            -45.32070497682283,
+            23.70755449930827,
+            2.625
+          ],
+          [
+            -46.61542475138898,
+            23.70731463447851,
+            2.625
+          ],
+          [
+            -47.475669700378205,
+            23.70637695020507,
+            2.625
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Closed stair riser35.016"
+          },
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Supported wide stair tread35.016"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          1
+        ],
+        "depth_m": 2.9749999046325684,
+        "depth_range_m": [
+          2.9749999046325684,
+          2.9749999046325684
+        ],
+        "area_m2": 0.008315961822518148,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -47.6879997253418,
+          24.354110717773438,
+          2.9749999046325684
+        ],
+        "overlap_world_max": [
+          -45.3120002746582,
+          24.35761070251465,
+          2.9749999046325684
+        ],
+        "overlap_sample_points": [
+          [
+            -45.32070502896022,
+            24.356444040934246,
+            2.9749999046325684
+          ],
+          [
+            -46.61542478267141,
+            24.356204176104487,
+            2.9749999046325684
+          ],
+          [
+            -47.475669700378205,
+            24.355266491831046,
+            2.9749999046325684
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Closed stair riser35.017"
+          },
+          {
+            "actor": "Crafted GalleryStair35",
+            "asset": "SM_AP_GalleryStair35",
+            "part": "Supported wide stair tread35.017"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          1
+        ],
+        "depth_m": 3.1500000953674316,
+        "depth_range_m": [
+          3.1500000953674316,
+          3.1500000953674316
+        ],
+        "area_m2": 0.008315961822518148,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -47.6879997253418,
+          24.67855453491211,
+          3.1500000953674316
+        ],
+        "overlap_world_max": [
+          -45.3120002746582,
+          24.68205451965332,
+          3.1500000953674316
+        ],
+        "overlap_sample_points": [
+          [
+            -45.32070497682283,
+            24.680887858072918,
+            3.1500000953674316
+          ],
+          [
+            -46.61542475138898,
+            24.68064799324316,
+            3.1500000953674316
+          ],
+          [
+            -47.475669700378205,
+            24.679710308969717,
+            3.1500000953674316
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 retained crafted furniture and artwork",
+            "asset": "SM_AP_RetainedCraft38",
+            "part": "Canopy anchored steel column34.002"
+          },
+          {
+            "actor": "Airport38 retained crafted furniture and artwork",
+            "asset": "SM_AP_RetainedCraft38",
+            "part": "Column ground shoe34.002"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          -1
+        ],
+        "depth_m": 0.0,
+        "depth_range_m": [
+          0.0,
+          0.0
+        ],
+        "area_m2": 0.004899957275483757,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -52.685001373291016,
+          -15.03499984741211,
+          0.0
+        ],
+        "overlap_world_max": [
+          -52.6150016784668,
+          -14.965000152587889,
+          0.0
+        ],
+        "overlap_sample_points": [
+          [
+            -52.665873158719194,
+            -15.01302145674814,
+            0.0
+          ],
+          [
+            -52.63833491007487,
+            -14.988333384195963,
+            0.0
+          ],
+          [
+            -52.653155288656095,
+            -15.001016130708077,
+            0.0
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 retained crafted furniture and artwork",
+            "asset": "SM_AP_RetainedCraft38",
+            "part": "Canopy anchored steel column34.003"
+          },
+          {
+            "actor": "Airport38 retained crafted furniture and artwork",
+            "asset": "SM_AP_RetainedCraft38",
+            "part": "Column ground shoe34.003"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          -1
+        ],
+        "depth_m": 0.0,
+        "depth_range_m": [
+          0.0,
+          0.0
+        ],
+        "area_m2": 0.004899957275483757,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -52.685001373291016,
+          -10.03499984741211,
+          0.0
+        ],
+        "overlap_world_max": [
+          -52.6150016784668,
+          -9.965000152587889,
+          0.0
+        ],
+        "overlap_sample_points": [
+          [
+            -52.665873158719194,
+            -10.01302145674814,
+            0.0
+          ],
+          [
+            -52.63833491007487,
+            -9.988333384195963,
+            0.0
+          ],
+          [
+            -52.653155288656095,
+            -10.001016130708077,
+            0.0
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.001"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.002"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          1
+        ],
+        "depth_m": 3.4800000190734863,
+        "depth_range_m": [
+          3.4800000190734863,
+          3.4800000190734863
+        ],
+        "area_m2": 0.0028560857244883664,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -49.034000396728516,
+          -13.871000289916992,
+          3.4800000190734863
+        ],
+        "overlap_world_max": [
+          -48.965999603271484,
+          -13.828999519348145,
+          3.4800000190734863
+        ],
+        "overlap_sample_points": [
+          [
+            -48.98866653442383,
+            -13.842999776204428,
+            3.4800000190734863
+          ],
+          [
+            -49.01133346557617,
+            -13.857000033060709,
+            3.4800000190734863
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.003"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.004"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          1
+        ],
+        "depth_m": 3.4800000190734863,
+        "depth_range_m": [
+          3.4800000190734863,
+          3.4800000190734863
+        ],
+        "area_m2": 0.0028560857244883664,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -49.034000396728516,
+          -11.171000480651855,
+          3.4800000190734863
+        ],
+        "overlap_world_max": [
+          -48.965999603271484,
+          -11.128999710083008,
+          3.4800000190734863
+        ],
+        "overlap_sample_points": [
+          [
+            -48.98866653442383,
+            -11.142999966939291,
+            3.4800000190734863
+          ],
+          [
+            -49.01133346557617,
+            -11.157000223795572,
+            3.4800000190734863
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.019"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.020"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          1
+        ],
+        "depth_m": 3.2799999713897705,
+        "depth_range_m": [
+          3.2799999713897705,
+          3.2799999713897705
+        ],
+        "area_m2": 0.002856037086530705,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -14.034000396728516,
+          -0.6960000395774841,
+          3.2799999713897705
+        ],
+        "overlap_world_max": [
+          -13.965999603271484,
+          -0.6539999842643738,
+          3.2799999713897705
+        ],
+        "overlap_sample_points": [
+          [
+            -13.988666534423828,
+            -0.6680000027020773,
+            3.2799999713897705
+          ],
+          [
+            -14.011333465576172,
+            -0.6820000211397806,
+            3.2799999713897705
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.021"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.022"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          1
+        ],
+        "depth_m": 3.2799999713897705,
+        "depth_range_m": [
+          3.2799999713897705,
+          3.2799999713897705
+        ],
+        "area_m2": 0.002856037086530705,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -14.034000396728516,
+          2.003999948501587,
+          3.2799999713897705
+        ],
+        "overlap_world_max": [
+          -13.965999603271484,
+          2.0460000038146973,
+          3.2799999713897705
+        ],
+        "overlap_sample_points": [
+          [
+            -13.988666534423828,
+            2.0319999853769937,
+            3.2799999713897705
+          ],
+          [
+            -14.011333465576172,
+            2.0179999669392905,
+            3.2799999713897705
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      },
+      {
+        "parts": [
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.029"
+          },
+          {
+            "actor": "Airport38 exterior glazing and observation panes",
+            "asset": "SM_AP_Glazing38",
+            "part": "Widely spaced matte mullion38.030"
+          }
+        ],
+        "axis": "z",
+        "normal": [
+          0,
+          0,
+          -1
+        ],
+        "depth_m": 1.0049999952316284,
+        "depth_range_m": [
+          1.0049999952316284,
+          1.0049999952316284
+        ],
+        "area_m2": 0.002856020873878151,
+        "maximum_plane_distance_m": 0.0,
+        "overlap_world_min": [
+          -32.020999908447266,
+          33.965999603271484,
+          1.0049999952316284
+        ],
+        "overlap_world_max": [
+          -31.979000091552734,
+          34.034000396728516,
+          1.0049999952316284
+        ],
+        "overlap_sample_points": [
+          [
+            -31.993000030517578,
+            34.01133346557617,
+            1.0049999952316284
+          ],
+          [
+            -32.00699996948242,
+            33.98866653442383,
+            1.0049999952316284
+          ]
+        ],
+        "candidate_exposure": "UNCLASSIFIED: exact face overlap does not prove visible z-fighting"
+      }
+    ],
+    "limits": "Sealed interior contacts can be candidates; no visibility suppression applied. Does not prove non-planar/oblique clearance, lighting stability or every aircraft surface."
+  },
+  "baseline_candidate_count": 48,
+  "introduced_candidates": [],
+  "unchanged_master": true,
+  "native_validation": "NOT RUN. Root must import targeted assets, update actor, and recapture."
+}

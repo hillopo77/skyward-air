@@ -1,0 +1,201 @@
+{
+  "revision": "07",
+  "status": "SUCCESS",
+  "tests": [
+    {
+      "test": "Recessed basin has no solid counter or cabinet blocking its interior",
+      "asset": "SM_Plane_AftGalley",
+      "first_hit_z_m": 0.9085000157356262,
+      "hit_part": "Basin drain flange",
+      "passed": true
+    },
+    {
+      "test": "Recessed basin has no solid counter or cabinet blocking its interior",
+      "asset": "SM_Plane_Lavatory_R",
+      "first_hit_z_m": 0.7919999361038208,
+      "hit_part": "Lavatory basin drain rosette",
+      "passed": true
+    },
+    {
+      "test": "Recessed basin has no solid counter or cabinet blocking its interior",
+      "asset": "SM_Plane_Lavatory_L",
+      "first_hit_z_m": 0.7919999957084656,
+      "hit_part": "Lavatory basin drain rosette.001",
+      "passed": true
+    },
+    {
+      "test": "Retained throttle gate remains a through opening",
+      "x_m": -0.142,
+      "angle": -0.6,
+      "passed": true
+    },
+    {
+      "test": "Retained throttle gate remains a through opening",
+      "x_m": -0.142,
+      "angle": -0.3,
+      "passed": true
+    },
+    {
+      "test": "Retained throttle gate remains a through opening",
+      "x_m": -0.142,
+      "angle": 0,
+      "passed": true
+    },
+    {
+      "test": "Retained throttle gate remains a through opening",
+      "x_m": -0.142,
+      "angle": 0.3,
+      "passed": true
+    },
+    {
+      "test": "Retained throttle gate remains a through opening",
+      "x_m": -0.142,
+      "angle": 0.6,
+      "passed": true
+    },
+    {
+      "test": "Retained throttle gate remains a through opening",
+      "x_m": -0.047,
+      "angle": -0.6,
+      "passed": true
+    },
+    {
+      "test": "Retained throttle gate remains a through opening",
+      "x_m": -0.047,
+      "angle": -0.3,
+      "passed": true
+    },
+    {
+      "test": "Retained throttle gate remains a through opening",
+      "x_m": -0.047,
+      "angle": 0,
+      "passed": true
+    },
+    {
+      "test": "Retained throttle gate remains a through opening",
+      "x_m": -0.047,
+      "angle": 0.3,
+      "passed": true
+    },
+    {
+      "test": "Retained throttle gate remains a through opening",
+      "x_m": -0.047,
+      "angle": 0.6,
+      "passed": true
+    },
+    {
+      "test": "Retained throttle gate remains a through opening",
+      "x_m": 0.047,
+      "angle": -0.6,
+      "passed": true
+    },
+    {
+      "test": "Retained throttle gate remains a through opening",
+      "x_m": 0.047,
+      "angle": -0.3,
+      "passed": true
+    },
+    {
+      "test": "Retained throttle gate remains a through opening",
+      "x_m": 0.047,
+      "angle": 0,
+      "passed": true
+    },
+    {
+      "test": "Retained throttle gate remains a through opening",
+      "x_m": 0.047,
+      "angle": 0.3,
+      "passed": true
+    },
+    {
+      "test": "Retained throttle gate remains a through opening",
+      "x_m": 0.047,
+      "angle": 0.6,
+      "passed": true
+    },
+    {
+      "test": "Retained throttle gate remains a through opening",
+      "x_m": 0.142,
+      "angle": -0.6,
+      "passed": true
+    },
+    {
+      "test": "Retained throttle gate remains a through opening",
+      "x_m": 0.142,
+      "angle": -0.3,
+      "passed": true
+    },
+    {
+      "test": "Retained throttle gate remains a through opening",
+      "x_m": 0.142,
+      "angle": 0,
+      "passed": true
+    },
+    {
+      "test": "Retained throttle gate remains a through opening",
+      "x_m": 0.142,
+      "angle": 0.3,
+      "passed": true
+    },
+    {
+      "test": "Retained throttle gate remains a through opening",
+      "x_m": 0.142,
+      "angle": 0.6,
+      "passed": true
+    },
+    {
+      "test": "4 window-side business and 24 economy seats",
+      "passed": true
+    },
+    {
+      "test": "Door assemblies retain separate hinge origins",
+      "passed": true
+    },
+    {
+      "test": "Printed labels have no reflected letter transforms",
+      "passed": true
+    }
+  ],
+  "component_counts": {
+    "SM_Plane_WindowWall_R": 14,
+    "SM_Plane_WindowWall_L": 14,
+    "SM_Plane_Floor": 1,
+    "SM_Plane_Rack_R": 72,
+    "SM_Plane_Rack_L": 72,
+    "SM_Plane_OuterWindowBarrel": 6,
+    "SM_Plane_ArchRib": 1,
+    "SM_Plane_AnalogDashboard": 499,
+    "SM_Plane_Controls": 134,
+    "SM_Plane_CockpitShell": 43,
+    "SM_Plane_ExteriorAirframe": 75,
+    "SM_Plane_LandingGear": 36,
+    "SM_Plane_PilotSeat07": 55,
+    "SM_Plane_CaseCoral": 10,
+    "SM_Plane_CaseOchre": 10,
+    "SM_Plane_CaseTeal": 10,
+    "SM_Plane_CockpitDoor": 37,
+    "SM_Plane_ForwardGalley_L": 323,
+    "SM_Plane_ForwardGalley_R": 323,
+    "SM_Plane_AftGalley": 465,
+    "SM_Plane_CrewJumpseat": 27,
+    "SM_Plane_AftServiceShell": 12,
+    "SM_Plane_Lavatory_R": 162,
+    "SM_Plane_LavatoryDoor_R": 15,
+    "SM_Plane_Lavatory_L": 162,
+    "SM_Plane_LavatoryDoor_L": 15,
+    "SM_Plane_FlightdeckSystems": 549,
+    "SM_Plane_CabinPlacards": 32,
+    "SM_Plane_ForwardVestibule": 12,
+    "SM_Plane_ClassDivider": 38,
+    "SM_Plane_CockpitEntry": 39,
+    "SM_Plane_FittedCarpet07": 13,
+    "SM_Plane_LuxurySeat": 44,
+    "SM_Plane_Seat": 64,
+    "SM_Plane_SeatPair": 109,
+    "SM_Plane_CrewAmenities07": 78,
+    "SM_Plane_DoorBay07": 6,
+    "SM_Plane_PassengerDoor07_L": 37,
+    "SM_Plane_PassengerDoor07_R": 37
+  },
+  "retired_checks": "The old analog dashboard switch tray was replaced by the new glass flightdeck. Historical revision03 bore checks remain archived."
+}

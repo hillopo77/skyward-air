@@ -1,0 +1,96 @@
+{
+  "status": "READY",
+  "created": 1793277352.815872,
+  "map": "/Game/Airport37/L_Airport_Clarity37",
+  "map_sha256": "9f947cfa7b0171651351faba8cb8b4099d486d618c10c328630e20a61672e287",
+  "source_sha256": "a5531cb295a2a4ca563811dde330fef61309aa26f5d4e847fe1c7c3bd7f804cf",
+  "export_families": 14,
+  "walk_checks": 93,
+  "walk_teleports": 0,
+  "setup_teleports": 1,
+  "photos": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity37\\Screenshots\\01_ExitSightline.png",
+      "sha256": "88a0f2d850cd040b2ad5de8feb5edb4be42ed399d6b46fb4b843a0747762eb2b"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity37\\Screenshots\\02_ExitBeforeDoor.png",
+      "sha256": "1ed7a77e51e3ebb11c24078ba21cc7e895fc50da2ea76e86297f146b8c61c634"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity37\\Screenshots\\03_Concourse.png",
+      "sha256": "2de5c2e792f3b15e5ce8677f9024bad04749f6bac385f1e1913e55f648a77e13"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity37\\Screenshots\\04_A07Approach.png",
+      "sha256": "f1be57f32f487474bd6b265cf3310de6afdf8efbfbcc5057a47358b7fdcb3196"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity37\\Screenshots\\05_A07Lounge.png",
+      "sha256": "2131fe0fb6e0e9002f3625d420aac696b048c447654c69bfdd5b06047c35775e"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity37\\Screenshots\\06_CafeEntrance.png",
+      "sha256": "332bc5aaa422ab56342be104420627f653b44c9294638f5176b95532d7a4f4cd"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity37\\Screenshots\\07_CafeRoom.png",
+      "sha256": "7a6eb4fdbfe5fb7236a51a04c22facd7049098486c90dd11306a1215075ed5a0"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity37\\Screenshots\\08_CafeDining.png",
+      "sha256": "92559c37e67bf887e077992730ea002a93d7805082978b1b2bb3fbffb34208f6"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity37\\Screenshots\\09_A08Entrance.png",
+      "sha256": "ad44d29e08e81df231523a761470a89358933d92544905c730e082a3b1c89678"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity37\\Screenshots\\10_A08Lounge.png",
+      "sha256": "44b76eab23caced41f0b9ece1b6788a1ec8171e1d4a39142dc5082ab9f644fb2"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity37\\Screenshots\\11_Gallery.png",
+      "sha256": "b22e7717f8f9d0627e6b8d233f668d37b5a8aaa24f7fe4005401aad14ce772db"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity37\\Screenshots\\12_Screening.png",
+      "sha256": "4fc9e517239032626832b2d8b03298f0a79c62207f9a85276958de58790505da"
+    }
+  ],
+  "runtime_sha256": {
+    "airport_runtime.py": "bec3da16c29f079ec161aa8fca9e5139e59842059f8ebe762d46c454bac591ae",
+    "airport_rooms24.py": "3a8f790b23527e5b25574a50e69b2758e48a01bbc44838db39ef773e45d2a9c5",
+    "airport_clarity37.py": "896542e8ae349502cc3a0acf031ec037bf9d281876ae1be579522ad6836cf759",
+    "clarity37_review.py": "10d7c15cb6e6954ad0c86c713d038d47698b2d1499b3d0857d560c26e5503daa",
+    "airport_flow35.py": "9de4341626ffeb514855ae3e5b49bf024591a2049a3e4696da079ffd7401618a",
+    "airport_journey22.py": "13c61479a9b187355d09e0cc47b3a67bd4a52b1fd0e915f0730a35bbdf7857fb"
+  },
+  "source_stats": {
+    "legacy_fixture_parts_removed": 380,
+    "ceiling_ring_parts_removed": 36,
+    "internal_glass_segments_removed": 22,
+    "exterior_glass_segments": 7
+  },
+  "limits": [
+    "Inherited characters and some poses",
+    "Distant scenery and broad gameplay",
+    "No sustained performance certification or standalone packaging"
+  ],
+  "html_validation": "Source and local links checked; no browser-rendering claim",
+  "visible_session": {
+    "status": "READY",
+    "map": "/Game/Airport37/L_Airport_Clarity37",
+    "player": [
+      -37.05,
+      6.5,
+      1.62
+    ],
+    "viewport": [
+      1920,
+      1080
+    ],
+    "updated": 1793277603.735178
+  },
+  "visible_preview_pid": 37488
+}

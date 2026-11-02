@@ -1,0 +1,140 @@
+{
+  "status": "SUCCESS",
+  "checks": [
+    {
+      "name": "Native viewport1920x1080",
+      "passed": true
+    },
+    {
+      "name": "Remodeled benches offer unoccupied seats",
+      "passed": true
+    },
+    {
+      "name": "GateA08 has its own display identity",
+      "passed": true
+    },
+    {
+      "name": "Crosshair reaches a remodeled empty seat",
+      "passed": true,
+      "selected": "A07 lounge bench24 0 seat 2"
+    },
+    {
+      "name": "Player actually sits in remodeled seating",
+      "passed": true
+    },
+    {
+      "name": "Standing restores full eye height",
+      "passed": true
+    }
+  ],
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\01_SecurityArrival.png",
+      "sha256": "7f40b6ec75b57927cd8adce3fe579aabd1377f4155cfa2499e2fa3c5726f0ffc",
+      "view": "01_SecurityArrival"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\02_ScreeningDetail.png",
+      "sha256": "b7425bc3e092e65100c5431edcc52f336036cf68d0072d288a42c5bc685ab514",
+      "view": "02_ScreeningDetail"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\03_Repacking.png",
+      "sha256": "525cd1d2169cee1894514f4fd037a8a7c8e8411a99af6037efd54700e37b45a1",
+      "view": "03_Repacking"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\04_Concourse.png",
+      "sha256": "873da7afef1cf2ad5a2b684a1c2495efe77c9e9e07bf245a4e71eea7a0146f0c",
+      "view": "04_Concourse"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\05_A07Approach.png",
+      "sha256": "a0b785e966ff6c43080c36ca757697bb34cbe01bce195a180b35b5c78f5feab5",
+      "view": "05_A07Approach"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\06_A07Lounge.png",
+      "sha256": "c5ab4c0a7bdb0c9f65178c1726aab749d9ee004687bf3d4782a55d12ae31a0cd",
+      "view": "06_A07Lounge"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\07_A08Lounge.png",
+      "sha256": "e0f9ae00139c0735778b94cfffb4b763aa1b3594aa7edd189f3a57ff550166cf",
+      "view": "07_A08Lounge"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\08_Cafe.png",
+      "sha256": "726e40c2e379ea5aa7665be7cc67c8126d71c9bb21f9490410b6b95c8259751e",
+      "view": "08_Cafe"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\09_CafeGallery.png",
+      "sha256": "d4c5298668c532f33b48178219cc3719b46c1b01f3f327f3333e549f47709d83",
+      "view": "09_CafeGallery"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\10_Amenities.png",
+      "sha256": "fe6ac6e2dcf45309317e53916a12637c7e0ca7f85502d02f9a8404078de0026c",
+      "view": "10_Amenities"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\11_Arrivals.png",
+      "sha256": "5f0a78352284172c3edf49682dcd5a9dd3a142d1547a846270a65186cff0616e",
+      "view": "11_Arrivals"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\12_PublicReturn.png",
+      "sha256": "392d97332506a29d35507eea99387b977ebbc694ab6742c049e26c24c79f9e86",
+      "view": "12_PublicReturn"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\13_Jetbridge.png",
+      "sha256": "4cd53813ece4deae1ca5ca30a37e4a1742599b7f81db76195f00ef2c6ce87588",
+      "view": "13_Jetbridge"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\14_EntranceExterior.png",
+      "sha256": "af3a50584ecbf26d6b34e9af1b648fa3dc536d9a415d0386f35eab62e122c643",
+      "view": "14_EntranceExterior"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\15_Apron.png",
+      "sha256": "f372e1ea736c2bf5621d3cc13980ae7b9f55fb8cde7a29153e61ff6323cb4fb3",
+      "view": "15_Apron"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\16_Runway.png",
+      "sha256": "1b6c5e4af23eca301d31f657e03bc94977074619dc9bfb415465f4a0c78708af",
+      "view": "16_Runway"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\17_StaffOperations.png",
+      "sha256": "853e249f3e55273acd13f0751b329a0756a791e818f284052613673bb0cb9269",
+      "view": "17_StaffOperations"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\18_CompletedCheckin.png",
+      "sha256": "d7f4aac44b2996aa7d6968d3deaf6c9c70f95588fe1c918ecd983765f6fca1b2",
+      "view": "18_CompletedCheckin"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\19_Hangar.png",
+      "sha256": "ef9881730604d71159c8fac936bb31723e16580f81a029e1a97f7fbf91062a94",
+      "view": "19_Hangar"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Terminal34\\Screenshots\\20_TerminalExterior.png",
+      "sha256": "c7ddfc9ef8e9380c445802ff507bdb911ab96d8aa38466b607e081b0c5bcaf03",
+      "view": "20_TerminalExterior"
+    }
+  ],
+  "step": 47,
+  "elapsed_s": 34.2190000000046,
+  "viewport": [
+    1920,
+    1080
+  ],
+  "setup_player_teleports": 1,
+  "route_proof": "RouteProof34.json"
+}

@@ -1,0 +1,30 @@
+{
+  "scope": "Correction after native QA proved bag stalled before physical transfer; rerun required",
+  "diagnosis": {
+    "verified": "Bag02 released and supported on input belt but position stalled at[-28.534,-13.012,1.001]; no premature registration occurred",
+    "likely_cause": "Default architectural contact friction exceeds conservative native motor force",
+    "unproven_risk": "Roller-gap/wheel snag if contact-material repair alone does not restore travel"
+  },
+  "correction": {
+    "physics_material": "PM_AP38_ConveyorRollers",
+    "dynamic_friction": 0.045,
+    "static_friction": 0.055,
+    "combine": "MIN",
+    "restitution": 0,
+    "components": [
+      "Belt38",
+      "Transfer38",
+      "Outfeed38"
+    ],
+    "teleport_or_acceptance_relaxation": false
+  },
+  "diagnostics": [
+    "actual hit actor/mesh/impact/normal",
+    "actual and desired body velocity",
+    "applied acceleration and mass"
+  ],
+  "files": {
+    "native38_journey.py": "bb0306998996681adc1909403bbe06b620c64937cc86cf0d613e88ee2441d1a7",
+    "airport_journey38.py": "f1fef35bf2bdfa02a84911e4c797bd9e88ea6ae84ef33cc545a575e9832ed169"
+  }
+}

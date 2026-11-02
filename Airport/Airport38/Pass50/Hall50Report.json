@@ -1,0 +1,22 @@
+{
+ "status": "SUCCESS",
+ "meshes": {},
+ "hall": {
+  "status": "SUCCESS",
+  "asset": "SM_AP_P50Hall",
+  "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass50\\HallBuild\\SM_AP_P50Hall.fbx",
+  "materials": [
+   "MI_AP_P43TPlaster",
+   "MI_AP_P43TPlaster",
+   "MI_AP_P43TOak",
+   "MI_AP_Glass39_Terminal",
+   "MI_AP_P38AFrame",
+   "MI_AP_P43TCeiling",
+   "MI_AP_P38ARoof",
+   "MI_AP_P27Steel",
+   "MI_AP_P43TFloor",
+   "MI_AP_P38ANavy"
+  ],
+  "polygons": 56900
+ }
+}

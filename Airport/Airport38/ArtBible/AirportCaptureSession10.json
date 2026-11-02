@@ -1,0 +1,80 @@
+{
+  "status": "READY",
+  "pass_id": 10,
+  "revision": 38,
+  "runtime_sha256": "386abcbba34423154b32548059e5b58ddc65a4c52dd25d1d198b7744d160da10",
+  "journey": {
+    "checked_in": false,
+    "bag_accepted": false,
+    "security": false,
+    "boarding": false,
+    "aboard": false
+  },
+  "held": null,
+  "driving": null,
+  "spectator": false,
+  "native_physics_bodies": 18,
+  "events": [
+    {
+      "event": "Character39 art ready",
+      "time_s": 0.125,
+      "characters": 42,
+      "skeleton": "/Game/Characters39/Meshes/SKEL_Character39.SKEL_Character39",
+      "source_fit": "fixed-length rig plus authored seated contact morphs",
+      "native_fit": "root capture required"
+    },
+    {
+      "event": "Clear arrival26 ready",
+      "time_s": 0.14099999999962165,
+      "initial_exit": "checkin",
+      "high_dpi": "project enabled",
+      "profile": "FastTAA"
+    },
+    {
+      "event": "Airside38 installed",
+      "time_s": 0.15599999999994907,
+      "aircraft_offset_m": [
+        16,
+        0,
+        0
+      ],
+      "bridge_components": 16,
+      "interlock": true
+    },
+    {
+      "event": "Authoritative journey38 installed",
+      "time_s": 0.15599999999994907,
+      "automatic_doors": 14,
+      "receiver_bays": 2
+    },
+    {
+      "event": "Airport38 measured final rendering",
+      "time_s": 0.31199999999989814,
+      "profile": "Airport38 Native Stable",
+      "resolution": "native viewport 100%",
+      "settings_measured": true
+    },
+    {
+      "event": "Airport38 integrated",
+      "time_s": 0.34400000000005093,
+      "reviews": 5,
+      "fix_assignments": 5
+    },
+    {
+      "event": "Native tow couplings bound",
+      "time_s": 2.469000000000051,
+      "count": 2
+    }
+  ],
+  "frame_statistics": {
+    "frames": 840,
+    "average_fps": 43.83052649337977,
+    "p95_ms": 17.414900000403577,
+    "maximum_ms": 2205.510600000707
+  },
+  "player_source": [
+    -50.9,
+    -12.5,
+    1.62
+  ]
+}

@@ -1,0 +1,157 @@
+{
+  "status": "SUCCESS",
+  "checks": [
+    {
+      "name": "All authored native physics bodies initialized",
+      "passed": true,
+      "count": 46
+    },
+    {
+      "name": "Two native articulated tow couplings",
+      "passed": true
+    },
+    {
+      "name": "checkin action has line of sight",
+      "passed": true
+    },
+    {
+      "name": "boarding action has line of sight",
+      "passed": true
+    },
+    {
+      "name": "Continuous entrance to aircraft walk",
+      "passed": true,
+      "waypoints": 18,
+      "position": [
+        -1.4189922575484197,
+        0.6749795242492606,
+        1.62
+      ]
+    },
+    {
+      "name": "Security cleared by crossing portal",
+      "passed": true
+    },
+    {
+      "name": "Boarding gate opened after clearance",
+      "passed": true
+    },
+    {
+      "name": "Aircraft boarding event detected",
+      "passed": true
+    },
+    {
+      "name": "Sliding leaves occupy their modeled pockets",
+      "passed": true
+    },
+    {
+      "name": "Cubicle outside release visible",
+      "passed": true
+    },
+    {
+      "name": "Cubicle slides into modeled pocket",
+      "passed": true
+    },
+    {
+      "name": "Cubicle inside release remains accessible",
+      "passed": true
+    },
+    {
+      "name": "Cubicle closes from inside pocket enclosure",
+      "passed": true
+    },
+    {
+      "name": "Opaque wall blocks interaction",
+      "passed": true
+    },
+    {
+      "name": "Stairs and upper landing reach mezzanine",
+      "passed": true,
+      "height_m": 5.82,
+      "expected_m": 5.82
+    },
+    {
+      "name": "Service ramp reaches apron continuously",
+      "passed": true,
+      "height_m": -2.08,
+      "expected_m": -2.08
+    },
+    {
+      "name": "Suitcase settles on actual terminal floor",
+      "passed": true,
+      "bottom_cm": -5.0485367241236965,
+      "speed_cm_s": 0.0
+    },
+    {
+      "name": "Spring-force luggage pickup",
+      "passed": true,
+      "distance_cm": 125.91592547206224
+    },
+    {
+      "name": "Luggage throw uses physical impulse",
+      "passed": true,
+      "travel_cm": 484.78946480372304
+    },
+    {
+      "name": "Scanner conveyor moves supported physical luggage",
+      "passed": true,
+      "forward_cm": 55.88652437026383,
+      "position": [
+        -71.40279497770392,
+        -7.541134756297364,
+        1.0153710487678291
+      ]
+    },
+    {
+      "name": "Powered tug pulls constrained baggage dollies",
+      "passed": true,
+      "tug_travel_cm": 213.51418461934955,
+      "dolly_travel_cm": 212.5808311541838
+    },
+    {
+      "name": "Rendered idle performance sample",
+      "passed": true,
+      "samples": 273,
+      "average_fps": 45.37732995132726,
+      "p95_ms": 29.83789999416331,
+      "max_ms": 31.06129999650875
+    },
+    {
+      "name": "Meal tray opens flat and lifts in captive guides",
+      "passed": true,
+      "half_height_cm": 2.400000528949093
+    },
+    {
+      "name": "Meal tray returns to fitted seat-back recess",
+      "passed": true
+    },
+    {
+      "name": "Pilot throttle is within seated horizontal reach",
+      "passed": true,
+      "reach_m": 0.5816756657076954
+    },
+    {
+      "name": "Extinguisher has an unobstructed pickup target",
+      "passed": true
+    },
+    {
+      "name": "Extinguisher detaches as a physical held object",
+      "passed": true,
+      "travel_cm": 86.82007878548843
+    },
+    {
+      "name": "Powder discharge consumes charge and renders a jet",
+      "passed": true,
+      "reach_scale": 0.9733333333333334,
+      "upright_z": 0.9661174363136755
+    },
+    {
+      "name": "Extinguisher returns to its physical bracket",
+      "passed": true
+    }
+  ],
+  "runtime_sha256": "0b7dca7c2885693f048e33fb13361dd9dc7e2e9c2cc1557407b561d2b98bf35a",
+  "qa_sha256": "e3eb405cb46395d65c32d88445ad926cc908d4fd35fdfa337c1897c7259c0326",
+  "phase": "ext_stow",
+  "elapsed": 89.57800000000134
+}

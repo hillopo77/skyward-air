@@ -1,0 +1,54 @@
+[
+ {
+  "name": "RoomTone47",
+  "seconds": 10.0,
+  "rms": 0.045,
+  "peak": 0.2
+ },
+ {
+  "name": "Murmur47",
+  "seconds": 20.0,
+  "rms": 0.05,
+  "peak": 0.368
+ },
+ {
+  "name": "Outdoor47",
+  "seconds": 20.0,
+  "rms": 0.055,
+  "peak": 0.304
+ },
+ {
+  "name": "Apron47",
+  "seconds": 12.0,
+  "rms": 0.045,
+  "peak": 0.183
+ },
+ {
+  "name": "PA47",
+  "seconds": 120.0,
+  "rms": 0.0476,
+  "peak": 0.62,
+  "announcements": [
+   {
+    "chime_s": 2.0,
+    "voice_s": 4.6,
+    "voice_len_s": 8.25
+   },
+   {
+    "chime_s": 32.0,
+    "voice_s": 34.6,
+    "voice_len_s": 7.37
+   },
+   {
+    "chime_s": 62.0,
+    "voice_s": 64.6,
+    "voice_len_s": 6.6
+   },
+   {
+    "chime_s": 92.0,
+    "voice_s": 94.6,
+    "voice_len_s": 6.94
+   }
+  ]
+ }
+]

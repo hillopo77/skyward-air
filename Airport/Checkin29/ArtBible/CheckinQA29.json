@@ -1,0 +1,221 @@
+{
+  "status": "SUCCESS",
+  "checks": [
+    {
+      "name": "Starts with check-in objective",
+      "passed": true
+    },
+    {
+      "name": "Native viewport1920x1080",
+      "passed": true
+    },
+    {
+      "name": "Check-in desk 01 quarter-turn matches layout",
+      "passed": true
+    },
+    {
+      "name": "Check-in desk 01 placed correctly",
+      "passed": true
+    },
+    {
+      "name": "Check-in desk 02 quarter-turn matches layout",
+      "passed": true
+    },
+    {
+      "name": "Check-in desk 02 placed correctly",
+      "passed": true
+    },
+    {
+      "name": "Bag drop belt 01 travels along rotated belt",
+      "passed": true
+    },
+    {
+      "name": "Bag drop belt 02 travels along rotated belt",
+      "passed": true
+    },
+    {
+      "name": "One queue with three waiting passengers",
+      "passed": true
+    },
+    {
+      "name": "Two staffed counters",
+      "passed": true
+    },
+    {
+      "name": "Queue width is1.9m",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-48.3, -12.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-46, -15.9]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-45.7, -16.0]",
+      "passed": true
+    },
+    {
+      "name": "Aim reaches Physical luggage 01",
+      "passed": true,
+      "selected": "Physical luggage 01"
+    },
+    {
+      "name": "Walk reaches [-46, -15]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-42, -15]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-42, -13]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-39.4, -13]",
+      "passed": true
+    },
+    {
+      "name": "Entry arrives behind the last queue passenger",
+      "passed": true,
+      "player": [
+        -39.522664843869315,
+        -13.00573550023503
+      ],
+      "last_passenger": [
+        -37.5,
+        -13.0
+      ]
+    },
+    {
+      "name": "Walk reaches [-39.4, -13.65]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-32.1, -13.65]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-32.1, -13]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-32.1, -10.6]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-31.8, -10.6]",
+      "passed": true
+    },
+    {
+      "name": "Aim reaches Check-in desk 01",
+      "passed": true,
+      "selected": "Check-in desk 01"
+    },
+    {
+      "name": "Rotated counter issues boarding pass",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-31.8, -12.6]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-30.7, -12.6]",
+      "passed": true
+    },
+    {
+      "name": "Aim reaches Bag drop belt 01",
+      "passed": true,
+      "selected": "Bag drop belt 01"
+    },
+    {
+      "name": "Rotated conveyor accepts the physical suitcase",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-32.1, -12.6]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-32.1, -8.8]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-30, -8.8]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-30, -6]",
+      "passed": true
+    },
+    {
+      "name": "Room exit connects to the unchanged landside corridor",
+      "passed": true
+    }
+  ],
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin29\\Screenshots\\QA29_Arrival.png",
+      "sha256": "e3933531503133abf9d2095951a86ef7820cf80ef77e1e877eccb5052751ef0e",
+      "view": "QA29_Arrival"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin29\\Screenshots\\QA29_Queue.png",
+      "sha256": "8f4cfff824cbd67b39c96838c87e16d04e9b0ff5d26455d0c0b70dfc114bf169",
+      "view": "QA29_Queue"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin29\\Screenshots\\QA29_Service.png",
+      "sha256": "198c1edda892f54d83f718cca26f316ae7c6fa0111ddcc79dae9416a8ad069c2",
+      "view": "QA29_Service"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin29\\Screenshots\\01_CheckinArrival.png",
+      "sha256": "f7c2ebac584fcb8d6cad1d1baab480c648a8d3fe0666ac3e13d191a0535a61ce",
+      "view": "01_CheckinArrival"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin29\\Screenshots\\02_QueueAndCounters.png",
+      "sha256": "81be27667eb47a615c43811c4360fbe612b3b5164d0ee216bddb6714c199113c",
+      "view": "02_QueueAndCounters"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin29\\Screenshots\\03_ServiceDesk.png",
+      "sha256": "b701a08bb304a8fadf2f31b41256f174376df925e75407cf93a35e6259d61366",
+      "view": "03_ServiceDesk"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin29\\Screenshots\\04_Kiosks.png",
+      "sha256": "a882744695f3649530ff56e7dd5a828029b2af61b48db6b6b9142331d0ca6f52",
+      "view": "04_Kiosks"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin29\\Screenshots\\05_WaitingBay.png",
+      "sha256": "ac68d3222cad6655aa03c75ed6c180c151d7f970b4e6cab59dee91ef632c0232",
+      "view": "05_WaitingBay"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin29\\Screenshots\\06_RoomOverview.png",
+      "sha256": "abdae62a993d3467f43901cfd7674d8bf68a0487263732e832ce671ef52b878d",
+      "view": "06_RoomOverview"
+    }
+  ],
+  "step": 42,
+  "continuous_walk": true,
+  "teleports": 0,
+  "elapsed_s": 28.73400000000038,
+  "viewport": [
+    1920,
+    1080
+  ],
+  "journey": {
+    "checked_in": true,
+    "bag_accepted": true,
+    "security": false,
+    "aboard": false
+  }
+}

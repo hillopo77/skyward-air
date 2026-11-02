@@ -1,0 +1,24 @@
+{
+  "status": "READY",
+  "map": "/Game/Airport32/L_Airport_Lighting32",
+  "zone": "entrancefoyer",
+  "player": [
+    -44.94522187257851,
+    -17.55246217136597,
+    1.62
+  ],
+  "journey": {
+    "checked_in": false,
+    "security": false,
+    "boarding": false,
+    "aboard": false
+  },
+  "controlled_doors": {
+    "Screening entry24 leaf 0": 0,
+    "Screening entry24 leaf 1": 0,
+    "Screening exit24 leaf 0": 0,
+    "Screening exit24 leaf 1": 0,
+    "Staff service leaf24": 0
+  },
+  "updated": 1793206485.3091986
+}

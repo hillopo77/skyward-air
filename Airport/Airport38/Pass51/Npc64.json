@@ -1,0 +1,282 @@
+{
+ "status": "SUCCESS",
+ "moved": [
+  [
+   "CH12 Waiting passenger 6",
+   [
+    -30.6,
+    23.26,
+    0
+   ],
+   [
+    -29.53,
+    23.4,
+    0.0
+   ],
+   90,
+   90.0,
+   true
+  ],
+  [
+   "CH12 Additional waiting passenger 0",
+   [
+    -30.6,
+    24.74,
+    0
+   ],
+   [
+    -29.53,
+    24.3,
+    0.0
+   ],
+   90,
+   90.0,
+   true
+  ],
+  [
+   "CH12 Additional waiting passenger 1",
+   [
+    -30.6,
+    28.26,
+    0
+   ],
+   [
+    -29.53,
+    27.5,
+    0.0
+   ],
+   90,
+   90.0,
+   true
+  ],
+  [
+   "CH12 Additional waiting passenger 3",
+   [
+    -30.6,
+    29.74,
+    0
+   ],
+   [
+    -29.53,
+    29.9,
+    0.0
+   ],
+   90,
+   90.0,
+   true
+  ],
+  [
+   "CH12 Additional waiting passenger 4",
+   [
+    -28.439999999999998,
+    32.2,
+    0
+   ],
+   [
+    -30.43,
+    25.6,
+    0.45
+   ],
+   0,
+   90.0,
+   true
+  ],
+  [
+   "CH12 Additional waiting passenger 5",
+   [
+    -27.7,
+    32.2,
+    0
+   ],
+   [
+    -30.43,
+    28.7,
+    0.45
+   ],
+   0,
+   90.0,
+   true
+  ],
+  [
+   "CH12 Additional waiting passenger 2",
+   [
+    -26.96,
+    32.2,
+    0
+   ],
+   [
+    -30.43,
+    30.6,
+    0.45
+   ],
+   0,
+   90.0,
+   true
+  ],
+  [
+   "CH12 Waiting passenger 0",
+   [
+    -21.7,
+    6.46,
+    0
+   ],
+   [
+    -21.02,
+    8.47,
+    0.0
+   ],
+   90,
+   -160.9,
+   true
+  ],
+  [
+   "CH12 Waiting passenger 1",
+   [
+    -21.7,
+    7.2,
+    0
+   ],
+   [
+    -18.41,
+    7.92,
+    0.0
+   ],
+   90,
+   148.0,
+   true
+  ],
+  [
+   "CH12 Waiting passenger 2",
+   [
+    -21.7,
+    7.94,
+    0
+   ],
+   [
+    -16.3,
+    7.28,
+    0.0
+   ],
+   90,
+   -163.4,
+   true
+  ],
+  [
+   "CH12 Waiting passenger 3",
+   [
+    -15.45,
+    8.14,
+    0
+   ],
+   [
+    -20.05,
+    7.88,
+    0.0
+   ],
+   -90,
+   -8.0,
+   true
+  ],
+  [
+   "CH12 Waiting passenger 4",
+   [
+    -15.45,
+    7.4,
+    0
+   ],
+   [
+    -17.63,
+    6.67,
+    0.0
+   ],
+   -90,
+   -21.4,
+   true
+  ],
+  [
+   "CH12 Waiting passenger 5",
+   [
+    -15.45,
+    6.66,
+    0
+   ],
+   [
+    -15.76,
+    6.71,
+    0.0
+   ],
+   -90,
+   23.5,
+   true
+  ]
+ ],
+ "missing": [],
+ "readback": [
+  [
+   "CH12 Waiting passenger 6",
+   -29.53,
+   23.4
+  ],
+  [
+   "CH12 Additional waiting passenger 0",
+   -29.53,
+   24.3
+  ],
+  [
+   "CH12 Additional waiting passenger 1",
+   -29.53,
+   27.5
+  ],
+  [
+   "CH12 Additional waiting passenger 3",
+   -29.53,
+   29.9
+  ],
+  [
+   "CH12 Additional waiting passenger 4",
+   -30.43,
+   25.6
+  ],
+  [
+   "CH12 Additional waiting passenger 5",
+   -30.43,
+   28.7
+  ],
+  [
+   "CH12 Additional waiting passenger 2",
+   -30.43,
+   30.6
+  ],
+  [
+   "CH12 Waiting passenger 0",
+   -21.02,
+   8.47
+  ],
+  [
+   "CH12 Waiting passenger 1",
+   -18.41,
+   7.92
+  ],
+  [
+   "CH12 Waiting passenger 2",
+   -16.3,
+   7.28
+  ],
+  [
+   "CH12 Waiting passenger 3",
+   -20.05,
+   7.88
+  ],
+  [
+   "CH12 Waiting passenger 4",
+   -17.63,
+   6.67
+  ],
+  [
+   "CH12 Waiting passenger 5",
+   -15.76,
+   6.71
+  ]
+ ],
+ "dirty_saved": true
+}

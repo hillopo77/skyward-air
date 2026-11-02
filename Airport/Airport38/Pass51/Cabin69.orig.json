@@ -1,0 +1,631 @@
+{
+ "Cabin broad practical10": {
+  "p": [
+   1462.0,
+   -179.99999523162842,
+   247.00000000000003
+  ],
+  "rot": [
+   -0.0,
+   -54.999999999999986,
+   0.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.001": {
+  "p": [
+   1738.0,
+   -179.99999523162842,
+   247.00000000000003
+  ],
+  "rot": [
+   -6.156328633205864e-31,
+   -54.99999999999997,
+   180.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.002": {
+  "p": [
+   1462.0,
+   -540.0000095367432,
+   247.00000000000003
+  ],
+  "rot": [
+   -0.0,
+   -54.999999999999986,
+   0.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.003": {
+  "p": [
+   1738.0,
+   -540.0000095367432,
+   247.00000000000003
+  ],
+  "rot": [
+   -6.156328633205864e-31,
+   -54.99999999999997,
+   180.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.004": {
+  "p": [
+   1462.0,
+   -780.0000190734863,
+   247.00000000000003
+  ],
+  "rot": [
+   -0.0,
+   -54.999999999999986,
+   0.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.005": {
+  "p": [
+   1738.0,
+   -780.0000190734863,
+   247.00000000000003
+  ],
+  "rot": [
+   -6.156328633205864e-31,
+   -54.99999999999997,
+   180.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.006": {
+  "p": [
+   1462.0,
+   -1089.9999618530273,
+   247.00000000000003
+  ],
+  "rot": [
+   -0.0,
+   -54.999999999999986,
+   0.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.007": {
+  "p": [
+   1738.0,
+   -1089.9999618530273,
+   247.00000000000003
+  ],
+  "rot": [
+   -6.156328633205864e-31,
+   -54.99999999999997,
+   180.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.008": {
+  "p": [
+   1462.0,
+   -1417.5000190734863,
+   247.00000000000003
+  ],
+  "rot": [
+   -0.0,
+   -54.999999999999986,
+   0.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.009": {
+  "p": [
+   1738.0,
+   -1417.5000190734863,
+   247.00000000000003
+  ],
+  "rot": [
+   -6.156328633205864e-31,
+   -54.99999999999997,
+   180.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.010": {
+  "p": [
+   1462.0,
+   -1700.0,
+   247.00000000000003
+  ],
+  "rot": [
+   -0.0,
+   -54.999999999999986,
+   0.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.011": {
+  "p": [
+   1738.0,
+   -1700.0,
+   247.00000000000003
+  ],
+  "rot": [
+   -6.156328633205864e-31,
+   -54.99999999999997,
+   180.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.012": {
+  "p": [
+   1462.0,
+   -2000.0,
+   247.00000000000003
+  ],
+  "rot": [
+   -0.0,
+   -54.999999999999986,
+   0.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.013": {
+  "p": [
+   1738.0,
+   -2000.0,
+   247.00000000000003
+  ],
+  "rot": [
+   -6.156328633205864e-31,
+   -54.99999999999997,
+   180.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.014": {
+  "p": [
+   1462.0,
+   -2300.0,
+   247.00000000000003
+  ],
+  "rot": [
+   -0.0,
+   -54.999999999999986,
+   0.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.015": {
+  "p": [
+   1738.0,
+   -2300.0,
+   247.00000000000003
+  ],
+  "rot": [
+   -6.156328633205864e-31,
+   -54.99999999999997,
+   180.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.016": {
+  "p": [
+   1462.0,
+   -2600.0,
+   247.00000000000003
+  ],
+  "rot": [
+   -0.0,
+   -54.999999999999986,
+   0.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.017": {
+  "p": [
+   1738.0,
+   -2600.0,
+   247.00000000000003
+  ],
+  "rot": [
+   -6.156328633205864e-31,
+   -54.99999999999997,
+   180.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.018": {
+  "p": [
+   1462.0,
+   -2800.0,
+   247.00000000000003
+  ],
+  "rot": [
+   -0.0,
+   -54.999999999999986,
+   0.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.019": {
+  "p": [
+   1738.0,
+   -2800.0,
+   247.00000000000003
+  ],
+  "rot": [
+   -6.156328633205864e-31,
+   -54.99999999999997,
+   180.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.020": {
+  "p": [
+   1462.0,
+   -3120.0000762939453,
+   247.00000000000003
+  ],
+  "rot": [
+   -0.0,
+   -54.999999999999986,
+   0.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.021": {
+  "p": [
+   1738.0,
+   -3120.0000762939453,
+   247.00000000000003
+  ],
+  "rot": [
+   -6.156328633205864e-31,
+   -54.99999999999997,
+   180.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.022": {
+  "p": [
+   1462.0,
+   -3359.9998474121094,
+   247.00000000000003
+  ],
+  "rot": [
+   -0.0,
+   -54.999999999999986,
+   0.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "Cabin broad practical10.023": {
+  "p": [
+   1738.0,
+   -3359.9998474121094,
+   247.00000000000003
+  ],
+  "rot": [
+   -6.156328633205864e-31,
+   -54.99999999999997,
+   180.0
+  ],
+  "i": 350.0,
+  "shadows": false
+ },
+ "__materials": {
+  "light:PSU reading practical 0112": 0.0,
+  "light:PSU reading practical 0212": 0.0,
+  "light:PSU reading practical 0312": 0.0,
+  "light:PSU reading practical 0412": 0.0,
+  "light:PSU reading practical 0512": 0.0,
+  "light:PSU reading practical 0612": 0.0,
+  "light:PSU reading practical 0712": 0.0,
+  "light:PSU reading practical 0812": 0.0,
+  "light:PSU reading practical 0912": 0.0,
+  "light:PSU reading practical 1012": 0.0,
+  "light:PSU reading practical 1112": 0.0,
+  "light:PSU reading practical 1212": 0.0,
+  "light:PSU reading practical 1312": 0.0,
+  "light:PSU reading practical 1412": 0.0,
+  "light:PSU reading practical 1512": 0.0,
+  "light:PSU reading practical 1612": 0.0,
+  "light:PSU reading practical 1712": 0.0,
+  "light:PSU reading practical 1812": 0.0,
+  "light:PSU reading practical 1912": 0.0,
+  "light:PSU reading practical 2012": 0.0,
+  "light:PSU reading practical 2112": 0.0,
+  "light:PSU reading practical 2212": 0.0,
+  "light:PSU reading practical 2312": 0.0,
+  "light:PSU reading practical 2412": 0.0,
+  "light:PSU reading practical 2512": 0.0,
+  "light:PSU reading practical 2612": 0.0,
+  "light:PSU reading practical 2712": 0.0,
+  "light:PSU reading practical 2812": 0.0,
+  "light:PSU reading practical 2912": 0.0,
+  "light:PSU reading practical 3012": 0.0,
+  "light:PSU reading practical 3112": 0.0,
+  "light:PSU reading practical 3212": 0.0,
+  "light:PSU reading practical 3312": 0.0,
+  "light:PSU reading practical 3412": 0.0,
+  "light:PSU reading practical 3512": 0.0,
+  "light:PSU reading practical 3612": 0.0,
+  "light:PSU reading practical 3712": 0.0,
+  "light:PSU reading practical 3812": 0.0,
+  "light:PSU reading practical 3912": 0.0,
+  "light:PSU reading practical 4012": 0.0,
+  "SM_Plane_Lavatory_R|6": "/Game/Art/Materials/Instances/MI_Plane_Lamp.MI_Plane_Lamp",
+  "SM_Plane_Lavatory_R|14": "/Game/Art/Materials/Instances/MI_Plane_Footlight.MI_Plane_Footlight",
+  "SM_Plane_Lavatory_L|6": "/Game/Art/Materials/Instances/MI_Plane_Lamp.MI_Plane_Lamp",
+  "SM_Plane_Lavatory_L|14": "/Game/Art/Materials/Instances/MI_Plane_Footlight.MI_Plane_Footlight",
+  "SM_Plane_FittedCarpet07|3": "/Game/Art/Materials/Instances/MI_Plane_Stitch09.MI_Plane_Stitch09",
+  "Mid_lower_oven_power|1": "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12",
+  "Mid_lower_oven_heat_indicator|0": "/Game/Art/Materials/Instances/MI_Plane_SvcAmber12.MI_Plane_SvcAmber12",
+  "Mid_upper_oven_power|1": "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12",
+  "Mid_upper_oven_heat_indicator|0": "/Game/Art/Materials/Instances/MI_Plane_SvcAmber12.MI_Plane_SvcAmber12",
+  "Mid_coffee_brew|1": "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12",
+  "Mid_coffee_brew_indicator|0": "/Game/Art/Materials/Instances/MI_Plane_SvcGreen12.MI_Plane_SvcGreen12",
+  "Passenger service unit 0112|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 0112|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 01 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 01 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 01 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 01 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 0212|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 0212|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 02 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 02 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 02 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 02 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 0312|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 0312|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 03 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 03 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 03 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 03 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 0412|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 0412|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 04 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 04 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 04 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 04 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 0512|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 0512|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 05 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 05 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 05 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 05 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 0612|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 0612|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 06 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 06 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 06 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 06 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 0712|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 0712|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 07 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 07 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 07 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 07 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 0812|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 0812|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 08 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 08 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 08 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 08 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 0912|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 0912|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 09 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 09 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 09 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 09 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 1012|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 1012|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 10 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 10 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 10 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 10 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 1112|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 1112|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 11 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 11 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 11 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 11 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 1212|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 1212|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 12 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 12 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 12 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 12 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 1312|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 1312|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 13 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 13 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 13 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 13 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 1412|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 1412|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 14 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 14 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 14 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 14 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 1512|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 1512|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 15 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 15 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 15 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 15 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 1612|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 1612|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 16 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 16 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 16 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 16 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 1712|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 1712|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 17 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 17 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 17 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 17 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 1812|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 1812|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 18 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 18 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 18 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 18 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 1912|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 1912|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 19 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 19 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 19 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 19 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 2012|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 2012|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 20 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 20 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 20 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 20 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 2112|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 2112|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 21 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 21 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 21 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 21 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 2212|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 2212|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 22 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 22 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 22 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 22 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 2312|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 2312|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 23 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 23 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 23 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 23 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 2412|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 2412|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 24 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 24 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 24 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 24 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 2512|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 2512|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 25 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 25 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 25 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 25 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 2612|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 2612|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 26 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 26 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 26 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 26 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 2712|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 2712|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 27 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 27 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 27 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 27 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 2812|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 2812|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 28 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 28 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 28 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 28 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 2912|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 2912|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 29 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 29 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 29 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 29 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 3012|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 3012|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 30 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 30 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 30 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 30 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 3112|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 3112|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 31 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 31 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 31 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 31 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 3212|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 3212|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 32 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 32 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 32 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 32 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 3312|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 3312|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 33 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 33 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 33 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 33 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 3412|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 3412|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 34 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 34 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 34 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 34 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 3512|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 3512|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 35 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 35 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 35 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 35 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 3612|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 3612|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 36 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 36 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 36 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 36 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 3712|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 3712|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 37 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 37 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 37 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 37 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 3812|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 3812|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 38 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 38 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 38 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 38 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 3912|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 3912|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 39 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 39 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 39 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 39 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12",
+  "Passenger service unit 4012|5": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "Passenger service unit 4012|4": "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12",
+  "PSU 40 ReadKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 40 CallKey12|1": "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12",
+  "PSU 40 ReadIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12",
+  "PSU 40 CallIndicator12|0": "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12"
+ }
+}

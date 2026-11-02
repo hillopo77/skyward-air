@@ -1,0 +1,457 @@
+{
+  "status": "SUCCESS",
+  "control": {
+    "floor_below_checkin": "Airport38 coherent bounded floors",
+    "wall_to_the_west": "Airport38 complete physical perimeter and partitions",
+    "passed": true
+  },
+  "solidity": [
+    {
+      "actor": "Queue post31 0",
+      "kind": "queue post",
+      "trace_z": 0.668,
+      "start": [
+        -38.085,
+        -13.95,
+        0.668
+      ],
+      "end": [
+        -35.315,
+        -13.95,
+        0.668
+      ],
+      "hit": null,
+      "solid": false,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+      "profile": "NoCollision"
+    },
+    {
+      "actor": "Queue post31 1",
+      "kind": "queue post",
+      "trace_z": 0.668,
+      "start": [
+        -38.085,
+        -12.05,
+        0.668
+      ],
+      "end": [
+        -35.315,
+        -12.05,
+        0.668
+      ],
+      "hit": null,
+      "solid": false,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+      "profile": "NoCollision"
+    },
+    {
+      "actor": "Queue post31 2",
+      "kind": "queue post",
+      "trace_z": 0.668,
+      "start": [
+        -36.585,
+        -13.95,
+        0.668
+      ],
+      "end": [
+        -33.815,
+        -13.95,
+        0.668
+      ],
+      "hit": null,
+      "solid": false,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+      "profile": "NoCollision"
+    },
+    {
+      "actor": "Queue post31 3",
+      "kind": "queue post",
+      "trace_z": 0.668,
+      "start": [
+        -36.585,
+        -12.05,
+        0.668
+      ],
+      "end": [
+        -33.815,
+        -12.05,
+        0.668
+      ],
+      "hit": null,
+      "solid": false,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+      "profile": "NoCollision"
+    },
+    {
+      "actor": "Queue post31 4",
+      "kind": "queue post",
+      "trace_z": 0.668,
+      "start": [
+        -34.585,
+        -13.95,
+        0.668
+      ],
+      "end": [
+        -31.815,
+        -13.95,
+        0.668
+      ],
+      "hit": null,
+      "solid": false,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+      "profile": "NoCollision"
+    },
+    {
+      "actor": "Queue post31 5",
+      "kind": "queue post",
+      "trace_z": 0.668,
+      "start": [
+        -34.585,
+        -12.05,
+        0.668
+      ],
+      "end": [
+        -31.815,
+        -12.05,
+        0.668
+      ],
+      "hit": null,
+      "solid": false,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+      "profile": "NoCollision"
+    },
+    {
+      "actor": "Stanchion24_1725",
+      "kind": "stanchion",
+      "trace_z": 0.697,
+      "start": [
+        -48.18,
+        0.3,
+        0.697
+      ],
+      "end": [
+        -45.42,
+        0.3,
+        0.697
+      ],
+      "hit": null,
+      "solid": false,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+      "profile": "NoCollision"
+    },
+    {
+      "actor": "Stanchion24_1726",
+      "kind": "stanchion",
+      "trace_z": 0.697,
+      "start": [
+        -46.08,
+        0.3,
+        0.697
+      ],
+      "end": [
+        -43.32,
+        0.3,
+        0.697
+      ],
+      "hit": "Lane 01 tray station38",
+      "solid": false,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+      "profile": "NoCollision",
+      "note": "the trace was stopped by Lane 01 tray station38 before reaching this actor, so this run says nothing about whether it is solid"
+    },
+    {
+      "actor": "Stanchion24_1738",
+      "kind": "stanchion",
+      "trace_z": 0.697,
+      "start": [
+        -42.43,
+        0.3,
+        0.697
+      ],
+      "end": [
+        -39.67,
+        0.3,
+        0.697
+      ],
+      "hit": null,
+      "solid": false,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+      "profile": "NoCollision"
+    },
+    {
+      "actor": "Stanchion24_1739",
+      "kind": "stanchion",
+      "trace_z": 0.697,
+      "start": [
+        -40.33,
+        0.3,
+        0.697
+      ],
+      "end": [
+        -37.57,
+        0.3,
+        0.697
+      ],
+      "hit": "Lane 02 tray station38",
+      "solid": false,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+      "profile": "NoCollision",
+      "note": "the trace was stopped by Lane 02 tray station38 before reaching this actor, so this run says nothing about whether it is solid"
+    },
+    {
+      "actor": "X-ray scanner 01",
+      "kind": "scanner",
+      "trace_z": 1.4,
+      "start": [
+        -45.199,
+        3.0,
+        1.4
+      ],
+      "end": [
+        -40.54,
+        3.0,
+        1.4
+      ],
+      "hit": "Security portal 01",
+      "solid": false,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+      "profile": "BlockAll",
+      "note": "the trace was stopped by Security portal 01 before reaching this actor, so this run says nothing about whether it is solid"
+    },
+    {
+      "actor": "X-ray scanner 02",
+      "kind": "scanner",
+      "trace_z": 1.4,
+      "start": [
+        -40.099,
+        3.0,
+        1.4
+      ],
+      "end": [
+        -35.44,
+        3.0,
+        1.4
+      ],
+      "hit": "Security portal 02",
+      "solid": false,
+      "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+      "profile": "BlockAll",
+      "note": "the trace was stopped by Security portal 02 before reaching this actor, so this run says nothing about whether it is solid"
+    },
+    {
+      "actor": "Plant1224_1761",
+      "kind": "plant (P46-014)",
+      "trace_z": 1.4,
+      "start": [
+        -26.027,
+        -0.045,
+        1.4
+      ],
+      "end": [
+        -22.783,
+        -0.045,
+        1.4
+      ],
+      "hit": "Airport38 complete physical perimeter and partitions",
+      "solid": false,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll",
+      "note": "the trace was stopped by Airport38 complete physical perimeter and partitions before reaching this actor, so this run says nothing about whether it is solid"
+    },
+    {
+      "actor": "Plant1224_1771",
+      "kind": "plant (P46-014)",
+      "trace_z": 1.4,
+      "start": [
+        -26.627,
+        17.355,
+        1.4
+      ],
+      "end": [
+        -23.383,
+        17.355,
+        1.4
+      ],
+      "hit": "Plant1224_1771",
+      "solid": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Plant1224_1772",
+      "kind": "plant (P46-014)",
+      "trace_z": 1.4,
+      "start": [
+        -32.527,
+        3.955,
+        1.4
+      ],
+      "end": [
+        -29.283,
+        3.955,
+        1.4
+      ],
+      "hit": "Airport38 complete physical perimeter and partitions",
+      "solid": false,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll",
+      "note": "the trace was stopped by Airport38 complete physical perimeter and partitions before reaching this actor, so this run says nothing about whether it is solid"
+    },
+    {
+      "actor": "Plant1224_1773",
+      "kind": "plant (P46-014)",
+      "trace_z": 1.4,
+      "start": [
+        -32.627,
+        17.355,
+        1.4
+      ],
+      "end": [
+        -29.383,
+        17.355,
+        1.4
+      ],
+      "hit": "Airport38 complete physical perimeter and partitions",
+      "solid": false,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll",
+      "note": "the trace was stopped by Airport38 complete physical perimeter and partitions before reaching this actor, so this run says nothing about whether it is solid"
+    },
+    {
+      "actor": "Plant1224_1824",
+      "kind": "plant (P46-014)",
+      "trace_z": 1.4,
+      "start": [
+        -49.885,
+        -15.88,
+        1.4
+      ],
+      "end": [
+        -46.564,
+        -15.88,
+        1.4
+      ],
+      "hit": "Airport38 exterior glazing and observation panes",
+      "solid": false,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll",
+      "note": "the trace was stopped by Airport38 exterior glazing and observation panes before reaching this actor, so this run says nothing about whether it is solid"
+    },
+    {
+      "actor": "Plant1224_1825",
+      "kind": "plant (P46-014)",
+      "trace_z": 1.4,
+      "start": [
+        -49.935,
+        -8.93,
+        1.4
+      ],
+      "end": [
+        -46.614,
+        -8.93,
+        1.4
+      ],
+      "hit": "Airport38 exterior glazing and observation panes",
+      "solid": false,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll",
+      "note": "the trace was stopped by Airport38 exterior glazing and observation panes before reaching this actor, so this run says nothing about whether it is solid"
+    },
+    {
+      "actor": "Plant1224_1826",
+      "kind": "plant (P46-014)",
+      "trace_z": 1.4,
+      "start": [
+        -28.635,
+        -17.28,
+        1.4
+      ],
+      "end": [
+        -25.314,
+        -17.28,
+        1.4
+      ],
+      "hit": "Plant1224_1826",
+      "solid": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Plant1224_1827",
+      "kind": "plant (P46-014)",
+      "trace_z": 1.4,
+      "start": [
+        -16.527,
+        2.955,
+        1.4
+      ],
+      "end": [
+        -13.283,
+        2.955,
+        1.4
+      ],
+      "hit": "Plant1224_1827",
+      "solid": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Plant1224_1828",
+      "kind": "plant (P46-014)",
+      "trace_z": 1.4,
+      "start": [
+        -16.627,
+        9.205,
+        1.4
+      ],
+      "end": [
+        -13.383,
+        9.205,
+        1.4
+      ],
+      "hit": "Plant1224_1828",
+      "solid": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Plant1224_1829",
+      "kind": "plant (P46-014)",
+      "trace_z": 1.4,
+      "start": [
+        -35.027,
+        32.455,
+        1.4
+      ],
+      "end": [
+        -31.783,
+        32.455,
+        1.4
+      ],
+      "hit": "Plant1224_1829",
+      "solid": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    }
+  ],
+  "tunnels": [
+    {
+      "actor": "X-ray scanner 01",
+      "x": -43.15,
+      "z": 1.375,
+      "hit_along_bag_path": null,
+      "open": true,
+      "means": "clear for the scanned bag"
+    },
+    {
+      "actor": "X-ray scanner 02",
+      "x": -38.05,
+      "z": 1.375,
+      "hit_along_bag_path": null,
+      "open": true,
+      "means": "clear for the scanned bag"
+    }
+  ],
+  "missing": [],
+  "elapsed_s": 3.01500000001397
+}

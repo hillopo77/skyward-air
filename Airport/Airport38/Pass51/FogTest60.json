@@ -1,0 +1,17 @@
+{
+ "status": "SUCCESS",
+ "args": {
+  "fog": {
+   "enable_volumetric_fog": true,
+   "volumetric_fog_scattering_distribution": 0.75,
+   "volumetric_fog_extinction_scale": 6.0,
+   "volumetric_fog_distance": 3000.0
+  },
+  "sun": {
+   "volumetric_scattering_intensity": 6.0,
+   "cast_volumetric_shadow": true
+  }
+ },
+ "sun": true,
+ "fog": true
+}

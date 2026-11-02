@@ -1,0 +1,5232 @@
+{
+ "status": "SUCCESS",
+ "total": 402,
+ "shots": [
+  {
+   "index": 0,
+   "mesh": "SK_CH39_PassengerCrew",
+   "actor": "CH12 Queue passenger 1",
+   "kind": "SkeletalMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\000.png",
+   "clear": 1.0,
+   "size_m": [
+    0.63,
+    0.93,
+    2.17
+   ]
+  },
+  {
+   "index": 1,
+   "mesh": "SK_CH39_PassengerHoodie",
+   "actor": "CH12 Queue passenger 4",
+   "kind": "SkeletalMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\001.png",
+   "clear": 1.0,
+   "size_m": [
+    0.63,
+    0.93,
+    2.19
+   ]
+  },
+  {
+   "index": 2,
+   "mesh": "SK_CH39_PassengerSenior",
+   "actor": "CH12 Queue passenger 3",
+   "kind": "SkeletalMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\002.png",
+   "clear": 1.0,
+   "size_m": [
+    0.63,
+    0.93,
+    2.18
+   ]
+  },
+  {
+   "index": 3,
+   "mesh": "SK_CH39_PassengerTourist",
+   "actor": "CH12 Queue passenger 0",
+   "kind": "SkeletalMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\003.png",
+   "clear": 1.0,
+   "size_m": [
+    0.93,
+    0.63,
+    2.17
+   ]
+  },
+  {
+   "index": 4,
+   "mesh": "SK_CH39_PlayerBlue",
+   "actor": "CH12 Information host",
+   "kind": "SkeletalMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\004.png",
+   "clear": 1.0,
+   "size_m": [
+    1.06,
+    0.86,
+    2.2
+   ]
+  },
+  {
+   "index": 5,
+   "mesh": "SK_CH39_PlayerYellow",
+   "actor": "CH12 Gate pilot",
+   "kind": "SkeletalMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\005.png",
+   "clear": 1.0,
+   "size_m": [
+    0.64,
+    0.93,
+    2.2
+   ]
+  },
+  {
+   "index": 6,
+   "mesh": "SK_CH39_SecurityGuard",
+   "actor": "CH12 Security pilot",
+   "kind": "SkeletalMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\006.png",
+   "clear": 1.0,
+   "size_m": [
+    0.64,
+    0.93,
+    2.15
+   ]
+  },
+  {
+   "index": 7,
+   "mesh": "SK_Teal_Character",
+   "actor": "CharacterPack Player",
+   "kind": "SkeletalMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\007.png",
+   "clear": 1.0,
+   "size_m": [
+    1.03,
+    0.61,
+    1.9
+   ]
+  },
+  {
+   "index": 8,
+   "mesh": "SM_AP_A42ExpeditionDuffel",
+   "actor": "Cargo15 -1 bay04 tier1 ExpeditionDuffel 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\008.png",
+   "clear": 1.0,
+   "size_m": [
+    0.43,
+    0.88,
+    0.38
+   ]
+  },
+  {
+   "index": 9,
+   "mesh": "SM_AP_A42PSUCarrier",
+   "actor": "Passenger service unit 0112",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\009.png",
+   "clear": 0.0,
+   "size_m": [
+    0.33,
+    0.52,
+    0.11
+   ]
+  },
+  {
+   "index": 10,
+   "mesh": "SM_AP_A42Weekender",
+   "actor": "Cargo15 -1 bay02 tier0 Weekender 1",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\010.png",
+   "clear": 1.0,
+   "size_m": [
+    0.34,
+    0.47,
+    0.25
+   ]
+  },
+  {
+   "index": 11,
+   "mesh": "SM_AP_Apron34",
+   "actor": "Apron service details34",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\011.png",
+   "clear": 1.0,
+   "size_m": [
+    17.42,
+    16.02,
+    0.58
+   ]
+  },
+  {
+   "index": 12,
+   "mesh": "SM_AP_B40LapStowed",
+   "actor": "B40 stowed Business 01 A",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\012.png",
+   "clear": 1.0,
+   "size_m": [
+    0.66,
+    0.35,
+    0.03
+   ]
+  },
+  {
+   "index": 13,
+   "mesh": "SM_AP_B40LuxurySeatBase",
+   "actor": "Business 01 A",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\013.png",
+   "clear": 1.0,
+   "size_m": [
+    0.87,
+    0.9,
+    1.39
+   ]
+  },
+  {
+   "index": 14,
+   "mesh": "SM_AP_B40ReleaseLid",
+   "actor": "Business belt release 112",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\014.png",
+   "clear": 1.0,
+   "size_m": [
+    0.07,
+    0.03,
+    0.04
+   ]
+  },
+  {
+   "index": 15,
+   "mesh": "SM_AP_B41LapWornCrew",
+   "actor": "B40 worn Business 02 A",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\015.png",
+   "clear": 1.0,
+   "size_m": [
+    0.66,
+    0.6,
+    0.15
+   ]
+  },
+  {
+   "index": 16,
+   "mesh": "SM_AP_B41LapWornGeneric",
+   "actor": "B40 worn Business 01 A",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\016.png",
+   "clear": 1.0,
+   "size_m": [
+    0.66,
+    0.6,
+    0.15
+   ]
+  },
+  {
+   "index": 17,
+   "mesh": "SM_AP_BagBlue",
+   "actor": "Physical luggage 02",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\017.png",
+   "clear": 1.0,
+   "size_m": [
+    0.68,
+    0.57,
+    1.04
+   ]
+  },
+  {
+   "index": 18,
+   "mesh": "SM_AP_BagMint",
+   "actor": "Physical luggage 04",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\018.png",
+   "clear": 1.0,
+   "size_m": [
+    0.81,
+    0.82,
+    1.1
+   ]
+  },
+  {
+   "index": 19,
+   "mesh": "SM_AP_BagOrange",
+   "actor": "Physical luggage 01",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\019.png",
+   "clear": 1.0,
+   "size_m": [
+    0.59,
+    0.35,
+    1.04
+   ]
+  },
+  {
+   "index": 20,
+   "mesh": "SM_AP_BagPink",
+   "actor": "Physical luggage 03",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\020.png",
+   "clear": 1.0,
+   "size_m": [
+    0.5,
+    0.67,
+    1.04
+   ]
+  },
+  {
+   "index": 21,
+   "mesh": "SM_AP_BaggageBackdrop43",
+   "actor": "Airport43 baggage service backdrop",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\021.png",
+   "clear": 0.33,
+   "size_m": [
+    0.29,
+    9.98,
+    3.59
+   ]
+  },
+  {
+   "index": 22,
+   "mesh": "SM_AP_BaggageDetail38",
+   "actor": "Baggage handling fitted details38",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\022.png",
+   "clear": 0.38,
+   "size_m": [
+    4.18,
+    6.15,
+    2.74
+   ]
+  },
+  {
+   "index": 23,
+   "mesh": "SM_AP_Bakery36",
+   "actor": "BakeryCounter24_1778",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\023.png",
+   "clear": 1.0,
+   "size_m": [
+    2.0,
+    0.96,
+    1.72
+   ]
+  },
+  {
+   "index": 24,
+   "mesh": "SM_AP_Belt38",
+   "actor": "Bag drop belt 01",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\024.png",
+   "clear": 1.0,
+   "size_m": [
+    3.6,
+    1.49,
+    1.07
+   ]
+  },
+  {
+   "index": 25,
+   "mesh": "SM_AP_Bench27_Hardware40",
+   "actor": "Foyer two-seat waiting bench25",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\025.png",
+   "clear": 1.0,
+   "size_m": [
+    2.51,
+    0.68,
+    1.08
+   ]
+  },
+  {
+   "index": 26,
+   "mesh": "SM_AP_Bench29_Hardware40",
+   "actor": "Check-in waiting bench29",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\026.png",
+   "clear": 1.0,
+   "size_m": [
+    2.51,
+    0.68,
+    1.08
+   ]
+  },
+  {
+   "index": 27,
+   "mesh": "SM_AP_Bench34_Hardware40",
+   "actor": "Recompose bench24",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\027.png",
+   "clear": 1.0,
+   "size_m": [
+    0.72,
+    2.23,
+    1.16
+   ]
+  },
+  {
+   "index": 28,
+   "mesh": "SM_AP_Bins36",
+   "actor": "Cafe waste sorting36 entry",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\028.png",
+   "clear": 1.0,
+   "size_m": [
+    1.12,
+    0.57,
+    1.08
+   ]
+  },
+  {
+   "index": 29,
+   "mesh": "SM_AP_C43DashboardFixed",
+   "actor": "SM_Plane_AnalogDashboard",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\029.png",
+   "clear": 1.0,
+   "size_m": [
+    3.57,
+    0.92,
+    2.07
+   ]
+  },
+  {
+   "index": 30,
+   "mesh": "SM_AP_CafeChair34_Hardware40",
+   "actor": "CafeChair24_1783",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\030.png",
+   "clear": 1.0,
+   "size_m": [
+    0.81,
+    0.63,
+    1.16
+   ]
+  },
+  {
+   "index": 31,
+   "mesh": "SM_AP_CafeJoint38",
+   "actor": "Fitted cafe cabinet joints38",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\031.png",
+   "clear": 0.0,
+   "size_m": [
+    4.1,
+    0.85,
+    0.89
+   ]
+  },
+  {
+   "index": 32,
+   "mesh": "SM_AP_CafeTable34",
+   "actor": "CafeTable24_1782",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\032.png",
+   "clear": 1.0,
+   "size_m": [
+    1.2,
+    0.74,
+    0.77
+   ]
+  },
+  {
+   "index": 33,
+   "mesh": "SM_AP_Canopy38",
+   "actor": "Airport38 coherent covered forecourt",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\033.png",
+   "clear": 1.0,
+   "size_m": [
+    8.05,
+    17.5,
+    3.85
+   ]
+  },
+  {
+   "index": 34,
+   "mesh": "SM_AP_Carousel34",
+   "actor": "Reclaim carousel 01",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\034.png",
+   "clear": 0.93,
+   "size_m": [
+    4.65,
+    2.77,
+    0.75
+   ]
+  },
+  {
+   "index": 35,
+   "mesh": "SM_AP_CarryOn",
+   "actor": "Physical luggage 05",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\035.png",
+   "clear": 1.0,
+   "size_m": [
+    0.51,
+    0.45,
+    0.82
+   ]
+  },
+  {
+   "index": 36,
+   "mesh": "SM_AP_Charging34",
+   "actor": "ChargingTable24_1749",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\036.png",
+   "clear": 1.0,
+   "size_m": [
+    0.65,
+    2.8,
+    1.1
+   ]
+  },
+  {
+   "index": 37,
+   "mesh": "SM_AP_ControlTower34",
+   "actor": "ControlTower12_1950",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\037.png",
+   "clear": 1.0,
+   "size_m": [
+    13.12,
+    13.12,
+    39.15
+   ]
+  },
+  {
+   "index": 38,
+   "mesh": "SM_AP_Counter38",
+   "actor": "Check-in desk 01",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\038.png",
+   "clear": 1.0,
+   "size_m": [
+    1.05,
+    1.98,
+    1.76
+   ]
+  },
+  {
+   "index": 39,
+   "mesh": "SM_AP_CubicleDoor",
+   "actor": "Terminal WC 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\039.png",
+   "clear": 1.0,
+   "size_m": [
+    1.12,
+    0.18,
+    2.1
+   ]
+  },
+  {
+   "index": 40,
+   "mesh": "SM_AP_Curb",
+   "actor": "Forecourt kerb46 01",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\040.png",
+   "clear": 1.0,
+   "size_m": [
+    0.37,
+    1.96,
+    0.25
+   ]
+  },
+  {
+   "index": 41,
+   "mesh": "SM_AP_Dolly34",
+   "actor": "Tow dolly 1",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\041.png",
+   "clear": 1.0,
+   "size_m": [
+    1.65,
+    3.57,
+    1.21
+   ]
+  },
+  {
+   "index": 42,
+   "mesh": "SM_AP_DoorRelease",
+   "actor": "WC release 0 outside",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\042.png",
+   "clear": 1.0,
+   "size_m": [
+    0.14,
+    0.06,
+    0.22
+   ]
+  },
+  {
+   "index": 43,
+   "mesh": "SM_AP_E39CockpitShellClean",
+   "actor": "SM_Plane_CockpitShell",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\043.png",
+   "clear": 1.0,
+   "size_m": [
+    4.86,
+    6.86,
+    2.72
+   ]
+  },
+  {
+   "index": 44,
+   "mesh": "SM_AP_E39PassengerDoorL",
+   "actor": "Aircraft door 1L",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\044.png",
+   "clear": 1.0,
+   "size_m": [
+    1.1,
+    0.57,
+    1.87
+   ]
+  },
+  {
+   "index": 45,
+   "mesh": "SM_AP_E39PassengerDoorR",
+   "actor": "Aircraft door 1R",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\045.png",
+   "clear": 1.0,
+   "size_m": [
+    0.31,
+    1.06,
+    1.82
+   ]
+  },
+  {
+   "index": 46,
+   "mesh": "SM_AP_EmergencyStop38",
+   "actor": "Security belt 01 emergency stop38",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\046.png",
+   "clear": 1.0,
+   "size_m": [
+    0.35,
+    0.22,
+    0.29
+   ]
+  },
+  {
+   "index": 47,
+   "mesh": "SM_AP_Espresso36",
+   "actor": "Poly Haven coffee cart24",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\047.png",
+   "clear": 1.0,
+   "size_m": [
+    2.0,
+    0.94,
+    1.72
+   ]
+  },
+  {
+   "index": 48,
+   "mesh": "SM_AP_Extinguisher11",
+   "actor": "Usable extinguisher 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\048.png",
+   "clear": 1.0,
+   "size_m": [
+    0.36,
+    0.3,
+    0.74
+   ]
+  },
+  {
+   "index": 49,
+   "mesh": "SM_AP_F39GearFixed",
+   "actor": "SM_Plane_LandingGear",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\049.png",
+   "clear": 0.04,
+   "size_m": [
+    10.3,
+    24.8,
+    1.0
+   ]
+  },
+  {
+   "index": 50,
+   "mesh": "SM_AP_F39Gear_main_L",
+   "actor": "Flight39 gear main_L",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\050.png",
+   "clear": 1.0,
+   "size_m": [
+    1.12,
+    2.52,
+    2.71
+   ]
+  },
+  {
+   "index": 51,
+   "mesh": "SM_AP_F39Gear_main_R",
+   "actor": "Flight39 gear main_R",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\051.png",
+   "clear": 1.0,
+   "size_m": [
+    1.12,
+    2.52,
+    2.71
+   ]
+  },
+  {
+   "index": 52,
+   "mesh": "SM_AP_F39Gear_main_door_L",
+   "actor": "Flight39 gear main_door_L",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\052.png",
+   "clear": 1.0,
+   "size_m": [
+    0.05,
+    1.56,
+    1.21
+   ]
+  },
+  {
+   "index": 53,
+   "mesh": "SM_AP_F39Gear_main_door_R",
+   "actor": "Flight39 gear main_door_R",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\053.png",
+   "clear": 1.0,
+   "size_m": [
+    0.05,
+    1.56,
+    1.21
+   ]
+  },
+  {
+   "index": 54,
+   "mesh": "SM_AP_F39Gear_nose",
+   "actor": "Flight39 gear nose",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\054.png",
+   "clear": 1.0,
+   "size_m": [
+    0.96,
+    1.38,
+    3.04
+   ]
+  },
+  {
+   "index": 55,
+   "mesh": "SM_AP_F39Gear_nose_door_L",
+   "actor": "Flight39 gear nose_door_L",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\055.png",
+   "clear": 1.0,
+   "size_m": [
+    0.05,
+    1.29,
+    1.32
+   ]
+  },
+  {
+   "index": 56,
+   "mesh": "SM_AP_F39Gear_nose_door_R",
+   "actor": "Flight39 gear nose_door_R",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\056.png",
+   "clear": 1.0,
+   "size_m": [
+    0.05,
+    1.29,
+    1.32
+   ]
+  },
+  {
+   "index": 57,
+   "mesh": "SM_AP_F39Needle_00",
+   "actor": "Flight39 instrument airspeed",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\057.png",
+   "clear": 0.0,
+   "size_m": [
+    0.04,
+    0.02,
+    0.04
+   ]
+  },
+  {
+   "index": 58,
+   "mesh": "SM_AP_F39Needle_01",
+   "actor": "Flight39 instrument altitude",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\058.png",
+   "clear": 0.0,
+   "size_m": [
+    0.04,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 59,
+   "mesh": "SM_AP_F39Needle_02",
+   "actor": "Flight39 instrument fuel",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\059.png",
+   "clear": 0.0,
+   "size_m": [
+    0.03,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 60,
+   "mesh": "SM_AP_F39Needle_03",
+   "actor": "Flight39 instrument temperature",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\060.png",
+   "clear": 1.0,
+   "size_m": [
+    0.04,
+    0.04,
+    0.04
+   ]
+  },
+  {
+   "index": 61,
+   "mesh": "SM_AP_F39Needle_04",
+   "actor": "Flight39 instrument vertical_speed",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\061.png",
+   "clear": 0.0,
+   "size_m": [
+    0.08,
+    0.04,
+    0.07
+   ]
+  },
+  {
+   "index": 62,
+   "mesh": "SM_AP_F39Needle_05",
+   "actor": "Flight39 instrument engine_rpm",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\062.png",
+   "clear": 1.0,
+   "size_m": [
+    0.06,
+    0.04,
+    0.05
+   ]
+  },
+  {
+   "index": 63,
+   "mesh": "SM_AP_F39Needle_06",
+   "actor": "Flight39 instrument oil_pressure",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\063.png",
+   "clear": 1.0,
+   "size_m": [
+    0.06,
+    0.06,
+    0.07
+   ]
+  },
+  {
+   "index": 64,
+   "mesh": "SM_AP_F39Surface_00",
+   "actor": "Flight39 flap 00",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\064.png",
+   "clear": 1.0,
+   "size_m": [
+    2.16,
+    1.79,
+    0.49
+   ]
+  },
+  {
+   "index": 65,
+   "mesh": "SM_AP_F39Surface_01",
+   "actor": "Flight39 flap 01",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\065.png",
+   "clear": 1.0,
+   "size_m": [
+    4.01,
+    1.95,
+    0.56
+   ]
+  },
+  {
+   "index": 66,
+   "mesh": "SM_AP_F39Surface_02",
+   "actor": "Flight39 flap 02",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\066.png",
+   "clear": 1.0,
+   "size_m": [
+    4.93,
+    2.21,
+    0.6
+   ]
+  },
+  {
+   "index": 67,
+   "mesh": "SM_AP_F39Surface_03",
+   "actor": "Flight39 aileron 03",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\067.png",
+   "clear": 1.0,
+   "size_m": [
+    5.09,
+    1.9,
+    0.63
+   ]
+  },
+  {
+   "index": 68,
+   "mesh": "SM_AP_F39Surface_04",
+   "actor": "Flight39 aileron 04",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\068.png",
+   "clear": 1.0,
+   "size_m": [
+    4.16,
+    1.15,
+    0.57
+   ]
+  },
+  {
+   "index": 69,
+   "mesh": "SM_AP_F39Surface_05",
+   "actor": "Flight39 elevator 05",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\069.png",
+   "clear": 1.0,
+   "size_m": [
+    4.6,
+    1.36,
+    0.62
+   ]
+  },
+  {
+   "index": 70,
+   "mesh": "SM_AP_F39Surface_06",
+   "actor": "Flight39 flap 06",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\070.png",
+   "clear": 1.0,
+   "size_m": [
+    2.16,
+    1.79,
+    0.49
+   ]
+  },
+  {
+   "index": 71,
+   "mesh": "SM_AP_F39Surface_07",
+   "actor": "Flight39 flap 07",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\071.png",
+   "clear": 1.0,
+   "size_m": [
+    4.01,
+    1.95,
+    0.56
+   ]
+  },
+  {
+   "index": 72,
+   "mesh": "SM_AP_F39Surface_08",
+   "actor": "Flight39 flap 08",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\072.png",
+   "clear": 1.0,
+   "size_m": [
+    4.93,
+    2.21,
+    0.6
+   ]
+  },
+  {
+   "index": 73,
+   "mesh": "SM_AP_F39Surface_09",
+   "actor": "Flight39 aileron 09",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\073.png",
+   "clear": 1.0,
+   "size_m": [
+    5.09,
+    1.9,
+    0.63
+   ]
+  },
+  {
+   "index": 74,
+   "mesh": "SM_AP_F39Surface_10",
+   "actor": "Flight39 aileron 10",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\074.png",
+   "clear": 1.0,
+   "size_m": [
+    4.16,
+    1.15,
+    0.57
+   ]
+  },
+  {
+   "index": 75,
+   "mesh": "SM_AP_F39Surface_11",
+   "actor": "Flight39 elevator 11",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\075.png",
+   "clear": 1.0,
+   "size_m": [
+    4.6,
+    1.36,
+    0.62
+   ]
+  },
+  {
+   "index": 76,
+   "mesh": "SM_AP_F39Surface_12",
+   "actor": "Flight39 rudder 12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\076.png",
+   "clear": 1.0,
+   "size_m": [
+    0.3,
+    1.42,
+    5.3
+   ]
+  },
+  {
+   "index": 77,
+   "mesh": "SM_AP_FireStand11",
+   "actor": "Safety station 1",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\077.png",
+   "clear": 1.0,
+   "size_m": [
+    0.71,
+    0.8,
+    1.88
+   ]
+  },
+  {
+   "index": 78,
+   "mesh": "SM_AP_GalleryStair35",
+   "actor": "Crafted GalleryStair35",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\078.png",
+   "clear": 0.46,
+   "size_m": [
+    8.05,
+    16.84,
+    4.27
+   ]
+  },
+  {
+   "index": 79,
+   "mesh": "SM_AP_GardenBench",
+   "actor": "Forecourt garden bench46 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\079.png",
+   "clear": 0.01,
+   "size_m": [
+    2.27,
+    4.9,
+    1.36
+   ]
+  },
+  {
+   "index": 80,
+   "mesh": "SM_AP_GateDoor",
+   "actor": "Entrance sliding leaf -13.175",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\080.png",
+   "clear": 1.0,
+   "size_m": [
+    0.21,
+    1.35,
+    2.7
+   ]
+  },
+  {
+   "index": 81,
+   "mesh": "SM_AP_GroundPower34",
+   "actor": "GroundPower12_1954",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\081.png",
+   "clear": 1.0,
+   "size_m": [
+    1.9,
+    2.7,
+    1.26
+   ]
+  },
+  {
+   "index": 82,
+   "mesh": "SM_AP_Header130",
+   "actor": "Check-in service header29 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\082.png",
+   "clear": 0.5,
+   "size_m": [
+    0.21,
+    3.34,
+    0.66
+   ]
+  },
+  {
+   "index": 83,
+   "mesh": "SM_AP_Header230",
+   "actor": "Check-in service header29 1",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\083.png",
+   "clear": 0.5,
+   "size_m": [
+    0.21,
+    3.34,
+    0.66
+   ]
+  },
+  {
+   "index": 84,
+   "mesh": "SM_AP_Information27",
+   "actor": "Foyer information and departures25",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\084.png",
+   "clear": 1.0,
+   "size_m": [
+    0.84,
+    2.26,
+    2.67
+   ]
+  },
+  {
+   "index": 85,
+   "mesh": "SM_AP_Join30",
+   "actor": "Queue entry marker29",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\085.png",
+   "clear": 1.0,
+   "size_m": [
+    0.4,
+    0.82,
+    1.57
+   ]
+  },
+  {
+   "index": 86,
+   "mesh": "SM_AP_Kiosk",
+   "actor": "Self-service kiosk24 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\086.png",
+   "clear": 1.0,
+   "size_m": [
+    0.66,
+    0.63,
+    1.65
+   ]
+  },
+  {
+   "index": 87,
+   "mesh": "SM_AP_MobileStairs",
+   "actor": "MobileStairs12_1953",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\087.png",
+   "clear": 1.0,
+   "size_m": [
+    2.31,
+    8.17,
+    4.68
+   ]
+  },
+  {
+   "index": 88,
+   "mesh": "SM_AP_OperatorChair",
+   "actor": "OperatorChair24_1724",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\088.png",
+   "clear": 0.48,
+   "size_m": [
+    0.74,
+    0.66,
+    1.14
+   ]
+  },
+  {
+   "index": 89,
+   "mesh": "SM_AP_OperatorConsole36",
+   "actor": "Security operator24 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\089.png",
+   "clear": 1.0,
+   "size_m": [
+    0.8,
+    1.45,
+    1.73
+   ]
+  },
+  {
+   "index": 90,
+   "mesh": "SM_AP_Outfeed38",
+   "actor": "Lane 01 receiving station38",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\090.png",
+   "clear": 1.0,
+   "size_m": [
+    1.13,
+    0.74,
+    1.0
+   ]
+  },
+  {
+   "index": 91,
+   "mesh": "SM_AP_OvalTable36",
+   "actor": "A07 lounge coffee table36",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\091.png",
+   "clear": 1.0,
+   "size_m": [
+    1.25,
+    0.68,
+    0.58
+   ]
+  },
+  {
+   "index": 92,
+   "mesh": "SM_AP_P38B_A00",
+   "actor": "Bridge38 bank A sleeve 00",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\092.png",
+   "clear": 1.0,
+   "size_m": [
+    4.31,
+    4.23,
+    3.08
+   ]
+  },
+  {
+   "index": 93,
+   "mesh": "SM_AP_P38B_A01",
+   "actor": "Bridge38 bank A sleeve 01",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\093.png",
+   "clear": 1.0,
+   "size_m": [
+    4.29,
+    4.16,
+    3.05
+   ]
+  },
+  {
+   "index": 94,
+   "mesh": "SM_AP_P38B_A02",
+   "actor": "Bridge38 bank A sleeve 02",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\094.png",
+   "clear": 1.0,
+   "size_m": [
+    4.26,
+    4.09,
+    3.02
+   ]
+  },
+  {
+   "index": 95,
+   "mesh": "SM_AP_P38B_A03",
+   "actor": "Bridge38 bank A sleeve 03",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\095.png",
+   "clear": 1.0,
+   "size_m": [
+    4.23,
+    4.02,
+    2.99
+   ]
+  },
+  {
+   "index": 96,
+   "mesh": "SM_AP_P38B_B00",
+   "actor": "Bridge38 bank B sleeve 00",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\096.png",
+   "clear": 1.0,
+   "size_m": [
+    4.21,
+    4.05,
+    3.08
+   ]
+  },
+  {
+   "index": 97,
+   "mesh": "SM_AP_P38B_B01",
+   "actor": "Bridge38 bank B sleeve 01",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\097.png",
+   "clear": 1.0,
+   "size_m": [
+    4.18,
+    3.98,
+    3.05
+   ]
+  },
+  {
+   "index": 98,
+   "mesh": "SM_AP_P38B_B02",
+   "actor": "Bridge38 bank B sleeve 02",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\098.png",
+   "clear": 1.0,
+   "size_m": [
+    4.16,
+    3.91,
+    3.02
+   ]
+  },
+  {
+   "index": 99,
+   "mesh": "SM_AP_P38B_B03",
+   "actor": "Bridge38 bank B sleeve 03",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\099.png",
+   "clear": 1.0,
+   "size_m": [
+    4.13,
+    3.84,
+    2.99
+   ]
+  },
+  {
+   "index": 100,
+   "mesh": "SM_AP_P38B_B04",
+   "actor": "Bridge38 bank B sleeve 04",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\100.png",
+   "clear": 1.0,
+   "size_m": [
+    4.11,
+    3.77,
+    2.96
+   ]
+  },
+  {
+   "index": 101,
+   "mesh": "SM_AP_P38B_bridge_control",
+   "actor": "Bridge38 departure control",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\101.png",
+   "clear": 1.0,
+   "size_m": [
+    0.2,
+    0.36,
+    0.52
+   ]
+  },
+  {
+   "index": 102,
+   "mesh": "SM_AP_P38B_cab_joint",
+   "actor": "Bridge38 cab mitre",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\102.png",
+   "clear": 0.43,
+   "size_m": [
+    3.31,
+    3.15,
+    3.09
+   ]
+  },
+  {
+   "index": 103,
+   "mesh": "SM_AP_P38B_docking_cab",
+   "actor": "Bridge38 docking cab",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\103.png",
+   "clear": 1.0,
+   "size_m": [
+    3.53,
+    3.13,
+    3.12
+   ]
+  },
+  {
+   "index": 104,
+   "mesh": "SM_AP_P38B_elbow_chamber",
+   "actor": "Bridge38 elbow chamber",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\104.png",
+   "clear": 0.45,
+   "size_m": [
+    3.16,
+    3.54,
+    3.09
+   ]
+  },
+  {
+   "index": 105,
+   "mesh": "SM_AP_P38B_lift",
+   "actor": "Bridge38 A lift",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\105.png",
+   "clear": 1.0,
+   "size_m": [
+    0.9,
+    0.55,
+    3.26
+   ]
+  },
+  {
+   "index": 106,
+   "mesh": "SM_AP_P38B_parking_pad",
+   "actor": "Ground crew parking bay38",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\106.png",
+   "clear": 1.0,
+   "size_m": [
+    3.0,
+    28.5,
+    0.38
+   ]
+  },
+  {
+   "index": 107,
+   "mesh": "SM_AP_P38B_pivot_chamber",
+   "actor": "Bridge38 pivot chamber",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\107.png",
+   "clear": 1.0,
+   "size_m": [
+    3.4,
+    3.17,
+    3.09
+   ]
+  },
+  {
+   "index": 108,
+   "mesh": "SM_AP_P38B_terminal_neck",
+   "actor": "Bridge38 terminal neck",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\108.png",
+   "clear": 1.0,
+   "size_m": [
+    1.9,
+    3.0,
+    3.0
+   ]
+  },
+  {
+   "index": 109,
+   "mesh": "SM_AP_P38B_truck",
+   "actor": "Bridge38 A truck",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\109.png",
+   "clear": 0.0,
+   "size_m": [
+    2.2,
+    1.88,
+    0.58
+   ]
+  },
+  {
+   "index": 110,
+   "mesh": "SM_AP_P45B_Closure00",
+   "actor": "P45 bridge closure 00",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\110.png",
+   "clear": 1.0,
+   "size_m": [
+    3.07,
+    0.64,
+    2.34
+   ]
+  },
+  {
+   "index": 111,
+   "mesh": "SM_AP_P45B_Closure01",
+   "actor": "P45 bridge closure 01",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\111.png",
+   "clear": 1.0,
+   "size_m": [
+    1.95,
+    0.44,
+    2.34
+   ]
+  },
+  {
+   "index": 112,
+   "mesh": "SM_AP_P45B_Closure02",
+   "actor": "P45 bridge closure 02",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\112.png",
+   "clear": 1.0,
+   "size_m": [
+    1.85,
+    0.46,
+    2.34
+   ]
+  },
+  {
+   "index": 113,
+   "mesh": "SM_AP_P45B_Closure03",
+   "actor": "P45 bridge closure 03",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\113.png",
+   "clear": 0.96,
+   "size_m": [
+    1.46,
+    0.11,
+    2.34
+   ]
+  },
+  {
+   "index": 114,
+   "mesh": "SM_AP_P45B_Closure04",
+   "actor": "P45 bridge closure 04",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\114.png",
+   "clear": 1.0,
+   "size_m": [
+    1.3,
+    0.61,
+    2.34
+   ]
+  },
+  {
+   "index": 115,
+   "mesh": "SM_AP_P45B_Closure05",
+   "actor": "P45 bridge closure 05",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\115.png",
+   "clear": 1.0,
+   "size_m": [
+    1.26,
+    0.35,
+    2.34
+   ]
+  },
+  {
+   "index": 116,
+   "mesh": "SM_AP_P45B_Closure06",
+   "actor": "P45 bridge closure 06",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\116.png",
+   "clear": 1.0,
+   "size_m": [
+    1.26,
+    0.14,
+    2.34
+   ]
+  },
+  {
+   "index": 117,
+   "mesh": "SM_AP_P45B_Closure07",
+   "actor": "P45 bridge closure 07",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\117.png",
+   "clear": 1.0,
+   "size_m": [
+    1.01,
+    0.26,
+    2.34
+   ]
+  },
+  {
+   "index": 118,
+   "mesh": "SM_AP_P45B_Closure08",
+   "actor": "P45 bridge closure 08",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\118.png",
+   "clear": 1.0,
+   "size_m": [
+    0.75,
+    0.36,
+    2.34
+   ]
+  },
+  {
+   "index": 119,
+   "mesh": "SM_AP_P45B_Closure09",
+   "actor": "P45 bridge closure 09",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\119.png",
+   "clear": 1.0,
+   "size_m": [
+    0.72,
+    0.25,
+    2.34
+   ]
+  },
+  {
+   "index": 120,
+   "mesh": "SM_AP_P45B_Closure10",
+   "actor": "P45 bridge closure 10",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\120.png",
+   "clear": 1.0,
+   "size_m": [
+    0.56,
+    0.11,
+    2.34
+   ]
+  },
+  {
+   "index": 121,
+   "mesh": "SM_AP_P45B_Closure11",
+   "actor": "P45 bridge closure 11",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\121.png",
+   "clear": 1.0,
+   "size_m": [
+    1.09,
+    0.21,
+    2.34
+   ]
+  },
+  {
+   "index": 122,
+   "mesh": "SM_AP_P46M_Header0",
+   "actor": "P46 header mount Header0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\122.png",
+   "clear": 0.19,
+   "size_m": [
+    0.16,
+    2.6,
+    0.65
+   ]
+  },
+  {
+   "index": 123,
+   "mesh": "SM_AP_P46M_Header1",
+   "actor": "P46 header mount Header1",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\123.png",
+   "clear": 0.19,
+   "size_m": [
+    0.16,
+    2.6,
+    0.65
+   ]
+  },
+  {
+   "index": 124,
+   "mesh": "SM_AP_PH_Camera24",
+   "actor": "Security camera24",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\124.png",
+   "clear": 1.0,
+   "size_m": [
+    0.14,
+    0.39,
+    0.21
+   ]
+  },
+  {
+   "index": 125,
+   "mesh": "SM_AP_PH_Succulent24",
+   "actor": "Small potted plant24",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\125.png",
+   "clear": 1.0,
+   "size_m": [
+    0.17,
+    0.18,
+    0.27
+   ]
+  },
+  {
+   "index": 126,
+   "mesh": "SM_AP_POS36",
+   "actor": "RegisterCounter24_1779",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\126.png",
+   "clear": 1.0,
+   "size_m": [
+    2.0,
+    0.96,
+    1.62
+   ]
+  },
+  {
+   "index": 127,
+   "mesh": "SM_AP_Plant12",
+   "actor": "Plant1224_1761",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\127.png",
+   "clear": 1.0,
+   "size_m": [
+    0.84,
+    0.8,
+    2.38
+   ]
+  },
+  {
+   "index": 128,
+   "mesh": "SM_AP_Planter27",
+   "actor": "Plant1224_1824",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\128.png",
+   "clear": 1.0,
+   "size_m": [
+    0.92,
+    0.87,
+    2.21
+   ]
+  },
+  {
+   "index": 129,
+   "mesh": "SM_AP_Portal34",
+   "actor": "Security portal 01",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\129.png",
+   "clear": 1.0,
+   "size_m": [
+    1.77,
+    0.7,
+    2.63
+   ]
+  },
+  {
+   "index": 130,
+   "mesh": "SM_AP_PreparationGuide38",
+   "actor": "Security preparation mounted guide38",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\130.png",
+   "clear": 1.0,
+   "size_m": [
+    1.85,
+    0.2,
+    0.45
+   ]
+  },
+  {
+   "index": 131,
+   "mesh": "SM_AP_QueueArrow",
+   "actor": "QueueArrow24_1727",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\131.png",
+   "clear": 1.0,
+   "size_m": [
+    0.56,
+    0.9,
+    0.0
+   ]
+  },
+  {
+   "index": 132,
+   "mesh": "SM_AP_QueuePost30",
+   "actor": "Queue post31 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\132.png",
+   "clear": 1.0,
+   "size_m": [
+    0.37,
+    0.37,
+    1.03
+   ]
+  },
+  {
+   "index": 133,
+   "mesh": "SM_AP_QueueRibbon30",
+   "actor": "Queue ribbon31 6",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\133.png",
+   "clear": 1.0,
+   "size_m": [
+    1.5,
+    0.03,
+    0.07
+   ]
+  },
+  {
+   "index": 134,
+   "mesh": "SM_AP_Recycling38",
+   "actor": "Recycling24_1810",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\134.png",
+   "clear": 1.0,
+   "size_m": [
+    0.81,
+    0.49,
+    0.99
+   ]
+  },
+  {
+   "index": 135,
+   "mesh": "SM_AP_RouteHierarchy39",
+   "actor": "Airport39 restrained route hierarchy",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\135.png",
+   "clear": 0.0,
+   "size_m": [
+    24.0,
+    13.73,
+    2.43
+   ]
+  },
+  {
+   "index": 136,
+   "mesh": "SM_AP_SafetyStation27",
+   "actor": "Safety station 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\136.png",
+   "clear": 1.0,
+   "size_m": [
+    0.7,
+    0.72,
+    1.67
+   ]
+  },
+  {
+   "index": 137,
+   "mesh": "SM_AP_Scanner38",
+   "actor": "X-ray scanner 01",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\137.png",
+   "clear": 1.0,
+   "size_m": [
+    2.26,
+    2.21,
+    2.18
+   ]
+  },
+  {
+   "index": 138,
+   "mesh": "SM_AP_ScannerCurtain38",
+   "actor": "Scanner 01 front curtain38",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\138.png",
+   "clear": 1.0,
+   "size_m": [
+    1.35,
+    0.06,
+    1.1
+   ]
+  },
+  {
+   "index": 139,
+   "mesh": "SM_AP_ScreenBoard",
+   "actor": "Compact departures display",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\139.png",
+   "clear": 1.0,
+   "size_m": [
+    0.13,
+    1.97,
+    1.08
+   ]
+  },
+  {
+   "index": 140,
+   "mesh": "SM_AP_ScreeningGlass36",
+   "actor": "Screening exit24 leaf 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\140.png",
+   "clear": 1.0,
+   "size_m": [
+    0.21,
+    1.2,
+    2.7
+   ]
+  },
+  {
+   "index": 141,
+   "mesh": "SM_AP_ServiceDoor38",
+   "actor": "Baggage service door38",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\141.png",
+   "clear": 1.0,
+   "size_m": [
+    0.23,
+    1.1,
+    2.6
+   ]
+  },
+  {
+   "index": 142,
+   "mesh": "SM_AP_ServingCup38",
+   "actor": "Cloud Nine serving cup38",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\142.png",
+   "clear": 1.0,
+   "size_m": [
+    0.15,
+    0.11,
+    0.13
+   ]
+  },
+  {
+   "index": 143,
+   "mesh": "SM_AP_ServingSaucer38",
+   "actor": "Cloud Nine supported cup saucer38",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\143.png",
+   "clear": 1.0,
+   "size_m": [
+    0.39,
+    0.25,
+    0.1
+   ]
+  },
+  {
+   "index": 144,
+   "mesh": "SM_AP_ShuttleBus",
+   "actor": "Forecourt shuttle bus46",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\144.png",
+   "clear": 1.0,
+   "size_m": [
+    2.6,
+    9.03,
+    3.17
+   ]
+  },
+  {
+   "index": 145,
+   "mesh": "SM_AP_Sofa36",
+   "actor": "A07 upholstered sofa36",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\145.png",
+   "clear": 1.0,
+   "size_m": [
+    2.17,
+    0.84,
+    0.93
+   ]
+  },
+  {
+   "index": 146,
+   "mesh": "SM_AP_SprayCloud11",
+   "actor": "Extinguisher powder effect",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\146.png",
+   "clear": 1.0,
+   "size_m": [
+    1.13,
+    2.32,
+    1.14
+   ]
+  },
+  {
+   "index": 147,
+   "mesh": "SM_AP_StaffStorage38",
+   "actor": "RetailShelf24_1814",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\147.png",
+   "clear": 1.0,
+   "size_m": [
+    0.54,
+    1.5,
+    2.46
+   ]
+  },
+  {
+   "index": 148,
+   "mesh": "SM_AP_Stanchion",
+   "actor": "Stanchion24_1725",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\148.png",
+   "clear": 1.0,
+   "size_m": [
+    0.36,
+    0.36,
+    1.07
+   ]
+  },
+  {
+   "index": 149,
+   "mesh": "SM_AP_Streetlight",
+   "actor": "Forecourt streetlight46 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\149.png",
+   "clear": 1.0,
+   "size_m": [
+    1.75,
+    0.44,
+    5.81
+   ]
+  },
+  {
+   "index": 150,
+   "mesh": "SM_AP_TableSetting36",
+   "actor": "Cafe tabletop setting36 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\150.png",
+   "clear": 1.0,
+   "size_m": [
+    0.61,
+    0.41,
+    0.13
+   ]
+  },
+  {
+   "index": 151,
+   "mesh": "SM_AP_TaxiCar",
+   "actor": "Forecourt taxi46 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\151.png",
+   "clear": 0.0,
+   "size_m": [
+    1.97,
+    4.55,
+    1.72
+   ]
+  },
+  {
+   "index": 152,
+   "mesh": "SM_AP_Tea36",
+   "actor": "TeaCounter24_1780",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\152.png",
+   "clear": 1.0,
+   "size_m": [
+    2.0,
+    0.96,
+    1.66
+   ]
+  },
+  {
+   "index": 153,
+   "mesh": "SM_AP_Toilet34",
+   "actor": "Toilet24_1798",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\153.png",
+   "clear": 1.0,
+   "size_m": [
+    0.58,
+    0.9,
+    0.93
+   ]
+  },
+  {
+   "index": 154,
+   "mesh": "SM_AP_Transfer38",
+   "actor": "Bag receiving bed38 01",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\154.png",
+   "clear": 1.0,
+   "size_m": [
+    3.4,
+    1.27,
+    1.14
+   ]
+  },
+  {
+   "index": 155,
+   "mesh": "SM_AP_Transitions39",
+   "actor": "Airport39 fitted room transitions",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\155.png",
+   "clear": 0.08,
+   "size_m": [
+    17.28,
+    31.24,
+    3.46
+   ]
+  },
+  {
+   "index": 156,
+   "mesh": "SM_AP_TravelStorage38",
+   "actor": "RetailShelf24_1832",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\156.png",
+   "clear": 1.0,
+   "size_m": [
+    1.5,
+    0.54,
+    2.46
+   ]
+  },
+  {
+   "index": 157,
+   "mesh": "SM_AP_Tray",
+   "actor": "Tray24_1719",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\157.png",
+   "clear": 1.0,
+   "size_m": [
+    0.59,
+    0.43,
+    0.13
+   ]
+  },
+  {
+   "index": 158,
+   "mesh": "SM_AP_TrayStation38",
+   "actor": "Lane 01 tray station38",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\158.png",
+   "clear": 1.0,
+   "size_m": [
+    0.68,
+    0.5,
+    0.82
+   ]
+  },
+  {
+   "index": 159,
+   "mesh": "SM_AP_Tree",
+   "actor": "Forecourt tree46 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\159.png",
+   "clear": 1.0,
+   "size_m": [
+    7.84,
+    7.71,
+    8.52
+   ]
+  },
+  {
+   "index": 160,
+   "mesh": "SM_AP_Trolley",
+   "actor": "Trolley24_1820",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\160.png",
+   "clear": 1.0,
+   "size_m": [
+    0.72,
+    1.16,
+    1.11
+   ]
+  },
+  {
+   "index": 161,
+   "mesh": "SM_AP_Tug34",
+   "actor": "Driveable electric baggage tug",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\161.png",
+   "clear": 1.0,
+   "size_m": [
+    1.63,
+    2.72,
+    1.51
+   ]
+  },
+  {
+   "index": 162,
+   "mesh": "SM_AP_Vanity34",
+   "actor": "Vanity24_1808",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\162.png",
+   "clear": 0.85,
+   "size_m": [
+    2.5,
+    1.25,
+    2.29
+   ]
+  },
+  {
+   "index": 163,
+   "mesh": "SM_AP_W40CargoBayWindows",
+   "actor": "Forward lower cargo pressure bay",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\163.png",
+   "clear": 1.0,
+   "size_m": [
+    5.07,
+    1.35,
+    5.15
+   ]
+  },
+  {
+   "index": 164,
+   "mesh": "SM_AP_W40PressureWindows",
+   "actor": "SM_Plane_OuterWindowBarrel bay10 01",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\164.png",
+   "clear": 0.6,
+   "size_m": [
+    5.0,
+    1.35,
+    5.15
+   ]
+  },
+  {
+   "index": 165,
+   "mesh": "SM_AP_W40ShadeHandleL",
+   "actor": "Window shade 02 L18",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\165.png",
+   "clear": 0.05,
+   "size_m": [
+    0.01,
+    0.7,
+    0.26
+   ]
+  },
+  {
+   "index": 166,
+   "mesh": "SM_AP_W40ShadeHandleR",
+   "actor": "Window shade 01 R18",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\166.png",
+   "clear": 0.05,
+   "size_m": [
+    0.01,
+    0.7,
+    0.26
+   ]
+  },
+  {
+   "index": 167,
+   "mesh": "SM_AP_W41RackL",
+   "actor": "SM_Plane_Rack_L bay10 03",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\167.png",
+   "clear": 1.0,
+   "size_m": [
+    0.59,
+    1.33,
+    0.47
+   ]
+  },
+  {
+   "index": 168,
+   "mesh": "SM_AP_W41RackR",
+   "actor": "SM_Plane_Rack_R bay10 03",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\168.png",
+   "clear": 0.28,
+   "size_m": [
+    0.59,
+    1.33,
+    0.47
+   ]
+  },
+  {
+   "index": 169,
+   "mesh": "SM_AP_W42ShadeFrameL",
+   "actor": "Window shade 02 L18 frame",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\169.png",
+   "clear": 1.0,
+   "size_m": [
+    0.33,
+    0.89,
+    1.3
+   ]
+  },
+  {
+   "index": 170,
+   "mesh": "SM_AP_W42ShadeFrameR",
+   "actor": "Window shade 01 R18 frame",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\170.png",
+   "clear": 1.0,
+   "size_m": [
+    0.33,
+    0.89,
+    1.3
+   ]
+  },
+  {
+   "index": 171,
+   "mesh": "SM_AP_W42WindowWallL",
+   "actor": "SM_Plane_WindowWall_L bay10 01",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\171.png",
+   "clear": 1.0,
+   "size_m": [
+    1.39,
+    1.35,
+    2.51
+   ]
+  },
+  {
+   "index": 172,
+   "mesh": "SM_AP_W42WindowWallR",
+   "actor": "SM_Plane_WindowWall_R bay10 01",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\172.png",
+   "clear": 1.0,
+   "size_m": [
+    1.39,
+    1.35,
+    2.51
+   ]
+  },
+  {
+   "index": 173,
+   "mesh": "SM_AP_WaitingDetails30",
+   "actor": "Check-in waiting details30",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\173.png",
+   "clear": 1.0,
+   "size_m": [
+    5.01,
+    1.1,
+    0.82
+   ]
+  },
+  {
+   "index": 174,
+   "mesh": "SM_AP_Wayfinding38",
+   "actor": "Airport38 mounted legible route cues",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\174.png",
+   "clear": 1.0,
+   "size_m": [
+    32.54,
+    35.77,
+    2.08
+   ]
+  },
+  {
+   "index": 175,
+   "mesh": "SM_AP_YellowMarking",
+   "actor": "YellowMarking12_1849",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\175.png",
+   "clear": 1.0,
+   "size_m": [
+    0.12,
+    15.0,
+    0.01
+   ]
+  },
+  {
+   "index": 176,
+   "mesh": "SM_CH12_ViewHand_L",
+   "actor": "CH12HAND L",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\176.png",
+   "clear": 1.0,
+   "size_m": [
+    0.8,
+    0.48,
+    0.1
+   ]
+  },
+  {
+   "index": 177,
+   "mesh": "SM_CH12_ViewHand_R",
+   "actor": "CH12HAND R",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\177.png",
+   "clear": 1.0,
+   "size_m": [
+    0.8,
+    0.48,
+    0.1
+   ]
+  },
+  {
+   "index": 178,
+   "mesh": "SM_Plane_AftDispatch11",
+   "actor": "Aft dispatch11",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\178.png",
+   "clear": 0.06,
+   "size_m": [
+    0.58,
+    1.5,
+    1.52
+   ]
+  },
+  {
+   "index": 179,
+   "mesh": "SM_Plane_AftGalley",
+   "actor": "Main galley between business and economy",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\179.png",
+   "clear": 0.95,
+   "size_m": [
+    2.16,
+    0.72,
+    2.32
+   ]
+  },
+  {
+   "index": 180,
+   "mesh": "SM_Plane_AftRoomDetails11",
+   "actor": "Aft room fitted crew systems11",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\180.png",
+   "clear": 1.0,
+   "size_m": [
+    4.54,
+    1.22,
+    0.96
+   ]
+  },
+  {
+   "index": 181,
+   "mesh": "SM_Plane_AftService10",
+   "actor": "SM_Plane_AftService10",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\181.png",
+   "clear": 1.0,
+   "size_m": [
+    4.6,
+    0.78,
+    2.68
+   ]
+  },
+  {
+   "index": 182,
+   "mesh": "SM_Plane_AftWaste11",
+   "actor": "Aft waste linen11",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\182.png",
+   "clear": 0.09,
+   "size_m": [
+    0.48,
+    1.5,
+    1.08
+   ]
+  },
+  {
+   "index": 183,
+   "mesh": "SM_Plane_ArchRib",
+   "actor": "Cabin frame10 00",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\183.png",
+   "clear": 0.04,
+   "size_m": [
+    4.48,
+    0.05,
+    0.58
+   ]
+  },
+  {
+   "index": 184,
+   "mesh": "SM_Plane_CabinFinish09",
+   "actor": "SM_Plane_CabinFinish09",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\184.png",
+   "clear": 1.0,
+   "size_m": [
+    4.68,
+    35.1,
+    1.9
+   ]
+  },
+  {
+   "index": 185,
+   "mesh": "SM_Plane_Cargo15_CarrySpinner",
+   "actor": "Cargo15 -1 bay01 tier0 CarrySpinner 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\185.png",
+   "clear": 1.0,
+   "size_m": [
+    0.37,
+    0.3,
+    0.55
+   ]
+  },
+  {
+   "index": 186,
+   "mesh": "SM_Plane_Cargo15_CheckedLaid",
+   "actor": "Cargo15 -1 bay03 tier0 CheckedLaid 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\186.png",
+   "clear": 1.0,
+   "size_m": [
+    0.51,
+    0.78,
+    0.39
+   ]
+  },
+  {
+   "index": 187,
+   "mesh": "SM_Plane_Cargo15_CheckedSpinner",
+   "actor": "Cargo15 -1 bay07 tier1 CheckedSpinner 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\187.png",
+   "clear": 1.0,
+   "size_m": [
+    0.51,
+    0.39,
+    0.78
+   ]
+  },
+  {
+   "index": 188,
+   "mesh": "SM_Plane_Cargo15_CrewEquipment",
+   "actor": "Cargo15 -1 bay05 tier0 CrewEquipment 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\188.png",
+   "clear": 1.0,
+   "size_m": [
+    0.48,
+    0.63,
+    0.41
+   ]
+  },
+  {
+   "index": 189,
+   "mesh": "SM_Plane_Cargo15_InstrumentCase",
+   "actor": "Cargo15 -1 bay03 tier1 InstrumentCase 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\189.png",
+   "clear": 1.0,
+   "size_m": [
+    0.36,
+    1.11,
+    0.24
+   ]
+  },
+  {
+   "index": 190,
+   "mesh": "SM_Plane_Cargo15_LongMailer",
+   "actor": "Cargo15 -1 bay04 tier0 LongMailer 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\190.png",
+   "clear": 1.0,
+   "size_m": [
+    0.28,
+    1.04,
+    0.17
+   ]
+  },
+  {
+   "index": 191,
+   "mesh": "SM_Plane_Cargo15_MediumParcel",
+   "actor": "Cargo15 -1 bay05 tier1 MediumParcel 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\191.png",
+   "clear": 1.0,
+   "size_m": [
+    0.44,
+    0.61,
+    0.43
+   ]
+  },
+  {
+   "index": 192,
+   "mesh": "SM_Plane_Cargo15_PlywoodCrate",
+   "actor": "Cargo15 -1 bay01 tier1 PlywoodCrate 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\192.png",
+   "clear": 1.0,
+   "size_m": [
+    0.51,
+    1.06,
+    0.55
+   ]
+  },
+  {
+   "index": 193,
+   "mesh": "SM_Plane_Cargo15_SmallParcel",
+   "actor": "Cargo15 -1 bay02 tier0 SmallParcel 0",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\193.png",
+   "clear": 1.0,
+   "size_m": [
+    0.26,
+    0.31,
+    0.19
+   ]
+  },
+  {
+   "index": 194,
+   "mesh": "SM_Plane_CargoHatch10",
+   "actor": "Lower cargo stair hatch",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\194.png",
+   "clear": 1.0,
+   "size_m": [
+    1.47,
+    2.29,
+    0.15
+   ]
+  },
+  {
+   "index": 195,
+   "mesh": "SM_Plane_CargoHold10",
+   "actor": "Forward lower cargo hold",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\195.png",
+   "clear": 0.06,
+   "size_m": [
+    2.9,
+    33.38,
+    2.01
+   ]
+  },
+  {
+   "index": 196,
+   "mesh": "SM_Plane_CargoStair10",
+   "actor": "Forward lower cargo stair",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\196.png",
+   "clear": 1.0,
+   "size_m": [
+    1.91,
+    2.37,
+    2.14
+   ]
+  },
+  {
+   "index": 197,
+   "mesh": "SM_Plane_CentreToggle12_0",
+   "actor": "Cockpit NAV switch12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\197.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.03,
+    0.05
+   ]
+  },
+  {
+   "index": 198,
+   "mesh": "SM_Plane_CentreToggle12_1",
+   "actor": "Cockpit FUEL switch12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\198.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.03,
+    0.05
+   ]
+  },
+  {
+   "index": 199,
+   "mesh": "SM_Plane_CentreToggle12_2",
+   "actor": "Cockpit PUMP switch12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\199.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.03,
+    0.05
+   ]
+  },
+  {
+   "index": 200,
+   "mesh": "SM_Plane_CentreToggle12_3",
+   "actor": "Cockpit CABIN switch12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\200.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.03,
+    0.05
+   ]
+  },
+  {
+   "index": 201,
+   "mesh": "SM_Plane_CentreToggle12_4",
+   "actor": "Cockpit AIR switch12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\201.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.03,
+    0.05
+   ]
+  },
+  {
+   "index": 202,
+   "mesh": "SM_Plane_CentreToggle12_5",
+   "actor": "Cockpit AUX switch12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\202.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.03,
+    0.05
+   ]
+  },
+  {
+   "index": 203,
+   "mesh": "SM_Plane_ClassDivider",
+   "actor": "SM_Plane_ClassDivider",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\203.png",
+   "clear": 0.44,
+   "size_m": [
+    4.79,
+    2.9,
+    2.69
+   ]
+  },
+  {
+   "index": 204,
+   "mesh": "SM_Plane_CockpitDoor",
+   "actor": "Flightdeck door",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\204.png",
+   "clear": 1.0,
+   "size_m": [
+    1.05,
+    0.23,
+    2.04
+   ]
+  },
+  {
+   "index": 205,
+   "mesh": "SM_Plane_CockpitEntry",
+   "actor": "SM_Plane_CockpitEntry",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\205.png",
+   "clear": 0.47,
+   "size_m": [
+    3.71,
+    2.32,
+    1.71
+   ]
+  },
+  {
+   "index": 206,
+   "mesh": "SM_Plane_CockpitLightPod13_2",
+   "actor": "Cockpit supported cabin-light station 213",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\206.png",
+   "clear": 1.0,
+   "size_m": [
+    0.15,
+    1.0,
+    0.28
+   ]
+  },
+  {
+   "index": 207,
+   "mesh": "SM_Plane_CockpitLightPod13_5",
+   "actor": "Cockpit supported cabin-light station 513",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\207.png",
+   "clear": 1.0,
+   "size_m": [
+    0.15,
+    1.0,
+    0.28
+   ]
+  },
+  {
+   "index": 208,
+   "mesh": "SM_Plane_CockpitLockerDoor11",
+   "actor": "Flight crew equipment locker11",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\208.png",
+   "clear": 1.0,
+   "size_m": [
+    0.08,
+    0.67,
+    1.64
+   ]
+  },
+  {
+   "index": 209,
+   "mesh": "SM_Plane_Controls",
+   "actor": "SM_Plane_Controls",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\209.png",
+   "clear": 1.0,
+   "size_m": [
+    2.05,
+    1.06,
+    1.21
+   ]
+  },
+  {
+   "index": 210,
+   "mesh": "SM_Plane_CrewAmenities07",
+   "actor": "SM_Plane_CrewAmenities07",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\210.png",
+   "clear": 0.54,
+   "size_m": [
+    2.14,
+    0.05,
+    0.15
+   ]
+  },
+  {
+   "index": 211,
+   "mesh": "SM_Plane_CrewHandbook12",
+   "actor": "Crew service handbook 112",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\211.png",
+   "clear": 0.0,
+   "size_m": [
+    0.22,
+    0.03,
+    0.3
+   ]
+  },
+  {
+   "index": 212,
+   "mesh": "SM_Plane_CrewHarnessRelease12",
+   "actor": "Crew harness release 112",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\212.png",
+   "clear": 1.0,
+   "size_m": [
+    0.05,
+    0.01,
+    0.05
+   ]
+  },
+  {
+   "index": 213,
+   "mesh": "SM_Plane_CrewJumpseat",
+   "actor": "SM_Plane_CrewJumpseat",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\213.png",
+   "clear": 1.0,
+   "size_m": [
+    0.57,
+    0.28,
+    1.49
+   ]
+  },
+  {
+   "index": 214,
+   "mesh": "SM_Plane_CrewMounts11",
+   "actor": "Aft crew solid bulkhead mounts11",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\214.png",
+   "clear": 0.1,
+   "size_m": [
+    3.76,
+    30.89,
+    2.31
+   ]
+  },
+  {
+   "index": 215,
+   "mesh": "SM_Plane_CrewPan12",
+   "actor": "Crew fold pan 0112",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\215.png",
+   "clear": 1.0,
+   "size_m": [
+    0.51,
+    0.17,
+    0.56
+   ]
+  },
+  {
+   "index": 216,
+   "mesh": "SM_Plane_DoorBay07",
+   "actor": "Exit structure10 bay00",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\216.png",
+   "clear": 0.39,
+   "size_m": [
+    5.01,
+    1.35,
+    5.15
+   ]
+  },
+  {
+   "index": 217,
+   "mesh": "SM_Plane_EconomyBulkheadDisplay12",
+   "actor": "Economy first-row display mount 03A12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\217.png",
+   "clear": 1.0,
+   "size_m": [
+    0.46,
+    0.06,
+    0.31
+   ]
+  },
+  {
+   "index": 218,
+   "mesh": "SM_Plane_EconomyScreen12",
+   "actor": "Economy display 03A12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\218.png",
+   "clear": 1.0,
+   "size_m": [
+    0.41,
+    0.0,
+    0.25
+   ]
+  },
+  {
+   "index": 219,
+   "mesh": "SM_Plane_EconomyTray17",
+   "actor": "Economy folding tray 0117",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\219.png",
+   "clear": 1.0,
+   "size_m": [
+    0.43,
+    0.05,
+    0.32
+   ]
+  },
+  {
+   "index": 220,
+   "mesh": "SM_Plane_EmergencyPush12_0",
+   "actor": "Cockpit emergency test 112",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\220.png",
+   "clear": 1.0,
+   "size_m": [
+    0.08,
+    0.07,
+    0.03
+   ]
+  },
+  {
+   "index": 221,
+   "mesh": "SM_Plane_EmergencyPush12_1",
+   "actor": "Cockpit emergency test 212",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\221.png",
+   "clear": 1.0,
+   "size_m": [
+    0.08,
+    0.07,
+    0.03
+   ]
+  },
+  {
+   "index": 222,
+   "mesh": "SM_Plane_ExitCrank12",
+   "actor": "Aircraft door 1L articulation link 012",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\222.png",
+   "clear": 1.0,
+   "size_m": [
+    0.08,
+    0.05,
+    0.06
+   ]
+  },
+  {
+   "index": 223,
+   "mesh": "SM_Plane_ExitHingeHardware12",
+   "actor": "Pressure door articulated hinge bearings12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\223.png",
+   "clear": 0.12,
+   "size_m": [
+    5.14,
+    27.12,
+    1.03
+   ]
+  },
+  {
+   "index": 224,
+   "mesh": "SM_Plane_ExteriorCargoDoor10",
+   "actor": "Forward exterior cargo door",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\224.png",
+   "clear": 1.0,
+   "size_m": [
+    0.53,
+    0.98,
+    1.24
+   ]
+  },
+  {
+   "index": 225,
+   "mesh": "SM_Plane_FirstAidDoor11",
+   "actor": "Forward first aid door11",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\225.png",
+   "clear": 1.0,
+   "size_m": [
+    0.35,
+    0.03,
+    0.52
+   ]
+  },
+  {
+   "index": 226,
+   "mesh": "SM_Plane_FittedCarpet07",
+   "actor": "SM_Plane_FittedCarpet07",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\226.png",
+   "clear": 0.04,
+   "size_m": [
+    4.8,
+    35.1,
+    0.0
+   ]
+  },
+  {
+   "index": 227,
+   "mesh": "SM_Plane_FlightdeckSystems",
+   "actor": "SM_Plane_FlightdeckSystems",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\227.png",
+   "clear": 1.0,
+   "size_m": [
+    3.13,
+    2.77,
+    2.53
+   ]
+  },
+  {
+   "index": 228,
+   "mesh": "SM_Plane_Floor",
+   "actor": "SM_Plane_Floor",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\228.png",
+   "clear": 0.04,
+   "size_m": [
+    4.8,
+    35.1,
+    0.09
+   ]
+  },
+  {
+   "index": 229,
+   "mesh": "SM_Plane_ForwardDispatch11",
+   "actor": "Forward dispatch11",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\229.png",
+   "clear": 0.06,
+   "size_m": [
+    0.58,
+    1.46,
+    1.52
+   ]
+  },
+  {
+   "index": 230,
+   "mesh": "SM_Plane_ForwardEmergency11",
+   "actor": "Forward emergency equipment11",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\230.png",
+   "clear": 1.0,
+   "size_m": [
+    2.05,
+    0.27,
+    1.56
+   ]
+  },
+  {
+   "index": 231,
+   "mesh": "SM_Plane_ForwardGalley_L",
+   "actor": "Aft preparation L",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\231.png",
+   "clear": 1.0,
+   "size_m": [
+    1.22,
+    0.72,
+    2.26
+   ]
+  },
+  {
+   "index": 232,
+   "mesh": "SM_Plane_ForwardGalley_R",
+   "actor": "Aft preparation R",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\232.png",
+   "clear": 1.0,
+   "size_m": [
+    1.22,
+    0.72,
+    2.26
+   ]
+  },
+  {
+   "index": 233,
+   "mesh": "SM_Plane_ForwardVestibule",
+   "actor": "SM_Plane_ForwardVestibule",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\233.png",
+   "clear": 1.0,
+   "size_m": [
+    4.79,
+    0.12,
+    2.69
+   ]
+  },
+  {
+   "index": 234,
+   "mesh": "SM_Plane_HandbookCover12",
+   "actor": "Crew service handbook cover 112",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\234.png",
+   "clear": 1.0,
+   "size_m": [
+    0.22,
+    0.01,
+    0.3
+   ]
+  },
+  {
+   "index": 235,
+   "mesh": "SM_Plane_HandbookSleeve12",
+   "actor": "Crew handbook wall sleeve 112",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\235.png",
+   "clear": 0.0,
+   "size_m": [
+    0.25,
+    0.07,
+    0.33
+   ]
+  },
+  {
+   "index": 236,
+   "mesh": "SM_Plane_LavCrown13",
+   "actor": "Lavatory fitted ceiling closures13",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\236.png",
+   "clear": 0.2,
+   "size_m": [
+    4.5,
+    2.47,
+    0.12
+   ]
+  },
+  {
+   "index": 237,
+   "mesh": "SM_Plane_LavCupboard12_L",
+   "actor": "Lavatory L vanity cupboard12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\237.png",
+   "clear": 1.0,
+   "size_m": [
+    0.04,
+    0.57,
+    0.54
+   ]
+  },
+  {
+   "index": 238,
+   "mesh": "SM_Plane_LavCupboard12_R",
+   "actor": "Lavatory R vanity cupboard12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\238.png",
+   "clear": 1.0,
+   "size_m": [
+    0.04,
+    0.57,
+    0.54
+   ]
+  },
+  {
+   "index": 239,
+   "mesh": "SM_Plane_LavFlag13_L",
+   "actor": "Lavatory occupied shutter L13",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\239.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.12,
+    0.05
+   ]
+  },
+  {
+   "index": 240,
+   "mesh": "SM_Plane_LavFlag13_R",
+   "actor": "Lavatory occupied shutter R13",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\240.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.12,
+    0.05
+   ]
+  },
+  {
+   "index": 241,
+   "mesh": "SM_Plane_LavFlush12_L",
+   "actor": "Lavatory L flush button12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\241.png",
+   "clear": 1.0,
+   "size_m": [
+    0.05,
+    0.01,
+    0.05
+   ]
+  },
+  {
+   "index": 242,
+   "mesh": "SM_Plane_LavFlush12_R",
+   "actor": "Lavatory R flush button12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\242.png",
+   "clear": 1.0,
+   "size_m": [
+    0.05,
+    0.01,
+    0.05
+   ]
+  },
+  {
+   "index": 243,
+   "mesh": "SM_Plane_LavFlushWater12_L",
+   "actor": "Lavatory L flush water12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\243.png",
+   "clear": 0.18,
+   "size_m": [
+    0.3,
+    0.38,
+    0.04
+   ]
+  },
+  {
+   "index": 244,
+   "mesh": "SM_Plane_LavFlushWater12_R",
+   "actor": "Lavatory R flush water12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\244.png",
+   "clear": 0.18,
+   "size_m": [
+    0.3,
+    0.38,
+    0.04
+   ]
+  },
+  {
+   "index": 245,
+   "mesh": "SM_Plane_LavInsideRelease13_L",
+   "actor": "Lavatory inside release L13",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\245.png",
+   "clear": 1.0,
+   "size_m": [
+    0.03,
+    0.16,
+    0.2
+   ]
+  },
+  {
+   "index": 246,
+   "mesh": "SM_Plane_LavInsideRelease13_R",
+   "actor": "Lavatory inside release R13",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\246.png",
+   "clear": 1.0,
+   "size_m": [
+    0.03,
+    0.16,
+    0.2
+   ]
+  },
+  {
+   "index": 247,
+   "mesh": "SM_Plane_LavLock13_L",
+   "actor": "Lavatory occupancy L13",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\247.png",
+   "clear": 1.0,
+   "size_m": [
+    0.04,
+    0.06,
+    0.06
+   ]
+  },
+  {
+   "index": 248,
+   "mesh": "SM_Plane_LavLock13_R",
+   "actor": "Lavatory occupancy R13",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\248.png",
+   "clear": 1.0,
+   "size_m": [
+    0.04,
+    0.06,
+    0.06
+   ]
+  },
+  {
+   "index": 249,
+   "mesh": "SM_Plane_LavMixer12_L",
+   "actor": "Lavatory L mixer lever12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\249.png",
+   "clear": 1.0,
+   "size_m": [
+    0.07,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 250,
+   "mesh": "SM_Plane_LavMixer12_R",
+   "actor": "Lavatory R mixer lever12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\250.png",
+   "clear": 1.0,
+   "size_m": [
+    0.07,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 251,
+   "mesh": "SM_Plane_LavServiceCover12_L",
+   "actor": "Lavatory L service cover12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\251.png",
+   "clear": 1.0,
+   "size_m": [
+    0.3,
+    0.03,
+    0.39
+   ]
+  },
+  {
+   "index": 252,
+   "mesh": "SM_Plane_LavServiceCover12_R",
+   "actor": "Lavatory R service cover12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\252.png",
+   "clear": 1.0,
+   "size_m": [
+    0.3,
+    0.03,
+    0.39
+   ]
+  },
+  {
+   "index": 253,
+   "mesh": "SM_Plane_LavStatus13_L",
+   "actor": "Lavatory status module L13",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\253.png",
+   "clear": 1.0,
+   "size_m": [
+    0.05,
+    0.18,
+    0.27
+   ]
+  },
+  {
+   "index": 254,
+   "mesh": "SM_Plane_LavStatus13_R",
+   "actor": "Lavatory status module R13",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\254.png",
+   "clear": 1.0,
+   "size_m": [
+    0.05,
+    0.18,
+    0.27
+   ]
+  },
+  {
+   "index": 255,
+   "mesh": "SM_Plane_LavToiletLid12_L",
+   "actor": "Lavatory L toilet lid12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\255.png",
+   "clear": 1.0,
+   "size_m": [
+    0.42,
+    0.48,
+    0.04
+   ]
+  },
+  {
+   "index": 256,
+   "mesh": "SM_Plane_LavToiletLid12_R",
+   "actor": "Lavatory R toilet lid12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\256.png",
+   "clear": 1.0,
+   "size_m": [
+    0.42,
+    0.48,
+    0.04
+   ]
+  },
+  {
+   "index": 257,
+   "mesh": "SM_Plane_LavWasteFlap12_L",
+   "actor": "Lavatory L waste flap12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\257.png",
+   "clear": 1.0,
+   "size_m": [
+    0.25,
+    0.02,
+    0.15
+   ]
+  },
+  {
+   "index": 258,
+   "mesh": "SM_Plane_LavWasteFlap12_R",
+   "actor": "Lavatory R waste flap12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\258.png",
+   "clear": 1.0,
+   "size_m": [
+    0.25,
+    0.02,
+    0.15
+   ]
+  },
+  {
+   "index": 259,
+   "mesh": "SM_Plane_LavWater12_L",
+   "actor": "Lavatory L tap water12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\259.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.01,
+    0.24
+   ]
+  },
+  {
+   "index": 260,
+   "mesh": "SM_Plane_LavWater12_R",
+   "actor": "Lavatory R tap water12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\260.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.01,
+    0.24
+   ]
+  },
+  {
+   "index": 261,
+   "mesh": "SM_Plane_LavatoryDoor_L",
+   "actor": "Lavatory L door \u2014 hinge pivot",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\261.png",
+   "clear": 0.0,
+   "size_m": [
+    0.16,
+    0.97,
+    2.09
+   ]
+  },
+  {
+   "index": 262,
+   "mesh": "SM_Plane_LavatoryDoor_R",
+   "actor": "Lavatory R door \u2014 hinge pivot",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\262.png",
+   "clear": 0.0,
+   "size_m": [
+    0.16,
+    0.97,
+    2.09
+   ]
+  },
+  {
+   "index": 263,
+   "mesh": "SM_Plane_Lavatory_L",
+   "actor": "SM_Plane_Lavatory_L",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\263.png",
+   "clear": 1.0,
+   "size_m": [
+    1.66,
+    2.72,
+    2.27
+   ]
+  },
+  {
+   "index": 264,
+   "mesh": "SM_Plane_Lavatory_R",
+   "actor": "SM_Plane_Lavatory_R",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\264.png",
+   "clear": 1.0,
+   "size_m": [
+    1.66,
+    2.72,
+    2.27
+   ]
+  },
+  {
+   "index": 265,
+   "mesh": "SM_Plane_MidServiceDetails11",
+   "actor": "Mid galley fitted crew systems11",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\265.png",
+   "clear": 0.0,
+   "size_m": [
+    4.52,
+    1.2,
+    0.97
+   ]
+  },
+  {
+   "index": 266,
+   "mesh": "SM_Plane_MidSide11_L",
+   "actor": "Mid linen11",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\266.png",
+   "clear": 0.24,
+   "size_m": [
+    0.44,
+    1.5,
+    1.08
+   ]
+  },
+  {
+   "index": 267,
+   "mesh": "SM_Plane_MidSide11_R",
+   "actor": "Mid water waste11",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\267.png",
+   "clear": 0.24,
+   "size_m": [
+    0.44,
+    1.5,
+    1.08
+   ]
+  },
+  {
+   "index": 268,
+   "mesh": "SM_Plane_OverheadBinDoor10_L",
+   "actor": "Overhead bin L 04",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\268.png",
+   "clear": 0.8,
+   "size_m": [
+    0.07,
+    1.28,
+    0.35
+   ]
+  },
+  {
+   "index": 269,
+   "mesh": "SM_Plane_OverheadBinDoor10_R",
+   "actor": "Overhead bin R 04",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\269.png",
+   "clear": 0.16,
+   "size_m": [
+    0.07,
+    1.28,
+    0.35
+   ]
+  },
+  {
+   "index": 270,
+   "mesh": "SM_Plane_OverheadToggle12_0",
+   "actor": "Cockpit overhead switch 0112",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\270.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.03,
+    0.05
+   ]
+  },
+  {
+   "index": 271,
+   "mesh": "SM_Plane_OverheadToggle12_1",
+   "actor": "Cockpit overhead switch 0212",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\271.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.03,
+    0.05
+   ]
+  },
+  {
+   "index": 272,
+   "mesh": "SM_Plane_OverheadToggle12_10",
+   "actor": "Cockpit overhead switch 1112",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\272.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 273,
+   "mesh": "SM_Plane_OverheadToggle12_11",
+   "actor": "Cockpit overhead switch 1212",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\273.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 274,
+   "mesh": "SM_Plane_OverheadToggle12_12",
+   "actor": "Cockpit overhead switch 1312",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\274.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 275,
+   "mesh": "SM_Plane_OverheadToggle12_13",
+   "actor": "Cockpit overhead switch 1412",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\275.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 276,
+   "mesh": "SM_Plane_OverheadToggle12_14",
+   "actor": "Cockpit overhead switch 1512",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\276.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 277,
+   "mesh": "SM_Plane_OverheadToggle12_15",
+   "actor": "Cockpit overhead switch 1612",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\277.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 278,
+   "mesh": "SM_Plane_OverheadToggle12_16",
+   "actor": "Cockpit overhead switch 1712",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\278.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 279,
+   "mesh": "SM_Plane_OverheadToggle12_17",
+   "actor": "Cockpit overhead switch 1812",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\279.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 280,
+   "mesh": "SM_Plane_OverheadToggle12_2",
+   "actor": "Cockpit overhead switch 0312",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\280.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.03,
+    0.05
+   ]
+  },
+  {
+   "index": 281,
+   "mesh": "SM_Plane_OverheadToggle12_3",
+   "actor": "Cockpit overhead switch 0412",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\281.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 282,
+   "mesh": "SM_Plane_OverheadToggle12_4",
+   "actor": "Cockpit overhead switch 0512",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\282.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 283,
+   "mesh": "SM_Plane_OverheadToggle12_5",
+   "actor": "Cockpit overhead switch 0612",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\283.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 284,
+   "mesh": "SM_Plane_OverheadToggle12_6",
+   "actor": "Cockpit overhead switch 0712",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\284.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 285,
+   "mesh": "SM_Plane_OverheadToggle12_7",
+   "actor": "Cockpit overhead switch 0812",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\285.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 286,
+   "mesh": "SM_Plane_OverheadToggle12_8",
+   "actor": "Cockpit overhead switch 0912",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\286.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 287,
+   "mesh": "SM_Plane_OverheadToggle12_9",
+   "actor": "Cockpit overhead switch 1012",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\287.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.03,
+    0.05
+   ]
+  },
+  {
+   "index": 288,
+   "mesh": "SM_Plane_PSUCallIndicator12",
+   "actor": "PSU 01 CallIndicator12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\288.png",
+   "clear": 0.0,
+   "size_m": [
+    0.03,
+    0.01,
+    0.0
+   ]
+  },
+  {
+   "index": 289,
+   "mesh": "SM_Plane_PSUCallKey12",
+   "actor": "PSU 01 CallKey12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\289.png",
+   "clear": 0.0,
+   "size_m": [
+    0.06,
+    0.05,
+    0.02
+   ]
+  },
+  {
+   "index": 290,
+   "mesh": "SM_Plane_PSUGasper12",
+   "actor": "PSU 01 Gasper12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\290.png",
+   "clear": 0.0,
+   "size_m": [
+    0.06,
+    0.06,
+    0.05
+   ]
+  },
+  {
+   "index": 291,
+   "mesh": "SM_Plane_PSUMount12",
+   "actor": "Centre PSU ceiling attachment 03",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\291.png",
+   "clear": 1.0,
+   "size_m": [
+    0.22,
+    0.32,
+    0.22
+   ]
+  },
+  {
+   "index": 292,
+   "mesh": "SM_Plane_PSUReadIndicator12",
+   "actor": "PSU 01 ReadIndicator12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\292.png",
+   "clear": 0.0,
+   "size_m": [
+    0.03,
+    0.01,
+    0.0
+   ]
+  },
+  {
+   "index": 293,
+   "mesh": "SM_Plane_PSUReadKey12",
+   "actor": "PSU 01 ReadKey12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\293.png",
+   "clear": 0.0,
+   "size_m": [
+    0.06,
+    0.05,
+    0.02
+   ]
+  },
+  {
+   "index": 294,
+   "mesh": "SM_Plane_PilotHeadset12_L",
+   "actor": "Pilot headset L12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\294.png",
+   "clear": 1.0,
+   "size_m": [
+    0.11,
+    0.35,
+    0.51
+   ]
+  },
+  {
+   "index": 295,
+   "mesh": "SM_Plane_PilotHeadset12_R",
+   "actor": "Pilot headset R12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\295.png",
+   "clear": 1.0,
+   "size_m": [
+    0.11,
+    0.35,
+    0.51
+   ]
+  },
+  {
+   "index": 296,
+   "mesh": "SM_Plane_PilotSeat17",
+   "actor": "SM_Plane_Seat.016",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\296.png",
+   "clear": 1.0,
+   "size_m": [
+    0.77,
+    0.7,
+    1.4
+   ]
+  },
+  {
+   "index": 297,
+   "mesh": "SM_Plane_QuadrantLever12_0",
+   "actor": "Cockpit quadrant lever 112",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\297.png",
+   "clear": 1.0,
+   "size_m": [
+    0.09,
+    0.25,
+    0.42
+   ]
+  },
+  {
+   "index": 298,
+   "mesh": "SM_Plane_QuadrantLever12_1",
+   "actor": "Cockpit quadrant lever 212",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\298.png",
+   "clear": 1.0,
+   "size_m": [
+    0.09,
+    0.25,
+    0.42
+   ]
+  },
+  {
+   "index": 299,
+   "mesh": "SM_Plane_QuadrantLever12_2",
+   "actor": "Cockpit quadrant lever 312",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\299.png",
+   "clear": 1.0,
+   "size_m": [
+    0.09,
+    0.25,
+    0.42
+   ]
+  },
+  {
+   "index": 300,
+   "mesh": "SM_Plane_QuadrantLever12_3",
+   "actor": "Cockpit quadrant lever 412",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\300.png",
+   "clear": 1.0,
+   "size_m": [
+    0.09,
+    0.25,
+    0.42
+   ]
+  },
+  {
+   "index": 301,
+   "mesh": "SM_Plane_RadarGraphics12",
+   "actor": "Cockpit radar phosphor graphics12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\301.png",
+   "clear": 1.0,
+   "size_m": [
+    1.2,
+    0.13,
+    0.35
+   ]
+  },
+  {
+   "index": 302,
+   "mesh": "SM_Plane_RearExtinguisher13",
+   "actor": "Rear extinguisher -113",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\302.png",
+   "clear": 1.0,
+   "size_m": [
+    0.23,
+    0.18,
+    0.56
+   ]
+  },
+  {
+   "index": 303,
+   "mesh": "SM_Plane_SafetyCard12",
+   "actor": "Passenger safety card 0112",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\303.png",
+   "clear": 0.0,
+   "size_m": [
+    0.2,
+    0.01,
+    0.21
+   ]
+  },
+  {
+   "index": 304,
+   "mesh": "SM_Plane_Seat",
+   "actor": "Economy 03 A",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\304.png",
+   "clear": 1.0,
+   "size_m": [
+    0.77,
+    0.76,
+    1.4
+   ]
+  },
+  {
+   "index": 305,
+   "mesh": "SM_Plane_Seat13Rear",
+   "actor": "Economy 12 A",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\305.png",
+   "clear": 1.0,
+   "size_m": [
+    0.77,
+    0.75,
+    1.4
+   ]
+  },
+  {
+   "index": 306,
+   "mesh": "SM_Plane_SeatPair",
+   "actor": "Economy 03 D E",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\306.png",
+   "clear": 1.0,
+   "size_m": [
+    1.46,
+    0.76,
+    1.4
+   ]
+  },
+  {
+   "index": 307,
+   "mesh": "SM_Plane_SeatPair13Rear",
+   "actor": "Economy 12 D E",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\307.png",
+   "clear": 1.0,
+   "size_m": [
+    1.46,
+    0.75,
+    1.4
+   ]
+  },
+  {
+   "index": 308,
+   "mesh": "SM_Plane_Service12_Forward_dispatch_drawer_1",
+   "actor": "Forward_dispatch_drawer_1",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\308.png",
+   "clear": 1.0,
+   "size_m": [
+    0.52,
+    0.81,
+    0.27
+   ]
+  },
+  {
+   "index": 309,
+   "mesh": "SM_Plane_Service12_Forward_dispatch_drawer_2",
+   "actor": "Forward_dispatch_drawer_2",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\309.png",
+   "clear": 1.0,
+   "size_m": [
+    0.52,
+    0.81,
+    0.27
+   ]
+  },
+  {
+   "index": 310,
+   "mesh": "SM_Plane_Service12_Forward_dispatch_drawer_3",
+   "actor": "Forward_dispatch_drawer_3",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\310.png",
+   "clear": 1.0,
+   "size_m": [
+    0.52,
+    0.81,
+    0.27
+   ]
+  },
+  {
+   "index": 311,
+   "mesh": "SM_Plane_Service12_Forward_dispatch_locker",
+   "actor": "Forward_dispatch_locker",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\311.png",
+   "clear": 1.0,
+   "size_m": [
+    0.08,
+    0.56,
+    0.8
+   ]
+  },
+  {
+   "index": 312,
+   "mesh": "SM_Plane_Service12_Mid_cleaning",
+   "actor": "Mid_cleaning",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\312.png",
+   "clear": 1.0,
+   "size_m": [
+    0.67,
+    0.08,
+    0.61
+   ]
+  },
+  {
+   "index": 313,
+   "mesh": "SM_Plane_Service12_Mid_coffee_brew",
+   "actor": "Mid_coffee_brew",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\313.png",
+   "clear": 1.0,
+   "size_m": [
+    0.06,
+    0.02,
+    0.06
+   ]
+  },
+  {
+   "index": 314,
+   "mesh": "SM_Plane_Service12_Mid_coffee_brew_indicator",
+   "actor": "Mid_coffee_brew_indicator",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\314.png",
+   "clear": 1.0,
+   "size_m": [
+    0.02,
+    0.01,
+    0.02
+   ]
+  },
+  {
+   "index": 315,
+   "mesh": "SM_Plane_Service12_Mid_coffee_coffee_stream",
+   "actor": "Mid_coffee_coffee_stream",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\315.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.01,
+    0.22
+   ]
+  },
+  {
+   "index": 316,
+   "mesh": "SM_Plane_Service12_Mid_coffee_reservoir",
+   "actor": "Mid_coffee_reservoir",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\316.png",
+   "clear": 1.0,
+   "size_m": [
+    0.14,
+    0.08,
+    0.37
+   ]
+  },
+  {
+   "index": 317,
+   "mesh": "SM_Plane_Service12_Mid_crockery",
+   "actor": "Mid_crockery",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\317.png",
+   "clear": 1.0,
+   "size_m": [
+    0.64,
+    0.08,
+    0.8
+   ]
+  },
+  {
+   "index": 318,
+   "mesh": "SM_Plane_Service12_Mid_cutlery_drawer",
+   "actor": "Mid_cutlery_drawer",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\318.png",
+   "clear": 1.0,
+   "size_m": [
+    0.66,
+    0.55,
+    0.2
+   ]
+  },
+  {
+   "index": 319,
+   "mesh": "SM_Plane_Service12_Mid_lower_oven_door",
+   "actor": "Mid_lower_oven_door",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\319.png",
+   "clear": 1.0,
+   "size_m": [
+    0.64,
+    0.12,
+    0.39
+   ]
+  },
+  {
+   "index": 320,
+   "mesh": "SM_Plane_Service12_Mid_lower_oven_heat_indicator",
+   "actor": "Mid_lower_oven_heat_indicator",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\320.png",
+   "clear": 1.0,
+   "size_m": [
+    0.03,
+    0.01,
+    0.03
+   ]
+  },
+  {
+   "index": 321,
+   "mesh": "SM_Plane_Service12_Mid_lower_oven_power",
+   "actor": "Mid_lower_oven_power",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\321.png",
+   "clear": 1.0,
+   "size_m": [
+    0.05,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 322,
+   "mesh": "SM_Plane_Service12_Mid_meals_cart",
+   "actor": "Mid_meals_cart",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\322.png",
+   "clear": 1.0,
+   "size_m": [
+    0.65,
+    0.08,
+    0.8
+   ]
+  },
+  {
+   "index": 323,
+   "mesh": "SM_Plane_Service12_Mid_port_service_drawer_1",
+   "actor": "Mid_port_service_drawer_1",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\323.png",
+   "clear": 1.0,
+   "size_m": [
+    0.38,
+    0.83,
+    0.27
+   ]
+  },
+  {
+   "index": 324,
+   "mesh": "SM_Plane_Service12_Mid_port_service_drawer_2",
+   "actor": "Mid_port_service_drawer_2",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\324.png",
+   "clear": 1.0,
+   "size_m": [
+    0.38,
+    0.83,
+    0.27
+   ]
+  },
+  {
+   "index": 325,
+   "mesh": "SM_Plane_Service12_Mid_port_service_drawer_3",
+   "actor": "Mid_port_service_drawer_3",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\325.png",
+   "clear": 1.0,
+   "size_m": [
+    0.38,
+    0.83,
+    0.27
+   ]
+  },
+  {
+   "index": 326,
+   "mesh": "SM_Plane_Service12_Mid_port_service_locker",
+   "actor": "Mid_port_service_locker",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\326.png",
+   "clear": 1.0,
+   "size_m": [
+    0.08,
+    0.57,
+    0.8
+   ]
+  },
+  {
+   "index": 327,
+   "mesh": "SM_Plane_Service12_Mid_starboard_service_drawer_1",
+   "actor": "Mid_starboard_service_drawer_1",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\327.png",
+   "clear": 1.0,
+   "size_m": [
+    0.38,
+    0.83,
+    0.27
+   ]
+  },
+  {
+   "index": 328,
+   "mesh": "SM_Plane_Service12_Mid_starboard_service_drawer_2",
+   "actor": "Mid_starboard_service_drawer_2",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\328.png",
+   "clear": 1.0,
+   "size_m": [
+    0.38,
+    0.83,
+    0.27
+   ]
+  },
+  {
+   "index": 329,
+   "mesh": "SM_Plane_Service12_Mid_starboard_service_drawer_3",
+   "actor": "Mid_starboard_service_drawer_3",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\329.png",
+   "clear": 1.0,
+   "size_m": [
+    0.38,
+    0.83,
+    0.27
+   ]
+  },
+  {
+   "index": 330,
+   "mesh": "SM_Plane_Service12_Mid_starboard_service_locker",
+   "actor": "Mid_starboard_service_locker",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\330.png",
+   "clear": 1.0,
+   "size_m": [
+    0.08,
+    0.57,
+    0.8
+   ]
+  },
+  {
+   "index": 331,
+   "mesh": "SM_Plane_Service12_Mid_upper_oven_door",
+   "actor": "Mid_upper_oven_door",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\331.png",
+   "clear": 1.0,
+   "size_m": [
+    0.64,
+    0.12,
+    0.39
+   ]
+  },
+  {
+   "index": 332,
+   "mesh": "SM_Plane_Service12_Mid_upper_oven_heat_indicator",
+   "actor": "Mid_upper_oven_heat_indicator",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\332.png",
+   "clear": 1.0,
+   "size_m": [
+    0.03,
+    0.01,
+    0.03
+   ]
+  },
+  {
+   "index": 333,
+   "mesh": "SM_Plane_Service12_Mid_upper_oven_power",
+   "actor": "Mid_upper_oven_power",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\333.png",
+   "clear": 1.0,
+   "size_m": [
+    0.05,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 334,
+   "mesh": "SM_Plane_Service12_Mid_upper_supplies",
+   "actor": "Mid_upper_supplies",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\334.png",
+   "clear": 1.0,
+   "size_m": [
+    0.67,
+    0.08,
+    0.41
+   ]
+  },
+  {
+   "index": 335,
+   "mesh": "SM_Plane_Service12_Mid_wash_tap",
+   "actor": "Mid_wash_tap",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\335.png",
+   "clear": 1.0,
+   "size_m": [
+    0.05,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 336,
+   "mesh": "SM_Plane_Service12_Mid_wash_water_stream",
+   "actor": "Mid_wash_water_stream",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\336.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.01,
+    0.32
+   ]
+  },
+  {
+   "index": 337,
+   "mesh": "SM_Plane_Service12_Rear_L_coffee_brew",
+   "actor": "Rear_L_coffee_brew",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\337.png",
+   "clear": 1.0,
+   "size_m": [
+    0.06,
+    0.02,
+    0.06
+   ]
+  },
+  {
+   "index": 338,
+   "mesh": "SM_Plane_Service12_Rear_L_coffee_brew_indicator",
+   "actor": "Rear_L_coffee_brew_indicator",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\338.png",
+   "clear": 1.0,
+   "size_m": [
+    0.02,
+    0.01,
+    0.02
+   ]
+  },
+  {
+   "index": 339,
+   "mesh": "SM_Plane_Service12_Rear_L_coffee_coffee_stream",
+   "actor": "Rear_L_coffee_coffee_stream",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\339.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.01,
+    0.22
+   ]
+  },
+  {
+   "index": 340,
+   "mesh": "SM_Plane_Service12_Rear_L_coffee_reservoir",
+   "actor": "Rear_L_coffee_reservoir",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\340.png",
+   "clear": 1.0,
+   "size_m": [
+    0.14,
+    0.08,
+    0.37
+   ]
+  },
+  {
+   "index": 341,
+   "mesh": "SM_Plane_Service12_Rear_L_lower_oven_door",
+   "actor": "Rear_L_lower_oven_door",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\341.png",
+   "clear": 1.0,
+   "size_m": [
+    0.55,
+    0.12,
+    0.39
+   ]
+  },
+  {
+   "index": 342,
+   "mesh": "SM_Plane_Service12_Rear_L_lower_oven_heat_indicator",
+   "actor": "Rear_L_lower_oven_heat_indicator",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\342.png",
+   "clear": 1.0,
+   "size_m": [
+    0.03,
+    0.01,
+    0.03
+   ]
+  },
+  {
+   "index": 343,
+   "mesh": "SM_Plane_Service12_Rear_L_lower_oven_power",
+   "actor": "Rear_L_lower_oven_power",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\343.png",
+   "clear": 1.0,
+   "size_m": [
+    0.05,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 344,
+   "mesh": "SM_Plane_Service12_Rear_L_meal_cart",
+   "actor": "Rear_L_meal_cart",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\344.png",
+   "clear": 1.0,
+   "size_m": [
+    0.55,
+    0.08,
+    0.8
+   ]
+  },
+  {
+   "index": 345,
+   "mesh": "SM_Plane_Service12_Rear_L_supplies",
+   "actor": "Rear_L_supplies",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\345.png",
+   "clear": 1.0,
+   "size_m": [
+    0.55,
+    0.08,
+    0.8
+   ]
+  },
+  {
+   "index": 346,
+   "mesh": "SM_Plane_Service12_Rear_L_upper_cups",
+   "actor": "Rear_L_upper_cups",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\346.png",
+   "clear": 1.0,
+   "size_m": [
+    0.55,
+    0.08,
+    0.25
+   ]
+  },
+  {
+   "index": 347,
+   "mesh": "SM_Plane_Service12_Rear_L_upper_oven_door",
+   "actor": "Rear_L_upper_oven_door",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\347.png",
+   "clear": 1.0,
+   "size_m": [
+    0.55,
+    0.12,
+    0.39
+   ]
+  },
+  {
+   "index": 348,
+   "mesh": "SM_Plane_Service12_Rear_L_upper_oven_heat_indicator",
+   "actor": "Rear_L_upper_oven_heat_indicator",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\348.png",
+   "clear": 0.13,
+   "size_m": [
+    0.03,
+    0.01,
+    0.03
+   ]
+  },
+  {
+   "index": 349,
+   "mesh": "SM_Plane_Service12_Rear_L_upper_oven_power",
+   "actor": "Rear_L_upper_oven_power",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\349.png",
+   "clear": 1.0,
+   "size_m": [
+    0.05,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 350,
+   "mesh": "SM_Plane_Service12_Rear_R_coffee_brew",
+   "actor": "Rear_R_coffee_brew",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\350.png",
+   "clear": 1.0,
+   "size_m": [
+    0.06,
+    0.02,
+    0.06
+   ]
+  },
+  {
+   "index": 351,
+   "mesh": "SM_Plane_Service12_Rear_R_coffee_brew_indicator",
+   "actor": "Rear_R_coffee_brew_indicator",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\351.png",
+   "clear": 1.0,
+   "size_m": [
+    0.02,
+    0.01,
+    0.02
+   ]
+  },
+  {
+   "index": 352,
+   "mesh": "SM_Plane_Service12_Rear_R_coffee_coffee_stream",
+   "actor": "Rear_R_coffee_coffee_stream",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\352.png",
+   "clear": 1.0,
+   "size_m": [
+    0.01,
+    0.01,
+    0.22
+   ]
+  },
+  {
+   "index": 353,
+   "mesh": "SM_Plane_Service12_Rear_R_coffee_reservoir",
+   "actor": "Rear_R_coffee_reservoir",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\353.png",
+   "clear": 1.0,
+   "size_m": [
+    0.14,
+    0.08,
+    0.37
+   ]
+  },
+  {
+   "index": 354,
+   "mesh": "SM_Plane_Service12_Rear_R_lower_oven_door",
+   "actor": "Rear_R_lower_oven_door",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\354.png",
+   "clear": 1.0,
+   "size_m": [
+    0.55,
+    0.12,
+    0.39
+   ]
+  },
+  {
+   "index": 355,
+   "mesh": "SM_Plane_Service12_Rear_R_lower_oven_heat_indicator",
+   "actor": "Rear_R_lower_oven_heat_indicator",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\355.png",
+   "clear": 1.0,
+   "size_m": [
+    0.03,
+    0.01,
+    0.03
+   ]
+  },
+  {
+   "index": 356,
+   "mesh": "SM_Plane_Service12_Rear_R_lower_oven_power",
+   "actor": "Rear_R_lower_oven_power",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\356.png",
+   "clear": 1.0,
+   "size_m": [
+    0.05,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 357,
+   "mesh": "SM_Plane_Service12_Rear_R_meal_cart",
+   "actor": "Rear_R_meal_cart",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\357.png",
+   "clear": 1.0,
+   "size_m": [
+    0.55,
+    0.08,
+    0.8
+   ]
+  },
+  {
+   "index": 358,
+   "mesh": "SM_Plane_Service12_Rear_R_supplies",
+   "actor": "Rear_R_supplies",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\358.png",
+   "clear": 1.0,
+   "size_m": [
+    0.55,
+    0.08,
+    0.8
+   ]
+  },
+  {
+   "index": 359,
+   "mesh": "SM_Plane_Service12_Rear_R_upper_cups",
+   "actor": "Rear_R_upper_cups",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\359.png",
+   "clear": 1.0,
+   "size_m": [
+    0.55,
+    0.08,
+    0.25
+   ]
+  },
+  {
+   "index": 360,
+   "mesh": "SM_Plane_Service12_Rear_R_upper_oven_door",
+   "actor": "Rear_R_upper_oven_door",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\360.png",
+   "clear": 1.0,
+   "size_m": [
+    0.55,
+    0.12,
+    0.39
+   ]
+  },
+  {
+   "index": 361,
+   "mesh": "SM_Plane_Service12_Rear_R_upper_oven_heat_indicator",
+   "actor": "Rear_R_upper_oven_heat_indicator",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\361.png",
+   "clear": 1.0,
+   "size_m": [
+    0.03,
+    0.01,
+    0.03
+   ]
+  },
+  {
+   "index": 362,
+   "mesh": "SM_Plane_Service12_Rear_R_upper_oven_power",
+   "actor": "Rear_R_upper_oven_power",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\362.png",
+   "clear": 1.0,
+   "size_m": [
+    0.05,
+    0.02,
+    0.05
+   ]
+  },
+  {
+   "index": 363,
+   "mesh": "SM_Plane_Service12_Rear_centre_left",
+   "actor": "Rear_centre_left",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\363.png",
+   "clear": 1.0,
+   "size_m": [
+    0.61,
+    0.08,
+    0.88
+   ]
+  },
+  {
+   "index": 364,
+   "mesh": "SM_Plane_Service12_Rear_centre_right",
+   "actor": "Rear_centre_right",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\364.png",
+   "clear": 1.0,
+   "size_m": [
+    0.61,
+    0.08,
+    0.88
+   ]
+  },
+  {
+   "index": 365,
+   "mesh": "SM_Plane_Service12_Rear_dispatch_drawer_1",
+   "actor": "Rear_dispatch_drawer_1",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\365.png",
+   "clear": 1.0,
+   "size_m": [
+    0.52,
+    0.83,
+    0.27
+   ]
+  },
+  {
+   "index": 366,
+   "mesh": "SM_Plane_Service12_Rear_dispatch_drawer_2",
+   "actor": "Rear_dispatch_drawer_2",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\366.png",
+   "clear": 1.0,
+   "size_m": [
+    0.52,
+    0.83,
+    0.27
+   ]
+  },
+  {
+   "index": 367,
+   "mesh": "SM_Plane_Service12_Rear_dispatch_drawer_3",
+   "actor": "Rear_dispatch_drawer_3",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\367.png",
+   "clear": 1.0,
+   "size_m": [
+    0.52,
+    0.83,
+    0.27
+   ]
+  },
+  {
+   "index": 368,
+   "mesh": "SM_Plane_Service12_Rear_dispatch_locker",
+   "actor": "Rear_dispatch_locker",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\368.png",
+   "clear": 1.0,
+   "size_m": [
+    0.08,
+    0.57,
+    0.8
+   ]
+  },
+  {
+   "index": 369,
+   "mesh": "SM_Plane_Service12_Rear_service_drawer_1",
+   "actor": "Rear_service_drawer_1",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\369.png",
+   "clear": 1.0,
+   "size_m": [
+    0.42,
+    0.83,
+    0.27
+   ]
+  },
+  {
+   "index": 370,
+   "mesh": "SM_Plane_Service12_Rear_service_drawer_2",
+   "actor": "Rear_service_drawer_2",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\370.png",
+   "clear": 1.0,
+   "size_m": [
+    0.42,
+    0.83,
+    0.27
+   ]
+  },
+  {
+   "index": 371,
+   "mesh": "SM_Plane_Service12_Rear_service_drawer_3",
+   "actor": "Rear_service_drawer_3",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\371.png",
+   "clear": 1.0,
+   "size_m": [
+    0.42,
+    0.83,
+    0.27
+   ]
+  },
+  {
+   "index": 372,
+   "mesh": "SM_Plane_Service12_Rear_service_locker",
+   "actor": "Rear_service_locker",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\372.png",
+   "clear": 1.0,
+   "size_m": [
+    0.08,
+    0.57,
+    0.8
+   ]
+  },
+  {
+   "index": 373,
+   "mesh": "SM_Plane_Service12_Rear_upper_left",
+   "actor": "Rear_upper_left",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\373.png",
+   "clear": 1.0,
+   "size_m": [
+    0.61,
+    0.08,
+    0.47
+   ]
+  },
+  {
+   "index": 374,
+   "mesh": "SM_Plane_Service12_Rear_upper_right",
+   "actor": "Rear_upper_right",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\374.png",
+   "clear": 1.0,
+   "size_m": [
+    0.61,
+    0.08,
+    0.47
+   ]
+  },
+  {
+   "index": 375,
+   "mesh": "SM_Plane_ServiceInterphone12",
+   "actor": "Mid main phone base12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\375.png",
+   "clear": 1.0,
+   "size_m": [
+    0.19,
+    0.11,
+    0.49
+   ]
+  },
+  {
+   "index": 376,
+   "mesh": "SM_Plane_ServiceReceiver12",
+   "actor": "Mid main phone receiver12",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\376.png",
+   "clear": 1.0,
+   "size_m": [
+    0.08,
+    0.06,
+    0.25
+   ]
+  },
+  {
+   "index": 377,
+   "mesh": "SM_Plane_SidePushcap12_0",
+   "actor": "Cockpit side pushbutton 0112",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\377.png",
+   "clear": 1.0,
+   "size_m": [
+    0.04,
+    0.03,
+    0.04
+   ]
+  },
+  {
+   "index": 378,
+   "mesh": "SM_Plane_SidePushcap12_1",
+   "actor": "Cockpit side pushbutton 0212",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\378.png",
+   "clear": 1.0,
+   "size_m": [
+    0.04,
+    0.03,
+    0.04
+   ]
+  },
+  {
+   "index": 379,
+   "mesh": "SM_Plane_SidePushcap12_2",
+   "actor": "Cockpit side pushbutton 0312",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\379.png",
+   "clear": 1.0,
+   "size_m": [
+    0.04,
+    0.03,
+    0.04
+   ]
+  },
+  {
+   "index": 380,
+   "mesh": "SM_Plane_SidePushcap12_3",
+   "actor": "Cockpit side pushbutton 0412",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\380.png",
+   "clear": 1.0,
+   "size_m": [
+    0.04,
+    0.03,
+    0.04
+   ]
+  },
+  {
+   "index": 381,
+   "mesh": "SM_Plane_SidePushcap12_4",
+   "actor": "Cockpit side pushbutton 0512",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\381.png",
+   "clear": 1.0,
+   "size_m": [
+    0.04,
+    0.03,
+    0.04
+   ]
+  },
+  {
+   "index": 382,
+   "mesh": "SM_Plane_SidePushcap12_5",
+   "actor": "Cockpit side pushbutton 0612",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\382.png",
+   "clear": 1.0,
+   "size_m": [
+    0.04,
+    0.03,
+    0.04
+   ]
+  },
+  {
+   "index": 383,
+   "mesh": "SM_Plane_SideRotary12_0",
+   "actor": "Cockpit side rotary 112",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\383.png",
+   "clear": 1.0,
+   "size_m": [
+    0.05,
+    0.05,
+    0.03
+   ]
+  },
+  {
+   "index": 384,
+   "mesh": "SM_Plane_SideRotary12_1",
+   "actor": "Cockpit side rotary 212",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\384.png",
+   "clear": 1.0,
+   "size_m": [
+    0.05,
+    0.05,
+    0.03
+   ]
+  },
+  {
+   "index": 385,
+   "mesh": "SM_Plane_SideRotary12_2",
+   "actor": "Cockpit side rotary 312",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\385.png",
+   "clear": 1.0,
+   "size_m": [
+    0.05,
+    0.05,
+    0.03
+   ]
+  },
+  {
+   "index": 386,
+   "mesh": "SM_Plane_SideRotary12_3",
+   "actor": "Cockpit side rotary 412",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\386.png",
+   "clear": 1.0,
+   "size_m": [
+    0.05,
+    0.05,
+    0.03
+   ]
+  },
+  {
+   "index": 387,
+   "mesh": "SM_Plane_SideRotary12_4",
+   "actor": "Cockpit side rotary 512",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\387.png",
+   "clear": 1.0,
+   "size_m": [
+    0.05,
+    0.05,
+    0.03
+   ]
+  },
+  {
+   "index": 388,
+   "mesh": "SM_Plane_SideRotary12_5",
+   "actor": "Cockpit side rotary 612",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\388.png",
+   "clear": 1.0,
+   "size_m": [
+    0.05,
+    0.05,
+    0.03
+   ]
+  },
+  {
+   "index": 389,
+   "mesh": "SM_Plane_StatusPushcap12_0",
+   "actor": "Cockpit status pushlight 112",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\389.png",
+   "clear": 1.0,
+   "size_m": [
+    0.09,
+    0.02,
+    0.09
+   ]
+  },
+  {
+   "index": 390,
+   "mesh": "SM_Plane_StatusPushcap12_1",
+   "actor": "Cockpit status pushlight 212",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\390.png",
+   "clear": 1.0,
+   "size_m": [
+    0.09,
+    0.02,
+    0.09
+   ]
+  },
+  {
+   "index": 391,
+   "mesh": "SM_Plane_Suite11_L",
+   "actor": "Private suite 01 A",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\391.png",
+   "clear": 1.0,
+   "size_m": [
+    1.41,
+    2.38,
+    1.35
+   ]
+  },
+  {
+   "index": 392,
+   "mesh": "SM_Plane_Suite11_R",
+   "actor": "Private suite 01 K",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\392.png",
+   "clear": 1.0,
+   "size_m": [
+    1.41,
+    2.38,
+    1.35
+   ]
+  },
+  {
+   "index": 393,
+   "mesh": "SM_Plane_SuiteDetails11_L",
+   "actor": "Suite personal fittings 01 L",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\393.png",
+   "clear": 0.3,
+   "size_m": [
+    0.39,
+    1.06,
+    0.69
+   ]
+  },
+  {
+   "index": 394,
+   "mesh": "SM_Plane_SuiteDetails11_R",
+   "actor": "Suite personal fittings 01 R",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\394.png",
+   "clear": 0.3,
+   "size_m": [
+    0.39,
+    1.06,
+    0.69
+   ]
+  },
+  {
+   "index": 395,
+   "mesh": "SM_Plane_SuiteDoor11_L",
+   "actor": "Suite privacy door 01 A",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\395.png",
+   "clear": 0.0,
+   "size_m": [
+    0.06,
+    0.91,
+    1.29
+   ]
+  },
+  {
+   "index": 396,
+   "mesh": "SM_Plane_SuiteDoor11_R",
+   "actor": "Suite privacy door 01 K",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\396.png",
+   "clear": 0.0,
+   "size_m": [
+    0.06,
+    0.91,
+    1.29
+   ]
+  },
+  {
+   "index": 397,
+   "mesh": "SM_Plane_UtilityKnob13_POWER",
+   "actor": "Galley power isolation13",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\397.png",
+   "clear": 1.0,
+   "size_m": [
+    0.06,
+    0.04,
+    0.06
+   ]
+  },
+  {
+   "index": 398,
+   "mesh": "SM_Plane_UtilityKnob13_WATER",
+   "actor": "Galley water isolation13",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\398.png",
+   "clear": 1.0,
+   "size_m": [
+    0.06,
+    0.04,
+    0.06
+   ]
+  },
+  {
+   "index": 399,
+   "mesh": "SM_Plane_UtilityPanel13",
+   "actor": "Galley utility enclosure13",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\399.png",
+   "clear": 1.0,
+   "size_m": [
+    0.48,
+    0.08,
+    0.38
+   ]
+  },
+  {
+   "index": 400,
+   "mesh": "SM_Plane_WindowShadeSlat18_L",
+   "actor": "Window shade 02 L18 section 1",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\400.png",
+   "clear": 0.0,
+   "size_m": [
+    0.01,
+    0.7,
+    0.26
+   ]
+  },
+  {
+   "index": 401,
+   "mesh": "SM_Plane_WindowShadeSlat18_R",
+   "actor": "Window shade 01 R18 section 1",
+   "kind": "StaticMeshActor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Models\\401.png",
+   "clear": 0.0,
+   "size_m": [
+    0.01,
+    0.7,
+    0.26
+   ]
+  }
+ ]
+}

@@ -1,0 +1,225 @@
+{
+  "revision": "12",
+  "status": "SUCCESS",
+  "source_file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\Plane.blend",
+  "source_sha256": "718cd6c2845211682a6eac6057aed830bfcc02e185a01c5032b68cf2e8431000",
+  "checked_at_utc": "2026-10-24T18:45:04Z",
+  "method": "Read-only current saved evaluated meshes, exact bezel triangle intersection pairs, full rear-face carrier rays, hardware intersection pairs, entire title glyph footprint and evaluated flat-face corner normals. No authoring helpers imported or applied.",
+  "checks": [
+    {
+      "test": "All saved instrument bezels are pairwise free of triangle intersections",
+      "passed": true,
+      "bezel_count": 13,
+      "actual_pairs_checked": 78,
+      "intersections": []
+    },
+    {
+      "test": "Central instrument bodies have positive projected clearance",
+      "passed": true,
+      "measured_body_gap_m": 0.04418984428048134,
+      "auxiliary_radius_m": 0.046999990940093994,
+      "auxiliary_centre": [
+        -0.27000004053115845,
+        -4.633290767669678,
+        1.3550000190734863
+      ],
+      "compass_centre": [
+        -0.04681023582816124,
+        -4.621644973754883,
+        1.3550000190734863
+      ]
+    },
+    {
+      "test": "Auxiliary radar rear face is fully mounted into actual carrier",
+      "passed": true,
+      "samples": 40,
+      "unsupported": [],
+      "minimum_recess_m": 0.0039997100830078125,
+      "maximum_recess_m": 0.004000663757324219
+    },
+    {
+      "test": "Central bezels clear microphone, pushlights and retaining hardware",
+      "passed": true,
+      "hardware_objects": 15,
+      "intersections": []
+    },
+    {
+      "test": "All thirteen complete instrument rear rims have a real carrier or adapter",
+      "passed": true,
+      "instruments": [
+        {
+          "root": "Recessed round instrument.013",
+          "samples": 40,
+          "unsupported": 0,
+          "maximum_back_gap_m": -0.0019992526504211128
+        },
+        {
+          "root": "Recessed round instrument.014",
+          "samples": 40,
+          "unsupported": 0,
+          "maximum_back_gap_m": -0.010128961061127484
+        },
+        {
+          "root": "Recessed round instrument.015",
+          "samples": 40,
+          "unsupported": 0,
+          "maximum_back_gap_m": -0.004873998957918957
+        },
+        {
+          "root": "Recessed round instrument.016",
+          "samples": 40,
+          "unsupported": 0,
+          "maximum_back_gap_m": -0.004106295309611596
+        },
+        {
+          "root": "Recessed round instrument.017",
+          "samples": 40,
+          "unsupported": 0,
+          "maximum_back_gap_m": -0.0045750007120659575
+        },
+        {
+          "root": "Recessed round instrument.018",
+          "samples": 40,
+          "unsupported": 0,
+          "maximum_back_gap_m": -0.004067101806867868
+        },
+        {
+          "root": "Recessed round instrument.019",
+          "samples": 40,
+          "unsupported": 0,
+          "maximum_back_gap_m": -0.007902474411821458
+        },
+        {
+          "root": "Recessed round instrument.020",
+          "samples": 40,
+          "unsupported": 0,
+          "maximum_back_gap_m": -0.003999710083019694
+        },
+        {
+          "root": "Recessed round instrument.021",
+          "samples": 40,
+          "unsupported": 0,
+          "maximum_back_gap_m": -0.0019986937622888945
+        },
+        {
+          "root": "Recessed round instrument.022",
+          "samples": 40,
+          "unsupported": 0,
+          "maximum_back_gap_m": -0.005292393441777676
+        },
+        {
+          "root": "Recessed round instrument.023",
+          "samples": 40,
+          "unsupported": 0,
+          "maximum_back_gap_m": -0.005994064791593701
+        },
+        {
+          "root": "Recessed round instrument.024",
+          "samples": 40,
+          "unsupported": 0,
+          "maximum_back_gap_m": -0.005726641393266618
+        },
+        {
+          "root": "Recessed round instrument.025",
+          "samples": 40,
+          "unsupported": 0,
+          "maximum_back_gap_m": -0.004946188913891092
+        }
+      ]
+    },
+    {
+      "test": "Fitted rear adapters are closed solids and clear neighbouring bezels",
+      "passed": true,
+      "adapters": [
+        {
+          "name": "Recessed round instrument.013 fitted carrier adapter12",
+          "vertices": 384,
+          "nonmanifold_edges": 0
+        },
+        {
+          "name": "Recessed round instrument.014 fitted carrier adapter12",
+          "vertices": 384,
+          "nonmanifold_edges": 0
+        },
+        {
+          "name": "Recessed round instrument.016 fitted carrier adapter12",
+          "vertices": 384,
+          "nonmanifold_edges": 0
+        },
+        {
+          "name": "Recessed round instrument.021 fitted carrier adapter12",
+          "vertices": 384,
+          "nonmanifold_edges": 0
+        }
+      ],
+      "neighbour_intersections": []
+    },
+    {
+      "test": "Entire saved DESTINATION glyph footprint has close physical support",
+      "passed": true,
+      "glyph_vertices": 1356,
+      "unsupported": 0,
+      "minimum_gap_m": 0.0005999659709632395,
+      "maximum_gap_m": 0.0006204457543790339,
+      "font_scale": [
+        1.0800001621246338,
+        1.0,
+        0.9999999403953552
+      ],
+      "positive_basis": true
+    },
+    {
+      "test": "Saved PSU face tiles have a real manufactured seam without overlap",
+      "passed": true,
+      "measured_gap_m": 0.0019999993965029716,
+      "key_tile_y_extents": [
+        [
+          0.008999999612569809,
+          0.24700000882148743
+        ],
+        [
+          0.008999999612569809,
+          0.24700000882148743
+        ]
+      ],
+      "optic_gasper_y_extents": [
+        [
+          -0.2370000034570694,
+          0.007000000216066837
+        ],
+        [
+          -0.2370000034570694,
+          0.007000000216066837
+        ]
+      ]
+    },
+    {
+      "test": "PSU planar face normals are split from aperture and perimeter walls",
+      "passed": true,
+      "objects": [
+        {
+          "object": "PSU continuous formed perimeter and return12",
+          "flat_corner_samples": 384,
+          "maximum_tilt_deg": 0.0
+        },
+        {
+          "object": "PSU through key aperture12",
+          "flat_corner_samples": 384,
+          "maximum_tilt_deg": 0.0
+        },
+        {
+          "object": "PSU through key aperture12.001",
+          "flat_corner_samples": 384,
+          "maximum_tilt_deg": 0.0
+        }
+      ]
+    },
+    {
+      "test": "Saved source did not change during read-only measurements",
+      "passed": true
+    }
+  ],
+  "limits": [
+    "These are bounded source attachment checks; current native screenshots and interaction/body routes remain separate evidence."
+  ]
+}

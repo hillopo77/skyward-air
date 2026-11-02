@@ -1,0 +1,340 @@
+{
+ "status": "SUCCESS",
+ "before": {
+  "PostProcessVolume": {
+   "priority": 0.0,
+   "unbound": true,
+   "ambient_occlusion_intensity": 0.3499999940395355,
+   "ambient_occlusion_radius": 25.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.0
+  },
+  "Airport clean daylight grade": {
+   "priority": 1000.0,
+   "unbound": true,
+   "ambient_occlusion_intensity": 0.30000001192092896,
+   "ambient_occlusion_radius": 55.0,
+   "bloom_intensity": 0.10000000149011612,
+   "vignette_intensity": 0.0,
+   "auto_exposure_bias": 0.0
+  },
+  "Airport26 journey overlay": {
+   "priority": 500.0,
+   "unbound": true
+  },
+  "Entrance27 local surface separation": {
+   "priority": 1100.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.41999998688697815,
+   "ambient_occlusion_radius": 35.0,
+   "bloom_intensity": 0.07000000029802322
+  },
+  "Checkin33 warm welcoming grade": {
+   "priority": 1200.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.2199999988079071,
+   "ambient_occlusion_radius": 38.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade entrancefoyer": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.2199999988079071,
+   "ambient_occlusion_radius": 38.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade checkin": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.2199999988079071,
+   "ambient_occlusion_radius": 38.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade publicreturn": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.2199999988079071,
+   "ambient_occlusion_radius": 38.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade landsidecorridor": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.2199999988079071,
+   "ambient_occlusion_radius": 38.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade security": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.2199999988079071,
+   "ambient_occlusion_radius": 38.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade recovery": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.2199999988079071,
+   "ambient_occlusion_radius": 38.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade concourse": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.2199999988079071,
+   "ambient_occlusion_radius": 38.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade gate07": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.2199999988079071,
+   "ambient_occlusion_radius": 38.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade gate08": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.2199999988079071,
+   "ambient_occlusion_radius": 38.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade cafefoyer": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.2199999988079071,
+   "ambient_occlusion_radius": 38.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade cafe": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.2199999988079071,
+   "ambient_occlusion_radius": 38.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade amenitylobby": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.2199999988079071,
+   "ambient_occlusion_radius": 38.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade amenities": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.2199999988079071,
+   "ambient_occlusion_radius": 38.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade operations": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.2199999988079071,
+   "ambient_occlusion_radius": 38.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade gate07entry": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.2199999988079071,
+   "ambient_occlusion_radius": 38.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade baggageservice": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.2199999988079071,
+   "ambient_occlusion_radius": 38.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade arrivals": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.2199999988079071,
+   "ambient_occlusion_radius": 38.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade arrivalsreturn": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.2199999988079071,
+   "ambient_occlusion_radius": 38.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade publicreturneast": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.2199999988079071,
+   "ambient_occlusion_radius": 38.0,
+   "bloom_intensity": 0.04500000178813934
+  }
+ },
+ "after": {
+  "PostProcessVolume": {
+   "priority": 0.0,
+   "unbound": true,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.11999999731779099,
+   "vignette_intensity": 0.0
+  },
+  "Airport clean daylight grade": {
+   "priority": 1000.0,
+   "unbound": true,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "ambient_occlusion_static_fraction": 0.0,
+   "bloom_intensity": 0.30000001192092896,
+   "vignette_intensity": 0.25,
+   "auto_exposure_bias": 0.0
+  },
+  "Entrance27 local surface separation": {
+   "priority": 1100.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.07000000029802322
+  },
+  "Checkin33 warm welcoming grade": {
+   "priority": 1200.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade entrancefoyer": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade checkin": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade publicreturn": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade landsidecorridor": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade security": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade recovery": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade concourse": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade gate07": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade gate08": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade cafefoyer": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade cafe": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade amenitylobby": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade amenities": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade operations": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade gate07entry": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade baggageservice": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade arrivals": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade arrivalsreturn": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.04500000178813934
+  },
+  "AP38 warm grade publicreturneast": {
+   "priority": 1538.0,
+   "unbound": false,
+   "ambient_occlusion_intensity": 0.550000011920929,
+   "ambient_occlusion_radius": 110.0,
+   "bloom_intensity": 0.04500000178813934
+  }
+ }
+}

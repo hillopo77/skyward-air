@@ -1,0 +1,69 @@
+{
+ "status": "SUCCESS",
+ "panel": {
+  "note": "measured in the first run; see Look47_first.json",
+  "mids": 1
+ },
+ "shots": [
+  {
+   "emission": 0.0,
+   "view": "checkin",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Look\\ceiling_checkin_e00.png"
+  },
+  {
+   "emission": 0.0,
+   "view": "concourse",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Look\\ceiling_concourse_e00.png"
+  },
+  {
+   "emission": 0.0,
+   "view": "corridor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Look\\ceiling_corridor_e00.png"
+  },
+  {
+   "emission": 0.2,
+   "view": "checkin",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Look\\ceiling_checkin_e20.png"
+  },
+  {
+   "emission": 0.2,
+   "view": "concourse",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Look\\ceiling_concourse_e20.png"
+  },
+  {
+   "emission": 0.2,
+   "view": "corridor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Look\\ceiling_corridor_e20.png"
+  },
+  {
+   "emission": 0.4,
+   "view": "checkin",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Look\\ceiling_checkin_e40.png"
+  },
+  {
+   "emission": 0.4,
+   "view": "concourse",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Look\\ceiling_concourse_e40.png"
+  },
+  {
+   "emission": 0.4,
+   "view": "corridor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Look\\ceiling_corridor_e40.png"
+  },
+  {
+   "emission": 0.7,
+   "view": "checkin",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Look\\ceiling_checkin_e70.png"
+  },
+  {
+   "emission": 0.7,
+   "view": "concourse",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Look\\ceiling_concourse_e70.png"
+  },
+  {
+   "emission": 0.7,
+   "view": "corridor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\Look\\ceiling_corridor_e70.png"
+  }
+ ]
+}

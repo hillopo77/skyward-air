@@ -1,0 +1,56 @@
+{
+  "status": "SUCCESS",
+  "layout": {
+    "revision": "06",
+    "business_seats": 8,
+    "economy_seats": 24,
+    "passenger_seats": 32,
+    "business_rows": [
+      3.05,
+      4.65
+    ],
+    "economy_rows": [
+      6.9,
+      8.05,
+      9.2,
+      10.35,
+      11.5,
+      12.65
+    ],
+    "business_pitch_m": 1.6,
+    "economy_pitch_m": 1.15,
+    "class_divider_y_m": 5.85,
+    "cockpit_extension_m": 1.25,
+    "cockpit_front_y_m": -3.83,
+    "aft_service_offset_m": 2.3,
+    "cockpit_entry_clear_depth_m": 1.2,
+    "curtain_openings": "Two gathered pairs leave both aisles walkable; curtain is static editable cloth."
+  },
+  "bounds": 52,
+  "checks": [
+    {
+      "test": "8 business / 24 economy",
+      "passed": true
+    },
+    {
+      "test": "business pitch exceeds economy pitch",
+      "passed": true
+    },
+    {
+      "test": "both pilots behind standing entry",
+      "passed": true
+    },
+    {
+      "test": "service vestibule bulkhead separate from cockpit door",
+      "passed": true
+    },
+    {
+      "test": "curtain divider between seating classes",
+      "passed": true
+    },
+    {
+      "test": "lavatories retained",
+      "passed": true
+    }
+  ]
+}

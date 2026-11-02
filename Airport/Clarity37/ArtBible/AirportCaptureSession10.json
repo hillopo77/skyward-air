@@ -1,0 +1,82 @@
+{
+  "status": "READY",
+  "pass_id": 10,
+  "revision": 37,
+  "runtime_sha256": "bec3da16c29f079ec161aa8fca9e5139e59842059f8ebe762d46c454bac591ae",
+  "journey": {
+    "checked_in": false,
+    "bag_accepted": false,
+    "security": false,
+    "boarding": false,
+    "aboard": false
+  },
+  "held": null,
+  "driving": null,
+  "spectator": false,
+  "native_physics_bodies": 17,
+  "events": [
+    {
+      "event": "Room-based airport24 ready",
+      "time_s": 0.40600000000267755,
+      "zones": 17,
+      "controlled_leaves": 5
+    },
+    {
+      "event": "Clear arrival26 ready",
+      "time_s": 0.4840000000112923,
+      "initial_exit": "checkin",
+      "high_dpi": "project enabled",
+      "profile": "FastTAA"
+    },
+    {
+      "event": "Entrance prototype27 ready",
+      "time_s": 0.5,
+      "level": 5,
+      "profile": "Distance27"
+    },
+    {
+      "event": "Crafted check-in30 ready",
+      "time_s": 0.5149999999994179,
+      "queue": "live",
+      "counters": 2
+    },
+    {
+      "event": "Arrival31 ready",
+      "time_s": 0.5620000000053551,
+      "buffer_m": 4.1,
+      "queue_starts_ahead": true
+    },
+    {
+      "event": "Circulation35 ready",
+      "time_s": 0.5780000000086147,
+      "cafe_m2": 306,
+      "gallery_m2": 72,
+      "stair_width_m": 2.4
+    },
+    {
+      "event": "Detail36 ready",
+      "time_s": 0.6090000000112923,
+      "screening_exit": "aligned and clear",
+      "cafe_bins": 3,
+      "sofas": 2
+    },
+    {
+      "event": "Clarity37 ready",
+      "time_s": 0.6399999999994179,
+      "screening_exit": "aligned and clear",
+      "cafe_bins": 3,
+      "sofas": 2
+    }
+  ],
+  "frame_statistics": {
+    "frames": 0,
+    "average_fps": null,
+    "p95_ms": null,
+    "maximum_ms": null
+  },
+  "player_source": [
+    -50.9,
+    -12.5,
+    1.62
+  ]
+}

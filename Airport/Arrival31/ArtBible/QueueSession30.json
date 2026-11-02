@@ -1,0 +1,26 @@
+{
+  "status": "READY",
+  "joined": true,
+  "called": true,
+  "passengers_ahead": 0,
+  "departures": {
+    "CH12 Queue passenger 6": {
+      "index": 8,
+      "position": [
+        -39.92149823087543,
+        -6.00055879482265,
+        0.0
+      ]
+    },
+    "CH12 Queue passenger 3": {
+      "index": 8,
+      "position": [
+        -37.618512036826345,
+        -6.000823539117007,
+        0.0
+      ]
+    }
+  },
+  "hud": "Called",
+  "updated": 1793204431.7382088
+}

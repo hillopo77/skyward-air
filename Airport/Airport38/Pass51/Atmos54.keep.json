@@ -1,0 +1,98 @@
+{
+ "remove": [
+  "Airport53 clerestory sun veil"
+ ],
+ "grade": {
+  "room_prefixes": [
+   "AP38 warm grade",
+   "Checkin33",
+   "Entrance27"
+  ],
+  "room": {
+   "ambient_cubemap_intensity": 0.28,
+   "ambient_cubemap_tint": [
+    1.0,
+    0.9,
+    0.76
+   ],
+   "white_temp": 7000,
+   "color_contrast": [
+    0.95,
+    0.95,
+    0.95
+   ],
+   "ambient_occlusion_intensity": 0.7,
+   "ambient_occlusion_radius": 180,
+   "bloom_intensity": 0.12,
+   "vignette_intensity": 0.18
+  },
+  "room_overrides": {
+   "AP38 warm grade entrancefoyer": {
+    "ambient_cubemap_intensity": 0.3
+   },
+   "AP38 warm grade checkin": {
+    "ambient_cubemap_intensity": 0.3
+   },
+   "AP38 warm grade landsidecorridor": {
+    "ambient_cubemap_intensity": 0.3
+   }
+  },
+  "outdoor": {
+   "ambient_cubemap_tint": [
+    1.0,
+    0.95,
+    0.88
+   ],
+   "white_temp": 6900,
+   "color_contrast": [
+    0.96,
+    0.96,
+    0.96
+   ],
+   "bloom_intensity": 0.15,
+   "vignette_intensity": 0.18
+  }
+ },
+ "lights": {
+  "prefix": "AP38 practical",
+  "temp": 2900,
+  "volumetric": 0.3
+ },
+ "sun": {
+  "volumetric": 5.0,
+  "temp": 5200
+ },
+ "haze": {
+  "z": 0.0,
+  "props": {
+   "fog_density": 0.005,
+   "fog_height_falloff": 0.25,
+   "start_distance": 300,
+   "fog_inscattering_luminance": [
+    0.55,
+    0.5,
+    0.42
+   ],
+   "enable_volumetric_fog": true,
+   "volumetric_fog_scattering_distribution": 0.7,
+   "volumetric_fog_extinction_scale": 9.0,
+   "volumetric_fog_distance": 4000
+  }
+ },
+ "seats": [
+  {
+   "label": "Landside corridor bench46 0",
+   "offset": [
+    0,
+    -0.66
+   ]
+  },
+  {
+   "label": "Landside corridor bench46 1",
+   "offset": [
+    0,
+    -0.66
+   ]
+  }
+ ]
+}

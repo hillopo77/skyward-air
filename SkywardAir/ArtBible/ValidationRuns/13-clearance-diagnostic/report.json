@@ -1,0 +1,461 @@
+{
+  "revision": "13",
+  "validator": "13",
+  "status": "RUNNING",
+  "capture_method": "actual standalone viewport Shot after settled temporal AA",
+  "navigation_method": "standing collision-enabled player movement; initial placement only",
+  "captures": [
+    {
+      "camera": "CAM_Plane_Business07",
+      "file": "UE_110_business13.png",
+      "walking_test": null,
+      "bytes": 1425641,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_SuiteEntry11",
+      "file": "UE_111_suiteentry13.png",
+      "walking_test": null,
+      "bytes": 1308517,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_SuiteSeated11",
+      "file": "UE_112_suiteseated13.png",
+      "walking_test": null,
+      "bytes": 1009482,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_Economy07",
+      "file": "UE_113_economy13.png",
+      "walking_test": null,
+      "bytes": 1528387,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_MidGalley07",
+      "file": "UE_114_galley13.png",
+      "walking_test": null,
+      "bytes": 1374040,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_Crew10",
+      "file": "UE_115_crew13.png",
+      "walking_test": null,
+      "bytes": 1314934,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_ServiceAft",
+      "file": "UE_116_rearservice13.png",
+      "walking_test": null,
+      "bytes": 1206558,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_AftCrossAisle10",
+      "file": "UE_117_lavcorridor13.png",
+      "walking_test": null,
+      "bytes": 1270643,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_Lavatory",
+      "file": "UE_118_laventry13.png",
+      "walking_test": null,
+      "bytes": 1211653,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_LavatoryBasin",
+      "file": "UE_119_vanity13.png",
+      "walking_test": null,
+      "bytes": 1189472,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_CockpitWide",
+      "file": "UE_120_cockpit13.png",
+      "walking_test": null,
+      "bytes": 1479359,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_PilotEye09",
+      "file": "UE_121_piloteye13.png",
+      "walking_test": null,
+      "bytes": 1327047,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_Overhead10",
+      "file": "UE_122_overhead13.png",
+      "walking_test": null,
+      "bytes": 1070093,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_AnalogDetail10",
+      "file": "UE_123_controls13.png",
+      "walking_test": null,
+      "bytes": 1379801,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_CargoStairs10",
+      "file": "UE_124_stairs13.png",
+      "walking_test": null,
+      "bytes": 1382389,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_CargoHold10",
+      "file": "UE_125_hold13.png",
+      "walking_test": null,
+      "bytes": 1434144,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_Exterior07",
+      "file": "UE_126_airframe13.png",
+      "walking_test": null,
+      "bytes": 975909,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_Profile08",
+      "file": "UE_127_profile13.png",
+      "walking_test": null,
+      "bytes": 1054195,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_SuitesOpen11",
+      "file": "UE_110_suites_open13.png",
+      "walking_test": null,
+      "bytes": 1414727,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_SuitesClosed11",
+      "file": "UE_111_suites_closed13.png",
+      "walking_test": null,
+      "bytes": 1322186,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_SuiteInterior11",
+      "file": "UE_112_suite_interior13.png",
+      "walking_test": null,
+      "bytes": 1339722,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_SuiteSeated11",
+      "file": "UE_113_suite_ife13.png",
+      "walking_test": null,
+      "bytes": 1005483,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_SuiteDoorDetail11",
+      "file": "UE_114_suite_door13.png",
+      "walking_test": null,
+      "bytes": 1311588,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    },
+    {
+      "camera": "CAM_Plane_CrewServices11",
+      "file": "UE_131_forwardcrew13.png",
+      "walking_test": null,
+      "bytes": 1264876,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA",
+      "verification_run": "13-full-2"
+    }
+  ],
+  "interactions": [
+    {
+      "test": "E key imports and polling API is available",
+      "passed": true,
+      "verification_run": "13-full-2",
+      "key": "E"
+    },
+    {
+      "test": "V review cycle 0",
+      "passed": true,
+      "verification_run": "13-full-2"
+    },
+    {
+      "test": "V review cycle 1",
+      "passed": true,
+      "verification_run": "13-full-2"
+    },
+    {
+      "test": "V review cycle 2",
+      "passed": true,
+      "verification_run": "13-full-2"
+    },
+    {
+      "test": "V review cycle -1",
+      "passed": true,
+      "verification_run": "13-full-2"
+    }
+  ],
+  "navigation": [],
+  "configuration": [
+    {
+      "test": "all exposed targets have a clear authored approach",
+      "passed": false,
+      "verification_run": "13-full-2",
+      "clear_target_count": 428,
+      "blocked": [
+        {
+          "actor": "Cockpit side rotary 112",
+          "kind": "control",
+          "clear": false,
+          "approach": [
+            -1.1,
+            -3.5,
+            1.62
+          ],
+          "point": [
+            -1.6399999856948853,
+            -4.170000076293945,
+            0.9700000286102295
+          ],
+          "asset": "SM_Plane_CockpitLightPod13_2",
+          "blocking": true,
+          "owner": "Cockpit supported cabin-light station 213",
+          "label": "Cockpit supported cabin-light station 213",
+          "impact": [
+            -1.4615878289158928,
+            -3.948636813663725,
+            1.1847553987473267
+          ],
+          "gap_cm": 35.6304
+        },
+        {
+          "actor": "Cockpit side rotary 412",
+          "kind": "control",
+          "clear": false,
+          "approach": [
+            1.1,
+            -3.5,
+            1.62
+          ],
+          "point": [
+            1.6399999856948853,
+            -4.170000076293945,
+            0.9700000286102295
+          ],
+          "asset": "SM_Plane_CockpitLightPod13_5",
+          "blocking": true,
+          "owner": "Cockpit supported cabin-light station 513",
+          "label": "Cockpit supported cabin-light station 513",
+          "impact": [
+            1.4615878289158928,
+            -3.948636813663725,
+            1.1847553987473267
+          ],
+          "gap_cm": 35.6304
+        }
+      ]
+    },
+    {
+      "test": "opaque sidewall blocks remote interaction ray",
+      "passed": true,
+      "verification_run": "13-full-2"
+    },
+    {
+      "test": "visible overhead key remains selectable",
+      "passed": true,
+      "verification_run": "13-full-2"
+    },
+    {
+      "test": "left mouse button input is configured",
+      "passed": true,
+      "verification_run": "13-full-2"
+    },
+    {
+      "test": "exterior review camera set is available",
+      "passed": true,
+      "verification_run": "13-full-2",
+      "actual_count": 3
+    },
+    {
+      "test": "capture metadata is present",
+      "passed": true,
+      "verification_run": "13-full-2"
+    },
+    {
+      "test": "standing walking routes are supplied",
+      "passed": true,
+      "verification_run": "13-full-2"
+    },
+    {
+      "test": "cockpit door interaction is supplied",
+      "passed": true,
+      "verification_run": "13-full-2"
+    },
+    {
+      "test": "capsule query detects known cabin wall",
+      "passed": true,
+      "verification_run": "13-full-2",
+      "actual_actor": "SM_Plane_OuterWindowBarrel bay10 11",
+      "actual_asset": "SM_Plane_OuterWindowBarrel",
+      "blocking_hit": true,
+      "impact_source_m": [
+        -2.5,
+        15.0,
+        0.5538945770263672
+      ],
+      "known_geometry_role_passed": true,
+      "physical_bounds_passed": true,
+      "expected_actor_prefix": "COL_CabinSide",
+      "expected_source_asset": "SM_Plane_OuterWindowBarrel",
+      "radius_m": 0.2,
+      "height_m": 1.72,
+      "source_start": [
+        -4,
+        15,
+        0.86
+      ],
+      "source_end": [
+        4,
+        15,
+        0.86
+      ]
+    },
+    {
+      "test": "capsule query detects known below-eye throttle pedestal",
+      "passed": true,
+      "verification_run": "13-full-2",
+      "actual_actor": "SM_Plane_Controls",
+      "actual_asset": "SM_Plane_Controls",
+      "blocking_hit": true,
+      "impact_source_m": [
+        0.0,
+        -3.6,
+        0.2075
+      ],
+      "known_geometry_role_passed": true,
+      "physical_bounds_passed": true,
+      "expected_actor_prefix": "COL_ThrottlePedestal",
+      "expected_source_asset": "SM_Plane_Controls",
+      "radius_m": 0.2,
+      "height_m": 0.9,
+      "source_start": [
+        0,
+        -3.6,
+        0.45
+      ],
+      "source_end": [
+        0,
+        -3.6,
+        0.45
+      ]
+    }
+  ],
+  "barriers": [],
+  "body_clearance": [],
+  "inventory": {
+    "seats": 50,
+    "screens": 44,
+    "controls": 192,
+    "inspectables": 47,
+    "exposed_movables": 104,
+    "configured_movables": 106,
+    "crew_fold_seats": 4
+  },
+  "verification_runs": [
+    {
+      "run_id": "13-full-2",
+      "kind": "Fresh actions, captures, barriers and standing walking routes",
+      "status": "RUNNING",
+      "source_blend_sha256": "b5cf0ecaf28e9421a2d9c9fc4067186f14c1fab626ea6064c22e77c73c78ec9b",
+      "runtime_sha256": "ca0f79f1e45dab33409c103af5731eba4c5387515112a290f82efd8e9d096fdb",
+      "interaction_metadata_sha256": "d750cca21fcd180da4711a955f3890d3b689cc67acb11c5ffef3b68c253a4b69"
+    }
+  ],
+  "fresh_selected_fittings": {
+    "seats": 50,
+    "screens": 44,
+    "controls": 192,
+    "inspectables": 47,
+    "movables": 104
+  },
+  "body_query_positive_controls_passed": true
+}

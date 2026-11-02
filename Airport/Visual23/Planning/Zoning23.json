@@ -1,0 +1,704 @@
+{
+  "status": "PLANNED_NOT_BUILT",
+  "plan_revision": 24,
+  "units": "metres",
+  "footprint": [
+    -49,
+    -14,
+    -22,
+    18
+  ],
+  "zones": [
+    {
+      "id": "entrancefoyer",
+      "title": "ENTRANCE FOYER",
+      "rect": [
+        -49,
+        -43,
+        -18,
+        -8
+      ],
+      "fill": "#e4e3dc",
+      "ceiling_m": 3.6,
+      "description": "A public arrival space with a view toward check-in. A broad side opening leads to the desks; the north side joins the landside corridor. Space to orient and meet people.",
+      "role": "transition"
+    },
+    {
+      "id": "checkin",
+      "title": "CHECK-IN HALL",
+      "rect": [
+        -43,
+        -26,
+        -18,
+        -8
+      ],
+      "fill": "#eee4cd",
+      "ceiling_m": 3.8,
+      "description": "Staffed desks, bag-drop recesses and contained queues sit off public circulation. After check-in, leave through the offset north opening into the landside corridor.",
+      "role": "destination"
+    },
+    {
+      "id": "publicreturn",
+      "title": "PUBLIC ARRIVALS RETURN",
+      "rect": [
+        -49,
+        -25,
+        -22,
+        -18
+      ],
+      "fill": "#e3e1d9",
+      "ceiling_m": 3.2,
+      "description": "A separate passage from reclaim to the forecourt, with trolley parking in edge bays.",
+      "role": "circulation"
+    },
+    {
+      "id": "landsidecorridor",
+      "title": "LANDSIDE CORRIDOR",
+      "rect": [
+        -49,
+        -26,
+        -8,
+        -4
+      ],
+      "fill": "#f4eddc",
+      "ceiling_m": 3.4,
+      "description": "A 4 m deep connector gives breathing room between check-in and security. The security entrance is offset from the check-in exit; information and preparation signs occur before the turn.",
+      "role": "circulation"
+    },
+    {
+      "id": "security",
+      "title": "SECURITY",
+      "rect": [
+        -49,
+        -36,
+        -4,
+        7
+      ],
+      "fill": "#b9d7cb",
+      "ceiling_m": 3.5,
+      "description": "An enclosed section for preparation, two screening lanes, scanning and collection. Enter from the south and leave through a controlled east exit, out of the gate lounges sightline.",
+      "role": "destination"
+    },
+    {
+      "id": "recovery",
+      "title": "RECOMPOSURE",
+      "rect": [
+        -36,
+        -32,
+        0,
+        7
+      ],
+      "fill": "#d3e7dd",
+      "ceiling_m": 3.3,
+      "description": "A 4 m wide recovery vestibule after screening, with benches and bag-repacking ledges. Its concourse opening is offset from the screening exit, creating a pause before the larger airside space.",
+      "role": "transition"
+    },
+    {
+      "id": "concourse",
+      "title": "AIRSIDE CONCOURSE",
+      "rect": [
+        -32,
+        -26,
+        -4,
+        18
+      ],
+      "fill": "#d9e4ec",
+      "ceiling_m": 4.2,
+      "description": "A 6 m wide circulation spine serves several branches. Walk along it, choose a destination, then approach a gate, the caf\u00e9 or amenities. Furniture and displays occupy edge recesses.",
+      "role": "circulation"
+    },
+    {
+      "id": "gate07foyer",
+      "title": "A07 APPROACH",
+      "rect": [
+        -26,
+        -23,
+        -2,
+        6
+      ],
+      "fill": "#d0d8eb",
+      "ceiling_m": 3.3,
+      "description": "A recessed pocket beside the concourse. Enter near its north end, pass the A07 marker, then turn toward the lounge through an offset opening. Keep this transition generous and open.",
+      "role": "transition"
+    },
+    {
+      "id": "gate07",
+      "title": "A07 / GATE LOUNGE",
+      "rect": [
+        -23,
+        -14,
+        -3,
+        7.5
+      ],
+      "fill": "#b9c8ec",
+      "ceiling_m": 3.6,
+      "description": "A waiting destination with framed glazing and side screens, its own seating, charging ledges, display and boarding desk. The existing boarding exit still connects to the jetbridge.",
+      "role": "destination"
+    },
+    {
+      "id": "gate08foyer",
+      "title": "A08 APPROACH",
+      "rect": [
+        -26,
+        -23,
+        10,
+        18
+      ],
+      "fill": "#dbd5e9",
+      "ceiling_m": 3.3,
+      "description": "A separate recessed approach branches from the same concourse, with its own gate marker and offset lounge opening.",
+      "role": "transition"
+    },
+    {
+      "id": "gate08",
+      "title": "A08 / GATE LOUNGE",
+      "rect": [
+        -23,
+        -14,
+        9,
+        18
+      ],
+      "fill": "#c6c1e3",
+      "ceiling_m": 3.6,
+      "description": "A second waiting destination reached from its own branch. Glazed partitions, flight identity and seating orientation establish the gate. A07 and A08 do not open into one another.",
+      "role": "destination"
+    },
+    {
+      "id": "cafefoyer",
+      "title": "CAF\u00c9 APPROACH",
+      "rect": [
+        -36,
+        -32,
+        7,
+        10
+      ],
+      "fill": "#edddcd",
+      "ceiling_m": 3.3,
+      "description": "A frontage off the concourse, with a menu visible before the turn into the caf\u00e9. Use an open framed corner, with space to pause.",
+      "role": "transition"
+    },
+    {
+      "id": "cafe",
+      "title": "CAF\u00c9 / GALLERY",
+      "rect": [
+        -49,
+        -32,
+        10,
+        18
+      ],
+      "fill": "#e8cab6",
+      "ceiling_m": 3.15,
+      "description": "A furnished caf\u00e9 destination off a side branch. The lower caf\u00e9 and gallery remain a feature; stair and counter positions need adjustment to these revised boundaries.",
+      "role": "destination"
+    },
+    {
+      "id": "amenitylobby",
+      "title": "WC PASSAGE",
+      "rect": [
+        -26,
+        -23,
+        -12,
+        -2
+      ],
+      "fill": "#e4e3da",
+      "ceiling_m": 3.0,
+      "description": "A 3 m wide passage leaves the south end of the concourse and leads to the lavatories. Toilet doors stay away from lounge seating and boarding queues.",
+      "role": "transition"
+    },
+    {
+      "id": "amenities",
+      "title": "WC / ASSISTANCE",
+      "rect": [
+        -23,
+        -14,
+        -12,
+        -3
+      ],
+      "fill": "#d8d4ca",
+      "ceiling_m": 2.8,
+      "description": "Enclosed facilities reached from the amenities passage, with doors set back from circulation.",
+      "role": "destination"
+    },
+    {
+      "id": "arrivals",
+      "title": "ARRIVALS / RECLAIM",
+      "rect": [
+        -25,
+        -14,
+        -22,
+        -12
+      ],
+      "fill": "#d5d7ca",
+      "ceiling_m": 3.6,
+      "description": "A reclaim destination with a public exit into the arrivals return passage. Its route stays outside screened departures.",
+      "role": "destination"
+    },
+    {
+      "id": "operations",
+      "title": "STAFF / OPERATIONS",
+      "rect": [
+        -49,
+        -36,
+        7,
+        10
+      ],
+      "fill": "#c4c7c1",
+      "ceiling_m": 3.0,
+      "description": "A staff service strip behind security, separated from the passenger route. No public shortcut through screening.",
+      "role": "destination"
+    }
+  ],
+  "doors": [
+    {
+      "zone": "entrancefoyer",
+      "from_zone": "forecourt",
+      "to_zone": "entrancefoyer",
+      "point": [
+        -49,
+        -12.5
+      ],
+      "width_m": 2.7,
+      "axis": "y",
+      "kind": "weather entrance",
+      "controlled": false
+    },
+    {
+      "zone": "checkin",
+      "from_zone": "entrancefoyer",
+      "to_zone": "checkin",
+      "point": [
+        -43,
+        -14
+      ],
+      "width_m": 4.0,
+      "axis": "y",
+      "kind": "wide open threshold",
+      "controlled": false
+    },
+    {
+      "zone": "landsidecorridor",
+      "from_zone": "entrancefoyer",
+      "to_zone": "landsidecorridor",
+      "point": [
+        -46,
+        -8
+      ],
+      "width_m": 3.0,
+      "axis": "x",
+      "kind": "wide open threshold",
+      "controlled": false
+    },
+    {
+      "zone": "landsidecorridor",
+      "from_zone": "checkin",
+      "to_zone": "landsidecorridor",
+      "point": [
+        -30,
+        -8
+      ],
+      "width_m": 3.0,
+      "axis": "x",
+      "kind": "wide open threshold",
+      "controlled": false
+    },
+    {
+      "zone": "security",
+      "from_zone": "landsidecorridor",
+      "to_zone": "security",
+      "point": [
+        -42,
+        -4
+      ],
+      "width_m": 2.4,
+      "axis": "x",
+      "kind": "controlled preparation entry",
+      "controlled": true
+    },
+    {
+      "zone": "recovery",
+      "from_zone": "security",
+      "to_zone": "recovery",
+      "point": [
+        -36,
+        3.5
+      ],
+      "width_m": 2.4,
+      "axis": "y",
+      "kind": "controlled screened exit",
+      "controlled": true
+    },
+    {
+      "zone": "concourse",
+      "from_zone": "recovery",
+      "to_zone": "concourse",
+      "point": [
+        -32,
+        1.5
+      ],
+      "width_m": 2.8,
+      "axis": "y",
+      "kind": "wide open threshold",
+      "controlled": false
+    },
+    {
+      "zone": "gate07foyer",
+      "from_zone": "concourse",
+      "to_zone": "gate07foyer",
+      "point": [
+        -26,
+        4.5
+      ],
+      "width_m": 2.8,
+      "axis": "y",
+      "kind": "wide open threshold",
+      "controlled": false
+    },
+    {
+      "zone": "gate07",
+      "from_zone": "gate07foyer",
+      "to_zone": "gate07",
+      "point": [
+        -23,
+        0.5
+      ],
+      "width_m": 2.4,
+      "axis": "y",
+      "kind": "wide open threshold",
+      "controlled": false
+    },
+    {
+      "zone": "jetbridge",
+      "from_zone": "gate07",
+      "to_zone": "jetbridge",
+      "point": [
+        -14,
+        0.675
+      ],
+      "width_m": 2.7,
+      "axis": "y",
+      "kind": "validated boarding exit",
+      "controlled": true
+    },
+    {
+      "zone": "gate08foyer",
+      "from_zone": "concourse",
+      "to_zone": "gate08foyer",
+      "point": [
+        -26,
+        11.5
+      ],
+      "width_m": 2.8,
+      "axis": "y",
+      "kind": "wide open threshold",
+      "controlled": false
+    },
+    {
+      "zone": "gate08",
+      "from_zone": "gate08foyer",
+      "to_zone": "gate08",
+      "point": [
+        -23,
+        15
+      ],
+      "width_m": 2.4,
+      "axis": "y",
+      "kind": "wide open threshold",
+      "controlled": false
+    },
+    {
+      "zone": "cafefoyer",
+      "from_zone": "concourse",
+      "to_zone": "cafefoyer",
+      "point": [
+        -32,
+        8.5
+      ],
+      "width_m": 2.0,
+      "axis": "y",
+      "kind": "wide open threshold",
+      "controlled": false
+    },
+    {
+      "zone": "cafe",
+      "from_zone": "cafefoyer",
+      "to_zone": "cafe",
+      "point": [
+        -34,
+        10
+      ],
+      "width_m": 2.4,
+      "axis": "x",
+      "kind": "wide open threshold",
+      "controlled": false
+    },
+    {
+      "zone": "amenitylobby",
+      "from_zone": "concourse",
+      "to_zone": "amenitylobby",
+      "point": [
+        -26,
+        -3
+      ],
+      "width_m": 1.8,
+      "axis": "y",
+      "kind": "wide open threshold",
+      "controlled": false
+    },
+    {
+      "zone": "amenities",
+      "from_zone": "amenitylobby",
+      "to_zone": "amenities",
+      "point": [
+        -23,
+        -7
+      ],
+      "width_m": 1.8,
+      "axis": "y",
+      "kind": "wide open threshold",
+      "controlled": false
+    },
+    {
+      "zone": "publicreturn",
+      "from_zone": "arrivals",
+      "to_zone": "publicreturn",
+      "point": [
+        -25,
+        -20
+      ],
+      "width_m": 2.4,
+      "axis": "y",
+      "kind": "wide open threshold",
+      "controlled": false
+    },
+    {
+      "zone": "forecourt",
+      "from_zone": "publicreturn",
+      "to_zone": "forecourt",
+      "point": [
+        -49,
+        -20
+      ],
+      "width_m": 2.4,
+      "axis": "y",
+      "kind": "separate public arrivals exit",
+      "controlled": false
+    },
+    {
+      "zone": "operations",
+      "from_zone": "security",
+      "to_zone": "operations",
+      "point": [
+        -42,
+        7
+      ],
+      "width_m": 1.0,
+      "axis": "x",
+      "kind": "staff service door",
+      "controlled": true
+    }
+  ],
+  "principles": [
+    "Circulation is a branching network, with destinations off it",
+    "Provide a landside connector, post-security recovery space and a generous airside concourse",
+    "Offset major entrances and exits to create turns, pauses and useful sightlines",
+    "Recess each gate approach from the main concourse",
+    "Use open framed thresholds where doors serve no function; security and boarding remain controlled",
+    "Keep the parked aircraft and jetbridge connection",
+    "Room boundaries, furniture relocation and route verification remain to be built"
+  ],
+  "proposed_route": [
+    [
+      -51,
+      -12.5
+    ],
+    [
+      -46,
+      -12.5
+    ],
+    [
+      -43,
+      -14
+    ],
+    [
+      -35,
+      -14
+    ],
+    [
+      -30,
+      -8
+    ],
+    [
+      -30,
+      -6
+    ],
+    [
+      -42,
+      -6
+    ],
+    [
+      -42,
+      -4
+    ],
+    [
+      -45.5,
+      -2
+    ],
+    [
+      -45.5,
+      1
+    ],
+    [
+      -45.5,
+      3.5
+    ],
+    [
+      -36,
+      3.5
+    ],
+    [
+      -34,
+      3.5
+    ],
+    [
+      -34,
+      1.5
+    ],
+    [
+      -32,
+      1.5
+    ],
+    [
+      -29,
+      1.5
+    ],
+    [
+      -29,
+      4.5
+    ],
+    [
+      -26,
+      4.5
+    ],
+    [
+      -24.5,
+      4.5
+    ],
+    [
+      -24.5,
+      0.5
+    ],
+    [
+      -23,
+      0.5
+    ],
+    [
+      -19,
+      0.5
+    ],
+    [
+      -18,
+      -2
+    ],
+    [
+      -15.5,
+      -2
+    ],
+    [
+      -15.5,
+      0.675
+    ],
+    [
+      -14,
+      0.675
+    ],
+    [
+      -2,
+      0.675
+    ]
+  ],
+  "branches": [
+    {
+      "name": "Caf\u00e9 branch",
+      "path": [
+        [
+          -29,
+          8.5
+        ],
+        [
+          -32,
+          8.5
+        ],
+        [
+          -34,
+          8.5
+        ],
+        [
+          -34,
+          10
+        ],
+        [
+          -40,
+          13
+        ]
+      ]
+    },
+    {
+      "name": "A08 branch",
+      "path": [
+        [
+          -29,
+          11.5
+        ],
+        [
+          -26,
+          11.5
+        ],
+        [
+          -24.5,
+          11.5
+        ],
+        [
+          -24.5,
+          15
+        ],
+        [
+          -23,
+          15
+        ],
+        [
+          -19,
+          15
+        ]
+      ]
+    },
+    {
+      "name": "Amenities branch",
+      "path": [
+        [
+          -29,
+          -3
+        ],
+        [
+          -26,
+          -3
+        ],
+        [
+          -24.5,
+          -3
+        ],
+        [
+          -24.5,
+          -7
+        ],
+        [
+          -23,
+          -7
+        ],
+        [
+          -20,
+          -7
+        ]
+      ]
+    }
+  ]
+}

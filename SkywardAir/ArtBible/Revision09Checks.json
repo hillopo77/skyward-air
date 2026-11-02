@@ -1,0 +1,308 @@
+{
+  "revision": "09",
+  "status": "SUCCESS",
+  "checks": [
+    {
+      "test": "Continuous fitted skin outside intentional apertures: SM_Plane_OuterWindowBarrel",
+      "passed": true,
+      "rays": 1608,
+      "misses": []
+    },
+    {
+      "test": "Continuous fitted skin outside intentional apertures: SM_Plane_DoorBay07",
+      "passed": true,
+      "rays": 972,
+      "misses": []
+    },
+    {
+      "test": "Actual hollow basin retained: SM_Plane_AftGalley",
+      "passed": true,
+      "hit": [
+        0.9085000157356262,
+        "Basin drain flange"
+      ]
+    },
+    {
+      "test": "Actual hollow basin retained: SM_Plane_Lavatory_R",
+      "passed": true,
+      "hit": [
+        0.7919999361038208,
+        "Lavatory basin drain rosette"
+      ]
+    },
+    {
+      "test": "Actual hollow basin retained: SM_Plane_Lavatory_L",
+      "passed": true,
+      "hit": [
+        0.7919999957084656,
+        "Lavatory basin drain rosette.001"
+      ]
+    },
+    {
+      "test": "Mechanical throttle through gate",
+      "passed": true,
+      "x": -0.142,
+      "angle": -0.6
+    },
+    {
+      "test": "Mechanical throttle through gate",
+      "passed": true,
+      "x": -0.142,
+      "angle": -0.3
+    },
+    {
+      "test": "Mechanical throttle through gate",
+      "passed": true,
+      "x": -0.142,
+      "angle": 0
+    },
+    {
+      "test": "Mechanical throttle through gate",
+      "passed": true,
+      "x": -0.142,
+      "angle": 0.3
+    },
+    {
+      "test": "Mechanical throttle through gate",
+      "passed": true,
+      "x": -0.142,
+      "angle": 0.6
+    },
+    {
+      "test": "Mechanical throttle through gate",
+      "passed": true,
+      "x": -0.047,
+      "angle": -0.6
+    },
+    {
+      "test": "Mechanical throttle through gate",
+      "passed": true,
+      "x": -0.047,
+      "angle": -0.3
+    },
+    {
+      "test": "Mechanical throttle through gate",
+      "passed": true,
+      "x": -0.047,
+      "angle": 0
+    },
+    {
+      "test": "Mechanical throttle through gate",
+      "passed": true,
+      "x": -0.047,
+      "angle": 0.3
+    },
+    {
+      "test": "Mechanical throttle through gate",
+      "passed": true,
+      "x": -0.047,
+      "angle": 0.6
+    },
+    {
+      "test": "Mechanical throttle through gate",
+      "passed": true,
+      "x": 0.047,
+      "angle": -0.6
+    },
+    {
+      "test": "Mechanical throttle through gate",
+      "passed": true,
+      "x": 0.047,
+      "angle": -0.3
+    },
+    {
+      "test": "Mechanical throttle through gate",
+      "passed": true,
+      "x": 0.047,
+      "angle": 0
+    },
+    {
+      "test": "Mechanical throttle through gate",
+      "passed": true,
+      "x": 0.047,
+      "angle": 0.3
+    },
+    {
+      "test": "Mechanical throttle through gate",
+      "passed": true,
+      "x": 0.047,
+      "angle": 0.6
+    },
+    {
+      "test": "Mechanical throttle through gate",
+      "passed": true,
+      "x": 0.142,
+      "angle": -0.6
+    },
+    {
+      "test": "Mechanical throttle through gate",
+      "passed": true,
+      "x": 0.142,
+      "angle": -0.3
+    },
+    {
+      "test": "Mechanical throttle through gate",
+      "passed": true,
+      "x": 0.142,
+      "angle": 0
+    },
+    {
+      "test": "Mechanical throttle through gate",
+      "passed": true,
+      "x": 0.142,
+      "angle": 0.3
+    },
+    {
+      "test": "Mechanical throttle through gate",
+      "passed": true,
+      "x": 0.142,
+      "angle": 0.6
+    },
+    {
+      "test": "Window business plus two-aisle 1-2-1 economy",
+      "passed": true,
+      "counts": {
+        "SM_Plane_LuxurySeat": 4,
+        "SM_Plane_Seat": 20,
+        "SM_Plane_SeatPair": 10
+      }
+    },
+    {
+      "test": "Two separate lavatory pivots and cockpit door retained",
+      "passed": true
+    },
+    {
+      "test": "Six separate fitted windscreen panes",
+      "passed": true
+    },
+    {
+      "test": "No inherited oversized aft closure",
+      "passed": true
+    },
+    {
+      "test": "Retained arch and service liner contained under lower pressure shell",
+      "passed": true,
+      "parts": []
+    },
+    {
+      "test": "Finite evaluated source coordinates",
+      "passed": true
+    },
+    {
+      "test": "No overlapping retired oval headrest: SM_Plane_Seat",
+      "passed": true
+    },
+    {
+      "test": "No overlapping retired oval headrest: SM_Plane_SeatPair",
+      "passed": true
+    },
+    {
+      "test": "Closed quad cushion cage: Formed premium seat rear monocoque09",
+      "passed": true
+    },
+    {
+      "test": "Closed quad cushion cage: Tailored premium lumbar bolster09",
+      "passed": true
+    },
+    {
+      "test": "Closed quad cushion cage: Tailored premium upper back09",
+      "passed": true
+    },
+    {
+      "test": "Closed quad cushion cage: Sculpted winged premium headrest09",
+      "passed": true
+    },
+    {
+      "test": "Closed quad cushion cage: Tailored dished premium seat pan09",
+      "passed": true
+    },
+    {
+      "test": "Closed quad cushion cage: Tailored premium calf cushion09",
+      "passed": true
+    },
+    {
+      "test": "Closed quad cushion cage: Economy ergonomic back cushion09",
+      "passed": true
+    },
+    {
+      "test": "Closed quad cushion cage: Economy shaped headrest09",
+      "passed": true
+    },
+    {
+      "test": "Closed quad cushion cage: Economy waterfall seat cushion09",
+      "passed": true
+    },
+    {
+      "test": "Closed quad cushion cage: Economy ergonomic back cushion09.001",
+      "passed": true
+    },
+    {
+      "test": "Closed quad cushion cage: Economy shaped headrest09.001",
+      "passed": true
+    },
+    {
+      "test": "Closed quad cushion cage: Economy waterfall seat cushion09.001",
+      "passed": true
+    },
+    {
+      "test": "Closed quad cushion cage: Economy ergonomic back cushion09.002",
+      "passed": true
+    },
+    {
+      "test": "Closed quad cushion cage: Economy shaped headrest09.002",
+      "passed": true
+    },
+    {
+      "test": "Closed quad cushion cage: Economy waterfall seat cushion09.002",
+      "passed": true
+    },
+    {
+      "test": "Outer proportions reduced without scaling individual fittings",
+      "passed": true,
+      "layout": {
+        "revision": "09",
+        "furnishing_scale": 1,
+        "business_seats": 4,
+        "economy_seats": 40,
+        "passenger_seats": 44,
+        "business_rows": [
+          3.2,
+          4.8
+        ],
+        "economy_rows": [
+          8.0,
+          9.22,
+          10.44,
+          11.66,
+          12.879999999999999,
+          14.1,
+          15.32,
+          16.54,
+          17.759999999999998,
+          18.98
+        ],
+        "class_divider_y_m": 7.55,
+        "main_galley_y_m": 6.435,
+        "business_centre_clear_width_m": 2.3,
+        "cockpit_front_y_m": -4.213,
+        "door_ids": [
+          "1L",
+          "1R",
+          "2L",
+          "2R"
+        ],
+        "carpet": "Continuous fitted zones; globally aligned UVs; no transverse bay bindings.",
+        "exterior_revision": "09",
+        "exterior_length_m": 39.992,
+        "exterior_span_m": 31.0,
+        "exterior_width_m": 5.0,
+        "exterior_body_height_m": 4.7,
+        "roof_m": 2.9000000000000004,
+        "interior_width_m": 4.796880000000001,
+        "economy_aisle_clear_width_m": 0.75,
+        "structural_width_scale_from07": 0.92,
+        "historical_structural_scale": 1.1
+      }
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "status": "SUCCESS",
+  "map": "/Game/Airport24/L_Airport_Rooms24",
+  "zones": 17,
+  "thresholds": 19,
+  "new_mesh_families": 40,
+  "route_checks": 47,
+  "main_route_resets": 0,
+  "screenshots": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Rooms24\\Screenshots\\01_Entrance.png",
+      "sha256": "9c23ac71d7819962bfb9a261815afd26e17604caf074179e33fb5d7134774b6d",
+      "view": "01_Entrance"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Rooms24\\Screenshots\\02_CheckIn.png",
+      "sha256": "068d16ef56bf3975d89bf3538c83f6cdfc284c2bbacf2cafc23b96840a402e47",
+      "view": "02_CheckIn"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Rooms24\\Screenshots\\03_Landside.png",
+      "sha256": "a5667c32899539d8a90df33fe5ec38d7cd1939c398ebef111ca83054280f6056",
+      "view": "03_Landside"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Rooms24\\Screenshots\\04_Security.png",
+      "sha256": "12d1fa27c85ca2c5e39a442a2405482d848c6e76c24453d874969283ca9c139c",
+      "view": "04_Security"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Rooms24\\Screenshots\\05_Recovery.png",
+      "sha256": "51d375eb2e6717e839003e125a0fe103b54a4d38c13d0367c47fcf2389dadcf1",
+      "view": "05_Recovery"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Rooms24\\Screenshots\\06_Concourse.png",
+      "sha256": "08021e844b9fa7611496cd19705571e994f0d11ec90c2f587178be1c51d7cf49",
+      "view": "06_Concourse"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Rooms24\\Screenshots\\07_A07Approach.png",
+      "sha256": "ecb4e156a7e2a93b0e75fce51ae7218e8c1b1eb985a98c17f296db6e478adbef",
+      "view": "07_A07Approach"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Rooms24\\Screenshots\\08_A07Lounge.png",
+      "sha256": "d9a0e3e9f9e617fda17fa228dac941c6ed8be9d2503eb3c2df115f4f9c1b4991",
+      "view": "08_A07Lounge"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Rooms24\\Screenshots\\09_Cafe.png",
+      "sha256": "6d136a49632d58cbc15d788e8c03dd2ff7b5d4709b1d2a9b80c00dde846c2c60",
+      "view": "09_Cafe"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Rooms24\\Screenshots\\10_Gallery.png",
+      "sha256": "b11dbf21beffb6af826479d92d024ac27c36a612c3449adc05fb38084df53891",
+      "view": "10_Gallery"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Rooms24\\Screenshots\\11_Amenities.png",
+      "sha256": "30b4d707c066653a53bc36c840dffa7afb62e011ffc3731b78175f33a57d172b",
+      "view": "11_Amenities"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Rooms24\\Screenshots\\12_Arrivals.png",
+      "sha256": "c5e0a40b270056b1e6f4884eaf0bbf9e669f2746f305bd7bfc6d4737a56eb9c1",
+      "view": "12_Arrivals"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Rooms24\\Screenshots\\13_A08Lounge.png",
+      "sha256": "bdf6ccf9aa4279991cb4b81d7cb6fd0003e2270d0c5d0a2ee354d212cfa28383",
+      "view": "13_A08Lounge"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Rooms24\\Screenshots\\14_Jetbridge.png",
+      "sha256": "88998ce8022bdb54389a9208740bdd3b89d67349e07309a8d8c6ba07b3489dce",
+      "view": "14_Jetbridge"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Rooms24\\Screenshots\\15_CoffeeCart.png",
+      "sha256": "747566019d957dc6f8e025f0a0905b21c217ad1c97b6dc55bf43973d1a2fe4e8",
+      "view": "15_CoffeeCart"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Rooms24\\Screenshots\\16_CameraDetail.png",
+      "sha256": "fa74b614be260e18e19f9c9b2ffc54efc0dba92fa1c3c18f7e0da03fabf15a7e",
+      "view": "16_CameraDetail"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Rooms24\\Screenshots\\17_SmallPlant.png",
+      "sha256": "3866fd410837ab6fbc766cc60fd572147c19c4ae4c25c51b639347a9ad0d6dc5",
+      "view": "17_SmallPlant"
+    }
+  ],
+  "free_models": [
+    {
+      "id": "CoffeeCart_01",
+      "title": "Coffee Cart 01",
+      "authors": {
+        "Joe Seabuhr": "All"
+      },
+      "source": "https://polyhaven.com/a/CoffeeCart_01",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "resolution": "1k"
+    },
+    {
+      "id": "potted_plant_04",
+      "title": "Potted Plant 04",
+      "authors": {
+        "James Ray Cock": "All"
+      },
+      "source": "https://polyhaven.com/a/potted_plant_04",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "resolution": "1k"
+    },
+    {
+      "id": "security_camera_02",
+      "title": "Security Camera 02",
+      "authors": {
+        "Garrison Gager": "Modeling & Texturing",
+        "Yann Kervran": "Rigging"
+      },
+      "source": "https://polyhaven.com/a/security_camera_02",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "resolution": "1k"
+    }
+  ],
+  "limitations": [
+    "Existing character art retained",
+    "Parked-aircraft passenger route; flight is separate",
+    "Full baggage sorting/loading AI not implemented"
+  ],
+  "sha256": {
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Rooms24\\Airport_Rooms24.blend": "6df085979da4d56cde1015f27da2e58ad27a70bd84ec0ae77a6b86780987f0cf",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Rooms24\\Exports\\airport_layout.json": "6e4222e6a6e08b1c595d448fb88fdc59b04654e5f6ebf42a04759680d48bd405",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Rooms24\\Exports\\character_layout24.json": "019f9dfb77ef4681eb3d2d1df9f8622059fb5ee3403ed6036f7a480610872406",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Airport24\\L_Airport_Rooms24.umap": "36445247bf17a6cd98e049d639e8afa8556ac8be486f33c67277bdd483cf775e",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_runtime.py": "ca736a0e547809c05b37b5bf2e9bbd0c2373615ef9594d76f0af96cdbe814eb0",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_rooms24.py": "5014939f645de0828c1df1826def176ad7561f2dcf5af6e8ac48c9d0943fad81",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_rooms24_qa.py": "4e254aafc0aee2667b509659e80d53056e037f7a046dcaa3743152d6ab56bd87",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\characters12_runtime.py": "bbea4d595c31465a7eb4d958cbd8d986aa250dd93b3d72b6553a26cda39ef4ba"
+  },
+  "launcher_sha256": "e76d7fe8a363375c41d15ada3c618a7576bebc943053e2fde780523cecca6036",
+  "review_validation": "Source syntax/XML and all native screenshots checked; browser automation of local HTML remains blocked by file-protocol policy."
+}

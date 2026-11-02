@@ -1,0 +1,45 @@
+{
+ "status": "SUCCESS",
+ "items": [
+  {
+   "status": "SUCCESS",
+   "asset": "SM_AP_P71Extinguisher",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Props71Build\\SM_AP_P71Extinguisher.fbx",
+   "materials": [
+    "MI_AP_Red",
+    "MI_AP_P34Cream",
+    "MI_AP_P36Black",
+    "MI_AP_P27Steel",
+    "MI_AP_Rubber",
+    "MI_AP_WhiteMark",
+    "MI_AP_P38AGold",
+    "MI_AP_P38ASage",
+    "MI_AP_P51SignGlow",
+    "MI_AP_P38ANavy",
+    "MI_AP_P38AText"
+   ],
+   "polygons": 3646,
+   "kg": 6.0
+  },
+  {
+   "status": "SUCCESS",
+   "asset": "SM_AP_P71ExtCabinet",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Props71Build\\SM_AP_P71ExtCabinet.fbx",
+   "materials": [
+    "MI_AP_Red",
+    "MI_AP_P34Cream",
+    "MI_AP_P36Black",
+    "MI_AP_P27Steel",
+    "MI_AP_Rubber",
+    "MI_AP_WhiteMark",
+    "MI_AP_P38AGold",
+    "MI_AP_P38ASage",
+    "MI_AP_P51SignGlow",
+    "MI_AP_P38ANavy",
+    "MI_AP_P38AText"
+   ],
+   "polygons": 2332,
+   "kg": 0
+  }
+ ]
+}

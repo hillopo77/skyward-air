@@ -1,0 +1,17 @@
+{
+ "status": "SUCCESS",
+ "ceiling_emission_before": 0.0,
+ "ceiling_emission_after": 15.0,
+ "boards": [
+  {
+   "actor": "Concourse departures board46",
+   "yaw_before": 0.0,
+   "yaw_after": 180.0
+  },
+  {
+   "actor": "Landside departures board46",
+   "yaw_before": 0.0,
+   "yaw_after": 180.0
+  }
+ ]
+}

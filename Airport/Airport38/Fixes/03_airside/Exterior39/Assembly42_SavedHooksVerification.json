@@ -1,0 +1,64 @@
+{
+  "passed": true,
+  "bundles": {
+    "BusinessBelt41_UnitKits.blend": {
+      "assets": [
+        "SM_AP_B41LapWornCrew",
+        "SM_AP_B41LapWornGeneric"
+      ],
+      "sha256": "f107e8d84898f02a420b5a154b1aa01756134580a06e01c42054d1245b09d0c7"
+    },
+    "Window42_UnitKits.blend": {
+      "assets": [
+        "SM_AP_W42WindowWallL",
+        "SM_AP_W42WindowWallR",
+        "SM_AP_W42ShadeFrameL",
+        "SM_AP_W42ShadeFrameR"
+      ],
+      "sha256": "78c0015bbee7c736a3c70d1086733a97b243139a892614032ead5cb9659628b6"
+    },
+    "AircraftFinish42_UnitKits.blend": {
+      "assets": [
+        "SM_AP_A42PSUCarrier",
+        "SM_AP_A42ExpeditionDuffel",
+        "SM_AP_A42Weekender"
+      ],
+      "sha256": "d8a1d0a6b431808d189722697557a189ab08a9eb25ff0444093f4f2467901b84"
+    }
+  },
+  "actual_cold_source_apply": true,
+  "canonical_name_collisions": 9,
+  "source_reapply_stable": true,
+  "outputs": [
+    {
+      "version": 2,
+      "assets": [
+        "SM_AP_B41LapWornCrew",
+        "SM_AP_B41LapWornGeneric"
+      ],
+      "route": "Actual low hip/lap, beneath/behind resting hands; arm geometry excluded from fit",
+      "records": 4
+    },
+    {
+      "version": 1,
+      "assets": [
+        "SM_AP_W42WindowWallL",
+        "SM_AP_W42WindowWallR",
+        "SM_AP_W42ShadeFrameL",
+        "SM_AP_W42ShadeFrameR"
+      ],
+      "source_only_reveal_profile": true,
+      "all_window41_mechanics_and_transforms_unchanged": true
+    },
+    {
+      "version": 1,
+      "assets": [
+        "SM_AP_A42PSUCarrier",
+        "SM_AP_A42ExpeditionDuffel",
+        "SM_AP_A42Weekender"
+      ],
+      "targeted_instances": 70,
+      "palette_and_draped_handles_only": true
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "status": "SUCCESS",
+  "map": "/Game/Airport23/L_Airport_Visual23",
+  "paired_views": 7,
+  "screenshots": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\Before\\01_CheckIn.png",
+      "sha256": "05571d8402db0735482ee9a12b1c7145781f336c8d7ce125121042d626d4ef33",
+      "view": "01_CheckIn"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\Before\\02_Security.png",
+      "sha256": "8dd7c80540ceccff9886512ad9d62bc6cf4c49c9cf98f460c2c5ad3a0657df95",
+      "view": "02_Security"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\Before\\03_Concourse.png",
+      "sha256": "0e1cc660d5492d5cbdd505e036d3e41a3c2204833ded871dcc5c5ae47d677e07",
+      "view": "03_Concourse"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\Before\\04_Gate.png",
+      "sha256": "c9af9cb8a0af2fca5ef9a7c8029e706bb80672abe13c01aed5a2540806ec236e",
+      "view": "04_Gate"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\Before\\05_CounterDetail.png",
+      "sha256": "694558cee2f87d291aa7c930333a551348db4d8dcbd596f537ebcb1e8c790216",
+      "view": "05_CounterDetail"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\Before\\06_Cafe.png",
+      "sha256": "5db3b30c21b7b7947d0aadfc7ece2492a57307c6e5e0d9215266790218aa9017",
+      "view": "06_Cafe"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\Before\\07_Entrance.png",
+      "sha256": "b9ff08d719129e4a09aa1dde3c67c65ee4e08d44b82bfb1989884f92cfcbed59",
+      "view": "07_Entrance"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\After\\01_CheckIn.png",
+      "sha256": "c4d2b9670d02ccdcd123cdbd6ec901314efdd4e922325c2e94b71ad6d7a41411",
+      "view": "01_CheckIn"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\After\\02_Security.png",
+      "sha256": "7475c0d9f737ec3cc968ef36b2db321dbf814778597570f91bcdbfbe0802c3cf",
+      "view": "02_Security"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\After\\03_Concourse.png",
+      "sha256": "71e6772a794b538380b101e398b565c0c480a39f6a88a7363b62f0bc87851cd5",
+      "view": "03_Concourse"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\After\\04_Gate.png",
+      "sha256": "77508ca88fd2842fcb8af20c2ee32404301774fe7a77e7fd0cdf7279a1ba6727",
+      "view": "04_Gate"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\After\\05_CounterDetail.png",
+      "sha256": "32ae82f2743f4c5d1bdfb75eb85e03c35a865ec3fe85903b7ab829822fde80e1",
+      "view": "05_CounterDetail"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\After\\06_Cafe.png",
+      "sha256": "99a874c4a3a84adb5e0f343ef2d9ceb96210a458936b803c79d678a67fe88ac3",
+      "view": "06_Cafe"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Screenshots\\After\\07_Entrance.png",
+      "sha256": "9a4f75d70134d3d96e40966f257583f3a1bed91bd0bd2c072f16734a35768b31",
+      "view": "07_Entrance"
+    }
+  ],
+  "source_unchanged": true,
+  "modeled_families": 38,
+  "map_components": 110,
+  "material_instances": 36,
+  "planning_status": "PLANNED_NOT_BUILT",
+  "planned_zones": 17,
+  "planned_thresholds": 19,
+  "route_status": "SUCCESS",
+  "route_checks": 26,
+  "sha256": {
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Airport_Visual23.blend": "458577bb6d95b29ec425c00a086934aed1f9a4f2e79ff6401e49c9b59b246021",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Airport23\\L_Airport_Visual23.umap": "f92188dc683e139e3a216333f477767d7c5c1878f6aecdafd82026c23ae42243",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_visual23.py": "c214e30eb7966878f311eb40a6e9e3e3bec8f7edeb3818d350c8144d3601682b",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_runtime.py": "651c63c3a0ac06272f8c7e3767bf7588f7f41c696aa805bb61cabbca94bfa10e",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Planning\\Zoning23.json": "c4d3a63dcee2c733526db988c8175001a2a5df5b79bade709acce58b7c2ac08d"
+  }
+}

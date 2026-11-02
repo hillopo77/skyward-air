@@ -1,0 +1,61 @@
+{
+  "status": "READY",
+  "revision": 38,
+  "ticket": null,
+  "journey": {
+    "checked_in": false,
+    "bag_accepted": false,
+    "security": false,
+    "boarding": false,
+    "aboard": false
+  },
+  "player": [
+    -47.0,
+    -12.45,
+    1.62
+  ],
+  "registered_bags": [],
+  "scanned_bags": [],
+  "bag_states": {},
+  "conveyor_power": {
+    "Bag drop belt 01": true,
+    "Bag drop belt 02": true,
+    "Security belt 01": true,
+    "Security belt 02": true,
+    "Reclaim carousel 01": true,
+    "Bag transfer38 01": true,
+    "Bag transfer38 02": true
+  },
+  "privacy_locks": {
+    "Terminal WC 0": false,
+    "Terminal WC 1": false
+  },
+  "queue": {
+    "joined": false,
+    "waiting": [
+      "CH12 Queue passenger 6",
+      "CH12 Queue passenger 3"
+    ],
+    "active": null,
+    "busy": {},
+    "called": null,
+    "served": 0
+  },
+  "coffee": {
+    "actor": "Cloud Nine serving cup38",
+    "served": false,
+    "sips": 0
+  },
+  "events": [
+    {
+      "event": "Authoritative journey38 installed",
+      "time_s": 0.0,
+      "automatic_doors": 14,
+      "receiver_bays": 2
+    }
+  ],
+  "objective": "Join the check-in queue / optional self-service kiosks",
+  "conveyor_support": {},
+  "conveyor_motors": {},
+  "runtime_sha256": "ca7e50e3eebc0bfb16181226c3c6190da8c34394d64c432e29e62f1f76cd6a21"
+}

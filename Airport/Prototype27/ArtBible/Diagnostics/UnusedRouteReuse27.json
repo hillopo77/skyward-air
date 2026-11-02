@@ -1,0 +1,15 @@
+{
+  "status": "SUCCESS",
+  "reason": "Final change affects sign brightness and postprocess priority only. The modeled collision source and all gameplay runtime dependencies are unchanged from the passing full route.",
+  "functional_checks": 47,
+  "source_sha256": "6e2f22470149db23d9c652af4e68ef25d9282ac24cba559e2bc8832008415eed",
+  "report_sha256": "9ad6472e874d891b79e0242c45b32f62484b026a671a2aa86894d39e5206c0c3",
+  "dependencies": {
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_runtime.py": "2f1d07c0cf3e2ed402f761d3daa1295bc6f0e84b4bb5075277544dbac538ec54",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_prototype27.py": "9e95fc52496546b5710b8e9a3a507d55e5e7d167a5b0e997214ba52dbf4fb462",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_clarity26.py": "15b79dfd2e1a1d90a84c28931ea70124d9df20668917de44b5b0902c0657ee4f",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\arrival27_qa.py": "bc19377d5640b003ba82425870ab35c64fb41988a6ad1105470f4fdf2f1c39f1",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\distance27.py": "1c06512915e2785a665e2a6f72dc9b69d86a3c3943c5ff809551d52c2136b749",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_rooms24.py": "210f3c956d649a73e7042bfe847a765c339c2566c6ad03de2be4317f01907d12"
+  }
+}

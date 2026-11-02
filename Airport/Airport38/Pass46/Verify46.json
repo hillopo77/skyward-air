@@ -1,0 +1,1648 @@
+{
+  "status": "SUCCESS",
+  "control": {
+    "floor_below_checkin": "Airport38 coherent bounded floors",
+    "wall_to_the_west": "Airport38 complete physical perimeter and partitions",
+    "passed": true
+  },
+  "solidity": [
+    {
+      "actor": "Queue post31 0",
+      "kind": "queue post",
+      "trace_z": 0.668,
+      "rays": [
+        {
+          "dir": "from -x",
+          "start": [
+            -37.335,
+            -13.95,
+            0.668
+          ],
+          "end": [
+            -36.065,
+            -13.95,
+            0.668
+          ],
+          "hit": "Queue post31 0"
+        },
+        {
+          "dir": "from +x",
+          "start": [
+            -36.065,
+            -13.95,
+            0.668
+          ],
+          "end": [
+            -37.335,
+            -13.95,
+            0.668
+          ],
+          "hit": "Queue post31 0"
+        },
+        {
+          "dir": "from -y",
+          "start": [
+            -36.7,
+            -14.585,
+            0.668
+          ],
+          "end": [
+            -36.7,
+            -13.315,
+            0.668
+          ],
+          "hit": "Queue post31 0"
+        },
+        {
+          "dir": "from +y",
+          "start": [
+            -36.7,
+            -13.315,
+            0.668
+          ],
+          "end": [
+            -36.7,
+            -14.585,
+            0.668
+          ],
+          "hit": "Queue post31 0"
+        }
+      ],
+      "reached_from": [
+        "from -x",
+        "from +x",
+        "from -y",
+        "from +y"
+      ],
+      "hit": "Queue post31 0",
+      "solid": true,
+      "conclusive": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Queue post31 1",
+      "kind": "queue post",
+      "trace_z": 0.668,
+      "rays": [
+        {
+          "dir": "from -x",
+          "start": [
+            -37.335,
+            -12.05,
+            0.668
+          ],
+          "end": [
+            -36.065,
+            -12.05,
+            0.668
+          ],
+          "hit": "Queue post31 1"
+        },
+        {
+          "dir": "from +x",
+          "start": [
+            -36.065,
+            -12.05,
+            0.668
+          ],
+          "end": [
+            -37.335,
+            -12.05,
+            0.668
+          ],
+          "hit": "Queue post31 1"
+        },
+        {
+          "dir": "from -y",
+          "start": [
+            -36.7,
+            -12.685,
+            0.668
+          ],
+          "end": [
+            -36.7,
+            -11.415,
+            0.668
+          ],
+          "hit": "Queue post31 1"
+        },
+        {
+          "dir": "from +y",
+          "start": [
+            -36.7,
+            -11.415,
+            0.668
+          ],
+          "end": [
+            -36.7,
+            -12.685,
+            0.668
+          ],
+          "hit": "Queue post31 1"
+        }
+      ],
+      "reached_from": [
+        "from -x",
+        "from +x",
+        "from -y",
+        "from +y"
+      ],
+      "hit": "Queue post31 1",
+      "solid": true,
+      "conclusive": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Queue post31 2",
+      "kind": "queue post",
+      "trace_z": 0.668,
+      "rays": [
+        {
+          "dir": "from -x",
+          "start": [
+            -35.835,
+            -13.95,
+            0.668
+          ],
+          "end": [
+            -34.565,
+            -13.95,
+            0.668
+          ],
+          "hit": "Queue post31 2"
+        },
+        {
+          "dir": "from +x",
+          "start": [
+            -34.565,
+            -13.95,
+            0.668
+          ],
+          "end": [
+            -35.835,
+            -13.95,
+            0.668
+          ],
+          "hit": "Queue post31 2"
+        },
+        {
+          "dir": "from -y",
+          "start": [
+            -35.2,
+            -14.585,
+            0.668
+          ],
+          "end": [
+            -35.2,
+            -13.315,
+            0.668
+          ],
+          "hit": "Queue post31 2"
+        },
+        {
+          "dir": "from +y",
+          "start": [
+            -35.2,
+            -13.315,
+            0.668
+          ],
+          "end": [
+            -35.2,
+            -14.585,
+            0.668
+          ],
+          "hit": "Queue post31 2"
+        }
+      ],
+      "reached_from": [
+        "from -x",
+        "from +x",
+        "from -y",
+        "from +y"
+      ],
+      "hit": "Queue post31 2",
+      "solid": true,
+      "conclusive": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Queue post31 3",
+      "kind": "queue post",
+      "trace_z": 0.668,
+      "rays": [
+        {
+          "dir": "from -x",
+          "start": [
+            -35.835,
+            -12.05,
+            0.668
+          ],
+          "end": [
+            -34.565,
+            -12.05,
+            0.668
+          ],
+          "hit": "Queue post31 3"
+        },
+        {
+          "dir": "from +x",
+          "start": [
+            -34.565,
+            -12.05,
+            0.668
+          ],
+          "end": [
+            -35.835,
+            -12.05,
+            0.668
+          ],
+          "hit": "Queue post31 3"
+        },
+        {
+          "dir": "from -y",
+          "start": [
+            -35.2,
+            -12.685,
+            0.668
+          ],
+          "end": [
+            -35.2,
+            -11.415,
+            0.668
+          ],
+          "hit": "Queue post31 3"
+        },
+        {
+          "dir": "from +y",
+          "start": [
+            -35.2,
+            -11.415,
+            0.668
+          ],
+          "end": [
+            -35.2,
+            -12.685,
+            0.668
+          ],
+          "hit": "Queue post31 3"
+        }
+      ],
+      "reached_from": [
+        "from -x",
+        "from +x",
+        "from -y",
+        "from +y"
+      ],
+      "hit": "Queue post31 3",
+      "solid": true,
+      "conclusive": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Queue post31 4",
+      "kind": "queue post",
+      "trace_z": 0.668,
+      "rays": [
+        {
+          "dir": "from -x",
+          "start": [
+            -33.835,
+            -13.95,
+            0.668
+          ],
+          "end": [
+            -32.565,
+            -13.95,
+            0.668
+          ],
+          "hit": "Queue post31 4"
+        },
+        {
+          "dir": "from +x",
+          "start": [
+            -32.565,
+            -13.95,
+            0.668
+          ],
+          "end": [
+            -33.835,
+            -13.95,
+            0.668
+          ],
+          "hit": "Queue post31 4"
+        },
+        {
+          "dir": "from -y",
+          "start": [
+            -33.2,
+            -14.585,
+            0.668
+          ],
+          "end": [
+            -33.2,
+            -13.315,
+            0.668
+          ],
+          "hit": "Queue post31 4"
+        },
+        {
+          "dir": "from +y",
+          "start": [
+            -33.2,
+            -13.315,
+            0.668
+          ],
+          "end": [
+            -33.2,
+            -14.585,
+            0.668
+          ],
+          "hit": "Queue post31 4"
+        }
+      ],
+      "reached_from": [
+        "from -x",
+        "from +x",
+        "from -y",
+        "from +y"
+      ],
+      "hit": "Queue post31 4",
+      "solid": true,
+      "conclusive": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Queue post31 5",
+      "kind": "queue post",
+      "trace_z": 0.668,
+      "rays": [
+        {
+          "dir": "from -x",
+          "start": [
+            -33.835,
+            -12.05,
+            0.668
+          ],
+          "end": [
+            -32.565,
+            -12.05,
+            0.668
+          ],
+          "hit": "Queue post31 5"
+        },
+        {
+          "dir": "from +x",
+          "start": [
+            -32.565,
+            -12.05,
+            0.668
+          ],
+          "end": [
+            -33.835,
+            -12.05,
+            0.668
+          ],
+          "hit": "Queue post31 5"
+        },
+        {
+          "dir": "from -y",
+          "start": [
+            -33.2,
+            -12.685,
+            0.668
+          ],
+          "end": [
+            -33.2,
+            -11.415,
+            0.668
+          ],
+          "hit": "Queue post31 5"
+        },
+        {
+          "dir": "from +y",
+          "start": [
+            -33.2,
+            -11.415,
+            0.668
+          ],
+          "end": [
+            -33.2,
+            -12.685,
+            0.668
+          ],
+          "hit": "Queue post31 5"
+        }
+      ],
+      "reached_from": [
+        "from -x",
+        "from +x",
+        "from -y",
+        "from +y"
+      ],
+      "hit": "Queue post31 5",
+      "solid": true,
+      "conclusive": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Stanchion24_1725",
+      "kind": "stanchion",
+      "trace_z": 0.697,
+      "rays": [
+        {
+          "dir": "from -x",
+          "start": [
+            -47.43,
+            0.3,
+            0.697
+          ],
+          "end": [
+            -46.17,
+            0.3,
+            0.697
+          ],
+          "hit": "Stanchion24_1725"
+        },
+        {
+          "dir": "from +x",
+          "start": [
+            -46.17,
+            0.3,
+            0.697
+          ],
+          "end": [
+            -47.43,
+            0.3,
+            0.697
+          ],
+          "hit": "Stanchion24_1725"
+        },
+        {
+          "dir": "from -y",
+          "start": [
+            -46.8,
+            -0.33,
+            0.697
+          ],
+          "end": [
+            -46.8,
+            0.93,
+            0.697
+          ],
+          "hit": "Stanchion24_1725"
+        },
+        {
+          "dir": "from +y",
+          "start": [
+            -46.8,
+            0.93,
+            0.697
+          ],
+          "end": [
+            -46.8,
+            -0.33,
+            0.697
+          ],
+          "hit": "Stanchion24_1725"
+        }
+      ],
+      "reached_from": [
+        "from -x",
+        "from +x",
+        "from -y",
+        "from +y"
+      ],
+      "hit": "Stanchion24_1725",
+      "solid": true,
+      "conclusive": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Stanchion24_1726",
+      "kind": "stanchion",
+      "trace_z": 0.697,
+      "rays": [
+        {
+          "dir": "from -x",
+          "start": [
+            -45.33,
+            0.3,
+            0.697
+          ],
+          "end": [
+            -44.07,
+            0.3,
+            0.697
+          ],
+          "hit": "Stanchion24_1726"
+        },
+        {
+          "dir": "from +x",
+          "start": [
+            -44.07,
+            0.3,
+            0.697
+          ],
+          "end": [
+            -45.33,
+            0.3,
+            0.697
+          ],
+          "hit": "Stanchion24_1726"
+        },
+        {
+          "dir": "from -y",
+          "start": [
+            -44.7,
+            -0.33,
+            0.697
+          ],
+          "end": [
+            -44.7,
+            0.93,
+            0.697
+          ],
+          "hit": "Stanchion24_1726"
+        },
+        {
+          "dir": "from +y",
+          "start": [
+            -44.7,
+            0.93,
+            0.697
+          ],
+          "end": [
+            -44.7,
+            -0.33,
+            0.697
+          ],
+          "hit": "Stanchion24_1726"
+        }
+      ],
+      "reached_from": [
+        "from -x",
+        "from +x",
+        "from -y",
+        "from +y"
+      ],
+      "hit": "Stanchion24_1726",
+      "solid": true,
+      "conclusive": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Stanchion24_1738",
+      "kind": "stanchion",
+      "trace_z": 0.697,
+      "rays": [
+        {
+          "dir": "from -x",
+          "start": [
+            -41.68,
+            0.3,
+            0.697
+          ],
+          "end": [
+            -40.42,
+            0.3,
+            0.697
+          ],
+          "hit": "Stanchion24_1738"
+        },
+        {
+          "dir": "from +x",
+          "start": [
+            -40.42,
+            0.3,
+            0.697
+          ],
+          "end": [
+            -41.68,
+            0.3,
+            0.697
+          ],
+          "hit": "Stanchion24_1738"
+        },
+        {
+          "dir": "from -y",
+          "start": [
+            -41.05,
+            -0.33,
+            0.697
+          ],
+          "end": [
+            -41.05,
+            0.93,
+            0.697
+          ],
+          "hit": "Stanchion24_1738"
+        },
+        {
+          "dir": "from +y",
+          "start": [
+            -41.05,
+            0.93,
+            0.697
+          ],
+          "end": [
+            -41.05,
+            -0.33,
+            0.697
+          ],
+          "hit": "Stanchion24_1738"
+        }
+      ],
+      "reached_from": [
+        "from -x",
+        "from +x",
+        "from -y",
+        "from +y"
+      ],
+      "hit": "Stanchion24_1738",
+      "solid": true,
+      "conclusive": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Stanchion24_1739",
+      "kind": "stanchion",
+      "trace_z": 0.697,
+      "rays": [
+        {
+          "dir": "from -x",
+          "start": [
+            -39.58,
+            0.3,
+            0.697
+          ],
+          "end": [
+            -38.32,
+            0.3,
+            0.697
+          ],
+          "hit": "Stanchion24_1739"
+        },
+        {
+          "dir": "from +x",
+          "start": [
+            -38.32,
+            0.3,
+            0.697
+          ],
+          "end": [
+            -39.58,
+            0.3,
+            0.697
+          ],
+          "hit": "Stanchion24_1739"
+        },
+        {
+          "dir": "from -y",
+          "start": [
+            -38.95,
+            -0.33,
+            0.697
+          ],
+          "end": [
+            -38.95,
+            0.93,
+            0.697
+          ],
+          "hit": "Stanchion24_1739"
+        },
+        {
+          "dir": "from +y",
+          "start": [
+            -38.95,
+            0.93,
+            0.697
+          ],
+          "end": [
+            -38.95,
+            -0.33,
+            0.697
+          ],
+          "hit": "Stanchion24_1739"
+        }
+      ],
+      "reached_from": [
+        "from -x",
+        "from +x",
+        "from -y",
+        "from +y"
+      ],
+      "hit": "Stanchion24_1739",
+      "solid": true,
+      "conclusive": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "X-ray scanner 01",
+      "kind": "scanner",
+      "trace_z": 1.4,
+      "rays": [
+        {
+          "dir": "from -x",
+          "start": [
+            -44.449,
+            3.0,
+            1.4
+          ],
+          "end": [
+            -41.29,
+            3.0,
+            1.4
+          ],
+          "hit": "X-ray scanner 01"
+        },
+        {
+          "dir": "from +x",
+          "start": [
+            -41.29,
+            3.0,
+            1.4
+          ],
+          "end": [
+            -44.449,
+            3.0,
+            1.4
+          ],
+          "hit": "X-ray scanner 01"
+        },
+        {
+          "dir": "from -y",
+          "start": [
+            -42.869,
+            1.444,
+            1.4
+          ],
+          "end": [
+            -42.869,
+            4.556,
+            1.4
+          ],
+          "hit": null
+        },
+        {
+          "dir": "from +y",
+          "start": [
+            -42.869,
+            4.556,
+            1.4
+          ],
+          "end": [
+            -42.869,
+            1.444,
+            1.4
+          ],
+          "hit": null
+        }
+      ],
+      "reached_from": [
+        "from -x",
+        "from +x"
+      ],
+      "hit": "X-ray scanner 01",
+      "solid": true,
+      "conclusive": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "X-ray scanner 02",
+      "kind": "scanner",
+      "trace_z": 1.4,
+      "rays": [
+        {
+          "dir": "from -x",
+          "start": [
+            -39.349,
+            3.0,
+            1.4
+          ],
+          "end": [
+            -36.19,
+            3.0,
+            1.4
+          ],
+          "hit": "X-ray scanner 02"
+        },
+        {
+          "dir": "from +x",
+          "start": [
+            -36.19,
+            3.0,
+            1.4
+          ],
+          "end": [
+            -39.349,
+            3.0,
+            1.4
+          ],
+          "hit": "X-ray scanner 02"
+        },
+        {
+          "dir": "from -y",
+          "start": [
+            -37.769,
+            1.444,
+            1.4
+          ],
+          "end": [
+            -37.769,
+            4.556,
+            1.4
+          ],
+          "hit": null
+        },
+        {
+          "dir": "from +y",
+          "start": [
+            -37.769,
+            4.556,
+            1.4
+          ],
+          "end": [
+            -37.769,
+            1.444,
+            1.4
+          ],
+          "hit": null
+        }
+      ],
+      "reached_from": [
+        "from -x",
+        "from +x"
+      ],
+      "hit": "X-ray scanner 02",
+      "solid": true,
+      "conclusive": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Plant1224_1761",
+      "kind": "plant (P46-014)",
+      "trace_z": 1.4,
+      "rays": [
+        {
+          "dir": "from -x",
+          "start": [
+            -25.277,
+            -0.045,
+            1.4
+          ],
+          "end": [
+            -23.533,
+            -0.045,
+            1.4
+          ],
+          "hit": "Plant1224_1761"
+        },
+        {
+          "dir": "from +x",
+          "start": [
+            -23.533,
+            -0.045,
+            1.4
+          ],
+          "end": [
+            -25.277,
+            -0.045,
+            1.4
+          ],
+          "hit": "Plant1224_1761"
+        },
+        {
+          "dir": "from -y",
+          "start": [
+            -24.405,
+            -0.897,
+            1.4
+          ],
+          "end": [
+            -24.405,
+            0.807,
+            1.4
+          ],
+          "hit": "Plant1224_1761"
+        },
+        {
+          "dir": "from +y",
+          "start": [
+            -24.405,
+            0.807,
+            1.4
+          ],
+          "end": [
+            -24.405,
+            -0.897,
+            1.4
+          ],
+          "hit": "Plant1224_1761"
+        }
+      ],
+      "reached_from": [
+        "from -x",
+        "from +x",
+        "from -y",
+        "from +y"
+      ],
+      "hit": "Plant1224_1761",
+      "solid": true,
+      "conclusive": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Plant1224_1771",
+      "kind": "plant (P46-014)",
+      "trace_z": 1.4,
+      "rays": [
+        {
+          "dir": "from -x",
+          "start": [
+            -25.877,
+            17.355,
+            1.4
+          ],
+          "end": [
+            -24.133,
+            17.355,
+            1.4
+          ],
+          "hit": "Plant1224_1771"
+        },
+        {
+          "dir": "from +x",
+          "start": [
+            -24.133,
+            17.355,
+            1.4
+          ],
+          "end": [
+            -25.877,
+            17.355,
+            1.4
+          ],
+          "hit": "Plant1224_1771"
+        },
+        {
+          "dir": "from -y",
+          "start": [
+            -25.005,
+            16.503,
+            1.4
+          ],
+          "end": [
+            -25.005,
+            18.207,
+            1.4
+          ],
+          "hit": "Plant1224_1771"
+        },
+        {
+          "dir": "from +y",
+          "start": [
+            -25.005,
+            18.207,
+            1.4
+          ],
+          "end": [
+            -25.005,
+            16.503,
+            1.4
+          ],
+          "hit": "Plant1224_1771"
+        }
+      ],
+      "reached_from": [
+        "from -x",
+        "from +x",
+        "from -y",
+        "from +y"
+      ],
+      "hit": "Plant1224_1771",
+      "solid": true,
+      "conclusive": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Plant1224_1772",
+      "kind": "plant (P46-014)",
+      "trace_z": 1.4,
+      "rays": [
+        {
+          "dir": "from -x",
+          "start": [
+            -31.777,
+            3.955,
+            1.4
+          ],
+          "end": [
+            -30.033,
+            3.955,
+            1.4
+          ],
+          "hit": "Plant1224_1772"
+        },
+        {
+          "dir": "from +x",
+          "start": [
+            -30.033,
+            3.955,
+            1.4
+          ],
+          "end": [
+            -31.777,
+            3.955,
+            1.4
+          ],
+          "hit": "Plant1224_1772"
+        },
+        {
+          "dir": "from -y",
+          "start": [
+            -30.905,
+            3.103,
+            1.4
+          ],
+          "end": [
+            -30.905,
+            4.807,
+            1.4
+          ],
+          "hit": "Plant1224_1772"
+        },
+        {
+          "dir": "from +y",
+          "start": [
+            -30.905,
+            4.807,
+            1.4
+          ],
+          "end": [
+            -30.905,
+            3.103,
+            1.4
+          ],
+          "hit": "Plant1224_1772"
+        }
+      ],
+      "reached_from": [
+        "from -x",
+        "from +x",
+        "from -y",
+        "from +y"
+      ],
+      "hit": "Plant1224_1772",
+      "solid": true,
+      "conclusive": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Plant1224_1773",
+      "kind": "plant (P46-014)",
+      "trace_z": 1.4,
+      "rays": [
+        {
+          "dir": "from -x",
+          "start": [
+            -31.877,
+            17.355,
+            1.4
+          ],
+          "end": [
+            -30.133,
+            17.355,
+            1.4
+          ],
+          "hit": "Plant1224_1773"
+        },
+        {
+          "dir": "from +x",
+          "start": [
+            -30.133,
+            17.355,
+            1.4
+          ],
+          "end": [
+            -31.877,
+            17.355,
+            1.4
+          ],
+          "hit": "Plant1224_1773"
+        },
+        {
+          "dir": "from -y",
+          "start": [
+            -31.005,
+            16.503,
+            1.4
+          ],
+          "end": [
+            -31.005,
+            18.207,
+            1.4
+          ],
+          "hit": "Plant1224_1773"
+        },
+        {
+          "dir": "from +y",
+          "start": [
+            -31.005,
+            18.207,
+            1.4
+          ],
+          "end": [
+            -31.005,
+            16.503,
+            1.4
+          ],
+          "hit": "Plant1224_1773"
+        }
+      ],
+      "reached_from": [
+        "from -x",
+        "from +x",
+        "from -y",
+        "from +y"
+      ],
+      "hit": "Plant1224_1773",
+      "solid": true,
+      "conclusive": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Plant1224_1824",
+      "kind": "plant (P46-014)",
+      "trace_z": 1.4,
+      "rays": [
+        {
+          "dir": "from -x",
+          "start": [
+            -49.135,
+            -15.88,
+            1.4
+          ],
+          "end": [
+            -47.314,
+            -15.88,
+            1.4
+          ],
+          "hit": "Airport38 exterior glazing and observation panes"
+        },
+        {
+          "dir": "from +x",
+          "start": [
+            -47.314,
+            -15.88,
+            1.4
+          ],
+          "end": [
+            -49.135,
+            -15.88,
+            1.4
+          ],
+          "hit": "Plant1224_1824"
+        },
+        {
+          "dir": "from -y",
+          "start": [
+            -48.224,
+            -16.764,
+            1.4
+          ],
+          "end": [
+            -48.224,
+            -14.995,
+            1.4
+          ],
+          "hit": "Plant1224_1824"
+        },
+        {
+          "dir": "from +y",
+          "start": [
+            -48.224,
+            -14.995,
+            1.4
+          ],
+          "end": [
+            -48.224,
+            -16.764,
+            1.4
+          ],
+          "hit": "Plant1224_1824"
+        }
+      ],
+      "reached_from": [
+        "from +x",
+        "from -y",
+        "from +y"
+      ],
+      "hit": "Plant1224_1824",
+      "solid": true,
+      "conclusive": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Plant1224_1825",
+      "kind": "plant (P46-014)",
+      "trace_z": 1.4,
+      "rays": [
+        {
+          "dir": "from -x",
+          "start": [
+            -49.185,
+            -8.93,
+            1.4
+          ],
+          "end": [
+            -47.364,
+            -8.93,
+            1.4
+          ],
+          "hit": "Airport38 exterior glazing and observation panes"
+        },
+        {
+          "dir": "from +x",
+          "start": [
+            -47.364,
+            -8.93,
+            1.4
+          ],
+          "end": [
+            -49.185,
+            -8.93,
+            1.4
+          ],
+          "hit": "Plant1224_1825"
+        },
+        {
+          "dir": "from -y",
+          "start": [
+            -48.274,
+            -9.814,
+            1.4
+          ],
+          "end": [
+            -48.274,
+            -8.045,
+            1.4
+          ],
+          "hit": "Plant1224_1825"
+        },
+        {
+          "dir": "from +y",
+          "start": [
+            -48.274,
+            -8.045,
+            1.4
+          ],
+          "end": [
+            -48.274,
+            -9.814,
+            1.4
+          ],
+          "hit": "Airport38 complete physical perimeter and partitions"
+        }
+      ],
+      "reached_from": [
+        "from +x",
+        "from -y"
+      ],
+      "hit": "Plant1224_1825",
+      "solid": true,
+      "conclusive": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Plant1224_1826",
+      "kind": "plant (P46-014)",
+      "trace_z": 1.4,
+      "rays": [
+        {
+          "dir": "from -x",
+          "start": [
+            -27.885,
+            -17.28,
+            1.4
+          ],
+          "end": [
+            -26.064,
+            -17.28,
+            1.4
+          ],
+          "hit": "Plant1224_1826"
+        },
+        {
+          "dir": "from +x",
+          "start": [
+            -26.064,
+            -17.28,
+            1.4
+          ],
+          "end": [
+            -27.885,
+            -17.28,
+            1.4
+          ],
+          "hit": "Airport38 complete physical perimeter and partitions"
+        },
+        {
+          "dir": "from -y",
+          "start": [
+            -26.974,
+            -18.164,
+            1.4
+          ],
+          "end": [
+            -26.974,
+            -16.395,
+            1.4
+          ],
+          "hit": "Airport38 complete physical perimeter and partitions"
+        },
+        {
+          "dir": "from +y",
+          "start": [
+            -26.974,
+            -16.395,
+            1.4
+          ],
+          "end": [
+            -26.974,
+            -18.164,
+            1.4
+          ],
+          "hit": "Plant1224_1826"
+        }
+      ],
+      "reached_from": [
+        "from -x",
+        "from +y"
+      ],
+      "hit": "Plant1224_1826",
+      "solid": true,
+      "conclusive": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Plant1224_1827",
+      "kind": "plant (P46-014)",
+      "trace_z": 1.4,
+      "rays": [
+        {
+          "dir": "from -x",
+          "start": [
+            -15.777,
+            2.955,
+            1.4
+          ],
+          "end": [
+            -14.033,
+            2.955,
+            1.4
+          ],
+          "hit": "Plant1224_1827"
+        },
+        {
+          "dir": "from +x",
+          "start": [
+            -14.033,
+            2.955,
+            1.4
+          ],
+          "end": [
+            -15.777,
+            2.955,
+            1.4
+          ],
+          "hit": "Plant1224_1827"
+        },
+        {
+          "dir": "from -y",
+          "start": [
+            -14.905,
+            2.103,
+            1.4
+          ],
+          "end": [
+            -14.905,
+            3.807,
+            1.4
+          ],
+          "hit": "Plant1224_1827"
+        },
+        {
+          "dir": "from +y",
+          "start": [
+            -14.905,
+            3.807,
+            1.4
+          ],
+          "end": [
+            -14.905,
+            2.103,
+            1.4
+          ],
+          "hit": "Plant1224_1827"
+        }
+      ],
+      "reached_from": [
+        "from -x",
+        "from +x",
+        "from -y",
+        "from +y"
+      ],
+      "hit": "Plant1224_1827",
+      "solid": true,
+      "conclusive": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Plant1224_1828",
+      "kind": "plant (P46-014)",
+      "trace_z": 1.4,
+      "rays": [
+        {
+          "dir": "from -x",
+          "start": [
+            -15.877,
+            9.205,
+            1.4
+          ],
+          "end": [
+            -14.133,
+            9.205,
+            1.4
+          ],
+          "hit": "Plant1224_1828"
+        },
+        {
+          "dir": "from +x",
+          "start": [
+            -14.133,
+            9.205,
+            1.4
+          ],
+          "end": [
+            -15.877,
+            9.205,
+            1.4
+          ],
+          "hit": "Plant1224_1828"
+        },
+        {
+          "dir": "from -y",
+          "start": [
+            -15.005,
+            8.353,
+            1.4
+          ],
+          "end": [
+            -15.005,
+            10.057,
+            1.4
+          ],
+          "hit": "Plant1224_1828"
+        },
+        {
+          "dir": "from +y",
+          "start": [
+            -15.005,
+            10.057,
+            1.4
+          ],
+          "end": [
+            -15.005,
+            8.353,
+            1.4
+          ],
+          "hit": "Airport38 exterior glazing and observation panes"
+        }
+      ],
+      "reached_from": [
+        "from -x",
+        "from +x",
+        "from -y"
+      ],
+      "hit": "Plant1224_1828",
+      "solid": true,
+      "conclusive": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    },
+    {
+      "actor": "Plant1224_1829",
+      "kind": "plant (P46-014)",
+      "trace_z": 1.4,
+      "rays": [
+        {
+          "dir": "from -x",
+          "start": [
+            -34.277,
+            32.455,
+            1.4
+          ],
+          "end": [
+            -32.533,
+            32.455,
+            1.4
+          ],
+          "hit": "Plant1224_1829"
+        },
+        {
+          "dir": "from +x",
+          "start": [
+            -32.533,
+            32.455,
+            1.4
+          ],
+          "end": [
+            -34.277,
+            32.455,
+            1.4
+          ],
+          "hit": "Plant1224_1829"
+        },
+        {
+          "dir": "from -y",
+          "start": [
+            -33.405,
+            31.603,
+            1.4
+          ],
+          "end": [
+            -33.405,
+            33.307,
+            1.4
+          ],
+          "hit": "Plant1224_1829"
+        },
+        {
+          "dir": "from +y",
+          "start": [
+            -33.405,
+            33.307,
+            1.4
+          ],
+          "end": [
+            -33.405,
+            31.603,
+            1.4
+          ],
+          "hit": "Plant1224_1829"
+        }
+      ],
+      "reached_from": [
+        "from -x",
+        "from +x",
+        "from -y",
+        "from +y"
+      ],
+      "hit": "Plant1224_1829",
+      "solid": true,
+      "conclusive": true,
+      "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll"
+    }
+  ],
+  "tunnels": [
+    {
+      "actor": "X-ray scanner 01",
+      "x": -43.15,
+      "z": 1.375,
+      "hit_along_bag_path": null,
+      "open": true,
+      "means": "clear for the scanned bag"
+    },
+    {
+      "actor": "X-ray scanner 02",
+      "x": -38.05,
+      "z": 1.375,
+      "hit_along_bag_path": null,
+      "open": true,
+      "means": "clear for the scanned bag"
+    }
+  ],
+  "missing": [],
+  "elapsed_s": 3.0160000000032596
+}

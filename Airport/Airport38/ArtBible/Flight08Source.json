@@ -1,0 +1,185 @@
+{
+  "status": "SUCCESS",
+  "passes": [
+    {
+      "module": "Fixes/03_airside/Exterior39/flap_hinge_patch39.py",
+      "result": {
+        "version": 1,
+        "changed_assets": [
+          "SM_AP_F39Surface_00",
+          "SM_AP_F39Surface_01",
+          "SM_AP_F39Surface_06",
+          "SM_AP_F39Surface_07"
+        ],
+        "records": [
+          {
+            "actor": "Flight39 flap 00",
+            "asset": "SM_AP_F39Surface_00",
+            "old_pivot": [
+              13.699999809265137,
+              17.780363082885742,
+              -1.1600000858306885
+            ],
+            "pivot": [
+              13.699999809265137,
+              17.78036117553711,
+              -1.159999966621399
+            ],
+            "axis": [
+              -0.9950828552246094,
+              0.08213772624731064,
+              0.05534899979829788
+            ],
+            "neutral_world_error_m": 0.0,
+            "vertices_checked": 199,
+            "changed": true
+          },
+          {
+            "actor": "Flight39 flap 01",
+            "asset": "SM_AP_F39Surface_01",
+            "old_pivot": [
+              11.542598724365234,
+              17.95844078063965,
+              -1.0053725242614746
+            ],
+            "pivot": [
+              11.54259967803955,
+              17.95844078063965,
+              -1.0399999618530273
+            ],
+            "axis": [
+              -0.9833953380584717,
+              0.16988635063171387,
+              0.0638154074549675
+            ],
+            "neutral_world_error_m": 0.0,
+            "vertices_checked": 170,
+            "changed": true
+          },
+          {
+            "actor": "Flight39 flap 06",
+            "asset": "SM_AP_F39Surface_06",
+            "old_pivot": [
+              18.299999237060547,
+              17.780363082885742,
+              -1.1600000858306885
+            ],
+            "pivot": [
+              18.299999237060547,
+              17.78036117553711,
+              -1.159999966621399
+            ],
+            "axis": [
+              0.9950828552246094,
+              0.08213772624731064,
+              0.05534899979829788
+            ],
+            "neutral_world_error_m": 0.0,
+            "vertices_checked": 199,
+            "changed": true
+          },
+          {
+            "actor": "Flight39 flap 07",
+            "asset": "SM_AP_F39Surface_07",
+            "old_pivot": [
+              20.457401275634766,
+              17.95844078063965,
+              -1.0746275186538696
+            ],
+            "pivot": [
+              20.457401275634766,
+              17.95844078063965,
+              -1.0399999618530273
+            ],
+            "axis": [
+              0.9833953380584717,
+              0.16988635063171387,
+              0.0638154074549675
+            ],
+            "neutral_world_error_m": 0.0,
+            "vertices_checked": 168,
+            "changed": true
+          }
+        ],
+        "scope": "Only four existing inner flap actuators; neutral evaluated vertices retained"
+      }
+    }
+  ],
+  "unused_empty_material_slots": [],
+  "pending_assets": {
+    "SM_AP_F39Surface_00": "none",
+    "SM_AP_F39Surface_01": "none",
+    "SM_AP_F39Surface_06": "none",
+    "SM_AP_F39Surface_07": "none"
+  },
+  "glass39": {
+    "presets": {
+      "Terminal": {
+        "tint": [
+          0.25,
+          0.47,
+          0.49,
+          1
+        ],
+        "opacity": 0.13,
+        "edge": 0.3,
+        "roughness": 0.18,
+        "specular": 0.48
+      },
+      "Bridge": {
+        "tint": [
+          0.24,
+          0.46,
+          0.48,
+          1
+        ],
+        "opacity": 0.12,
+        "edge": 0.28,
+        "roughness": 0.19,
+        "specular": 0.46
+      },
+      "Cabin": {
+        "tint": [
+          0.29,
+          0.52,
+          0.56,
+          1
+        ],
+        "opacity": 0.09,
+        "edge": 0.24,
+        "roughness": 0.16,
+        "specular": 0.48
+      },
+      "Cockpit": {
+        "tint": [
+          0.3,
+          0.53,
+          0.57,
+          1
+        ],
+        "opacity": 0.085,
+        "edge": 0.23,
+        "roughness": 0.17,
+        "specular": 0.48
+      }
+    },
+    "source_materials": [
+      "MI_AP_Glass",
+      "MI_AP_Glass.001",
+      "MI_AP_Glass.002",
+      "MI_AP_P36Glass",
+      "MI_AP_P38AGlass",
+      "MI_AP_P38BGlass"
+    ],
+    "design": "Subtle blue-green tint, soft specular and stronger glancing edges. No procedural dirt or distortion. Instrument glass excluded."
+  },
+  "changed_assets": [
+    "SM_AP_F39Surface_00",
+    "SM_AP_F39Surface_01",
+    "SM_AP_F39Surface_06",
+    "SM_AP_F39Surface_07"
+  ],
+  "families": 108,
+  "source_sha256": "3da6d6d3427e7956f90d4a2ee48f7a136169b6042e1ee37374e9d9748e61d052",
+  "retired_names": []
+}

@@ -1,0 +1,1639 @@
+{
+ "status": "SUCCESS",
+ "mats": [
+  [
+   "MI_AP_P69CeilingGlow",
+   60.0
+  ],
+  [
+   "MI_AP_P69PathGlow",
+   260.0
+  ],
+  [
+   "MI_AP_P69LensOn",
+   260.0
+  ],
+  [
+   "MI_AP_P69LensOff",
+   2.5
+  ],
+  [
+   "MI_AP_P69KeyRead",
+   110.0
+  ],
+  [
+   "MI_AP_P69KeyCall",
+   160.0
+  ],
+  [
+   "MI_AP_P69IndWarm",
+   240.0
+  ],
+  [
+   "MI_AP_P69IndCall",
+   260.0
+  ],
+  [
+   "MI_AP_P69SignIcon",
+   55.0
+  ],
+  [
+   "MI_AP_P69Amber",
+   240.0
+  ],
+  [
+   "MI_AP_P69Green",
+   240.0
+  ],
+  [
+   "MI_AP_P69Sage",
+   90.0
+  ],
+  [
+   "MI_AP_P69Lamp",
+   160.0
+  ],
+  [
+   "MI_AP_P70BinGlow",
+   150.0
+  ]
+ ],
+ "cove": [
+  "Cabin broad practical10.002",
+  "Cabin broad practical10.003",
+  "Cabin broad practical10.004",
+  "Cabin broad practical10.005",
+  "Cabin broad practical10.006",
+  "Cabin broad practical10.007",
+  "Cabin broad practical10.008",
+  "Cabin broad practical10.009",
+  "Cabin broad practical10.010",
+  "Cabin broad practical10.011",
+  "Cabin broad practical10.012",
+  "Cabin broad practical10.013",
+  "Cabin broad practical10.014",
+  "Cabin broad practical10.015",
+  "Cabin broad practical10.016",
+  "Cabin broad practical10.017"
+ ],
+ "hidden": [
+  "P58 cabin strip 10",
+  "P58 cabin strip 10.001",
+  "P58 cabin strip 10.002",
+  "P58 cabin strip 10.003",
+  "P58 cabin strip 10.004",
+  "P58 cabin strip 10.005",
+  "P58 cabin strip 10.006",
+  "P58 cabin strip 10.007",
+  "P58 cabin strip 10.008",
+  "P58 cabin strip 10.009",
+  "P58 cabin strip 10.010",
+  "P58 cabin strip 10.011",
+  "P58 cabin strip 10.012",
+  "P58 cabin strip 10.013",
+  "P58 cabin strip 10.014",
+  "P58 cabin strip 10.015",
+  "P58 cabin strip 10.016",
+  "P58 cabin strip 10.017",
+  "P58 cabin strip 10.018",
+  "P58 cabin strip 10.019",
+  "P58 cabin strip 10.020",
+  "P58 cabin strip 10.021",
+  "P58 cabin strip 10.022",
+  "P58 cabin strip 10.023"
+ ],
+ "grade": {
+  "bloom_intensity": 0.9,
+  "bloom_threshold": 1.0,
+  "ambient_occlusion_intensity": 0.85,
+  "ambient_occlusion_radius": 70.0,
+  "vignette_intensity": 0.25,
+  "white_temp": 5200.0,
+  "ambient_cubemap_intensity": 0.0,
+  "auto_exposure_min_brightness": 6.0,
+  "auto_exposure_max_brightness": 6.0
+ },
+ "slots": [
+  [
+   "SM_Plane_Lavatory_R",
+   "MI_Plane_Lamp",
+   "MI_AP_P69Lamp"
+  ],
+  [
+   "SM_Plane_Lavatory_R",
+   "MI_Plane_Footlight",
+   "MI_AP_P69Lamp"
+  ],
+  [
+   "SM_Plane_Lavatory_L",
+   "MI_Plane_Lamp",
+   "MI_AP_P69Lamp"
+  ],
+  [
+   "SM_Plane_Lavatory_L",
+   "MI_Plane_Footlight",
+   "MI_AP_P69Lamp"
+  ],
+  [
+   "SM_Plane_FittedCarpet07",
+   "MI_Plane_Stitch09",
+   "/MI_Plane_Carpet07"
+  ],
+  [
+   "Mid_lower_oven_power",
+   "MI_Plane_SvcSage12",
+   "MI_AP_P69Sage"
+  ],
+  [
+   "Mid_lower_oven_heat_indicator",
+   "MI_Plane_SvcAmber12",
+   "MI_AP_P69Amber"
+  ],
+  [
+   "Mid_upper_oven_power",
+   "MI_Plane_SvcSage12",
+   "MI_AP_P69Sage"
+  ],
+  [
+   "Mid_upper_oven_heat_indicator",
+   "MI_Plane_SvcAmber12",
+   "MI_AP_P69Amber"
+  ],
+  [
+   "Mid_coffee_brew",
+   "MI_Plane_SvcSage12",
+   "MI_AP_P69Sage"
+  ],
+  [
+   "Mid_coffee_brew_indicator",
+   "MI_Plane_SvcGreen12",
+   "MI_AP_P69Green"
+  ],
+  [
+   "Passenger service unit 0112",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 01 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 01 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 01 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 01 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 0212",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 02 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 02 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 02 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 02 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 0312",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 03 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 03 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 03 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 03 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 0412",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 04 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 04 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 04 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 04 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 0512",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 05 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 05 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 05 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 05 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 0612",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 06 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 06 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 06 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 06 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 0712",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 07 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 07 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 07 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 07 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 0812",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 08 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 08 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 08 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 08 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 0912",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 09 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 09 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 09 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 09 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 1012",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 10 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 10 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 10 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 10 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 1112",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 11 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 11 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 11 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 11 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 1212",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 12 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 12 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 12 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 12 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 1312",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 13 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 13 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 13 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 13 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 1412",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 14 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 14 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 14 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 14 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 1512",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 15 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 15 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 15 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 15 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 1612",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 16 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 16 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 16 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 16 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 1712",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 17 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 17 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 17 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 17 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 1812",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 18 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 18 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 18 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 18 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 1912",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 19 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 19 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 19 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 19 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 2012",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 20 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 20 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 20 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 20 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 2112",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 21 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 21 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 21 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 21 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 2212",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 22 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 22 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 22 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 22 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 2312",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 23 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 23 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 23 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 23 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 2412",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 24 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 24 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 24 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 24 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 2512",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 25 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 25 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 25 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 25 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 2612",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 26 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 26 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 26 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 26 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 2712",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 27 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 27 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 27 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 27 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 2812",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 28 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 28 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 28 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 28 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 2912",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 29 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 29 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 29 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 29 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 3012",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 30 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 30 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 30 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 30 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 3112",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 31 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 31 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 31 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 31 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 3212",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 32 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 32 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 32 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 32 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 3312",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 33 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 33 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 33 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 33 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 3412",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 34 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 34 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 34 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 34 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 3512",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 35 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 35 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 35 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 35 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 3612",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 36 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 36 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 36 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 36 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 3712",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 37 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 37 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 37 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 37 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 3812",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 38 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 38 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 38 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 38 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 3912",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 39 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 39 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 39 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 39 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ],
+  [
+   "Passenger service unit 4012",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69SignIcon"
+  ],
+  [
+   "PSU 40 ReadKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyRead"
+  ],
+  [
+   "PSU 40 CallKey12",
+   "MI_Plane_DetailInk12",
+   "MI_AP_P69KeyCall"
+  ],
+  [
+   "PSU 40 ReadIndicator12",
+   "MI_Plane_DetailWarm12",
+   "MI_AP_P69IndWarm"
+  ],
+  [
+   "PSU 40 CallIndicator12",
+   "MI_Plane_DetailCall12",
+   "MI_AP_P69IndCall"
+  ]
+ ],
+ "reading": [
+  "PSU reading practical 0112",
+  "PSU reading practical 0212",
+  "PSU reading practical 0312",
+  "PSU reading practical 0412",
+  "PSU reading practical 0512",
+  "PSU reading practical 0612",
+  "PSU reading practical 0712",
+  "PSU reading practical 0812",
+  "PSU reading practical 0912",
+  "PSU reading practical 1012",
+  "PSU reading practical 1112",
+  "PSU reading practical 1212",
+  "PSU reading practical 1312",
+  "PSU reading practical 1412",
+  "PSU reading practical 1512",
+  "PSU reading practical 1612",
+  "PSU reading practical 1712",
+  "PSU reading practical 1812",
+  "PSU reading practical 1912",
+  "PSU reading practical 2012",
+  "PSU reading practical 2112",
+  "PSU reading practical 2212",
+  "PSU reading practical 2312",
+  "PSU reading practical 2412",
+  "PSU reading practical 2512",
+  "PSU reading practical 2612",
+  "PSU reading practical 2712",
+  "PSU reading practical 2812",
+  "PSU reading practical 2912",
+  "PSU reading practical 3012",
+  "PSU reading practical 3112",
+  "PSU reading practical 3212",
+  "PSU reading practical 3312",
+  "PSU reading practical 3412",
+  "PSU reading practical 3512",
+  "PSU reading practical 3612",
+  "PSU reading practical 3712",
+  "PSU reading practical 3812",
+  "PSU reading practical 3912",
+  "PSU reading practical 4012"
+ ],
+ "bins": [
+  [
+   "Cabin broad practical10",
+   2.15,
+   false
+  ],
+  [
+   "Cabin broad practical10.001",
+   2.15,
+   false
+  ],
+  [
+   "Cabin broad practical10.002",
+   1.97,
+   true
+  ],
+  [
+   "Cabin broad practical10.003",
+   1.97,
+   true
+  ],
+  [
+   "Cabin broad practical10.004",
+   1.97,
+   true
+  ],
+  [
+   "Cabin broad practical10.005",
+   1.97,
+   true
+  ],
+  [
+   "Cabin broad practical10.006",
+   2.16,
+   true
+  ],
+  [
+   "Cabin broad practical10.007",
+   2.16,
+   true
+  ],
+  [
+   "Cabin broad practical10.008",
+   1.97,
+   true
+  ],
+  [
+   "Cabin broad practical10.009",
+   1.97,
+   true
+  ],
+  [
+   "Cabin broad practical10.010",
+   1.97,
+   true
+  ],
+  [
+   "Cabin broad practical10.011",
+   1.97,
+   true
+  ],
+  [
+   "Cabin broad practical10.012",
+   1.97,
+   true
+  ],
+  [
+   "Cabin broad practical10.013",
+   1.97,
+   true
+  ],
+  [
+   "Cabin broad practical10.014",
+   1.97,
+   true
+  ],
+  [
+   "Cabin broad practical10.015",
+   1.97,
+   true
+  ],
+  [
+   "Cabin broad practical10.016",
+   1.97,
+   true
+  ],
+  [
+   "Cabin broad practical10.017",
+   1.97,
+   true
+  ],
+  [
+   "Cabin broad practical10.018",
+   2.15,
+   false
+  ],
+  [
+   "Cabin broad practical10.019",
+   2.15,
+   false
+  ],
+  [
+   "Cabin broad practical10.020",
+   2.15,
+   false
+  ],
+  [
+   "Cabin broad practical10.021",
+   2.15,
+   false
+  ],
+  [
+   "Cabin broad practical10.022",
+   2.15,
+   false
+  ],
+  [
+   "Cabin broad practical10.023",
+   2.15,
+   false
+  ]
+ ],
+ "panels": [
+  "Passenger service unit 0112",
+  "PSU 01 Gasper12",
+  "PSU 01 ReadKey12",
+  "PSU 01 CallKey12",
+  "PSU 01 ReadIndicator12",
+  "PSU 01 CallIndicator12",
+  "Passenger service unit 0212",
+  "PSU 02 Gasper12",
+  "PSU 02 ReadKey12",
+  "PSU 02 CallKey12",
+  "PSU 02 ReadIndicator12",
+  "PSU 02 CallIndicator12",
+  "Passenger service unit 0312",
+  "Centre PSU ceiling attachment 03",
+  "PSU 03 Gasper12",
+  "PSU 03 ReadKey12",
+  "PSU 03 CallKey12",
+  "PSU 03 ReadIndicator12",
+  "PSU 03 CallIndicator12",
+  "Passenger service unit 0412",
+  "Centre PSU ceiling attachment 04",
+  "PSU 04 Gasper12",
+  "PSU 04 ReadKey12",
+  "PSU 04 CallKey12",
+  "PSU 04 ReadIndicator12",
+  "PSU 04 CallIndicator12",
+  "Passenger service unit 0512",
+  "PSU 05 Gasper12",
+  "PSU 05 ReadKey12",
+  "PSU 05 CallKey12",
+  "PSU 05 ReadIndicator12",
+  "PSU 05 CallIndicator12",
+  "Passenger service unit 0612",
+  "PSU 06 Gasper12",
+  "PSU 06 ReadKey12",
+  "PSU 06 CallKey12",
+  "PSU 06 ReadIndicator12",
+  "PSU 06 CallIndicator12",
+  "Passenger service unit 0712",
+  "Centre PSU ceiling attachment 07",
+  "PSU 07 Gasper12",
+  "PSU 07 ReadKey12",
+  "PSU 07 CallKey12",
+  "PSU 07 ReadIndicator12",
+  "PSU 07 CallIndicator12",
+  "Passenger service unit 0812",
+  "Centre PSU ceiling attachment 08",
+  "PSU 08 Gasper12",
+  "PSU 08 ReadKey12",
+  "PSU 08 CallKey12",
+  "PSU 08 ReadIndicator12",
+  "PSU 08 CallIndicator12",
+  "Passenger service unit 0912",
+  "PSU 09 Gasper12",
+  "PSU 09 ReadKey12",
+  "PSU 09 CallKey12",
+  "PSU 09 ReadIndicator12",
+  "PSU 09 CallIndicator12",
+  "Passenger service unit 1012",
+  "PSU 10 Gasper12",
+  "PSU 10 ReadKey12",
+  "PSU 10 CallKey12",
+  "PSU 10 ReadIndicator12",
+  "PSU 10 CallIndicator12",
+  "Passenger service unit 1112",
+  "Centre PSU ceiling attachment 11",
+  "PSU 11 Gasper12",
+  "PSU 11 ReadKey12",
+  "PSU 11 CallKey12",
+  "PSU 11 ReadIndicator12",
+  "PSU 11 CallIndicator12",
+  "Passenger service unit 1212",
+  "Centre PSU ceiling attachment 12",
+  "PSU 12 Gasper12",
+  "PSU 12 ReadKey12",
+  "PSU 12 CallKey12",
+  "PSU 12 ReadIndicator12",
+  "PSU 12 CallIndicator12",
+  "Passenger service unit 1312",
+  "PSU 13 Gasper12",
+  "PSU 13 ReadKey12",
+  "PSU 13 CallKey12",
+  "PSU 13 ReadIndicator12",
+  "PSU 13 CallIndicator12",
+  "Passenger service unit 1412",
+  "PSU 14 Gasper12",
+  "PSU 14 ReadKey12",
+  "PSU 14 CallKey12",
+  "PSU 14 ReadIndicator12",
+  "PSU 14 CallIndicator12",
+  "Passenger service unit 1512",
+  "Centre PSU ceiling attachment 15",
+  "PSU 15 Gasper12",
+  "PSU 15 ReadKey12",
+  "PSU 15 CallKey12",
+  "PSU 15 ReadIndicator12",
+  "PSU 15 CallIndicator12",
+  "Passenger service unit 1612",
+  "Centre PSU ceiling attachment 16",
+  "PSU 16 Gasper12",
+  "PSU 16 ReadKey12",
+  "PSU 16 CallKey12",
+  "PSU 16 ReadIndicator12",
+  "PSU 16 CallIndicator12",
+  "Passenger service unit 1712",
+  "PSU 17 Gasper12",
+  "PSU 17 ReadKey12",
+  "PSU 17 CallKey12",
+  "PSU 17 ReadIndicator12",
+  "PSU 17 CallIndicator12",
+  "Passenger service unit 1812",
+  "PSU 18 Gasper12",
+  "PSU 18 ReadKey12",
+  "PSU 18 CallKey12",
+  "PSU 18 ReadIndicator12",
+  "PSU 18 CallIndicator12",
+  "Passenger service unit 1912",
+  "Centre PSU ceiling attachment 19",
+  "PSU 19 Gasper12",
+  "PSU 19 ReadKey12",
+  "PSU 19 CallKey12",
+  "PSU 19 ReadIndicator12",
+  "PSU 19 CallIndicator12",
+  "Passenger service unit 2012",
+  "Centre PSU ceiling attachment 20",
+  "PSU 20 Gasper12",
+  "PSU 20 ReadKey12",
+  "PSU 20 CallKey12",
+  "PSU 20 ReadIndicator12",
+  "PSU 20 CallIndicator12",
+  "Passenger service unit 2112",
+  "PSU 21 Gasper12",
+  "PSU 21 ReadKey12",
+  "PSU 21 CallKey12",
+  "PSU 21 ReadIndicator12",
+  "PSU 21 CallIndicator12",
+  "Passenger service unit 2212",
+  "PSU 22 Gasper12",
+  "PSU 22 ReadKey12",
+  "PSU 22 CallKey12",
+  "PSU 22 ReadIndicator12",
+  "PSU 22 CallIndicator12",
+  "Passenger service unit 2312",
+  "Centre PSU ceiling attachment 23",
+  "PSU 23 Gasper12",
+  "PSU 23 ReadKey12",
+  "PSU 23 CallKey12",
+  "PSU 23 ReadIndicator12",
+  "PSU 23 CallIndicator12",
+  "Passenger service unit 2412",
+  "Centre PSU ceiling attachment 24",
+  "PSU 24 Gasper12",
+  "PSU 24 ReadKey12",
+  "PSU 24 CallKey12",
+  "PSU 24 ReadIndicator12",
+  "PSU 24 CallIndicator12",
+  "Passenger service unit 2512",
+  "PSU 25 Gasper12",
+  "PSU 25 ReadKey12",
+  "PSU 25 CallKey12",
+  "PSU 25 ReadIndicator12",
+  "PSU 25 CallIndicator12",
+  "Passenger service unit 2612",
+  "PSU 26 Gasper12",
+  "PSU 26 ReadKey12",
+  "PSU 26 CallKey12",
+  "PSU 26 ReadIndicator12",
+  "PSU 26 CallIndicator12",
+  "Passenger service unit 2712",
+  "Centre PSU ceiling attachment 27",
+  "PSU 27 Gasper12",
+  "PSU 27 ReadKey12",
+  "PSU 27 CallKey12",
+  "PSU 27 ReadIndicator12",
+  "PSU 27 CallIndicator12",
+  "Passenger service unit 2812",
+  "Centre PSU ceiling attachment 28",
+  "PSU 28 Gasper12",
+  "PSU 28 ReadKey12",
+  "PSU 28 CallKey12",
+  "PSU 28 ReadIndicator12",
+  "PSU 28 CallIndicator12",
+  "Passenger service unit 2912",
+  "PSU 29 Gasper12",
+  "PSU 29 ReadKey12",
+  "PSU 29 CallKey12",
+  "PSU 29 ReadIndicator12",
+  "PSU 29 CallIndicator12",
+  "Passenger service unit 3012",
+  "PSU 30 Gasper12",
+  "PSU 30 ReadKey12",
+  "PSU 30 CallKey12",
+  "PSU 30 ReadIndicator12",
+  "PSU 30 CallIndicator12",
+  "Passenger service unit 3112",
+  "Centre PSU ceiling attachment 31",
+  "PSU 31 Gasper12",
+  "PSU 31 ReadKey12",
+  "PSU 31 CallKey12",
+  "PSU 31 ReadIndicator12",
+  "PSU 31 CallIndicator12",
+  "Passenger service unit 3212",
+  "Centre PSU ceiling attachment 32",
+  "PSU 32 Gasper12",
+  "PSU 32 ReadKey12",
+  "PSU 32 CallKey12",
+  "PSU 32 ReadIndicator12",
+  "PSU 32 CallIndicator12",
+  "Passenger service unit 3312",
+  "PSU 33 Gasper12",
+  "PSU 33 ReadKey12",
+  "PSU 33 CallKey12",
+  "PSU 33 ReadIndicator12",
+  "PSU 33 CallIndicator12",
+  "Passenger service unit 3412",
+  "PSU 34 Gasper12",
+  "PSU 34 ReadKey12",
+  "PSU 34 CallKey12",
+  "PSU 34 ReadIndicator12",
+  "PSU 34 CallIndicator12",
+  "Passenger service unit 3512",
+  "Centre PSU ceiling attachment 35",
+  "PSU 35 Gasper12",
+  "PSU 35 ReadKey12",
+  "PSU 35 CallKey12",
+  "PSU 35 ReadIndicator12",
+  "PSU 35 CallIndicator12",
+  "Passenger service unit 3612",
+  "Centre PSU ceiling attachment 36",
+  "PSU 36 Gasper12",
+  "PSU 36 ReadKey12",
+  "PSU 36 CallKey12",
+  "PSU 36 ReadIndicator12",
+  "PSU 36 CallIndicator12",
+  "Passenger service unit 3712",
+  "PSU 37 Gasper12",
+  "PSU 37 ReadKey12",
+  "PSU 37 CallKey12",
+  "PSU 37 ReadIndicator12",
+  "PSU 37 CallIndicator12",
+  "Passenger service unit 3812",
+  "PSU 38 Gasper12",
+  "PSU 38 ReadKey12",
+  "PSU 38 CallKey12",
+  "PSU 38 ReadIndicator12",
+  "PSU 38 CallIndicator12",
+  "Passenger service unit 3912",
+  "Centre PSU ceiling attachment 39",
+  "PSU 39 Gasper12",
+  "PSU 39 ReadKey12",
+  "PSU 39 CallKey12",
+  "PSU 39 ReadIndicator12",
+  "PSU 39 CallIndicator12",
+  "Passenger service unit 4012",
+  "Centre PSU ceiling attachment 40",
+  "PSU 40 Gasper12",
+  "PSU 40 ReadKey12",
+  "PSU 40 CallKey12",
+  "PSU 40 ReadIndicator12",
+  "PSU 40 CallIndicator12",
+  "PSU reading practical 0112",
+  "PSU reading practical 0212",
+  "PSU reading practical 0312",
+  "PSU reading practical 0412",
+  "PSU reading practical 0512",
+  "PSU reading practical 0612",
+  "PSU reading practical 0712",
+  "PSU reading practical 0812",
+  "PSU reading practical 0912",
+  "PSU reading practical 1012",
+  "PSU reading practical 1112",
+  "PSU reading practical 1212",
+  "PSU reading practical 1312",
+  "PSU reading practical 1412",
+  "PSU reading practical 1512",
+  "PSU reading practical 1612",
+  "PSU reading practical 1712",
+  "PSU reading practical 1812",
+  "PSU reading practical 1912",
+  "PSU reading practical 2012",
+  "PSU reading practical 2112",
+  "PSU reading practical 2212",
+  "PSU reading practical 2312",
+  "PSU reading practical 2412",
+  "PSU reading practical 2512",
+  "PSU reading practical 2612",
+  "PSU reading practical 2712",
+  "PSU reading practical 2812",
+  "PSU reading practical 2912",
+  "PSU reading practical 3012",
+  "PSU reading practical 3112",
+  "PSU reading practical 3212",
+  "PSU reading practical 3312",
+  "PSU reading practical 3412",
+  "PSU reading practical 3512",
+  "PSU reading practical 3612",
+  "PSU reading practical 3712",
+  "PSU reading practical 3812",
+  "PSU reading practical 3912",
+  "PSU reading practical 4012"
+ ]
+}

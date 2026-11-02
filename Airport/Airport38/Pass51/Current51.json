@@ -1,0 +1,132 @@
+{
+ "status": "SUCCESS",
+ "meshes": {
+  "SM_AP_RetainedCraft38": {
+   "path": "/Game/Airport38/Flow03Meshes/SM_AP_RetainedCraft38.SM_AP_RetainedCraft38",
+   "exported": true,
+   "actors": [
+    {
+     "label": "Airport38 retained crafted furniture and artwork",
+     "location": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "rotation": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "scale": [
+      1.0,
+      1.0,
+      1.0
+     ],
+     "hidden": false,
+     "collision": "BlockAll"
+    }
+   ],
+   "slots": [
+    {
+     "slot": "MI_AP_P34Cream",
+     "material": "/Game/Airport34/Materials/MI_AP_P34Cream.MI_AP_P34Cream"
+    },
+    {
+     "slot": "MI_AP_P34Metal",
+     "material": "/Game/Airport34/Materials/MI_AP_P34Metal.MI_AP_P34Metal"
+    },
+    {
+     "slot": "MI_AP_P27Oak",
+     "material": "/Game/Airport27/P5/Materials/MI_AP_P27Oak.MI_AP_P27Oak"
+    },
+    {
+     "slot": "MI_AP_P34Navy",
+     "material": "/Game/Airport34/Materials/MI_AP_P34Navy.MI_AP_P34Navy"
+    },
+    {
+     "slot": "MI_AP_P34Sage",
+     "material": "/Game/Airport34/Materials/MI_AP_P34Sage.MI_AP_P34Sage"
+    },
+    {
+     "slot": "MI_AP_P36Text",
+     "material": "/Game/Airport36/Materials/MI_AP_P36Text.MI_AP_P36Text"
+    },
+    {
+     "slot": "MI_AP_Gold",
+     "material": "/Game/Airport23/Materials/Instances/MI_AP_Gold.MI_AP_Gold"
+    },
+    {
+     "slot": "MI_AP_P27Walnut",
+     "material": "/Game/Airport31/Materials/MI_AP_P27Walnut.MI_AP_P27Walnut"
+    },
+    {
+     "slot": "MI_AP_P27Acoustic",
+     "material": "/Game/Airport27/P5/Materials/MI_AP_P27Acoustic.MI_AP_P27Acoustic"
+    },
+    {
+     "slot": "MI_AP_P30Carpet",
+     "material": "/Game/Airport30/Materials/MI_AP_P30Carpet.MI_AP_P30Carpet"
+    },
+    {
+     "slot": "MI_AP_P30Navy",
+     "material": "/Game/Airport30/Materials/MI_AP_P30Navy.MI_AP_P30Navy"
+    },
+    {
+     "slot": "MI_AP_P30Kiosks",
+     "material": "/Game/Airport30/Materials/MI_AP_P30Kiosks.MI_AP_P30Kiosks"
+    },
+    {
+     "slot": "MI_AP_P30WaitingArt",
+     "material": "/Game/Airport30/Materials/MI_AP_P30WaitingArt.MI_AP_P30WaitingArt"
+    },
+    {
+     "slot": "MI_AP_P27Steel",
+     "material": "/Game/Airport27/P5/Materials/MI_AP_P27Steel.MI_AP_P27Steel"
+    },
+    {
+     "slot": "MI_AP_P27Piping",
+     "material": "/Game/Airport27/P5/Materials/MI_AP_P27Piping.MI_AP_P27Piping"
+    },
+    {
+     "slot": "MI_AP_P27Cream",
+     "material": "/Game/Airport27/P5/Materials/MI_AP_P27Cream.MI_AP_P27Cream"
+    },
+    {
+     "slot": "MI_AP_P27Navy",
+     "material": "/Game/Airport27/P5/Materials/MI_AP_P27Navy.MI_AP_P27Navy"
+    },
+    {
+     "slot": "MI_AP_P27GuideCover",
+     "material": "/Game/Airport27/P5/Materials/MI_AP_P27GuideCover.MI_AP_P27GuideCover"
+    },
+    {
+     "slot": "MI_AP_P27Rubber",
+     "material": "/Game/Airport27/P5/Materials/MI_AP_P27Rubber.MI_AP_P27Rubber"
+    },
+    {
+     "slot": "MI_AP_P34LED",
+     "material": "/Game/Airport34/Materials/MI_AP_P34LED.MI_AP_P34LED"
+    },
+    {
+     "slot": "MI_AP_P38AOak",
+     "material": "/Game/Airport38/Materials/MI_AP_P38AOak.MI_AP_P38AOak"
+    },
+    {
+     "slot": "MI_AP_P38AHousing",
+     "material": "/Game/Airport38/Materials/MI_AP_P38AHousing.MI_AP_P38AHousing"
+    },
+    {
+     "slot": "MI_AP_P38EMetal",
+     "material": "/Game/Airport38/Materials/MI_AP_P38EMetal.MI_AP_P38EMetal"
+    },
+    {
+     "slot": "MI_AP_P38ERubber",
+     "material": "/Game/Airport38/Materials/MI_AP_P38ERubber.MI_AP_P38ERubber"
+    }
+   ],
+   "trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+   "double_sided": false,
+   "triangles": 52566
+  }
+ }
+}

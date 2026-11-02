@@ -1,0 +1,571 @@
+{
+  "status": "SUCCESS",
+  "started": 1793404103.3751812,
+  "changed": [
+    {
+      "label": "PostProcessVolume",
+      "before": {
+        "unbound": true,
+        "priority": 0.0,
+        "blend_radius": 100.0,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5,
+        "gi_method": "<DynamicGlobalIlluminationMethod.LUMEN: 1>",
+        "ambient_cubemap_intensity": 1.0,
+        "indirect_lighting_intensity": 1.0
+      },
+      "after": {
+        "gi_method": "SCREEN_SPACE",
+        "indirect_lighting_intensity": 2.0,
+        "ambient_cubemap_intensity": 0.1,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5
+      }
+    },
+    {
+      "label": "Airport clean daylight grade",
+      "before": {
+        "unbound": true,
+        "priority": 1000.0,
+        "blend_radius": 100.0,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5,
+        "gi_method": "<DynamicGlobalIlluminationMethod.LUMEN: 1>",
+        "ambient_cubemap_intensity": 1.0,
+        "indirect_lighting_intensity": 1.0
+      },
+      "after": {
+        "gi_method": "SCREEN_SPACE",
+        "indirect_lighting_intensity": 2.0,
+        "ambient_cubemap_intensity": 0.1,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5
+      }
+    },
+    {
+      "label": "AP38 warm grade entrancefoyer",
+      "before": {
+        "unbound": false,
+        "priority": 1538.0,
+        "blend_radius": 12.0,
+        "exposure_min": 6.0,
+        "exposure_max": 6.0,
+        "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+        "ambient_cubemap_intensity": 0.2199999988079071,
+        "indirect_lighting_intensity": 1.0
+      },
+      "after": {
+        "gi_method": "SCREEN_SPACE",
+        "indirect_lighting_intensity": 2.0,
+        "ambient_cubemap_intensity": 0.1,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5,
+        "blend_radius": 120.0,
+        "inset_removed": true,
+        "scale": [
+          3.0,
+          5.0,
+          1.8
+        ]
+      }
+    },
+    {
+      "label": "AP38 warm grade checkin",
+      "before": {
+        "unbound": false,
+        "priority": 1538.0,
+        "blend_radius": 12.0,
+        "exposure_min": 6.0,
+        "exposure_max": 6.0,
+        "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+        "ambient_cubemap_intensity": 0.2199999988079071,
+        "indirect_lighting_intensity": 1.0
+      },
+      "after": {
+        "gi_method": "SCREEN_SPACE",
+        "indirect_lighting_intensity": 2.0,
+        "ambient_cubemap_intensity": 0.1,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5,
+        "blend_radius": 120.0,
+        "inset_removed": true,
+        "scale": [
+          8.5,
+          5.0,
+          1.9
+        ]
+      }
+    },
+    {
+      "label": "AP38 warm grade publicreturn",
+      "before": {
+        "unbound": false,
+        "priority": 1538.0,
+        "blend_radius": 12.0,
+        "exposure_min": 6.0,
+        "exposure_max": 6.0,
+        "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+        "ambient_cubemap_intensity": 0.2199999988079071,
+        "indirect_lighting_intensity": 1.0
+      },
+      "after": {
+        "gi_method": "SCREEN_SPACE",
+        "indirect_lighting_intensity": 2.0,
+        "ambient_cubemap_intensity": 0.1,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5,
+        "blend_radius": 120.0,
+        "inset_removed": true,
+        "scale": [
+          11.5,
+          2.0,
+          1.6
+        ]
+      }
+    },
+    {
+      "label": "AP38 warm grade landsidecorridor",
+      "before": {
+        "unbound": false,
+        "priority": 1538.0,
+        "blend_radius": 12.0,
+        "exposure_min": 6.0,
+        "exposure_max": 6.0,
+        "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+        "ambient_cubemap_intensity": 0.2199999988079071,
+        "indirect_lighting_intensity": 1.0
+      },
+      "after": {
+        "gi_method": "SCREEN_SPACE",
+        "indirect_lighting_intensity": 2.0,
+        "ambient_cubemap_intensity": 0.1,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5,
+        "blend_radius": 120.0,
+        "inset_removed": true,
+        "scale": [
+          11.5,
+          2.0,
+          1.7
+        ]
+      }
+    },
+    {
+      "label": "AP38 warm grade security",
+      "before": {
+        "unbound": false,
+        "priority": 1538.0,
+        "blend_radius": 12.0,
+        "exposure_min": 6.0,
+        "exposure_max": 6.0,
+        "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+        "ambient_cubemap_intensity": 0.2199999988079071,
+        "indirect_lighting_intensity": 1.0
+      },
+      "after": {
+        "gi_method": "SCREEN_SPACE",
+        "indirect_lighting_intensity": 2.0,
+        "ambient_cubemap_intensity": 0.1,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5,
+        "blend_radius": 120.0,
+        "inset_removed": true,
+        "scale": [
+          6.5,
+          7.0,
+          1.75
+        ]
+      }
+    },
+    {
+      "label": "AP38 warm grade recovery",
+      "before": {
+        "unbound": false,
+        "priority": 1538.0,
+        "blend_radius": 12.0,
+        "exposure_min": 6.0,
+        "exposure_max": 6.0,
+        "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+        "ambient_cubemap_intensity": 0.2199999988079071,
+        "indirect_lighting_intensity": 1.0
+      },
+      "after": {
+        "gi_method": "SCREEN_SPACE",
+        "indirect_lighting_intensity": 2.0,
+        "ambient_cubemap_intensity": 0.1,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5,
+        "blend_radius": 120.0,
+        "inset_removed": true,
+        "scale": [
+          2.0,
+          5.0,
+          1.7
+        ]
+      }
+    },
+    {
+      "label": "AP38 warm grade concourse",
+      "before": {
+        "unbound": false,
+        "priority": 1538.0,
+        "blend_radius": 12.0,
+        "exposure_min": 6.0,
+        "exposure_max": 6.0,
+        "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+        "ambient_cubemap_intensity": 0.2199999988079071,
+        "indirect_lighting_intensity": 1.0
+      },
+      "after": {
+        "gi_method": "SCREEN_SPACE",
+        "indirect_lighting_intensity": 2.0,
+        "ambient_cubemap_intensity": 0.1,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5,
+        "blend_radius": 120.0,
+        "inset_removed": true,
+        "scale": [
+          3.0,
+          9.0,
+          1.7
+        ]
+      }
+    },
+    {
+      "label": "AP38 warm grade gate07",
+      "before": {
+        "unbound": false,
+        "priority": 1538.0,
+        "blend_radius": 12.0,
+        "exposure_min": 6.0,
+        "exposure_max": 6.0,
+        "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+        "ambient_cubemap_intensity": 0.2199999988079071,
+        "indirect_lighting_intensity": 1.0
+      },
+      "after": {
+        "gi_method": "SCREEN_SPACE",
+        "indirect_lighting_intensity": 2.0,
+        "ambient_cubemap_intensity": 0.1,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5,
+        "blend_radius": 120.0,
+        "inset_removed": true,
+        "scale": [
+          4.5,
+          6.5,
+          1.7
+        ]
+      }
+    },
+    {
+      "label": "AP38 warm grade gate08",
+      "before": {
+        "unbound": false,
+        "priority": 1538.0,
+        "blend_radius": 12.0,
+        "exposure_min": 6.0,
+        "exposure_max": 6.0,
+        "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+        "ambient_cubemap_intensity": 0.2199999988079071,
+        "indirect_lighting_intensity": 1.0
+      },
+      "after": {
+        "gi_method": "SCREEN_SPACE",
+        "indirect_lighting_intensity": 2.0,
+        "ambient_cubemap_intensity": 0.1,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5,
+        "blend_radius": 120.0,
+        "inset_removed": true,
+        "scale": [
+          4.0,
+          10.0,
+          1.9
+        ]
+      }
+    },
+    {
+      "label": "AP38 warm grade cafefoyer",
+      "before": {
+        "unbound": false,
+        "priority": 1538.0,
+        "blend_radius": 12.0,
+        "exposure_min": 6.0,
+        "exposure_max": 6.0,
+        "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+        "ambient_cubemap_intensity": 0.2199999988079071,
+        "indirect_lighting_intensity": 1.0
+      },
+      "after": {
+        "gi_method": "SCREEN_SPACE",
+        "indirect_lighting_intensity": 2.0,
+        "ambient_cubemap_intensity": 0.1,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5,
+        "blend_radius": 120.0,
+        "inset_removed": true,
+        "scale": [
+          3.0,
+          3.0,
+          1.7
+        ]
+      }
+    },
+    {
+      "label": "AP38 warm grade cafe",
+      "before": {
+        "unbound": false,
+        "priority": 1538.0,
+        "blend_radius": 12.0,
+        "exposure_min": 6.0,
+        "exposure_max": 6.0,
+        "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+        "ambient_cubemap_intensity": 0.25999999046325684,
+        "indirect_lighting_intensity": 1.0
+      },
+      "after": {
+        "gi_method": "SCREEN_SPACE",
+        "indirect_lighting_intensity": 2.0,
+        "ambient_cubemap_intensity": 0.1,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5,
+        "blend_radius": 120.0,
+        "inset_removed": true,
+        "scale": [
+          8.5,
+          9.0,
+          3.4
+        ]
+      }
+    },
+    {
+      "label": "AP38 warm grade amenitylobby",
+      "before": {
+        "unbound": false,
+        "priority": 1538.0,
+        "blend_radius": 12.0,
+        "exposure_min": 6.0,
+        "exposure_max": 6.0,
+        "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+        "ambient_cubemap_intensity": 0.2199999988079071,
+        "indirect_lighting_intensity": 1.0
+      },
+      "after": {
+        "gi_method": "SCREEN_SPACE",
+        "indirect_lighting_intensity": 2.0,
+        "ambient_cubemap_intensity": 0.1,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5,
+        "blend_radius": 120.0,
+        "inset_removed": true,
+        "scale": [
+          1.5,
+          5.5,
+          1.5
+        ]
+      }
+    },
+    {
+      "label": "AP38 warm grade amenities",
+      "before": {
+        "unbound": false,
+        "priority": 1538.0,
+        "blend_radius": 12.0,
+        "exposure_min": 6.0,
+        "exposure_max": 6.0,
+        "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+        "ambient_cubemap_intensity": 0.2199999988079071,
+        "indirect_lighting_intensity": 1.0
+      },
+      "after": {
+        "gi_method": "SCREEN_SPACE",
+        "indirect_lighting_intensity": 2.0,
+        "ambient_cubemap_intensity": 0.1,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5,
+        "blend_radius": 120.0,
+        "inset_removed": true,
+        "scale": [
+          4.5,
+          4.5,
+          1.4
+        ]
+      }
+    },
+    {
+      "label": "AP38 warm grade operations",
+      "before": {
+        "unbound": false,
+        "priority": 1538.0,
+        "blend_radius": 12.0,
+        "exposure_min": 6.0,
+        "exposure_max": 6.0,
+        "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+        "ambient_cubemap_intensity": 0.2199999988079071,
+        "indirect_lighting_intensity": 1.0
+      },
+      "after": {
+        "gi_method": "SCREEN_SPACE",
+        "indirect_lighting_intensity": 2.0,
+        "ambient_cubemap_intensity": 0.1,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5,
+        "blend_radius": 120.0,
+        "inset_removed": true,
+        "scale": [
+          5.5,
+          3.0,
+          1.5
+        ]
+      }
+    },
+    {
+      "label": "AP38 warm grade gate07entry",
+      "before": {
+        "unbound": false,
+        "priority": 1538.0,
+        "blend_radius": 12.0,
+        "exposure_min": 6.0,
+        "exposure_max": 6.0,
+        "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+        "ambient_cubemap_intensity": 0.2199999988079071,
+        "indirect_lighting_intensity": 1.0
+      },
+      "after": {
+        "gi_method": "SCREEN_SPACE",
+        "indirect_lighting_intensity": 2.0,
+        "ambient_cubemap_intensity": 0.1,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5,
+        "blend_radius": 120.0,
+        "inset_removed": true,
+        "scale": [
+          1.5,
+          5.5,
+          1.7
+        ]
+      }
+    },
+    {
+      "label": "AP38 warm grade baggageservice",
+      "before": {
+        "unbound": false,
+        "priority": 1538.0,
+        "blend_radius": 12.0,
+        "exposure_min": 6.0,
+        "exposure_max": 6.0,
+        "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+        "ambient_cubemap_intensity": 0.2199999988079071,
+        "indirect_lighting_intensity": 1.0
+      },
+      "after": {
+        "gi_method": "SCREEN_SPACE",
+        "indirect_lighting_intensity": 2.0,
+        "ambient_cubemap_intensity": 0.1,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5,
+        "blend_radius": 120.0,
+        "inset_removed": true,
+        "scale": [
+          2.0,
+          3.25,
+          1.6
+        ]
+      }
+    },
+    {
+      "label": "AP38 warm grade arrivals",
+      "before": {
+        "unbound": false,
+        "priority": 1538.0,
+        "blend_radius": 12.0,
+        "exposure_min": 6.0,
+        "exposure_max": 6.0,
+        "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+        "ambient_cubemap_intensity": 0.2199999988079071,
+        "indirect_lighting_intensity": 1.0
+      },
+      "after": {
+        "gi_method": "SCREEN_SPACE",
+        "indirect_lighting_intensity": 2.0,
+        "ambient_cubemap_intensity": 0.1,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5,
+        "blend_radius": 120.0,
+        "inset_removed": true,
+        "scale": [
+          4.0,
+          5.0,
+          1.8
+        ]
+      }
+    },
+    {
+      "label": "AP38 warm grade arrivalsreturn",
+      "before": {
+        "unbound": false,
+        "priority": 1538.0,
+        "blend_radius": 12.0,
+        "exposure_min": 6.0,
+        "exposure_max": 6.0,
+        "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+        "ambient_cubemap_intensity": 0.2199999988079071,
+        "indirect_lighting_intensity": 1.0
+      },
+      "after": {
+        "gi_method": "SCREEN_SPACE",
+        "indirect_lighting_intensity": 2.0,
+        "ambient_cubemap_intensity": 0.1,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5,
+        "blend_radius": 120.0,
+        "inset_removed": true,
+        "scale": [
+          1.5,
+          1.75,
+          1.8
+        ]
+      }
+    },
+    {
+      "label": "AP38 warm grade publicreturneast",
+      "before": {
+        "unbound": false,
+        "priority": 1538.0,
+        "blend_radius": 12.0,
+        "exposure_min": 6.0,
+        "exposure_max": 6.0,
+        "gi_method": "<DynamicGlobalIlluminationMethod.NONE: 0>",
+        "ambient_cubemap_intensity": 0.2199999988079071,
+        "indirect_lighting_intensity": 1.0
+      },
+      "after": {
+        "gi_method": "SCREEN_SPACE",
+        "indirect_lighting_intensity": 2.0,
+        "ambient_cubemap_intensity": 0.1,
+        "exposure_min": 6.5,
+        "exposure_max": 6.5,
+        "blend_radius": 120.0,
+        "inset_removed": true,
+        "scale": [
+          0.5,
+          1.75,
+          1.6
+        ]
+      }
+    }
+  ],
+  "notes": [],
+  "volumes_found": 24,
+  "map": "/Game/Airport38/L_Airport_Repair38",
+  "finished": 1793404112.8870637,
+  "summary": {
+    "rooms": 19,
+    "base": 2,
+    "ambient_intensity": 0.1,
+    "indirect_intensity": 2.0,
+    "exposure_ev": 6.5,
+    "blend_radius_cm": 120.0
+  }
+}

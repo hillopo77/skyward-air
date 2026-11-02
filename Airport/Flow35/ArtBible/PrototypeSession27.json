@@ -1,0 +1,17 @@
+{
+  "status": "READY",
+  "level": 5,
+  "map": "/Game/Airport35/L_Airport_Flow35",
+  "viewport": [
+    1920,
+    1080
+  ],
+  "profile": "Calm31",
+  "phase": "Gate",
+  "distance_normal_fade_m": [
+    2.5,
+    8
+  ],
+  "essential_prints_never_stream": true,
+  "updated": 1793271273.5148087
+}

@@ -1,0 +1,2378 @@
+{
+  "revision": "10",
+  "validator": "10",
+  "status": "SUCCESS",
+  "capture_method": "actual standalone viewport Shot after settled temporal AA",
+  "navigation_method": "standing collision-enabled player movement; initial placement only",
+  "captures": [
+    {
+      "camera": "CAM_Plane_Exterior07",
+      "file": "UE_80_airframe10.png",
+      "walking_test": null,
+      "bytes": 975131,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA"
+    },
+    {
+      "camera": "CAM_Plane_Profile08",
+      "file": "UE_81_profile10.png",
+      "walking_test": null,
+      "bytes": 1005910,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA"
+    },
+    {
+      "camera": "CAM_Plane_FrontOverview07",
+      "file": "UE_82_front10.png",
+      "walking_test": null,
+      "bytes": 1001676,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA"
+    },
+    {
+      "camera": "CAM_Plane_Business07",
+      "file": "UE_83_business10.png",
+      "walking_test": null,
+      "bytes": 1508585,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA"
+    },
+    {
+      "camera": "CAM_Plane_Economy07",
+      "file": "UE_84_economy10.png",
+      "walking_test": null,
+      "bytes": 1536879,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA"
+    },
+    {
+      "camera": "CAM_Plane_MidGalley07",
+      "file": "UE_85_galley10.png",
+      "walking_test": null,
+      "bytes": 1585494,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA"
+    },
+    {
+      "camera": "CAM_Plane_Crew10",
+      "file": "UE_86_crew10.png",
+      "walking_test": null,
+      "bytes": 1122873,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA"
+    },
+    {
+      "camera": "CAM_Plane_ServiceAft",
+      "file": "UE_87_aftservice10.png",
+      "walking_test": null,
+      "bytes": 766624,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA"
+    },
+    {
+      "camera": "CAM_Plane_Lavatory",
+      "file": "UE_88_lavatory10.png",
+      "walking_test": null,
+      "bytes": 1321195,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA"
+    },
+    {
+      "camera": "CAM_Plane_LavatoryBasin",
+      "file": "UE_89_vanity10.png",
+      "walking_test": null,
+      "bytes": 1219134,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA"
+    },
+    {
+      "camera": "CAM_Plane_CockpitWide",
+      "file": "UE_90_flightdeck10.png",
+      "walking_test": null,
+      "bytes": 1469681,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA"
+    },
+    {
+      "camera": "CAM_Plane_PilotEye09",
+      "file": "UE_91_piloteye10.png",
+      "walking_test": null,
+      "bytes": 1485931,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA"
+    },
+    {
+      "camera": "CAM_Plane_FrontEconomyAccess10",
+      "file": "UE_92_frontrow10.png",
+      "walking_test": null,
+      "bytes": 1421427,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA"
+    },
+    {
+      "camera": "CAM_Plane_CargoHold10",
+      "file": "UE_93_cargohold10.png",
+      "walking_test": null,
+      "bytes": 1253022,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA"
+    },
+    {
+      "camera": "CAM_Plane_CargoStairs10",
+      "file": "UE_94_cargostairs10.png",
+      "walking_test": null,
+      "bytes": 1127700,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA"
+    },
+    {
+      "camera": "CAM_Plane_BinDetail10",
+      "file": "UE_95_bin10.png",
+      "walking_test": null,
+      "bytes": 1208286,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA"
+    },
+    {
+      "camera": "CAM_Plane_AftCrossAisle10",
+      "file": "UE_97_aftcrossaisle10.png",
+      "walking_test": null,
+      "bytes": 935165,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA"
+    },
+    {
+      "camera": "CAM_Plane_CargoExterior10",
+      "file": "UE_98_cargodoor10.png",
+      "walking_test": null,
+      "bytes": 746096,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA"
+    },
+    {
+      "camera": "standing player route endpoint",
+      "file": "UE_96_cargowalk10.png",
+      "walking_test": "Lower hold stairs and walkway",
+      "bytes": 1124132,
+      "width": 1600,
+      "height": 900,
+      "method": "actual standalone viewport Shot after settled temporal AA"
+    }
+  ],
+  "interactions": [
+    {
+      "test": "E key imports and polling API is available",
+      "passed": true,
+      "key": "E"
+    },
+    {
+      "test": "V review cycle 0",
+      "passed": true
+    },
+    {
+      "test": "V review cycle 1",
+      "passed": true
+    },
+    {
+      "test": "V review cycle 2",
+      "passed": true
+    },
+    {
+      "test": "V review cycle -1",
+      "passed": true
+    },
+    {
+      "test": "closed cockpit door blocks a standing player",
+      "passed": true,
+      "progress_cm": 37.87,
+      "door_plane_cm": 59.5
+    },
+    {
+      "test": "same E action opens cockpit door",
+      "passed": true,
+      "action": "door"
+    },
+    {
+      "test": "cockpit door reaches its authored open position",
+      "passed": true,
+      "expected_yaw": -86.0,
+      "actual_yaw": -86.0
+    },
+    {
+      "test": "open cockpit door permits a standing player through",
+      "passed": true,
+      "progress_cm": 387.96,
+      "door_plane_cm": 59.5
+    },
+    {
+      "test": "E enters Business 01 A",
+      "passed": true,
+      "selected_actor": "Business 01 A"
+    },
+    {
+      "test": "E stands from Business 01 A",
+      "passed": true
+    },
+    {
+      "test": "E enters Business 01 K",
+      "passed": true,
+      "selected_actor": "Business 01 K"
+    },
+    {
+      "test": "E stands from Business 01 K",
+      "passed": true
+    },
+    {
+      "test": "E enters Business 02 A",
+      "passed": true,
+      "selected_actor": "Business 02 A"
+    },
+    {
+      "test": "E stands from Business 02 A",
+      "passed": true
+    },
+    {
+      "test": "E enters Business 02 K",
+      "passed": true,
+      "selected_actor": "Business 02 K"
+    },
+    {
+      "test": "E stands from Business 02 K",
+      "passed": true
+    },
+    {
+      "test": "E enters SM_Plane_Seat.016",
+      "passed": true,
+      "selected_actor": "SM_Plane_Seat.016"
+    },
+    {
+      "test": "E stands from SM_Plane_Seat.016",
+      "passed": true
+    },
+    {
+      "test": "E enters SM_Plane_Seat.017",
+      "passed": true,
+      "selected_actor": "SM_Plane_Seat.017"
+    },
+    {
+      "test": "E stands from SM_Plane_Seat.017",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Lavatory R door \u2014 hinge pivot",
+      "passed": true
+    },
+    {
+      "test": "E opens Lavatory R door \u2014 hinge pivot",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Lavatory R door \u2014 hinge pivot",
+      "passed": true
+    },
+    {
+      "test": "E closes Lavatory R door \u2014 hinge pivot",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Lavatory R door \u2014 hinge pivot",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Lavatory L door \u2014 hinge pivot",
+      "passed": true
+    },
+    {
+      "test": "E opens Lavatory L door \u2014 hinge pivot",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Lavatory L door \u2014 hinge pivot",
+      "passed": true
+    },
+    {
+      "test": "E closes Lavatory L door \u2014 hinge pivot",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Lavatory L door \u2014 hinge pivot",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Lower cargo stair hatch",
+      "passed": true
+    },
+    {
+      "test": "E opens Lower cargo stair hatch",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Lower cargo stair hatch",
+      "passed": true
+    },
+    {
+      "test": "E closes Lower cargo stair hatch",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Lower cargo stair hatch",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin R 04",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin R 04",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin R 04",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin R 04",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin R 04",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin R 05",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin R 05",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin R 05",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin R 05",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin R 05",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin R 06",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin R 06",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin R 06",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin R 06",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin R 06",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin R 07",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin R 07",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin R 07",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin R 07",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin R 07",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin R 10",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin R 10",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin R 10",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin R 10",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin R 10",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin R 11",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin R 11",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin R 11",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin R 11",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin R 11",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin R 12",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin R 12",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin R 12",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin R 12",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin R 12",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin R 13",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin R 13",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin R 13",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin R 13",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin R 13",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin R 14",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin R 14",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin R 14",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin R 14",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin R 14",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin R 15",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin R 15",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin R 15",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin R 15",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin R 15",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin R 16",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin R 16",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin R 16",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin R 16",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin R 16",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin R 17",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin R 17",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin R 17",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin R 17",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin R 17",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin R 18",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin R 18",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin R 18",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin R 18",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin R 18",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin R 19",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin R 19",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin R 19",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin R 19",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin R 19",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin R 20",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin R 20",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin R 20",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin R 20",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin R 20",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin L 04",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin L 04",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin L 04",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin L 04",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin L 04",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin L 05",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin L 05",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin L 05",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin L 05",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin L 05",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin L 06",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin L 06",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin L 06",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin L 06",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin L 06",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin L 07",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin L 07",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin L 07",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin L 07",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin L 07",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin L 10",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin L 10",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin L 10",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin L 10",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin L 10",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin L 11",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin L 11",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin L 11",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin L 11",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin L 11",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin L 12",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin L 12",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin L 12",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin L 12",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin L 12",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin L 13",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin L 13",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin L 13",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin L 13",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin L 13",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin L 14",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin L 14",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin L 14",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin L 14",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin L 14",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin L 15",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin L 15",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin L 15",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin L 15",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin L 15",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin L 16",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin L 16",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin L 16",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin L 16",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin L 16",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin L 17",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin L 17",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin L 17",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin L 17",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin L 17",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin L 18",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin L 18",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin L 18",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin L 18",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin L 18",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin L 19",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin L 19",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin L 19",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin L 19",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin L 19",
+      "passed": true
+    },
+    {
+      "test": "movable reaches closed position: Overhead bin L 20",
+      "passed": true
+    },
+    {
+      "test": "E opens Overhead bin L 20",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable reaches open position: Overhead bin L 20",
+      "passed": true
+    },
+    {
+      "test": "E closes Overhead bin L 20",
+      "passed": true,
+      "action": "movable"
+    },
+    {
+      "test": "movable returns closed: Overhead bin L 20",
+      "passed": true
+    }
+  ],
+  "navigation": [
+    {
+      "test": "initial placement: First economy -1",
+      "passed": true,
+      "expected_cm": [
+        -110.00000000000001,
+        -1300.0,
+        162.0
+      ],
+      "actual_cm": [
+        -110.00000000000001,
+        -1300.0,
+        162.0
+      ]
+    },
+    {
+      "test": "First economy -1",
+      "passed": true,
+      "start_source_m": [
+        -1.1,
+        13.0,
+        1.62
+      ],
+      "waypoints_source_m": [
+        [
+          -1.1,
+          13.4,
+          1.62
+        ],
+        [
+          -1.85,
+          13.4,
+          1.62
+        ]
+      ],
+      "reached_waypoints": [
+        {
+          "index": 0,
+          "actual_cm": [
+            -110.00000000000001,
+            -1328.2791680200216,
+            162.0
+          ],
+          "distance_from_target_cm": 11.72
+        },
+        {
+          "index": 1,
+          "actual_cm": [
+            -173.41496562027075,
+            -1338.1895167807113,
+            162.0
+          ],
+          "distance_from_target_cm": 11.73
+        }
+      ],
+      "tolerance_cm": 12.0,
+      "samples_cm": [
+        [
+          -110.00000000000001,
+          -1300.0,
+          162.0
+        ],
+        [
+          -110.00000000000001,
+          -1309.5393107807959,
+          162.0
+        ],
+        [
+          -110.00000000000001,
+          -1328.2791680200216,
+          162.0
+        ],
+        [
+          -155.93534588815496,
+          -1335.45784096799,
+          162.0
+        ]
+      ],
+      "teleports_after_start": 0,
+      "elapsed_seconds": 1.31,
+      "walked_distance_cm": 92.5,
+      "final_cm": [
+        -173.41496562027075,
+        -1338.1895167807113,
+        162.0
+      ]
+    },
+    {
+      "test": "initial placement: First business -1",
+      "passed": true,
+      "expected_cm": [
+        0.0,
+        -412.0,
+        162.0
+      ],
+      "actual_cm": [
+        0.0,
+        -412.0,
+        162.0
+      ]
+    },
+    {
+      "test": "First business -1",
+      "passed": true,
+      "start_source_m": [
+        0.0,
+        4.12,
+        1.62
+      ],
+      "waypoints_source_m": [
+        [
+          -1.05,
+          4.25,
+          1.62
+        ],
+        [
+          -1.7,
+          4.25,
+          1.62
+        ]
+      ],
+      "reached_waypoints": [
+        {
+          "index": 0,
+          "actual_cm": [
+            -93.15686392534737,
+            -423.5337069621852,
+            162.0
+          ],
+          "distance_from_target_cm": 11.93
+        },
+        {
+          "index": 1,
+          "actual_cm": [
+            -158.3085008033307,
+            -424.776907024496,
+            162.0
+          ],
+          "distance_from_target_cm": 11.69
+        }
+      ],
+      "tolerance_cm": 12.0,
+      "samples_cm": [
+        [
+          0.0,
+          -412.0,
+          162.0
+        ],
+        [
+          -12.426627012777335,
+          -413.5385347730095,
+          162.0
+        ],
+        [
+          -75.29586553350205,
+          -421.3223452565287,
+          162.0
+        ],
+        [
+          -93.15686392534737,
+          -423.5337069621852,
+          162.0
+        ],
+        [
+          -138.8708724104577,
+          -424.40600520242265,
+          162.0
+        ]
+      ],
+      "teleports_after_start": 0,
+      "elapsed_seconds": 1.66,
+      "walked_distance_cm": 159.0,
+      "final_cm": [
+        -158.3085008033307,
+        -424.776907024496,
+        162.0
+      ]
+    },
+    {
+      "test": "initial placement: Lavatory standing -1",
+      "passed": true,
+      "expected_cm": [
+        0.0,
+        -2745.0,
+        162.0
+      ],
+      "actual_cm": [
+        0.0,
+        -2745.0,
+        162.0
+      ]
+    },
+    {
+      "test": "Lavatory standing -1",
+      "passed": true,
+      "start_source_m": [
+        0.0,
+        27.45,
+        1.62
+      ],
+      "waypoints_source_m": [
+        [
+          -1.36,
+          27.45,
+          1.62
+        ],
+        [
+          -1.36,
+          28.7,
+          1.62
+        ],
+        [
+          -1.36,
+          29.0,
+          1.62
+        ]
+      ],
+      "reached_waypoints": [
+        {
+          "index": 0,
+          "actual_cm": [
+            -124.12850163741086,
+            -2745.0,
+            162.0
+          ],
+          "distance_from_target_cm": 11.87
+        },
+        {
+          "index": 1,
+          "actual_cm": [
+            -134.88989044372153,
+            -2858.3111895148713,
+            162.0
+          ],
+          "distance_from_target_cm": 11.74
+        },
+        {
+          "index": 2,
+          "actual_cm": [
+            -135.68873669125318,
+            -2888.310886059958,
+            162.0
+          ],
+          "distance_from_target_cm": 11.69
+        }
+      ],
+      "tolerance_cm": 12.0,
+      "samples_cm": [
+        [
+          0.0,
+          -2745.0,
+          162.0
+        ],
+        [
+          -11.689210312468674,
+          -2745.0,
+          162.0
+        ],
+        [
+          -78.43150849653986,
+          -2745.0,
+          162.0
+        ],
+        [
+          -123.44393036793667,
+          -2745.0,
+          162.0
+        ],
+        [
+          -125.68668985007484,
+          -2761.4068191422793,
+          162.0
+        ],
+        [
+          -132.15803040741187,
+          -2829.5462860368934,
+          162.0
+        ],
+        [
+          -134.88989044372153,
+          -2858.3111895148713,
+          162.0
+        ],
+        [
+          -135.63759008868215,
+          -2886.3901377793163,
+          162.0
+        ]
+      ],
+      "teleports_after_start": 0,
+      "elapsed_seconds": 2.62,
+      "walked_distance_cm": 268.0,
+      "final_cm": [
+        -135.68873669125318,
+        -2888.310886059958,
+        162.0
+      ]
+    },
+    {
+      "test": "initial placement: First economy 1",
+      "passed": true,
+      "expected_cm": [
+        110.00000000000001,
+        -1300.0,
+        162.0
+      ],
+      "actual_cm": [
+        110.00000000000003,
+        -1300.0,
+        162.0
+      ]
+    },
+    {
+      "test": "First economy 1",
+      "passed": true,
+      "start_source_m": [
+        1.1,
+        13.0,
+        1.62
+      ],
+      "waypoints_source_m": [
+        [
+          1.1,
+          13.4,
+          1.62
+        ],
+        [
+          1.85,
+          13.4,
+          1.62
+        ]
+      ],
+      "reached_waypoints": [
+        {
+          "index": 0,
+          "actual_cm": [
+            110.00000000000003,
+            -1328.165872197628,
+            162.0
+          ],
+          "distance_from_target_cm": 11.83
+        },
+        {
+          "index": 1,
+          "actual_cm": [
+            173.37556782699693,
+            -1338.1657997871434,
+            162.0
+          ],
+          "distance_from_target_cm": 11.77
+        }
+      ],
+      "tolerance_cm": 12.0,
+      "samples_cm": [
+        [
+          110.00000000000003,
+          -1300.0,
+          162.0
+        ],
+        [
+          110.00000000000003,
+          -1309.441994007074,
+          162.0
+        ],
+        [
+          110.00000000000003,
+          -1328.165872197628,
+          162.0
+        ],
+        [
+          155.58167118595972,
+          -1335.3581298277768,
+          162.0
+        ]
+      ],
+      "teleports_after_start": 0,
+      "elapsed_seconds": 1.31,
+      "walked_distance_cm": 92.3,
+      "final_cm": [
+        173.37556782699693,
+        -1338.1657997871434,
+        162.0
+      ]
+    },
+    {
+      "test": "initial placement: First business 1",
+      "passed": true,
+      "expected_cm": [
+        0.0,
+        -412.0,
+        162.0
+      ],
+      "actual_cm": [
+        0.0,
+        -412.0,
+        162.0
+      ]
+    },
+    {
+      "test": "First business 1",
+      "passed": true,
+      "start_source_m": [
+        0.0,
+        4.12,
+        1.62
+      ],
+      "waypoints_source_m": [
+        [
+          1.05,
+          4.25,
+          1.62
+        ],
+        [
+          1.7,
+          4.25,
+          1.62
+        ]
+      ],
+      "reached_waypoints": [
+        {
+          "index": 0,
+          "actual_cm": [
+            93.09678807470524,
+            -423.5262689997242,
+            162.0
+          ],
+          "distance_from_target_cm": 11.99
+        },
+        {
+          "index": 1,
+          "actual_cm": [
+            158.21898189634734,
+            -424.774235026605,
+            162.0
+          ],
+          "distance_from_target_cm": 11.78
+        }
+      ],
+      "tolerance_cm": 12.0,
+      "samples_cm": [
+        [
+          0.0,
+          -412.0,
+          162.0
+        ],
+        [
+          11.920938489199148,
+          -413.4759257177103,
+          162.0
+        ],
+        [
+          75.11291574074917,
+          -421.2996943298063,
+          162.0
+        ],
+        [
+          93.09678807470524,
+          -423.5262689997242,
+          162.0
+        ],
+        [
+          139.23761584578034,
+          -424.4104865318932,
+          162.0
+        ]
+      ],
+      "teleports_after_start": 0,
+      "elapsed_seconds": 1.66,
+      "walked_distance_cm": 158.9,
+      "final_cm": [
+        158.21898189634734,
+        -424.774235026605,
+        162.0
+      ]
+    },
+    {
+      "test": "initial placement: Lavatory standing 1",
+      "passed": true,
+      "expected_cm": [
+        0.0,
+        -2745.0,
+        162.0
+      ],
+      "actual_cm": [
+        0.0,
+        -2745.0,
+        162.0
+      ]
+    },
+    {
+      "test": "Lavatory standing 1",
+      "passed": true,
+      "start_source_m": [
+        0.0,
+        27.45,
+        1.62
+      ],
+      "waypoints_source_m": [
+        [
+          1.36,
+          27.45,
+          1.62
+        ],
+        [
+          1.36,
+          28.7,
+          1.62
+        ],
+        [
+          1.36,
+          29.0,
+          1.62
+        ]
+      ],
+      "reached_waypoints": [
+        {
+          "index": 0,
+          "actual_cm": [
+            124.11035003904875,
+            -2745.0,
+            162.0
+          ],
+          "distance_from_target_cm": 11.89
+        },
+        {
+          "index": 1,
+          "actual_cm": [
+            134.90136941734437,
+            -2858.4497169148904,
+            162.0
+          ],
+          "distance_from_target_cm": 11.6
+        },
+        {
+          "index": 2,
+          "actual_cm": [
+            135.68658094248775,
+            -2888.146470005936,
+            162.0
+          ],
+          "distance_from_target_cm": 11.86
+        }
+      ],
+      "tolerance_cm": 12.0,
+      "samples_cm": [
+        [
+          0.0,
+          -2745.0,
+          162.0
+        ],
+        [
+          10.63414381154384,
+          -2745.0,
+          162.0
+        ],
+        [
+          77.9991757609464,
+          -2745.0,
+          162.0
+        ],
+        [
+          123.16929734095473,
+          -2745.0,
+          162.0
+        ],
+        [
+          125.65184919391506,
+          -2761.206313473581,
+          162.0
+        ],
+        [
+          132.03658420755815,
+          -2828.331239718386,
+          162.0
+        ],
+        [
+          134.90136941734437,
+          -2858.4497169148904,
+          162.0
+        ],
+        [
+          135.633856485309,
+          -2886.1524274625394,
+          162.0
+        ]
+      ],
+      "teleports_after_start": 0,
+      "elapsed_seconds": 2.64,
+      "walked_distance_cm": 267.8,
+      "final_cm": [
+        135.68658094248775,
+        -2888.146470005936,
+        162.0
+      ]
+    },
+    {
+      "test": "initial placement: Both galley walls route",
+      "passed": true,
+      "expected_cm": [
+        110.00000000000001,
+        -865.0,
+        162.0
+      ],
+      "actual_cm": [
+        110.00000000000001,
+        -865.0,
+        162.0
+      ]
+    },
+    {
+      "test": "Both galley walls route",
+      "passed": true,
+      "start_source_m": [
+        1.1,
+        8.65,
+        1.62
+      ],
+      "waypoints_source_m": [
+        [
+          1.35,
+          9.05,
+          1.62
+        ],
+        [
+          1.35,
+          12.8,
+          1.62
+        ]
+      ],
+      "reached_waypoints": [
+        {
+          "index": 0,
+          "actual_cm": [
+            128.66810857669896,
+            -894.8689737227194,
+            162.0
+          ],
+          "distance_from_target_cm": 11.95
+        },
+        {
+          "index": 1,
+          "actual_cm": [
+            134.8035939921519,
+            -1268.0537990447747,
+            162.0
+          ],
+          "distance_from_target_cm": 11.95
+        }
+      ],
+      "tolerance_cm": 12.0,
+      "samples_cm": [
+        [
+          110.00000000000001,
+          -865.0,
+          162.0
+        ],
+        [
+          115.64072146265147,
+          -874.0251543402426,
+          162.0
+        ],
+        [
+          128.66810857669896,
+          -894.8689737227194,
+          162.0
+        ],
+        [
+          129.47633509584338,
+          -944.0285514813346,
+          162.0
+        ],
+        [
+          130.6095818610223,
+          -1012.9571638850501,
+          162.0
+        ],
+        [
+          131.72990080558768,
+          -1081.0994544004182,
+          162.0
+        ],
+        [
+          132.83617250277146,
+          -1148.3873350026722,
+          162.0
+        ],
+        [
+          133.97615882004033,
+          -1217.725873988981,
+          162.0
+        ],
+        [
+          134.75959585750573,
+          -1265.3776560698225,
+          162.0
+        ]
+      ],
+      "teleports_after_start": 0,
+      "elapsed_seconds": 2.97,
+      "walked_distance_cm": 408.5,
+      "final_cm": [
+        134.8035939921519,
+        -1268.0537990447747,
+        162.0
+      ]
+    },
+    {
+      "test": "initial placement: Economy full aisle",
+      "passed": true,
+      "expected_cm": [
+        110.00000000000001,
+        -1300.0,
+        162.0
+      ],
+      "actual_cm": [
+        110.00000000000001,
+        -1300.0,
+        162.0
+      ]
+    },
+    {
+      "test": "Economy full aisle",
+      "passed": true,
+      "start_source_m": [
+        1.1,
+        13.0,
+        1.62
+      ],
+      "waypoints_source_m": [
+        [
+          1.1,
+          27.2,
+          1.62
+        ]
+      ],
+      "reached_waypoints": [
+        {
+          "index": 0,
+          "actual_cm": [
+            110.00000000000001,
+            -2708.3210416811557,
+            162.0
+          ],
+          "distance_from_target_cm": 11.68
+        }
+      ],
+      "tolerance_cm": 12.0,
+      "samples_cm": [
+        [
+          110.00000000000001,
+          -1300.0,
+          162.0
+        ],
+        [
+          110.00000000000001,
+          -1311.2148922880472,
+          162.0
+        ],
+        [
+          110.00000000000001,
+          -1378.084440308949,
+          162.0
+        ],
+        [
+          110.00000000000001,
+          -1447.0484363318888,
+          162.0
+        ],
+        [
+          110.00000000000001,
+          -1515.3455517844764,
+          162.0
+        ],
+        [
+          110.00000000000001,
+          -1584.1005286978093,
+          162.0
+        ],
+        [
+          110.00000000000001,
+          -1652.00578764393,
+          162.0
+        ],
+        [
+          110.00000000000001,
+          -1720.1230675013271,
+          162.0
+        ],
+        [
+          110.00000000000001,
+          -1788.289709690353,
+          162.0
+        ],
+        [
+          110.00000000000001,
+          -1855.8827034042683,
+          162.0
+        ],
+        [
+          110.00000000000001,
+          -1924.4036572830287,
+          162.0
+        ],
+        [
+          110.00000000000001,
+          -1993.3469054134098,
+          162.0
+        ],
+        [
+          110.00000000000001,
+          -2061.2660345093814,
+          162.0
+        ],
+        [
+          110.00000000000001,
+          -2129.606469760975,
+          162.0
+        ],
+        [
+          110.00000000000001,
+          -2197.5367899642793,
+          162.0
+        ],
+        [
+          110.00000000000001,
+          -2265.8165004880634,
+          162.0
+        ],
+        [
+          110.00000000000001,
+          -2334.426944296202,
+          162.0
+        ],
+        [
+          110.00000000000001,
+          -2402.5155913115946,
+          162.0
+        ],
+        [
+          110.00000000000001,
+          -2471.3795525239316,
+          162.0
+        ],
+        [
+          110.00000000000001,
+          -2538.916097360989,
+          162.0
+        ],
+        [
+          110.00000000000001,
+          -2607.047323811194,
+          162.0
+        ],
+        [
+          110.00000000000001,
+          -2676.068832542142,
+          162.0
+        ]
+      ],
+      "teleports_after_start": 0,
+      "elapsed_seconds": 7.86,
+      "walked_distance_cm": 1408.3,
+      "final_cm": [
+        110.00000000000001,
+        -2708.3210416811557,
+        162.0
+      ]
+    },
+    {
+      "test": "initial placement: Pilot footwell -1",
+      "passed": true,
+      "expected_cm": [
+        0.0,
+        150.0,
+        162.0
+      ],
+      "actual_cm": [
+        0.0,
+        150.0,
+        162.0
+      ]
+    },
+    {
+      "test": "Pilot footwell -1",
+      "passed": true,
+      "start_source_m": [
+        0.0,
+        -1.5,
+        1.62
+      ],
+      "waypoints_source_m": [
+        [
+          -0.48,
+          -2.8,
+          1.62
+        ],
+        [
+          -0.48,
+          -4.2,
+          1.62
+        ],
+        [
+          -1.1,
+          -4.25,
+          1.62
+        ]
+      ],
+      "reached_waypoints": [
+        {
+          "index": 0,
+          "actual_cm": [
+            -43.91955646784043,
+            268.94879876706744,
+            162.0
+          ],
+          "distance_from_target_cm": 11.78
+        },
+        {
+          "index": 1,
+          "actual_cm": [
+            -47.67804720663092,
+            408.081845565219,
+            162.0
+          ],
+          "distance_from_target_cm": 11.92
+        },
+        {
+          "index": 2,
+          "actual_cm": [
+            -98.69071634974036,
+            421.92993882948286,
+            162.0
+          ],
+          "distance_from_target_cm": 11.72
+        }
+      ],
+      "tolerance_cm": 12.0,
+      "samples_cm": [
+        [
+          0.0,
+          150.0,
+          162.0
+        ],
+        [
+          -3.7665960378283083,
+          160.201197602452,
+          162.0
+        ],
+        [
+          -26.934589139562924,
+          222.94784558631568,
+          162.0
+        ],
+        [
+          -43.25064183921515,
+          267.13715498120746,
+          162.0
+        ],
+        [
+          -44.298822468581854,
+          282.98859236972464,
+          162.0
+        ],
+        [
+          -46.120598369581025,
+          350.4276920789456,
+          162.0
+        ],
+        [
+          -47.5444164878082,
+          403.1350596482783,
+          162.0
+        ],
+        [
+          -54.78339305855873,
+          410.01068978539377,
+          162.0
+        ],
+        [
+          -96.90205327312482,
+          421.4443815450007,
+          162.0
+        ]
+      ],
+      "teleports_after_start": 0,
+      "elapsed_seconds": 2.91,
+      "walked_distance_cm": 318.8,
+      "final_cm": [
+        -98.69071634974036,
+        421.92993882948286,
+        162.0
+      ]
+    },
+    {
+      "test": "initial placement: Pilot footwell 1",
+      "passed": true,
+      "expected_cm": [
+        0.0,
+        150.0,
+        162.0
+      ],
+      "actual_cm": [
+        0.0,
+        150.0,
+        162.0
+      ]
+    },
+    {
+      "test": "Pilot footwell 1",
+      "passed": true,
+      "start_source_m": [
+        0.0,
+        -1.5,
+        1.62
+      ],
+      "waypoints_source_m": [
+        [
+          0.48,
+          -2.8,
+          1.62
+        ],
+        [
+          0.48,
+          -4.2,
+          1.62
+        ],
+        [
+          1.1,
+          -4.25,
+          1.62
+        ]
+      ],
+      "reached_waypoints": [
+        {
+          "index": 0,
+          "actual_cm": [
+            43.85450943518055,
+            268.77262972028,
+            162.0
+          ],
+          "distance_from_target_cm": 11.97
+        },
+        {
+          "index": 1,
+          "actual_cm": [
+            47.67657837895015,
+            408.2015890572517,
+            162.0
+          ],
+          "distance_from_target_cm": 11.8
+        },
+        {
+          "index": 2,
+          "actual_cm": [
+            98.5541120856622,
+            421.91492020513556,
+            162.0
+          ],
+          "distance_from_target_cm": 11.85
+        }
+      ],
+      "tolerance_cm": 12.0,
+      "samples_cm": [
+        [
+          0.0,
+          150.0,
+          162.0
+        ],
+        [
+          3.6770836646734715,
+          159.95876825849058,
+          162.0
+        ],
+        [
+          26.869288860737946,
+          222.77099066449847,
+          162.0
+        ],
+        [
+          43.27173219971792,
+          267.19427470756915,
+          162.0
+        ],
+        [
+          44.21770254813876,
+          282.0219034835594,
+          162.0
+        ],
+        [
+          46.07479628305111,
+          349.7686267006072,
+          162.0
+        ],
+        [
+          47.53051189705944,
+          402.8730882207527,
+          162.0
+        ],
+        [
+          54.48024805784098,
+          410.03542353250884,
+          162.0
+        ],
+        [
+          96.7288301945629,
+          421.4229408738422,
+          162.0
+        ]
+      ],
+      "teleports_after_start": 0,
+      "elapsed_seconds": 2.91,
+      "walked_distance_cm": 318.8,
+      "final_cm": [
+        98.5541120856622,
+        421.91492020513556,
+        162.0
+      ]
+    },
+    {
+      "test": "initial placement: Lower hold stairs and walkway",
+      "passed": true,
+      "expected_cm": [
+        -50.0,
+        -102.0,
+        162.0
+      ],
+      "actual_cm": [
+        -50.000000000000014,
+        -102.0,
+        162.0
+      ]
+    },
+    {
+      "test": "Lower hold stairs and walkway",
+      "passed": true,
+      "start_source_m": [
+        -0.5,
+        1.02,
+        1.62
+      ],
+      "waypoints_source_m": [
+        [
+          -1.5,
+          1.18,
+          1.62
+        ],
+        [
+          -1.5,
+          2.5,
+          0.4613
+        ],
+        [
+          -1.4,
+          2.8,
+          0.1939
+        ],
+        [
+          -1.27,
+          3.1,
+          -0.0735
+        ],
+        [
+          -1.15,
+          3.52,
+          -0.43
+        ],
+        [
+          -0.5,
+          3.8,
+          -0.43
+        ],
+        [
+          0.0,
+          7.7,
+          -0.43
+        ]
+      ],
+      "reached_waypoints": [
+        {
+          "index": 0,
+          "actual_cm": [
+            -138.36900217491467,
+            -115.82533149712758,
+            162.0
+          ],
+          "distance_from_target_cm": 11.83
+        },
+        {
+          "index": 1,
+          "actual_cm": [
+            -148.97529061827095,
+            -238.1789985972875,
+            56.666544728504654
+          ],
+          "distance_from_target_cm": 11.87
+        },
+        {
+          "index": 2,
+          "actual_cm": [
+            -142.46946051377216,
+            -268.4933740863889,
+            29.647210053436
+          ],
+          "distance_from_target_cm": 11.77
+        },
+        {
+          "index": 3,
+          "actual_cm": [
+            -131.17076306175213,
+            -298.8092863985603,
+            2.6265056012832133
+          ],
+          "distance_from_target_cm": 11.94
+        },
+        {
+          "index": 4,
+          "actual_cm": [
+            -118.48546957316556,
+            -340.5351969400063,
+            -34.563979881309926
+          ],
+          "distance_from_target_cm": 11.98
+        },
+        {
+          "index": 5,
+          "actual_cm": [
+            -54.490099293340705,
+            -368.89675772142425,
+            -42.99999999999997
+          ],
+          "distance_from_target_cm": 11.98
+        },
+        {
+          "index": 6,
+          "actual_cm": [
+            -1.559119729432458,
+            -758.5232732792463,
+            -42.99999999999997
+          ],
+          "distance_from_target_cm": 11.58
+        }
+      ],
+      "tolerance_cm": 12.0,
+      "samples_cm": [
+        [
+          -50.000000000000014,
+          -102.0,
+          162.0
+        ],
+        [
+          -75.1172943660767,
+          -104.00725387307332,
+          162.0
+        ],
+        [
+          -130.28933917477215,
+          -114.31508509710892,
+          162.0
+        ],
+        [
+          -138.71657636690367,
+          -119.83493176458377,
+          162.0
+        ],
+        [
+          -144.11727127854337,
+          -182.13710569256742,
+          106.61692753488556
+        ],
+        [
+          -148.6106661345,
+          -233.97270692964793,
+          60.41563078009644
+        ],
+        [
+          -147.20740802889665,
+          -246.4165725538965,
+          49.3243592454401
+        ],
+        [
+          -142.46946051377216,
+          -268.4933740863889,
+          29.647210053436
+        ],
+        [
+          -131.95771923175937,
+          -296.69777802825706,
+          4.508502192205666
+        ],
+        [
+          -127.92081595876131,
+          -309.49938215439454,
+          -6.901623224569042
+        ],
+        [
+          -118.48546957316556,
+          -340.5351969400063,
+          -34.563979881309926
+        ],
+        [
+          -77.24819093042838,
+          -360.6699627619671,
+          -42.99999999999997
+        ],
+        [
+          -54.490099293340705,
+          -368.89675772142425,
+          -42.99999999999997
+        ],
+        [
+          -47.79656916263407,
+          -418.1680321829083,
+          -42.99999999999997
+        ],
+        [
+          -38.60175313109137,
+          -485.85134658746665,
+          -42.99999999999997
+        ],
+        [
+          -29.42283560815219,
+          -553.4176315971246,
+          -42.99999999999997
+        ],
+        [
+          -20.29550372434853,
+          -620.6041931821502,
+          -42.99999999999997
+        ],
+        [
+          -11.07959210790014,
+          -688.4427928149115,
+          -42.99999999999997
+        ],
+        [
+          -2.979577861058001,
+          -748.0672387059074,
+          -42.99999999999997
+        ]
+      ],
+      "teleports_after_start": 0,
+      "elapsed_seconds": 6.84,
+      "walked_distance_cm": 783.8,
+      "final_cm": [
+        -1.559119729432458,
+        -758.5232732792463,
+        -42.99999999999997
+      ]
+    }
+  ],
+  "configuration": [
+    {
+      "test": "exterior review camera set is available",
+      "passed": true,
+      "actual_count": 3
+    },
+    {
+      "test": "capture metadata is present",
+      "passed": true
+    },
+    {
+      "test": "standing walking routes are supplied",
+      "passed": true
+    },
+    {
+      "test": "cockpit door interaction is supplied",
+      "passed": true
+    }
+  ],
+  "capture_count": 19,
+  "walking_routes_passed": 11,
+  "walking_routes_total": 11
+}

@@ -1,0 +1,60 @@
+{
+  "status": "SUCCESS",
+  "corrected": [
+    {
+      "actor": "Screening exit24 leaf 0",
+      "mesh": "SM_AP_ScreeningGlass36",
+      "previous_overrides": 0
+    },
+    {
+      "actor": "Screening exit24 leaf 1",
+      "mesh": "SM_AP_ScreeningGlass36",
+      "previous_overrides": 0
+    },
+    {
+      "actor": "Poly Haven coffee cart24",
+      "mesh": "SM_AP_Espresso36",
+      "previous_overrides": 0
+    },
+    {
+      "actor": "BakeryCounter24_1778",
+      "mesh": "SM_AP_Bakery36",
+      "previous_overrides": 0
+    },
+    {
+      "actor": "RegisterCounter24_1779",
+      "mesh": "SM_AP_POS36",
+      "previous_overrides": 0
+    },
+    {
+      "actor": "TeaCounter24_1780",
+      "mesh": "SM_AP_Tea36",
+      "previous_overrides": 0
+    },
+    {
+      "actor": "Crafted Identity35",
+      "mesh": "SM_AP_Identity36",
+      "previous_overrides": 0
+    },
+    {
+      "actor": "Cafe tabletop setting36 0",
+      "mesh": "SM_AP_TableSetting36",
+      "previous_overrides": 0
+    },
+    {
+      "actor": "Cafe tabletop setting36 1",
+      "mesh": "SM_AP_TableSetting36",
+      "previous_overrides": 0
+    },
+    {
+      "actor": "Cafe tabletop setting36 2",
+      "mesh": "SM_AP_TableSetting36",
+      "previous_overrides": 0
+    },
+    {
+      "actor": "Cafe tabletop setting36 3",
+      "mesh": "SM_AP_TableSetting36",
+      "previous_overrides": 0
+    }
+  ]
+}

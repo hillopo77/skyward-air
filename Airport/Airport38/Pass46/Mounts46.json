@@ -1,0 +1,158 @@
+{
+ "status": "INCOMPLETE",
+ "started": 1793428624.6017654,
+ "imported": [
+  {
+   "asset": "SM_AP_P46M_Header0",
+   "package": "/Game/Airport38/Pass46Meshes/SM_AP_P46M_Header0",
+   "bounds_cm": [
+    16.0,
+    260.0,
+    64.5
+   ],
+   "expected_y_cm": 260.0,
+   "expected_z_top_cm": 380.0,
+   "actual_z_top_cm": 380.0
+  },
+  {
+   "asset": "SM_AP_P46M_Header1",
+   "package": "/Game/Airport38/Pass46Meshes/SM_AP_P46M_Header1",
+   "bounds_cm": [
+    16.0,
+    260.0,
+    64.5
+   ],
+   "expected_y_cm": 260.0,
+   "expected_z_top_cm": 380.0,
+   "actual_z_top_cm": 380.0
+  }
+ ],
+ "placed": [
+  {
+   "actor": "P46 header mount Header0",
+   "asset": "SM_AP_P46M_Header0",
+   "for_header": "Check-in service header29 0",
+   "centre_m": [
+    -30.307,
+    -11.6,
+    3.478
+   ],
+   "extent_cm": [
+    8.0,
+    130.0,
+    32.2
+   ]
+  },
+  {
+   "actor": "P46 header mount Header1",
+   "asset": "SM_AP_P46M_Header1",
+   "for_header": "Check-in service header29 1",
+   "centre_m": [
+    -30.307,
+    -14.6,
+    3.478
+   ],
+   "extent_cm": [
+    8.0,
+    130.0,
+    32.2
+   ]
+  }
+ ],
+ "acceptance": [
+  {
+   "actor": "Check-in service header29 0",
+   "before": {
+    "down": null,
+    "up": null,
+    "east": null,
+    "west": null,
+    "north": null,
+    "south": null
+   },
+   "after": {
+    "down": null,
+    "up": null,
+    "east": null,
+    "west": null,
+    "north": null,
+    "south": null
+   },
+   "supported_now": false,
+   "was_supported": false
+  },
+  {
+   "actor": "Check-in service header29 1",
+   "before": {
+    "down": null,
+    "up": null,
+    "east": null,
+    "west": null,
+    "north": null,
+    "south": null
+   },
+   "after": {
+    "down": null,
+    "up": null,
+    "east": null,
+    "west": null,
+    "north": null,
+    "south": null
+   },
+   "supported_now": false,
+   "was_supported": false
+  }
+ ],
+ "notes": [],
+ "removed_previous": [
+  "P46 header mount Header0",
+  "P46 header mount Header1"
+ ],
+ "targeted": [
+  {
+   "header": "Check-in service header29 0",
+   "mount": "P46 header mount Header0",
+   "hangers": [
+    {
+     "hanger_y_m": -12.8,
+     "down_hits": null,
+     "up_hits": null
+    },
+    {
+     "hanger_y_m": -10.4,
+     "down_hits": null,
+     "up_hits": null
+    }
+   ],
+   "note": "with the mount ignored: down must find the header board, up must find the ceiling union"
+  },
+  {
+   "header": "Check-in service header29 1",
+   "mount": "P46 header mount Header1",
+   "hangers": [
+    {
+     "hanger_y_m": -15.8,
+     "down_hits": null,
+     "up_hits": null
+    },
+    {
+     "hanger_y_m": -13.4,
+     "down_hits": null,
+     "up_hits": null
+    }
+   ],
+   "note": "with the mount ignored: down must find the header board, up must find the ceiling union"
+  }
+ ],
+ "acceptance_basis": {
+  "geometry": true,
+  "targeted_traces": false,
+  "fan_is_blind_here": "the 54-ray fan samples y at +/-1.035 m; the hangers are at +/-1.20 m, so it misses them by 8.5 cm"
+ },
+ "finished": 1793428628.6773252,
+ "summary": {
+  "imported": 2,
+  "placed": 2,
+  "headers_now_supported": 0
+ }
+}

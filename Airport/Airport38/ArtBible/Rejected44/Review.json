@@ -1,0 +1,14 @@
+{
+  "status": "REJECTED_VISUAL_REGRESSION",
+  "source_sha256": "e5ad10903814bbf805b89e0bd5b9735cd81856cb1ab2bb22f0f14a2b21b9db81",
+  "reason": "Outer side-skin normal repair succeeded; original inward crown normals were incorrectly replaced by outward values, changing ceiling/exterior appearance. Broader views rejected before release.",
+  "captures": [
+    "outputs\\Airport\\Airport38\\ArtBible\\Rejected44\\30_BridgeWing.png",
+    "outputs\\Airport\\Airport38\\ArtBible\\Rejected44\\40_Cabin.png",
+    "outputs\\Airport\\Airport38\\ArtBible\\Rejected44\\74_TailDetail15.png",
+    "outputs\\Airport\\Airport38\\ArtBible\\Rejected44\\87_WindowExteriorCorners.png"
+  ],
+  "resolution": "Restore original crown normals from preserved reference; retain analytic side-skin normals. New native cabin/exterior pictures must pass before restarting final tests.",
+  "corrected_source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+  "resolution_confirmed": "Original inward crown normals restored exactly; same-camera cabin40and exterior30native images inspected and correct. AssemblyPhotos38 current-source20views/48probes SUCCESS with process exit0."
+}

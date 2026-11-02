@@ -1,0 +1,78 @@
+{
+ "status": "SUCCESS",
+ "airside": null,
+ "captures": [
+  {
+   "name": "LX68_E_all",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\LX68\\LX68_E_all.png"
+  },
+  {
+   "name": "LX68_E_nosky",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\LX68\\LX68_E_nosky.png"
+  },
+  {
+   "name": "LX68_E_nogi",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\LX68\\LX68_E_nogi.png"
+  },
+  {
+   "name": "LX68_E_noamb",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\LX68\\LX68_E_noamb.png"
+  },
+  {
+   "name": "LX68_E_norect",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\LX68\\LX68_E_norect.png"
+  },
+  {
+   "name": "LX68_E_nodir",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\LX68\\LX68_E_nodir.png"
+  },
+  {
+   "name": "LX68_E_norefl",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\LX68\\LX68_E_norefl.png"
+  },
+  {
+   "name": "LX68_E_onlylamps",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\LX68\\LX68_E_onlylamps.png"
+  },
+  {
+   "name": "LX68_E_reset",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\LX68\\LX68_E_reset.png"
+  },
+  {
+   "name": "LX68_B_all",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\LX68\\LX68_B_all.png"
+  },
+  {
+   "name": "LX68_B_nosky",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\LX68\\LX68_B_nosky.png"
+  },
+  {
+   "name": "LX68_B_nogi",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\LX68\\LX68_B_nogi.png"
+  },
+  {
+   "name": "LX68_B_noamb",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\LX68\\LX68_B_noamb.png"
+  },
+  {
+   "name": "LX68_B_norect",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\LX68\\LX68_B_norect.png"
+  },
+  {
+   "name": "LX68_B_nodir",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\LX68\\LX68_B_nodir.png"
+  },
+  {
+   "name": "LX68_B_norefl",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\LX68\\LX68_B_norefl.png"
+  },
+  {
+   "name": "LX68_B_onlylamps",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\LX68\\LX68_B_onlylamps.png"
+  },
+  {
+   "name": "LX68_B_reset",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\LX68\\LX68_B_reset.png"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+# Airport Rooms24
+
+Run **Run Rooms24.cmd** for the built airport, starting at the entrance. The installed Unreal Engine is required. This is an editable local preview, not a packaged standalone game.
+
+WASD/mouse move and look. E/click operates the aimed control. B toggles the boarding pass. Check in, use a bag-drop control while holding a suitcase, walk fully through a security detector, find A07, validate the pass, and walk along the jetbridge into the aircraft. Economy03E is the assigned seat; use the aircraft's right aisle through the galley. Space stands. V toggles the player view; F7 changes pilot colour. The small potted plant is a physical pickup; existing bags and extinguishers remain usable.
+
+The new map is `/Game/Airport24/L_Airport_Rooms24`. It replaces the open hall with the approved branching circulation: entrance foyer, check-in room, landside connector, enclosed screening, recovery vestibule, airside concourse, separate recessed A07/A08 approaches and lounges, café/gallery, amenities passage, lavatory lobby, reclaim/public return, and staff operations. Most internal thresholds remain open. Security entry needs a boarding pass; its exit needs completed screening. The staff door remains restricted.
+
+`Airport_Rooms24.blend` is the editable placed scene and modeled asset library. Its aircraft remains linked to the preserved aircraft source. `Exports/airport_layout.json` contains actual placements, lights, interaction points, navigation floors, section boundaries and portals. Character meshes/rigs are retained; `Exports/character_layout24.json` relocates them to the new layout. Forty new mesh families include room ceilings, manufactured partitions, a reshaped supported gallery, attached sign/light hardware and three adapted CC0 models.
+
+The free model sources are Poly Haven's Coffee Cart01, Security Camera02 and Potted Plant04. See `ThirdParty/PolyHaven/Credits.json`, individual source/info records and LICENSE.txt. Sources retain original textures; the game uses restrained satin materials and selected1K albedo textures. Camera rig geometry is baked to a static pose. Powered by Poly Haven. No paid assets were purchased.
+
+Rebuild in order: run Python `SourceAssets/layout24.py`; run Blender background with `--disable-autoexec --python SourceAssets/model_rooms24.py`; run native Unreal's Python commandlet on `SourceAssets/build_rooms24_unreal.py`. Then use Python `SourceAssets/run24.py qa` and `SourceAssets/run24.py photos`, followed by `SourceAssets/make_review24.py`. These scripts use the installed engine/runtime paths from this workspace. The review verifies source/map and image hashes. Do not regenerate layout without the subsequent model/native stages: the model stage adds its architectural placements to the layout.
+
+`ArtBible/Diagnostics/FirstAssembly24` retains the first native photo set and failed route report. The first pass exposed a stair descent height threshold and a lavatory-entry corner; both were corrected in the built layout and retested. `ArtBible/JourneyQA24.json` is the final rendered route check. Its continuous passenger route does not use teleports. The SVG under Planning is a schematic of built boundaries, not a photograph.
+
+Previous maps, original Compact12 source and Visual23 source remain separate. Character art and legacy seated NPC foot deformation are not finished by this layout pass. Full baggage sorting/loading AI and takeoff are separate work; boarding currently ends in the parked aircraft. Screenshots and route tests do not certify a fixed frame rate.

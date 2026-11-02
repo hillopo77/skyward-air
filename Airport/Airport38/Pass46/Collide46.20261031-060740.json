@@ -1,0 +1,191 @@
+{
+ "status": "SUCCESS",
+ "started": 1793451611.3803284,
+ "group": "A",
+ "changed": [
+  {
+   "actor": "Queue post31 0",
+   "mesh": "SM_AP_QueuePost30",
+   "was": {
+    "enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+    "profile": "NoCollision"
+   },
+   "now": {
+    "enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+    "profile": "BlockAll"
+   },
+   "centre_m": [
+    -36.7,
+    -13.95,
+    0.514
+   ],
+   "top_m": 1.028
+  },
+  {
+   "actor": "Queue post31 1",
+   "mesh": "SM_AP_QueuePost30",
+   "was": {
+    "enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+    "profile": "NoCollision"
+   },
+   "now": {
+    "enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+    "profile": "BlockAll"
+   },
+   "centre_m": [
+    -36.7,
+    -12.05,
+    0.514
+   ],
+   "top_m": 1.028
+  },
+  {
+   "actor": "Queue post31 2",
+   "mesh": "SM_AP_QueuePost30",
+   "was": {
+    "enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+    "profile": "NoCollision"
+   },
+   "now": {
+    "enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+    "profile": "BlockAll"
+   },
+   "centre_m": [
+    -35.2,
+    -13.95,
+    0.514
+   ],
+   "top_m": 1.028
+  },
+  {
+   "actor": "Queue post31 3",
+   "mesh": "SM_AP_QueuePost30",
+   "was": {
+    "enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+    "profile": "NoCollision"
+   },
+   "now": {
+    "enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+    "profile": "BlockAll"
+   },
+   "centre_m": [
+    -35.2,
+    -12.05,
+    0.514
+   ],
+   "top_m": 1.028
+  },
+  {
+   "actor": "Queue post31 4",
+   "mesh": "SM_AP_QueuePost30",
+   "was": {
+    "enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+    "profile": "NoCollision"
+   },
+   "now": {
+    "enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+    "profile": "BlockAll"
+   },
+   "centre_m": [
+    -33.2,
+    -13.95,
+    0.514
+   ],
+   "top_m": 1.028
+  },
+  {
+   "actor": "Queue post31 5",
+   "mesh": "SM_AP_QueuePost30",
+   "was": {
+    "enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+    "profile": "NoCollision"
+   },
+   "now": {
+    "enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+    "profile": "BlockAll"
+   },
+   "centre_m": [
+    -33.2,
+    -12.05,
+    0.514
+   ],
+   "top_m": 1.028
+  },
+  {
+   "actor": "Stanchion24_1725",
+   "mesh": "SM_AP_Stanchion",
+   "was": {
+    "enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+    "profile": "NoCollision"
+   },
+   "now": {
+    "enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+    "profile": "BlockAll"
+   },
+   "centre_m": [
+    -46.8,
+    0.3,
+    0.536
+   ],
+   "top_m": 1.073
+  },
+  {
+   "actor": "Stanchion24_1726",
+   "mesh": "SM_AP_Stanchion",
+   "was": {
+    "enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+    "profile": "NoCollision"
+   },
+   "now": {
+    "enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+    "profile": "BlockAll"
+   },
+   "centre_m": [
+    -44.7,
+    0.3,
+    0.536
+   ],
+   "top_m": 1.073
+  },
+  {
+   "actor": "Stanchion24_1738",
+   "mesh": "SM_AP_Stanchion",
+   "was": {
+    "enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+    "profile": "NoCollision"
+   },
+   "now": {
+    "enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+    "profile": "BlockAll"
+   },
+   "centre_m": [
+    -41.05,
+    0.3,
+    0.536
+   ],
+   "top_m": 1.073
+  },
+  {
+   "actor": "Stanchion24_1739",
+   "mesh": "SM_AP_Stanchion",
+   "was": {
+    "enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+    "profile": "NoCollision"
+   },
+   "now": {
+    "enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+    "profile": "BlockAll"
+   },
+   "centre_m": [
+    -38.95,
+    0.3,
+    0.536
+   ],
+   "top_m": 1.073
+  }
+ ],
+ "unchanged": [],
+ "rejected": [],
+ "verification": "none in this mode; see verify46_probe.py under -game",
+ "finished": 1793451615.540713
+}

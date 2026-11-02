@@ -1,0 +1,51 @@
+{
+ "status": "SUCCESS",
+ "asset": "SM_AP_P47LandsideRoad",
+ "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\LandsideBuild\\SM_AP_P47LandsideRoad.fbx",
+ "materials": [
+  "MI_AP_F39White",
+  "MI_AP_P38EAmber"
+ ],
+ "bays": [
+  [
+   [
+    -22.5,
+    11.5
+   ],
+   [
+    [
+     "TAXI",
+     -12.5
+    ],
+    [
+     "TAXI",
+     1.0
+    ]
+   ]
+  ],
+  [
+   [
+    13.5,
+    29.0
+   ],
+   [
+    [
+     "BUS",
+     15.6
+    ]
+   ]
+  ]
+ ],
+ "edges": [
+  -67.8,
+  -62.2
+ ],
+ "centre": -65.0,
+ "dashes": 156,
+ "y": [
+  -600.0,
+  800.0
+ ],
+ "z": 0.025,
+ "polygons": 526
+}

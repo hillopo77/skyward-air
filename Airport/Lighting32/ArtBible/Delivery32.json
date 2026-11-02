@@ -1,0 +1,60 @@
+{
+  "status": "SUCCESS",
+  "map": "/Game/Airport32/L_Airport_Lighting32",
+  "map_sha256": "c8dfe3882c1aa24a165b86f0ea651b43f78221a697b41c2c15bccea6344e6a74",
+  "source_sha256": "b5e2e72b57e3341c8ec5be5394ff78a15bfa2fdfb945563fa5a89d7a5f4cdbdd",
+  "checks": 9,
+  "viewport": [
+    1920,
+    1080
+  ],
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Lighting32\\Screenshots\\01_FixtureLitEntrance.png",
+      "sha256": "b327fa2a3a968e031f3c9b78470762e5326fca2f7affb90a9d23bdbc7405dbc6",
+      "view": "01_FixtureLitEntrance"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Lighting32\\Screenshots\\Diagnostic_LampsOff.png",
+      "sha256": "2a2590016f183fa7ff8aa94cbef616d76b163046d6b71562f9fcad6813bb346e",
+      "view": "Diagnostic_LampsOff"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Lighting32\\Screenshots\\02_WaitingArea.png",
+      "sha256": "8dd19e62f3fd497f2509d6ab13d507a0de711ce1df9b88c16ae6be05c602449b",
+      "view": "02_WaitingArea"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Lighting32\\Screenshots\\03_DeskLighting.png",
+      "sha256": "8a862ac108080ec5732f68e88ef737a3d84662e63458daedd6d66324d57b4b77",
+      "view": "03_DeskLighting"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Lighting32\\Screenshots\\04_RoomLighting.png",
+      "sha256": "4a677ea7156c9063d3f44bf7be0bf230e862e381cf87b31e893831809f74b236",
+      "view": "04_RoomLighting"
+    }
+  ],
+  "light_response": {
+    "status": "SUCCESS",
+    "method": "Matched raw sRGB frames converted to linear RGB. Mean Rec709 relative luminance in fixed image regions; exposure/view unchanged. This tests source response, not calibrated illuminance.",
+    "regions": {
+      "queue_floor": {
+        "on_relative_luminance": 0.3615071570521119,
+        "off_relative_luminance": 0.08101422112128263,
+        "reduction_percent": 77.58987075611222
+      },
+      "service_wall": {
+        "on_relative_luminance": 0.10252942516614504,
+        "off_relative_luminance": 0.004914994215689071,
+        "reduction_percent": 95.20625985396435
+      }
+    }
+  },
+  "dependencies": {
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_runtime.py": "f2231f67fdbbb8c9f7f80a1bbeaa58d1ad8ef1ea1b136efb583e9f96157fb096",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_rooms24.py": "da262ea0a9b1886b474eb3d0e42a7dca79b49b9aa0354bf6548ab1b5396b99ea",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_lighting32.py": "d75a91be7a443a4f620a2cae5058a7007e179153ad5bb11e647224b15c878324",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\lighting32_qa.py": "2bf2bac0752eb4dd2cd588f9ec34c537c39ebcf345fdd9f97b16d411092e0806"
+  }
+}

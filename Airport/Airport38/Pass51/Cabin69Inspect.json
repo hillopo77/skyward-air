@@ -1,0 +1,7630 @@
+{
+ "status": "SUCCESS",
+ "pp": [
+  {
+   "label": "PostProcessVolume",
+   "unbound": true,
+   "priority": 0.0,
+   "blend": 1.0,
+   "centre": [
+    0.0,
+    -0.0,
+    0.0
+   ],
+   "half": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_method": "<AutoExposureMethod.AEM_HISTOGRAM: 0>",
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "Airport clean daylight grade",
+   "unbound": true,
+   "priority": 1000.0,
+   "blend": 1.0,
+   "centre": [
+    0.0,
+    -0.0,
+    0.0
+   ],
+   "half": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_bias": 0.0,
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_occlusion_static_fraction": 0.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "Airport26 journey overlay",
+   "unbound": true,
+   "priority": 500.0,
+   "blend": 1.0,
+   "centre": [
+    0.0,
+    -0.0,
+    0.0
+   ],
+   "half": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "Entrance27 local surface separation",
+   "unbound": false,
+   "priority": 1100.0,
+   "blend": 1.0,
+   "centre": [
+    -46.0,
+    -13.0,
+    1.8
+   ],
+   "half": [
+    3.0,
+    5.0,
+    1.8
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "Checkin33 warm welcoming grade",
+   "unbound": false,
+   "priority": 1200.0,
+   "blend": 1.0,
+   "centre": [
+    -34.5,
+    -13.0,
+    1.9
+   ],
+   "half": [
+    8.4,
+    5.0,
+    1.9
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_min_brightness": 5.900000095367432,
+    "auto_exposure_max_brightness": 5.900000095367432,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "indirect_lighting_intensity": 2.0,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "AP38 warm grade entrancefoyer",
+   "unbound": false,
+   "priority": 1538.0,
+   "blend": 1.0,
+   "centre": [
+    -46.0,
+    -13.0,
+    1.8
+   ],
+   "half": [
+    3.0,
+    5.0,
+    1.8
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "AP38 warm grade checkin",
+   "unbound": false,
+   "priority": 1538.0,
+   "blend": 1.0,
+   "centre": [
+    -34.5,
+    -13.0,
+    1.9
+   ],
+   "half": [
+    8.5,
+    5.0,
+    1.9
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "AP38 warm grade publicreturn",
+   "unbound": false,
+   "priority": 1538.0,
+   "blend": 1.0,
+   "centre": [
+    -37.5,
+    -20.0,
+    1.6
+   ],
+   "half": [
+    11.5,
+    2.0,
+    1.6
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "AP38 warm grade landsidecorridor",
+   "unbound": false,
+   "priority": 1538.0,
+   "blend": 1.0,
+   "centre": [
+    -37.5,
+    -6.0,
+    1.7
+   ],
+   "half": [
+    11.5,
+    2.0,
+    1.7
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "AP38 warm grade security",
+   "unbound": false,
+   "priority": 1538.0,
+   "blend": 1.0,
+   "centre": [
+    -42.5,
+    3.0,
+    1.75
+   ],
+   "half": [
+    6.5,
+    7.0,
+    1.8
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "AP38 warm grade recovery",
+   "unbound": false,
+   "priority": 1538.0,
+   "blend": 1.0,
+   "centre": [
+    -34.0,
+    5.0,
+    1.7
+   ],
+   "half": [
+    2.0,
+    5.0,
+    1.7
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "AP38 warm grade concourse",
+   "unbound": false,
+   "priority": 1538.0,
+   "blend": 1.0,
+   "centre": [
+    -29.0,
+    5.0,
+    1.7
+   ],
+   "half": [
+    3.0,
+    9.0,
+    1.7
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "AP38 warm grade gate07",
+   "unbound": false,
+   "priority": 1538.0,
+   "blend": 1.0,
+   "centre": [
+    -18.5,
+    3.5,
+    1.7
+   ],
+   "half": [
+    4.5,
+    6.5,
+    1.7
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "AP38 warm grade gate08",
+   "unbound": false,
+   "priority": 1538.0,
+   "blend": 1.0,
+   "centre": [
+    -28.0,
+    24.0,
+    1.9
+   ],
+   "half": [
+    4.0,
+    10.0,
+    1.9
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "AP38 warm grade cafefoyer",
+   "unbound": false,
+   "priority": 1538.0,
+   "blend": 1.0,
+   "centre": [
+    -35.0,
+    13.0,
+    1.7
+   ],
+   "half": [
+    3.0,
+    3.0,
+    1.7
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "AP38 warm grade cafe",
+   "unbound": false,
+   "priority": 1538.0,
+   "blend": 1.0,
+   "centre": [
+    -40.5,
+    25.0,
+    3.4
+   ],
+   "half": [
+    8.5,
+    9.0,
+    3.4
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "AP38 warm grade amenitylobby",
+   "unbound": false,
+   "priority": 1538.0,
+   "blend": 1.0,
+   "centre": [
+    -24.5,
+    -6.5,
+    1.5
+   ],
+   "half": [
+    1.5,
+    5.5,
+    1.5
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "AP38 warm grade amenities",
+   "unbound": false,
+   "priority": 1538.0,
+   "blend": 1.0,
+   "centre": [
+    -18.5,
+    -7.5,
+    1.4
+   ],
+   "half": [
+    4.5,
+    4.5,
+    1.4
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "AP38 warm grade operations",
+   "unbound": false,
+   "priority": 1538.0,
+   "blend": 1.0,
+   "centre": [
+    -43.5,
+    13.0,
+    1.5
+   ],
+   "half": [
+    5.5,
+    3.0,
+    1.5
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "AP38 warm grade gate07entry",
+   "unbound": false,
+   "priority": 1538.0,
+   "blend": 1.0,
+   "centre": [
+    -24.5,
+    4.5,
+    1.7
+   ],
+   "half": [
+    1.5,
+    5.5,
+    1.7
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "AP38 warm grade baggageservice",
+   "unbound": false,
+   "priority": 1538.0,
+   "blend": 1.0,
+   "centre": [
+    -24.0,
+    -15.25,
+    1.6
+   ],
+   "half": [
+    2.0,
+    3.2,
+    1.6
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "AP38 warm grade arrivals",
+   "unbound": false,
+   "priority": 1538.0,
+   "blend": 1.0,
+   "centre": [
+    -18.0,
+    -17.0,
+    1.8
+   ],
+   "half": [
+    4.0,
+    5.0,
+    1.8
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "AP38 warm grade arrivalsreturn",
+   "unbound": false,
+   "priority": 1538.0,
+   "blend": 1.0,
+   "centre": [
+    -23.5,
+    -20.25,
+    1.8
+   ],
+   "half": [
+    1.5,
+    1.8,
+    1.8
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  },
+  {
+   "label": "AP38 warm grade publicreturneast",
+   "unbound": false,
+   "priority": 1538.0,
+   "blend": 1.0,
+   "centre": [
+    -25.5,
+    -20.25,
+    1.6
+   ],
+   "half": [
+    0.5,
+    1.8,
+    1.6
+   ],
+   "overrides": {
+    "bloom_intensity": 0.20000000298023224,
+    "auto_exposure_min_brightness": 6.5,
+    "auto_exposure_max_brightness": 6.5,
+    "ambient_occlusion_intensity": 0.5,
+    "ambient_occlusion_radius": 120.0,
+    "ambient_cubemap_intensity": 0.07999999821186066,
+    "white_temp": 6900.0,
+    "vignette_intensity": 0.15000000596046448
+   }
+  }
+ ],
+ "lights": [
+  {
+   "label": "Cockpit rear entry practical",
+   "cls": "RectLight",
+   "p": [
+    16.0,
+    -0.715,
+    2.442
+   ],
+   "rot": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "i": 10.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cockpit rear entry practical",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 100.0,
+   "source_height": 100.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10",
+   "cls": "RectLight",
+   "p": [
+    14.62,
+    1.8,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    0.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.001",
+   "cls": "RectLight",
+   "p": [
+    17.38,
+    1.8,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    180.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.001",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.002",
+   "cls": "RectLight",
+   "p": [
+    14.62,
+    5.4,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    0.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.002",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.003",
+   "cls": "RectLight",
+   "p": [
+    17.38,
+    5.4,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    180.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.003",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.004",
+   "cls": "RectLight",
+   "p": [
+    14.62,
+    7.8,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    0.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.004",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.005",
+   "cls": "RectLight",
+   "p": [
+    17.38,
+    7.8,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    180.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.005",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.006",
+   "cls": "RectLight",
+   "p": [
+    14.62,
+    10.9,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    0.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.006",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.007",
+   "cls": "RectLight",
+   "p": [
+    17.38,
+    10.9,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    180.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.007",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.008",
+   "cls": "RectLight",
+   "p": [
+    14.62,
+    14.175,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    0.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.008",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.009",
+   "cls": "RectLight",
+   "p": [
+    17.38,
+    14.175,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    180.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.009",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.010",
+   "cls": "RectLight",
+   "p": [
+    14.62,
+    17.0,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    0.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.010",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.011",
+   "cls": "RectLight",
+   "p": [
+    17.38,
+    17.0,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    180.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.011",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.012",
+   "cls": "RectLight",
+   "p": [
+    14.62,
+    20.0,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    0.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.012",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.013",
+   "cls": "RectLight",
+   "p": [
+    17.38,
+    20.0,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    180.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.013",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.014",
+   "cls": "RectLight",
+   "p": [
+    14.62,
+    23.0,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    0.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.014",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.015",
+   "cls": "RectLight",
+   "p": [
+    17.38,
+    23.0,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    180.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.015",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.016",
+   "cls": "RectLight",
+   "p": [
+    14.62,
+    26.0,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    0.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.016",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.017",
+   "cls": "RectLight",
+   "p": [
+    17.38,
+    26.0,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    180.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.017",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.018",
+   "cls": "RectLight",
+   "p": [
+    14.62,
+    28.0,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    0.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.018",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.019",
+   "cls": "RectLight",
+   "p": [
+    17.38,
+    28.0,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    180.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.019",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.020",
+   "cls": "RectLight",
+   "p": [
+    14.62,
+    31.2,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    0.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.020",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.021",
+   "cls": "RectLight",
+   "p": [
+    17.38,
+    31.2,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    180.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.021",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.022",
+   "cls": "RectLight",
+   "p": [
+    14.62,
+    33.6,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    0.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.022",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Cabin broad practical10.023",
+   "cls": "RectLight",
+   "p": [
+    17.38,
+    33.6,
+    2.47
+   ],
+   "rot": [
+    -0.0,
+    -55.0,
+    180.0
+   ],
+   "i": 350.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Cabin broad practical10.023",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 130.0,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Lavatory dedicated practical10",
+   "cls": "RectLight",
+   "p": [
+    14.46,
+    29.43,
+    2.15
+   ],
+   "rot": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "i": 189.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Lavatory dedicated practical10",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 45.0,
+   "source_height": 45.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Lavatory dedicated practical10.001",
+   "cls": "RectLight",
+   "p": [
+    17.54,
+    29.43,
+    2.15
+   ],
+   "rot": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "i": 189.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Lavatory dedicated practical10.001",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 45.0,
+   "source_height": 45.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Stair inspection practical10",
+   "cls": "RectLight",
+   "p": [
+    14.65,
+    2.35,
+    0.35
+   ],
+   "rot": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "i": 140.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Stair inspection practical10",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 60.000003814697266,
+   "source_height": 60.000003814697266,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Suite reading practical 1L",
+   "cls": "RectLight",
+   "p": [
+    13.97,
+    5.8,
+    1.08
+   ],
+   "rot": [
+    0.0,
+    -36.6,
+    44.4
+   ],
+   "i": 21.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Suite reading practical 1L",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 10.0,
+   "source_height": 10.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Suite reading practical 2L",
+   "cls": "RectLight",
+   "p": [
+    13.97,
+    8.2,
+    1.08
+   ],
+   "rot": [
+    0.0,
+    -36.6,
+    44.4
+   ],
+   "i": 21.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Suite reading practical 2L",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 10.0,
+   "source_height": 10.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Suite reading practical 1R",
+   "cls": "RectLight",
+   "p": [
+    18.03,
+    5.8,
+    1.08
+   ],
+   "rot": [
+    0.0,
+    -36.6,
+    135.6
+   ],
+   "i": 21.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Suite reading practical 1R",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 10.0,
+   "source_height": 10.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Suite reading practical 2R",
+   "cls": "RectLight",
+   "p": [
+    18.03,
+    8.2,
+    1.08
+   ],
+   "rot": [
+    0.0,
+    -36.6,
+    135.6
+   ],
+   "i": 21.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Suite reading practical 2R",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 10.0,
+   "source_height": 10.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "LIGHT_HoldSoftPool12_0",
+   "cls": "RectLight",
+   "p": [
+    16.0,
+    4.7,
+    -0.225
+   ],
+   "rot": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "i": 385.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": true,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:LIGHT_HoldSoftPool12_0",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 240.00001525878906,
+   "source_height": 240.00001525878906,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "LIGHT_HoldSoftPool12_1",
+   "cls": "RectLight",
+   "p": [
+    16.0,
+    7.7,
+    -0.225
+   ],
+   "rot": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "i": 385.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": true,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:LIGHT_HoldSoftPool12_1",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 240.00001525878906,
+   "source_height": 240.00001525878906,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "LIGHT_HoldSoftPool12_2",
+   "cls": "RectLight",
+   "p": [
+    16.0,
+    10.7,
+    -0.225
+   ],
+   "rot": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "i": 385.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": true,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:LIGHT_HoldSoftPool12_2",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 240.00001525878906,
+   "source_height": 240.00001525878906,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "LIGHT_HoldSoftPool12_3",
+   "cls": "RectLight",
+   "p": [
+    16.0,
+    13.7,
+    -0.225
+   ],
+   "rot": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "i": 385.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": true,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:LIGHT_HoldSoftPool12_3",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 240.00001525878906,
+   "source_height": 240.00001525878906,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "LIGHT_HoldSoftPool12_4",
+   "cls": "RectLight",
+   "p": [
+    16.0,
+    16.7,
+    -0.225
+   ],
+   "rot": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "i": 385.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": true,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:LIGHT_HoldSoftPool12_4",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 240.00001525878906,
+   "source_height": 240.00001525878906,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "LIGHT_HoldSoftPool12_5",
+   "cls": "RectLight",
+   "p": [
+    16.0,
+    19.7,
+    -0.225
+   ],
+   "rot": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "i": 385.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": true,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:LIGHT_HoldSoftPool12_5",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 240.00001525878906,
+   "source_height": 240.00001525878906,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 0112",
+   "cls": "SpotLight",
+   "p": [
+    14.241,
+    13.95,
+    1.87
+   ],
+   "rot": [
+    -0.0,
+    -84.1,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 0112",
+    "Airport38PlaneShift16",
+    "Window41Lift150"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 0212",
+   "cls": "SpotLight",
+   "p": [
+    17.907,
+    13.95,
+    1.87
+   ],
+   "rot": [
+    -0.0,
+    -84.1,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 0212",
+    "Airport38PlaneShift16",
+    "Window41Lift150"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 0312",
+   "cls": "SpotLight",
+   "p": [
+    15.729,
+    13.95,
+    2.073
+   ],
+   "rot": [
+    -0.0,
+    -85.4,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 0312",
+    "Airport38PlaneShift16"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 0412",
+   "cls": "SpotLight",
+   "p": [
+    16.419,
+    13.95,
+    2.073
+   ],
+   "rot": [
+    -0.0,
+    -85.4,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 0412",
+    "Airport38PlaneShift16"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 0512",
+   "cls": "SpotLight",
+   "p": [
+    14.241,
+    15.3,
+    1.87
+   ],
+   "rot": [
+    -0.0,
+    -84.1,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 0512",
+    "Airport38PlaneShift16",
+    "Window41Lift150"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 0612",
+   "cls": "SpotLight",
+   "p": [
+    17.907,
+    15.3,
+    1.87
+   ],
+   "rot": [
+    -0.0,
+    -84.1,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 0612",
+    "Airport38PlaneShift16",
+    "Window41Lift150"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 0712",
+   "cls": "SpotLight",
+   "p": [
+    15.729,
+    15.3,
+    2.073
+   ],
+   "rot": [
+    -0.0,
+    -85.4,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 0712",
+    "Airport38PlaneShift16"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 0812",
+   "cls": "SpotLight",
+   "p": [
+    16.419,
+    15.3,
+    2.073
+   ],
+   "rot": [
+    -0.0,
+    -85.4,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 0812",
+    "Airport38PlaneShift16"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 0912",
+   "cls": "SpotLight",
+   "p": [
+    14.241,
+    16.65,
+    1.87
+   ],
+   "rot": [
+    -0.0,
+    -84.1,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 0912",
+    "Airport38PlaneShift16",
+    "Window41Lift150"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 1012",
+   "cls": "SpotLight",
+   "p": [
+    17.907,
+    16.65,
+    1.87
+   ],
+   "rot": [
+    -0.0,
+    -84.1,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 1012",
+    "Airport38PlaneShift16",
+    "Window41Lift150"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 1112",
+   "cls": "SpotLight",
+   "p": [
+    15.729,
+    16.65,
+    2.073
+   ],
+   "rot": [
+    -0.0,
+    -85.4,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 1112",
+    "Airport38PlaneShift16"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 1212",
+   "cls": "SpotLight",
+   "p": [
+    16.419,
+    16.65,
+    2.073
+   ],
+   "rot": [
+    -0.0,
+    -85.4,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 1212",
+    "Airport38PlaneShift16"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 1312",
+   "cls": "SpotLight",
+   "p": [
+    14.241,
+    18.0,
+    1.87
+   ],
+   "rot": [
+    -0.0,
+    -84.1,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 1312",
+    "Airport38PlaneShift16",
+    "Window41Lift150"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 1412",
+   "cls": "SpotLight",
+   "p": [
+    17.907,
+    18.0,
+    1.87
+   ],
+   "rot": [
+    -0.0,
+    -84.1,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 1412",
+    "Airport38PlaneShift16",
+    "Window41Lift150"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 1512",
+   "cls": "SpotLight",
+   "p": [
+    15.729,
+    18.0,
+    2.073
+   ],
+   "rot": [
+    -0.0,
+    -85.4,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 1512",
+    "Airport38PlaneShift16"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 1612",
+   "cls": "SpotLight",
+   "p": [
+    16.419,
+    18.0,
+    2.073
+   ],
+   "rot": [
+    -0.0,
+    -85.4,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 1612",
+    "Airport38PlaneShift16"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 1712",
+   "cls": "SpotLight",
+   "p": [
+    14.241,
+    19.35,
+    1.87
+   ],
+   "rot": [
+    -0.0,
+    -84.1,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 1712",
+    "Airport38PlaneShift16",
+    "Window41Lift150"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 1812",
+   "cls": "SpotLight",
+   "p": [
+    17.907,
+    19.35,
+    1.87
+   ],
+   "rot": [
+    -0.0,
+    -84.1,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 1812",
+    "Airport38PlaneShift16",
+    "Window41Lift150"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 1912",
+   "cls": "SpotLight",
+   "p": [
+    15.729,
+    19.35,
+    2.073
+   ],
+   "rot": [
+    -0.0,
+    -85.4,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 1912",
+    "Airport38PlaneShift16"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 2012",
+   "cls": "SpotLight",
+   "p": [
+    16.419,
+    19.35,
+    2.073
+   ],
+   "rot": [
+    -0.0,
+    -85.4,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 2012",
+    "Airport38PlaneShift16"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 2112",
+   "cls": "SpotLight",
+   "p": [
+    14.241,
+    20.7,
+    1.87
+   ],
+   "rot": [
+    -0.0,
+    -84.1,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 2112",
+    "Airport38PlaneShift16",
+    "Window41Lift150"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 2212",
+   "cls": "SpotLight",
+   "p": [
+    17.907,
+    20.7,
+    1.87
+   ],
+   "rot": [
+    -0.0,
+    -84.1,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 2212",
+    "Airport38PlaneShift16",
+    "Window41Lift150"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 2312",
+   "cls": "SpotLight",
+   "p": [
+    15.729,
+    20.7,
+    2.073
+   ],
+   "rot": [
+    -0.0,
+    -85.4,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 2312",
+    "Airport38PlaneShift16"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 2412",
+   "cls": "SpotLight",
+   "p": [
+    16.419,
+    20.7,
+    2.073
+   ],
+   "rot": [
+    -0.0,
+    -85.4,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 2412",
+    "Airport38PlaneShift16"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 2512",
+   "cls": "SpotLight",
+   "p": [
+    14.241,
+    22.05,
+    1.87
+   ],
+   "rot": [
+    -0.0,
+    -84.1,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 2512",
+    "Airport38PlaneShift16",
+    "Window41Lift150"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 2612",
+   "cls": "SpotLight",
+   "p": [
+    17.907,
+    22.05,
+    1.87
+   ],
+   "rot": [
+    -0.0,
+    -84.1,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 2612",
+    "Airport38PlaneShift16",
+    "Window41Lift150"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 2712",
+   "cls": "SpotLight",
+   "p": [
+    15.729,
+    22.05,
+    2.073
+   ],
+   "rot": [
+    -0.0,
+    -85.4,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 2712",
+    "Airport38PlaneShift16"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 2812",
+   "cls": "SpotLight",
+   "p": [
+    16.419,
+    22.05,
+    2.073
+   ],
+   "rot": [
+    -0.0,
+    -85.4,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 2812",
+    "Airport38PlaneShift16"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 2912",
+   "cls": "SpotLight",
+   "p": [
+    14.241,
+    23.4,
+    1.87
+   ],
+   "rot": [
+    -0.0,
+    -84.1,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 2912",
+    "Airport38PlaneShift16",
+    "Window41Lift150"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 3012",
+   "cls": "SpotLight",
+   "p": [
+    17.907,
+    23.4,
+    1.87
+   ],
+   "rot": [
+    -0.0,
+    -84.1,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 3012",
+    "Airport38PlaneShift16",
+    "Window41Lift150"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 3112",
+   "cls": "SpotLight",
+   "p": [
+    15.729,
+    23.4,
+    2.073
+   ],
+   "rot": [
+    -0.0,
+    -85.4,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 3112",
+    "Airport38PlaneShift16"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 3212",
+   "cls": "SpotLight",
+   "p": [
+    16.419,
+    23.4,
+    2.073
+   ],
+   "rot": [
+    -0.0,
+    -85.4,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 3212",
+    "Airport38PlaneShift16"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 3312",
+   "cls": "SpotLight",
+   "p": [
+    14.241,
+    24.75,
+    1.87
+   ],
+   "rot": [
+    -0.0,
+    -84.1,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 3312",
+    "Airport38PlaneShift16",
+    "Window41Lift150"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 3412",
+   "cls": "SpotLight",
+   "p": [
+    17.907,
+    24.75,
+    1.87
+   ],
+   "rot": [
+    -0.0,
+    -84.1,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 3412",
+    "Airport38PlaneShift16",
+    "Window41Lift150"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 3512",
+   "cls": "SpotLight",
+   "p": [
+    15.729,
+    24.75,
+    2.073
+   ],
+   "rot": [
+    -0.0,
+    -85.4,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 3512",
+    "Airport38PlaneShift16"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 3612",
+   "cls": "SpotLight",
+   "p": [
+    16.419,
+    24.75,
+    2.073
+   ],
+   "rot": [
+    -0.0,
+    -85.4,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 3612",
+    "Airport38PlaneShift16"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 3712",
+   "cls": "SpotLight",
+   "p": [
+    14.241,
+    26.1,
+    1.87
+   ],
+   "rot": [
+    -0.0,
+    -84.1,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 3712",
+    "Airport38PlaneShift16",
+    "Window41Lift150"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 3812",
+   "cls": "SpotLight",
+   "p": [
+    17.907,
+    26.1,
+    1.87
+   ],
+   "rot": [
+    -0.0,
+    -84.1,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 3812",
+    "Airport38PlaneShift16",
+    "Window41Lift150"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 3912",
+   "cls": "SpotLight",
+   "p": [
+    15.729,
+    26.1,
+    2.073
+   ],
+   "rot": [
+    -0.0,
+    -85.4,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 3912",
+    "Airport38PlaneShift16"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "PSU reading practical 4012",
+   "cls": "SpotLight",
+   "p": [
+    16.419,
+    26.1,
+    2.073
+   ],
+   "rot": [
+    -0.0,
+    -85.4,
+    -120.6
+   ],
+   "i": 0.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 175.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:PSU reading practical 4012",
+    "Airport38PlaneShift16"
+   ],
+   "source_radius": 4.5,
+   "soft_source_radius": 0.0,
+   "inner_cone_angle": 15.0,
+   "outer_cone_angle": 27.5,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Extended hold practical13 0",
+   "cls": "RectLight",
+   "p": [
+    16.0,
+    23.0,
+    -0.25
+   ],
+   "rot": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "i": 385.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Extended hold practical13 0",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 240.00001525878906,
+   "source_height": 240.00001525878906,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Extended hold practical13 1",
+   "cls": "RectLight",
+   "p": [
+    16.0,
+    26.0,
+    -0.25
+   ],
+   "rot": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "i": 385.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Extended hold practical13 1",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 240.00001525878906,
+   "source_height": 240.00001525878906,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Extended hold practical13 2",
+   "cls": "RectLight",
+   "p": [
+    16.0,
+    29.0,
+    -0.25
+   ],
+   "rot": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "i": 385.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 450.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Extended hold practical13 2",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 240.00001525878906,
+   "source_height": 240.00001525878906,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "Flight39 Beacon",
+   "cls": "PointLight",
+   "p": [
+    16.0,
+    17.0,
+    3.15
+   ],
+   "rot": [
+    0.0,
+    0.0,
+    0.0
+   ],
+   "i": 850.0,
+   "units": "<LightUnits.CANDELAS: 1>",
+   "shadows": false,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 6500.0,
+   "use_temp": false,
+   "att": 700.0,
+   "visible": true,
+   "tags": [
+    "SkywardLight:Flight39 Beacon",
+    "Airport38PlaneShift16",
+    "SkywardLight:Flight39 Beacon",
+    "Airport38PlaneShift16",
+    "SkywardLight:Flight39 Beacon",
+    "Airport38PlaneShift16",
+    "SkywardLight:Flight39 Beacon",
+    "Airport38PlaneShift16",
+    "SkywardLight:Flight39 Beacon",
+    "Airport38PlaneShift16",
+    "SkywardLight:Flight39 Beacon",
+    "Airport38PlaneShift16",
+    "SkywardLight:Flight39 Beacon",
+    "Airport38PlaneShift16",
+    "SkywardLight:Flight39 Beacon",
+    "Airport38PlaneShift16",
+    "SkywardLight:Flight39 Beacon",
+    "Airport38PlaneShift16"
+   ],
+   "source_radius": 0.0,
+   "soft_source_radius": 0.0,
+   "specular_scale": 1.0,
+   "parent": null
+  },
+  {
+   "label": "P66 cabin ceiling light 000",
+   "cls": "RectLight",
+   "p": [
+    14.895,
+    14.6,
+    2.835
+   ],
+   "rot": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "i": 260.0,
+   "units": "<LightUnits.LUMENS: 2>",
+   "shadows": true,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 3800.0,
+   "use_temp": true,
+   "att": 380.0,
+   "visible": true,
+   "tags": [
+    "Skyward:P66 cabin ceiling light 000",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 366.6666564941406,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 0.30000001192092896,
+   "parent": null
+  },
+  {
+   "label": "P66 cabin ceiling light 001",
+   "cls": "RectLight",
+   "p": [
+    14.895,
+    18.267,
+    2.835
+   ],
+   "rot": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "i": 260.0,
+   "units": "<LightUnits.LUMENS: 2>",
+   "shadows": true,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 3800.0,
+   "use_temp": true,
+   "att": 380.0,
+   "visible": true,
+   "tags": [
+    "Skyward:P66 cabin ceiling light 001",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 366.6666564941406,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 0.30000001192092896,
+   "parent": null
+  },
+  {
+   "label": "P66 cabin ceiling light 002",
+   "cls": "RectLight",
+   "p": [
+    14.895,
+    21.933,
+    2.835
+   ],
+   "rot": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "i": 260.0,
+   "units": "<LightUnits.LUMENS: 2>",
+   "shadows": true,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 3800.0,
+   "use_temp": true,
+   "att": 380.0,
+   "visible": true,
+   "tags": [
+    "Skyward:P66 cabin ceiling light 002",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 366.6666564941406,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 0.30000001192092896,
+   "parent": null
+  },
+  {
+   "label": "P66 cabin ceiling light 003",
+   "cls": "RectLight",
+   "p": [
+    14.895,
+    25.6,
+    2.835
+   ],
+   "rot": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "i": 260.0,
+   "units": "<LightUnits.LUMENS: 2>",
+   "shadows": true,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 3800.0,
+   "use_temp": true,
+   "att": 380.0,
+   "visible": true,
+   "tags": [
+    "Skyward:P66 cabin ceiling light 003",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 366.6666564941406,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 0.30000001192092896,
+   "parent": null
+  },
+  {
+   "label": "P66 cabin ceiling light 100",
+   "cls": "RectLight",
+   "p": [
+    17.105,
+    14.6,
+    2.835
+   ],
+   "rot": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "i": 260.0,
+   "units": "<LightUnits.LUMENS: 2>",
+   "shadows": true,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 3800.0,
+   "use_temp": true,
+   "att": 380.0,
+   "visible": true,
+   "tags": [
+    "Skyward:P66 cabin ceiling light 100",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 366.6666564941406,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 0.30000001192092896,
+   "parent": null
+  },
+  {
+   "label": "P66 cabin ceiling light 101",
+   "cls": "RectLight",
+   "p": [
+    17.105,
+    18.267,
+    2.835
+   ],
+   "rot": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "i": 260.0,
+   "units": "<LightUnits.LUMENS: 2>",
+   "shadows": true,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 3800.0,
+   "use_temp": true,
+   "att": 380.0,
+   "visible": true,
+   "tags": [
+    "Skyward:P66 cabin ceiling light 101",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 366.6666564941406,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 0.30000001192092896,
+   "parent": null
+  },
+  {
+   "label": "P66 cabin ceiling light 102",
+   "cls": "RectLight",
+   "p": [
+    17.105,
+    21.933,
+    2.835
+   ],
+   "rot": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "i": 260.0,
+   "units": "<LightUnits.LUMENS: 2>",
+   "shadows": true,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 3800.0,
+   "use_temp": true,
+   "att": 380.0,
+   "visible": true,
+   "tags": [
+    "Skyward:P66 cabin ceiling light 102",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 366.6666564941406,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 0.30000001192092896,
+   "parent": null
+  },
+  {
+   "label": "P66 cabin ceiling light 103",
+   "cls": "RectLight",
+   "p": [
+    17.105,
+    25.6,
+    2.835
+   ],
+   "rot": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "i": 260.0,
+   "units": "<LightUnits.LUMENS: 2>",
+   "shadows": true,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 3800.0,
+   "use_temp": true,
+   "att": 380.0,
+   "visible": true,
+   "tags": [
+    "Skyward:P66 cabin ceiling light 103",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 366.6666564941406,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 0.30000001192092896,
+   "parent": null
+  },
+  {
+   "label": "P66 cabin ceiling light 200",
+   "cls": "RectLight",
+   "p": [
+    16.0,
+    6.5,
+    2.87
+   ],
+   "rot": [
+    0.0,
+    -90.0,
+    0.0
+   ],
+   "i": 260.0,
+   "units": "<LightUnits.LUMENS: 2>",
+   "shadows": true,
+   "mob": "<ComponentMobility.MOVABLE: 2>",
+   "temp": 3800.0,
+   "use_temp": true,
+   "att": 380.0,
+   "visible": true,
+   "tags": [
+    "Skyward:P66 cabin ceiling light 200",
+    "Airport38PlaneShift16"
+   ],
+   "source_width": 531.6666870117188,
+   "source_height": 6.0,
+   "barn_door_angle": 88.0,
+   "barn_door_length": 20.0,
+   "specular_scale": 0.30000001192092896,
+   "parent": null
+  }
+ ],
+ "meshes": {
+  "SM_AP_F39AirframeFixed": {
+   "n": 1,
+   "example": "SM_Plane_ExteriorAirframe",
+   "size": [
+    45.34,
+    52.14,
+    11.23
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_Paint09",
+     "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09"
+    ],
+    [
+     "MI_Plane_AirAlloy15",
+     "/Game/Art/Materials/Instances/MI_Plane_AirAlloy15.MI_Plane_AirAlloy15"
+    ],
+    [
+     "MI_Plane_SteelDark",
+     "/Game/Art/Materials/Instances/MI_Plane_SteelDark.MI_Plane_SteelDark"
+    ],
+    [
+     "MI_Plane_RedLED07",
+     "/Game/Art/Materials/Instances/MI_Plane_RedLED07.MI_Plane_RedLED07"
+    ],
+    [
+     "MI_Plane_GreenLED07",
+     "/Game/Art/Materials/Instances/MI_Plane_GreenLED07.MI_Plane_GreenLED07"
+    ],
+    [
+     "MI_Plane_Blue09",
+     "/Game/Art/Materials/Instances/MI_Plane_Blue09.MI_Plane_Blue09"
+    ],
+    [
+     "MI_AP_P38EIvory",
+     "/Game/Airport38/Materials/MI_AP_P38EIvory.MI_AP_P38EIvory"
+    ],
+    [
+     "MI_Plane_LiveryGold",
+     "/Game/Art/Materials/Instances/MI_Plane_LiveryGold.MI_Plane_LiveryGold"
+    ],
+    [
+     "MI_Plane_Seam09",
+     "/Game/Art/Materials/Instances/MI_Plane_Seam09.MI_Plane_Seam09"
+    ],
+    [
+     "MI_Plane_Trim09",
+     "/Game/Art/Materials/Instances/MI_Plane_Trim09.MI_Plane_Trim09"
+    ],
+    [
+     "MI_Plane_AirDark15",
+     "/Game/Art/Materials/Instances/MI_Plane_AirDark15.MI_Plane_AirDark15"
+    ],
+    [
+     "MI_Plane_AirCorroguard15",
+     "/Game/Art/Materials/Instances/MI_Plane_AirCorroguard15.MI_Plane_AirCorroguard15"
+    ],
+    [
+     "MI_Plane_AirBlue15",
+     "/Game/Art/Materials/Instances/MI_Plane_AirBlue15.MI_Plane_AirBlue15"
+    ],
+    [
+     "MI_Plane_AirTitanium15",
+     "/Game/Art/Materials/Instances/MI_Plane_AirTitanium15.MI_Plane_AirTitanium15"
+    ],
+    [
+     "MI_Plane_AirHot15",
+     "/Game/Art/Materials/Instances/MI_Plane_AirHot15.MI_Plane_AirHot15"
+    ],
+    [
+     "MI_Plane_AirSeam15",
+     "/Game/Art/Materials/Instances/MI_Plane_AirSeam15.MI_Plane_AirSeam15"
+    ],
+    [
+     "MI_Plane_AirGold15",
+     "/Game/Art/Materials/Instances/MI_Plane_AirGold15.MI_Plane_AirGold15"
+    ]
+   ]
+  },
+  "SM_Plane_CockpitDoor": {
+   "n": 1,
+   "example": "Flightdeck door",
+   "size": [
+    1.05,
+    0.23,
+    2.04
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_ServicePearl",
+     "/Game/Art/Materials/Instances/MI_Plane_ServicePearl.MI_Plane_ServicePearl"
+    ],
+    [
+     "MI_Plane_BrushedSteel",
+     "/Game/Art/Materials/Instances/MI_Plane_BrushedSteel.MI_Plane_BrushedSteel"
+    ],
+    [
+     "MI_Plane_White",
+     "/Game/Art/Materials/Instances/MI_Plane_White.MI_Plane_White"
+    ],
+    [
+     "MI_Plane_ServiceDark",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceDark.MI_Plane_ServiceDark"
+    ],
+    [
+     "MI_Plane_Black",
+     "/Game/Art/Materials/Instances/MI_Plane_Black.MI_Plane_Black"
+    ],
+    [
+     "MI_Plane_Graphite",
+     "/Game/Art/Materials/Instances/MI_Plane_Graphite.MI_Plane_Graphite"
+    ],
+    [
+     "MI_Plane_Titanium",
+     "/Game/Art/Materials/Instances/MI_Plane_Titanium.MI_Plane_Titanium"
+    ]
+   ]
+  },
+  "SM_Plane_AftGalley": {
+   "n": 1,
+   "example": "Main galley between business and economy",
+   "size": [
+    2.16,
+    0.72,
+    2.32
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcInterior12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcInterior12.MI_Plane_SvcInterior12"
+    ],
+    [
+     "MI_Plane_SvcSage12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12"
+    ],
+    [
+     "MI_Plane_SvcGasket12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGasket12.MI_Plane_SvcGasket12"
+    ],
+    [
+     "MI_Plane_SvcCopper12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCopper12.MI_Plane_SvcCopper12"
+    ],
+    [
+     "MI_Plane_SvcIvory12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcIvory12.MI_Plane_SvcIvory12"
+    ],
+    [
+     "MI_Plane_SvcGlass12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGlass12.MI_Plane_SvcGlass12"
+    ],
+    [
+     "MI_Plane_SvcWater12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcWater12.MI_Plane_SvcWater12"
+    ]
+   ]
+  },
+  "SM_Plane_CrewJumpseat": {
+   "n": 2,
+   "example": "SM_Plane_CrewJumpseat",
+   "size": [
+    0.57,
+    0.28,
+    1.49
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_DetailSteel12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailSteel12.MI_Plane_DetailSteel12"
+    ],
+    [
+     "MI_Plane_DetailNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailNavy12.MI_Plane_DetailNavy12"
+    ],
+    [
+     "MI_Plane_DetailPadLight12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailPadLight12.MI_Plane_DetailPadLight12"
+    ],
+    [
+     "MI_Plane_SuitePiping11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuitePiping11.MI_Plane_SuitePiping11"
+    ],
+    [
+     "MI_Plane_DetailPad12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailPad12.MI_Plane_DetailPad12"
+    ],
+    [
+     "MI_Plane_DetailRubber12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailRubber12.MI_Plane_DetailRubber12"
+    ],
+    [
+     "MI_Plane_DetailWeb12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailWeb12.MI_Plane_DetailWeb12"
+    ],
+    [
+     "MI_Plane_DetailStitch12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailStitch12.MI_Plane_DetailStitch12"
+    ]
+   ]
+  },
+  "SM_Plane_Lavatory_R": {
+   "n": 1,
+   "example": "SM_Plane_Lavatory_R",
+   "size": [
+    1.66,
+    2.72,
+    2.27
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_Porcelain",
+     "/Game/Art/Materials/Instances/MI_Plane_Porcelain.MI_Plane_Porcelain"
+    ],
+    [
+     "MI_Plane_ServiceDark",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceDark.MI_Plane_ServiceDark"
+    ],
+    [
+     "MI_Plane_White",
+     "/Game/Art/Materials/Instances/MI_Plane_White.MI_Plane_White"
+    ],
+    [
+     "MI_Plane_BrushedSteel",
+     "/Game/Art/Materials/Instances/MI_Plane_BrushedSteel.MI_Plane_BrushedSteel"
+    ],
+    [
+     "MI_Plane_LabelPaper",
+     "/Game/Art/Materials/Instances/MI_Plane_LabelPaper.MI_Plane_LabelPaper"
+    ],
+    [
+     "MI_Plane_Frame",
+     "/Game/Art/Materials/Instances/MI_Plane_Frame.MI_Plane_Frame"
+    ],
+    [
+     "MI_Plane_Lamp",
+     "/Game/Art/Materials/Instances/MI_Plane_Lamp.MI_Plane_Lamp"
+    ],
+    [
+     "MI_Plane_ServicePearl",
+     "/Game/Art/Materials/Instances/MI_Plane_ServicePearl.MI_Plane_ServicePearl"
+    ],
+    [
+     "MI_Plane_ServiceRubber11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceRubber11.MI_Plane_ServiceRubber11"
+    ],
+    [
+     "MI_Plane_Graphite",
+     "/Game/Art/Materials/Instances/MI_Plane_Graphite.MI_Plane_Graphite"
+    ],
+    [
+     "MI_Plane_Counter",
+     "/Game/Art/Materials/Instances/MI_Plane_Counter.MI_Plane_Counter"
+    ],
+    [
+     "MI_Plane_Titanium",
+     "/Game/Art/Materials/Instances/MI_Plane_Titanium.MI_Plane_Titanium"
+    ],
+    [
+     "MI_Plane_SteelDark",
+     "/Game/Art/Materials/Instances/MI_Plane_SteelDark.MI_Plane_SteelDark"
+    ],
+    [
+     "MI_Plane_Mirror",
+     "/Game/Art/Materials/Instances/MI_Plane_Mirror.MI_Plane_Mirror"
+    ],
+    [
+     "MI_Plane_Footlight",
+     "/Game/Art/Materials/Instances/MI_Plane_Footlight.MI_Plane_Footlight"
+    ],
+    [
+     "MI_Plane_Slate",
+     "/Game/Art/Materials/Instances/MI_Plane_Slate.MI_Plane_Slate"
+    ],
+    [
+     "MI_Plane_Blue",
+     "/Game/Art/Materials/Instances/MI_Plane_Blue.MI_Plane_Blue"
+    ],
+    [
+     "MI_Plane_ServiceFloor09",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceFloor09.MI_Plane_ServiceFloor09"
+    ],
+    [
+     "MI_Plane_Cabin09",
+     "/Game/Art/Materials/Instances/MI_Plane_Cabin09.MI_Plane_Cabin09"
+    ],
+    [
+     "MI_Plane_CabinReveal09",
+     "/Game/Art/Materials/Instances/MI_Plane_CabinReveal09.MI_Plane_CabinReveal09"
+    ],
+    [
+     "MI_Plane_ServiceWarm11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceWarm11.MI_Plane_ServiceWarm11"
+    ],
+    [
+     "MI_Plane_ServiceMetal11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceMetal11.MI_Plane_ServiceMetal11"
+    ],
+    [
+     "MI_Plane_ServiceNavy11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceNavy11.MI_Plane_ServiceNavy11"
+    ],
+    [
+     "MI_Plane_ServiceSage11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceSage11.MI_Plane_ServiceSage11"
+    ],
+    [
+     "MI_Plane_ServiceWhite11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceWhite11.MI_Plane_ServiceWhite11"
+    ]
+   ]
+  },
+  "SM_Plane_LavatoryDoor_R": {
+   "n": 1,
+   "example": "Lavatory R door \u2014 hinge pivot",
+   "size": [
+    0.16,
+    0.97,
+    2.09
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_ServiceWarm11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceWarm11.MI_Plane_ServiceWarm11"
+    ],
+    [
+     "MI_Plane_ServiceNavy11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceNavy11.MI_Plane_ServiceNavy11"
+    ],
+    [
+     "MI_Plane_ServiceMetal11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceMetal11.MI_Plane_ServiceMetal11"
+    ],
+    [
+     "MI_Plane_ServiceRubber11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceRubber11.MI_Plane_ServiceRubber11"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ]
+   ]
+  },
+  "SM_Plane_Lavatory_L": {
+   "n": 1,
+   "example": "SM_Plane_Lavatory_L",
+   "size": [
+    1.66,
+    2.72,
+    2.27
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_Porcelain",
+     "/Game/Art/Materials/Instances/MI_Plane_Porcelain.MI_Plane_Porcelain"
+    ],
+    [
+     "MI_Plane_ServiceDark",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceDark.MI_Plane_ServiceDark"
+    ],
+    [
+     "MI_Plane_White",
+     "/Game/Art/Materials/Instances/MI_Plane_White.MI_Plane_White"
+    ],
+    [
+     "MI_Plane_BrushedSteel",
+     "/Game/Art/Materials/Instances/MI_Plane_BrushedSteel.MI_Plane_BrushedSteel"
+    ],
+    [
+     "MI_Plane_LabelPaper",
+     "/Game/Art/Materials/Instances/MI_Plane_LabelPaper.MI_Plane_LabelPaper"
+    ],
+    [
+     "MI_Plane_Frame",
+     "/Game/Art/Materials/Instances/MI_Plane_Frame.MI_Plane_Frame"
+    ],
+    [
+     "MI_Plane_Lamp",
+     "/Game/Art/Materials/Instances/MI_Plane_Lamp.MI_Plane_Lamp"
+    ],
+    [
+     "MI_Plane_ServicePearl",
+     "/Game/Art/Materials/Instances/MI_Plane_ServicePearl.MI_Plane_ServicePearl"
+    ],
+    [
+     "MI_Plane_ServiceRubber11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceRubber11.MI_Plane_ServiceRubber11"
+    ],
+    [
+     "MI_Plane_Graphite",
+     "/Game/Art/Materials/Instances/MI_Plane_Graphite.MI_Plane_Graphite"
+    ],
+    [
+     "MI_Plane_Counter",
+     "/Game/Art/Materials/Instances/MI_Plane_Counter.MI_Plane_Counter"
+    ],
+    [
+     "MI_Plane_Titanium",
+     "/Game/Art/Materials/Instances/MI_Plane_Titanium.MI_Plane_Titanium"
+    ],
+    [
+     "MI_Plane_SteelDark",
+     "/Game/Art/Materials/Instances/MI_Plane_SteelDark.MI_Plane_SteelDark"
+    ],
+    [
+     "MI_Plane_Mirror",
+     "/Game/Art/Materials/Instances/MI_Plane_Mirror.MI_Plane_Mirror"
+    ],
+    [
+     "MI_Plane_Footlight",
+     "/Game/Art/Materials/Instances/MI_Plane_Footlight.MI_Plane_Footlight"
+    ],
+    [
+     "MI_Plane_Slate",
+     "/Game/Art/Materials/Instances/MI_Plane_Slate.MI_Plane_Slate"
+    ],
+    [
+     "MI_Plane_Blue",
+     "/Game/Art/Materials/Instances/MI_Plane_Blue.MI_Plane_Blue"
+    ],
+    [
+     "MI_Plane_ServiceFloor09",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceFloor09.MI_Plane_ServiceFloor09"
+    ],
+    [
+     "MI_Plane_Cabin09",
+     "/Game/Art/Materials/Instances/MI_Plane_Cabin09.MI_Plane_Cabin09"
+    ],
+    [
+     "MI_Plane_CabinReveal09",
+     "/Game/Art/Materials/Instances/MI_Plane_CabinReveal09.MI_Plane_CabinReveal09"
+    ],
+    [
+     "MI_Plane_ServiceWarm11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceWarm11.MI_Plane_ServiceWarm11"
+    ],
+    [
+     "MI_Plane_ServiceMetal11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceMetal11.MI_Plane_ServiceMetal11"
+    ],
+    [
+     "MI_Plane_ServiceNavy11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceNavy11.MI_Plane_ServiceNavy11"
+    ],
+    [
+     "MI_Plane_ServiceSage11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceSage11.MI_Plane_ServiceSage11"
+    ],
+    [
+     "MI_Plane_ServiceWhite11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceWhite11.MI_Plane_ServiceWhite11"
+    ]
+   ]
+  },
+  "SM_Plane_LavatoryDoor_L": {
+   "n": 1,
+   "example": "Lavatory L door \u2014 hinge pivot",
+   "size": [
+    0.16,
+    0.97,
+    2.09
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_ServiceWarm11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceWarm11.MI_Plane_ServiceWarm11"
+    ],
+    [
+     "MI_Plane_ServiceNavy11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceNavy11.MI_Plane_ServiceNavy11"
+    ],
+    [
+     "MI_Plane_ServiceMetal11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceMetal11.MI_Plane_ServiceMetal11"
+    ],
+    [
+     "MI_Plane_ServiceRubber11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceRubber11.MI_Plane_ServiceRubber11"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ]
+   ]
+  },
+  "SM_Plane_ForwardVestibule": {
+   "n": 1,
+   "example": "SM_Plane_ForwardVestibule",
+   "size": [
+    4.79,
+    0.12,
+    2.69
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_Cabin09",
+     "/Game/Art/Materials/Instances/MI_Plane_Cabin09.MI_Plane_Cabin09"
+    ],
+    [
+     "MI_Plane_Trim09",
+     "/Game/Art/Materials/Instances/MI_Plane_Trim09.MI_Plane_Trim09"
+    ]
+   ]
+  },
+  "SM_Plane_ClassDivider": {
+   "n": 1,
+   "example": "SM_Plane_ClassDivider",
+   "size": [
+    4.79,
+    2.9,
+    2.69
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_Cabin09",
+     "/Game/Art/Materials/Instances/MI_Plane_Cabin09.MI_Plane_Cabin09"
+    ],
+    [
+     "MI_Plane_Trim09",
+     "/Game/Art/Materials/Instances/MI_Plane_Trim09.MI_Plane_Trim09"
+    ],
+    [
+     "MI_Plane_Curtain",
+     "/Game/Art/Materials/Instances/MI_Plane_Curtain.MI_Plane_Curtain"
+    ]
+   ]
+  },
+  "SM_Plane_CockpitEntry": {
+   "n": 1,
+   "example": "SM_Plane_CockpitEntry",
+   "size": [
+    3.71,
+    2.32,
+    1.71
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_FunPanel10",
+     "/Game/Art/Materials/Instances/MI_Plane_FunPanel10.MI_Plane_FunPanel10"
+    ],
+    [
+     "MI_Plane_Blue",
+     "/Game/Art/Materials/Instances/MI_Plane_Blue.MI_Plane_Blue"
+    ],
+    [
+     "MI_Plane_ServicePearl",
+     "/Game/Art/Materials/Instances/MI_Plane_ServicePearl.MI_Plane_ServicePearl"
+    ],
+    [
+     "MI_Plane_ControlMetal",
+     "/Game/Art/Materials/Instances/MI_Plane_ControlMetal.MI_Plane_ControlMetal"
+    ],
+    [
+     "MI_Plane_Belt",
+     "/Game/Art/Materials/Instances/MI_Plane_Belt.MI_Plane_Belt"
+    ],
+    [
+     "MI_Plane_CockpitLiner11",
+     "/Game/Art/Materials/Instances/MI_Plane_CockpitLiner11.MI_Plane_CockpitLiner11"
+    ],
+    [
+     "MI_Plane_CockpitOxygen11",
+     "/Game/Art/Materials/Instances/MI_Plane_CockpitOxygen11.MI_Plane_CockpitOxygen11"
+    ],
+    [
+     "MI_Plane_CockpitDark11",
+     "/Game/Art/Materials/Instances/MI_Plane_CockpitDark11.MI_Plane_CockpitDark11"
+    ],
+    [
+     "MI_Plane_CockpitBlue11",
+     "/Game/Art/Materials/Instances/MI_Plane_CockpitBlue11.MI_Plane_CockpitBlue11"
+    ],
+    [
+     "MI_Plane_CockpitPaper11",
+     "/Game/Art/Materials/Instances/MI_Plane_CockpitPaper11.MI_Plane_CockpitPaper11"
+    ]
+   ]
+  },
+  "SM_Plane_FittedCarpet07": {
+   "n": 1,
+   "example": "SM_Plane_FittedCarpet07",
+   "size": [
+    4.8,
+    35.1,
+    0.0
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_ServiceSage11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceSage11.MI_Plane_ServiceSage11"
+    ],
+    [
+     "MI_Plane_SuiteCarpet11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteCarpet11.MI_Plane_SuiteCarpet11"
+    ],
+    [
+     "MI_Plane_CrewRunner11",
+     "/Game/Art/Materials/Instances/MI_Plane_CrewRunner11.MI_Plane_CrewRunner11"
+    ],
+    [
+     "MI_Plane_Stitch09",
+     "/Game/Art/Materials/Instances/MI_Plane_Stitch09.MI_Plane_Stitch09"
+    ],
+    [
+     "MI_Plane_Carpet07",
+     "/Game/Art/Materials/Instances/MI_Plane_Carpet07.MI_Plane_Carpet07"
+    ],
+    [
+     "MI_Plane_Binding",
+     "/Game/Art/Materials/Instances/MI_Plane_Binding.MI_Plane_Binding"
+    ],
+    [
+     "MI_Plane_SuiteBorder11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteBorder11.MI_Plane_SuiteBorder11"
+    ]
+   ]
+  },
+  "SM_AP_B40LuxurySeatBase": {
+   "n": 4,
+   "example": "Business 01 A",
+   "size": [
+    0.87,
+    0.9,
+    1.39
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SuiteDark11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteDark11.MI_Plane_SuiteDark11"
+    ],
+    [
+     "MI_Plane_SuiteCream11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteCream11.MI_Plane_SuiteCream11"
+    ],
+    [
+     "MI_Plane_SuitePlum11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuitePlum11.MI_Plane_SuitePlum11"
+    ],
+    [
+     "MI_Plane_SuitePiping11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuitePiping11.MI_Plane_SuitePiping11"
+    ],
+    [
+     "MI_Plane_SuiteMauve11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteMauve11.MI_Plane_SuiteMauve11"
+    ],
+    [
+     "MI_Plane_SuiteLeather11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteLeather11.MI_Plane_SuiteLeather11"
+    ],
+    [
+     "MI_Plane_SuiteRail11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteRail11.MI_Plane_SuiteRail11"
+    ],
+    [
+     "MI_Plane_SuiteTextile11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteTextile11.MI_Plane_SuiteTextile11"
+    ],
+    [
+     "MI_Plane_DetailSteel12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailSteel12.MI_Plane_DetailSteel12"
+    ]
+   ]
+  },
+  "SM_Plane_Seat": {
+   "n": 18,
+   "example": "Economy 03 A",
+   "size": [
+    0.77,
+    0.76,
+    1.4
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_White",
+     "/Game/Art/Materials/Instances/MI_Plane_White.MI_Plane_White"
+    ],
+    [
+     "MI_Plane_Black",
+     "/Game/Art/Materials/Instances/MI_Plane_Black.MI_Plane_Black"
+    ],
+    [
+     "MI_Plane_Wood",
+     "/Game/Art/Materials/Instances/MI_Plane_Wood.MI_Plane_Wood"
+    ],
+    [
+     "MI_Plane_Metal",
+     "/Game/Art/Materials/Instances/MI_Plane_Metal.MI_Plane_Metal"
+    ],
+    [
+     "MI_Plane_Belt",
+     "/Game/Art/Materials/Instances/MI_Plane_Belt.MI_Plane_Belt"
+    ],
+    [
+     "MI_Plane_LiveryGold",
+     "/Game/Art/Materials/Instances/MI_Plane_LiveryGold.MI_Plane_LiveryGold"
+    ],
+    [
+     "MI_Plane_ArmInset",
+     "/Game/Art/Materials/Instances/MI_Plane_ArmInset.MI_Plane_ArmInset"
+    ],
+    [
+     "MI_Plane_Brushed",
+     "/Game/Art/Materials/Instances/MI_Plane_Brushed.MI_Plane_Brushed"
+    ],
+    [
+     "MI_Plane_Rubber",
+     "/Game/Art/Materials/Instances/MI_Plane_Rubber.MI_Plane_Rubber"
+    ],
+    [
+     "MI_Plane_ScreenCyan",
+     "/Game/Art/Materials/Instances/MI_Plane_ScreenCyan.MI_Plane_ScreenCyan"
+    ],
+    [
+     "MI_Plane_Graphite",
+     "/Game/Art/Materials/Instances/MI_Plane_Graphite.MI_Plane_Graphite"
+    ],
+    [
+     "MI_Plane_ScreenBlack",
+     "/Game/Art/Materials/Instances/MI_Plane_ScreenBlack.MI_Plane_ScreenBlack"
+    ],
+    [
+     "MI_Plane_Fabric09",
+     "/Game/Art/Materials/Instances/MI_Plane_Fabric09.MI_Plane_Fabric09"
+    ],
+    [
+     "MI_Plane_FabricInset09",
+     "/Game/Art/Materials/Instances/MI_Plane_FabricInset09.MI_Plane_FabricInset09"
+    ],
+    [
+     "MI_Plane_DetailNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailNavy12.MI_Plane_DetailNavy12"
+    ],
+    [
+     "MI_Plane_DetailPad12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailPad12.MI_Plane_DetailPad12"
+    ],
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ]
+   ]
+  },
+  "SM_Plane_SeatPair": {
+   "n": 9,
+   "example": "Economy 03 D E",
+   "size": [
+    1.46,
+    0.76,
+    1.4
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_White",
+     "/Game/Art/Materials/Instances/MI_Plane_White.MI_Plane_White"
+    ],
+    [
+     "MI_Plane_Black",
+     "/Game/Art/Materials/Instances/MI_Plane_Black.MI_Plane_Black"
+    ],
+    [
+     "MI_Plane_Wood",
+     "/Game/Art/Materials/Instances/MI_Plane_Wood.MI_Plane_Wood"
+    ],
+    [
+     "MI_Plane_Metal",
+     "/Game/Art/Materials/Instances/MI_Plane_Metal.MI_Plane_Metal"
+    ],
+    [
+     "MI_Plane_Belt",
+     "/Game/Art/Materials/Instances/MI_Plane_Belt.MI_Plane_Belt"
+    ],
+    [
+     "MI_Plane_LiveryGold",
+     "/Game/Art/Materials/Instances/MI_Plane_LiveryGold.MI_Plane_LiveryGold"
+    ],
+    [
+     "MI_Plane_ArmInset",
+     "/Game/Art/Materials/Instances/MI_Plane_ArmInset.MI_Plane_ArmInset"
+    ],
+    [
+     "MI_Plane_Brushed",
+     "/Game/Art/Materials/Instances/MI_Plane_Brushed.MI_Plane_Brushed"
+    ],
+    [
+     "MI_Plane_Rubber",
+     "/Game/Art/Materials/Instances/MI_Plane_Rubber.MI_Plane_Rubber"
+    ],
+    [
+     "MI_Plane_BrushedSteel",
+     "/Game/Art/Materials/Instances/MI_Plane_BrushedSteel.MI_Plane_BrushedSteel"
+    ],
+    [
+     "MI_Plane_ScreenCyan",
+     "/Game/Art/Materials/Instances/MI_Plane_ScreenCyan.MI_Plane_ScreenCyan"
+    ],
+    [
+     "MI_Plane_Graphite",
+     "/Game/Art/Materials/Instances/MI_Plane_Graphite.MI_Plane_Graphite"
+    ],
+    [
+     "MI_Plane_ScreenBlack",
+     "/Game/Art/Materials/Instances/MI_Plane_ScreenBlack.MI_Plane_ScreenBlack"
+    ],
+    [
+     "MI_Plane_Fabric09",
+     "/Game/Art/Materials/Instances/MI_Plane_Fabric09.MI_Plane_Fabric09"
+    ],
+    [
+     "MI_Plane_FabricInset09",
+     "/Game/Art/Materials/Instances/MI_Plane_FabricInset09.MI_Plane_FabricInset09"
+    ],
+    [
+     "MI_Plane_DetailNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailNavy12.MI_Plane_DetailNavy12"
+    ],
+    [
+     "MI_Plane_DetailPad12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailPad12.MI_Plane_DetailPad12"
+    ],
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ]
+   ]
+  },
+  "SM_AP_E39PassengerDoorL": {
+   "n": 2,
+   "example": "Aircraft door 1L",
+   "size": [
+    0.31,
+    1.06,
+    1.87
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_DoorPearl07",
+     "/Game/Art/Materials/Instances/MI_Plane_DoorPearl07.MI_Plane_DoorPearl07"
+    ],
+    [
+     "MI_Plane_Graphite",
+     "/Game/Art/Materials/Instances/MI_Plane_Graphite.MI_Plane_Graphite"
+    ],
+    [
+     "MI_Plane_WindowTrim",
+     "/Game/Art/Materials/Instances/MI_Plane_WindowTrim.MI_Plane_WindowTrim"
+    ],
+    [
+     "MI_Plane_Glass",
+     "/Game/Airport38/Glazing39/MI_AP_Glass39_Cabin.MI_AP_Glass39_Cabin"
+    ],
+    [
+     "MI_Plane_ServicePearl",
+     "/Game/Art/Materials/Instances/MI_Plane_ServicePearl.MI_Plane_ServicePearl"
+    ],
+    [
+     "MI_Plane_LabelPaper",
+     "/Game/Art/Materials/Instances/MI_Plane_LabelPaper.MI_Plane_LabelPaper"
+    ],
+    [
+     "MI_Plane_Titanium",
+     "/Game/Art/Materials/Instances/MI_Plane_Titanium.MI_Plane_Titanium"
+    ],
+    [
+     "MI_Plane_SteelDark",
+     "/Game/Art/Materials/Instances/MI_Plane_SteelDark.MI_Plane_SteelDark"
+    ],
+    [
+     "MI_Plane_Red",
+     "/Game/Art/Materials/Instances/MI_Plane_Red.MI_Plane_Red"
+    ],
+    [
+     "MI_Plane_LabelInk",
+     "/Game/Airport38/Materials/MI_Plane_LabelInk.MI_Plane_LabelInk"
+    ]
+   ]
+  },
+  "SM_AP_E39PassengerDoorR": {
+   "n": 2,
+   "example": "Aircraft door 1R",
+   "size": [
+    0.31,
+    1.06,
+    1.82
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_DoorPearl07",
+     "/Game/Art/Materials/Instances/MI_Plane_DoorPearl07.MI_Plane_DoorPearl07"
+    ],
+    [
+     "MI_Plane_Graphite",
+     "/Game/Art/Materials/Instances/MI_Plane_Graphite.MI_Plane_Graphite"
+    ],
+    [
+     "MI_Plane_WindowTrim",
+     "/Game/Art/Materials/Instances/MI_Plane_WindowTrim.MI_Plane_WindowTrim"
+    ],
+    [
+     "MI_Plane_Glass",
+     "/Game/Airport38/Glazing39/MI_AP_Glass39_Cabin.MI_AP_Glass39_Cabin"
+    ],
+    [
+     "MI_Plane_ServicePearl",
+     "/Game/Art/Materials/Instances/MI_Plane_ServicePearl.MI_Plane_ServicePearl"
+    ],
+    [
+     "MI_Plane_LabelPaper",
+     "/Game/Art/Materials/Instances/MI_Plane_LabelPaper.MI_Plane_LabelPaper"
+    ],
+    [
+     "MI_Plane_Titanium",
+     "/Game/Art/Materials/Instances/MI_Plane_Titanium.MI_Plane_Titanium"
+    ],
+    [
+     "MI_Plane_SteelDark",
+     "/Game/Art/Materials/Instances/MI_Plane_SteelDark.MI_Plane_SteelDark"
+    ],
+    [
+     "MI_Plane_Red",
+     "/Game/Art/Materials/Instances/MI_Plane_Red.MI_Plane_Red"
+    ],
+    [
+     "MI_Plane_LabelInk",
+     "/Game/Airport38/Materials/MI_Plane_LabelInk.MI_Plane_LabelInk"
+    ]
+   ]
+  },
+  "SM_Plane_Seat13Rear": {
+   "n": 2,
+   "example": "Economy 12 A",
+   "size": [
+    0.77,
+    0.75,
+    1.4
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_White",
+     "/Game/Art/Materials/Instances/MI_Plane_White.MI_Plane_White"
+    ],
+    [
+     "MI_Plane_Black",
+     "/Game/Art/Materials/Instances/MI_Plane_Black.MI_Plane_Black"
+    ],
+    [
+     "MI_Plane_Wood",
+     "/Game/Art/Materials/Instances/MI_Plane_Wood.MI_Plane_Wood"
+    ],
+    [
+     "MI_Plane_Metal",
+     "/Game/Art/Materials/Instances/MI_Plane_Metal.MI_Plane_Metal"
+    ],
+    [
+     "MI_Plane_Belt",
+     "/Game/Art/Materials/Instances/MI_Plane_Belt.MI_Plane_Belt"
+    ],
+    [
+     "MI_Plane_LiveryGold",
+     "/Game/Art/Materials/Instances/MI_Plane_LiveryGold.MI_Plane_LiveryGold"
+    ],
+    [
+     "MI_Plane_ArmInset",
+     "/Game/Art/Materials/Instances/MI_Plane_ArmInset.MI_Plane_ArmInset"
+    ],
+    [
+     "MI_Plane_Brushed",
+     "/Game/Art/Materials/Instances/MI_Plane_Brushed.MI_Plane_Brushed"
+    ],
+    [
+     "MI_Plane_Rubber",
+     "/Game/Art/Materials/Instances/MI_Plane_Rubber.MI_Plane_Rubber"
+    ],
+    [
+     "MI_Plane_Frame",
+     "/Game/Art/Materials/Instances/MI_Plane_Frame.MI_Plane_Frame"
+    ],
+    [
+     "MI_Plane_Graphite",
+     "/Game/Art/Materials/Instances/MI_Plane_Graphite.MI_Plane_Graphite"
+    ],
+    [
+     "MI_Plane_ServicePearl",
+     "/Game/Art/Materials/Instances/MI_Plane_ServicePearl.MI_Plane_ServicePearl"
+    ],
+    [
+     "MI_Plane_Titanium",
+     "/Game/Art/Materials/Instances/MI_Plane_Titanium.MI_Plane_Titanium"
+    ],
+    [
+     "MI_Plane_ScreenBlack",
+     "/Game/Art/Materials/Instances/MI_Plane_ScreenBlack.MI_Plane_ScreenBlack"
+    ],
+    [
+     "MI_Plane_Fabric09",
+     "/Game/Art/Materials/Instances/MI_Plane_Fabric09.MI_Plane_Fabric09"
+    ],
+    [
+     "MI_Plane_FabricInset09",
+     "/Game/Art/Materials/Instances/MI_Plane_FabricInset09.MI_Plane_FabricInset09"
+    ],
+    [
+     "MI_Plane_DetailNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailNavy12.MI_Plane_DetailNavy12"
+    ],
+    [
+     "MI_Plane_DetailPad12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailPad12.MI_Plane_DetailPad12"
+    ]
+   ]
+  },
+  "SM_Plane_SeatPair13Rear": {
+   "n": 1,
+   "example": "Economy 12 D E",
+   "size": [
+    1.46,
+    0.75,
+    1.4
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_White",
+     "/Game/Art/Materials/Instances/MI_Plane_White.MI_Plane_White"
+    ],
+    [
+     "MI_Plane_Black",
+     "/Game/Art/Materials/Instances/MI_Plane_Black.MI_Plane_Black"
+    ],
+    [
+     "MI_Plane_Wood",
+     "/Game/Art/Materials/Instances/MI_Plane_Wood.MI_Plane_Wood"
+    ],
+    [
+     "MI_Plane_Metal",
+     "/Game/Art/Materials/Instances/MI_Plane_Metal.MI_Plane_Metal"
+    ],
+    [
+     "MI_Plane_Belt",
+     "/Game/Art/Materials/Instances/MI_Plane_Belt.MI_Plane_Belt"
+    ],
+    [
+     "MI_Plane_LiveryGold",
+     "/Game/Art/Materials/Instances/MI_Plane_LiveryGold.MI_Plane_LiveryGold"
+    ],
+    [
+     "MI_Plane_ArmInset",
+     "/Game/Art/Materials/Instances/MI_Plane_ArmInset.MI_Plane_ArmInset"
+    ],
+    [
+     "MI_Plane_Brushed",
+     "/Game/Art/Materials/Instances/MI_Plane_Brushed.MI_Plane_Brushed"
+    ],
+    [
+     "MI_Plane_Rubber",
+     "/Game/Art/Materials/Instances/MI_Plane_Rubber.MI_Plane_Rubber"
+    ],
+    [
+     "MI_Plane_BrushedSteel",
+     "/Game/Art/Materials/Instances/MI_Plane_BrushedSteel.MI_Plane_BrushedSteel"
+    ],
+    [
+     "MI_Plane_Frame",
+     "/Game/Art/Materials/Instances/MI_Plane_Frame.MI_Plane_Frame"
+    ],
+    [
+     "MI_Plane_Graphite",
+     "/Game/Art/Materials/Instances/MI_Plane_Graphite.MI_Plane_Graphite"
+    ],
+    [
+     "MI_Plane_ServicePearl",
+     "/Game/Art/Materials/Instances/MI_Plane_ServicePearl.MI_Plane_ServicePearl"
+    ],
+    [
+     "MI_Plane_Titanium",
+     "/Game/Art/Materials/Instances/MI_Plane_Titanium.MI_Plane_Titanium"
+    ],
+    [
+     "MI_Plane_ScreenBlack",
+     "/Game/Art/Materials/Instances/MI_Plane_ScreenBlack.MI_Plane_ScreenBlack"
+    ],
+    [
+     "MI_Plane_Fabric09",
+     "/Game/Art/Materials/Instances/MI_Plane_Fabric09.MI_Plane_Fabric09"
+    ],
+    [
+     "MI_Plane_FabricInset09",
+     "/Game/Art/Materials/Instances/MI_Plane_FabricInset09.MI_Plane_FabricInset09"
+    ],
+    [
+     "MI_Plane_DetailNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailNavy12.MI_Plane_DetailNavy12"
+    ],
+    [
+     "MI_Plane_DetailPad12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailPad12.MI_Plane_DetailPad12"
+    ]
+   ]
+  },
+  "SM_Plane_CabinFinish09": {
+   "n": 1,
+   "example": "SM_Plane_CabinFinish09",
+   "size": [
+    4.68,
+    35.1,
+    1.9
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_Trim09",
+     "/Game/Art/Materials/Instances/MI_Plane_Trim09.MI_Plane_Trim09"
+    ],
+    [
+     "MI_Plane_CabinReveal09",
+     "/Game/Art/Materials/Instances/MI_Plane_CabinReveal09.MI_Plane_CabinReveal09"
+    ]
+   ]
+  },
+  "SM_Plane_DoorBay07": {
+   "n": 2,
+   "example": "Exit structure10 bay00",
+   "size": [
+    5.01,
+    1.35,
+    5.15
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_Seal08",
+     "/Game/Art/Materials/Instances/MI_Plane_Seal08.MI_Plane_Seal08"
+    ],
+    [
+     "MI_Plane_Paint09",
+     "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09"
+    ],
+    [
+     "MI_Plane_Blue09",
+     "/Game/Art/Materials/Instances/MI_Plane_Blue09.MI_Plane_Blue09"
+    ],
+    [
+     "MI_Plane_LiveryGold",
+     "/Game/Art/Materials/Instances/MI_Plane_LiveryGold.MI_Plane_LiveryGold"
+    ]
+   ]
+  },
+  "SM_Plane_ArchRib": {
+   "n": 12,
+   "example": "Cabin frame10 00",
+   "size": [
+    4.48,
+    0.05,
+    0.58
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_Frame",
+     "/Game/Art/Materials/Instances/MI_Plane_Frame.MI_Plane_Frame"
+    ]
+   ]
+  },
+  "SM_AP_W42WindowWallR": {
+   "n": 21,
+   "example": "SM_Plane_WindowWall_R bay10 01",
+   "size": [
+    1.39,
+    1.35,
+    2.51
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_CabinReveal09.001",
+     "/Game/Airport38/Materials/MI_Plane_CabinReveal09_001.MI_Plane_CabinReveal09_001"
+    ],
+    [
+     "MI_Plane_Light09.001",
+     "/Game/Airport38/Materials/MI_Plane_Light09_001.MI_Plane_Light09_001"
+    ],
+    [
+     "MI_Plane_Cabin09.001",
+     "/Game/Airport38/Materials/MI_Plane_Cabin09_001.MI_Plane_Cabin09_001"
+    ],
+    [
+     "MI_Plane_SkyGlass18.001",
+     "/Game/Airport38/Glazing39/MI_AP_Glass39_Cabin.MI_AP_Glass39_Cabin"
+    ],
+    [
+     "MI_Plane_White.001",
+     "/Game/Airport38/Materials/MI_Plane_White_001.MI_Plane_White_001"
+    ]
+   ]
+  },
+  "SM_AP_W42WindowWallL": {
+   "n": 21,
+   "example": "SM_Plane_WindowWall_L bay10 01",
+   "size": [
+    1.39,
+    1.35,
+    2.51
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_CabinReveal09.001",
+     "/Game/Airport38/Materials/MI_Plane_CabinReveal09_001.MI_Plane_CabinReveal09_001"
+    ],
+    [
+     "MI_Plane_Light09.001",
+     "/Game/Airport38/Materials/MI_Plane_Light09_001.MI_Plane_Light09_001"
+    ],
+    [
+     "MI_Plane_Cabin09.001",
+     "/Game/Airport38/Materials/MI_Plane_Cabin09_001.MI_Plane_Cabin09_001"
+    ],
+    [
+     "MI_Plane_SkyGlass18.001",
+     "/Game/Airport38/Glazing39/MI_AP_Glass39_Cabin.MI_AP_Glass39_Cabin"
+    ],
+    [
+     "MI_Plane_White.001",
+     "/Game/Airport38/Materials/MI_Plane_White_001.MI_Plane_White_001"
+    ]
+   ]
+  },
+  "SM_AP_W40PressureWindows": {
+   "n": 20,
+   "example": "SM_Plane_OuterWindowBarrel bay10 01",
+   "size": [
+    5.0,
+    1.35,
+    5.15
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_Paint09",
+     "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09"
+    ],
+    [
+     "MI_Plane_Blue09",
+     "/Game/Art/Materials/Instances/MI_Plane_Blue09.MI_Plane_Blue09"
+    ],
+    [
+     "MI_Plane_Seal08",
+     "/Game/Art/Materials/Instances/MI_Plane_Seal08.MI_Plane_Seal08"
+    ]
+   ]
+  },
+  "SM_AP_W41RackR": {
+   "n": 15,
+   "example": "SM_Plane_Rack_R bay10 03",
+   "size": [
+    0.59,
+    1.33,
+    0.47
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_Light09",
+     "/Game/Art/Materials/Instances/MI_Plane_Light09.MI_Plane_Light09"
+    ],
+    [
+     "MI_Plane_BinPearl10",
+     "/Game/Art/Materials/Instances/MI_Plane_BinPearl10.MI_Plane_BinPearl10"
+    ],
+    [
+     "MI_Plane_BinShadow10",
+     "/Game/Art/Materials/Instances/MI_Plane_BinShadow10.MI_Plane_BinShadow10"
+    ],
+    [
+     "MI_Plane_CargoMetal10",
+     "/Game/Art/Materials/Instances/MI_Plane_CargoMetal10.MI_Plane_CargoMetal10"
+    ],
+    [
+     "MI_Plane_BagTeal10",
+     "/Game/Art/Materials/Instances/MI_Plane_BagTeal10.MI_Plane_BagTeal10"
+    ],
+    [
+     "MI_Plane_CargoRubber10",
+     "/Game/Art/Materials/Instances/MI_Plane_CargoRubber10.MI_Plane_CargoRubber10"
+    ],
+    [
+     "MI_Plane_BagWebbing10",
+     "/Game/Art/Materials/Instances/MI_Plane_BagWebbing10.MI_Plane_BagWebbing10"
+    ]
+   ]
+  },
+  "SM_AP_W41RackL": {
+   "n": 15,
+   "example": "SM_Plane_Rack_L bay10 03",
+   "size": [
+    0.59,
+    1.33,
+    0.47
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_Light09",
+     "/Game/Art/Materials/Instances/MI_Plane_Light09.MI_Plane_Light09"
+    ],
+    [
+     "MI_Plane_BinPearl10",
+     "/Game/Art/Materials/Instances/MI_Plane_BinPearl10.MI_Plane_BinPearl10"
+    ],
+    [
+     "MI_Plane_BinShadow10",
+     "/Game/Art/Materials/Instances/MI_Plane_BinShadow10.MI_Plane_BinShadow10"
+    ],
+    [
+     "MI_Plane_CargoMetal10",
+     "/Game/Art/Materials/Instances/MI_Plane_CargoMetal10.MI_Plane_CargoMetal10"
+    ],
+    [
+     "MI_Plane_BagTeal10",
+     "/Game/Art/Materials/Instances/MI_Plane_BagTeal10.MI_Plane_BagTeal10"
+    ],
+    [
+     "MI_Plane_CargoRubber10",
+     "/Game/Art/Materials/Instances/MI_Plane_CargoRubber10.MI_Plane_CargoRubber10"
+    ],
+    [
+     "MI_Plane_BagWebbing10",
+     "/Game/Art/Materials/Instances/MI_Plane_BagWebbing10.MI_Plane_BagWebbing10"
+    ]
+   ]
+  },
+  "SM_Plane_Floor": {
+   "n": 1,
+   "example": "SM_Plane_Floor",
+   "size": [
+    4.8,
+    35.1,
+    0.09
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SteelDark",
+     "/Game/Art/Materials/Instances/MI_Plane_SteelDark.MI_Plane_SteelDark"
+    ]
+   ]
+  },
+  "SM_Plane_CrewAmenities07": {
+   "n": 1,
+   "example": "SM_Plane_CrewAmenities07",
+   "size": [
+    2.14,
+    0.05,
+    0.15
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_Graphite",
+     "/Game/Art/Materials/Instances/MI_Plane_Graphite.MI_Plane_Graphite"
+    ],
+    [
+     "MI_Plane_ServicePearl",
+     "/Game/Art/Materials/Instances/MI_Plane_ServicePearl.MI_Plane_ServicePearl"
+    ],
+    [
+     "MI_Plane_Titanium",
+     "/Game/Art/Materials/Instances/MI_Plane_Titanium.MI_Plane_Titanium"
+    ],
+    [
+     "MI_Plane_Anodized",
+     "/Game/Art/Materials/Instances/MI_Plane_Anodized.MI_Plane_Anodized"
+    ]
+   ]
+  },
+  "SM_Plane_OverheadBinDoor10_R": {
+   "n": 15,
+   "example": "Overhead bin R 04",
+   "size": [
+    0.07,
+    1.28,
+    0.35
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_BinPearl10",
+     "/Game/Art/Materials/Instances/MI_Plane_BinPearl10.MI_Plane_BinPearl10"
+    ],
+    [
+     "MI_Plane_CargoMetal10",
+     "/Game/Art/Materials/Instances/MI_Plane_CargoMetal10.MI_Plane_CargoMetal10"
+    ],
+    [
+     "MI_Plane_BinShadow10",
+     "/Game/Art/Materials/Instances/MI_Plane_BinShadow10.MI_Plane_BinShadow10"
+    ],
+    [
+     "MI_Plane_CargoRubber10",
+     "/Game/Art/Materials/Instances/MI_Plane_CargoRubber10.MI_Plane_CargoRubber10"
+    ]
+   ]
+  },
+  "SM_Plane_OverheadBinDoor10_L": {
+   "n": 15,
+   "example": "Overhead bin L 04",
+   "size": [
+    0.07,
+    1.28,
+    0.35
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_BinPearl10",
+     "/Game/Art/Materials/Instances/MI_Plane_BinPearl10.MI_Plane_BinPearl10"
+    ],
+    [
+     "MI_Plane_CargoMetal10",
+     "/Game/Art/Materials/Instances/MI_Plane_CargoMetal10.MI_Plane_CargoMetal10"
+    ],
+    [
+     "MI_Plane_BinShadow10",
+     "/Game/Art/Materials/Instances/MI_Plane_BinShadow10.MI_Plane_BinShadow10"
+    ],
+    [
+     "MI_Plane_CargoRubber10",
+     "/Game/Art/Materials/Instances/MI_Plane_CargoRubber10.MI_Plane_CargoRubber10"
+    ]
+   ]
+  },
+  "SM_AP_W40CargoBayWindows": {
+   "n": 1,
+   "example": "Forward lower cargo pressure bay",
+   "size": [
+    5.07,
+    1.35,
+    5.15
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_Paint09",
+     "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09"
+    ],
+    [
+     "MI_Plane_Blue09",
+     "/Game/Art/Materials/Instances/MI_Plane_Blue09.MI_Plane_Blue09"
+    ],
+    [
+     "MI_Plane_CargoSeal10",
+     "/Game/Art/Materials/Instances/MI_Plane_CargoSeal10.MI_Plane_CargoSeal10"
+    ],
+    [
+     "MI_Plane_Trim09",
+     "/Game/Art/Materials/Instances/MI_Plane_Trim09.MI_Plane_Trim09"
+    ],
+    [
+     "MI_Plane_CargoRecess10",
+     "/Game/Art/Materials/Instances/MI_Plane_CargoRecess10.MI_Plane_CargoRecess10"
+    ],
+    [
+     "MI_Plane_CargoHandle10",
+     "/Game/Art/Materials/Instances/MI_Plane_CargoHandle10.MI_Plane_CargoHandle10"
+    ],
+    [
+     "MI_Plane_Seal08",
+     "/Game/Art/Materials/Instances/MI_Plane_Seal08.MI_Plane_Seal08"
+    ]
+   ]
+  },
+  "SM_Plane_CrewMounts11": {
+   "n": 1,
+   "example": "Aft crew solid bulkhead mounts11",
+   "size": [
+    3.76,
+    30.89,
+    2.31
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_ServiceWarm11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceWarm11.MI_Plane_ServiceWarm11"
+    ],
+    [
+     "MI_Plane_ServiceSage11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceSage11.MI_Plane_ServiceSage11"
+    ],
+    [
+     "MI_Plane_ServiceMetal11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceMetal11.MI_Plane_ServiceMetal11"
+    ]
+   ]
+  },
+  "SM_Plane_ForwardEmergency11": {
+   "n": 1,
+   "example": "Forward emergency equipment11",
+   "size": [
+    2.05,
+    0.27,
+    1.56
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_ServiceNavy11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceNavy11.MI_Plane_ServiceNavy11"
+    ],
+    [
+     "MI_Plane_ServiceWhite11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceWhite11.MI_Plane_ServiceWhite11"
+    ],
+    [
+     "MI_Plane_ServiceWarm11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceWarm11.MI_Plane_ServiceWarm11"
+    ],
+    [
+     "MI_Plane_ServiceGreen11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceGreen11.MI_Plane_ServiceGreen11"
+    ],
+    [
+     "MI_Plane_ServiceMetal11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceMetal11.MI_Plane_ServiceMetal11"
+    ],
+    [
+     "MI_Plane_ServiceSage11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceSage11.MI_Plane_ServiceSage11"
+    ],
+    [
+     "MI_Plane_EmergencyRed11",
+     "/Game/Art/Materials/Instances/MI_Plane_EmergencyRed11.MI_Plane_EmergencyRed11"
+    ],
+    [
+     "MI_Plane_ServiceRubber11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceRubber11.MI_Plane_ServiceRubber11"
+    ]
+   ]
+  },
+  "SM_Plane_FirstAidDoor11": {
+   "n": 1,
+   "example": "Forward first aid door11",
+   "size": [
+    0.35,
+    0.03,
+    0.52
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_ServiceWarm11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceWarm11.MI_Plane_ServiceWarm11"
+    ],
+    [
+     "MI_Plane_ServiceGreen11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceGreen11.MI_Plane_ServiceGreen11"
+    ],
+    [
+     "MI_Plane_ServiceNavy11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceNavy11.MI_Plane_ServiceNavy11"
+    ],
+    [
+     "MI_Plane_ServiceMetal11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceMetal11.MI_Plane_ServiceMetal11"
+    ]
+   ]
+  },
+  "SM_Plane_ForwardDispatch11": {
+   "n": 1,
+   "example": "Forward dispatch11",
+   "size": [
+    0.58,
+    1.46,
+    1.52
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_ServiceMetal11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceMetal11.MI_Plane_ServiceMetal11"
+    ],
+    [
+     "MI_Plane_ServiceNavy11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceNavy11.MI_Plane_ServiceNavy11"
+    ],
+    [
+     "MI_Plane_ServiceDisplay11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceDisplay11.MI_Plane_ServiceDisplay11"
+    ],
+    [
+     "MI_Plane_ServiceWalnut11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceWalnut11.MI_Plane_ServiceWalnut11"
+    ],
+    [
+     "MI_Plane_ServiceWhite11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceWhite11.MI_Plane_ServiceWhite11"
+    ],
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ],
+    [
+     "MI_Plane_SvcInterior12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcInterior12.MI_Plane_SvcInterior12"
+    ],
+    [
+     "MI_Plane_SvcSage12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12"
+    ],
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcGasket12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGasket12.MI_Plane_SvcGasket12"
+    ]
+   ]
+  },
+  "SM_Plane_MidSide11_L": {
+   "n": 1,
+   "example": "Mid linen11",
+   "size": [
+    0.44,
+    1.5,
+    1.08
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ],
+    [
+     "MI_Plane_SvcInterior12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcInterior12.MI_Plane_SvcInterior12"
+    ],
+    [
+     "MI_Plane_SvcSage12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12"
+    ],
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcGasket12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGasket12.MI_Plane_SvcGasket12"
+    ]
+   ]
+  },
+  "SM_Plane_MidSide11_R": {
+   "n": 1,
+   "example": "Mid water waste11",
+   "size": [
+    0.44,
+    1.5,
+    1.08
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ],
+    [
+     "MI_Plane_SvcInterior12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcInterior12.MI_Plane_SvcInterior12"
+    ],
+    [
+     "MI_Plane_SvcSage12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12"
+    ],
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcGasket12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGasket12.MI_Plane_SvcGasket12"
+    ]
+   ]
+  },
+  "SM_Plane_MidServiceDetails11": {
+   "n": 1,
+   "example": "Mid galley fitted crew systems11",
+   "size": [
+    4.52,
+    1.2,
+    0.97
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_ServiceSage11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceSage11.MI_Plane_ServiceSage11"
+    ],
+    [
+     "MI_Plane_ServiceMetal11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceMetal11.MI_Plane_ServiceMetal11"
+    ],
+    [
+     "MI_Plane_ServiceWarm11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceWarm11.MI_Plane_ServiceWarm11"
+    ],
+    [
+     "MI_Plane_ServiceLight11",
+     "/Game/Art/Materials/Instances/MI_Plane_ServiceLight11.MI_Plane_ServiceLight11"
+    ]
+   ]
+  },
+  "SM_Plane_Suite11_L": {
+   "n": 2,
+   "example": "Private suite 01 A",
+   "size": [
+    1.41,
+    2.38,
+    1.35
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SuiteCream11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteCream11.MI_Plane_SuiteCream11"
+    ],
+    [
+     "MI_Plane_SuiteDark11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteDark11.MI_Plane_SuiteDark11"
+    ],
+    [
+     "MI_Plane_SuiteChampagne11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteChampagne11.MI_Plane_SuiteChampagne11"
+    ],
+    [
+     "MI_Plane_SuiteCarpet11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteCarpet11.MI_Plane_SuiteCarpet11"
+    ],
+    [
+     "MI_Plane_SuiteTextile11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteTextile11.MI_Plane_SuiteTextile11"
+    ],
+    [
+     "MI_Plane_SuiteRail11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteRail11.MI_Plane_SuiteRail11"
+    ],
+    [
+     "MI_Plane_SuiteWalnut11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteWalnut11.MI_Plane_SuiteWalnut11"
+    ],
+    [
+     "MI_Plane_SuiteRubber11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteRubber11.MI_Plane_SuiteRubber11"
+    ],
+    [
+     "MI_Plane_SuiteWarm11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteWarm11.MI_Plane_SuiteWarm11"
+    ],
+    [
+     "MI_Plane_IFE_BusinessHome11",
+     "/Game/Art/Materials/Instances/MI_Plane_IFE_BusinessHome11.MI_Plane_IFE_BusinessHome11"
+    ],
+    [
+     "MI_Plane_SuiteStatus11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteStatus11.MI_Plane_SuiteStatus11"
+    ],
+    [
+     "MI_Plane_SuiteLeather11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteLeather11.MI_Plane_SuiteLeather11"
+    ],
+    [
+     "MI_Plane_SuitePiping11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuitePiping11.MI_Plane_SuitePiping11"
+    ]
+   ]
+  },
+  "SM_Plane_SuiteDoor11_L": {
+   "n": 2,
+   "example": "Suite privacy door 01 A",
+   "size": [
+    0.06,
+    0.91,
+    1.29
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SuiteCream11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteCream11.MI_Plane_SuiteCream11"
+    ],
+    [
+     "MI_Plane_SuiteChampagne11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteChampagne11.MI_Plane_SuiteChampagne11"
+    ],
+    [
+     "MI_Plane_SuitePlum11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuitePlum11.MI_Plane_SuitePlum11"
+    ],
+    [
+     "MI_Plane_SuiteDark11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteDark11.MI_Plane_SuiteDark11"
+    ],
+    [
+     "MI_Plane_SuiteRubber11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteRubber11.MI_Plane_SuiteRubber11"
+    ],
+    [
+     "MI_Plane_SuiteRail11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteRail11.MI_Plane_SuiteRail11"
+    ]
+   ]
+  },
+  "SM_Plane_Suite11_R": {
+   "n": 2,
+   "example": "Private suite 01 K",
+   "size": [
+    1.41,
+    2.38,
+    1.35
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SuiteCream11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteCream11.MI_Plane_SuiteCream11"
+    ],
+    [
+     "MI_Plane_SuiteDark11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteDark11.MI_Plane_SuiteDark11"
+    ],
+    [
+     "MI_Plane_SuiteChampagne11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteChampagne11.MI_Plane_SuiteChampagne11"
+    ],
+    [
+     "MI_Plane_SuiteCarpet11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteCarpet11.MI_Plane_SuiteCarpet11"
+    ],
+    [
+     "MI_Plane_SuiteTextile11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteTextile11.MI_Plane_SuiteTextile11"
+    ],
+    [
+     "MI_Plane_SuiteRail11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteRail11.MI_Plane_SuiteRail11"
+    ],
+    [
+     "MI_Plane_SuiteWalnut11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteWalnut11.MI_Plane_SuiteWalnut11"
+    ],
+    [
+     "MI_Plane_SuiteRubber11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteRubber11.MI_Plane_SuiteRubber11"
+    ],
+    [
+     "MI_Plane_SuiteWarm11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteWarm11.MI_Plane_SuiteWarm11"
+    ],
+    [
+     "MI_Plane_IFE_BusinessHome11",
+     "/Game/Art/Materials/Instances/MI_Plane_IFE_BusinessHome11.MI_Plane_IFE_BusinessHome11"
+    ],
+    [
+     "MI_Plane_SuiteStatus11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteStatus11.MI_Plane_SuiteStatus11"
+    ],
+    [
+     "MI_Plane_SuiteLeather11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteLeather11.MI_Plane_SuiteLeather11"
+    ],
+    [
+     "MI_Plane_SuitePiping11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuitePiping11.MI_Plane_SuitePiping11"
+    ]
+   ]
+  },
+  "SM_Plane_SuiteDoor11_R": {
+   "n": 2,
+   "example": "Suite privacy door 01 K",
+   "size": [
+    0.06,
+    0.91,
+    1.29
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SuiteCream11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteCream11.MI_Plane_SuiteCream11"
+    ],
+    [
+     "MI_Plane_SuiteChampagne11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteChampagne11.MI_Plane_SuiteChampagne11"
+    ],
+    [
+     "MI_Plane_SuitePlum11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuitePlum11.MI_Plane_SuitePlum11"
+    ],
+    [
+     "MI_Plane_SuiteDark11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteDark11.MI_Plane_SuiteDark11"
+    ],
+    [
+     "MI_Plane_SuiteRubber11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteRubber11.MI_Plane_SuiteRubber11"
+    ],
+    [
+     "MI_Plane_SuiteRail11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteRail11.MI_Plane_SuiteRail11"
+    ]
+   ]
+  },
+  "SM_Plane_CockpitLockerDoor11": {
+   "n": 1,
+   "example": "Flight crew equipment locker11",
+   "size": [
+    0.08,
+    0.67,
+    1.64
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_CockpitLiner11",
+     "/Game/Art/Materials/Instances/MI_Plane_CockpitLiner11.MI_Plane_CockpitLiner11"
+    ],
+    [
+     "MI_Plane_ControlMetal",
+     "/Game/Art/Materials/Instances/MI_Plane_ControlMetal.MI_Plane_ControlMetal"
+    ],
+    [
+     "MI_Plane_CockpitDark11",
+     "/Game/Art/Materials/Instances/MI_Plane_CockpitDark11.MI_Plane_CockpitDark11"
+    ]
+   ]
+  },
+  "SM_Plane_CargoHatch10": {
+   "n": 1,
+   "example": "Lower cargo stair hatch",
+   "size": [
+    1.47,
+    2.29,
+    0.15
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_CargoMetal10",
+     "/Game/Art/Materials/Instances/MI_Plane_CargoMetal10.MI_Plane_CargoMetal10"
+    ],
+    [
+     "MI_Plane_CargoRubber10",
+     "/Game/Art/Materials/Instances/MI_Plane_CargoRubber10.MI_Plane_CargoRubber10"
+    ],
+    [
+     "MI_Plane_CargoFloor10",
+     "/Game/Art/Materials/Instances/MI_Plane_CargoFloor10.MI_Plane_CargoFloor10"
+    ]
+   ]
+  },
+  "SM_Plane_SuiteDetails11_L": {
+   "n": 2,
+   "example": "Suite personal fittings 01 L",
+   "size": [
+    0.39,
+    1.06,
+    0.69
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_PersonalLinen11",
+     "/Game/Art/Materials/Instances/MI_Plane_PersonalLinen11.MI_Plane_PersonalLinen11"
+    ],
+    [
+     "MI_Plane_PersonalPorcelain11",
+     "/Game/Art/Materials/Instances/MI_Plane_PersonalPorcelain11.MI_Plane_PersonalPorcelain11"
+    ],
+    [
+     "MI_Plane_PersonalCoffee11",
+     "/Game/Art/Materials/Instances/MI_Plane_PersonalCoffee11.MI_Plane_PersonalCoffee11"
+    ],
+    [
+     "MI_Plane_SuiteChampagne11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteChampagne11.MI_Plane_SuiteChampagne11"
+    ],
+    [
+     "MI_Plane_SuiteDark11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteDark11.MI_Plane_SuiteDark11"
+    ],
+    [
+     "MI_Plane_SuiteLeather11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteLeather11.MI_Plane_SuiteLeather11"
+    ],
+    [
+     "MI_Plane_PersonalScreen11",
+     "/Game/Art/Materials/Instances/MI_Plane_PersonalScreen11.MI_Plane_PersonalScreen11"
+    ],
+    [
+     "MI_Plane_SuiteTextile11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteTextile11.MI_Plane_SuiteTextile11"
+    ],
+    [
+     "MI_Plane_SuiteBlackInk11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteBlackInk11.MI_Plane_SuiteBlackInk11"
+    ],
+    [
+     "MI_Plane_SuitePiping11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuitePiping11.MI_Plane_SuitePiping11"
+    ],
+    [
+     "MI_Plane_SuiteRubber11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteRubber11.MI_Plane_SuiteRubber11"
+    ]
+   ]
+  },
+  "SM_Plane_SuiteDetails11_R": {
+   "n": 2,
+   "example": "Suite personal fittings 01 R",
+   "size": [
+    0.39,
+    1.06,
+    0.69
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_PersonalLinen11",
+     "/Game/Art/Materials/Instances/MI_Plane_PersonalLinen11.MI_Plane_PersonalLinen11"
+    ],
+    [
+     "MI_Plane_PersonalPorcelain11",
+     "/Game/Art/Materials/Instances/MI_Plane_PersonalPorcelain11.MI_Plane_PersonalPorcelain11"
+    ],
+    [
+     "MI_Plane_PersonalCoffee11",
+     "/Game/Art/Materials/Instances/MI_Plane_PersonalCoffee11.MI_Plane_PersonalCoffee11"
+    ],
+    [
+     "MI_Plane_SuiteChampagne11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteChampagne11.MI_Plane_SuiteChampagne11"
+    ],
+    [
+     "MI_Plane_SuiteDark11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteDark11.MI_Plane_SuiteDark11"
+    ],
+    [
+     "MI_Plane_SuiteLeather11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteLeather11.MI_Plane_SuiteLeather11"
+    ],
+    [
+     "MI_Plane_PersonalScreen11",
+     "/Game/Art/Materials/Instances/MI_Plane_PersonalScreen11.MI_Plane_PersonalScreen11"
+    ],
+    [
+     "MI_Plane_SuiteTextile11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteTextile11.MI_Plane_SuiteTextile11"
+    ],
+    [
+     "MI_Plane_SuiteBlackInk11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteBlackInk11.MI_Plane_SuiteBlackInk11"
+    ],
+    [
+     "MI_Plane_SuitePiping11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuitePiping11.MI_Plane_SuitePiping11"
+    ],
+    [
+     "MI_Plane_SuiteRubber11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteRubber11.MI_Plane_SuiteRubber11"
+    ]
+   ]
+  },
+  "SM_Plane_ExitCrank12": {
+   "n": 8,
+   "example": "Aircraft door 1L articulation link 012",
+   "size": [
+    0.05,
+    0.05,
+    0.08
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_CargoMetal10",
+     "/Game/Art/Materials/Instances/MI_Plane_CargoMetal10.MI_Plane_CargoMetal10"
+    ]
+   ]
+  },
+  "SM_Plane_ExitHingeHardware12": {
+   "n": 1,
+   "example": "Pressure door articulated hinge bearings12",
+   "size": [
+    5.14,
+    27.12,
+    1.03
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_CargoMetal10",
+     "/Game/Art/Materials/Instances/MI_Plane_CargoMetal10.MI_Plane_CargoMetal10"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_meals_cart": {
+   "n": 1,
+   "example": "Mid_meals_cart",
+   "size": [
+    0.65,
+    0.08,
+    0.8
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ],
+    [
+     "MI_Plane_SvcGasket12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGasket12.MI_Plane_SvcGasket12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_lower_oven_door": {
+   "n": 1,
+   "example": "Mid_lower_oven_door",
+   "size": [
+    0.64,
+    0.12,
+    0.39
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcGasket12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGasket12.MI_Plane_SvcGasket12"
+    ],
+    [
+     "MI_Plane_SvcGlass12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGlass12.MI_Plane_SvcGlass12"
+    ],
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_lower_oven_power": {
+   "n": 1,
+   "example": "Mid_lower_oven_power",
+   "size": [
+    0.05,
+    0.02,
+    0.05
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcSage12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_lower_oven_heat_indicator": {
+   "n": 1,
+   "example": "Mid_lower_oven_heat_indicator",
+   "size": [
+    0.03,
+    0.01,
+    0.03
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcAmber12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcAmber12.MI_Plane_SvcAmber12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_upper_oven_door": {
+   "n": 1,
+   "example": "Mid_upper_oven_door",
+   "size": [
+    0.64,
+    0.12,
+    0.39
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcGasket12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGasket12.MI_Plane_SvcGasket12"
+    ],
+    [
+     "MI_Plane_SvcGlass12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGlass12.MI_Plane_SvcGlass12"
+    ],
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_upper_oven_power": {
+   "n": 1,
+   "example": "Mid_upper_oven_power",
+   "size": [
+    0.05,
+    0.02,
+    0.05
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcSage12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_upper_oven_heat_indicator": {
+   "n": 1,
+   "example": "Mid_upper_oven_heat_indicator",
+   "size": [
+    0.03,
+    0.01,
+    0.03
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcAmber12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcAmber12.MI_Plane_SvcAmber12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_crockery": {
+   "n": 1,
+   "example": "Mid_crockery",
+   "size": [
+    0.64,
+    0.08,
+    0.8
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ],
+    [
+     "MI_Plane_SvcGasket12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGasket12.MI_Plane_SvcGasket12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_cleaning": {
+   "n": 1,
+   "example": "Mid_cleaning",
+   "size": [
+    0.67,
+    0.08,
+    0.61
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ],
+    [
+     "MI_Plane_SvcGasket12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGasket12.MI_Plane_SvcGasket12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_cutlery_drawer": {
+   "n": 1,
+   "example": "Mid_cutlery_drawer",
+   "size": [
+    0.66,
+    0.55,
+    0.2
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcInterior12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcInterior12.MI_Plane_SvcInterior12"
+    ],
+    [
+     "MI_Plane_SvcSage12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_coffee_brew": {
+   "n": 1,
+   "example": "Mid_coffee_brew",
+   "size": [
+    0.06,
+    0.02,
+    0.06
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcSage12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_coffee_coffee_stream": {
+   "n": 1,
+   "example": "Mid_coffee_coffee_stream",
+   "size": [
+    0.01,
+    0.01,
+    0.22
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcCoffee12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCoffee12.MI_Plane_SvcCoffee12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_coffee_brew_indicator": {
+   "n": 1,
+   "example": "Mid_coffee_brew_indicator",
+   "size": [
+    0.02,
+    0.01,
+    0.02
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcGreen12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGreen12.MI_Plane_SvcGreen12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_coffee_reservoir": {
+   "n": 1,
+   "example": "Mid_coffee_reservoir",
+   "size": [
+    0.14,
+    0.08,
+    0.37
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ],
+    [
+     "MI_Plane_SvcGasket12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGasket12.MI_Plane_SvcGasket12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_wash_tap": {
+   "n": 1,
+   "example": "Mid_wash_tap",
+   "size": [
+    0.05,
+    0.02,
+    0.05
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcSage12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_wash_water_stream": {
+   "n": 1,
+   "example": "Mid_wash_water_stream",
+   "size": [
+    0.01,
+    0.01,
+    0.32
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcWater12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcWater12.MI_Plane_SvcWater12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_upper_supplies": {
+   "n": 1,
+   "example": "Mid_upper_supplies",
+   "size": [
+    0.67,
+    0.08,
+    0.41
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ],
+    [
+     "MI_Plane_SvcGasket12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGasket12.MI_Plane_SvcGasket12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Forward_dispatch_locker": {
+   "n": 1,
+   "example": "Forward_dispatch_locker",
+   "size": [
+    0.08,
+    0.56,
+    0.8
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ],
+    [
+     "MI_Plane_SvcGasket12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGasket12.MI_Plane_SvcGasket12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Forward_dispatch_drawer_1": {
+   "n": 1,
+   "example": "Forward_dispatch_drawer_1",
+   "size": [
+    0.52,
+    0.81,
+    0.27
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcInterior12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcInterior12.MI_Plane_SvcInterior12"
+    ],
+    [
+     "MI_Plane_SvcSage12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Forward_dispatch_drawer_2": {
+   "n": 1,
+   "example": "Forward_dispatch_drawer_2",
+   "size": [
+    0.52,
+    0.81,
+    0.27
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcInterior12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcInterior12.MI_Plane_SvcInterior12"
+    ],
+    [
+     "MI_Plane_SvcSage12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Forward_dispatch_drawer_3": {
+   "n": 1,
+   "example": "Forward_dispatch_drawer_3",
+   "size": [
+    0.52,
+    0.81,
+    0.27
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcInterior12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcInterior12.MI_Plane_SvcInterior12"
+    ],
+    [
+     "MI_Plane_SvcSage12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_port_service_locker": {
+   "n": 1,
+   "example": "Mid_port_service_locker",
+   "size": [
+    0.08,
+    0.57,
+    0.8
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ],
+    [
+     "MI_Plane_SvcGasket12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGasket12.MI_Plane_SvcGasket12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_port_service_drawer_1": {
+   "n": 1,
+   "example": "Mid_port_service_drawer_1",
+   "size": [
+    0.38,
+    0.83,
+    0.27
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcInterior12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcInterior12.MI_Plane_SvcInterior12"
+    ],
+    [
+     "MI_Plane_SvcSage12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_port_service_drawer_2": {
+   "n": 1,
+   "example": "Mid_port_service_drawer_2",
+   "size": [
+    0.38,
+    0.83,
+    0.27
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcInterior12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcInterior12.MI_Plane_SvcInterior12"
+    ],
+    [
+     "MI_Plane_SvcSage12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_port_service_drawer_3": {
+   "n": 1,
+   "example": "Mid_port_service_drawer_3",
+   "size": [
+    0.38,
+    0.83,
+    0.27
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcInterior12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcInterior12.MI_Plane_SvcInterior12"
+    ],
+    [
+     "MI_Plane_SvcSage12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_starboard_service_locker": {
+   "n": 1,
+   "example": "Mid_starboard_service_locker",
+   "size": [
+    0.08,
+    0.57,
+    0.8
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ],
+    [
+     "MI_Plane_SvcGasket12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGasket12.MI_Plane_SvcGasket12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_starboard_service_drawer_1": {
+   "n": 1,
+   "example": "Mid_starboard_service_drawer_1",
+   "size": [
+    0.38,
+    0.83,
+    0.27
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcInterior12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcInterior12.MI_Plane_SvcInterior12"
+    ],
+    [
+     "MI_Plane_SvcSage12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_starboard_service_drawer_2": {
+   "n": 1,
+   "example": "Mid_starboard_service_drawer_2",
+   "size": [
+    0.38,
+    0.83,
+    0.27
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcInterior12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcInterior12.MI_Plane_SvcInterior12"
+    ],
+    [
+     "MI_Plane_SvcSage12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12"
+    ]
+   ]
+  },
+  "SM_Plane_Service12_Mid_starboard_service_drawer_3": {
+   "n": 1,
+   "example": "Mid_starboard_service_drawer_3",
+   "size": [
+    0.38,
+    0.83,
+    0.27
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcInterior12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcInterior12.MI_Plane_SvcInterior12"
+    ],
+    [
+     "MI_Plane_SvcSage12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12"
+    ]
+   ]
+  },
+  "SM_Plane_ServiceInterphone12": {
+   "n": 3,
+   "example": "Mid main phone base12",
+   "size": [
+    0.19,
+    0.11,
+    0.49
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ],
+    [
+     "MI_Plane_SvcInterior12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcInterior12.MI_Plane_SvcInterior12"
+    ],
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcGlass12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGlass12.MI_Plane_SvcGlass12"
+    ],
+    [
+     "MI_Plane_SvcGasket12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGasket12.MI_Plane_SvcGasket12"
+    ]
+   ]
+  },
+  "SM_Plane_ServiceReceiver12": {
+   "n": 3,
+   "example": "Mid main phone receiver12",
+   "size": [
+    0.08,
+    0.06,
+    0.25
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcGasket12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGasket12.MI_Plane_SvcGasket12"
+    ]
+   ]
+  },
+  "SM_Plane_CrewPan12": {
+   "n": 2,
+   "example": "Crew fold pan 0112",
+   "size": [
+    0.51,
+    0.17,
+    0.56
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_DetailCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailCream12.MI_Plane_DetailCream12"
+    ],
+    [
+     "MI_Plane_DetailPad12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailPad12.MI_Plane_DetailPad12"
+    ],
+    [
+     "MI_Plane_SuitePiping11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuitePiping11.MI_Plane_SuitePiping11"
+    ],
+    [
+     "MI_Plane_DetailSteel12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailSteel12.MI_Plane_DetailSteel12"
+    ],
+    [
+     "MI_Plane_DetailRubber12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailRubber12.MI_Plane_DetailRubber12"
+    ]
+   ]
+  },
+  "SM_AP_A42PSUCarrier": {
+   "n": 40,
+   "example": "Passenger service unit 0112",
+   "size": [
+    0.33,
+    0.52,
+    0.11
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_AP_A42WarmSatin",
+     "/Game/Airport38/Materials/MI_AP_A42WarmSatin.MI_AP_A42WarmSatin"
+    ],
+    [
+     "MI_Plane_DetailNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailNavy12.MI_Plane_DetailNavy12"
+    ],
+    [
+     "MI_Plane_DetailRubber12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailRubber12.MI_Plane_DetailRubber12"
+    ],
+    [
+     "MI_Plane_DetailSteel12.002",
+     "/Game/Airport38/Materials/MI_Plane_DetailSteel12_002.MI_Plane_DetailSteel12_002"
+    ],
+    [
+     "MI_Plane_DetailOff12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailOff12.MI_Plane_DetailOff12"
+    ],
+    [
+     "MI_Plane_DetailInk12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12"
+    ]
+   ]
+  },
+  "SM_Plane_PSUGasper12": {
+   "n": 40,
+   "example": "PSU 01 Gasper12",
+   "size": [
+    0.06,
+    0.06,
+    0.05
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_DetailSteel12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailSteel12.MI_Plane_DetailSteel12"
+    ],
+    [
+     "MI_Plane_DetailRubber12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailRubber12.MI_Plane_DetailRubber12"
+    ],
+    [
+     "MI_Plane_DetailInk12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12"
+    ]
+   ]
+  },
+  "SM_Plane_PSUReadKey12": {
+   "n": 40,
+   "example": "PSU 01 ReadKey12",
+   "size": [
+    0.06,
+    0.05,
+    0.02
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_DetailNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailNavy12.MI_Plane_DetailNavy12"
+    ],
+    [
+     "MI_Plane_DetailInk12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12"
+    ]
+   ]
+  },
+  "SM_Plane_PSUCallKey12": {
+   "n": 40,
+   "example": "PSU 01 CallKey12",
+   "size": [
+    0.06,
+    0.05,
+    0.02
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_DetailNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailNavy12.MI_Plane_DetailNavy12"
+    ],
+    [
+     "MI_Plane_DetailInk12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailInk12.MI_Plane_DetailInk12"
+    ]
+   ]
+  },
+  "SM_Plane_PSUReadIndicator12": {
+   "n": 40,
+   "example": "PSU 01 ReadIndicator12",
+   "size": [
+    0.03,
+    0.01,
+    0.0
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_DetailWarm12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailWarm12.MI_Plane_DetailWarm12"
+    ]
+   ]
+  },
+  "SM_Plane_PSUCallIndicator12": {
+   "n": 40,
+   "example": "PSU 01 CallIndicator12",
+   "size": [
+    0.03,
+    0.01,
+    0.0
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_DetailCall12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailCall12.MI_Plane_DetailCall12"
+    ]
+   ]
+  },
+  "SM_Plane_PSUMount12": {
+   "n": 20,
+   "example": "Centre PSU ceiling attachment 03",
+   "size": [
+    0.22,
+    0.32,
+    0.22
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_DetailCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailCream12.MI_Plane_DetailCream12"
+    ]
+   ]
+  },
+  "SM_Plane_SafetyCard12": {
+   "n": 40,
+   "example": "Passenger safety card 0112",
+   "size": [
+    0.2,
+    0.01,
+    0.21
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_DetailPaper12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailPaper12.MI_Plane_DetailPaper12"
+    ],
+    [
+     "MI_Plane_DetailBlue12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailBlue12.MI_Plane_DetailBlue12"
+    ],
+    [
+     "MI_Plane_DetailDarkInk12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailDarkInk12.MI_Plane_DetailDarkInk12"
+    ],
+    [
+     "MI_Plane_CardGoldInk12",
+     "/Game/Art/Materials/Instances/MI_Plane_CardGoldInk12.MI_Plane_CardGoldInk12"
+    ]
+   ]
+  },
+  "SM_AP_B40ReleaseLid": {
+   "n": 4,
+   "example": "Business belt release 112",
+   "size": [
+    0.07,
+    0.01,
+    0.04
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SuiteLeather11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteLeather11.MI_Plane_SuiteLeather11"
+    ],
+    [
+     "MI_Plane_DetailSteel12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailSteel12.MI_Plane_DetailSteel12"
+    ],
+    [
+     "MI_Plane_SuiteDark11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteDark11.MI_Plane_SuiteDark11"
+    ]
+   ]
+  },
+  "SM_Plane_CrewHarnessRelease12": {
+   "n": 2,
+   "example": "Crew harness release 112",
+   "size": [
+    0.05,
+    0.01,
+    0.05
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_DetailRubber12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailRubber12.MI_Plane_DetailRubber12"
+    ]
+   ]
+  },
+  "SM_Plane_LavCupboard12_R": {
+   "n": 1,
+   "example": "Lavatory R vanity cupboard12",
+   "size": [
+    0.04,
+    0.57,
+    0.54
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_Graphite",
+     "/Game/Art/Materials/Instances/MI_Plane_Graphite.MI_Plane_Graphite"
+    ],
+    [
+     "MI_Plane_Slate",
+     "/Game/Art/Materials/Instances/MI_Plane_Slate.MI_Plane_Slate"
+    ],
+    [
+     "MI_Plane_Titanium",
+     "/Game/Art/Materials/Instances/MI_Plane_Titanium.MI_Plane_Titanium"
+    ],
+    [
+     "MI_Plane_Anodized",
+     "/Game/Art/Materials/Instances/MI_Plane_Anodized.MI_Plane_Anodized"
+    ]
+   ]
+  },
+  "SM_Plane_LavServiceCover12_R": {
+   "n": 1,
+   "example": "Lavatory R service cover12",
+   "size": [
+    0.3,
+    0.03,
+    0.39
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_ServicePearl",
+     "/Game/Art/Materials/Instances/MI_Plane_ServicePearl.MI_Plane_ServicePearl"
+    ],
+    [
+     "MI_Plane_Graphite",
+     "/Game/Art/Materials/Instances/MI_Plane_Graphite.MI_Plane_Graphite"
+    ],
+    [
+     "MI_Plane_Titanium",
+     "/Game/Art/Materials/Instances/MI_Plane_Titanium.MI_Plane_Titanium"
+    ],
+    [
+     "MI_Plane_Anodized",
+     "/Game/Art/Materials/Instances/MI_Plane_Anodized.MI_Plane_Anodized"
+    ]
+   ]
+  },
+  "SM_Plane_LavWasteFlap12_R": {
+   "n": 1,
+   "example": "Lavatory R waste flap12",
+   "size": [
+    0.25,
+    0.02,
+    0.15
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SteelDark",
+     "/Game/Art/Materials/Instances/MI_Plane_SteelDark.MI_Plane_SteelDark"
+    ],
+    [
+     "MI_Plane_Graphite",
+     "/Game/Art/Materials/Instances/MI_Plane_Graphite.MI_Plane_Graphite"
+    ]
+   ]
+  },
+  "SM_Plane_LavMixer12_R": {
+   "n": 1,
+   "example": "Lavatory R mixer lever12",
+   "size": [
+    0.07,
+    0.02,
+    0.05
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_Titanium",
+     "/Game/Art/Materials/Instances/MI_Plane_Titanium.MI_Plane_Titanium"
+    ]
+   ]
+  },
+  "SM_Plane_LavWater12_R": {
+   "n": 1,
+   "example": "Lavatory R tap water12",
+   "size": [
+    0.01,
+    0.01,
+    0.24
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_LavWater12",
+     "/Game/Art/Materials/Instances/MI_Plane_LavWater12.MI_Plane_LavWater12"
+    ]
+   ]
+  },
+  "SM_Plane_LavFlushWater12_R": {
+   "n": 1,
+   "example": "Lavatory R flush water12",
+   "size": [
+    0.3,
+    0.38,
+    0.04
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_LavWater12",
+     "/Game/Art/Materials/Instances/MI_Plane_LavWater12.MI_Plane_LavWater12"
+    ]
+   ]
+  },
+  "SM_Plane_LavToiletLid12_R": {
+   "n": 1,
+   "example": "Lavatory R toilet lid12",
+   "size": [
+    0.42,
+    0.48,
+    0.04
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_White",
+     "/Game/Art/Materials/Instances/MI_Plane_White.MI_Plane_White"
+    ]
+   ]
+  },
+  "SM_Plane_LavCupboard12_L": {
+   "n": 1,
+   "example": "Lavatory L vanity cupboard12",
+   "size": [
+    0.04,
+    0.57,
+    0.54
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_Graphite",
+     "/Game/Art/Materials/Instances/MI_Plane_Graphite.MI_Plane_Graphite"
+    ],
+    [
+     "MI_Plane_Slate",
+     "/Game/Art/Materials/Instances/MI_Plane_Slate.MI_Plane_Slate"
+    ],
+    [
+     "MI_Plane_Titanium",
+     "/Game/Art/Materials/Instances/MI_Plane_Titanium.MI_Plane_Titanium"
+    ],
+    [
+     "MI_Plane_Anodized",
+     "/Game/Art/Materials/Instances/MI_Plane_Anodized.MI_Plane_Anodized"
+    ]
+   ]
+  },
+  "SM_Plane_LavServiceCover12_L": {
+   "n": 1,
+   "example": "Lavatory L service cover12",
+   "size": [
+    0.3,
+    0.03,
+    0.39
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_ServicePearl",
+     "/Game/Art/Materials/Instances/MI_Plane_ServicePearl.MI_Plane_ServicePearl"
+    ],
+    [
+     "MI_Plane_Graphite",
+     "/Game/Art/Materials/Instances/MI_Plane_Graphite.MI_Plane_Graphite"
+    ],
+    [
+     "MI_Plane_Titanium",
+     "/Game/Art/Materials/Instances/MI_Plane_Titanium.MI_Plane_Titanium"
+    ],
+    [
+     "MI_Plane_Anodized",
+     "/Game/Art/Materials/Instances/MI_Plane_Anodized.MI_Plane_Anodized"
+    ]
+   ]
+  },
+  "SM_Plane_LavWasteFlap12_L": {
+   "n": 1,
+   "example": "Lavatory L waste flap12",
+   "size": [
+    0.25,
+    0.02,
+    0.15
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SteelDark",
+     "/Game/Art/Materials/Instances/MI_Plane_SteelDark.MI_Plane_SteelDark"
+    ],
+    [
+     "MI_Plane_Graphite",
+     "/Game/Art/Materials/Instances/MI_Plane_Graphite.MI_Plane_Graphite"
+    ]
+   ]
+  },
+  "SM_Plane_LavMixer12_L": {
+   "n": 1,
+   "example": "Lavatory L mixer lever12",
+   "size": [
+    0.07,
+    0.02,
+    0.05
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_Titanium",
+     "/Game/Art/Materials/Instances/MI_Plane_Titanium.MI_Plane_Titanium"
+    ]
+   ]
+  },
+  "SM_Plane_LavWater12_L": {
+   "n": 1,
+   "example": "Lavatory L tap water12",
+   "size": [
+    0.01,
+    0.01,
+    0.24
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_LavWater12",
+     "/Game/Art/Materials/Instances/MI_Plane_LavWater12.MI_Plane_LavWater12"
+    ]
+   ]
+  },
+  "SM_Plane_LavFlushWater12_L": {
+   "n": 1,
+   "example": "Lavatory L flush water12",
+   "size": [
+    0.3,
+    0.38,
+    0.04
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_LavWater12",
+     "/Game/Art/Materials/Instances/MI_Plane_LavWater12.MI_Plane_LavWater12"
+    ]
+   ]
+  },
+  "SM_Plane_LavToiletLid12_L": {
+   "n": 1,
+   "example": "Lavatory L toilet lid12",
+   "size": [
+    0.42,
+    0.48,
+    0.04
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_White",
+     "/Game/Art/Materials/Instances/MI_Plane_White.MI_Plane_White"
+    ]
+   ]
+  },
+  "SM_Plane_EconomyScreen12": {
+   "n": 40,
+   "example": "Economy display 03A12",
+   "size": [
+    0.41,
+    0.0,
+    0.25
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_IFE_EconomyHome12",
+     "/Game/Art/Materials/Instances/MI_Plane_IFE_EconomyHome12.MI_Plane_IFE_EconomyHome12"
+    ]
+   ]
+  },
+  "SM_Plane_EconomyBulkheadDisplay12": {
+   "n": 4,
+   "example": "Economy first-row display mount 03A12",
+   "size": [
+    0.46,
+    0.06,
+    0.31
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_Graphite",
+     "/Game/Art/Materials/Instances/MI_Plane_Graphite.MI_Plane_Graphite"
+    ],
+    [
+     "MI_Plane_Titanium",
+     "/Game/Art/Materials/Instances/MI_Plane_Titanium.MI_Plane_Titanium"
+    ],
+    [
+     "MI_Plane_ScreenBlack",
+     "/Game/Art/Materials/Instances/MI_Plane_ScreenBlack.MI_Plane_ScreenBlack"
+    ],
+    [
+     "MI_Plane_ScreenCyan",
+     "/Game/Art/Materials/Instances/MI_Plane_ScreenCyan.MI_Plane_ScreenCyan"
+    ]
+   ]
+  },
+  "SM_Plane_UtilityPanel13": {
+   "n": 1,
+   "example": "Galley utility enclosure13",
+   "size": [
+    0.48,
+    0.08,
+    0.38
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ],
+    [
+     "MI_Plane_SvcGasket12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGasket12.MI_Plane_SvcGasket12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ]
+   ]
+  },
+  "SM_Plane_UtilityKnob13_WATER": {
+   "n": 1,
+   "example": "Galley water isolation13",
+   "size": [
+    0.06,
+    0.04,
+    0.06
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcSage12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12"
+    ],
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ],
+    [
+     "MI_Plane_SvcIvory12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcIvory12.MI_Plane_SvcIvory12"
+    ]
+   ]
+  },
+  "SM_Plane_UtilityKnob13_POWER": {
+   "n": 1,
+   "example": "Galley power isolation13",
+   "size": [
+    0.06,
+    0.04,
+    0.06
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcSage12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcSage12.MI_Plane_SvcSage12"
+    ],
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ],
+    [
+     "MI_Plane_SvcIvory12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcIvory12.MI_Plane_SvcIvory12"
+    ]
+   ]
+  },
+  "SM_Plane_LavCrown13": {
+   "n": 1,
+   "example": "Lavatory fitted ceiling closures13",
+   "size": [
+    4.5,
+    2.47,
+    0.12
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcGasket12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGasket12.MI_Plane_SvcGasket12"
+    ]
+   ]
+  },
+  "SM_Plane_LavStatus13_R": {
+   "n": 1,
+   "example": "Lavatory status module R13",
+   "size": [
+    0.05,
+    0.18,
+    0.27
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ],
+    [
+     "MI_Plane_SvcGreen12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGreen12.MI_Plane_SvcGreen12"
+    ]
+   ]
+  },
+  "SM_Plane_LavLock13_R": {
+   "n": 1,
+   "example": "Lavatory occupancy R13",
+   "size": [
+    0.04,
+    0.06,
+    0.06
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ]
+   ]
+  },
+  "SM_Plane_LavFlag13_R": {
+   "n": 1,
+   "example": "Lavatory occupied shutter R13",
+   "size": [
+    0.01,
+    0.12,
+    0.05
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcRed12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcRed12.MI_Plane_SvcRed12"
+    ]
+   ]
+  },
+  "SM_Plane_LavStatus13_L": {
+   "n": 1,
+   "example": "Lavatory status module L13",
+   "size": [
+    0.05,
+    0.18,
+    0.27
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ],
+    [
+     "MI_Plane_SvcGreen12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGreen12.MI_Plane_SvcGreen12"
+    ]
+   ]
+  },
+  "SM_Plane_LavLock13_L": {
+   "n": 1,
+   "example": "Lavatory occupancy L13",
+   "size": [
+    0.04,
+    0.06,
+    0.06
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ]
+   ]
+  },
+  "SM_Plane_LavFlag13_L": {
+   "n": 1,
+   "example": "Lavatory occupied shutter L13",
+   "size": [
+    0.01,
+    0.12,
+    0.05
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcRed12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcRed12.MI_Plane_SvcRed12"
+    ]
+   ]
+  },
+  "SM_Plane_LavInsideRelease13_L": {
+   "n": 1,
+   "example": "Lavatory inside release L13",
+   "size": [
+    0.03,
+    0.16,
+    0.2
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcGreen12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGreen12.MI_Plane_SvcGreen12"
+    ]
+   ]
+  },
+  "SM_Plane_LavInsideRelease13_R": {
+   "n": 1,
+   "example": "Lavatory inside release R13",
+   "size": [
+    0.03,
+    0.16,
+    0.2
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcGreen12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcGreen12.MI_Plane_SvcGreen12"
+    ]
+   ]
+  },
+  "Cube": {
+   "n": 126,
+   "example": "COL_CrewBusiness-1",
+   "size": [
+    1.57,
+    0.1,
+    2.6
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "WorldGridMaterial",
+     "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+    ]
+   ]
+  },
+  "SM_Plane_EconomyTray17": {
+   "n": 36,
+   "example": "Economy folding tray 0117",
+   "size": [
+    0.43,
+    0.05,
+    0.32
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcCream12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcCream12.MI_Plane_SvcCream12"
+    ],
+    [
+     "MI_Plane_SvcMetal12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcMetal12.MI_Plane_SvcMetal12"
+    ],
+    [
+     "MI_Plane_SvcNavy12",
+     "/Game/Art/Materials/Instances/MI_Plane_SvcNavy12.MI_Plane_SvcNavy12"
+    ]
+   ]
+  },
+  "SM_AP_W42ShadeFrameR": {
+   "n": 21,
+   "example": "Window shade 01 R18 frame",
+   "size": [
+    0.33,
+    0.89,
+    1.3
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcMetal12.001",
+     "/Game/Airport38/Materials/MI_Plane_SvcMetal12_001.MI_Plane_SvcMetal12_001"
+    ],
+    [
+     "MI_Plane_White.001",
+     "/Game/Airport38/Materials/MI_Plane_White_001.MI_Plane_White_001"
+    ],
+    [
+     "MI_Plane_Graphite.001",
+     "/Game/Airport38/Materials/MI_Plane_Graphite_001.MI_Plane_Graphite_001"
+    ]
+   ]
+  },
+  "SM_AP_W40ShadeHandleR": {
+   "n": 21,
+   "example": "Window shade 01 R18",
+   "size": [
+    0.01,
+    0.7,
+    0.26
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_White",
+     "/Game/Art/Materials/Instances/MI_Plane_White.MI_Plane_White"
+    ],
+    [
+     "MI_Plane_Graphite",
+     "/Game/Art/Materials/Instances/MI_Plane_Graphite.MI_Plane_Graphite"
+    ]
+   ]
+  },
+  "SM_Plane_WindowShadeSlat18_R": {
+   "n": 84,
+   "example": "Window shade 01 R18 section 1",
+   "size": [
+    0.01,
+    0.7,
+    0.26
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_White",
+     "/Game/Art/Materials/Instances/MI_Plane_White.MI_Plane_White"
+    ]
+   ]
+  },
+  "SM_AP_W42ShadeFrameL": {
+   "n": 21,
+   "example": "Window shade 02 L18 frame",
+   "size": [
+    0.33,
+    0.89,
+    1.3
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_SvcMetal12.001",
+     "/Game/Airport38/Materials/MI_Plane_SvcMetal12_001.MI_Plane_SvcMetal12_001"
+    ],
+    [
+     "MI_Plane_White.001",
+     "/Game/Airport38/Materials/MI_Plane_White_001.MI_Plane_White_001"
+    ],
+    [
+     "MI_Plane_Graphite.001",
+     "/Game/Airport38/Materials/MI_Plane_Graphite_001.MI_Plane_Graphite_001"
+    ]
+   ]
+  },
+  "SM_AP_W40ShadeHandleL": {
+   "n": 21,
+   "example": "Window shade 02 L18",
+   "size": [
+    0.01,
+    0.7,
+    0.26
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_White",
+     "/Game/Art/Materials/Instances/MI_Plane_White.MI_Plane_White"
+    ],
+    [
+     "MI_Plane_Graphite",
+     "/Game/Art/Materials/Instances/MI_Plane_Graphite.MI_Plane_Graphite"
+    ]
+   ]
+  },
+  "SM_Plane_WindowShadeSlat18_L": {
+   "n": 84,
+   "example": "Window shade 02 L18 section 1",
+   "size": [
+    0.01,
+    0.7,
+    0.26
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_White",
+     "/Game/Art/Materials/Instances/MI_Plane_White.MI_Plane_White"
+    ]
+   ]
+  },
+  "SM_AP_B40LapStowed": {
+   "n": 4,
+   "example": "B40 stowed Business 01 A",
+   "size": [
+    0.66,
+    0.35,
+    0.03
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_DetailWeb12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailWeb12.MI_Plane_DetailWeb12"
+    ],
+    [
+     "MI_Plane_DetailStitch12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailStitch12.MI_Plane_DetailStitch12"
+    ],
+    [
+     "MI_Plane_DetailSteel12",
+     "/Game/Art/Materials/Instances/MI_Plane_DetailSteel12.MI_Plane_DetailSteel12"
+    ],
+    [
+     "MI_Plane_SuiteDark11",
+     "/Game/Art/Materials/Instances/MI_Plane_SuiteDark11.MI_Plane_SuiteDark11"
+    ]
+   ]
+  },
+  "SM_AP_B41LapWornGeneric": {
+   "n": 3,
+   "example": "B40 worn Business 01 A",
+   "size": [
+    0.66,
+    0.6,
+    0.15
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_DetailWeb12.001",
+     "/Game/Airport38/Materials/MI_Plane_DetailWeb12_001.MI_Plane_DetailWeb12_001"
+    ],
+    [
+     "MI_Plane_DetailStitch12.001",
+     "/Game/Airport38/Materials/MI_Plane_DetailStitch12_001.MI_Plane_DetailStitch12_001"
+    ],
+    [
+     "MI_Plane_DetailSteel12.001",
+     "/Game/Airport38/Materials/MI_Plane_DetailSteel12_001.MI_Plane_DetailSteel12_001"
+    ],
+    [
+     "MI_Plane_SuiteDark11.001",
+     "/Game/Airport38/Materials/MI_Plane_SuiteDark11_001.MI_Plane_SuiteDark11_001"
+    ]
+   ]
+  },
+  "SM_AP_B41LapWornCrew": {
+   "n": 1,
+   "example": "B40 worn Business 02 A",
+   "size": [
+    0.66,
+    0.6,
+    0.15
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_Plane_DetailWeb12.001",
+     "/Game/Airport38/Materials/MI_Plane_DetailWeb12_001.MI_Plane_DetailWeb12_001"
+    ],
+    [
+     "MI_Plane_DetailStitch12.001",
+     "/Game/Airport38/Materials/MI_Plane_DetailStitch12_001.MI_Plane_DetailStitch12_001"
+    ],
+    [
+     "MI_Plane_DetailSteel12.001",
+     "/Game/Airport38/Materials/MI_Plane_DetailSteel12_001.MI_Plane_DetailSteel12_001"
+    ],
+    [
+     "MI_Plane_SuiteDark11.001",
+     "/Game/Airport38/Materials/MI_Plane_SuiteDark11_001.MI_Plane_SuiteDark11_001"
+    ]
+   ]
+  },
+  "Plane": {
+   "n": 27,
+   "example": "P66 cabin ceiling halo 000",
+   "size": [
+    0.34,
+    4.0,
+    0.0
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "lambert1",
+     "/Game/Airport38/Pass48/Materials/MI_AP_P66HaloCeiling.MI_AP_P66HaloCeiling"
+    ]
+   ]
+  },
+  "SM_AP_P45B_Closure10": {
+   "n": 1,
+   "example": "P45 bridge closure 10",
+   "size": [
+    0.56,
+    0.11,
+    2.34
+   ],
+   "hidden": false,
+   "slots": [
+    [
+     "MI_AP_P38BShell",
+     "/Game/Airport38/Materials/MI_AP_P38BShell.MI_AP_P38BShell"
+    ],
+    [
+     "MI_AP_P38BTeal",
+     "/Game/Airport38/Materials/MI_AP_P38BTeal.MI_AP_P38BTeal"
+    ],
+    [
+     "MI_AP_P38BGlass",
+     "/Game/Airport38/Materials/MI_AP_P38BGlass.MI_AP_P38BGlass"
+    ],
+    [
+     "MI_AP_P38BTrim",
+     "/Game/Airport38/Materials/MI_AP_P38BTrim.MI_AP_P38BTrim"
+    ],
+    [
+     "MI_AP_P38BSteel",
+     "/Game/Airport38/Materials/MI_AP_P38BSteel.MI_AP_P38BSteel"
+    ]
+   ]
+  }
+ },
+ "sun": []
+}

@@ -1,0 +1,37 @@
+{
+  "passed": true,
+  "BusinessBelt40_UnitKits.blend": {
+    "required": [
+      "SM_AP_B40LuxurySeatBase",
+      "SM_AP_B40LapStowed",
+      "SM_AP_B40LapWornCrew",
+      "SM_AP_B40LapWornGeneric",
+      "SM_AP_B40ReleaseLid"
+    ],
+    "actual_saved_names_present": true,
+    "sha256": "0efe19206ca412e2944e4725f3e24942bbbf5270ccd5caa093d95935535ba00f"
+  },
+  "Window41_UnitKits.blend": {
+    "required": [
+      "SM_AP_W41WindowWallL",
+      "SM_AP_W41WindowWallR",
+      "SM_AP_W41ShadeFrameL",
+      "SM_AP_W41ShadeFrameR",
+      "SM_AP_W41RackL",
+      "SM_AP_W41RackR"
+    ],
+    "actual_saved_names_present": true,
+    "sha256": "41324274972e83c26bd548d3c2e12fea04c50c9efad1af2ac6f1ad86ee0f2a64"
+  },
+  "real_cold_apply": true,
+  "canonical_name_collisions": 5,
+  "retained_kit_objects": {
+    "SM_AP_B40LuxurySeatBase": 46,
+    "SM_AP_B40LapStowed": 85,
+    "SM_AP_B40LapWornCrew": 277,
+    "SM_AP_B40LapWornGeneric": 277,
+    "SM_AP_B40ReleaseLid": 3
+  },
+  "reapply_stable": true,
+  "records": 4
+}

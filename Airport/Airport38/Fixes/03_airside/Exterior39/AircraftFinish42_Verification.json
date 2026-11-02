@@ -1,0 +1,274 @@
+{
+  "passed": true,
+  "passes": [
+    {
+      "check": "Preserved all non-handle geometry and original ground-contact minima",
+      "assets": [
+        {
+          "asset": "SM_AP_A42PSUCarrier",
+          "preserved_geometry_parts": 32,
+          "old_minz": -0.03100000135600567,
+          "new_minz": -0.03100000135600567,
+          "old_maxz": 0.08300000429153442,
+          "new_maxz": 0.08300000429153442
+        },
+        {
+          "asset": "SM_AP_A42ExpeditionDuffel",
+          "preserved_geometry_parts": 34,
+          "old_minz": 0.0,
+          "new_minz": 0.0,
+          "old_maxz": 0.4787999987602234,
+          "new_maxz": 0.37529999017715454,
+          "handle_canvas_gap": [
+            0.00036269426345825195,
+            0.008408069610595703
+          ]
+        },
+        {
+          "asset": "SM_AP_A42Weekender",
+          "preserved_geometry_parts": 34,
+          "old_minz": 0.0,
+          "new_minz": 0.0,
+          "old_maxz": 0.34880000352859497,
+          "new_maxz": 0.24855001270771027,
+          "handle_canvas_gap": [
+            0.0003525465726852417,
+            0.008378073573112488
+          ]
+        }
+      ]
+    },
+    {
+      "check": "Actual evaluated modeled geometry",
+      "triangles": 94064,
+      "degenerates": 0
+    }
+  ],
+  "cockpit_readonly_candidates": [
+    {
+      "name": "Supported flightdeck side sill10",
+      "materials": [
+        "MI_Plane_Cabin09"
+      ],
+      "min": [
+        -1.9900000095367432,
+        -5.099999904632568,
+        0.009999990463256836
+      ],
+      "max": [
+        -1.8900001049041748,
+        -0.09999990463256836,
+        0.8299999833106995
+      ]
+    },
+    {
+      "name": "Supported flightdeck side sill10.001",
+      "materials": [
+        "MI_Plane_Cabin09"
+      ],
+      "min": [
+        1.8900001049041748,
+        -5.099999904632568,
+        0.009999990463256836
+      ],
+      "max": [
+        1.9900000095367432,
+        -0.09999990463256836,
+        0.8299999833106995
+      ]
+    },
+    {
+      "name": "Flightdeck equipment side liner11",
+      "materials": [
+        "MI_Plane_CockpitLiner11"
+      ],
+      "min": [
+        -1.8925000429153442,
+        -2.8600001335144043,
+        0.8149999976158142
+      ],
+      "max": [
+        -1.8574999570846558,
+        -0.10000002384185791,
+        2.1649999618530273
+      ]
+    },
+    {
+      "name": "Side liner lower impact rail11",
+      "materials": [
+        "MI_Plane_FunPanel10"
+      ],
+      "min": [
+        -1.8589999675750732,
+        -2.8499999046325684,
+        0.8075000047683716
+      ],
+      "max": [
+        -1.8410000801086426,
+        -0.11000001430511475,
+        0.872499942779541
+      ]
+    },
+    {
+      "name": "Side liner controlled butt seam11",
+      "materials": [
+        "MI_Plane_CabinReveal09"
+      ],
+      "min": [
+        -1.8540000915527344,
+        -0.4514999985694885,
+        0.875
+      ],
+      "max": [
+        -1.8519999980926514,
+        -0.44849997758865356,
+        2.1050000190734863
+      ]
+    },
+    {
+      "name": "Side liner controlled butt seam11.001",
+      "materials": [
+        "MI_Plane_CabinReveal09"
+      ],
+      "min": [
+        -1.8540000915527344,
+        -1.4014999866485596,
+        0.875
+      ],
+      "max": [
+        -1.8519999980926514,
+        -1.3984999656677246,
+        2.1050000190734863
+      ]
+    },
+    {
+      "name": "Side liner controlled butt seam11.002",
+      "materials": [
+        "MI_Plane_CabinReveal09"
+      ],
+      "min": [
+        -1.8540000915527344,
+        -2.4514999389648438,
+        0.875
+      ],
+      "max": [
+        -1.8519999980926514,
+        -2.448500156402588,
+        2.1050000190734863
+      ]
+    },
+    {
+      "name": "Flightdeck equipment side liner11.001",
+      "materials": [
+        "MI_Plane_CockpitLiner11"
+      ],
+      "min": [
+        1.8574999570846558,
+        -2.8600001335144043,
+        0.8149999976158142
+      ],
+      "max": [
+        1.8925000429153442,
+        -0.10000002384185791,
+        2.1649999618530273
+      ]
+    },
+    {
+      "name": "Side liner lower impact rail11.001",
+      "materials": [
+        "MI_Plane_FunPanel10"
+      ],
+      "min": [
+        1.8410000801086426,
+        -2.8499999046325684,
+        0.8075000047683716
+      ],
+      "max": [
+        1.8589999675750732,
+        -0.11000001430511475,
+        0.872499942779541
+      ]
+    },
+    {
+      "name": "Side liner controlled butt seam11.003",
+      "materials": [
+        "MI_Plane_CabinReveal09"
+      ],
+      "min": [
+        1.8519999980926514,
+        -0.4514999985694885,
+        0.875
+      ],
+      "max": [
+        1.8540000915527344,
+        -0.44849997758865356,
+        2.1050000190734863
+      ]
+    },
+    {
+      "name": "Side liner controlled butt seam11.004",
+      "materials": [
+        "MI_Plane_CabinReveal09"
+      ],
+      "min": [
+        1.8519999980926514,
+        -1.4014999866485596,
+        0.875
+      ],
+      "max": [
+        1.8540000915527344,
+        -1.3984999656677246,
+        2.1050000190734863
+      ]
+    },
+    {
+      "name": "Side liner controlled butt seam11.005",
+      "materials": [
+        "MI_Plane_CabinReveal09"
+      ],
+      "min": [
+        1.8519999980926514,
+        -2.4514999389648438,
+        0.875
+      ],
+      "max": [
+        1.8540000915527344,
+        -2.448500156402588,
+        2.1050000190734863
+      ]
+    }
+  ],
+  "details": {
+    "SM_AP_A42PSUCarrier": {
+      "warm_satin_faces": [
+        "PSU continuous formed perimeter and return12.001",
+        "PSU bored gasper face12.001",
+        "PSU bored optic face12.001",
+        "PSU through key aperture12.002",
+        "PSU through key aperture12.003"
+      ],
+      "thin_plenum_edge_rolls": [],
+      "dimensions_pivots_recesses_nozzles_unchanged": true
+    },
+    "SM_AP_A42ExpeditionDuffel": {
+      "draped_handles": [
+        "Flexible flat carry-loop webbing15.004",
+        "Flexible flat carry-loop webbing15.005"
+      ],
+      "canvas_fitted_existing_zipper_parts": 141,
+      "minimum_canvas_gap_m": 0.0005,
+      "maximum_canvas_gap_m": 0.00849966893657981,
+      "unchanged_body_and_ground_contacts": true
+    },
+    "SM_AP_A42Weekender": {
+      "draped_handles": [
+        "Flexible flat carry-loop webbing15.006",
+        "Flexible flat carry-loop webbing15.007"
+      ],
+      "canvas_fitted_existing_zipper_parts": 76,
+      "minimum_canvas_gap_m": 0.0005,
+      "maximum_canvas_gap_m": 0.008497499532164539,
+      "unchanged_body_and_ground_contacts": true
+    }
+  }
+}

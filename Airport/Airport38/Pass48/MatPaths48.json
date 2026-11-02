@@ -1,0 +1,1588 @@
+{
+ "status": "SUCCESS",
+ "slots": [
+  {
+   "actor": "Finished Grounds34",
+   "slot": 0,
+   "path": "/Game/Airport34/Materials/MI_AP_P34FieldAlt.MI_AP_P34FieldAlt",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 1.0,
+    "Specular": 0.11999999731779099,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.175,
+     0.275,
+     0.133
+    ]
+   }
+  },
+  {
+   "actor": "Finished Grounds34",
+   "slot": 1,
+   "path": "/Game/Airport34/Materials/MI_AP_P34Field.MI_AP_P34Field",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 1.0,
+    "Specular": 0.11999999731779099,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.133,
+     0.227,
+     0.109
+    ]
+   }
+  },
+  {
+   "actor": "Finished Grounds34",
+   "slot": 2,
+   "path": "/Game/Airport34/Materials/MI_AP_P34Cream.MI_AP_P34Cream",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.6899999976158142,
+    "Specular": 0.20000000298023224,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.716,
+     0.658,
+     0.533
+    ]
+   }
+  },
+  {
+   "actor": "Finished Grounds34",
+   "slot": 3,
+   "path": "/Game/Airport23/Materials/Instances/MI_AP_Soil.MI_AP_Soil",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.07000000029802322,
+    "Metallic": 0.0,
+    "Roughness": 0.949999988079071,
+    "Specular": 0.30000001192092896,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.047,
+     0.065,
+     0.051
+    ]
+   }
+  },
+  {
+   "actor": "Finished Grounds34",
+   "slot": 4,
+   "path": "/Game/Airport27/P5/Materials/MI_AP_P27Oak.MI_AP_P27Oak",
+   "parent": "/Game/Airport27/Materials/M_Surface27.M_Surface27",
+   "scalars": {
+    "NormalStrength": 0.20000000298023224,
+    "Metallic": 0.0,
+    "Specular": 0.2199999988079071
+   },
+   "textures": {
+    "ColorMap": "/Game/Airport27/Textures/T27_Oak_Color.T27_Oak_Color",
+    "DetailNormal": "/Game/Airport27/Textures/T27_Oak_Normal.T27_Oak_Normal",
+    "RoughMap": "/Game/Airport27/Textures/T27_Oak_Rough.T27_Oak_Rough"
+   },
+   "vectors": {
+    "UVScale": [
+     0.7,
+     1.3,
+     0.0
+    ],
+    "Tint": [
+     1.0,
+     1.0,
+     1.0
+    ]
+   }
+  },
+  {
+   "actor": "Finished Grounds34",
+   "slot": 5,
+   "path": "/Game/Airport34/Materials/MI_AP_P34Metal.MI_AP_P34Metal",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.550000011920929,
+    "Roughness": 0.5799999833106995,
+    "Specular": 0.20000000298023224,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.309,
+     0.381,
+     0.381
+    ]
+   }
+  },
+  {
+   "actor": "Finished Grounds34",
+   "slot": 6,
+   "path": "/Game/Airport34/Materials/MI_AP_P34Apron.MI_AP_P34Apron",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.9399999976158142,
+    "Specular": 0.11999999731779099,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.235,
+     0.275,
+     0.266
+    ]
+   }
+  },
+  {
+   "actor": "Slab12_1",
+   "slot": 0,
+   "path": "/Game/Airport12/Materials/Instances/MI_AP_Concrete.MI_AP_Concrete",
+   "parent": "/Game/Airport12/Materials/M_AP_Opaque.M_AP_Opaque",
+   "scalars": {
+    "Specular": 0.4000000059604645,
+    "Metallic": 0.0,
+    "Roughness": 0.8700000047683716,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Asphalt_Normal.T_AP_Asphalt_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.279,
+     0.337,
+     0.347
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 0,
+   "path": "/Game/Airport34/Materials/MI_AP_P34Cream.MI_AP_P34Cream",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.6899999976158142,
+    "Specular": 0.20000000298023224,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.716,
+     0.658,
+     0.533
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 1,
+   "path": "/Game/Airport34/Materials/MI_AP_P34Metal.MI_AP_P34Metal",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.550000011920929,
+    "Roughness": 0.5799999833106995,
+    "Specular": 0.20000000298023224,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.309,
+     0.381,
+     0.381
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 2,
+   "path": "/Game/Airport27/P5/Materials/MI_AP_P27Oak.MI_AP_P27Oak",
+   "parent": "/Game/Airport27/Materials/M_Surface27.M_Surface27",
+   "scalars": {
+    "NormalStrength": 0.20000000298023224,
+    "Metallic": 0.0,
+    "Specular": 0.2199999988079071
+   },
+   "textures": {
+    "ColorMap": "/Game/Airport27/Textures/T27_Oak_Color.T27_Oak_Color",
+    "DetailNormal": "/Game/Airport27/Textures/T27_Oak_Normal.T27_Oak_Normal",
+    "RoughMap": "/Game/Airport27/Textures/T27_Oak_Rough.T27_Oak_Rough"
+   },
+   "vectors": {
+    "UVScale": [
+     0.7,
+     1.3,
+     0.0
+    ],
+    "Tint": [
+     1.0,
+     1.0,
+     1.0
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 3,
+   "path": "/Game/Airport34/Materials/MI_AP_P34Navy.MI_AP_P34Navy",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.6399999856948853,
+    "Specular": 0.20000000298023224,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.022,
+     0.065,
+     0.089
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 4,
+   "path": "/Game/Airport34/Materials/MI_AP_P34Sage.MI_AP_P34Sage",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.8199999928474426,
+    "Specular": 0.20000000298023224,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.141,
+     0.266,
+     0.235
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 5,
+   "path": "/Game/Airport36/Materials/MI_AP_P36Text.MI_AP_P36Text",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.7799999713897705,
+    "Specular": 0.30000001192092896,
+    "Emission": 18.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.88,
+     0.768,
+     0.546
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 6,
+   "path": "/Game/Airport23/Materials/Instances/MI_AP_Gold.MI_AP_Gold",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.07000000029802322,
+    "Metallic": 0.0,
+    "Roughness": 0.5199999809265137,
+    "Specular": 0.30000001192092896,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.815,
+     0.468,
+     0.07
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 7,
+   "path": "/Game/Airport31/Materials/MI_AP_P27Walnut.MI_AP_P27Walnut",
+   "parent": "/Game/Airport27/Materials/M_Surface27.M_Surface27",
+   "scalars": {
+    "NormalStrength": 0.054999999701976776,
+    "Metallic": 0.0,
+    "Specular": 0.12999999523162842
+   },
+   "textures": {
+    "ColorMap": "/Game/Airport27/Textures/T27_Oak_Color.T27_Oak_Color",
+    "DetailNormal": "/Game/Airport27/Textures/T27_Oak_Normal.T27_Oak_Normal",
+    "RoughMap": "/Game/Airport27/Textures/T27_Oak_Rough.T27_Oak_Rough"
+   },
+   "vectors": {
+    "UVScale": [
+     0.7,
+     1.3,
+     0.0
+    ],
+    "Tint": [
+     0.67,
+     0.67,
+     0.67
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 8,
+   "path": "/Game/Airport27/P5/Materials/MI_AP_P27Acoustic.MI_AP_P27Acoustic",
+   "parent": "/Game/Airport27/Materials/M_Surface27.M_Surface27",
+   "scalars": {
+    "NormalStrength": 0.10000000149011612,
+    "Metallic": 0.0,
+    "Specular": 0.2199999988079071
+   },
+   "textures": {
+    "ColorMap": "/Game/Airport27/Textures/T27_Cloth_Color.T27_Cloth_Color",
+    "DetailNormal": "/Game/Airport27/Textures/T27_Cloth_Normal.T27_Cloth_Normal",
+    "RoughMap": "/Game/Airport27/Textures/T27_Cloth_Rough.T27_Cloth_Rough"
+   },
+   "vectors": {
+    "UVScale": [
+     1.6,
+     1.6,
+     0.0
+    ],
+    "Tint": [
+     1.17,
+     1.17,
+     1.17
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 9,
+   "path": "/Game/Airport30/Materials/MI_AP_P30Carpet.MI_AP_P30Carpet",
+   "parent": "/Game/Airport27/Materials/M_Surface27.M_Surface27",
+   "scalars": {
+    "NormalStrength": 0.07999999821186066,
+    "Metallic": 0.0,
+    "Specular": 0.2199999988079071
+   },
+   "textures": {
+    "ColorMap": "/Game/Airport27/Textures/T27_Cloth_Color.T27_Cloth_Color",
+    "DetailNormal": "/Game/Airport27/Textures/T27_Cloth_Normal.T27_Cloth_Normal",
+    "RoughMap": "/Game/Airport27/Textures/T27_Cloth_Rough.T27_Cloth_Rough"
+   },
+   "vectors": {
+    "UVScale": [
+     1.3,
+     1.3,
+     0.0
+    ],
+    "Tint": [
+     0.82,
+     0.9,
+     0.91
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 10,
+   "path": "/Game/Airport30/Materials/MI_AP_P30Navy.MI_AP_P30Navy",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.5600000023841858,
+    "Specular": 0.25,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.022,
+     0.07,
+     0.105
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 11,
+   "path": "/Game/Airport30/Materials/MI_AP_P30Kiosks.MI_AP_P30Kiosks",
+   "parent": "/Game/Airport27/Materials/M_Readable27.M_Readable27",
+   "scalars": {
+    "PrintEmission": 30.0,
+    "Roughness": 0.699999988079071,
+    "Specular": 0.11999999731779099
+   },
+   "textures": {
+    "Print": "/Game/Airport30/Textures/T30_Kiosks.T30_Kiosks"
+   },
+   "vectors": {}
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 12,
+   "path": "/Game/Airport30/Materials/MI_AP_P30WaitingArt.MI_AP_P30WaitingArt",
+   "parent": "/Game/Airport27/Materials/M_Readable27.M_Readable27",
+   "scalars": {
+    "PrintEmission": 18.0,
+    "Roughness": 0.699999988079071,
+    "Specular": 0.11999999731779099
+   },
+   "textures": {
+    "Print": "/Game/Airport30/Textures/T30_WaitingArt.T30_WaitingArt"
+   },
+   "vectors": {}
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 13,
+   "path": "/Game/Airport27/P5/Materials/MI_AP_P27Steel.MI_AP_P27Steel",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.7799999713897705,
+    "Roughness": 0.38999998569488525,
+    "Specular": 0.2199999988079071,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.254,
+     0.319,
+     0.337
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 14,
+   "path": "/Game/Airport27/P5/Materials/MI_AP_P27Piping.MI_AP_P27Piping",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.7900000214576721,
+    "Specular": 0.2199999988079071,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.191,
+     0.366,
+     0.337
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 15,
+   "path": "/Game/Airport27/P5/Materials/MI_AP_P27Cream.MI_AP_P27Cream",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.5299999713897705,
+    "Specular": 0.2199999988079071,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.784,
+     0.716,
+     0.571
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 16,
+   "path": "/Game/Airport27/P5/Materials/MI_AP_P27Navy.MI_AP_P27Navy",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.5600000023841858,
+    "Specular": 0.2199999988079071,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.014,
+     0.045,
+     0.08
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 17,
+   "path": "/Game/Airport27/P5/Materials/MI_AP_P27GuideCover.MI_AP_P27GuideCover",
+   "parent": "/Game/Airport27/Materials/M_Print27.M_Print27",
+   "scalars": {
+    "PrintEmission": 0.25,
+    "Roughness": 0.699999988079071,
+    "Specular": 0.11999999731779099
+   },
+   "textures": {
+    "Print": "/Game/Airport27/Textures/T27_GuideCover.T27_GuideCover"
+   },
+   "vectors": {}
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 18,
+   "path": "/Game/Airport27/P5/Materials/MI_AP_P27Rubber.MI_AP_P27Rubber",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.9300000071525574,
+    "Specular": 0.2199999988079071,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.019,
+     0.044,
+     0.05
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 19,
+   "path": "/Game/Airport34/Materials/MI_AP_P34LED.MI_AP_P34LED",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.550000011920929,
+    "Specular": 0.20000000298023224,
+    "Emission": 32.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     1.0,
+     0.799,
+     0.527
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 20,
+   "path": "/Game/Airport38/Materials/MI_AP_P38AOak.MI_AP_P38AOak",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.6399999856948853,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.423,
+     0.231,
+     0.093
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 21,
+   "path": "/Game/Airport38/Materials/MI_AP_P38AHousing.MI_AP_P38AHousing",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.10000000149011612,
+    "Roughness": 0.7200000286102295,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.045,
+     0.095,
+     0.1
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 22,
+   "path": "/Game/Airport38/Materials/MI_AP_P38EMetal.MI_AP_P38EMetal",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.550000011920929,
+    "Roughness": 0.6200000047683716,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.296,
+     0.361,
+     0.347
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 retained crafted furniture and artwork",
+   "slot": 23,
+   "path": "/Game/Airport38/Materials/MI_AP_P38ERubber.MI_AP_P38ERubber",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.9399999976158142,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.018,
+     0.033,
+     0.038
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 coherent bounded floors",
+   "slot": 0,
+   "path": "/Game/Airport38/Finish43/MI_AP_P43TFloor.MI_AP_P43TFloor",
+   "parent": "/Game/Airport38/Finish43/M_AP_Finish43_Floor.M_AP_Finish43_Floor",
+   "scalars": {
+    "MetreUVScale": 0.5,
+    "Metallic": 0.0,
+    "Specular": 0.27000001072883606
+   },
+   "textures": {
+    "FinishColourRoughness": "/Game/Airport38/Finish43/Textures/T_AP_Floor43.T_AP_Floor43"
+   },
+   "vectors": {}
+  },
+  {
+   "actor": "Airport38 coherent bounded floors",
+   "slot": 1,
+   "path": "/Game/Airport38/Finish43/MI_AP_P43TCarpet.MI_AP_P43TCarpet",
+   "parent": "/Game/Airport38/Finish43/M_AP_Finish43_Carpet.M_AP_Finish43_Carpet",
+   "scalars": {
+    "MetreUVScale": 0.5,
+    "Metallic": 0.0,
+    "Specular": 0.27000001072883606
+   },
+   "textures": {
+    "FinishColourRoughness": "/Game/Airport38/Finish43/Textures/T_AP_Carpet43.T_AP_Carpet43"
+   },
+   "vectors": {}
+  },
+  {
+   "actor": "Airport38 coherent bounded floors",
+   "slot": 2,
+   "path": "/Game/Airport38/Finish43/MI_AP_P43TWC.MI_AP_P43TWC",
+   "parent": "/Game/Airport38/Finish43/M_AP_Finish43_WC.M_AP_Finish43_WC",
+   "scalars": {
+    "MetreUVScale": 0.5,
+    "Metallic": 0.0,
+    "Specular": 0.27000001072883606
+   },
+   "textures": {
+    "FinishColourRoughness": "/Game/Airport38/Finish43/Textures/T_AP_WC43.T_AP_WC43"
+   },
+   "vectors": {}
+  },
+  {
+   "actor": "Airport38 coherent ceiling union",
+   "slot": 0,
+   "path": "/Game/Airport38/Finish43/MI_AP_P43TCeiling.MI_AP_P43TCeiling",
+   "parent": "/Game/Airport38/Finish43/M_AP_Finish43_Ceiling.M_AP_Finish43_Ceiling",
+   "scalars": {
+    "MetreUVScale": 0.25,
+    "Metallic": 0.0,
+    "Specular": 0.27000001072883606
+   },
+   "textures": {
+    "FinishColourRoughness": "/Game/Airport38/Finish43/Textures/T_AP_Ceiling43.T_AP_Ceiling43"
+   },
+   "vectors": {}
+  },
+  {
+   "actor": "Airport38 coherent roof union",
+   "slot": 0,
+   "path": "/Game/Airport38/Materials/MI_AP_P38ARoof.MI_AP_P38ARoof",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.8700000047683716,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.159,
+     0.198,
+     0.184
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 complete physical perimeter and partitions",
+   "slot": 0,
+   "path": "/Game/Airport38/Finish43/MI_AP_P43TPlaster.MI_AP_P43TPlaster",
+   "parent": "/Game/Airport38/Finish43/M_AP_Finish43_Plaster.M_AP_Finish43_Plaster",
+   "scalars": {
+    "MetreUVScale": 0.25,
+    "Metallic": 0.0,
+    "Specular": 0.27000001072883606
+   },
+   "textures": {
+    "FinishColourRoughness": "/Game/Airport38/Finish43/Textures/T_AP_Plaster43.T_AP_Plaster43"
+   },
+   "vectors": {}
+  },
+  {
+   "actor": "Airport38 complete physical perimeter and partitions",
+   "slot": 1,
+   "path": "/Game/Airport38/Materials/MI_AP_P38AFrame.MI_AP_P38AFrame",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.15000000596046448,
+    "Roughness": 0.6800000071525574,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.125,
+     0.181,
+     0.171
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 complete physical perimeter and partitions",
+   "slot": 2,
+   "path": "/Game/Airport38/Finish43/MI_AP_P43TDado.MI_AP_P43TDado",
+   "parent": "/Game/Airport38/Finish43/M_AP_Finish43_Dado.M_AP_Finish43_Dado",
+   "scalars": {
+    "Roughness": 0.7300000190734863,
+    "Metallic": 0.0,
+    "Specular": 0.27000001072883606
+   },
+   "textures": {},
+   "vectors": {
+    "BaseColor": [
+     0.156,
+     0.223,
+     0.242
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 complete physical perimeter and partitions",
+   "slot": 3,
+   "path": "/Game/Airport38/Finish43/MI_AP_P43TOak.MI_AP_P43TOak",
+   "parent": "/Game/Airport38/Finish43/M_AP_Finish43_Oak.M_AP_Finish43_Oak",
+   "scalars": {
+    "MetreUVScale": 0.5,
+    "Metallic": 0.0,
+    "Specular": 0.27000001072883606
+   },
+   "textures": {
+    "FinishColourRoughness": "/Game/Airport38/Finish43/Textures/T_AP_Oak43.T_AP_Oak43"
+   },
+   "vectors": {}
+  },
+  {
+   "actor": "Airport38 complete physical perimeter and partitions",
+   "slot": 4,
+   "path": "/Game/Airport38/Materials/MI_AP_P38ARoof.MI_AP_P38ARoof",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.8700000047683716,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.159,
+     0.198,
+     0.184
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 complete physical perimeter and partitions",
+   "slot": 5,
+   "path": "/Game/Airport38/Materials/MI_AP_P38ARubber.MI_AP_P38ARubber",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.8700000047683716,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.019,
+     0.042,
+     0.041
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 complete physical perimeter and partitions",
+   "slot": 6,
+   "path": "/Game/Airport38/Finish43/MI_AP_P43TCeiling.MI_AP_P43TCeiling",
+   "parent": "/Game/Airport38/Finish43/M_AP_Finish43_Ceiling.M_AP_Finish43_Ceiling",
+   "scalars": {
+    "MetreUVScale": 0.25,
+    "Metallic": 0.0,
+    "Specular": 0.27000001072883606
+   },
+   "textures": {
+    "FinishColourRoughness": "/Game/Airport38/Finish43/Textures/T_AP_Ceiling43.T_AP_Ceiling43"
+   },
+   "vectors": {}
+  },
+  {
+   "actor": "Airport38 exterior glazing and observation panes",
+   "slot": 0,
+   "path": "/Game/Airport38/Materials/MI_AP_P38AFrame.MI_AP_P38AFrame",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.15000000596046448,
+    "Roughness": 0.6800000071525574,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.125,
+     0.181,
+     0.171
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 exterior glazing and observation panes",
+   "slot": 1,
+   "path": "/Game/Airport38/Glazing39/MI_AP_Glass39_Terminal.MI_AP_Glass39_Terminal",
+   "parent": "/Game/Airport38/Glazing39/M_AP_QuietGlass39.M_AP_QuietGlass39",
+   "scalars": {
+    "Specular": 0.47999998927116394,
+    "Roughness": 0.18000000715255737,
+    "FaceOpacity": 0.12999999523162842,
+    "EdgeOpacity": 0.30000001192092896
+   },
+   "textures": {},
+   "vectors": {
+    "Tint": [
+     0.25,
+     0.47,
+     0.49
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 coherent covered forecourt",
+   "slot": 0,
+   "path": "/Game/Airport38/Materials/MI_AP_P38ARoof.MI_AP_P38ARoof",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.8700000047683716,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.159,
+     0.198,
+     0.184
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 coherent covered forecourt",
+   "slot": 1,
+   "path": "/Game/Airport38/Materials/MI_AP_P38AFrame.MI_AP_P38AFrame",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.15000000596046448,
+    "Roughness": 0.6800000071525574,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.125,
+     0.181,
+     0.171
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 mounted legible route cues",
+   "slot": 0,
+   "path": "/Game/Airport38/Materials/MI_AP_P38AOak.MI_AP_P38AOak",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.6399999856948853,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.423,
+     0.231,
+     0.093
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 mounted legible route cues",
+   "slot": 1,
+   "path": "/Game/Airport38/Materials/MI_AP_P38ANavy.MI_AP_P38ANavy",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.8199999928474426,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.009,
+     0.048,
+     0.06
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 mounted legible route cues",
+   "slot": 2,
+   "path": "/Game/Airport38/Materials/MI_AP_P38AText.MI_AP_P38AText",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.7200000286102295,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.888,
+     0.784,
+     0.521
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 mounted legible route cues",
+   "slot": 3,
+   "path": "/Game/Airport38/Materials/MI_AP_P38AGold.MI_AP_P38AGold",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.07999999821186066,
+    "Roughness": 0.6600000262260437,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.716,
+     0.479,
+     0.109
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 role-based down-facing practical fixtures",
+   "slot": 0,
+   "path": "/Game/Airport38/Materials/MI_AP_P38AHousing.MI_AP_P38AHousing",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.10000000149011612,
+    "Roughness": 0.7200000286102295,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.045,
+     0.095,
+     0.1
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 role-based down-facing practical fixtures",
+   "slot": 1,
+   "path": "/Game/Airport38/Materials/MI_AP_P38AOpal.MI_AP_P38AOpal",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.6499999761581421,
+    "Specular": 0.18000000715255737,
+    "Emission": 3.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     1.0,
+     0.815,
+     0.552
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 role-based down-facing practical fixtures",
+   "slot": 2,
+   "path": "/Game/Airport38/Materials/MI_AP_P38AFrame.MI_AP_P38AFrame",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.15000000596046448,
+    "Roughness": 0.6800000071525574,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.125,
+     0.181,
+     0.171
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 verified architectural attachments",
+   "slot": 0,
+   "path": "/Game/Airport38/Materials/MI_AP_P38AFrame.MI_AP_P38AFrame",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.15000000596046448,
+    "Roughness": 0.6800000071525574,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.125,
+     0.181,
+     0.171
+    ]
+   }
+  },
+  {
+   "actor": "Airport38 verified architectural attachments",
+   "slot": 1,
+   "path": "/Game/Airport38/Materials/MI_AP_P38ANavy.MI_AP_P38ANavy",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.8199999928474426,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.009,
+     0.048,
+     0.06
+    ]
+   }
+  },
+  {
+   "actor": "Airport39 fitted room transitions",
+   "slot": 0,
+   "path": "/Game/Airport38/Materials/MI_AP_P39FOak.MI_AP_P39FOak",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.6299999952316284,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.413,
+     0.22,
+     0.098
+    ]
+   }
+  },
+  {
+   "actor": "Airport39 fitted room transitions",
+   "slot": 1,
+   "path": "/Game/Airport38/Materials/MI_AP_P39FMetal.MI_AP_P39FMetal",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.30000001192092896,
+    "Roughness": 0.49000000953674316,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.178,
+     0.258,
+     0.262
+    ]
+   }
+  },
+  {
+   "actor": "Airport39 fitted room transitions",
+   "slot": 2,
+   "path": "/Game/Airport38/Materials/MI_AP_P39FNavy.MI_AP_P39FNavy",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.7099999785423279,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.018,
+     0.05,
+     0.07
+    ]
+   }
+  },
+  {
+   "actor": "Airport39 restrained route hierarchy",
+   "slot": 0,
+   "path": "/Game/Airport38/Materials/MI_AP_P39FGold.MI_AP_P39FGold",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.11999999731779099,
+    "Roughness": 0.6000000238418579,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.694,
+     0.468,
+     0.153
+    ]
+   }
+  },
+  {
+   "actor": "Airport39 restrained route hierarchy",
+   "slot": 1,
+   "path": "/Game/Airport38/Materials/MI_AP_P39FOak.MI_AP_P39FOak",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.6299999952316284,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.413,
+     0.22,
+     0.098
+    ]
+   }
+  },
+  {
+   "actor": "Airport39 restrained route hierarchy",
+   "slot": 2,
+   "path": "/Game/Airport38/Materials/MI_AP_P39FNavy.MI_AP_P39FNavy",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.7099999785423279,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.018,
+     0.05,
+     0.07
+    ]
+   }
+  },
+  {
+   "actor": "Airport39 restrained route hierarchy",
+   "slot": 3,
+   "path": "/Game/Airport38/Materials/MI_AP_P39FText.MI_AP_P39FText",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.0,
+    "Roughness": 0.7200000286102295,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.871,
+     0.791,
+     0.604
+    ]
+   }
+  },
+  {
+   "actor": "Airport39 restrained route hierarchy",
+   "slot": 4,
+   "path": "/Game/Airport38/Materials/MI_AP_P39FMetal.MI_AP_P39FMetal",
+   "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23",
+   "scalars": {
+    "NormalStrength": 0.0,
+    "Metallic": 0.30000001192092896,
+    "Roughness": 0.49000000953674316,
+    "Specular": 0.18000000715255737,
+    "Emission": 0.0
+   },
+   "textures": {
+    "DetailNormal": "/Game/Airport12/Textures/T_AP_Polymer_Normal.T_AP_Polymer_Normal"
+   },
+   "vectors": {
+    "BaseColor": [
+     0.178,
+     0.258,
+     0.262
+    ]
+   }
+  },
+  {
+   "actor": "Airport43 fitted public wall finishes",
+   "slot": 0,
+   "path": "/Game/Airport38/Finish43/MI_AP_P43TReveal.MI_AP_P43TReveal",
+   "parent": "/Game/Airport38/Finish43/M_AP_Finish43_Reveal.M_AP_Finish43_Reveal",
+   "scalars": {
+    "Roughness": 0.8299999833106995,
+    "Metallic": 0.0,
+    "Specular": 0.27000001072883606
+   },
+   "textures": {},
+   "vectors": {
+    "BaseColor": [
+     0.314,
+     0.328,
+     0.283
+    ]
+   }
+  },
+  {
+   "actor": "Airport43 fitted public wall finishes",
+   "slot": 1,
+   "path": "/Game/Airport38/Finish43/MI_AP_P43TPlaster.MI_AP_P43TPlaster",
+   "parent": "/Game/Airport38/Finish43/M_AP_Finish43_Plaster.M_AP_Finish43_Plaster",
+   "scalars": {
+    "MetreUVScale": 0.25,
+    "Metallic": 0.0,
+    "Specular": 0.27000001072883606
+   },
+   "textures": {
+    "FinishColourRoughness": "/Game/Airport38/Finish43/Textures/T_AP_Plaster43.T_AP_Plaster43"
+   },
+   "vectors": {}
+  },
+  {
+   "actor": "Airport43 fitted public wall finishes",
+   "slot": 2,
+   "path": "/Game/Airport38/Finish43/MI_AP_P43TPlasterWarm.MI_AP_P43TPlasterWarm",
+   "parent": "/Game/Airport38/Finish43/M_AP_Finish43_PlasterWarm.M_AP_Finish43_PlasterWarm",
+   "scalars": {
+    "MetreUVScale": 0.25,
+    "Metallic": 0.0,
+    "Specular": 0.27000001072883606
+   },
+   "textures": {
+    "FinishColourRoughness": "/Game/Airport38/Finish43/Textures/T_AP_PlasterWarm43.T_AP_PlasterWarm43"
+   },
+   "vectors": {}
+  },
+  {
+   "actor": "Airport43 fitted public wall finishes",
+   "slot": 3,
+   "path": "/Game/Airport38/Finish43/MI_AP_P43TOak.MI_AP_P43TOak",
+   "parent": "/Game/Airport38/Finish43/M_AP_Finish43_Oak.M_AP_Finish43_Oak",
+   "scalars": {
+    "MetreUVScale": 0.5,
+    "Metallic": 0.0,
+    "Specular": 0.27000001072883606
+   },
+   "textures": {
+    "FinishColourRoughness": "/Game/Airport38/Finish43/Textures/T_AP_Oak43.T_AP_Oak43"
+   },
+   "vectors": {}
+  },
+  {
+   "actor": "Airport43 baggage service backdrop",
+   "slot": 0,
+   "path": "/Game/Airport38/Finish43/MI_AP_P43TPlasterWarm.MI_AP_P43TPlasterWarm",
+   "parent": "/Game/Airport38/Finish43/M_AP_Finish43_PlasterWarm.M_AP_Finish43_PlasterWarm",
+   "scalars": {
+    "MetreUVScale": 0.25,
+    "Metallic": 0.0,
+    "Specular": 0.27000001072883606
+   },
+   "textures": {
+    "FinishColourRoughness": "/Game/Airport38/Finish43/Textures/T_AP_PlasterWarm43.T_AP_PlasterWarm43"
+   },
+   "vectors": {}
+  },
+  {
+   "actor": "Airport43 baggage service backdrop",
+   "slot": 1,
+   "path": "/Game/Airport38/Finish43/MI_AP_P43TOak.MI_AP_P43TOak",
+   "parent": "/Game/Airport38/Finish43/M_AP_Finish43_Oak.M_AP_Finish43_Oak",
+   "scalars": {
+    "MetreUVScale": 0.5,
+    "Metallic": 0.0,
+    "Specular": 0.27000001072883606
+   },
+   "textures": {
+    "FinishColourRoughness": "/Game/Airport38/Finish43/Textures/T_AP_Oak43.T_AP_Oak43"
+   },
+   "vectors": {}
+  },
+  {
+   "actor": "Airport43 baggage service backdrop",
+   "slot": 2,
+   "path": "/Game/Airport38/Finish43/MI_AP_P43TDado.MI_AP_P43TDado",
+   "parent": "/Game/Airport38/Finish43/M_AP_Finish43_Dado.M_AP_Finish43_Dado",
+   "scalars": {
+    "Roughness": 0.7300000190734863,
+    "Metallic": 0.0,
+    "Specular": 0.27000001072883606
+   },
+   "textures": {},
+   "vectors": {
+    "BaseColor": [
+     0.156,
+     0.223,
+     0.242
+    ]
+   }
+  },
+  {
+   "actor": "Airport43 baggage service backdrop",
+   "slot": 3,
+   "path": "/Game/Airport38/Finish43/MI_AP_P43TMetal.MI_AP_P43TMetal",
+   "parent": "/Game/Airport38/Finish43/M_AP_Finish43_Metal.M_AP_Finish43_Metal",
+   "scalars": {
+    "Roughness": 0.4300000071525574,
+    "Metallic": 0.3799999952316284,
+    "Specular": 0.27000001072883606
+   },
+   "textures": {},
+   "vectors": {
+    "BaseColor": [
+     0.246,
+     0.314,
+     0.319
+    ]
+   }
+  },
+  {
+   "actor": "Airport43 baggage service backdrop",
+   "slot": 4,
+   "path": "/Game/Airport38/Finish43/MI_AP_P43TText.MI_AP_P43TText",
+   "parent": "/Game/Airport38/Finish43/M_AP_Finish43_Text.M_AP_Finish43_Text",
+   "scalars": {
+    "Roughness": 0.7599999904632568,
+    "Metallic": 0.0,
+    "Specular": 0.27000001072883606
+   },
+   "textures": {},
+   "vectors": {
+    "BaseColor": [
+     0.88,
+     0.807,
+     0.658
+    ]
+   }
+  }
+ ]
+}

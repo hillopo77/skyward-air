@@ -1,0 +1,41 @@
+{
+ "status": "SUCCESS",
+ "sounds": [
+  [
+   "SFX66_Bonk",
+   0.25
+  ],
+  [
+   "SFX66_Clang",
+   0.6
+  ],
+  [
+   "SFX66_Equip",
+   0.12
+  ],
+  [
+   "SFX66_Grab",
+   0.1
+  ],
+  [
+   "SFX66_Hop",
+   0.26
+  ],
+  [
+   "SFX66_Land",
+   0.22
+  ],
+  [
+   "SFX66_Sip",
+   0.45
+  ],
+  [
+   "SFX66_Slide",
+   0.6
+  ],
+  [
+   "SFX66_Throw",
+   0.3
+  ]
+ ]
+}

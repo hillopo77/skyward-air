@@ -1,0 +1,61 @@
+{
+ "jobs": [
+  {
+   "build": "../Pass51/Lounge62HardBuild.json",
+   "label": "Airport62 gate lounges",
+   "folder": "Airport38/Pass62",
+   "collision": "complex"
+  },
+  {
+   "build": "../Pass51/Lounge62SoftBuild.json",
+   "label": "Airport62 gate lounge upholstery",
+   "folder": "Airport38/Pass62",
+   "collision": "complex"
+  },
+  {
+   "build": "../Pass51/Lounge62FloorBuild.json",
+   "label": "Airport62 gate lounge floors",
+   "folder": "Airport38/Pass62",
+   "collision": "none"
+  },
+  {
+   "build": "../Pass51/Lounge62GalleryBuild.json",
+   "label": "Airport63 gallery lounge",
+   "folder": "Airport38/Pass63",
+   "collision": "complex"
+  },
+  {
+   "build": "../Pass51/Lounge62GallerysoftBuild.json",
+   "label": "Airport63 gallery upholstery",
+   "folder": "Airport38/Pass63",
+   "collision": "complex"
+  },
+  {
+   "build": "../Pass51/Lounge62GalleryfloorBuild.json",
+   "label": "Airport63 gallery rug",
+   "folder": "Airport38/Pass63",
+   "collision": "none"
+  },
+  {
+   "build": "../Pass51/Rooms70HardBuild.json",
+   "label": "Airport70 security and washrooms",
+   "folder": "Airport38/Pass70",
+   "collision": "complex"
+  },
+  {
+   "build": "../Pass51/Rooms70SoftBuild.json",
+   "label": "Airport70 room upholstery",
+   "folder": "Airport38/Pass70",
+   "collision": "complex"
+  },
+  {
+   "build": "../Pass51/Rooms70FloorBuild.json",
+   "label": "Airport70 room floors",
+   "folder": "Airport38/Pass70",
+   "collision": "none"
+  }
+ ],
+ "hide": [],
+ "show": [],
+ "actors": []
+}

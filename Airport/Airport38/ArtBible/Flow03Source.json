@@ -1,0 +1,1507 @@
+{
+  "status": "SUCCESS",
+  "passes": [
+    {
+      "module": "Fixes/01_architecture/Flow39/flow39.py",
+      "result": {
+        "status": "IMPLEMENTED_SOURCE_REQUIRES_NATIVE_VALIDATION",
+        "asset_ids": [
+          "SM_AP_Attachments38",
+          "SM_AP_Ceilings38",
+          "SM_AP_Floors38",
+          "SM_AP_GalleryStair35",
+          "SM_AP_Glazing38",
+          "SM_AP_RetainedCraft38",
+          "SM_AP_Roofs38",
+          "SM_AP_RouteHierarchy39",
+          "SM_AP_Transitions39",
+          "SM_AP_Walls38",
+          "SM_AP_Wayfinding38"
+        ],
+        "passes": [
+          {
+            "id": 1,
+            "name": "Structural reconstruction",
+            "roof_steps": [
+              {
+                "axis": "x",
+                "k": -18,
+                "interval": [
+                  -49,
+                  -43
+                ],
+                "z": [
+                  3.7600000000000002,
+                  3.96
+                ],
+                "members": [
+                  "publicreturn",
+                  "entrancefoyer"
+                ]
+              },
+              {
+                "axis": "x",
+                "k": -18,
+                "interval": [
+                  -43,
+                  -26
+                ],
+                "z": [
+                  3.96,
+                  4.16
+                ],
+                "members": [
+                  "publicreturn",
+                  "checkin"
+                ]
+              },
+              {
+                "axis": "x",
+                "k": -8,
+                "interval": [
+                  -49,
+                  -43
+                ],
+                "z": [
+                  3.7600000000000002,
+                  3.96
+                ],
+                "members": [
+                  "entrancefoyer",
+                  "landsidecorridor"
+                ]
+              },
+              {
+                "axis": "x",
+                "k": -8,
+                "interval": [
+                  -43,
+                  -26
+                ],
+                "z": [
+                  3.96,
+                  4.16
+                ],
+                "members": [
+                  "checkin",
+                  "landsidecorridor"
+                ]
+              },
+              {
+                "axis": "y",
+                "k": -43,
+                "interval": [
+                  -18,
+                  -8
+                ],
+                "z": [
+                  3.96,
+                  4.16
+                ],
+                "members": [
+                  "entrancefoyer",
+                  "checkin"
+                ]
+              },
+              {
+                "axis": "y",
+                "k": -26,
+                "interval": [
+                  -18,
+                  -12
+                ],
+                "z": [
+                  3.96,
+                  4.16
+                ],
+                "members": [
+                  "checkin",
+                  "baggageservice"
+                ]
+              },
+              {
+                "axis": "y",
+                "k": -26,
+                "interval": [
+                  -12,
+                  -8
+                ],
+                "z": [
+                  3.96,
+                  4.16
+                ],
+                "members": [
+                  "checkin",
+                  "amenitylobby"
+                ]
+              },
+              {
+                "axis": "y",
+                "k": -26,
+                "interval": [
+                  -8,
+                  -4
+                ],
+                "z": [
+                  3.56,
+                  3.76
+                ],
+                "members": [
+                  "landsidecorridor",
+                  "amenitylobby"
+                ]
+              },
+              {
+                "axis": "y",
+                "k": -26,
+                "interval": [
+                  -4,
+                  -1
+                ],
+                "z": [
+                  3.56,
+                  3.76
+                ],
+                "members": [
+                  "concourse",
+                  "amenitylobby"
+                ]
+              },
+              {
+                "axis": "x",
+                "k": -4,
+                "interval": [
+                  -49,
+                  -36
+                ],
+                "z": [
+                  3.66,
+                  3.86
+                ],
+                "members": [
+                  "landsidecorridor",
+                  "security"
+                ]
+              },
+              {
+                "axis": "x",
+                "k": 10,
+                "interval": [
+                  -49,
+                  -38
+                ],
+                "z": [
+                  3.66,
+                  3.86
+                ],
+                "members": [
+                  "security",
+                  "operations"
+                ]
+              },
+              {
+                "axis": "x",
+                "k": 10,
+                "interval": [
+                  -38,
+                  -36
+                ],
+                "z": [
+                  3.66,
+                  3.86
+                ],
+                "members": [
+                  "security",
+                  "cafefoyer"
+                ]
+              },
+              {
+                "axis": "y",
+                "k": -36,
+                "interval": [
+                  0,
+                  10
+                ],
+                "z": [
+                  3.66,
+                  3.86
+                ],
+                "members": [
+                  "security",
+                  "recovery"
+                ]
+              },
+              {
+                "axis": "y",
+                "k": -32,
+                "interval": [
+                  14,
+                  16
+                ],
+                "z": [
+                  3.96,
+                  4.16
+                ],
+                "members": [
+                  "cafefoyer",
+                  "gate08"
+                ]
+              },
+              {
+                "axis": "y",
+                "k": -32,
+                "interval": [
+                  16,
+                  34
+                ],
+                "z": [
+                  6.96,
+                  7.16
+                ],
+                "members": [
+                  "cafe",
+                  "gate08"
+                ]
+              },
+              {
+                "axis": "x",
+                "k": 14,
+                "interval": [
+                  -32,
+                  -26
+                ],
+                "z": [
+                  3.96,
+                  4.16
+                ],
+                "members": [
+                  "concourse",
+                  "gate08"
+                ]
+              },
+              {
+                "axis": "x",
+                "k": -3,
+                "interval": [
+                  -23,
+                  -14
+                ],
+                "z": [
+                  3.56,
+                  3.76
+                ],
+                "members": [
+                  "amenities",
+                  "gate07"
+                ]
+              },
+              {
+                "axis": "y",
+                "k": -23,
+                "interval": [
+                  -12,
+                  -3
+                ],
+                "z": [
+                  3.16,
+                  3.36
+                ],
+                "members": [
+                  "amenitylobby",
+                  "amenities"
+                ]
+              },
+              {
+                "axis": "y",
+                "k": -23,
+                "interval": [
+                  -3,
+                  -1
+                ],
+                "z": [
+                  3.56,
+                  3.76
+                ],
+                "members": [
+                  "amenitylobby",
+                  "gate07"
+                ]
+              },
+              {
+                "axis": "x",
+                "k": 16,
+                "interval": [
+                  -49,
+                  -38
+                ],
+                "z": [
+                  6.96,
+                  7.16
+                ],
+                "members": [
+                  "operations",
+                  "cafe"
+                ]
+              },
+              {
+                "axis": "x",
+                "k": 16,
+                "interval": [
+                  -38,
+                  -32
+                ],
+                "z": [
+                  6.96,
+                  7.16
+                ],
+                "members": [
+                  "cafefoyer",
+                  "cafe"
+                ]
+              },
+              {
+                "axis": "y",
+                "k": -38,
+                "interval": [
+                  10,
+                  16
+                ],
+                "z": [
+                  3.56,
+                  3.76
+                ],
+                "members": [
+                  "operations",
+                  "cafefoyer"
+                ]
+              },
+              {
+                "axis": "x",
+                "k": -12,
+                "interval": [
+                  -26,
+                  -23
+                ],
+                "z": [
+                  3.3600000000000003,
+                  3.56
+                ],
+                "members": [
+                  "baggageservice",
+                  "amenitylobby"
+                ]
+              },
+              {
+                "axis": "x",
+                "k": -12,
+                "interval": [
+                  -23,
+                  -22
+                ],
+                "z": [
+                  3.3600000000000003,
+                  3.56
+                ],
+                "members": [
+                  "baggageservice",
+                  "amenities"
+                ]
+              },
+              {
+                "axis": "x",
+                "k": -12,
+                "interval": [
+                  -22,
+                  -14
+                ],
+                "z": [
+                  3.7600000000000002,
+                  3.96
+                ],
+                "members": [
+                  "arrivals",
+                  "amenities"
+                ]
+              },
+              {
+                "axis": "x",
+                "k": -1,
+                "interval": [
+                  -26,
+                  -23
+                ],
+                "z": [
+                  3.56,
+                  3.76
+                ],
+                "members": [
+                  "amenitylobby",
+                  "gate07entry"
+                ]
+              },
+              {
+                "axis": "x",
+                "k": -18.5,
+                "interval": [
+                  -25,
+                  -22
+                ],
+                "z": [
+                  3.7600000000000002,
+                  3.96
+                ],
+                "members": [
+                  "arrivalsreturn",
+                  "baggageservice"
+                ]
+              },
+              {
+                "axis": "y",
+                "k": -22,
+                "interval": [
+                  -18.5,
+                  -12
+                ],
+                "z": [
+                  3.7600000000000002,
+                  3.96
+                ],
+                "members": [
+                  "baggageservice",
+                  "arrivals"
+                ]
+              },
+              {
+                "axis": "y",
+                "k": -25,
+                "interval": [
+                  -22,
+                  -18.5
+                ],
+                "z": [
+                  3.7600000000000002,
+                  3.96
+                ],
+                "members": [
+                  "publicreturneast",
+                  "arrivalsreturn"
+                ]
+              }
+            ],
+            "shell_input_solids": 774,
+            "frame_input_solids": 67,
+            "welded_frame_objects": 1,
+            "merged_panes": 13,
+            "removed_attachment_fascias": [
+              "Gallery dining soffit closed lower fascia38",
+              "Gallery dining soffit closed upper fascia38"
+            ],
+            "findings": [
+              "AT11",
+              "AT12",
+              "AT08_integrated"
+            ]
+          },
+          {
+            "id": 2,
+            "name": "Distinct natural openings",
+            "portals": [
+              {
+                "id": "WelcomeCheckin",
+                "axis": "y",
+                "k": -43,
+                "c": -15,
+                "w": 2.6,
+                "H": 2.8,
+                "left": 0.3,
+                "right": 0.3,
+                "depth": 0.28,
+                "material": "Oak",
+                "role": "warm wide check-in arrival"
+              },
+              {
+                "id": "A07",
+                "axis": "y",
+                "k": -26,
+                "c": 4,
+                "w": 3.8,
+                "H": 3.12,
+                "left": 0.32,
+                "right": 0.32,
+                "depth": 0.26,
+                "material": "Oak",
+                "role": "broad lounge opening"
+              },
+              {
+                "id": "A08",
+                "axis": "x",
+                "k": 14,
+                "c": -29,
+                "w": 4.8,
+                "H": 3.12,
+                "left": 0.44,
+                "right": 0.18,
+                "depth": 0.24,
+                "material": "Navy",
+                "role": "wide asymmetric north lounge"
+              },
+              {
+                "id": "Cafe",
+                "axis": "y",
+                "k": -32,
+                "c": 12,
+                "w": 3.6,
+                "H": 3.12,
+                "left": 0.14,
+                "right": 0.43,
+                "depth": 0.27,
+                "material": "Oak",
+                "role": "hospitality reveal on turn"
+              },
+              {
+                "id": "Recovery",
+                "axis": "y",
+                "k": -32,
+                "c": 6.5,
+                "w": 3.2,
+                "H": 3.4,
+                "left": 0.2,
+                "right": 0.2,
+                "depth": 0.22,
+                "material": "Navy",
+                "role": "open circulation release"
+              },
+              {
+                "id": "WC",
+                "axis": "y",
+                "k": -26,
+                "c": -3,
+                "w": 1.8,
+                "H": 2.8,
+                "left": 0.16,
+                "right": 0.16,
+                "depth": 0.21,
+                "material": "Metal",
+                "role": "quiet recessed amenity entrance"
+              }
+            ],
+            "clear_walking_height_m": 2.36,
+            "shaped_corner_parts": [
+              "WelcomeCheckin constructed curved aperture corner39 left",
+              "WelcomeCheckin constructed curved aperture corner39 right",
+              "A07 constructed curved aperture corner39 left",
+              "A07 constructed curved aperture corner39 right",
+              "A08 constructed curved aperture corner39 left",
+              "A08 constructed curved aperture corner39 right",
+              "Cafe constructed curved aperture corner39 left",
+              "Cafe constructed curved aperture corner39 right",
+              "Recovery constructed curved aperture corner39 left",
+              "Recovery constructed curved aperture corner39 right",
+              "WC constructed curved aperture corner39 left",
+              "WC constructed curved aperture corner39 right"
+            ],
+            "footprint_changes": false,
+            "sightline_sectioning_retained": true
+          },
+          {
+            "id": 3,
+            "name": "Modeled fit and craftsmanship",
+            "reveals": [
+              {
+                "id": "WelcomeCheckin",
+                "clear_width": 2.592,
+                "lining_depth": 0.28,
+                "top_corner_radii": [
+                  0.3,
+                  0.3
+                ]
+              },
+              {
+                "id": "A07",
+                "clear_width": 3.792,
+                "lining_depth": 0.26,
+                "top_corner_radii": [
+                  0.32,
+                  0.32
+                ]
+              },
+              {
+                "id": "A08",
+                "clear_width": 4.792,
+                "lining_depth": 0.24,
+                "top_corner_radii": [
+                  0.44,
+                  0.18
+                ]
+              },
+              {
+                "id": "Cafe",
+                "clear_width": 3.592,
+                "lining_depth": 0.27,
+                "top_corner_radii": [
+                  0.14,
+                  0.43
+                ]
+              },
+              {
+                "id": "Recovery",
+                "clear_width": 3.192,
+                "lining_depth": 0.22,
+                "top_corner_radii": [
+                  0.2,
+                  0.2
+                ]
+              },
+              {
+                "id": "WC",
+                "clear_width": 1.792,
+                "lining_depth": 0.21,
+                "top_corner_radii": [
+                  0.16,
+                  0.16
+                ]
+              }
+            ],
+            "removed_obsolete_posts_and_route": [
+              "Threshold fitted oak reveal38",
+              "Threshold fitted oak reveal38.001",
+              "Threshold fitted oak reveal38.002",
+              "Threshold fitted oak reveal38.003",
+              "Threshold fitted oak reveal38.004",
+              "Threshold fitted oak reveal38.005",
+              "Final gold route38"
+            ],
+            "continuous_manufactured_sections": true
+          },
+          {
+            "id": 4,
+            "name": "Route, material and scale hierarchy",
+            "route": [
+              [
+                -38,
+                6.5
+              ],
+              [
+                -29,
+                6.5
+              ],
+              [
+                -29,
+                4
+              ],
+              [
+                -26,
+                4
+              ],
+              [
+                -22.2,
+                4
+              ],
+              [
+                -19,
+                1.8
+              ],
+              [
+                -15.9,
+                0.675
+              ],
+              [
+                -14,
+                0.675
+              ]
+            ],
+            "new_mounted_signs": [
+              {
+                "id": "A08_to_north",
+                "p": [
+                  -26.12,
+                  10.15,
+                  2.05
+                ],
+                "normal": [
+                  -1,
+                  0
+                ],
+                "w": 1.45,
+                "h": 0.76,
+                "body": [
+                  [
+                    "A08",
+                    0.15,
+                    0.25
+                  ],
+                  [
+                    "NORTH LOUNGE",
+                    -0.16,
+                    0.105
+                  ]
+                ]
+              }
+            ],
+            "retained_room_palette": "Warm oak / navy / quiet teal / warm stone",
+            "airborne_signs_added": 0,
+            "freestanding_directories_added": 0
+          },
+          {
+            "id": 5,
+            "name": "Final assembly fit and sightline scrutiny",
+            "socket_fits": [
+              {
+                "part": "WelcomeCheckin fitted luggage corner socket39",
+                "shift_toward_aperture_m": 0.007
+              },
+              {
+                "part": "WelcomeCheckin fitted luggage corner socket39.001",
+                "shift_toward_aperture_m": 0.007
+              },
+              {
+                "part": "A07 fitted luggage corner socket39",
+                "shift_toward_aperture_m": 0.007
+              },
+              {
+                "part": "A07 fitted luggage corner socket39.001",
+                "shift_toward_aperture_m": 0.007
+              },
+              {
+                "part": "A08 fitted luggage corner socket39",
+                "shift_toward_aperture_m": 0.007
+              },
+              {
+                "part": "A08 fitted luggage corner socket39.001",
+                "shift_toward_aperture_m": 0.007
+              },
+              {
+                "part": "Cafe fitted luggage corner socket39",
+                "shift_toward_aperture_m": 0.007
+              },
+              {
+                "part": "Cafe fitted luggage corner socket39.001",
+                "shift_toward_aperture_m": 0.007
+              },
+              {
+                "part": "Recovery fitted luggage corner socket39",
+                "shift_toward_aperture_m": 0.007
+              },
+              {
+                "part": "Recovery fitted luggage corner socket39.001",
+                "shift_toward_aperture_m": 0.007
+              },
+              {
+                "part": "WC fitted luggage corner socket39",
+                "shift_toward_aperture_m": 0.007
+              },
+              {
+                "part": "WC fitted luggage corner socket39.001",
+                "shift_toward_aperture_m": 0.007
+              }
+            ],
+            "independent_fit_repairs": [
+              {
+                "part": "CLOUD NINE.010",
+                "repair": "Remove obsolete floating title that overlapped mounted cafe plaque"
+              },
+              {
+                "part": "Fitted upper lounge carpet35",
+                "repair": "Bound carpet edge radius3mm fits actual15mm thickness, eliminating collapsed bevel faces"
+              },
+              {
+                "part": "Closed stair riser35",
+                "repair": "Riser terminates at actual tread underside",
+                "before_top": 0.17499999701976776,
+                "after_top": 0.04499999701976776
+              },
+              {
+                "part": "Closed stair riser35.001",
+                "repair": "Riser terminates at actual tread underside",
+                "before_top": 0.3499999940395355,
+                "after_top": 0.21999999403953552
+              },
+              {
+                "part": "Closed stair riser35.002",
+                "repair": "Riser terminates at actual tread underside",
+                "before_top": 0.5249999761581421,
+                "after_top": 0.3949999761581421
+              },
+              {
+                "part": "Closed stair riser35.003",
+                "repair": "Riser terminates at actual tread underside",
+                "before_top": 0.699999988079071,
+                "after_top": 0.569999988079071
+              },
+              {
+                "part": "Closed stair riser35.004",
+                "repair": "Riser terminates at actual tread underside",
+                "before_top": 0.875,
+                "after_top": 0.745
+              },
+              {
+                "part": "Closed stair riser35.005",
+                "repair": "Riser terminates at actual tread underside",
+                "before_top": 1.0499999523162842,
+                "after_top": 0.9199999523162842
+              },
+              {
+                "part": "Closed stair riser35.006",
+                "repair": "Riser terminates at actual tread underside",
+                "before_top": 1.225000023841858,
+                "after_top": 1.095000023841858
+              },
+              {
+                "part": "Closed stair riser35.007",
+                "repair": "Riser terminates at actual tread underside",
+                "before_top": 1.399999976158142,
+                "after_top": 1.2699999761581422
+              },
+              {
+                "part": "Closed stair riser35.008",
+                "repair": "Riser terminates at actual tread underside",
+                "before_top": 1.5750000476837158,
+                "after_top": 1.445000047683716
+              },
+              {
+                "part": "Closed stair riser35.009",
+                "repair": "Riser terminates at actual tread underside",
+                "before_top": 1.75,
+                "after_top": 1.62
+              },
+              {
+                "part": "Closed stair riser35.010",
+                "repair": "Riser terminates at actual tread underside",
+                "before_top": 1.9249999523162842,
+                "after_top": 1.7949999523162843
+              },
+              {
+                "part": "Closed stair riser35.011",
+                "repair": "Riser terminates at actual tread underside",
+                "before_top": 2.0999999046325684,
+                "after_top": 1.9699999046325685
+              },
+              {
+                "part": "Closed stair riser35.012",
+                "repair": "Riser terminates at actual tread underside",
+                "before_top": 2.2750000953674316,
+                "after_top": 2.1450000953674317
+              },
+              {
+                "part": "Closed stair riser35.013",
+                "repair": "Riser terminates at actual tread underside",
+                "before_top": 2.450000047683716,
+                "after_top": 2.320000047683716
+              },
+              {
+                "part": "Closed stair riser35.014",
+                "repair": "Riser terminates at actual tread underside",
+                "before_top": 2.625,
+                "after_top": 2.495
+              },
+              {
+                "part": "Closed stair riser35.015",
+                "repair": "Riser terminates at actual tread underside",
+                "before_top": 2.799999952316284,
+                "after_top": 2.6699999523162843
+              },
+              {
+                "part": "Closed stair riser35.016",
+                "repair": "Riser terminates at actual tread underside",
+                "before_top": 2.9749999046325684,
+                "after_top": 2.8449999046325685
+              },
+              {
+                "part": "Closed stair riser35.017",
+                "repair": "Riser terminates at actual tread underside",
+                "before_top": 3.1500000953674316,
+                "after_top": 3.0200000953674317
+              },
+              {
+                "part": "Gallery table grounded base35.006",
+                "repair": "Seat base underside on actual carpet top3.1655",
+                "before_bottom": 3.1500000953674316
+              },
+              {
+                "part": "Gallery table grounded base35.007",
+                "repair": "Seat base underside on actual carpet top3.1655",
+                "before_bottom": 3.1500000953674316
+              },
+              {
+                "part": "Canopy warm soffit34.001",
+                "repair": "Fit soffit end into wall center, eliminating exposed same-plane end cap",
+                "before_end": -48.90999984741211,
+                "after_end": -49
+              },
+              {
+                "part": "Canopy anchored steel column34.002",
+                "repair": "Column captured inside actual shoe, no duplicate bottom cap",
+                "after_bottom": 0.12
+              },
+              {
+                "part": "Canopy anchored steel column34.003",
+                "repair": "Column captured inside actual shoe, no duplicate bottom cap",
+                "after_bottom": 0.12
+              },
+              {
+                "part": "Cafe supported menu backing35.003",
+                "repair": "Weld zero-length capsule endpoints and delete zero-area faces",
+                "welded_vertices": 4,
+                "removed_faces": 0
+              },
+              {
+                "part": "Lounge original travel art frame36.004",
+                "repair": "Weld zero-length capsule endpoints and delete zero-area faces",
+                "welded_vertices": 4,
+                "removed_faces": 0
+              },
+              {
+                "part": "Lounge travel art solid backing36.004",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.019999999552965164,
+                "after_radius": 0.0033599853049963713
+              },
+              {
+                "part": "Lounge original travel art frame36.005",
+                "repair": "Weld zero-length capsule endpoints and delete zero-area faces",
+                "welded_vertices": 4,
+                "removed_faces": 0
+              },
+              {
+                "part": "Lounge travel art solid backing36.005",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.019999999552965164,
+                "after_radius": 0.0033599853049963713
+              },
+              {
+                "part": "Lounge stowage retained side36.008",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.019999999552965164,
+                "after_radius": 0.013200073502957821
+              },
+              {
+                "part": "Lounge stowage retained side36.009",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.019999999552965164,
+                "after_radius": 0.01319961529225111
+              },
+              {
+                "part": "Lounge stowage real shelf36.012",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.019999999552965164,
+                "after_radius": 0.013200000859797001
+              },
+              {
+                "part": "Lounge stowage real shelf36.013",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.019999999552965164,
+                "after_radius": 0.013200001791119576
+              },
+              {
+                "part": "Lounge stowage real shelf36.014",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.019999999552965164,
+                "after_radius": 0.013200001791119576
+              },
+              {
+                "part": "Lounge stowage closed back36.004",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.017999999225139618,
+                "after_radius": 0.00839996337890625
+              },
+              {
+                "part": "Lounge stowage retained side36.010",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.019999999552965164,
+                "after_radius": 0.013200073502957821
+              },
+              {
+                "part": "Lounge stowage retained side36.011",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.019999999552965164,
+                "after_radius": 0.013200073502957821
+              },
+              {
+                "part": "Lounge stowage real shelf36.015",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.019999999552965164,
+                "after_radius": 0.013200000859797001
+              },
+              {
+                "part": "Lounge stowage real shelf36.016",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.019999999552965164,
+                "after_radius": 0.013200001791119576
+              },
+              {
+                "part": "Lounge stowage real shelf36.017",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.019999999552965164,
+                "after_radius": 0.013200001791119576
+              },
+              {
+                "part": "Lounge stowage closed back36.005",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.017999999225139618,
+                "after_radius": 0.00839996337890625
+              },
+              {
+                "part": "Bound waiting-bay acoustic panel29.012",
+                "repair": "Weld zero-length capsule endpoints and delete zero-area faces",
+                "welded_vertices": 4,
+                "removed_faces": 0
+              },
+              {
+                "part": "Bound waiting-bay acoustic panel29.013",
+                "repair": "Weld zero-length capsule endpoints and delete zero-area faces",
+                "welded_vertices": 4,
+                "removed_faces": 0
+              },
+              {
+                "part": "Bound waiting-bay acoustic panel29.014",
+                "repair": "Weld zero-length capsule endpoints and delete zero-area faces",
+                "welded_vertices": 4,
+                "removed_faces": 0
+              },
+              {
+                "part": "Inset quiet waiting carpet30.003",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.0010000000474974513,
+                "after_radius": 0.0009599999175406992
+              },
+              {
+                "part": "Self-service sign inset bezel30.003",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.03500000014901161,
+                "after_radius": 0.021600035950541496
+              },
+              {
+                "part": "Waiting poster retained frame30.003",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.026000000536441803,
+                "after_radius": 0.0167999267578125
+              },
+              {
+                "part": "Bound acoustic wall panel27.003",
+                "repair": "Weld zero-length capsule endpoints and delete zero-area faces",
+                "welded_vertices": 4,
+                "removed_faces": 0
+              },
+              {
+                "part": "Bound acoustic wall panel27.004",
+                "repair": "Weld zero-length capsule endpoints and delete zero-area faces",
+                "welded_vertices": 4,
+                "removed_faces": 0
+              },
+              {
+                "part": "Bound acoustic wall panel27.005",
+                "repair": "Weld zero-length capsule endpoints and delete zero-area faces",
+                "welded_vertices": 4,
+                "removed_faces": 0
+              },
+              {
+                "part": "Travel guide folded spine27.001",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.003000000026077032,
+                "after_radius": 0.0014399957144632936
+              },
+              {
+                "part": "Power module closed body27.001",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.012000000104308128,
+                "after_radius": 0.010800017975270748
+              },
+              {
+                "part": "Power module closed body27.001",
+                "repair": "Weld zero-length capsule endpoints and delete zero-area faces",
+                "welded_vertices": 4,
+                "removed_faces": 0
+              },
+              {
+                "part": "Recessed USB-C socket27.002",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.006000000052154064,
+                "after_radius": 0.0009599304175935686
+              },
+              {
+                "part": "Recessed USB-C socket27.003",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.006000000052154064,
+                "after_radius": 0.0009599304175935686
+              },
+              {
+                "part": "Canopy warm soffit34.001",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.0062500000931322575,
+                "after_radius": 0.005999965593218803
+              },
+              {
+                "part": "Canopy anchored steel column34.002",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.03500000014901161,
+                "after_radius": 0.033599853515625
+              },
+              {
+                "part": "Canopy anchored steel column34.003",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.03500000014901161,
+                "after_radius": 0.033599853515625
+              },
+              {
+                "part": "Warm canopy downlight34.003",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.0062500000931322575,
+                "after_radius": 0.006000022869557142
+              },
+              {
+                "part": "Warm canopy downlight34.004",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.0062500000931322575,
+                "after_radius": 0.006000022869557142
+              },
+              {
+                "part": "Warm canopy downlight34.005",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.0062500000931322575,
+                "after_radius": 0.006000022869557142
+              },
+              {
+                "part": "Lounge stowage grounded retained foot38R",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.010999999940395355,
+                "after_radius": 0.01056000031530857
+              },
+              {
+                "part": "Lounge stowage grounded retained foot38R.001",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.010999999940395355,
+                "after_radius": 0.01056000031530857
+              },
+              {
+                "part": "Lounge stowage grounded retained foot38R.002",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.010999999940395355,
+                "after_radius": 0.01056000031530857
+              },
+              {
+                "part": "Lounge stowage grounded retained foot38R.003",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.010999999940395355,
+                "after_radius": 0.01056000031530857
+              },
+              {
+                "part": "Lounge stowage grounded retained foot38R.004",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.010999999940395355,
+                "after_radius": 0.01056000031530857
+              },
+              {
+                "part": "Lounge stowage grounded retained foot38R.005",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.010999999940395355,
+                "after_radius": 0.01056000031530857
+              },
+              {
+                "part": "Lounge stowage grounded retained foot38R.006",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.010999999940395355,
+                "after_radius": 0.01056000031530857
+              },
+              {
+                "part": "Lounge stowage grounded retained foot38R.007",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.010999999940395355,
+                "after_radius": 0.01056000031530857
+              },
+              {
+                "part": "Captured gallery glass guard35",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.007000000216066837,
+                "after_radius": 0.006000366061925888
+              },
+              {
+                "part": "Captured gallery glass guard35.001",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.007000000216066837,
+                "after_radius": 0.006000366061925888
+              },
+              {
+                "part": "Captured gallery glass guard35.002",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.007000000216066837,
+                "after_radius": 0.006000366061925888
+              },
+              {
+                "part": "Tactile stair landing nosing35",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.006000000052154064,
+                "after_radius": 0.0038399999029934406
+              },
+              {
+                "part": "Tactile stair landing nosing35.001",
+                "repair": "Edge roll bounded by actual solid thickness",
+                "before_radius": 0.006000000052154064,
+                "after_radius": 0.003840007819235325
+              }
+            ],
+            "removed_orphan_scene_labels": [
+              {
+                "name": "SECURITY  /  PREPARE HERE",
+                "text": "SECURITY  /  PREPARE HERE",
+                "location": [
+                  -42.0,
+                  -4.232999801635742,
+                  3.1500000953674316
+                ]
+              },
+              {
+                "name": "SCREENING  01",
+                "text": "SCREENING  01",
+                "location": [
+                  -45.20000076293945,
+                  -2.0829999446868896,
+                  2.8499999046325684
+                ]
+              },
+              {
+                "name": "SCREENING  02",
+                "text": "SCREENING  02",
+                "location": [
+                  -39.45000076293945,
+                  -2.0829999446868896,
+                  2.8499999046325684
+                ]
+              },
+              {
+                "name": "REPACK  /  TAKE YOUR TIME",
+                "text": "REPACK  /  TAKE YOUR TIME",
+                "location": [
+                  -35.862998962402344,
+                  1.0,
+                  2.7200000286102295
+                ]
+              },
+              {
+                "name": "GATES  A07  /  A08",
+                "text": "GATES  A07  /  A08",
+                "location": [
+                  -32.2130012512207,
+                  1.5,
+                  2.9800000190734863
+                ]
+              },
+              {
+                "name": "GATE A07",
+                "text": "GATE A07",
+                "location": [
+                  -15.083000183105469,
+                  4.800000190734863,
+                  3.049999952316284
+                ]
+              },
+              {
+                "name": "A07  /  LOUNGE",
+                "text": "A07  /  LOUNGE",
+                "location": [
+                  -26.202999114990234,
+                  4.5,
+                  3.0
+                ]
+              },
+              {
+                "name": "GATE A08",
+                "text": "GATE A08",
+                "location": [
+                  -15.083000183105469,
+                  13.300000190734863,
+                  3.049999952316284
+                ]
+              },
+              {
+                "name": "A08  /  LOUNGE",
+                "text": "A08  /  LOUNGE",
+                "location": [
+                  -26.202999114990234,
+                  11.5,
+                  3.0
+                ]
+              },
+              {
+                "name": "A07  RIGHT  /  A08  AHEAD",
+                "text": "A07  RIGHT  /  A08  AHEAD",
+                "location": [
+                  -29.0,
+                  7.017000198364258,
+                  3.200000047683716
+                ]
+              },
+              {
+                "name": "CAF\u00c9  /  GALLERY",
+                "text": "CAF\u00c9  /  GALLERY",
+                "location": [
+                  -32.202999114990234,
+                  8.5,
+                  2.950000047683716
+                ]
+              },
+              {
+                "name": "TOILETS  /  ASSISTANCE",
+                "text": "TOILETS  /  ASSISTANCE",
+                "location": [
+                  -26.202999114990234,
+                  -3.0,
+                  2.6500000953674316
+                ]
+              },
+              {
+                "name": "CLOUD NINE  /  COFFEE & BAKERY",
+                "text": "CLOUD NINE  /  COFFEE & BAKERY",
+                "location": [
+                  -44.29999923706055,
+                  16.41699981689453,
+                  2.5299999713897705
+                ]
+              },
+              {
+                "name": "WC  1",
+                "text": "WC  1",
+                "location": [
+                  -21.0,
+                  -7.313000202178955,
+                  2.430000066757202
+                ]
+              },
+              {
+                "name": "WC  2",
+                "text": "WC  2",
+                "location": [
+                  -17.100000381469727,
+                  -7.313000202178955,
+                  2.430000066757202
+                ]
+              },
+              {
+                "name": "OPERATIONS  /  STAFF",
+                "text": "OPERATIONS  /  STAFF",
+                "location": [
+                  -42.0,
+                  6.7769999504089355,
+                  2.7200000286102295
+                ]
+              },
+              {
+                "name": "BAGGAGE  /  ARRIVALS",
+                "text": "BAGGAGE  /  ARRIVALS",
+                "location": [
+                  -19.0,
+                  -12.282999992370605,
+                  2.799999952316284
+                ]
+              },
+              {
+                "name": "PUBLIC EXIT",
+                "text": "PUBLIC EXIT",
+                "location": [
+                  -25.232999801635742,
+                  -20.0,
+                  2.75
+                ]
+              }
+            ],
+            "geometry_probes": 12,
+            "roof_probes": 29,
+            "minimum_central_headroom": 2.8,
+            "minimum_clear_width": 1.786,
+            "source_scope": "Current terminal architecture; aircraft/equipment retained",
+            "native_validation": "Root must import changed assets and recapture actual gameplay"
+          }
+        ],
+        "first_checkin_opening": {
+          "before_m": 1.9,
+          "after_m": 2.6
+        },
+        "updated_collision_assets": [
+          "SM_AP_Walls38",
+          "SM_AP_Glazing38",
+          "SM_AP_Transitions39"
+        ],
+        "rebuilt_derived_ids": true,
+        "whole_map_footprints_preserved": true,
+        "targeted_native_removal": "Replace meshes in listed existing structural families; add two new derived actors; regenerate native labels for changed/new FONT templates",
+        "unresolved_native": "In-engine lighting/text rendering and actual character traversal require root review"
+      }
+    }
+  ],
+  "glass39": {
+    "presets": {
+      "Terminal": {
+        "tint": [
+          0.25,
+          0.47,
+          0.49,
+          1
+        ],
+        "opacity": 0.13,
+        "edge": 0.3,
+        "roughness": 0.18,
+        "specular": 0.48
+      },
+      "Bridge": {
+        "tint": [
+          0.24,
+          0.46,
+          0.48,
+          1
+        ],
+        "opacity": 0.12,
+        "edge": 0.28,
+        "roughness": 0.19,
+        "specular": 0.46
+      },
+      "Cabin": {
+        "tint": [
+          0.29,
+          0.52,
+          0.56,
+          1
+        ],
+        "opacity": 0.09,
+        "edge": 0.24,
+        "roughness": 0.16,
+        "specular": 0.48
+      },
+      "Cockpit": {
+        "tint": [
+          0.3,
+          0.53,
+          0.57,
+          1
+        ],
+        "opacity": 0.085,
+        "edge": 0.23,
+        "roughness": 0.17,
+        "specular": 0.48
+      }
+    },
+    "source_materials": [
+      "MI_AP_Glass",
+      "MI_AP_Glass.001",
+      "MI_AP_Glass.002",
+      "MI_AP_P36Glass",
+      "MI_AP_P38AGlass",
+      "MI_AP_P38BGlass"
+    ],
+    "design": "Subtle blue-green tint, soft specular and stronger glancing edges. No procedural dirt or distortion. Instrument glass excluded."
+  },
+  "changed_assets": [
+    "SM_AP_Attachments38",
+    "SM_AP_Ceilings38",
+    "SM_AP_Floors38",
+    "SM_AP_GalleryStair35",
+    "SM_AP_Glazing38",
+    "SM_AP_RetainedCraft38",
+    "SM_AP_Roofs38",
+    "SM_AP_RouteHierarchy39",
+    "SM_AP_Transitions39",
+    "SM_AP_Walls38",
+    "SM_AP_Wayfinding38"
+  ],
+  "families": 65,
+  "source_sha256": "f72df7b2fd76752d818306b3d656e594ad845375ca2f3b2eda0a4f53704674f8",
+  "retired_names": []
+}

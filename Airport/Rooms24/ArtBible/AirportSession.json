@@ -1,0 +1,57 @@
+{
+  "status": "READY",
+  "pass_id": 10,
+  "revision": 24,
+  "runtime_sha256": "ca736a0e547809c05b37b5bf2e9bbd0c2373615ef9594d76f0af96cdbe814eb0",
+  "journey": {
+    "checked_in": false,
+    "bag_accepted": false,
+    "security": false,
+    "boarding": false,
+    "aboard": false
+  },
+  "held": null,
+  "driving": null,
+  "spectator": false,
+  "native_physics_bodies": 17,
+  "events": [
+    {
+      "event": "Room-based airport24 ready",
+      "time_s": 0.13999999999941792,
+      "zones": 17,
+      "controlled_leaves": 5
+    },
+    {
+      "event": "Native tow couplings bound",
+      "time_s": 0.4529999999995198,
+      "count": 2
+    },
+    {
+      "event": "Passenger greeted",
+      "time_s": 9.561999999999898,
+      "actor": "CH12 Forecourt traveller"
+    },
+    {
+      "event": "Passenger greeted",
+      "time_s": 14.436999999999898,
+      "actor": "CH12 Forecourt traveller"
+    },
+    {
+      "event": "Room access denied",
+      "time_s": 46.9369999999999,
+      "actor": "Screening entry24 leaf 0",
+      "requires": "checked_in"
+    }
+  ],
+  "frame_statistics": {
+    "frames": 29100,
+    "average_fps": 59.90424351601944,
+    "p95_ms": 17.296100000748993,
+    "maximum_ms": 85.44880000044941
+  },
+  "player_source": [
+    -42.28963838170486,
+    -4.228405326556799,
+    1.62
+  ]
+}

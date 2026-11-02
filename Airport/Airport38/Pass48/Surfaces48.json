@@ -1,0 +1,36 @@
+{
+ "instances": {
+  "MI_AP_P43TFloor": {
+   "texture": "Floor48",
+   "tile": 3.0,
+   "Specular": 0.55,
+   "RoughnessScale": 1.0
+  },
+  "MI_AP_P43TCarpet": {
+   "texture": "Carpet48",
+   "tile": 3.0,
+   "Specular": 0.2
+  },
+  "MI_AP_P43TWC": {
+   "texture": "WC48",
+   "tile": 2.0,
+   "Specular": 0.45
+  },
+  "MI_AP_P43TCeiling": {
+   "texture": "Ceiling48",
+   "tile": 3.6,
+   "Specular": 0.2,
+   "Emissive": 0.55
+  },
+  "MI_AP_P43TDado": {
+   "texture": "Wainscot48",
+   "tile": 2.4,
+   "Specular": 0.35
+  },
+  "MI_AP_P43TOak": {
+   "texture": "Oak48",
+   "tile": 2.0,
+   "Specular": 0.35
+  }
+ }
+}

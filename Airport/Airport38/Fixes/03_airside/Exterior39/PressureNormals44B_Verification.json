@@ -1,0 +1,87 @@
+{
+  "passed": true,
+  "scope": "Private append from already-applied44 master; master untouched",
+  "first_pass": {
+    "version": 2,
+    "assets": [
+      "SM_AP_W40PressureWindows",
+      "SM_AP_W40CargoBayWindows"
+    ],
+    "normal_only": true,
+    "geometry_uv_material_transform_interactions_unchanged": true,
+    "collections": [
+      {
+        "asset": "SM_AP_W40PressureWindows",
+        "before_fingerprint_excluding_custom_normals": "fdfea79f3b4ab84633028326f9572705b89f9fb2a1cf068ac317091cf1fb7d1e",
+        "after_fingerprint_excluding_custom_normals": "fdfea79f3b4ab84633028326f9572705b89f9fb2a1cf068ac317091cf1fb7d1e",
+        "parts": [
+          {
+            "part": "Fitted pressure crown09.001",
+            "loops": 384,
+            "method": "Restore exact RecoveryBefore44 computed INWARD crown normals",
+            "removed_added_custom_normal_layer": true,
+            "after_original_normal_sha256": "565fba262c5e2699e1f33bd421f0a79ac988ee9ab6885f439025a3c94629f53a",
+            "after_angle_max": 0.0,
+            "geometry_winding_material_unchanged": true
+          },
+          {
+            "part": "W40 pressure skin with matched rounded aperture",
+            "loops": 10320,
+            "before_angle_max": 0.03987258366756047,
+            "after_angle_max": 0.03987258366756047,
+            "before_normal_y_max": 0.0003413459053263068,
+            "after_normal_y_max": 0.0003413459053263068,
+            "removed_new_all_false_sharp_edge_attribute": true
+          },
+          {
+            "part": "W40 pressure skin with matched rounded aperture.001",
+            "loops": 10320,
+            "before_angle_max": 0.03956468264845247,
+            "after_angle_max": 0.03956468264845247,
+            "before_normal_y_max": 0.0006379269761964679,
+            "after_normal_y_max": 0.0006379269761964679,
+            "removed_new_all_false_sharp_edge_attribute": true
+          }
+        ]
+      },
+      {
+        "asset": "SM_AP_W40CargoBayWindows",
+        "before_fingerprint_excluding_custom_normals": "aa41b91b6c698c135d4c6a54aca56d5cc6408097e7066bedf5f54a88aef91dd1",
+        "after_fingerprint_excluding_custom_normals": "aa41b91b6c698c135d4c6a54aca56d5cc6408097e7066bedf5f54a88aef91dd1",
+        "parts": [
+          {
+            "part": "Fitted pressure crown09.002",
+            "loops": 384,
+            "method": "Restore exact RecoveryBefore44 computed INWARD crown normals",
+            "removed_added_custom_normal_layer": true,
+            "after_original_normal_sha256": "565fba262c5e2699e1f33bd421f0a79ac988ee9ab6885f439025a3c94629f53a",
+            "after_angle_max": 0.0,
+            "geometry_winding_material_unchanged": true
+          },
+          {
+            "part": "W40 pressure skin with matched rounded aperture.002",
+            "loops": 10320,
+            "before_angle_max": 0.03987258366756047,
+            "after_angle_max": 0.03987258366756047,
+            "before_normal_y_max": 0.0003413459053263068,
+            "after_normal_y_max": 0.0003413459053263068,
+            "removed_new_all_false_sharp_edge_attribute": true
+          },
+          {
+            "part": "W40 pressure skin with matched rounded aperture.003",
+            "loops": 10320,
+            "before_angle_max": 0.03956468264845247,
+            "after_angle_max": 0.03956468264845247,
+            "before_normal_y_max": 0.0006379269761964679,
+            "after_normal_y_max": 0.0006379269761964679,
+            "removed_new_all_false_sharp_edge_attribute": true
+          }
+        ]
+      }
+    ]
+  },
+  "repeat_full_normal_buffers_identical": true,
+  "repeat_geometry_stable": true,
+  "private_exports": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Fixes\\03_airside\\Exterior39\\PressureNormals44B_Exports\\Exports",
+  "editable_kit_sha256": "1f8fb97f8e07d48693a16fdb4f411b5a6373edb1afeab7373124c575e3575a65"
+}

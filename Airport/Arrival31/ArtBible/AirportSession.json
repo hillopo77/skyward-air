@@ -1,0 +1,103 @@
+{
+  "status": "READY",
+  "pass_id": 10,
+  "revision": 31,
+  "runtime_sha256": "7f62a9c980f5cc5a056e72f4fb2916b15c4785ed063f2338e3df19cee9d6db86",
+  "journey": {
+    "checked_in": false,
+    "bag_accepted": false,
+    "security": false,
+    "boarding": false,
+    "aboard": false
+  },
+  "held": null,
+  "driving": null,
+  "spectator": false,
+  "native_physics_bodies": 17,
+  "events": [
+    {
+      "event": "Room-based airport24 ready",
+      "time_s": 0.18799999999828287,
+      "zones": 17,
+      "controlled_leaves": 5
+    },
+    {
+      "event": "Clear arrival26 ready",
+      "time_s": 0.21899999999732245,
+      "initial_exit": "checkin",
+      "high_dpi": "project enabled",
+      "profile": "FastTAA"
+    },
+    {
+      "event": "Entrance prototype27 ready",
+      "time_s": 0.23399999999674037,
+      "level": 5,
+      "profile": "Distance27"
+    },
+    {
+      "event": "Crafted check-in30 ready",
+      "time_s": 0.25,
+      "queue": "live",
+      "counters": 2
+    },
+    {
+      "event": "Arrival31 ready",
+      "time_s": 0.2809999999990396,
+      "buffer_m": 4.1,
+      "queue_starts_ahead": true
+    },
+    {
+      "event": "Native tow couplings bound",
+      "time_s": 0.5779999999977008,
+      "count": 2
+    },
+    {
+      "event": "Player joined check-in queue30",
+      "time_s": 324.5,
+      "passengers_ahead": 2
+    },
+    {
+      "event": "Queue passenger advances30",
+      "time_s": 327.7189999999973,
+      "actor": "CH12 Queue passenger 6",
+      "remaining": 1
+    },
+    {
+      "event": "Queue passenger advances30",
+      "time_s": 330.92199999999866,
+      "actor": "CH12 Queue passenger 3",
+      "remaining": 0
+    },
+    {
+      "event": "Player called to check-in desk30",
+      "time_s": 330.92199999999866,
+      "desk": "01"
+    },
+    {
+      "event": "Passenger greeted",
+      "time_s": 337.0159999999996,
+      "actor": "CH12 Queue passenger 4"
+    },
+    {
+      "event": "Passenger greeted",
+      "time_s": 356.4529999999977,
+      "actor": "CH12 Queue passenger 1"
+    },
+    {
+      "event": "Passenger greeted",
+      "time_s": 359.65599999999904,
+      "actor": "CH12 Queue passenger 1"
+    }
+  ],
+  "frame_statistics": {
+    "frames": 118080,
+    "average_fps": 59.68229933339413,
+    "p95_ms": 17.533400001411792,
+    "maximum_ms": 103.40810000343481
+  },
+  "player_source": [
+    -41.856779957482146,
+    -9.360085640573015,
+    1.62
+  ]
+}

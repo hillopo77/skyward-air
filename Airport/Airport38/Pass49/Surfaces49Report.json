@@ -1,0 +1,248 @@
+{
+ "status": "SUCCESS",
+ "textures": [
+  "/Game/Airport38/Pass49/Textures/T_AP_Asphalt49.T_AP_Asphalt49",
+  "/Game/Airport38/Pass49/Textures/T_AP_Concrete49.T_AP_Concrete49",
+  "/Game/Airport38/Pass49/Textures/T_AP_Grass49.T_AP_Grass49",
+  "/Game/Airport38/Pass49/Textures/T_AP_Macro49.T_AP_Macro49",
+  "/Game/Airport38/Pass49/Textures/T_AP_Plaster49.T_AP_Plaster49",
+  "/Game/Airport38/Pass49/Textures/T_AP_PlasterWarm49.T_AP_PlasterWarm49",
+  "/Game/Airport38/Pass49/Textures/T_AP_Roof49.T_AP_Roof49"
+ ],
+ "instances": [
+  {
+   "mi": "/Game/Airport34/Materials/MI_AP_P34Field.MI_AP_P34Field",
+   "texture": "Grass49",
+   "tile": 8.0,
+   "Specular": 0.12,
+   "tint_scale": [
+    0.78,
+    0.84,
+    0.8
+   ],
+   "MacroLow": 0.74,
+   "MacroHigh": 1.14,
+   "MacroMetres": 45.0,
+   "parent": "M_AP_Ground49",
+   "tint": [
+    0.709,
+    0.693,
+    1.036
+   ]
+  },
+  {
+   "mi": "/Game/Airport34/Materials/MI_AP_P34FieldAlt.MI_AP_P34FieldAlt",
+   "texture": "Grass49",
+   "tile": 8.0,
+   "Specular": 0.12,
+   "tint_scale": [
+    0.78,
+    0.84,
+    0.8
+   ],
+   "MacroLow": 0.74,
+   "MacroHigh": 1.14,
+   "MacroMetres": 45.0,
+   "parent": "M_AP_Ground49",
+   "tint": [
+    0.932,
+    0.838,
+    1.258
+   ]
+  },
+  {
+   "mi": "/Game/Airport38/Materials/MI_AP_F39Field.MI_AP_F39Field",
+   "texture": "Grass49",
+   "tile": 8.0,
+   "Specular": 0.12,
+   "tint_scale": [
+    0.78,
+    0.84,
+    0.8
+   ],
+   "MacroLow": 0.74,
+   "MacroHigh": 1.14,
+   "MacroMetres": 45.0,
+   "parent": "M_AP_Ground49",
+   "tint": [
+    0.865,
+    0.751,
+    1.06
+   ]
+  },
+  {
+   "mi": "/Game/Airport23/Materials/Instances/MI_AP_Grass.MI_AP_Grass",
+   "texture": "Grass49",
+   "tile": 8.0,
+   "Specular": 0.12,
+   "tint_scale": [
+    0.78,
+    0.84,
+    0.8
+   ],
+   "MacroLow": 0.74,
+   "MacroHigh": 1.14,
+   "MacroMetres": 45.0,
+   "parent": "M_AP_Ground49",
+   "tint": [
+    0.598,
+    0.813,
+    0.902
+   ]
+  },
+  {
+   "mi": "/Game/Airport34/Materials/MI_AP_P34Apron.MI_AP_P34Apron",
+   "texture": "Concrete49",
+   "tile": 10.0,
+   "parent": "M_AP_Ground49",
+   "tint": [
+    0.469,
+    0.549,
+    0.579
+   ]
+  },
+  {
+   "mi": "/Game/Airport23/Materials/Instances/MI_AP_Concrete.MI_AP_Concrete",
+   "texture": "Concrete49",
+   "tile": 10.0,
+   "parent": "M_AP_Ground49",
+   "tint": [
+    0.557,
+    0.674,
+    0.754
+   ]
+  },
+  {
+   "mi": "/Game/Airport12/Materials/Instances/MI_AP_Concrete.MI_AP_Concrete",
+   "texture": "Concrete49",
+   "tile": 10.0,
+   "parent": "M_AP_Ground49",
+   "tint": [
+    0.557,
+    0.674,
+    0.754
+   ]
+  },
+  {
+   "mi": "/Game/Airport38/Materials/MI_AP_F39Apron.MI_AP_F39Apron",
+   "texture": "Concrete49",
+   "tile": 10.0,
+   "parent": "M_AP_Ground49",
+   "tint": [
+    0.574,
+    0.674,
+    0.663
+   ]
+  },
+  {
+   "mi": "/Game/Airport38/Materials/MI_AP_F39Asphalt.MI_AP_F39Asphalt",
+   "texture": "Asphalt49",
+   "tile": 4.0,
+   "parent": "M_AP_Ground49",
+   "tint": [
+    0.807,
+    1.146,
+    1.157
+   ]
+  },
+  {
+   "mi": "/Game/Airport38/Materials/MI_AP_F39Shoulder.MI_AP_F39Shoulder",
+   "texture": "Concrete49",
+   "tile": 10.0,
+   "parent": "M_AP_Ground49",
+   "tint": [
+    0.33,
+    0.41,
+    0.366
+   ]
+  },
+  {
+   "mi": "/Game/Airport23/Materials/Instances/MI_AP_Asphalt.MI_AP_Asphalt",
+   "texture": "Asphalt49",
+   "tile": 4.0,
+   "parent": "M_AP_Ground49",
+   "tint": [
+    0.696,
+    0.776,
+    0.84
+   ]
+  },
+  {
+   "mi": "/Game/Airport12/Materials/Instances/MI_AP_Asphalt.MI_AP_Asphalt",
+   "texture": "Asphalt49",
+   "tile": 4.0,
+   "parent": "M_AP_Ground49",
+   "tint": [
+    0.696,
+    0.776,
+    0.84
+   ]
+  },
+  {
+   "mi": "/Game/Airport10/Materials/Instances/MI_AP_Asphalt.MI_AP_Asphalt",
+   "texture": "Asphalt49",
+   "tile": 4.0,
+   "parent": "M_AP_Ground49",
+   "tint": [
+    0.696,
+    0.776,
+    0.84
+   ]
+  },
+  {
+   "mi": "/Game/Airport38/Materials/MI_AP_P38ARoof.MI_AP_P38ARoof",
+   "texture": "Roof49",
+   "tile": 6.0,
+   "MacroLow": 0.94,
+   "MacroHigh": 1.06,
+   "parent": "M_AP_Ground49",
+   "tint": [
+    0.591,
+    0.663,
+    0.646
+   ]
+  },
+  {
+   "mi": "/Game/Airport30/Materials/MI_AP_P30Carpet.MI_AP_P30Carpet",
+   "texture": "Carpet48",
+   "tile": 3.0,
+   "tint": [
+    1,
+    1,
+    1
+   ],
+   "Specular": 0.2,
+   "MacroLow": 1.0,
+   "MacroHigh": 1.0,
+   "parent": "M_AP_Ground49"
+  },
+  {
+   "mi": "/Game/Airport34/Materials/MI_AP_P34Carpet.MI_AP_P34Carpet",
+   "texture": "Carpet48",
+   "tile": 3.0,
+   "tint": [
+    1,
+    1,
+    1
+   ],
+   "Specular": 0.2,
+   "MacroLow": 1.0,
+   "MacroHigh": 1.0,
+   "parent": "M_AP_Ground49"
+  },
+  {
+   "path": "/Game/Airport38/Finish43/MI_AP_P43TPlaster",
+   "texture": "Plaster49",
+   "tile": 4.0,
+   "parent": "M_AP_Finish48"
+  },
+  {
+   "path": "/Game/Airport38/Finish43/MI_AP_P43TPlasterWarm",
+   "texture": "PlasterWarm49",
+   "tile": 4.0,
+   "parent": "M_AP_Finish48"
+  }
+ ],
+ "master": "/Game/Airport38/Pass49/Materials/M_AP_Ground49.M_AP_Ground49",
+ "missing": []
+}

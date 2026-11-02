@@ -1,0 +1,29 @@
+{
+  "status": "SUCCESS",
+  "pass_id": 2,
+  "pass_name": "Modeled architecture, glazed elevations and mezzanine",
+  "captures": [
+    {
+      "file": "Pass02_01_Entrance.png",
+      "sha256": "f9c70ddad2b8734beaf51c3fd0db1f2bd5071f6acdaedc0dd129cb46b2d9602e",
+      "camera": "01_Entrance"
+    },
+    {
+      "file": "Pass02_03_Security.png",
+      "sha256": "969026075b88b67bbe8960bbc398b3f75aff07c50751cd8c013b64fb6a3795b7",
+      "camera": "03_Security"
+    },
+    {
+      "file": "Pass02_06_Gate.png",
+      "sha256": "034b7e0ab3d2755c23be4eef38ca4a35e29044bcf78c5e0b41a484b335c2f070",
+      "camera": "06_Gate"
+    },
+    {
+      "file": "Pass02_08_Lounge.png",
+      "sha256": "3a2179eea560374a571e65d73d6f257a03bcde1c4b408550212253caf7e922f6",
+      "camera": "08_Lounge"
+    }
+  ],
+  "runtime_sha256": "cb71573c3626e1e41e1d4ff77d8698cde23dea7052d46f92f1a550abec8d3cdc",
+  "native_bodies": 0
+}

@@ -1,0 +1,95 @@
+{
+  "status": "SUCCESS",
+  "passes": [
+    {
+      "module": "../../Characters/Revision39/cap_label39.py",
+      "result": {
+        "status": "CURRENT_AIRPORT_GUARD_CAP_SOURCE_PATCHED",
+        "results": [
+          {
+            "status": "REMOVED_OCCLUDED_CAP_GLYPHS",
+            "object": "SK_CH39_SecurityGuard.001",
+            "users": [
+              "SK_CH39_SecurityGuard.001"
+            ],
+            "removed_vertices": 1700,
+            "removed_polygons": 1247,
+            "vertices_before": 79663,
+            "vertices_after": 77963,
+            "retained_geometry_weights_uv_morphs_sha256": "c60a470b67c8df2c275d5dd80da48be1fa320dbb9635dcaf92031e47a04d5c58",
+            "preserved_exactly": true,
+            "policy": "Only cap Ivory glyph vertices above1.6m; chest wordmark, all other meshes, rig and clips unchanged"
+          }
+        ],
+        "changed_geometry": "only occluded cap-label glyph removal; no placement, chair, rig/action or other model edits"
+      }
+    }
+  ],
+  "unused_empty_material_slots": [],
+  "pending_assets": {},
+  "glass39": {
+    "presets": {
+      "Terminal": {
+        "tint": [
+          0.25,
+          0.47,
+          0.49,
+          1
+        ],
+        "opacity": 0.13,
+        "edge": 0.3,
+        "roughness": 0.18,
+        "specular": 0.48
+      },
+      "Bridge": {
+        "tint": [
+          0.24,
+          0.46,
+          0.48,
+          1
+        ],
+        "opacity": 0.12,
+        "edge": 0.28,
+        "roughness": 0.19,
+        "specular": 0.46
+      },
+      "Cabin": {
+        "tint": [
+          0.29,
+          0.52,
+          0.56,
+          1
+        ],
+        "opacity": 0.09,
+        "edge": 0.24,
+        "roughness": 0.16,
+        "specular": 0.48
+      },
+      "Cockpit": {
+        "tint": [
+          0.3,
+          0.53,
+          0.57,
+          1
+        ],
+        "opacity": 0.085,
+        "edge": 0.23,
+        "roughness": 0.17,
+        "specular": 0.48
+      }
+    },
+    "source_materials": [
+      "MI_AP_Glass",
+      "MI_AP_Glass.001",
+      "MI_AP_Glass.002",
+      "MI_AP_P36Glass",
+      "MI_AP_P38AGlass",
+      "MI_AP_P38BGlass"
+    ],
+    "design": "Subtle blue-green tint, soft specular and stronger glancing edges. No procedural dirt or distortion. Instrument glass excluded."
+  },
+  "changed_assets": [],
+  "families": 108,
+  "source_sha256": "235a05c0eb484773010045ece9b6aa2294be240944b54a5d7190d2e051037f60",
+  "retired_names": []
+}

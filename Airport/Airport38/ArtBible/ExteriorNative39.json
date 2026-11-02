@@ -1,0 +1,4466 @@
+{
+  "scope": "Read-only existing native game session, no actor/asset/control mutations",
+  "parked_rest": true,
+  "flight_state": {
+    "phase": "gate",
+    "position": [
+      16.0,
+      17.3,
+      0.0
+    ],
+    "heading": 0.0,
+    "pitch": 0.0,
+    "bank": 0.0,
+    "speed": 0.0,
+    "flaps": 0,
+    "gear_down": true
+  },
+  "materials": {
+    "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09": {
+      "path": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+      "name": "MI_Plane_Paint09",
+      "type": "MaterialInstanceConstant",
+      "vectors": {
+        "BaseColor": [
+          0.7912979125976562,
+          0.838798999786377,
+          0.8631572127342224,
+          1.0
+        ],
+        "Color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Tint": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "scalars": {
+        "Roughness": 0.3400000035762787,
+        "Metallic": 0.029999999329447746,
+        "Emission": 0.0,
+        "NormalStrength": 0.0,
+        "Specular": 0.5
+      },
+      "parent": "/Game/Art/Materials/M_StylizedOpaque.M_StylizedOpaque"
+    },
+    "/Game/Art/Materials/Instances/MI_Plane_AirAlloy15.MI_Plane_AirAlloy15": {
+      "path": "/Game/Art/Materials/Instances/MI_Plane_AirAlloy15.MI_Plane_AirAlloy15",
+      "name": "MI_Plane_AirAlloy15",
+      "type": "MaterialInstanceConstant",
+      "vectors": {
+        "BaseColor": [
+          0.3915724754333496,
+          0.43965718150138855,
+          0.46207699179649353,
+          1.0
+        ],
+        "Color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Tint": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "scalars": {
+        "Roughness": 0.30000001192092896,
+        "Metallic": 0.8199999928474426,
+        "Emission": 0.0,
+        "NormalStrength": 0.0,
+        "Specular": 0.5
+      },
+      "parent": "/Game/Art/Materials/M_StylizedOpaque.M_StylizedOpaque"
+    },
+    "/Game/Art/Materials/Instances/MI_Plane_SteelDark.MI_Plane_SteelDark": {
+      "path": "/Game/Art/Materials/Instances/MI_Plane_SteelDark.MI_Plane_SteelDark",
+      "name": "MI_Plane_SteelDark",
+      "type": "MaterialInstanceConstant",
+      "vectors": {
+        "BaseColor": [
+          0.08228270709514618,
+          0.10702310502529144,
+          0.11953842639923096,
+          1.0
+        ],
+        "Color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Tint": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "scalars": {
+        "Roughness": 0.3700000047683716,
+        "Metallic": 0.7400000095367432,
+        "Emission": 0.0,
+        "NormalStrength": 0.0,
+        "Specular": 0.5
+      },
+      "parent": "/Game/Art/Materials/M_StylizedOpaque.M_StylizedOpaque"
+    },
+    "/Game/Art/Materials/Instances/MI_Plane_RedLED07.MI_Plane_RedLED07": {
+      "path": "/Game/Art/Materials/Instances/MI_Plane_RedLED07.MI_Plane_RedLED07",
+      "name": "MI_Plane_RedLED07",
+      "type": "MaterialInstanceConstant",
+      "vectors": {
+        "BaseColor": [
+          1.0,
+          0.045186202973127365,
+          0.022173885256052017,
+          1.0
+        ],
+        "Color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Tint": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "scalars": {
+        "Roughness": 0.3499999940395355,
+        "Metallic": 0.0,
+        "Emission": 0.0,
+        "NormalStrength": 0.0,
+        "Specular": 0.5
+      },
+      "parent": "/Game/Art/Materials/M_StylizedOpaque.M_StylizedOpaque"
+    },
+    "/Game/Art/Materials/Instances/MI_Plane_GreenLED07.MI_Plane_GreenLED07": {
+      "path": "/Game/Art/Materials/Instances/MI_Plane_GreenLED07.MI_Plane_GreenLED07",
+      "name": "MI_Plane_GreenLED07",
+      "type": "MaterialInstanceConstant",
+      "vectors": {
+        "BaseColor": [
+          0.040915198624134064,
+          0.8549926280975342,
+          0.18447498977184296,
+          1.0
+        ],
+        "Color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Tint": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "scalars": {
+        "Roughness": 0.3499999940395355,
+        "Metallic": 0.0,
+        "Emission": 0.0,
+        "NormalStrength": 0.0,
+        "Specular": 0.5
+      },
+      "parent": "/Game/Art/Materials/M_StylizedOpaque.M_StylizedOpaque"
+    },
+    "/Game/Art/Materials/Instances/MI_Plane_Blue09.MI_Plane_Blue09": {
+      "path": "/Game/Art/Materials/Instances/MI_Plane_Blue09.MI_Plane_Blue09",
+      "name": "MI_Plane_Blue09",
+      "type": "MaterialInstanceConstant",
+      "vectors": {
+        "BaseColor": [
+          0.014443843625485897,
+          0.04666508734226227,
+          0.12477181851863861,
+          1.0
+        ],
+        "Color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Tint": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "scalars": {
+        "Roughness": 0.36000001430511475,
+        "Metallic": 0.03999999910593033,
+        "Emission": 0.0,
+        "NormalStrength": 0.0,
+        "Specular": 0.5
+      },
+      "parent": "/Game/Art/Materials/M_StylizedOpaque.M_StylizedOpaque"
+    },
+    "/Game/Airport38/Materials/MI_AP_P38EIvory.MI_AP_P38EIvory": {
+      "path": "/Game/Airport38/Materials/MI_AP_P38EIvory.MI_AP_P38EIvory",
+      "name": "MI_AP_P38EIvory",
+      "type": "MaterialInstanceConstant",
+      "vectors": {
+        "BaseColor": [
+          0.715693473815918,
+          0.672443151473999,
+          0.577580451965332,
+          1.0
+        ],
+        "Color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Tint": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "scalars": {
+        "Roughness": 0.7300000190734863,
+        "Metallic": 0.0,
+        "Emission": 0.0,
+        "NormalStrength": 0.0,
+        "Specular": 0.18000000715255737
+      },
+      "parent": "/Game/Airport23/Materials/M_AP_Satin23.M_AP_Satin23"
+    },
+    "/Game/Art/Materials/Instances/MI_Plane_LiveryGold.MI_Plane_LiveryGold": {
+      "path": "/Game/Art/Materials/Instances/MI_Plane_LiveryGold.MI_Plane_LiveryGold",
+      "name": "MI_Plane_LiveryGold",
+      "type": "MaterialInstanceConstant",
+      "vectors": {
+        "BaseColor": [
+          0.68668532371521,
+          0.4019777774810791,
+          0.0382043719291687,
+          1.0
+        ],
+        "Color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Tint": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "scalars": {
+        "Roughness": 0.4300000071525574,
+        "Metallic": 0.0,
+        "Emission": 0.0,
+        "NormalStrength": 0.0,
+        "Specular": 0.5
+      },
+      "parent": "/Game/Art/Materials/M_StylizedOpaque.M_StylizedOpaque"
+    },
+    "/Game/Art/Materials/Instances/MI_Plane_Seam09.MI_Plane_Seam09": {
+      "path": "/Game/Art/Materials/Instances/MI_Plane_Seam09.MI_Plane_Seam09",
+      "name": "MI_Plane_Seam09",
+      "type": "MaterialInstanceConstant",
+      "vectors": {
+        "BaseColor": [
+          0.22322796285152435,
+          0.28744083642959595,
+          0.33716362714767456,
+          1.0
+        ],
+        "Color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Tint": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "scalars": {
+        "Roughness": 0.6399999856948853,
+        "Metallic": 0.0,
+        "Emission": 0.0,
+        "NormalStrength": 0.0,
+        "Specular": 0.5
+      },
+      "parent": "/Game/Art/Materials/M_StylizedOpaque.M_StylizedOpaque"
+    },
+    "/Game/Art/Materials/Instances/MI_Plane_Trim09.MI_Plane_Trim09": {
+      "path": "/Game/Art/Materials/Instances/MI_Plane_Trim09.MI_Plane_Trim09",
+      "name": "MI_Plane_Trim09",
+      "type": "MaterialInstanceConstant",
+      "vectors": {
+        "BaseColor": [
+          0.3915724754333496,
+          0.4507857859134674,
+          0.4793201684951782,
+          1.0
+        ],
+        "Color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Tint": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "scalars": {
+        "Roughness": 0.3100000023841858,
+        "Metallic": 0.7300000190734863,
+        "Emission": 0.0,
+        "NormalStrength": 0.0,
+        "Specular": 0.5
+      },
+      "parent": "/Game/Art/Materials/M_StylizedOpaque.M_StylizedOpaque"
+    },
+    "/Game/Art/Materials/Instances/MI_Plane_AirDark15.MI_Plane_AirDark15": {
+      "path": "/Game/Art/Materials/Instances/MI_Plane_AirDark15.MI_Plane_AirDark15",
+      "name": "MI_Plane_AirDark15",
+      "type": "MaterialInstanceConstant",
+      "vectors": {
+        "BaseColor": [
+          0.01850022003054619,
+          0.02955683507025242,
+          0.045186202973127365,
+          1.0
+        ],
+        "Color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Tint": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "scalars": {
+        "Roughness": 0.6100000143051147,
+        "Metallic": 0.11999999731779099,
+        "Emission": 0.0,
+        "NormalStrength": 0.0,
+        "Specular": 0.5
+      },
+      "parent": "/Game/Art/Materials/M_StylizedOpaque.M_StylizedOpaque"
+    },
+    "/Game/Art/Materials/Instances/MI_Plane_AirCorroguard15.MI_Plane_AirCorroguard15": {
+      "path": "/Game/Art/Materials/Instances/MI_Plane_AirCorroguard15.MI_Plane_AirCorroguard15",
+      "name": "MI_Plane_AirCorroguard15",
+      "type": "MaterialInstanceConstant",
+      "vectors": {
+        "BaseColor": [
+          0.3324515223503113,
+          0.3762621283531189,
+          0.4019777774810791,
+          1.0
+        ],
+        "Color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Tint": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "scalars": {
+        "Roughness": 0.5199999809265137,
+        "Metallic": 0.2800000011920929,
+        "Emission": 0.0,
+        "NormalStrength": 0.0,
+        "Specular": 0.5
+      },
+      "parent": "/Game/Art/Materials/M_StylizedOpaque.M_StylizedOpaque"
+    },
+    "/Game/Art/Materials/Instances/MI_Plane_AirBlue15.MI_Plane_AirBlue15": {
+      "path": "/Game/Art/Materials/Instances/MI_Plane_AirBlue15.MI_Plane_AirBlue15",
+      "name": "MI_Plane_AirBlue15",
+      "type": "MaterialInstanceConstant",
+      "vectors": {
+        "BaseColor": [
+          0.008568125776946545,
+          0.045186202973127365,
+          0.12213877588510513,
+          1.0
+        ],
+        "Color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Tint": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "scalars": {
+        "Roughness": 0.3100000023841858,
+        "Metallic": 0.029999999329447746,
+        "Emission": 0.0,
+        "NormalStrength": 0.0,
+        "Specular": 0.5
+      },
+      "parent": "/Game/Art/Materials/M_StylizedOpaque.M_StylizedOpaque"
+    },
+    "/Game/Art/Materials/Instances/MI_Plane_AirTitanium15.MI_Plane_AirTitanium15": {
+      "path": "/Game/Art/Materials/Instances/MI_Plane_AirTitanium15.MI_Plane_AirTitanium15",
+      "name": "MI_Plane_AirTitanium15",
+      "type": "MaterialInstanceConstant",
+      "vectors": {
+        "BaseColor": [
+          0.17144110798835754,
+          0.21223075687885284,
+          0.23839756846427917,
+          1.0
+        ],
+        "Color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Tint": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "scalars": {
+        "Roughness": 0.3799999952316284,
+        "Metallic": 0.7200000286102295,
+        "Emission": 0.0,
+        "NormalStrength": 0.0,
+        "Specular": 0.5
+      },
+      "parent": "/Game/Art/Materials/M_StylizedOpaque.M_StylizedOpaque"
+    },
+    "/Game/Art/Materials/Instances/MI_Plane_AirHot15.MI_Plane_AirHot15": {
+      "path": "/Game/Art/Materials/Instances/MI_Plane_AirHot15.MI_Plane_AirHot15",
+      "name": "MI_Plane_AirHot15",
+      "type": "MaterialInstanceConstant",
+      "vectors": {
+        "BaseColor": [
+          0.19120168685913086,
+          0.17144110798835754,
+          0.1441284716129303,
+          1.0
+        ],
+        "Color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Tint": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "scalars": {
+        "Roughness": 0.4099999964237213,
+        "Metallic": 0.7799999713897705,
+        "Emission": 0.0,
+        "NormalStrength": 0.0,
+        "Specular": 0.5
+      },
+      "parent": "/Game/Art/Materials/M_StylizedOpaque.M_StylizedOpaque"
+    },
+    "/Game/Art/Materials/Instances/MI_Plane_AirSeam15.MI_Plane_AirSeam15": {
+      "path": "/Game/Art/Materials/Instances/MI_Plane_AirSeam15.MI_Plane_AirSeam15",
+      "name": "MI_Plane_AirSeam15",
+      "type": "MaterialInstanceConstant",
+      "vectors": {
+        "BaseColor": [
+          0.14126329123973846,
+          0.19120168685913086,
+          0.22696587443351746,
+          1.0
+        ],
+        "Color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Tint": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "scalars": {
+        "Roughness": 0.6399999856948853,
+        "Metallic": 0.0,
+        "Emission": 0.0,
+        "NormalStrength": 0.0,
+        "Specular": 0.5
+      },
+      "parent": "/Game/Art/Materials/M_StylizedOpaque.M_StylizedOpaque"
+    },
+    "/Game/Art/Materials/Instances/MI_Plane_AirGold15.MI_Plane_AirGold15": {
+      "path": "/Game/Art/Materials/Instances/MI_Plane_AirGold15.MI_Plane_AirGold15",
+      "name": "MI_Plane_AirGold15",
+      "type": "MaterialInstanceConstant",
+      "vectors": {
+        "BaseColor": [
+          0.4969329833984375,
+          0.3049873113632202,
+          0.07421357184648514,
+          1.0
+        ],
+        "Color": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ],
+        "Tint": [
+          0.0,
+          0.0,
+          0.0,
+          1.0
+        ]
+      },
+      "scalars": {
+        "Roughness": 0.3400000035762787,
+        "Metallic": 0.2199999988079071,
+        "Emission": 0.0,
+        "NormalStrength": 0.0,
+        "Specular": 0.5
+      },
+      "parent": "/Game/Art/Materials/M_StylizedOpaque.M_StylizedOpaque"
+    }
+  },
+  "actors": [
+    {
+      "actor": "SM_Plane_ExteriorAirframe",
+      "object": "StaticMeshActor_92",
+      "location_reference": [
+        16.0,
+        -0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "parent": "Flight39 Aircraft carrier",
+      "components": [
+        {
+          "component": "StaticMeshComponent0",
+          "mesh": "/Game/Airport38/Flight05Meshes/SM_AP_F39AirframeFixed.SM_AP_F39AirframeFixed",
+          "expected_slot_names": [
+            "MI_Plane_Paint09",
+            "MI_Plane_AirAlloy15",
+            "MI_Plane_SteelDark",
+            "MI_Plane_RedLED07",
+            "MI_Plane_GreenLED07",
+            "MI_Plane_Blue09",
+            "MI_AP_P38EIvory",
+            "MI_Plane_LiveryGold",
+            "MI_Plane_Seam09",
+            "MI_Plane_Trim09",
+            "MI_Plane_AirDark15",
+            "MI_Plane_AirCorroguard15",
+            "MI_Plane_AirBlue15",
+            "MI_Plane_AirTitanium15",
+            "MI_Plane_AirHot15",
+            "MI_Plane_AirSeam15",
+            "MI_Plane_AirGold15"
+          ],
+          "slots": [
+            {
+              "index": 0,
+              "expected": "MI_Plane_Paint09",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "differs_from_mesh_default": false
+            },
+            {
+              "index": 1,
+              "expected": "MI_Plane_AirAlloy15",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_AirAlloy15.MI_Plane_AirAlloy15",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_AirAlloy15.MI_Plane_AirAlloy15",
+              "differs_from_mesh_default": false
+            },
+            {
+              "index": 2,
+              "expected": "MI_Plane_SteelDark",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_SteelDark.MI_Plane_SteelDark",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_SteelDark.MI_Plane_SteelDark",
+              "differs_from_mesh_default": false
+            },
+            {
+              "index": 3,
+              "expected": "MI_Plane_RedLED07",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_RedLED07.MI_Plane_RedLED07",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_RedLED07.MI_Plane_RedLED07",
+              "differs_from_mesh_default": false
+            },
+            {
+              "index": 4,
+              "expected": "MI_Plane_GreenLED07",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_GreenLED07.MI_Plane_GreenLED07",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_GreenLED07.MI_Plane_GreenLED07",
+              "differs_from_mesh_default": false
+            },
+            {
+              "index": 5,
+              "expected": "MI_Plane_Blue09",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_Blue09.MI_Plane_Blue09",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_Blue09.MI_Plane_Blue09",
+              "differs_from_mesh_default": false
+            },
+            {
+              "index": 6,
+              "expected": "MI_AP_P38EIvory",
+              "effective": "/Game/Airport38/Materials/MI_AP_P38EIvory.MI_AP_P38EIvory",
+              "mesh_default": "/Game/Airport38/Materials/MI_AP_P38EIvory.MI_AP_P38EIvory",
+              "differs_from_mesh_default": false
+            },
+            {
+              "index": 7,
+              "expected": "MI_Plane_LiveryGold",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_LiveryGold.MI_Plane_LiveryGold",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_LiveryGold.MI_Plane_LiveryGold",
+              "differs_from_mesh_default": false
+            },
+            {
+              "index": 8,
+              "expected": "MI_Plane_Seam09",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_Seam09.MI_Plane_Seam09",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_Seam09.MI_Plane_Seam09",
+              "differs_from_mesh_default": false
+            },
+            {
+              "index": 9,
+              "expected": "MI_Plane_Trim09",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_Trim09.MI_Plane_Trim09",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_Trim09.MI_Plane_Trim09",
+              "differs_from_mesh_default": false
+            },
+            {
+              "index": 10,
+              "expected": "MI_Plane_AirDark15",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_AirDark15.MI_Plane_AirDark15",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_AirDark15.MI_Plane_AirDark15",
+              "differs_from_mesh_default": false
+            },
+            {
+              "index": 11,
+              "expected": "MI_Plane_AirCorroguard15",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_AirCorroguard15.MI_Plane_AirCorroguard15",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_AirCorroguard15.MI_Plane_AirCorroguard15",
+              "differs_from_mesh_default": false
+            },
+            {
+              "index": 12,
+              "expected": "MI_Plane_AirBlue15",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_AirBlue15.MI_Plane_AirBlue15",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_AirBlue15.MI_Plane_AirBlue15",
+              "differs_from_mesh_default": false
+            },
+            {
+              "index": 13,
+              "expected": "MI_Plane_AirTitanium15",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_AirTitanium15.MI_Plane_AirTitanium15",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_AirTitanium15.MI_Plane_AirTitanium15",
+              "differs_from_mesh_default": false
+            },
+            {
+              "index": 14,
+              "expected": "MI_Plane_AirHot15",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_AirHot15.MI_Plane_AirHot15",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_AirHot15.MI_Plane_AirHot15",
+              "differs_from_mesh_default": false
+            },
+            {
+              "index": 15,
+              "expected": "MI_Plane_AirSeam15",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_AirSeam15.MI_Plane_AirSeam15",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_AirSeam15.MI_Plane_AirSeam15",
+              "differs_from_mesh_default": false
+            },
+            {
+              "index": 16,
+              "expected": "MI_Plane_AirGold15",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_AirGold15.MI_Plane_AirGold15",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_AirGold15.MI_Plane_AirGold15",
+              "differs_from_mesh_default": false
+            }
+          ],
+          "override_read_error": "StaticMeshComponent: Failed to find property 'override_materials' for attribute 'override_materials' on 'StaticMeshComponent'"
+        }
+      ]
+    },
+    {
+      "actor": "Flight39 flap 00",
+      "object": "StaticMeshActor_26",
+      "location_reference": [
+        13.699999809265137,
+        17.78036117553711,
+        -1.159999966621399
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "parent": "Flight39 Aircraft carrier",
+      "components": [
+        {
+          "component": "StaticMeshComponent0",
+          "mesh": "/Game/Airport38/Flight08Meshes/SM_AP_F39Surface_00.SM_AP_F39Surface_00",
+          "expected_slot_names": [
+            "MI_Plane_Paint09"
+          ],
+          "slots": [
+            {
+              "index": 0,
+              "expected": "MI_Plane_Paint09",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "differs_from_mesh_default": false
+            }
+          ],
+          "override_read_error": "StaticMeshComponent: Failed to find property 'override_materials' for attribute 'override_materials' on 'StaticMeshComponent'"
+        }
+      ]
+    },
+    {
+      "actor": "Flight39 flap 01",
+      "object": "StaticMeshActor_27",
+      "location_reference": [
+        11.54259967803955,
+        17.95844078063965,
+        -1.0399999618530273
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "parent": "Flight39 Aircraft carrier",
+      "components": [
+        {
+          "component": "StaticMeshComponent0",
+          "mesh": "/Game/Airport38/Flight08Meshes/SM_AP_F39Surface_01.SM_AP_F39Surface_01",
+          "expected_slot_names": [
+            "MI_Plane_Paint09"
+          ],
+          "slots": [
+            {
+              "index": 0,
+              "expected": "MI_Plane_Paint09",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "differs_from_mesh_default": false
+            }
+          ],
+          "override_read_error": "StaticMeshComponent: Failed to find property 'override_materials' for attribute 'override_materials' on 'StaticMeshComponent'"
+        }
+      ]
+    },
+    {
+      "actor": "Flight39 flap 02",
+      "object": "StaticMeshActor_30",
+      "location_reference": [
+        7.5360002517700195,
+        18.65060043334961,
+        -0.7799999713897705
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "parent": "Flight39 Aircraft carrier",
+      "components": [
+        {
+          "component": "StaticMeshComponent0",
+          "mesh": "/Game/Airport38/Flight05Meshes/SM_AP_F39Surface_02.SM_AP_F39Surface_02",
+          "expected_slot_names": [
+            "MI_Plane_Paint09"
+          ],
+          "slots": [
+            {
+              "index": 0,
+              "expected": "MI_Plane_Paint09",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "differs_from_mesh_default": false
+            }
+          ],
+          "override_read_error": "StaticMeshComponent: Failed to find property 'override_materials' for attribute 'override_materials' on 'StaticMeshComponent'"
+        }
+      ]
+    },
+    {
+      "actor": "Flight39 aileron 03",
+      "object": "StaticMeshActor_43",
+      "location_reference": [
+        2.604800224304199,
+        19.973600387573242,
+        -0.39297887682914734
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "parent": "Flight39 Aircraft carrier",
+      "components": [
+        {
+          "component": "StaticMeshComponent0",
+          "mesh": "/Game/Airport38/Flight05Meshes/SM_AP_F39Surface_03.SM_AP_F39Surface_03",
+          "expected_slot_names": [
+            "MI_Plane_Paint09"
+          ],
+          "slots": [
+            {
+              "index": 0,
+              "expected": "MI_Plane_Paint09",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "differs_from_mesh_default": false
+            }
+          ],
+          "override_read_error": "StaticMeshComponent: Failed to find property 'override_materials' for attribute 'override_materials' on 'StaticMeshComponent'"
+        }
+      ]
+    },
+    {
+      "actor": "Flight39 aileron 04",
+      "object": "StaticMeshActor_73",
+      "location_reference": [
+        -2.480499267578125,
+        21.308082580566406,
+        0.10125488042831421
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "parent": "Flight39 Aircraft carrier",
+      "components": [
+        {
+          "component": "StaticMeshComponent0",
+          "mesh": "/Game/Airport38/Flight05Meshes/SM_AP_F39Surface_04.SM_AP_F39Surface_04",
+          "expected_slot_names": [
+            "MI_Plane_Paint09"
+          ],
+          "slots": [
+            {
+              "index": 0,
+              "expected": "MI_Plane_Paint09",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "differs_from_mesh_default": false
+            }
+          ],
+          "override_read_error": "StaticMeshComponent: Failed to find property 'override_materials' for attribute 'override_materials' on 'StaticMeshComponent'"
+        }
+      ]
+    },
+    {
+      "actor": "Flight39 elevator 05",
+      "object": "StaticMeshActor_78",
+      "location_reference": [
+        14.299999952316284,
+        39.75469970703125,
+        0.6200000047683716
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "parent": "Flight39 Aircraft carrier",
+      "components": [
+        {
+          "component": "StaticMeshComponent0",
+          "mesh": "/Game/Airport38/Flight05Meshes/SM_AP_F39Surface_05.SM_AP_F39Surface_05",
+          "expected_slot_names": [
+            "MI_Plane_Paint09"
+          ],
+          "slots": [
+            {
+              "index": 0,
+              "expected": "MI_Plane_Paint09",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "differs_from_mesh_default": false
+            }
+          ],
+          "override_read_error": "StaticMeshComponent: Failed to find property 'override_materials' for attribute 'override_materials' on 'StaticMeshComponent'"
+        }
+      ]
+    },
+    {
+      "actor": "Flight39 flap 06",
+      "object": "StaticMeshActor_190",
+      "location_reference": [
+        18.299999237060547,
+        17.78036117553711,
+        -1.159999966621399
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "parent": "Flight39 Aircraft carrier",
+      "components": [
+        {
+          "component": "StaticMeshComponent0",
+          "mesh": "/Game/Airport38/Flight08Meshes/SM_AP_F39Surface_06.SM_AP_F39Surface_06",
+          "expected_slot_names": [
+            "MI_Plane_Paint09"
+          ],
+          "slots": [
+            {
+              "index": 0,
+              "expected": "MI_Plane_Paint09",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "differs_from_mesh_default": false
+            }
+          ],
+          "override_read_error": "StaticMeshComponent: Failed to find property 'override_materials' for attribute 'override_materials' on 'StaticMeshComponent'"
+        }
+      ]
+    },
+    {
+      "actor": "Flight39 flap 07",
+      "object": "StaticMeshActor_819",
+      "location_reference": [
+        20.457401275634766,
+        17.95844078063965,
+        -1.0399999618530273
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "parent": "Flight39 Aircraft carrier",
+      "components": [
+        {
+          "component": "StaticMeshComponent0",
+          "mesh": "/Game/Airport38/Flight08Meshes/SM_AP_F39Surface_07.SM_AP_F39Surface_07",
+          "expected_slot_names": [
+            "MI_Plane_Paint09"
+          ],
+          "slots": [
+            {
+              "index": 0,
+              "expected": "MI_Plane_Paint09",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "differs_from_mesh_default": false
+            }
+          ],
+          "override_read_error": "StaticMeshComponent: Failed to find property 'override_materials' for attribute 'override_materials' on 'StaticMeshComponent'"
+        }
+      ]
+    },
+    {
+      "actor": "Flight39 flap 08",
+      "object": "StaticMeshActor_821",
+      "location_reference": [
+        24.46399974822998,
+        18.65060043334961,
+        -0.7799999713897705
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "parent": "Flight39 Aircraft carrier",
+      "components": [
+        {
+          "component": "StaticMeshComponent0",
+          "mesh": "/Game/Airport38/Flight05Meshes/SM_AP_F39Surface_08.SM_AP_F39Surface_08",
+          "expected_slot_names": [
+            "MI_Plane_Paint09"
+          ],
+          "slots": [
+            {
+              "index": 0,
+              "expected": "MI_Plane_Paint09",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "differs_from_mesh_default": false
+            }
+          ],
+          "override_read_error": "StaticMeshComponent: Failed to find property 'override_materials' for attribute 'override_materials' on 'StaticMeshComponent'"
+        }
+      ]
+    },
+    {
+      "actor": "Flight39 aileron 09",
+      "object": "StaticMeshActor_826",
+      "location_reference": [
+        29.3951997756958,
+        19.973600387573242,
+        -0.39297887682914734
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "parent": "Flight39 Aircraft carrier",
+      "components": [
+        {
+          "component": "StaticMeshComponent0",
+          "mesh": "/Game/Airport38/Flight05Meshes/SM_AP_F39Surface_09.SM_AP_F39Surface_09",
+          "expected_slot_names": [
+            "MI_Plane_Paint09"
+          ],
+          "slots": [
+            {
+              "index": 0,
+              "expected": "MI_Plane_Paint09",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "differs_from_mesh_default": false
+            }
+          ],
+          "override_read_error": "StaticMeshComponent: Failed to find property 'override_materials' for attribute 'override_materials' on 'StaticMeshComponent'"
+        }
+      ]
+    },
+    {
+      "actor": "Flight39 aileron 10",
+      "object": "StaticMeshActor_828",
+      "location_reference": [
+        34.480499267578125,
+        21.308082580566406,
+        0.10125488042831421
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "parent": "Flight39 Aircraft carrier",
+      "components": [
+        {
+          "component": "StaticMeshComponent0",
+          "mesh": "/Game/Airport38/Flight05Meshes/SM_AP_F39Surface_10.SM_AP_F39Surface_10",
+          "expected_slot_names": [
+            "MI_Plane_Paint09"
+          ],
+          "slots": [
+            {
+              "index": 0,
+              "expected": "MI_Plane_Paint09",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "differs_from_mesh_default": false
+            }
+          ],
+          "override_read_error": "StaticMeshComponent: Failed to find property 'override_materials' for attribute 'override_materials' on 'StaticMeshComponent'"
+        }
+      ]
+    },
+    {
+      "actor": "Flight39 elevator 11",
+      "object": "StaticMeshActor_829",
+      "location_reference": [
+        17.700000047683716,
+        39.75469970703125,
+        0.6200000047683716
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "parent": "Flight39 Aircraft carrier",
+      "components": [
+        {
+          "component": "StaticMeshComponent0",
+          "mesh": "/Game/Airport38/Flight05Meshes/SM_AP_F39Surface_11.SM_AP_F39Surface_11",
+          "expected_slot_names": [
+            "MI_Plane_Paint09"
+          ],
+          "slots": [
+            {
+              "index": 0,
+              "expected": "MI_Plane_Paint09",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+              "differs_from_mesh_default": false
+            }
+          ],
+          "override_read_error": "StaticMeshComponent: Failed to find property 'override_materials' for attribute 'override_materials' on 'StaticMeshComponent'"
+        }
+      ]
+    },
+    {
+      "actor": "Flight39 rudder 12",
+      "object": "StaticMeshActor_833",
+      "location_reference": [
+        16.0,
+        39.85920333862305,
+        2.5
+      ],
+      "rotation": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "parent": "Flight39 Aircraft carrier",
+      "components": [
+        {
+          "component": "StaticMeshComponent0",
+          "mesh": "/Game/Airport38/Flight05Meshes/SM_AP_F39Surface_12.SM_AP_F39Surface_12",
+          "expected_slot_names": [
+            "MI_Plane_Blue09"
+          ],
+          "slots": [
+            {
+              "index": 0,
+              "expected": "MI_Plane_Blue09",
+              "effective": "/Game/Art/Materials/Instances/MI_Plane_Blue09.MI_Plane_Blue09",
+              "mesh_default": "/Game/Art/Materials/Instances/MI_Plane_Blue09.MI_Plane_Blue09",
+              "differs_from_mesh_default": false
+            }
+          ],
+          "override_read_error": "StaticMeshComponent: Failed to find property 'override_materials' for attribute 'override_materials' on 'StaticMeshComponent'"
+        }
+      ]
+    }
+  ],
+  "actuators": [
+    {
+      "actor": "Flight39 flap 00",
+      "asset": "SM_AP_F39Surface_00",
+      "role": "flap",
+      "axis": [
+        -0.9950828552246094,
+        0.08213772624731064,
+        0.05534899979829788
+      ],
+      "intended_pivot": [
+        13.699999809265137,
+        17.78036117553711,
+        -1.159999966621399
+      ],
+      "actual_pivot_reference": [
+        13.699999809265137,
+        17.78036117553711,
+        -1.159999966621399
+      ],
+      "pivot_error_m": 0.0,
+      "parent": "Flight39 Aircraft carrier",
+      "expected_angle_deg": 0,
+      "actual_relative_quaternion": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "expected_relative_quaternion": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "rotation_error_deg": 0.0
+    },
+    {
+      "actor": "Flight39 flap 01",
+      "asset": "SM_AP_F39Surface_01",
+      "role": "flap",
+      "axis": [
+        -0.9833953380584717,
+        0.16988635063171387,
+        0.0638154074549675
+      ],
+      "intended_pivot": [
+        11.54259967803955,
+        17.95844078063965,
+        -1.0399999618530273
+      ],
+      "actual_pivot_reference": [
+        11.54259967803955,
+        17.95844078063965,
+        -1.0399999618530273
+      ],
+      "pivot_error_m": 0.0,
+      "parent": "Flight39 Aircraft carrier",
+      "expected_angle_deg": 0,
+      "actual_relative_quaternion": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "expected_relative_quaternion": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "rotation_error_deg": 0.0
+    },
+    {
+      "actor": "Flight39 flap 02",
+      "asset": "SM_AP_F39Surface_02",
+      "role": "flap",
+      "axis": [
+        -0.9630800485610962,
+        0.25838637351989746,
+        0.07558652758598328
+      ],
+      "intended_pivot": [
+        7.5360002517700195,
+        18.65060043334961,
+        -0.7799999713897705
+      ],
+      "actual_pivot_reference": [
+        7.5360002517700195,
+        18.65060043334961,
+        -0.7799999713897705
+      ],
+      "pivot_error_m": 0.0,
+      "parent": "Flight39 Aircraft carrier",
+      "expected_angle_deg": 0,
+      "actual_relative_quaternion": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "expected_relative_quaternion": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "rotation_error_deg": 0.0
+    },
+    {
+      "actor": "Flight39 aileron 03",
+      "asset": "SM_AP_F39Surface_03",
+      "role": "aileron",
+      "axis": [
+        -0.9630043506622314,
+        0.2527112066745758,
+        0.09359315782785416
+      ],
+      "intended_pivot": [
+        2.604800224304199,
+        19.973600387573242,
+        -0.39297887682914734
+      ],
+      "actual_pivot_reference": [
+        2.604800224304199,
+        19.973600387573242,
+        -0.39297887682914734
+      ],
+      "pivot_error_m": 0.0,
+      "parent": "Flight39 Aircraft carrier",
+      "expected_angle_deg": -0.0,
+      "actual_relative_quaternion": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "expected_relative_quaternion": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "rotation_error_deg": 0.0
+    },
+    {
+      "actor": "Flight39 aileron 04",
+      "asset": "SM_AP_F39Surface_04",
+      "role": "aileron",
+      "axis": [
+        -0.9733649492263794,
+        0.19734980165958405,
+        0.11667773127555847
+      ],
+      "intended_pivot": [
+        -2.480499267578125,
+        21.308082580566406,
+        0.10125488042831421
+      ],
+      "actual_pivot_reference": [
+        -2.480499267578125,
+        21.308082580566406,
+        0.10125488042831421
+      ],
+      "pivot_error_m": 0.0,
+      "parent": "Flight39 Aircraft carrier",
+      "expected_angle_deg": -0.0,
+      "actual_relative_quaternion": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "expected_relative_quaternion": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "rotation_error_deg": 0.0
+    },
+    {
+      "actor": "Flight39 elevator 05",
+      "asset": "SM_AP_F39Surface_05",
+      "role": "elevator",
+      "axis": [
+        -0.9694128632545471,
+        0.22362065315246582,
+        0.10115612298250198
+      ],
+      "intended_pivot": [
+        14.299999952316284,
+        39.75469970703125,
+        0.6200000047683716
+      ],
+      "actual_pivot_reference": [
+        14.299999952316284,
+        39.75469970703125,
+        0.6200000047683716
+      ],
+      "pivot_error_m": 0.0,
+      "parent": "Flight39 Aircraft carrier",
+      "expected_angle_deg": -0.0,
+      "actual_relative_quaternion": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "expected_relative_quaternion": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "rotation_error_deg": 0.0
+    },
+    {
+      "actor": "Flight39 flap 06",
+      "asset": "SM_AP_F39Surface_06",
+      "role": "flap",
+      "axis": [
+        0.9950828552246094,
+        0.08213772624731064,
+        0.05534899979829788
+      ],
+      "intended_pivot": [
+        18.299999237060547,
+        17.78036117553711,
+        -1.159999966621399
+      ],
+      "actual_pivot_reference": [
+        18.299999237060547,
+        17.78036117553711,
+        -1.159999966621399
+      ],
+      "pivot_error_m": 0.0,
+      "parent": "Flight39 Aircraft carrier",
+      "expected_angle_deg": 0,
+      "actual_relative_quaternion": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "expected_relative_quaternion": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "rotation_error_deg": 0.0
+    },
+    {
+      "actor": "Flight39 flap 07",
+      "asset": "SM_AP_F39Surface_07",
+      "role": "flap",
+      "axis": [
+        0.9833953380584717,
+        0.16988635063171387,
+        0.0638154074549675
+      ],
+      "intended_pivot": [
+        20.457401275634766,
+        17.95844078063965,
+        -1.0399999618530273
+      ],
+      "actual_pivot_reference": [
+        20.457401275634766,
+        17.95844078063965,
+        -1.0399999618530273
+      ],
+      "pivot_error_m": 0.0,
+      "parent": "Flight39 Aircraft carrier",
+      "expected_angle_deg": 0,
+      "actual_relative_quaternion": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "expected_relative_quaternion": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "rotation_error_deg": 0.0
+    },
+    {
+      "actor": "Flight39 flap 08",
+      "asset": "SM_AP_F39Surface_08",
+      "role": "flap",
+      "axis": [
+        0.9630800485610962,
+        0.25838637351989746,
+        0.07558652758598328
+      ],
+      "intended_pivot": [
+        24.46399974822998,
+        18.65060043334961,
+        -0.7799999713897705
+      ],
+      "actual_pivot_reference": [
+        24.46399974822998,
+        18.65060043334961,
+        -0.7799999713897705
+      ],
+      "pivot_error_m": 0.0,
+      "parent": "Flight39 Aircraft carrier",
+      "expected_angle_deg": 0,
+      "actual_relative_quaternion": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "expected_relative_quaternion": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "rotation_error_deg": 0.0
+    },
+    {
+      "actor": "Flight39 aileron 09",
+      "asset": "SM_AP_F39Surface_09",
+      "role": "aileron",
+      "axis": [
+        0.9630043506622314,
+        0.2527112066745758,
+        0.09359315782785416
+      ],
+      "intended_pivot": [
+        29.3951997756958,
+        19.973600387573242,
+        -0.39297887682914734
+      ],
+      "actual_pivot_reference": [
+        29.3951997756958,
+        19.973600387573242,
+        -0.39297887682914734
+      ],
+      "pivot_error_m": 0.0,
+      "parent": "Flight39 Aircraft carrier",
+      "expected_angle_deg": -0.0,
+      "actual_relative_quaternion": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "expected_relative_quaternion": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "rotation_error_deg": 0.0
+    },
+    {
+      "actor": "Flight39 aileron 10",
+      "asset": "SM_AP_F39Surface_10",
+      "role": "aileron",
+      "axis": [
+        0.9733649492263794,
+        0.19734980165958405,
+        0.11667773127555847
+      ],
+      "intended_pivot": [
+        34.480499267578125,
+        21.308082580566406,
+        0.10125488042831421
+      ],
+      "actual_pivot_reference": [
+        34.480499267578125,
+        21.308082580566406,
+        0.10125488042831421
+      ],
+      "pivot_error_m": 0.0,
+      "parent": "Flight39 Aircraft carrier",
+      "expected_angle_deg": -0.0,
+      "actual_relative_quaternion": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "expected_relative_quaternion": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "rotation_error_deg": 0.0
+    },
+    {
+      "actor": "Flight39 elevator 11",
+      "asset": "SM_AP_F39Surface_11",
+      "role": "elevator",
+      "axis": [
+        0.9694128632545471,
+        0.22362065315246582,
+        0.10115612298250198
+      ],
+      "intended_pivot": [
+        17.700000047683716,
+        39.75469970703125,
+        0.6200000047683716
+      ],
+      "actual_pivot_reference": [
+        17.700000047683716,
+        39.75469970703125,
+        0.6200000047683716
+      ],
+      "pivot_error_m": 0.0,
+      "parent": "Flight39 Aircraft carrier",
+      "expected_angle_deg": 0.0,
+      "actual_relative_quaternion": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "expected_relative_quaternion": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "rotation_error_deg": 0.0
+    },
+    {
+      "actor": "Flight39 rudder 12",
+      "asset": "SM_AP_F39Surface_12",
+      "role": "rudder",
+      "axis": [
+        0.0,
+        0.09027857333421707,
+        0.9959166049957275
+      ],
+      "intended_pivot": [
+        16.0,
+        39.85920333862305,
+        2.5
+      ],
+      "actual_pivot_reference": [
+        16.0,
+        39.85920333862305,
+        2.5
+      ],
+      "pivot_error_m": 0.0,
+      "parent": "Flight39 Aircraft carrier",
+      "expected_angle_deg": 0.0,
+      "actual_relative_quaternion": [
+        0.0,
+        -0.0,
+        0.0,
+        1.0
+      ],
+      "expected_relative_quaternion": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "rotation_error_deg": 0.0
+    }
+  ],
+  "rays": [
+    {
+      "name": "wing_-1_5",
+      "start_reference": [
+        11,
+        16.5,
+        5
+      ],
+      "end_reference": [
+        11,
+        16.5,
+        -2
+      ],
+      "blocking": true,
+      "owner": "SM_Plane_ExteriorAirframe",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_AP_F39AirframeFixed",
+      "impact_reference": [
+        11.0,
+        16.5,
+        -0.728471895815361
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "wing_-1_10",
+      "start_reference": [
+        6,
+        18.3,
+        5
+      ],
+      "end_reference": [
+        6,
+        18.3,
+        -2
+      ],
+      "blocking": true,
+      "owner": "SM_Plane_ExteriorAirframe",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_AP_F39AirframeFixed",
+      "impact_reference": [
+        6.0,
+        18.3,
+        -0.4908051129256012
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "wing_-1_16",
+      "start_reference": [
+        0,
+        20.1,
+        5
+      ],
+      "end_reference": [
+        0,
+        20.1,
+        -2
+      ],
+      "blocking": true,
+      "owner": "SM_Plane_ExteriorAirframe",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_AP_F39AirframeFixed",
+      "impact_reference": [
+        0.0,
+        20.1,
+        -0.03668973395112971
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "shoulder_-1_2.7",
+      "start_reference": [
+        14.2,
+        2.7,
+        4
+      ],
+      "end_reference": [
+        14.2,
+        2.7,
+        1.8
+      ],
+      "blocking": true,
+      "owner": "SM_Plane_OuterWindowBarrel bay10 02",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_AP_W40PressureWindows",
+      "impact_reference": [
+        14.2,
+        2.7,
+        2.672269537802166
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "shoulder_-1_7.4",
+      "start_reference": [
+        14.2,
+        7.4,
+        4
+      ],
+      "end_reference": [
+        14.2,
+        7.4,
+        1.8
+      ],
+      "blocking": true,
+      "owner": "SM_Plane_OuterWindowBarrel bay10 05",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_AP_W40PressureWindows",
+      "impact_reference": [
+        14.2,
+        7.4,
+        2.6289374953065043
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "shoulder_-1_13.5",
+      "start_reference": [
+        14.2,
+        13.5,
+        4
+      ],
+      "end_reference": [
+        14.2,
+        13.5,
+        1.8
+      ],
+      "blocking": true,
+      "owner": "Cabin frame10 10",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_Plane_ArchRib",
+      "impact_reference": [
+        14.2,
+        13.5,
+        2.542475456204833
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "shoulder_-1_22.8",
+      "start_reference": [
+        14.2,
+        22.8,
+        4
+      ],
+      "end_reference": [
+        14.2,
+        22.8,
+        1.8
+      ],
+      "blocking": true,
+      "owner": "SM_Plane_OuterWindowBarrel bay10 16",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_AP_W40PressureWindows",
+      "impact_reference": [
+        14.2,
+        22.8,
+        2.6285800602792015
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "shoulder_-1_25.4",
+      "start_reference": [
+        14.2,
+        25.4,
+        4
+      ],
+      "end_reference": [
+        14.2,
+        25.4,
+        1.8
+      ],
+      "blocking": true,
+      "owner": "SM_Plane_OuterWindowBarrel bay10 18",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_AP_W40PressureWindows",
+      "impact_reference": [
+        14.2,
+        25.4,
+        2.6289374953065043
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "shoulder_-1_31.6",
+      "start_reference": [
+        14.2,
+        31.6,
+        4
+      ],
+      "end_reference": [
+        14.2,
+        31.6,
+        1.8
+      ],
+      "blocking": true,
+      "owner": "SM_Plane_OuterWindowBarrel bay10 23",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_AP_W40PressureWindows",
+      "impact_reference": [
+        14.2,
+        31.6,
+        2.6289374953065043
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "wing_1_5",
+      "start_reference": [
+        21,
+        16.5,
+        5
+      ],
+      "end_reference": [
+        21,
+        16.5,
+        -2
+      ],
+      "blocking": true,
+      "owner": "SM_Plane_ExteriorAirframe",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_AP_F39AirframeFixed",
+      "impact_reference": [
+        21.0,
+        16.5,
+        -0.728471895815361
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "wing_1_10",
+      "start_reference": [
+        26,
+        18.3,
+        5
+      ],
+      "end_reference": [
+        26,
+        18.3,
+        -2
+      ],
+      "blocking": true,
+      "owner": "SM_Plane_ExteriorAirframe",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_AP_F39AirframeFixed",
+      "impact_reference": [
+        26.0,
+        18.3,
+        -0.4908051129256012
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "wing_1_16",
+      "start_reference": [
+        32,
+        20.1,
+        5
+      ],
+      "end_reference": [
+        32,
+        20.1,
+        -2
+      ],
+      "blocking": true,
+      "owner": "SM_Plane_ExteriorAirframe",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_AP_F39AirframeFixed",
+      "impact_reference": [
+        32.0,
+        20.1,
+        -0.036689733951128574
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "shoulder_1_2.7",
+      "start_reference": [
+        17.8,
+        2.7,
+        4
+      ],
+      "end_reference": [
+        17.8,
+        2.7,
+        1.8
+      ],
+      "blocking": true,
+      "owner": "SM_Plane_OuterWindowBarrel bay10 02",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_AP_W40PressureWindows",
+      "impact_reference": [
+        17.8,
+        2.7,
+        2.6722695378021655
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "shoulder_1_7.4",
+      "start_reference": [
+        17.8,
+        7.4,
+        4
+      ],
+      "end_reference": [
+        17.8,
+        7.4,
+        1.8
+      ],
+      "blocking": true,
+      "owner": "SM_Plane_OuterWindowBarrel bay10 05",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_AP_W40PressureWindows",
+      "impact_reference": [
+        17.8,
+        7.4,
+        2.6289374953065043
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "shoulder_1_13.5",
+      "start_reference": [
+        17.8,
+        13.5,
+        4
+      ],
+      "end_reference": [
+        17.8,
+        13.5,
+        1.8
+      ],
+      "blocking": true,
+      "owner": "Cabin frame10 10",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_Plane_ArchRib",
+      "impact_reference": [
+        17.8,
+        13.5,
+        2.542475456204833
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "shoulder_1_22.8",
+      "start_reference": [
+        17.8,
+        22.8,
+        4
+      ],
+      "end_reference": [
+        17.8,
+        22.8,
+        1.8
+      ],
+      "blocking": true,
+      "owner": "SM_Plane_OuterWindowBarrel bay10 16",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_AP_W40PressureWindows",
+      "impact_reference": [
+        17.8,
+        22.8,
+        2.6285800602792015
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "shoulder_1_25.4",
+      "start_reference": [
+        17.8,
+        25.4,
+        4
+      ],
+      "end_reference": [
+        17.8,
+        25.4,
+        1.8
+      ],
+      "blocking": true,
+      "owner": "SM_Plane_OuterWindowBarrel bay10 18",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_AP_W40PressureWindows",
+      "impact_reference": [
+        17.8,
+        25.4,
+        2.6289374953065043
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "shoulder_1_31.6",
+      "start_reference": [
+        17.8,
+        31.6,
+        4
+      ],
+      "end_reference": [
+        17.8,
+        31.6,
+        1.8
+      ],
+      "blocking": true,
+      "owner": "SM_Plane_OuterWindowBarrel bay10 23",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_AP_W40PressureWindows",
+      "impact_reference": [
+        17.8,
+        31.6,
+        2.6289374953065043
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "crown_3.4",
+      "start_reference": [
+        16,
+        3.4,
+        4.5
+      ],
+      "end_reference": [
+        16,
+        3.4,
+        2.55
+      ],
+      "blocking": true,
+      "owner": "SM_Plane_ExteriorAirframe",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_AP_F39AirframeFixed",
+      "impact_reference": [
+        16.0,
+        3.4,
+        2.995
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "crown_7.4",
+      "start_reference": [
+        16,
+        7.4,
+        4.5
+      ],
+      "end_reference": [
+        16,
+        7.4,
+        2.55
+      ],
+      "blocking": true,
+      "owner": "SM_Plane_ExteriorAirframe",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_AP_F39AirframeFixed",
+      "impact_reference": [
+        16.0,
+        7.4,
+        3.21867944192776
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "crown_13.5",
+      "start_reference": [
+        16,
+        13.5,
+        4.5
+      ],
+      "end_reference": [
+        16,
+        13.5,
+        2.55
+      ],
+      "blocking": true,
+      "owner": "Cabin frame10 10",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_Plane_ArchRib",
+      "impact_reference": [
+        16.0,
+        13.5,
+        2.7555001831054686
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "crown_22.8",
+      "start_reference": [
+        16,
+        22.8,
+        4.5
+      ],
+      "end_reference": [
+        16,
+        22.8,
+        2.55
+      ],
+      "blocking": true,
+      "owner": "SM_Plane_ExteriorAirframe",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_AP_F39AirframeFixed",
+      "impact_reference": [
+        16.0,
+        22.8,
+        3.1568995647414346
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "crown_25.4",
+      "start_reference": [
+        16,
+        25.4,
+        4.5
+      ],
+      "end_reference": [
+        16,
+        25.4,
+        2.55
+      ],
+      "blocking": true,
+      "owner": "SM_Plane_ExteriorAirframe",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_AP_F39AirframeFixed",
+      "impact_reference": [
+        16.0,
+        25.4,
+        2.995
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    },
+    {
+      "name": "crown_31.6",
+      "start_reference": [
+        16,
+        31.6,
+        4.5
+      ],
+      "end_reference": [
+        16,
+        31.6,
+        2.55
+      ],
+      "blocking": true,
+      "owner": "SM_Plane_ExteriorAirframe",
+      "component": "StaticMeshComponent0",
+      "mesh": "SM_AP_F39AirframeFixed",
+      "impact_reference": [
+        16.0,
+        31.6,
+        3.1159809836295915
+      ],
+      "hit_tuple_types": [
+        "bool",
+        "bool",
+        "float",
+        "float",
+        "Vector",
+        "Vector",
+        "Vector",
+        "Vector",
+        "PhysicalMaterial",
+        "StaticMeshActor",
+        "StaticMeshComponent",
+        "Name",
+        "Name",
+        "int",
+        "int",
+        "int",
+        "Vector",
+        "Vector"
+      ]
+    }
+  ],
+  "shades": [
+    {
+      "actor": "Window shade 01 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        2.0250000953674316,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 02 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        2.0250000953674316,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 03 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        3.375,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 04 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        3.375,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 05 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        4.724999904632568,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 06 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        4.724999904632568,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 07 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        6.074999809265137,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 08 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        6.074999809265137,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 09 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        7.425000190734863,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 10 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        7.425000190734863,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 11 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        8.774999618530273,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 12 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        8.774999618530273,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 13 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        10.125,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 14 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        10.125,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 15 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        11.475000381469727,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 16 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        11.475000381469727,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 17 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        12.824999809265137,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 18 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        12.824999809265137,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 19 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        14.175000190734863,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 20 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        14.175000190734863,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 21 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        15.524999618530273,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 22 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        15.524999618530273,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 23 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        16.875,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 24 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        16.875,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 25 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        18.225000381469727,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 26 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        18.225000381469727,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 27 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        19.575000762939453,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 28 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        19.575000762939453,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 29 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        20.924999237060547,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 30 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        20.924999237060547,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 31 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        22.274999618530273,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 32 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        22.274999618530273,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 33 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        23.625,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 34 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        23.625,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 35 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        24.975000381469727,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 36 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        24.975000381469727,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 37 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        26.325000762939453,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 38 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        26.325000762939453,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 39 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        29.024999618530273,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 40 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        29.024999618530273,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 41 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        30.375,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 42 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        30.375,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 43 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        31.725000381469727,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 44 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        31.725000381469727,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 45 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        33.07500076293945,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 46 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        33.07500076293945,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 47 R18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          -0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          -0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          -0.2120000000000033,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          -0.21005717063739482,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        18.128,
+        34.42499923706055,
+        2.055
+      ]
+    },
+    {
+      "actor": "Window shade 48 L18",
+      "progress": 1.0,
+      "target": 1.0,
+      "part_deltas": [
+        [
+          0.21199999999999974,
+          0.0,
+          1.1350000000000002
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.935
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.7350000000000001
+        ],
+        [
+          0.21199999999999974,
+          0.0,
+          0.5350000000000001
+        ],
+        [
+          0.21005717063739304,
+          0.0,
+          0.33499999999999996
+        ]
+      ],
+      "actual_actor_reference": [
+        13.872,
+        34.42499923706055,
+        2.055
+      ]
+    }
+  ],
+  "warnings": [],
+  "shade_prepare_marker": {
+    "interactions": 48,
+    "inboard_stow_m": 0.12,
+    "closed_poses_preserved": true
+  },
+  "complete": true
+}

@@ -1,0 +1,3490 @@
+{
+  "status": "SUCCESS",
+  "passes": [
+    {
+      "module": "Fixes/06_visual_finish43/finish43.py",
+      "result": {
+        "status": "IMPLEMENTED_SOURCE_REQUIRES_NATIVE_VISUAL_VALIDATION",
+        "asset_ids": [
+          "SM_AP_TerminalWallFinish43",
+          "SM_AP_BaggageBackdrop43",
+          "SM_AP_Walls38",
+          "SM_AP_Floors38",
+          "SM_AP_Ceilings38"
+        ],
+        "new_assets": [
+          "SM_AP_TerminalWallFinish43",
+          "SM_AP_BaggageBackdrop43"
+        ],
+        "material_changes": [
+          {
+            "asset": "SM_AP_Walls38",
+            "part": "Exposed Walls38 structure union38",
+            "slot": 0,
+            "before": "MI_AP_P38ACream",
+            "after": "MI_AP_P43TPlaster"
+          },
+          {
+            "asset": "SM_AP_Walls38",
+            "part": "Exposed Walls38 structure union38",
+            "slot": 2,
+            "before": "MI_AP_P38ANavy",
+            "after": "MI_AP_P43TDado"
+          },
+          {
+            "asset": "SM_AP_Walls38",
+            "part": "Exposed Walls38 structure union38",
+            "slot": 3,
+            "before": "MI_AP_P38AOak",
+            "after": "MI_AP_P43TOak"
+          },
+          {
+            "asset": "SM_AP_Walls38",
+            "part": "Exposed Walls38 structure union38",
+            "slot": 6,
+            "before": "MI_AP_P38ASage",
+            "after": "MI_AP_P43TDado"
+          },
+          {
+            "asset": "SM_AP_Walls38",
+            "part": "Exposed Walls38 structure union38",
+            "slot": 7,
+            "before": "MI_AP_P38ACeiling",
+            "after": "MI_AP_P43TCeiling"
+          },
+          {
+            "asset": "SM_AP_Walls38",
+            "part": "WelcomeCheckin constructed curved aperture corner39 left",
+            "slot": 0,
+            "before": "MI_AP_P38ACream",
+            "after": "MI_AP_P43TPlaster"
+          },
+          {
+            "asset": "SM_AP_Walls38",
+            "part": "WelcomeCheckin constructed curved aperture corner39 right",
+            "slot": 0,
+            "before": "MI_AP_P38ACream",
+            "after": "MI_AP_P43TPlaster"
+          },
+          {
+            "asset": "SM_AP_Walls38",
+            "part": "A07 constructed curved aperture corner39 left",
+            "slot": 0,
+            "before": "MI_AP_P38ACream",
+            "after": "MI_AP_P43TPlaster"
+          },
+          {
+            "asset": "SM_AP_Walls38",
+            "part": "A07 constructed curved aperture corner39 right",
+            "slot": 0,
+            "before": "MI_AP_P38ACream",
+            "after": "MI_AP_P43TPlaster"
+          },
+          {
+            "asset": "SM_AP_Walls38",
+            "part": "A08 constructed curved aperture corner39 left",
+            "slot": 0,
+            "before": "MI_AP_P38ACream",
+            "after": "MI_AP_P43TPlaster"
+          },
+          {
+            "asset": "SM_AP_Walls38",
+            "part": "A08 constructed curved aperture corner39 right",
+            "slot": 0,
+            "before": "MI_AP_P38ACream",
+            "after": "MI_AP_P43TPlaster"
+          },
+          {
+            "asset": "SM_AP_Walls38",
+            "part": "Cafe constructed curved aperture corner39 left",
+            "slot": 0,
+            "before": "MI_AP_P38ACream",
+            "after": "MI_AP_P43TPlaster"
+          },
+          {
+            "asset": "SM_AP_Walls38",
+            "part": "Cafe constructed curved aperture corner39 right",
+            "slot": 0,
+            "before": "MI_AP_P38ACream",
+            "after": "MI_AP_P43TPlaster"
+          },
+          {
+            "asset": "SM_AP_Walls38",
+            "part": "Recovery constructed curved aperture corner39 left",
+            "slot": 0,
+            "before": "MI_AP_P38ACream",
+            "after": "MI_AP_P43TPlaster"
+          },
+          {
+            "asset": "SM_AP_Walls38",
+            "part": "Recovery constructed curved aperture corner39 right",
+            "slot": 0,
+            "before": "MI_AP_P38ACream",
+            "after": "MI_AP_P43TPlaster"
+          },
+          {
+            "asset": "SM_AP_Walls38",
+            "part": "WC constructed curved aperture corner39 left",
+            "slot": 0,
+            "before": "MI_AP_P38ACream",
+            "after": "MI_AP_P43TPlaster"
+          },
+          {
+            "asset": "SM_AP_Walls38",
+            "part": "WC constructed curved aperture corner39 right",
+            "slot": 0,
+            "before": "MI_AP_P38ACream",
+            "after": "MI_AP_P43TPlaster"
+          },
+          {
+            "asset": "SM_AP_Floors38",
+            "part": "Exposed Floors38 structure union38",
+            "slot": 0,
+            "before": "MI_AP_P38AStone",
+            "after": "MI_AP_P43TFloor"
+          },
+          {
+            "asset": "SM_AP_Floors38",
+            "part": "Exposed Floors38 structure union38",
+            "slot": 1,
+            "before": "MI_AP_P38ACarpet",
+            "after": "MI_AP_P43TCarpet"
+          },
+          {
+            "asset": "SM_AP_Floors38",
+            "part": "Exposed Floors38 structure union38",
+            "slot": 2,
+            "before": "MI_AP_P38AWCStone",
+            "after": "MI_AP_P43TWC"
+          },
+          {
+            "asset": "SM_AP_Ceilings38",
+            "part": "Exposed Ceilings38 structure union38",
+            "slot": 0,
+            "before": "MI_AP_P38ACeiling",
+            "after": "MI_AP_P43TCeiling"
+          }
+        ],
+        "wall_panels": {
+          "panels": 298,
+          "surfaces": [
+            {
+              "zone": "publicreturn",
+              "axis": "x",
+              "k": -18,
+              "side": -1,
+              "interval": [
+                -49,
+                -43
+              ],
+              "height": [
+                1.075,
+                3.5
+              ],
+              "panel_count": 3
+            },
+            {
+              "zone": "entrancefoyer",
+              "axis": "x",
+              "k": -18,
+              "side": 1,
+              "interval": [
+                -49,
+                -43
+              ],
+              "height": [
+                1.075,
+                3.5
+              ],
+              "panel_count": 3
+            },
+            {
+              "zone": "publicreturn",
+              "axis": "x",
+              "k": -18,
+              "side": -1,
+              "interval": [
+                -43,
+                -26
+              ],
+              "height": [
+                1.075,
+                3.6999999999999997
+              ],
+              "panel_count": 7
+            },
+            {
+              "zone": "checkin",
+              "axis": "x",
+              "k": -18,
+              "side": 1,
+              "interval": [
+                -43,
+                -26
+              ],
+              "height": [
+                1.075,
+                3.6999999999999997
+              ],
+              "panel_count": 7
+            },
+            {
+              "zone": "entrancefoyer",
+              "axis": "x",
+              "k": -8,
+              "side": -1,
+              "interval": [
+                -49,
+                -43
+              ],
+              "height": [
+                1.075,
+                3.5
+              ],
+              "panel_count": 3
+            },
+            {
+              "zone": "landsidecorridor",
+              "axis": "x",
+              "k": -8,
+              "side": 1,
+              "interval": [
+                -49,
+                -43
+              ],
+              "height": [
+                1.075,
+                3.5
+              ],
+              "panel_count": 3
+            },
+            {
+              "zone": "checkin",
+              "axis": "x",
+              "k": -8,
+              "side": -1,
+              "interval": [
+                -43,
+                -31.5
+              ],
+              "height": [
+                1.075,
+                3.6999999999999997
+              ],
+              "panel_count": 5
+            },
+            {
+              "zone": "checkin",
+              "axis": "x",
+              "k": -8,
+              "side": -1,
+              "interval": [
+                -31.5,
+                -28.5
+              ],
+              "height": [
+                2.8,
+                3.6999999999999997
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "checkin",
+              "axis": "x",
+              "k": -8,
+              "side": -1,
+              "interval": [
+                -28.5,
+                -26
+              ],
+              "height": [
+                1.075,
+                3.6999999999999997
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "landsidecorridor",
+              "axis": "x",
+              "k": -8,
+              "side": 1,
+              "interval": [
+                -43,
+                -31.5
+              ],
+              "height": [
+                1.075,
+                3.6999999999999997
+              ],
+              "panel_count": 5
+            },
+            {
+              "zone": "landsidecorridor",
+              "axis": "x",
+              "k": -8,
+              "side": 1,
+              "interval": [
+                -31.5,
+                -28.5
+              ],
+              "height": [
+                2.8,
+                3.6999999999999997
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "landsidecorridor",
+              "axis": "x",
+              "k": -8,
+              "side": 1,
+              "interval": [
+                -28.5,
+                -26
+              ],
+              "height": [
+                1.075,
+                3.6999999999999997
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "publicreturn",
+              "axis": "y",
+              "k": -49,
+              "side": 1,
+              "interval": [
+                -22,
+                -21.2
+              ],
+              "height": [
+                1.075,
+                3.1
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "publicreturn",
+              "axis": "y",
+              "k": -49,
+              "side": 1,
+              "interval": [
+                -21.2,
+                -18.8
+              ],
+              "height": [
+                2.8,
+                3.1
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "publicreturn",
+              "axis": "y",
+              "k": -49,
+              "side": 1,
+              "interval": [
+                -18.8,
+                -18
+              ],
+              "height": [
+                1.075,
+                3.1
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "facade",
+              "axis": "y",
+              "k": -49,
+              "side": -1,
+              "interval": [
+                -22,
+                -21.2
+              ],
+              "height": [
+                1.075,
+                3.1
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "facade",
+              "axis": "y",
+              "k": -49,
+              "side": -1,
+              "interval": [
+                -21.2,
+                -18.8
+              ],
+              "height": [
+                2.8,
+                3.1
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "facade",
+              "axis": "y",
+              "k": -49,
+              "side": -1,
+              "interval": [
+                -18.8,
+                -18
+              ],
+              "height": [
+                1.075,
+                3.1
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "landsidecorridor",
+              "axis": "y",
+              "k": -49,
+              "side": 1,
+              "interval": [
+                -8,
+                -4
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "facade",
+              "axis": "y",
+              "k": -49,
+              "side": -1,
+              "interval": [
+                -8,
+                -4
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "security",
+              "axis": "y",
+              "k": -49,
+              "side": 1,
+              "interval": [
+                -4,
+                10
+              ],
+              "height": [
+                1.075,
+                3.4
+              ],
+              "panel_count": 6
+            },
+            {
+              "zone": "facade",
+              "axis": "y",
+              "k": -49,
+              "side": -1,
+              "interval": [
+                -4,
+                10
+              ],
+              "height": [
+                1.075,
+                3.4
+              ],
+              "panel_count": 6
+            },
+            {
+              "zone": "entrancefoyer",
+              "axis": "y",
+              "k": -43,
+              "side": -1,
+              "interval": [
+                -18,
+                -16.3
+              ],
+              "height": [
+                1.075,
+                3.6999999999999997
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "entrancefoyer",
+              "axis": "y",
+              "k": -43,
+              "side": -1,
+              "interval": [
+                -16.3,
+                -13.7
+              ],
+              "height": [
+                2.8,
+                3.6999999999999997
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "entrancefoyer",
+              "axis": "y",
+              "k": -43,
+              "side": -1,
+              "interval": [
+                -13.7,
+                -8
+              ],
+              "height": [
+                1.075,
+                3.6999999999999997
+              ],
+              "panel_count": 3
+            },
+            {
+              "zone": "checkin",
+              "axis": "y",
+              "k": -43,
+              "side": 1,
+              "interval": [
+                -18,
+                -16.3
+              ],
+              "height": [
+                1.075,
+                3.6999999999999997
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "checkin",
+              "axis": "y",
+              "k": -43,
+              "side": 1,
+              "interval": [
+                -16.3,
+                -13.7
+              ],
+              "height": [
+                2.8,
+                3.6999999999999997
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "checkin",
+              "axis": "y",
+              "k": -43,
+              "side": 1,
+              "interval": [
+                -13.7,
+                -8
+              ],
+              "height": [
+                1.075,
+                3.6999999999999997
+              ],
+              "panel_count": 3
+            },
+            {
+              "zone": "publicreturn",
+              "axis": "y",
+              "k": -26,
+              "side": -1,
+              "interval": [
+                -18.5,
+                -18
+              ],
+              "height": [
+                1.075,
+                3.1
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "amenitylobby",
+              "axis": "y",
+              "k": -26,
+              "side": 1,
+              "interval": [
+                -12,
+                -8
+              ],
+              "height": [
+                1.075,
+                3.6999999999999997
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "landsidecorridor",
+              "axis": "y",
+              "k": -26,
+              "side": -1,
+              "interval": [
+                -8,
+                -4
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "amenitylobby",
+              "axis": "y",
+              "k": -26,
+              "side": 1,
+              "interval": [
+                -8,
+                -4
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "concourse",
+              "axis": "y",
+              "k": -26,
+              "side": -1,
+              "interval": [
+                -3.9,
+                -2.1
+              ],
+              "height": [
+                2.8,
+                3.3
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "concourse",
+              "axis": "y",
+              "k": -26,
+              "side": -1,
+              "interval": [
+                -2.1,
+                -1
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "amenitylobby",
+              "axis": "y",
+              "k": -26,
+              "side": 1,
+              "interval": [
+                -3.9,
+                -2.1
+              ],
+              "height": [
+                2.8,
+                3.3
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "amenitylobby",
+              "axis": "y",
+              "k": -26,
+              "side": 1,
+              "interval": [
+                -2.1,
+                -1
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "concourse",
+              "axis": "y",
+              "k": -26,
+              "side": -1,
+              "interval": [
+                -1,
+                2.1
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "concourse",
+              "axis": "y",
+              "k": -26,
+              "side": -1,
+              "interval": [
+                5.9,
+                10
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "gate07entry",
+              "axis": "y",
+              "k": -26,
+              "side": 1,
+              "interval": [
+                -1,
+                2.1
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "gate07entry",
+              "axis": "y",
+              "k": -26,
+              "side": 1,
+              "interval": [
+                5.9,
+                10
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "concourse",
+              "axis": "y",
+              "k": -26,
+              "side": -1,
+              "interval": [
+                10,
+                14
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "facade",
+              "axis": "y",
+              "k": -26,
+              "side": 1,
+              "interval": [
+                10,
+                14
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "publicreturn",
+              "axis": "x",
+              "k": -22,
+              "side": 1,
+              "interval": [
+                -49,
+                -26
+              ],
+              "height": [
+                1.075,
+                3.1
+              ],
+              "panel_count": 10
+            },
+            {
+              "zone": "facade",
+              "axis": "x",
+              "k": -22,
+              "side": -1,
+              "interval": [
+                -49,
+                -26
+              ],
+              "height": [
+                1.075,
+                3.1
+              ],
+              "panel_count": 10
+            },
+            {
+              "zone": "publicreturneast",
+              "axis": "x",
+              "k": -22,
+              "side": 1,
+              "interval": [
+                -26,
+                -25
+              ],
+              "height": [
+                1.075,
+                3.1
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "facade",
+              "axis": "x",
+              "k": -22,
+              "side": -1,
+              "interval": [
+                -26,
+                -25
+              ],
+              "height": [
+                1.075,
+                3.1
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "arrivalsreturn",
+              "axis": "x",
+              "k": -22,
+              "side": 1,
+              "interval": [
+                -25,
+                -22
+              ],
+              "height": [
+                1.075,
+                3.5
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "facade",
+              "axis": "x",
+              "k": -22,
+              "side": -1,
+              "interval": [
+                -25,
+                -22
+              ],
+              "height": [
+                1.075,
+                3.5
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "arrivals",
+              "axis": "x",
+              "k": -22,
+              "side": 1,
+              "interval": [
+                -22,
+                -14
+              ],
+              "height": [
+                1.075,
+                3.5
+              ],
+              "panel_count": 4
+            },
+            {
+              "zone": "facade",
+              "axis": "x",
+              "k": -22,
+              "side": -1,
+              "interval": [
+                -22,
+                -14
+              ],
+              "height": [
+                1.075,
+                3.5
+              ],
+              "panel_count": 4
+            },
+            {
+              "zone": "landsidecorridor",
+              "axis": "x",
+              "k": -4,
+              "side": -1,
+              "interval": [
+                -49,
+                -43.2
+              ],
+              "height": [
+                1.075,
+                3.4
+              ],
+              "panel_count": 3
+            },
+            {
+              "zone": "landsidecorridor",
+              "axis": "x",
+              "k": -4,
+              "side": -1,
+              "interval": [
+                -43.2,
+                -40.8
+              ],
+              "height": [
+                2.8,
+                3.4
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "landsidecorridor",
+              "axis": "x",
+              "k": -4,
+              "side": -1,
+              "interval": [
+                -40.8,
+                -36
+              ],
+              "height": [
+                1.075,
+                3.4
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "security",
+              "axis": "x",
+              "k": -4,
+              "side": 1,
+              "interval": [
+                -49,
+                -43.2
+              ],
+              "height": [
+                1.075,
+                3.4
+              ],
+              "panel_count": 3
+            },
+            {
+              "zone": "security",
+              "axis": "x",
+              "k": -4,
+              "side": 1,
+              "interval": [
+                -43.2,
+                -40.8
+              ],
+              "height": [
+                2.8,
+                3.4
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "security",
+              "axis": "x",
+              "k": -4,
+              "side": 1,
+              "interval": [
+                -40.8,
+                -36
+              ],
+              "height": [
+                1.075,
+                3.4
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "landsidecorridor",
+              "axis": "x",
+              "k": -4,
+              "side": -1,
+              "interval": [
+                -36,
+                -32
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "facade",
+              "axis": "x",
+              "k": -4,
+              "side": 1,
+              "interval": [
+                -36,
+                -32
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "landsidecorridor",
+              "axis": "x",
+              "k": -4,
+              "side": -1,
+              "interval": [
+                -32,
+                -26
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 3
+            },
+            {
+              "zone": "concourse",
+              "axis": "x",
+              "k": -4,
+              "side": 1,
+              "interval": [
+                -32,
+                -26
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 3
+            },
+            {
+              "zone": "security",
+              "axis": "x",
+              "k": 10,
+              "side": -1,
+              "interval": [
+                -49,
+                -46.5
+              ],
+              "height": [
+                1.075,
+                3.4
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "security",
+              "axis": "x",
+              "k": 10,
+              "side": -1,
+              "interval": [
+                -46.5,
+                -45.5
+              ],
+              "height": [
+                2.8,
+                3.4
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "security",
+              "axis": "x",
+              "k": 10,
+              "side": -1,
+              "interval": [
+                -45.5,
+                -38
+              ],
+              "height": [
+                1.075,
+                3.4
+              ],
+              "panel_count": 4
+            },
+            {
+              "zone": "security",
+              "axis": "x",
+              "k": 10,
+              "side": -1,
+              "interval": [
+                -38,
+                -36
+              ],
+              "height": [
+                1.075,
+                3.4
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "cafefoyer",
+              "axis": "x",
+              "k": 10,
+              "side": 1,
+              "interval": [
+                -38,
+                -36
+              ],
+              "height": [
+                1.075,
+                3.4
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "recovery",
+              "axis": "x",
+              "k": 10,
+              "side": -1,
+              "interval": [
+                -36,
+                -32
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "cafefoyer",
+              "axis": "x",
+              "k": 10,
+              "side": 1,
+              "interval": [
+                -36,
+                -32
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "gate07entry",
+              "axis": "x",
+              "k": 10,
+              "side": -1,
+              "interval": [
+                -26,
+                -23
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "facade",
+              "axis": "x",
+              "k": 10,
+              "side": 1,
+              "interval": [
+                -26,
+                -23
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "security",
+              "axis": "y",
+              "k": -36,
+              "side": -1,
+              "interval": [
+                -4,
+                0
+              ],
+              "height": [
+                1.075,
+                3.4
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "facade",
+              "axis": "y",
+              "k": -36,
+              "side": 1,
+              "interval": [
+                -4,
+                0
+              ],
+              "height": [
+                1.075,
+                3.4
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "security",
+              "axis": "y",
+              "k": -36,
+              "side": -1,
+              "interval": [
+                0,
+                5.3
+              ],
+              "height": [
+                1.075,
+                3.4
+              ],
+              "panel_count": 3
+            },
+            {
+              "zone": "security",
+              "axis": "y",
+              "k": -36,
+              "side": -1,
+              "interval": [
+                5.3,
+                7.7
+              ],
+              "height": [
+                2.8,
+                3.4
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "security",
+              "axis": "y",
+              "k": -36,
+              "side": -1,
+              "interval": [
+                7.7,
+                10
+              ],
+              "height": [
+                1.075,
+                3.4
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "recovery",
+              "axis": "y",
+              "k": -36,
+              "side": 1,
+              "interval": [
+                0,
+                5.3
+              ],
+              "height": [
+                1.075,
+                3.4
+              ],
+              "panel_count": 3
+            },
+            {
+              "zone": "recovery",
+              "axis": "y",
+              "k": -36,
+              "side": 1,
+              "interval": [
+                5.3,
+                7.7
+              ],
+              "height": [
+                2.8,
+                3.4
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "recovery",
+              "axis": "y",
+              "k": -36,
+              "side": 1,
+              "interval": [
+                7.7,
+                10
+              ],
+              "height": [
+                1.075,
+                3.4
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "recovery",
+              "axis": "x",
+              "k": 0,
+              "side": 1,
+              "interval": [
+                -36,
+                -32
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "facade",
+              "axis": "x",
+              "k": 0,
+              "side": -1,
+              "interval": [
+                -36,
+                -32
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "concourse",
+              "axis": "y",
+              "k": -32,
+              "side": 1,
+              "interval": [
+                -4,
+                0
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "facade",
+              "axis": "y",
+              "k": -32,
+              "side": -1,
+              "interval": [
+                -4,
+                0
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "recovery",
+              "axis": "y",
+              "k": -32,
+              "side": -1,
+              "interval": [
+                0,
+                4.9
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "recovery",
+              "axis": "y",
+              "k": -32,
+              "side": -1,
+              "interval": [
+                8.1,
+                10
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "concourse",
+              "axis": "y",
+              "k": -32,
+              "side": 1,
+              "interval": [
+                0,
+                4.9
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "concourse",
+              "axis": "y",
+              "k": -32,
+              "side": 1,
+              "interval": [
+                8.1,
+                10
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "cafefoyer",
+              "axis": "y",
+              "k": -32,
+              "side": -1,
+              "interval": [
+                14,
+                16
+              ],
+              "height": [
+                1.075,
+                3.6999999999999997
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "gate08",
+              "axis": "y",
+              "k": -32,
+              "side": 1,
+              "interval": [
+                14,
+                16
+              ],
+              "height": [
+                1.075,
+                3.6999999999999997
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "cafe",
+              "axis": "y",
+              "k": -32,
+              "side": -1,
+              "interval": [
+                16,
+                34
+              ],
+              "height": [
+                1.075,
+                6.7
+              ],
+              "panel_count": 8
+            },
+            {
+              "zone": "gate08",
+              "axis": "y",
+              "k": -32,
+              "side": 1,
+              "interval": [
+                16,
+                34
+              ],
+              "height": [
+                1.075,
+                6.7
+              ],
+              "panel_count": 8
+            },
+            {
+              "zone": "concourse",
+              "axis": "x",
+              "k": 14,
+              "side": -1,
+              "interval": [
+                -32,
+                -31.4
+              ],
+              "height": [
+                1.075,
+                3.6999999999999997
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "concourse",
+              "axis": "x",
+              "k": 14,
+              "side": -1,
+              "interval": [
+                -31.4,
+                -26.6
+              ],
+              "height": [
+                3.12,
+                3.6999999999999997
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "concourse",
+              "axis": "x",
+              "k": 14,
+              "side": -1,
+              "interval": [
+                -26.6,
+                -26
+              ],
+              "height": [
+                1.075,
+                3.6999999999999997
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "gate08",
+              "axis": "x",
+              "k": 14,
+              "side": 1,
+              "interval": [
+                -32,
+                -31.4
+              ],
+              "height": [
+                1.075,
+                3.6999999999999997
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "gate08",
+              "axis": "x",
+              "k": 14,
+              "side": 1,
+              "interval": [
+                -31.4,
+                -26.6
+              ],
+              "height": [
+                3.12,
+                3.6999999999999997
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "gate08",
+              "axis": "x",
+              "k": 14,
+              "side": 1,
+              "interval": [
+                -26.6,
+                -26
+              ],
+              "height": [
+                1.075,
+                3.6999999999999997
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "gate08",
+              "axis": "x",
+              "k": 14,
+              "side": 1,
+              "interval": [
+                -26,
+                -24
+              ],
+              "height": [
+                1.075,
+                3.6999999999999997
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "facade",
+              "axis": "x",
+              "k": 14,
+              "side": -1,
+              "interval": [
+                -26,
+                -24
+              ],
+              "height": [
+                1.075,
+                3.6999999999999997
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "amenities",
+              "axis": "x",
+              "k": -3,
+              "side": -1,
+              "interval": [
+                -23,
+                -14
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 4
+            },
+            {
+              "zone": "gate07",
+              "axis": "x",
+              "k": -3,
+              "side": 1,
+              "interval": [
+                -23,
+                -14
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 4
+            },
+            {
+              "zone": "amenitylobby",
+              "axis": "y",
+              "k": -23,
+              "side": -1,
+              "interval": [
+                -12,
+                -9.4
+              ],
+              "height": [
+                1.075,
+                2.9
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "amenitylobby",
+              "axis": "y",
+              "k": -23,
+              "side": -1,
+              "interval": [
+                -7.6,
+                -3
+              ],
+              "height": [
+                1.075,
+                2.9
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "amenities",
+              "axis": "y",
+              "k": -23,
+              "side": 1,
+              "interval": [
+                -12,
+                -9.4
+              ],
+              "height": [
+                1.075,
+                2.9
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "amenities",
+              "axis": "y",
+              "k": -23,
+              "side": 1,
+              "interval": [
+                -7.6,
+                -3
+              ],
+              "height": [
+                1.075,
+                2.9
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "amenitylobby",
+              "axis": "y",
+              "k": -23,
+              "side": -1,
+              "interval": [
+                -3,
+                -1
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "gate07",
+              "axis": "y",
+              "k": -23,
+              "side": 1,
+              "interval": [
+                -3,
+                -1
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "amenities",
+              "axis": "y",
+              "k": -14,
+              "side": -1,
+              "interval": [
+                -12,
+                -3
+              ],
+              "height": [
+                1.075,
+                2.6999999999999997
+              ],
+              "panel_count": 4
+            },
+            {
+              "zone": "facade",
+              "axis": "y",
+              "k": -14,
+              "side": 1,
+              "interval": [
+                -12,
+                -3
+              ],
+              "height": [
+                1.075,
+                2.6999999999999997
+              ],
+              "panel_count": 4
+            },
+            {
+              "zone": "cafe",
+              "axis": "x",
+              "k": 16,
+              "side": 1,
+              "interval": [
+                -49,
+                -38
+              ],
+              "height": [
+                1.075,
+                6.7
+              ],
+              "panel_count": 5
+            },
+            {
+              "zone": "cafefoyer",
+              "axis": "x",
+              "k": 16,
+              "side": -1,
+              "interval": [
+                -38,
+                -36.3
+              ],
+              "height": [
+                3.4,
+                6.7
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "cafefoyer",
+              "axis": "x",
+              "k": 16,
+              "side": -1,
+              "interval": [
+                -36.3,
+                -32.7
+              ],
+              "height": [
+                3.4,
+                6.7
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "cafefoyer",
+              "axis": "x",
+              "k": 16,
+              "side": -1,
+              "interval": [
+                -32.7,
+                -32
+              ],
+              "height": [
+                3.4,
+                6.7
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "cafe",
+              "axis": "x",
+              "k": 16,
+              "side": 1,
+              "interval": [
+                -38,
+                -36.3
+              ],
+              "height": [
+                3.4,
+                6.7
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "cafe",
+              "axis": "x",
+              "k": 16,
+              "side": 1,
+              "interval": [
+                -36.3,
+                -32.7
+              ],
+              "height": [
+                3.4,
+                6.7
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "cafe",
+              "axis": "x",
+              "k": 16,
+              "side": 1,
+              "interval": [
+                -32.7,
+                -32
+              ],
+              "height": [
+                3.4,
+                6.7
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "cafefoyer",
+              "axis": "y",
+              "k": -38,
+              "side": 1,
+              "interval": [
+                10,
+                16
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 3
+            },
+            {
+              "zone": "amenitylobby",
+              "axis": "x",
+              "k": -12,
+              "side": 1,
+              "interval": [
+                -26,
+                -23
+              ],
+              "height": [
+                1.075,
+                3.1
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "amenities",
+              "axis": "x",
+              "k": -12,
+              "side": 1,
+              "interval": [
+                -23,
+                -22
+              ],
+              "height": [
+                1.075,
+                3.1
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "arrivals",
+              "axis": "x",
+              "k": -12,
+              "side": -1,
+              "interval": [
+                -22,
+                -14
+              ],
+              "height": [
+                1.075,
+                3.5
+              ],
+              "panel_count": 4
+            },
+            {
+              "zone": "amenities",
+              "axis": "x",
+              "k": -12,
+              "side": 1,
+              "interval": [
+                -22,
+                -14
+              ],
+              "height": [
+                1.075,
+                3.5
+              ],
+              "panel_count": 4
+            },
+            {
+              "zone": "amenitylobby",
+              "axis": "x",
+              "k": -1,
+              "side": -1,
+              "interval": [
+                -26,
+                -23
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "gate07entry",
+              "axis": "x",
+              "k": -1,
+              "side": 1,
+              "interval": [
+                -26,
+                -23
+              ],
+              "height": [
+                1.075,
+                3.3
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "publicreturneast",
+              "axis": "x",
+              "k": -18.5,
+              "side": -1,
+              "interval": [
+                -26,
+                -25
+              ],
+              "height": [
+                1.075,
+                3.1
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "arrivalsreturn",
+              "axis": "x",
+              "k": -18.5,
+              "side": -1,
+              "interval": [
+                -25,
+                -22
+              ],
+              "height": [
+                1.075,
+                3.5
+              ],
+              "panel_count": 2
+            },
+            {
+              "zone": "arrivals",
+              "axis": "y",
+              "k": -22,
+              "side": 1,
+              "interval": [
+                -18.224999999999998,
+                -17.075
+              ],
+              "height": [
+                2.6,
+                3.5
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "arrivals",
+              "axis": "y",
+              "k": -22,
+              "side": 1,
+              "interval": [
+                -17.075,
+                -15.899999999999999
+              ],
+              "height": [
+                1.075,
+                3.5
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "arrivals",
+              "axis": "y",
+              "k": -22,
+              "side": 1,
+              "interval": [
+                -15.899999999999999,
+                -13.5
+              ],
+              "height": [
+                2.12,
+                3.5
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "arrivals",
+              "axis": "y",
+              "k": -22,
+              "side": 1,
+              "interval": [
+                -13.5,
+                -12
+              ],
+              "height": [
+                1.075,
+                3.5
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "publicreturneast",
+              "axis": "y",
+              "k": -25,
+              "side": -1,
+              "interval": [
+                -22,
+                -21.2
+              ],
+              "height": [
+                1.075,
+                3.5
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "publicreturneast",
+              "axis": "y",
+              "k": -25,
+              "side": -1,
+              "interval": [
+                -21.2,
+                -18.8
+              ],
+              "height": [
+                2.9,
+                3.5
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "arrivalsreturn",
+              "axis": "y",
+              "k": -25,
+              "side": 1,
+              "interval": [
+                -22,
+                -21.2
+              ],
+              "height": [
+                1.075,
+                3.5
+              ],
+              "panel_count": 1
+            },
+            {
+              "zone": "arrivalsreturn",
+              "axis": "y",
+              "k": -25,
+              "side": 1,
+              "interval": [
+                -21.2,
+                -18.8
+              ],
+              "height": [
+                2.9,
+                3.5
+              ],
+              "panel_count": 1
+            }
+          ],
+          "maximum_projection_from_wall_face_m": 0.051,
+          "cassette_thickness_m": 0.0265,
+          "shadow_joint_m": 0.018,
+          "largest_panel_width_m": 2.45
+        },
+        "baggage_service_portals": [
+          {
+            "centre": -13.0,
+            "clear_width_m": 1.45,
+            "clear_z": [
+              0.55,
+              1.95
+            ],
+            "portal_projection_m": 0.115,
+            "open_rectangle_unchanged": true,
+            "deep_return_m": 0.29,
+            "service_identity": {
+              "bay": "BAY 01",
+              "centre": -13.0,
+              "front_plane_x": -26.16,
+              "glyph_relief_m": 0.01,
+              "text_size_m": 0.26,
+              "text_extrusion_m": 0.006,
+              "mount_penetration_m": 0.001,
+              "parts": 5
+            }
+          },
+          {
+            "centre": -16.0,
+            "clear_width_m": 1.45,
+            "clear_z": [
+              0.55,
+              1.95
+            ],
+            "portal_projection_m": 0.115,
+            "open_rectangle_unchanged": true,
+            "deep_return_m": 0.29,
+            "service_identity": {
+              "bay": "BAY 02",
+              "centre": -16.0,
+              "front_plane_x": -26.16,
+              "glyph_relief_m": 0.01,
+              "text_size_m": 0.26,
+              "text_extrusion_m": 0.006,
+              "mount_penetration_m": 0.001,
+              "parts": 5
+            }
+          }
+        ],
+        "texture_tile_metres": {
+          "P43TPlaster": 4.0,
+          "P43TPlasterWarm": 4.0,
+          "P43TOak": 2.0,
+          "P43TFloor": 2.0,
+          "P43TCarpet": 2.0,
+          "P43TWC": 2.0,
+          "P43TCeiling": 4.0
+        },
+        "floor_joint_m": 0.003,
+        "collision_topology_unchanged": true,
+        "interaction_names_unchanged": true,
+        "public_room_dimensions_unchanged": true,
+        "plane_and_characters_untouched": true,
+        "native_hook": "Fixes/06_visual_finish43/native_finish43.py:apply_native",
+        "native_validation": "Root must bind authored texture graph after fresh asset import and inspect gameplay shots"
+      }
+    },
+    {
+      "module": "SourceAssets/shadow43.py",
+      "result": {
+        "status": "REQUIRES_NATIVE_VIEW_AND_PERFORMANCE",
+        "local_key_resolution_scale": 4.0,
+        "max_resolution": 4096,
+        "evidence": "Normals43 six-case comparison: LOD and morph changes retained the patches; disabling self-shadow removed them. A separate higher-resolution-light comparison resolved the angular patches.",
+        "preserved": "All character geometry, material colours, shadow casting, fixture positions and intensity"
+      }
+    },
+    {
+      "module": "SourceAssets/cast_variety43.py",
+      "result": {
+        "status": "APPLIED_REQUIRES_NATIVE_VIEW",
+        "changes": [
+          {
+            "actor": "CH12 Waiting passenger 1",
+            "before": "PassengerBusiness",
+            "after": "PassengerHoodie",
+            "location": [
+              -21.7,
+              7.2,
+              0
+            ],
+            "pose": "Seated"
+          },
+          {
+            "actor": "CH12 Waiting passenger 2",
+            "before": "PassengerCrew",
+            "after": "PassengerSenior",
+            "location": [
+              -21.7,
+              7.94,
+              0
+            ],
+            "pose": "Seated"
+          },
+          {
+            "actor": "CH12 Waiting passenger 6",
+            "before": "PassengerBusiness",
+            "after": "PassengerHoodie",
+            "location": [
+              -30.6,
+              23.26,
+              0
+            ],
+            "pose": "Seated"
+          },
+          {
+            "actor": "CH12 Additional waiting passenger 0",
+            "before": "PassengerBusiness",
+            "after": "PassengerTourist",
+            "location": [
+              -30.6,
+              24.74,
+              0
+            ],
+            "pose": "Seated"
+          }
+        ],
+        "scope": "Four seated static terminal passengers; queue roles, paths, collision placement and chair contacts unchanged"
+      }
+    },
+    {
+      "module": "SourceAssets/character_integration39.py",
+      "result": {
+        "luxury": {
+          "changed": false,
+          "already_applied": true,
+          "export_families": [
+            "SM_Plane_LuxurySeat_Ergonomic39"
+          ],
+          "placed_instances": [],
+          "source_instances": 0,
+          "local_lap_anchor_m": [
+            0,
+            -0.2,
+            0.64
+          ],
+          "runtime_note": "Apply -0.080m to seated luxury eye/interaction annotations only when these annotations refer to original physical chair support height. Existing Character39 hip pose already includes the furniture correction, so do not translate the avatar actor."
+        },
+        "chairs": {
+          "status": "SOURCE_CORRECTED_REQUIRES_NATIVE_FIT",
+          "families": [
+            {
+              "source": "SM_AP_Bench27",
+              "asset": "SM_AP_Bench27_CharacterFit39.002",
+              "parts": 36,
+              "preserved_floor_vertices": 1184,
+              "upper_negative_depth_factor": 0.45,
+              "upper_positive_depth_factor": 0.6,
+              "unchanged": [
+                "actor world placement",
+                "all vertex X values",
+                "central sitting height",
+                "back/arm heights",
+                "arm width",
+                "floor-contact vertices"
+              ],
+              "front_waterfall_maximum_drop_m": 0.072,
+              "transformation": "coherent depth map blended z.14.. .35 plus local smooth front waterfall; no character or shin scaling"
+            },
+            {
+              "source": "SM_AP_Bench29",
+              "asset": "SM_AP_Bench29_CharacterFit39.002",
+              "parts": 36,
+              "preserved_floor_vertices": 1184,
+              "upper_negative_depth_factor": 0.45,
+              "upper_positive_depth_factor": 0.6,
+              "unchanged": [
+                "actor world placement",
+                "all vertex X values",
+                "central sitting height",
+                "back/arm heights",
+                "arm width",
+                "floor-contact vertices"
+              ],
+              "front_waterfall_maximum_drop_m": 0.072,
+              "transformation": "coherent depth map blended z.14.. .35 plus local smooth front waterfall; no character or shin scaling"
+            },
+            {
+              "source": "SM_AP_Bench34",
+              "asset": "SM_AP_Bench34_CharacterFit39.002",
+              "parts": 46,
+              "preserved_floor_vertices": 2424,
+              "upper_negative_depth_factor": 0.45,
+              "upper_positive_depth_factor": 0.6,
+              "unchanged": [
+                "actor world placement",
+                "all vertex X values",
+                "central sitting height",
+                "back/arm heights",
+                "arm width",
+                "floor-contact vertices"
+              ],
+              "front_waterfall_maximum_drop_m": 0.072,
+              "transformation": "coherent depth map blended z.14.. .35 plus local smooth front waterfall; no character or shin scaling"
+            },
+            {
+              "source": "SM_AP_CafeChair34",
+              "asset": "SM_AP_CafeChair34_CharacterFit39.002",
+              "parts": 14,
+              "preserved_floor_vertices": 304,
+              "upper_negative_depth_factor": 0.45,
+              "upper_positive_depth_factor": 0.6,
+              "unchanged": [
+                "actor world placement",
+                "all vertex X values",
+                "central sitting height",
+                "back/arm heights",
+                "arm width",
+                "floor-contact vertices"
+              ],
+              "front_waterfall_maximum_drop_m": 0.072,
+              "transformation": "coherent depth map blended z.14.. .35 plus local smooth front waterfall; no character or shin scaling"
+            }
+          ],
+          "instances": [],
+          "character_pose_authority": "Revision39/ArtBible/ChairFit39.json",
+          "source_policy": "clone whichever current source collection root supplied, preserving current floor repairs"
+        },
+        "hardware": [],
+        "rigs": {
+          "status": "SOURCE_RIGS_PLACED",
+          "master": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Characters\\Revision39\\Characters39.blend",
+          "retired": [
+            "RETIRED39 CH12 Additional waiting passenger 0.002",
+            "RETIRED39 CH12 Additional waiting passenger 1.002",
+            "RETIRED39 CH12 Additional waiting passenger 2.002",
+            "RETIRED39 CH12 Additional waiting passenger 3.002",
+            "RETIRED39 CH12 Additional waiting passenger 4.002",
+            "RETIRED39 CH12 Additional waiting passenger 5.002",
+            "RETIRED39 CH12 Additional waiting passenger 6.002",
+            "RETIRED39 CH12 Additional waiting passenger 7.002",
+            "RETIRED39 CH12 Arrivals passenger 0.002",
+            "RETIRED39 CH12 Arrivals passenger 1.002",
+            "RETIRED39 CH12 Business passenger.002",
+            "RETIRED39 CH12 Cabin passenger 0.002",
+            "RETIRED39 CH12 Cabin passenger 1.002",
+            "RETIRED39 CH12 Cabin passenger 2.002",
+            "RETIRED39 CH12 Cabin passenger 3.002",
+            "RETIRED39 CH12 Cabin passenger 4.002",
+            "RETIRED39 CH12 Cabin passenger 5.002",
+            "RETIRED39 CH12 Caf\u00e9 barista.002",
+            "RETIRED39 CH12 Caf\u00e9 passenger 0.002",
+            "RETIRED39 CH12 Caf\u00e9 passenger 1.002",
+            "RETIRED39 CH12 Forecourt traveller.002",
+            "RETIRED39 CH12 Gallery passenger 0.002",
+            "RETIRED39 CH12 Gallery passenger 1.002",
+            "RETIRED39 CH12 Gate pilot.002",
+            "RETIRED39 CH12 Gate traveller.002",
+            "RETIRED39 CH12 Information host.002",
+            "RETIRED39 CH12 Player avatar.002",
+            "RETIRED39 CH12 Queue passenger 0.002",
+            "RETIRED39 CH12 Queue passenger 1.002",
+            "RETIRED39 CH12 Queue passenger 3.002",
+            "RETIRED39 CH12 Queue passenger 4.002",
+            "RETIRED39 CH12 Queue passenger 6.002",
+            "RETIRED39 CH12 Security greeter.002",
+            "RETIRED39 CH12 Security pilot.002",
+            "RETIRED39 CH12 Waiting passenger 0.002",
+            "RETIRED39 CH12 Waiting passenger 1.002",
+            "RETIRED39 CH12 Waiting passenger 2.002",
+            "RETIRED39 CH12 Waiting passenger 3.002",
+            "RETIRED39 CH12 Waiting passenger 4.002",
+            "RETIRED39 CH12 Waiting passenger 5.002",
+            "RETIRED39 CH12 Waiting passenger 6.002",
+            "RETIRED39 CH12 Waiting passenger 7.002"
+          ],
+          "created": [
+            {
+              "actor": "CH12 Queue passenger 0",
+              "collection": "CHAR39_PassengerTourist_Idle.003",
+              "location": [
+                -38.4,
+                -9.9,
+                0
+              ],
+              "rotation_degrees": 180
+            },
+            {
+              "actor": "CH12 Queue passenger 1",
+              "collection": "CHAR39_PassengerCrew_Idle.003",
+              "location": [
+                -29.15,
+                -11.6,
+                0
+              ],
+              "rotation_degrees": -90
+            },
+            {
+              "actor": "CH12 Queue passenger 3",
+              "collection": "CHAR39_PassengerSenior_Idle.003",
+              "location": [
+                -35.7,
+                -13,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Queue passenger 4",
+              "collection": "CHAR39_PassengerHoodie_Idle.003",
+              "location": [
+                -29.15,
+                -14.6,
+                0
+              ],
+              "rotation_degrees": -90
+            },
+            {
+              "actor": "CH12 Queue passenger 6",
+              "collection": "CHAR39_PassengerCrew_Idle.003",
+              "location": [
+                -34.2,
+                -13,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Security pilot",
+              "collection": "CHAR39_SecurityGuard_Idle.003",
+              "location": [
+                -47.0,
+                7.6,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Gate pilot",
+              "collection": "CHAR39_PlayerYellow_Idle.003",
+              "location": [
+                -16.25,
+                -1.15,
+                0
+              ],
+              "rotation_degrees": -90
+            },
+            {
+              "actor": "CH12 Caf\u00e9 barista",
+              "collection": "CHAR39_PassengerCrew_Idle.003",
+              "location": [
+                -44,
+                32.3,
+                0
+              ],
+              "rotation_degrees": 0
+            },
+            {
+              "actor": "CH12 Information host",
+              "collection": "CHAR39_PlayerBlue_Idle.003",
+              "location": [
+                -47.4,
+                -9.4,
+                0
+              ],
+              "rotation_degrees": -15
+            },
+            {
+              "actor": "CH12 Waiting passenger 0",
+              "collection": "CHAR39_PassengerTourist_Seated.003",
+              "location": [
+                -21.7,
+                6.46,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Waiting passenger 1",
+              "collection": "CHAR39_PassengerHoodie_Seated.003",
+              "location": [
+                -21.7,
+                7.2,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Waiting passenger 2",
+              "collection": "CHAR39_PassengerSenior_Seated.003",
+              "location": [
+                -21.7,
+                7.94,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Waiting passenger 3",
+              "collection": "CHAR39_PassengerSenior_Seated.003",
+              "location": [
+                -15.45,
+                8.14,
+                0
+              ],
+              "rotation_degrees": -90
+            },
+            {
+              "actor": "CH12 Waiting passenger 4",
+              "collection": "CHAR39_PassengerHoodie_Seated.003",
+              "location": [
+                -15.45,
+                7.4,
+                0
+              ],
+              "rotation_degrees": -90
+            },
+            {
+              "actor": "CH12 Waiting passenger 5",
+              "collection": "CHAR39_PassengerTourist_Seated.003",
+              "location": [
+                -15.45,
+                6.66,
+                0
+              ],
+              "rotation_degrees": -90
+            },
+            {
+              "actor": "CH12 Waiting passenger 6",
+              "collection": "CHAR39_PassengerHoodie_Seated.003",
+              "location": [
+                -30.6,
+                23.26,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Waiting passenger 7",
+              "collection": "CHAR39_PassengerCrew_Seated.003",
+              "location": [
+                -30.6,
+                24.0,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Caf\u00e9 passenger 0",
+              "collection": "CHAR39_PassengerCrew_CafeSeated.003",
+              "location": [
+                -38.5,
+                22.35,
+                0
+              ],
+              "rotation_degrees": 0
+            },
+            {
+              "actor": "CH12 Caf\u00e9 passenger 1",
+              "collection": "CHAR39_PassengerSenior_CafeSeated.003",
+              "location": [
+                -34.5,
+                23.650000000000002,
+                0
+              ],
+              "rotation_degrees": 0
+            },
+            {
+              "actor": "CH12 Gallery passenger 0",
+              "collection": "CHAR39_PassengerSenior_Seated.003",
+              "location": [
+                -46.8,
+                31.2,
+                3.15
+              ],
+              "rotation_degrees": 0
+            },
+            {
+              "actor": "CH12 Gallery passenger 1",
+              "collection": "CHAR39_PassengerHoodie_Seated.003",
+              "location": [
+                -42.3,
+                28.8,
+                3.15
+              ],
+              "rotation_degrees": -90
+            },
+            {
+              "actor": "CH12 Cabin passenger 0",
+              "collection": "CHAR39_PassengerTourist_CabinSeated.003",
+              "location": [
+                14.131999969482422,
+                14.175000190734863,
+                0.0
+              ],
+              "rotation_degrees": 0.0
+            },
+            {
+              "actor": "CH12 Cabin passenger 1",
+              "collection": "CHAR39_PassengerCrew_CabinSeated.003",
+              "location": [
+                17.868000030517578,
+                15.524999618530273,
+                0.0
+              ],
+              "rotation_degrees": 0.0
+            },
+            {
+              "actor": "CH12 Cabin passenger 2",
+              "collection": "CHAR39_PassengerCrew_CabinSeated.003",
+              "location": [
+                14.131999969482422,
+                18.225000381469727,
+                0.0
+              ],
+              "rotation_degrees": 0.0
+            },
+            {
+              "actor": "CH12 Cabin passenger 3",
+              "collection": "CHAR39_PassengerSenior_CabinSeated.003",
+              "location": [
+                17.868000030517578,
+                19.575000762939453,
+                0.0
+              ],
+              "rotation_degrees": 0.0
+            },
+            {
+              "actor": "CH12 Cabin passenger 4",
+              "collection": "CHAR39_PassengerHoodie_CabinSeated.003",
+              "location": [
+                14.131999969482422,
+                22.274999618530273,
+                0.0
+              ],
+              "rotation_degrees": 0.0
+            },
+            {
+              "actor": "CH12 Cabin passenger 5",
+              "collection": "CHAR39_PassengerTourist_CabinSeated.003",
+              "location": [
+                17.868000030517578,
+                23.625,
+                0.0
+              ],
+              "rotation_degrees": 0.0
+            },
+            {
+              "actor": "CH12 Business passenger",
+              "collection": "CHAR39_PassengerCrew_LuxurySeated.003",
+              "location": [
+                14.480000019073486,
+                7.800000190734863,
+                0.0
+              ],
+              "rotation_degrees": 0.0
+            },
+            {
+              "actor": "CH12 Additional waiting passenger 0",
+              "collection": "CHAR39_PassengerTourist_Seated.003",
+              "location": [
+                -30.6,
+                24.74,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Additional waiting passenger 1",
+              "collection": "CHAR39_PassengerCrew_Seated.003",
+              "location": [
+                -30.6,
+                28.26,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Additional waiting passenger 2",
+              "collection": "CHAR39_PassengerSenior_Seated.003",
+              "location": [
+                -30.6,
+                29.0,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Additional waiting passenger 3",
+              "collection": "CHAR39_PassengerHoodie_Seated.003",
+              "location": [
+                -30.6,
+                29.74,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Additional waiting passenger 4",
+              "collection": "CHAR39_PassengerTourist_Seated.003",
+              "location": [
+                -28.439999999999998,
+                32.2,
+                0
+              ],
+              "rotation_degrees": 0
+            },
+            {
+              "actor": "CH12 Additional waiting passenger 5",
+              "collection": "CHAR39_PassengerCrew_Seated.003",
+              "location": [
+                -27.7,
+                32.2,
+                0
+              ],
+              "rotation_degrees": 0
+            },
+            {
+              "actor": "CH12 Additional waiting passenger 6",
+              "collection": "CHAR39_PassengerCrew_CafeSeated.003",
+              "location": [
+                -38.5,
+                27.15,
+                0
+              ],
+              "rotation_degrees": 180
+            },
+            {
+              "actor": "CH12 Additional waiting passenger 7",
+              "collection": "CHAR39_PassengerSenior_CafeSeated.003",
+              "location": [
+                -34.5,
+                29.15,
+                0
+              ],
+              "rotation_degrees": 180
+            },
+            {
+              "actor": "CH12 Arrivals passenger 0",
+              "collection": "CHAR39_PassengerCrew_Idle.003",
+              "location": [
+                -16,
+                -14,
+                0
+              ],
+              "rotation_degrees": 0
+            },
+            {
+              "actor": "CH12 Arrivals passenger 1",
+              "collection": "CHAR39_PassengerSenior_Idle.003",
+              "location": [
+                -15.5,
+                -16.0,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Gate traveller",
+              "collection": "CHAR39_PassengerHoodie_Walk.003",
+              "location": [
+                -27.4,
+                10,
+                0
+              ],
+              "rotation_degrees": 0
+            },
+            {
+              "actor": "CH12 Forecourt traveller",
+              "collection": "CHAR39_PassengerTourist_Walk.003",
+              "location": [
+                -53.7,
+                -18,
+                0
+              ],
+              "rotation_degrees": 180
+            },
+            {
+              "actor": "CH12 Player avatar",
+              "collection": "CHAR39_PlayerBlue_Idle.003",
+              "location": [
+                -53,
+                -12.5,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Security greeter",
+              "collection": "CHAR39_SecurityGuard_Idle.003",
+              "location": [
+                -47.0,
+                -0.4,
+                0
+              ],
+              "rotation_degrees": 45
+            }
+          ],
+          "alignment": {
+            "changes": [
+              {
+                "actor": "CH12 Waiting passenger 0",
+                "before": [
+                  -21.7,
+                  6.46,
+                  0
+                ],
+                "after": [
+                  -21.7,
+                  6.46,
+                  0
+                ],
+                "rotation": 90,
+                "chair": "A07 lounge bench24 0 slot 0",
+                "asset": "SM_AP_Bench34_Hardware40",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Waiting passenger 1",
+                "before": [
+                  -21.7,
+                  7.2,
+                  0
+                ],
+                "after": [
+                  -21.7,
+                  7.2,
+                  0
+                ],
+                "rotation": 90,
+                "chair": "A07 lounge bench24 0 slot 1",
+                "asset": "SM_AP_Bench34_Hardware40",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Waiting passenger 2",
+                "before": [
+                  -21.7,
+                  7.94,
+                  0
+                ],
+                "after": [
+                  -21.7,
+                  7.94,
+                  0
+                ],
+                "rotation": 90,
+                "chair": "A07 lounge bench24 0 slot 2",
+                "asset": "SM_AP_Bench34_Hardware40",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Waiting passenger 3",
+                "before": [
+                  -15.45,
+                  8.14,
+                  0
+                ],
+                "after": [
+                  -15.45,
+                  8.14,
+                  0
+                ],
+                "rotation": -90,
+                "chair": "A07 lounge bench24 1 slot 0",
+                "asset": "SM_AP_Bench34_Hardware40",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Waiting passenger 4",
+                "before": [
+                  -15.45,
+                  7.4,
+                  0
+                ],
+                "after": [
+                  -15.45,
+                  7.4,
+                  0
+                ],
+                "rotation": -90,
+                "chair": "A07 lounge bench24 1 slot 1",
+                "asset": "SM_AP_Bench34_Hardware40",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Waiting passenger 5",
+                "before": [
+                  -15.45,
+                  6.66,
+                  0
+                ],
+                "after": [
+                  -15.45,
+                  6.66,
+                  0
+                ],
+                "rotation": -90,
+                "chair": "A07 lounge bench24 1 slot 2",
+                "asset": "SM_AP_Bench34_Hardware40",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Waiting passenger 6",
+                "before": [
+                  -30.6,
+                  23.26,
+                  0
+                ],
+                "after": [
+                  -30.6,
+                  23.26,
+                  0
+                ],
+                "rotation": 90,
+                "chair": "A08 lounge bench24 0 slot 0",
+                "asset": "SM_AP_Bench34_Hardware40",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Waiting passenger 7",
+                "before": [
+                  -30.6,
+                  24.0,
+                  0
+                ],
+                "after": [
+                  -30.6,
+                  24.0,
+                  0
+                ],
+                "rotation": 90,
+                "chair": "A08 lounge bench24 0 slot 1",
+                "asset": "SM_AP_Bench34_Hardware40",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Caf\u00e9 passenger 0",
+                "before": [
+                  -38.5,
+                  22.35,
+                  0
+                ],
+                "after": [
+                  -38.5,
+                  22.35,
+                  0
+                ],
+                "rotation": 0,
+                "chair": "CafeChair24_1784 slot 0",
+                "asset": "SM_AP_CafeChair34_Hardware40",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Caf\u00e9 passenger 1",
+                "before": [
+                  -34.5,
+                  23.650000000000002,
+                  0
+                ],
+                "after": [
+                  -34.5,
+                  23.650000000000002,
+                  0
+                ],
+                "rotation": 0,
+                "chair": "CafeChair24_1787 slot 0",
+                "asset": "SM_AP_CafeChair34_Hardware40",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Gallery passenger 0",
+                "before": [
+                  -46.8,
+                  31.2,
+                  3.15
+                ],
+                "after": [
+                  -46.8,
+                  31.2,
+                  3.15
+                ],
+                "rotation": 0,
+                "chair": "Gallery bench24 0 slot 1",
+                "asset": "SM_AP_Bench34_Hardware40",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Gallery passenger 1",
+                "before": [
+                  -42.3,
+                  28.8,
+                  3.15
+                ],
+                "after": [
+                  -42.3,
+                  28.8,
+                  3.15
+                ],
+                "rotation": -90,
+                "chair": "Gallery bench24 1 slot 1",
+                "asset": "SM_AP_Bench34_Hardware40",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Cabin passenger 0",
+                "before": [
+                  14.131999969482422,
+                  14.175000190734863,
+                  0.0
+                ],
+                "after": [
+                  14.131999969482422,
+                  14.175000190734863,
+                  0.0
+                ],
+                "rotation": 0.0,
+                "chair": "Aircraft39 seat 24 slot 0",
+                "asset": "SM_Plane_Seat",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Cabin passenger 1",
+                "before": [
+                  17.868000030517578,
+                  15.524999618530273,
+                  0.0
+                ],
+                "after": [
+                  17.868000030517578,
+                  15.524999618530273,
+                  0.0
+                ],
+                "rotation": 0.0,
+                "chair": "Aircraft39 seat 28 slot 0",
+                "asset": "SM_Plane_Seat",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Cabin passenger 2",
+                "before": [
+                  14.131999969482422,
+                  18.225000381469727,
+                  0.0
+                ],
+                "after": [
+                  14.131999969482422,
+                  18.225000381469727,
+                  0.0
+                ],
+                "rotation": 0.0,
+                "chair": "Aircraft39 seat 33 slot 0",
+                "asset": "SM_Plane_Seat",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Cabin passenger 3",
+                "before": [
+                  17.868000030517578,
+                  19.575000762939453,
+                  0.0
+                ],
+                "after": [
+                  17.868000030517578,
+                  19.575000762939453,
+                  0.0
+                ],
+                "rotation": 0.0,
+                "chair": "Aircraft39 seat 37 slot 0",
+                "asset": "SM_Plane_Seat",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Cabin passenger 4",
+                "before": [
+                  14.131999969482422,
+                  22.274999618530273,
+                  0.0
+                ],
+                "after": [
+                  14.131999969482422,
+                  22.274999618530273,
+                  0.0
+                ],
+                "rotation": 0.0,
+                "chair": "Aircraft39 seat 46 slot 0",
+                "asset": "SM_Plane_Seat",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Cabin passenger 5",
+                "before": [
+                  17.868000030517578,
+                  23.625,
+                  0.0
+                ],
+                "after": [
+                  17.868000030517578,
+                  23.625,
+                  0.0
+                ],
+                "rotation": 0.0,
+                "chair": "Aircraft39 seat 50 slot 0",
+                "asset": "SM_Plane_Seat",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Business passenger",
+                "before": [
+                  14.480000019073486,
+                  7.800000190734863,
+                  0.0
+                ],
+                "after": [
+                  14.480000019073486,
+                  7.800000190734863,
+                  0.0
+                ],
+                "rotation": 0.0,
+                "chair": "Aircraft39 seat 22 slot 0",
+                "asset": "SM_Plane_LuxurySeat",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Additional waiting passenger 0",
+                "before": [
+                  -30.6,
+                  24.74,
+                  0
+                ],
+                "after": [
+                  -30.6,
+                  24.74,
+                  0
+                ],
+                "rotation": 90,
+                "chair": "A08 lounge bench24 0 slot 2",
+                "asset": "SM_AP_Bench34_Hardware40",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Additional waiting passenger 1",
+                "before": [
+                  -30.6,
+                  28.26,
+                  0
+                ],
+                "after": [
+                  -30.6,
+                  28.26,
+                  0
+                ],
+                "rotation": 90,
+                "chair": "A08 lounge bench24 1 slot 0",
+                "asset": "SM_AP_Bench34_Hardware40",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Additional waiting passenger 2",
+                "before": [
+                  -30.6,
+                  29.0,
+                  0
+                ],
+                "after": [
+                  -30.6,
+                  29.0,
+                  0
+                ],
+                "rotation": 90,
+                "chair": "A08 lounge bench24 1 slot 1",
+                "asset": "SM_AP_Bench34_Hardware40",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Additional waiting passenger 3",
+                "before": [
+                  -30.6,
+                  29.74,
+                  0
+                ],
+                "after": [
+                  -30.6,
+                  29.74,
+                  0
+                ],
+                "rotation": 90,
+                "chair": "A08 lounge bench24 1 slot 2",
+                "asset": "SM_AP_Bench34_Hardware40",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Additional waiting passenger 4",
+                "before": [
+                  -28.439999999999998,
+                  32.2,
+                  0
+                ],
+                "after": [
+                  -28.439999999999998,
+                  32.2,
+                  0
+                ],
+                "rotation": 0,
+                "chair": "A08 lounge bench24 2 slot 0",
+                "asset": "SM_AP_Bench34_Hardware40",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Additional waiting passenger 5",
+                "before": [
+                  -27.7,
+                  32.2,
+                  0
+                ],
+                "after": [
+                  -27.7,
+                  32.2,
+                  0
+                ],
+                "rotation": 0,
+                "chair": "A08 lounge bench24 2 slot 1",
+                "asset": "SM_AP_Bench34_Hardware40",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Additional waiting passenger 6",
+                "before": [
+                  -38.5,
+                  27.15,
+                  0
+                ],
+                "after": [
+                  -38.5,
+                  27.15,
+                  0
+                ],
+                "rotation": 180,
+                "chair": "CafeChair24_1789 slot 0",
+                "asset": "SM_AP_CafeChair34_Hardware40",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Additional waiting passenger 7",
+                "before": [
+                  -34.5,
+                  29.15,
+                  0
+                ],
+                "after": [
+                  -34.5,
+                  29.15,
+                  0
+                ],
+                "rotation": 180,
+                "chair": "CafeChair24_1792 slot 0",
+                "asset": "SM_AP_CafeChair34_Hardware40",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              }
+            ],
+            "unmatched": [],
+            "unique_occupied_seats": 27
+          },
+          "policy": "true skinned mesh+armature+action collection instances; no character StaticMesh export"
+        }
+      }
+    },
+    {
+      "module": "Fixes/03_airside/Exterior39/business_belt41.py",
+      "result": {
+        "version": 2,
+        "assets": [
+          "SM_AP_B41LapWornCrew",
+          "SM_AP_B41LapWornGeneric"
+        ],
+        "route": "Actual low hip/lap, beneath/behind resting hands; arm geometry excluded from fit",
+        "records": 4
+      }
+    },
+    {
+      "module": "Fixes/03_airside/Exterior39/window42.py",
+      "result": {
+        "version": 1,
+        "assets": [
+          "SM_AP_W42WindowWallL",
+          "SM_AP_W42WindowWallR",
+          "SM_AP_W42ShadeFrameL",
+          "SM_AP_W42ShadeFrameR"
+        ],
+        "source_only_reveal_profile": true,
+        "all_window41_mechanics_and_transforms_unchanged": true
+      }
+    },
+    {
+      "module": "Fixes/03_airside/Exterior39/aircraft_finish42.py",
+      "result": {
+        "version": 1,
+        "assets": [
+          "SM_AP_A42PSUCarrier",
+          "SM_AP_A42ExpeditionDuffel",
+          "SM_AP_A42Weekender"
+        ],
+        "targeted_instances": 70,
+        "palette_and_draped_handles_only": true
+      }
+    },
+    {
+      "module": "Fixes/03_airside/Exterior39/console_surface43.py",
+      "result": {
+        "version": 1,
+        "asset": "SM_AP_C43DashboardFixed",
+        "exact_fixed_fascia_only": true,
+        "flight39_dashboard_metadata_updated": true
+      }
+    }
+  ],
+  "unused_empty_material_slots": [],
+  "pending_assets": {
+    "SM_AP_Walls38": "complex",
+    "SM_AP_Floors38": "complex",
+    "SM_AP_Ceilings38": "complex",
+    "SM_AP_TerminalWallFinish43": "none",
+    "SM_AP_BaggageBackdrop43": "none",
+    "SM_Plane_LuxurySeat_Ergonomic39": "complex",
+    "SM_AP_Bench27_CharacterFit39": "complex",
+    "SM_AP_Bench29_CharacterFit39": "complex",
+    "SM_AP_Bench34_CharacterFit39": "complex",
+    "SM_AP_CafeChair34_CharacterFit39": "complex",
+    "SM_AP_B41LapWornCrew": "none",
+    "SM_AP_B41LapWornGeneric": "none",
+    "SM_AP_W42WindowWallL": "complex",
+    "SM_AP_W42WindowWallR": "complex",
+    "SM_AP_W42ShadeFrameL": "complex",
+    "SM_AP_W42ShadeFrameR": "complex",
+    "SM_AP_A42PSUCarrier": "complex",
+    "SM_AP_A42ExpeditionDuffel": "complex",
+    "SM_AP_A42Weekender": "complex",
+    "SM_AP_C43DashboardFixed": "complex"
+  },
+  "glass39": {
+    "presets": {
+      "Terminal": {
+        "tint": [
+          0.25,
+          0.47,
+          0.49,
+          1
+        ],
+        "opacity": 0.13,
+        "edge": 0.3,
+        "roughness": 0.18,
+        "specular": 0.48
+      },
+      "Bridge": {
+        "tint": [
+          0.24,
+          0.46,
+          0.48,
+          1
+        ],
+        "opacity": 0.12,
+        "edge": 0.28,
+        "roughness": 0.19,
+        "specular": 0.46
+      },
+      "Cabin": {
+        "tint": [
+          0.29,
+          0.52,
+          0.56,
+          1
+        ],
+        "opacity": 0.09,
+        "edge": 0.24,
+        "roughness": 0.16,
+        "specular": 0.48
+      },
+      "Cockpit": {
+        "tint": [
+          0.3,
+          0.53,
+          0.57,
+          1
+        ],
+        "opacity": 0.085,
+        "edge": 0.23,
+        "roughness": 0.17,
+        "specular": 0.48
+      }
+    },
+    "source_materials": [
+      "MI_AP_Glass",
+      "MI_AP_Glass.001",
+      "MI_AP_Glass.002",
+      "MI_AP_P36Glass",
+      "MI_AP_P38AGlass",
+      "MI_AP_P38BGlass",
+      "MI_Plane_SkyGlass18"
+    ],
+    "design": "Subtle blue-green tint, soft specular and stronger glancing edges. No procedural dirt or distortion. Instrument glass excluded."
+  },
+  "changed_assets": [
+    "SM_AP_A42ExpeditionDuffel",
+    "SM_AP_A42PSUCarrier",
+    "SM_AP_A42Weekender",
+    "SM_AP_B41LapWornCrew",
+    "SM_AP_B41LapWornGeneric",
+    "SM_AP_BaggageBackdrop43",
+    "SM_AP_Bench27_CharacterFit39",
+    "SM_AP_Bench29_CharacterFit39",
+    "SM_AP_Bench34_CharacterFit39",
+    "SM_AP_C43DashboardFixed",
+    "SM_AP_CafeChair34_CharacterFit39",
+    "SM_AP_Ceilings38",
+    "SM_AP_Floors38",
+    "SM_AP_TerminalWallFinish43",
+    "SM_AP_W42ShadeFrameL",
+    "SM_AP_W42ShadeFrameR",
+    "SM_AP_W42WindowWallL",
+    "SM_AP_W42WindowWallR",
+    "SM_AP_Walls38",
+    "SM_Plane_LuxurySeat_Ergonomic39"
+  ],
+  "families": 146,
+  "source_sha256": "fd965424639e18dfbd040ba1c4b968167a824b148e5eb0b95e6332ec7e88c3a4",
+  "retired_names": []
+}

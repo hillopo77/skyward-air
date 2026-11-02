@@ -1,0 +1,12 @@
+{
+ "status": "ERROR",
+ "started": 1793451264.5254045,
+ "group": null,
+ "control": null,
+ "solid": [],
+ "not_solid": [],
+ "reverted": [],
+ "tunnels": [],
+ "rejected": [],
+ "error": "Traceback (most recent call last):\n  File \"C:/Users/zaran/Documents/Codex/2026-10-22/referenced-chatgpt-conversation-this-is-an/outputs/Airport/Airport38/Pass46/collide46_probe.py\", line 232, in <module>\n    main()\n  File \"C:/Users/zaran/Documents/Codex/2026-10-22/referenced-chatgpt-conversation-this-is-an/outputs/Airport/Airport38/Pass46/collide46_probe.py\", line 124, in main\n    assert group in GROUPS, 'unknown group %r' % group\n           ^^^^^^^^^^^^^^^\nAssertionError: unknown group '\\ufeffA'\n"
+}

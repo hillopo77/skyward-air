@@ -1,0 +1,21 @@
+{
+  "status": "SUCCESS",
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Compact12\\Screenshots\\RefPose12_CharacterQueue.png",
+      "sha256": "52a4496927f90baad12485094f280611a435d70de231db60c6c0121afb510d5b",
+      "view": "CharacterQueue"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Compact12\\Screenshots\\RefPose12_CharacterLineup.png",
+      "sha256": "176f1f473dfe27a483c6da78a0c4374ad1f5c541a89e3db3b7f0d9269afe9c9a",
+      "view": "CharacterLineup"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Compact12\\Screenshots\\RefPose12_Checkin.png",
+      "sha256": "15a548eba793c1debcf9b6629b14afc45f8ad5655048804fdd0f66bc704c83bf",
+      "view": "Checkin"
+    }
+  ],
+  "runtime_sha256": "367063e04ba0ee2eaeab7240f0a6dbf42e3938dd9e576240bfea8bb997844378"
+}

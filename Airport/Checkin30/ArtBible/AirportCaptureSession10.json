@@ -1,0 +1,134 @@
+{
+  "status": "READY",
+  "pass_id": 10,
+  "revision": 30,
+  "runtime_sha256": "82fb2d8a32ed5500fbbaeda02fb4943e95647ca57760ed5f98c97bba2c9bd459",
+  "journey": {
+    "checked_in": true,
+    "bag_accepted": true,
+    "security": false,
+    "boarding": false,
+    "aboard": false
+  },
+  "held": null,
+  "driving": null,
+  "spectator": false,
+  "native_physics_bodies": 17,
+  "events": [
+    {
+      "event": "Room-based airport24 ready",
+      "time_s": 0.23500000000058208,
+      "zones": 17,
+      "controlled_leaves": 5
+    },
+    {
+      "event": "Clear arrival26 ready",
+      "time_s": 0.26600000000325963,
+      "initial_exit": "checkin",
+      "high_dpi": "project enabled",
+      "profile": "FastTAA"
+    },
+    {
+      "event": "Entrance prototype27 ready",
+      "time_s": 0.2820000000028813,
+      "level": 5,
+      "profile": "Distance27"
+    },
+    {
+      "event": "Crafted check-in30 ready",
+      "time_s": 0.3290000000015425,
+      "queue": "live",
+      "counters": 2
+    },
+    {
+      "event": "Native tow couplings bound",
+      "time_s": 0.8130000000019209,
+      "count": 2
+    },
+    {
+      "event": "Check-in queue respected30",
+      "time_s": 9.735000000000582,
+      "actor": "Check-in desk 01"
+    },
+    {
+      "event": "Player joined check-in queue30",
+      "time_s": 10.032000000002881,
+      "passengers_ahead": 3
+    },
+    {
+      "event": "Queue passenger advances30",
+      "time_s": 13.235000000000582,
+      "actor": "CH12 Queue passenger 6",
+      "remaining": 2
+    },
+    {
+      "event": "Queue passenger advances30",
+      "time_s": 16.454000000001543,
+      "actor": "CH12 Queue passenger 3",
+      "remaining": 1
+    },
+    {
+      "event": "Queue passenger advances30",
+      "time_s": 19.65700000000288,
+      "actor": "CH12 Queue passenger 0",
+      "remaining": 0
+    },
+    {
+      "event": "Player called to check-in desk30",
+      "time_s": 19.65700000000288,
+      "desk": "01"
+    },
+    {
+      "event": "Checked in",
+      "time_s": 23.329000000001543,
+      "desk": "Check-in desk 01"
+    },
+    {
+      "event": "Boarding pass issued",
+      "time_s": 23.329000000001543,
+      "actor": "Check-in desk 01"
+    },
+    {
+      "event": "Prop picked up",
+      "time_s": 26.78200000000288,
+      "actor": "Physical luggage 02"
+    },
+    {
+      "event": "Bag drop running",
+      "time_s": 29.75,
+      "belt": "Bag drop belt 01"
+    },
+    {
+      "event": "Bag placement requested",
+      "time_s": 29.75,
+      "actor": "Physical luggage 02"
+    },
+    {
+      "event": "Prop dropped",
+      "time_s": 30.9220000000023,
+      "actor": "Physical luggage 02"
+    },
+    {
+      "event": "Suitcase placed using native physics",
+      "time_s": 30.93800000000192,
+      "actor": "Physical luggage 02"
+    },
+    {
+      "event": "Checked suitcase accepted on physical belt",
+      "time_s": 30.93800000000192,
+      "actor": "Physical luggage 02",
+      "belt": "Bag drop belt 01"
+    }
+  ],
+  "frame_statistics": {
+    "frames": 1260,
+    "average_fps": 31.26819899139316,
+    "p95_ms": 53.963199999998324,
+    "maximum_ms": 1027.5457999996434
+  },
+  "player_source": [
+    -30.00786489315813,
+    -6.141892007360181,
+    1.62
+  ]
+}

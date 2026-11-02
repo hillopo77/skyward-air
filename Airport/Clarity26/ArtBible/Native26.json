@@ -1,0 +1,17 @@
+{
+  "status": "SUCCESS",
+  "started": 1793189244.9303865,
+  "stages": [
+    "Loading preserved warm foyer",
+    "Importing clear route and signage",
+    "Importing crisp journey overlay",
+    "Saving separate clear-arrival map"
+  ],
+  "finished": 1793189259.9241645,
+  "map": "/Game/Airport26/L_Airport_Clarity26",
+  "new_families": 5,
+  "hud_textures": 28,
+  "hud_location": "<BlendableLocation.BL_SCENE_COLOR_AFTER_TONEMAPPING: 0>",
+  "source_sha256": "31d0a243dbdf1af25dea3a79e85c20903cc16acefbdce8e4ab1f2143b753c8bb",
+  "layout_sha256": "d359bc8b6482c8d0108e02714a2aeb3af585d823d880ba01028890cd983cec69"
+}

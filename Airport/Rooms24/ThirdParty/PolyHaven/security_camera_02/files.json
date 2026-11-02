@@ -1,0 +1,1094 @@
+{
+  "Diffuse": {
+    "8k": {
+      "jpg": {
+        "size": 19757306,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/security_camera_02/security_camera_02_diff_8k.jpg",
+        "md5": "0d8ab04375b4eed10042feac253db576"
+      },
+      "png": {
+        "size": 145835556,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/security_camera_02/security_camera_02_diff_8k.png",
+        "md5": "de0df75b6b8316096b5c565ff7b3dad4"
+      },
+      "exr": {
+        "size": 28096011,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/security_camera_02/security_camera_02_diff_8k.exr",
+        "md5": "bdc51fce95b93991ca2267020224dd2e"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 5601287,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/security_camera_02/security_camera_02_diff_4k.jpg",
+        "md5": "2d985686263dccd9d3e69d5be68328ad"
+      },
+      "png": {
+        "size": 57704456,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/security_camera_02/security_camera_02_diff_4k.png",
+        "md5": "6c72a419cb51518c4925391715bcf83d"
+      },
+      "exr": {
+        "size": 7946135,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/security_camera_02/security_camera_02_diff_4k.exr",
+        "md5": "109aa37f5ee6c2503871dfd4f9f90286"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 1475390,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/security_camera_02/security_camera_02_diff_2k.jpg",
+        "md5": "593fb4dc461d5035fc51408f21e7975d"
+      },
+      "png": {
+        "size": 17032137,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/security_camera_02/security_camera_02_diff_2k.png",
+        "md5": "5fcb5df88a1e239df2d371ed8f3d08e1"
+      },
+      "exr": {
+        "size": 2097883,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/security_camera_02/security_camera_02_diff_2k.exr",
+        "md5": "ae230b14965ebbfe12f4b99817b05a42"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 394762,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/security_camera_02/security_camera_02_diff_1k.jpg",
+        "md5": "57891dae85c87511723b5a69020dbedb"
+      },
+      "png": {
+        "size": 4647194,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/security_camera_02/security_camera_02_diff_1k.png",
+        "md5": "5241753f69f0e9c36e59a6b4d24cd3a0"
+      },
+      "exr": {
+        "size": 578145,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/security_camera_02/security_camera_02_diff_1k.exr",
+        "md5": "b0bf3a7023edcef85e7660f9888fe82a"
+      }
+    }
+  },
+  "nor_dx": {
+    "8k": {
+      "jpg": {
+        "size": 49950218,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/security_camera_02/security_camera_02_nor_dx_8k.jpg",
+        "md5": "d2bfdaef3f89ccd0f70438ff9ca24ad4"
+      },
+      "png": {
+        "size": 295924628,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/security_camera_02/security_camera_02_nor_dx_8k.png",
+        "md5": "82abb86f5f67da9498635b8d1609f3d1"
+      },
+      "exr": {
+        "size": 110864677,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/security_camera_02/security_camera_02_nor_dx_8k.exr",
+        "md5": "8514cfdd4350e48b631a8bf578ea2a2b"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 9031111,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/security_camera_02/security_camera_02_nor_dx_4k.jpg",
+        "md5": "d845a58f322bb4a32dc91efd7925c649"
+      },
+      "png": {
+        "size": 77059205,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/security_camera_02/security_camera_02_nor_dx_4k.png",
+        "md5": "50c75736110a286f45a96ee47b069eaf"
+      },
+      "exr": {
+        "size": 22066816,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/security_camera_02/security_camera_02_nor_dx_4k.exr",
+        "md5": "3b8da8d2d1a3000a8db174db5f8e424b"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 1832801,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/security_camera_02/security_camera_02_nor_dx_2k.jpg",
+        "md5": "abf64606deef6c31564535b752b8b259"
+      },
+      "png": {
+        "size": 18934558,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/security_camera_02/security_camera_02_nor_dx_2k.png",
+        "md5": "2ef8d2bbf71f4dd7de817b6da8036b1d"
+      },
+      "exr": {
+        "size": 3950936,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/security_camera_02/security_camera_02_nor_dx_2k.exr",
+        "md5": "d90d245f6e6b2f165ec10d80e7ff9989"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 422462,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/security_camera_02/security_camera_02_nor_dx_1k.jpg",
+        "md5": "b0975dc9812a9beae410991b5fed3536"
+      },
+      "png": {
+        "size": 4662702,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/security_camera_02/security_camera_02_nor_dx_1k.png",
+        "md5": "643c1794664cec545a134d6597268bf1"
+      },
+      "exr": {
+        "size": 743366,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/security_camera_02/security_camera_02_nor_dx_1k.exr",
+        "md5": "2220d93c57d728b1d67942c4038e6861"
+      }
+    }
+  },
+  "nor_gl": {
+    "8k": {
+      "jpg": {
+        "size": 45205817,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/security_camera_02/security_camera_02_nor_gl_8k.jpg",
+        "md5": "2c2016cf4bf2aa1e9b81155abd888e64"
+      },
+      "png": {
+        "size": 295928740,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/security_camera_02/security_camera_02_nor_gl_8k.png",
+        "md5": "a82aa8a59f5d8b1f9f4f9debd57e0253"
+      },
+      "exr": {
+        "size": 111414579,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/security_camera_02/security_camera_02_nor_gl_8k.exr",
+        "md5": "6f4a5e831c5bbcc4a3e786ef0b3cf086"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 8645336,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/security_camera_02/security_camera_02_nor_gl_4k.jpg",
+        "md5": "1e0bdae58f81c7339811c2a1e35636b5"
+      },
+      "png": {
+        "size": 77051532,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/security_camera_02/security_camera_02_nor_gl_4k.png",
+        "md5": "802184d9d6e521bb757010db04b8a888"
+      },
+      "exr": {
+        "size": 22029638,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/security_camera_02/security_camera_02_nor_gl_4k.exr",
+        "md5": "02db0376fc5ab120dca028c04fb41c2b"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 1780652,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/security_camera_02/security_camera_02_nor_gl_2k.jpg",
+        "md5": "41dd4a243fbf175190e86801443c49bc"
+      },
+      "png": {
+        "size": 18915160,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/security_camera_02/security_camera_02_nor_gl_2k.png",
+        "md5": "c7c6f38c755fd8811106d56e8fb89188"
+      },
+      "exr": {
+        "size": 3942927,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/security_camera_02/security_camera_02_nor_gl_2k.exr",
+        "md5": "41df17ce1f09695c9996d136d1d421b6"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 413932,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/security_camera_02/security_camera_02_nor_gl_1k.jpg",
+        "md5": "3c955591a8b9639dc167fd57b2073d85"
+      },
+      "png": {
+        "size": 4657954,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/security_camera_02/security_camera_02_nor_gl_1k.png",
+        "md5": "d06f327f6a99dba8ccad314c35e4c0d0"
+      },
+      "exr": {
+        "size": 746474,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/security_camera_02/security_camera_02_nor_gl_1k.exr",
+        "md5": "97c6c924ee5589612b8cb3663768c129"
+      }
+    }
+  },
+  "blend": {
+    "8k": {
+      "blend": {
+        "include": {
+          "textures/security_camera_02_diff_8k.jpg": {
+            "size": 19757306,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/security_camera_02/security_camera_02_diff_8k.jpg",
+            "md5": "0d8ab04375b4eed10042feac253db576"
+          },
+          "textures/security_camera_02_metal_8k.exr": {
+            "size": 247312,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/security_camera_02/security_camera_02_metal_8k.exr",
+            "md5": "7da21992dced7ea3bd90842d77b54dc2"
+          },
+          "textures/security_camera_02_opacity_8k.png": {
+            "size": 174402,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/security_camera_02/security_camera_02_opacity_8k.png",
+            "md5": "9b57debe2100b22b80c09942966dd660"
+          },
+          "textures/security_camera_02_nor_gl_8k.exr": {
+            "size": 111414579,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/security_camera_02/security_camera_02_nor_gl_8k.exr",
+            "md5": "6f4a5e831c5bbcc4a3e786ef0b3cf086"
+          },
+          "textures/security_camera_02_rough_8k.exr": {
+            "size": 29812340,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/security_camera_02/security_camera_02_rough_8k.exr",
+            "md5": "2cc0412f6519f7729aa3e8cb002db55c"
+          }
+        },
+        "size": 623369,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/8k/security_camera_02/security_camera_02_8k.blend",
+        "md5": "0da03342ff6637b3aaa00b096763cfb1"
+      }
+    },
+    "4k": {
+      "blend": {
+        "include": {
+          "textures/security_camera_02_nor_gl_4k.exr": {
+            "size": 22029638,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/security_camera_02/security_camera_02_nor_gl_4k.exr",
+            "md5": "02db0376fc5ab120dca028c04fb41c2b"
+          },
+          "textures/security_camera_02_rough_4k.exr": {
+            "size": 10657526,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/security_camera_02/security_camera_02_rough_4k.exr",
+            "md5": "ae08021340d0e163acaea4a86c25599f"
+          },
+          "textures/security_camera_02_opacity_4k.png": {
+            "size": 59941,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/security_camera_02/security_camera_02_opacity_4k.png",
+            "md5": "d227a9603851289a3f61b6ce42f8a860"
+          },
+          "textures/security_camera_02_metal_4k.exr": {
+            "size": 92968,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/security_camera_02/security_camera_02_metal_4k.exr",
+            "md5": "3666783d798d1f13fafb6bf78f4c50a5"
+          },
+          "textures/security_camera_02_diff_4k.jpg": {
+            "size": 5601287,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/security_camera_02/security_camera_02_diff_4k.jpg",
+            "md5": "2d985686263dccd9d3e69d5be68328ad"
+          }
+        },
+        "size": 629021,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/4k/security_camera_02/security_camera_02_4k.blend",
+        "md5": "ece0b9c38a127cec0afe072126a7dd8a"
+      }
+    },
+    "2k": {
+      "blend": {
+        "include": {
+          "textures/security_camera_02_diff_2k.jpg": {
+            "size": 1475390,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/security_camera_02/security_camera_02_diff_2k.jpg",
+            "md5": "593fb4dc461d5035fc51408f21e7975d"
+          },
+          "textures/security_camera_02_rough_2k.exr": {
+            "size": 3147919,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/security_camera_02/security_camera_02_rough_2k.exr",
+            "md5": "fc377e372c637e006419e961076b61a3"
+          },
+          "textures/security_camera_02_metal_2k.exr": {
+            "size": 38501,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/security_camera_02/security_camera_02_metal_2k.exr",
+            "md5": "7e6ae4c7aad9aaa8ab10608b304dca81"
+          },
+          "textures/security_camera_02_opacity_2k.png": {
+            "size": 24447,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/security_camera_02/security_camera_02_opacity_2k.png",
+            "md5": "f7ea055e8020a6cfb10b563f459241df"
+          },
+          "textures/security_camera_02_nor_gl_2k.exr": {
+            "size": 3942927,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/security_camera_02/security_camera_02_nor_gl_2k.exr",
+            "md5": "41df17ce1f09695c9996d136d1d421b6"
+          }
+        },
+        "size": 607960,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/2k/security_camera_02/security_camera_02_2k.blend",
+        "md5": "e09afdea393959a6cca652894636ef47"
+      }
+    },
+    "1k": {
+      "blend": {
+        "include": {
+          "textures/security_camera_02_opacity_1k.png": {
+            "size": 11098,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/security_camera_02/security_camera_02_opacity_1k.png",
+            "md5": "150658f8c9f5953e7883ae40b970e271"
+          },
+          "textures/security_camera_02_rough_1k.exr": {
+            "size": 853807,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/security_camera_02/security_camera_02_rough_1k.exr",
+            "md5": "f90ce6984fe954ceec5f889ebb4ada3f"
+          },
+          "textures/security_camera_02_nor_gl_1k.exr": {
+            "size": 746474,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/security_camera_02/security_camera_02_nor_gl_1k.exr",
+            "md5": "97c6c924ee5589612b8cb3663768c129"
+          },
+          "textures/security_camera_02_diff_1k.jpg": {
+            "size": 394762,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/security_camera_02/security_camera_02_diff_1k.jpg",
+            "md5": "57891dae85c87511723b5a69020dbedb"
+          },
+          "textures/security_camera_02_metal_1k.exr": {
+            "size": 17048,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/security_camera_02/security_camera_02_metal_1k.exr",
+            "md5": "6ba225b79bb4c8b2e85c273c139622e7"
+          }
+        },
+        "size": 603214,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/security_camera_02/security_camera_02_1k.blend",
+        "md5": "76c05da224bb598de0621cf508b2f11b"
+      }
+    }
+  },
+  "gltf": {
+    "8k": {
+      "gltf": {
+        "include": {
+          "textures/security_camera_02_diff_8k.jpg": {
+            "size": 19757306,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/security_camera_02/security_camera_02_diff_8k.jpg",
+            "md5": "0d8ab04375b4eed10042feac253db576"
+          },
+          "security_camera_02.bin": {
+            "size": 407088,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/security_camera_02/security_camera_02.bin",
+            "md5": "2aa032b969a0e164e12705a7149bb20e"
+          },
+          "textures/security_camera_02_nor_gl_8k.jpg": {
+            "size": 45205817,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/security_camera_02/security_camera_02_nor_gl_8k.jpg",
+            "md5": "2c2016cf4bf2aa1e9b81155abd888e64"
+          },
+          "textures/security_camera_02_arm_8k.jpg": {
+            "size": 23175043,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/security_camera_02/security_camera_02_arm_8k.jpg",
+            "md5": "2c480798d408ebe26bccf6eafaf7ccac"
+          }
+        },
+        "size": 6299,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/security_camera_02/security_camera_02_8k.gltf",
+        "md5": "14d1de43a87fbc0f270ef1d4fc222261"
+      }
+    },
+    "4k": {
+      "gltf": {
+        "include": {
+          "textures/security_camera_02_nor_gl_4k.jpg": {
+            "size": 8645336,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/security_camera_02/security_camera_02_nor_gl_4k.jpg",
+            "md5": "1e0bdae58f81c7339811c2a1e35636b5"
+          },
+          "security_camera_02.bin": {
+            "size": 407088,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/security_camera_02/security_camera_02.bin",
+            "md5": "2aa032b969a0e164e12705a7149bb20e"
+          },
+          "textures/security_camera_02_diff_4k.jpg": {
+            "size": 5601287,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/security_camera_02/security_camera_02_diff_4k.jpg",
+            "md5": "2d985686263dccd9d3e69d5be68328ad"
+          },
+          "textures/security_camera_02_arm_4k.jpg": {
+            "size": 6546788,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/security_camera_02/security_camera_02_arm_4k.jpg",
+            "md5": "0bdee33e0eb51131f29c67d7d0524268"
+          }
+        },
+        "size": 6299,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/4k/security_camera_02/security_camera_02_4k.gltf",
+        "md5": "1fcaf276033c28b4ff3a52b552e68485"
+      }
+    },
+    "2k": {
+      "gltf": {
+        "include": {
+          "textures/security_camera_02_diff_2k.jpg": {
+            "size": 1475390,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/security_camera_02/security_camera_02_diff_2k.jpg",
+            "md5": "593fb4dc461d5035fc51408f21e7975d"
+          },
+          "textures/security_camera_02_arm_2k.jpg": {
+            "size": 1738160,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/security_camera_02/security_camera_02_arm_2k.jpg",
+            "md5": "2c87cf3b9eea0736bb1d1606ca11b239"
+          },
+          "security_camera_02.bin": {
+            "size": 407088,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/security_camera_02/security_camera_02.bin",
+            "md5": "2aa032b969a0e164e12705a7149bb20e"
+          },
+          "textures/security_camera_02_nor_gl_2k.jpg": {
+            "size": 1780652,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/security_camera_02/security_camera_02_nor_gl_2k.jpg",
+            "md5": "41dd4a243fbf175190e86801443c49bc"
+          }
+        },
+        "size": 6299,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/2k/security_camera_02/security_camera_02_2k.gltf",
+        "md5": "8bff5087093e3e3287b8ee3631c51012"
+      }
+    },
+    "1k": {
+      "gltf": {
+        "include": {
+          "textures/security_camera_02_nor_gl_1k.jpg": {
+            "size": 413932,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/security_camera_02/security_camera_02_nor_gl_1k.jpg",
+            "md5": "3c955591a8b9639dc167fd57b2073d85"
+          },
+          "security_camera_02.bin": {
+            "size": 407088,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/8k/security_camera_02/security_camera_02.bin",
+            "md5": "2aa032b969a0e164e12705a7149bb20e"
+          },
+          "textures/security_camera_02_diff_1k.jpg": {
+            "size": 394762,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/security_camera_02/security_camera_02_diff_1k.jpg",
+            "md5": "57891dae85c87511723b5a69020dbedb"
+          },
+          "textures/security_camera_02_arm_1k.jpg": {
+            "size": 472504,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/security_camera_02/security_camera_02_arm_1k.jpg",
+            "md5": "fca667e754388506baaf426077f0511c"
+          }
+        },
+        "size": 6299,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/gltf/1k/security_camera_02/security_camera_02_1k.gltf",
+        "md5": "18bd99794604e0cecb62bdb042f2bb0c"
+      }
+    }
+  },
+  "usd": {
+    "8k": {
+      "usd": {
+        "include": {
+          "textures/security_camera_02_diff_8k.jpg": {
+            "size": 19757306,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/security_camera_02/security_camera_02_diff_8k.jpg",
+            "md5": "0d8ab04375b4eed10042feac253db576"
+          },
+          "textures/security_camera_02_metal_8k.exr": {
+            "size": 247312,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/security_camera_02/security_camera_02_metal_8k.exr",
+            "md5": "7da21992dced7ea3bd90842d77b54dc2"
+          },
+          "textures/security_camera_02_opacity_8k.png": {
+            "size": 174402,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/security_camera_02/security_camera_02_opacity_8k.png",
+            "md5": "9b57debe2100b22b80c09942966dd660"
+          },
+          "textures/security_camera_02_nor_gl_8k.exr": {
+            "size": 111414579,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/security_camera_02/security_camera_02_nor_gl_8k.exr",
+            "md5": "6f4a5e831c5bbcc4a3e786ef0b3cf086"
+          },
+          "textures/security_camera_02_rough_8k.exr": {
+            "size": 29812340,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/security_camera_02/security_camera_02_rough_8k.exr",
+            "md5": "2cc0412f6519f7729aa3e8cb002db55c"
+          }
+        },
+        "size": 625492,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/8k/security_camera_02/security_camera_02_8k.usdc",
+        "md5": "71732bdb23b253b9e9ecf0eb1b156a24"
+      }
+    },
+    "4k": {
+      "usd": {
+        "include": {
+          "textures/security_camera_02_nor_gl_4k.exr": {
+            "size": 22029638,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/security_camera_02/security_camera_02_nor_gl_4k.exr",
+            "md5": "02db0376fc5ab120dca028c04fb41c2b"
+          },
+          "textures/security_camera_02_rough_4k.exr": {
+            "size": 10657526,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/security_camera_02/security_camera_02_rough_4k.exr",
+            "md5": "ae08021340d0e163acaea4a86c25599f"
+          },
+          "textures/security_camera_02_opacity_4k.png": {
+            "size": 59941,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/security_camera_02/security_camera_02_opacity_4k.png",
+            "md5": "d227a9603851289a3f61b6ce42f8a860"
+          },
+          "textures/security_camera_02_metal_4k.exr": {
+            "size": 92968,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/security_camera_02/security_camera_02_metal_4k.exr",
+            "md5": "3666783d798d1f13fafb6bf78f4c50a5"
+          },
+          "textures/security_camera_02_diff_4k.jpg": {
+            "size": 5601287,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/security_camera_02/security_camera_02_diff_4k.jpg",
+            "md5": "2d985686263dccd9d3e69d5be68328ad"
+          }
+        },
+        "size": 625492,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/4k/security_camera_02/security_camera_02_4k.usdc",
+        "md5": "3b7e0ad7ae22c8689461d50b51cf9fba"
+      }
+    },
+    "2k": {
+      "usd": {
+        "include": {
+          "textures/security_camera_02_diff_2k.jpg": {
+            "size": 1475390,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/security_camera_02/security_camera_02_diff_2k.jpg",
+            "md5": "593fb4dc461d5035fc51408f21e7975d"
+          },
+          "textures/security_camera_02_rough_2k.exr": {
+            "size": 3147919,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/security_camera_02/security_camera_02_rough_2k.exr",
+            "md5": "fc377e372c637e006419e961076b61a3"
+          },
+          "textures/security_camera_02_metal_2k.exr": {
+            "size": 38501,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/security_camera_02/security_camera_02_metal_2k.exr",
+            "md5": "7e6ae4c7aad9aaa8ab10608b304dca81"
+          },
+          "textures/security_camera_02_opacity_2k.png": {
+            "size": 24447,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/security_camera_02/security_camera_02_opacity_2k.png",
+            "md5": "f7ea055e8020a6cfb10b563f459241df"
+          },
+          "textures/security_camera_02_nor_gl_2k.exr": {
+            "size": 3942927,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/security_camera_02/security_camera_02_nor_gl_2k.exr",
+            "md5": "41df17ce1f09695c9996d136d1d421b6"
+          }
+        },
+        "size": 625553,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/2k/security_camera_02/security_camera_02_2k.usdc",
+        "md5": "a1b81dc801f1a797cf1a3fceffcef3e7"
+      }
+    },
+    "1k": {
+      "usd": {
+        "include": {
+          "textures/security_camera_02_opacity_1k.png": {
+            "size": 11098,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/security_camera_02/security_camera_02_opacity_1k.png",
+            "md5": "150658f8c9f5953e7883ae40b970e271"
+          },
+          "textures/security_camera_02_rough_1k.exr": {
+            "size": 853807,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/security_camera_02/security_camera_02_rough_1k.exr",
+            "md5": "f90ce6984fe954ceec5f889ebb4ada3f"
+          },
+          "textures/security_camera_02_nor_gl_1k.exr": {
+            "size": 746474,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/security_camera_02/security_camera_02_nor_gl_1k.exr",
+            "md5": "97c6c924ee5589612b8cb3663768c129"
+          },
+          "textures/security_camera_02_diff_1k.jpg": {
+            "size": 394762,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/security_camera_02/security_camera_02_diff_1k.jpg",
+            "md5": "57891dae85c87511723b5a69020dbedb"
+          },
+          "textures/security_camera_02_metal_1k.exr": {
+            "size": 17048,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/security_camera_02/security_camera_02_metal_1k.exr",
+            "md5": "6ba225b79bb4c8b2e85c273c139622e7"
+          }
+        },
+        "size": 625542,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/usd/1k/security_camera_02/security_camera_02_1k.usdc",
+        "md5": "ef6a8302028c9ba878ade429347d73b2"
+      }
+    }
+  },
+  "Metal": {
+    "8k": {
+      "jpg": {
+        "size": 922278,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/security_camera_02/security_camera_02_metal_8k.jpg",
+        "md5": "76413c8419cf8d22b61f2a3092577049"
+      },
+      "png": {
+        "size": 191539,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/security_camera_02/security_camera_02_metal_8k.png",
+        "md5": "82a8f205bf139562726d0d6e6be45401"
+      },
+      "exr": {
+        "size": 247312,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/security_camera_02/security_camera_02_metal_8k.exr",
+        "md5": "7da21992dced7ea3bd90842d77b54dc2"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 257944,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/security_camera_02/security_camera_02_metal_4k.jpg",
+        "md5": "4d9077a9107c80854eb6ca468c0f4e1a"
+      },
+      "png": {
+        "size": 76253,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/security_camera_02/security_camera_02_metal_4k.png",
+        "md5": "53cd715b67c1796044dbd3ec4b361803"
+      },
+      "exr": {
+        "size": 92968,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/security_camera_02/security_camera_02_metal_4k.exr",
+        "md5": "3666783d798d1f13fafb6bf78f4c50a5"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 78116,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/security_camera_02/security_camera_02_metal_2k.jpg",
+        "md5": "752e9e3cccec37f9268242981481a413"
+      },
+      "png": {
+        "size": 32046,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/security_camera_02/security_camera_02_metal_2k.png",
+        "md5": "73c81a31eb772bd6502e0019d65794cd"
+      },
+      "exr": {
+        "size": 38501,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/security_camera_02/security_camera_02_metal_2k.exr",
+        "md5": "7e6ae4c7aad9aaa8ab10608b304dca81"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 26132,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/security_camera_02/security_camera_02_metal_1k.jpg",
+        "md5": "3d7f6e8216fc2befc916ef8fe511950f"
+      },
+      "png": {
+        "size": 13177,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/security_camera_02/security_camera_02_metal_1k.png",
+        "md5": "8339ebb1ce1338dda2a62208fe7b0eec"
+      },
+      "exr": {
+        "size": 17048,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/security_camera_02/security_camera_02_metal_1k.exr",
+        "md5": "6ba225b79bb4c8b2e85c273c139622e7"
+      }
+    }
+  },
+  "opacity": {
+    "8k": {
+      "jpg": {
+        "size": 827840,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/security_camera_02/security_camera_02_opacity_8k.jpg",
+        "md5": "752579a4b860c7eef34785da114f3a72"
+      },
+      "png": {
+        "size": 174402,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/security_camera_02/security_camera_02_opacity_8k.png",
+        "md5": "9b57debe2100b22b80c09942966dd660"
+      },
+      "exr": {
+        "size": 204546,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/security_camera_02/security_camera_02_opacity_8k.exr",
+        "md5": "a76cb4fea5fe32d869265e2c9805202e"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 212799,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/security_camera_02/security_camera_02_opacity_4k.jpg",
+        "md5": "6dab92c3d1f5b87cc10bb7182d515eed"
+      },
+      "png": {
+        "size": 59941,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/security_camera_02/security_camera_02_opacity_4k.png",
+        "md5": "d227a9603851289a3f61b6ce42f8a860"
+      },
+      "exr": {
+        "size": 72776,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/security_camera_02/security_camera_02_opacity_4k.exr",
+        "md5": "5390f40ff43db58c0efa8349677325ad"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 56682,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/security_camera_02/security_camera_02_opacity_2k.jpg",
+        "md5": "9252abf6832a2d300e6e3dd1789bfc27"
+      },
+      "png": {
+        "size": 24447,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/security_camera_02/security_camera_02_opacity_2k.png",
+        "md5": "f7ea055e8020a6cfb10b563f459241df"
+      },
+      "exr": {
+        "size": 28326,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/security_camera_02/security_camera_02_opacity_2k.exr",
+        "md5": "f91cfda5c8f8f174624a39d6be8054e4"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 15893,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/security_camera_02/security_camera_02_opacity_1k.jpg",
+        "md5": "cc79bce37042658196158bad04d81a75"
+      },
+      "png": {
+        "size": 11098,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/security_camera_02/security_camera_02_opacity_1k.png",
+        "md5": "150658f8c9f5953e7883ae40b970e271"
+      },
+      "exr": {
+        "size": 12462,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/security_camera_02/security_camera_02_opacity_1k.exr",
+        "md5": "6eef84c6c7755adc6552e9b4caea771f"
+      }
+    }
+  },
+  "arm": {
+    "8k": {
+      "jpg": {
+        "size": 23175043,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/security_camera_02/security_camera_02_arm_8k.jpg",
+        "md5": "2c480798d408ebe26bccf6eafaf7ccac"
+      },
+      "png": {
+        "size": 30338092,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/security_camera_02/security_camera_02_arm_8k.png",
+        "md5": "449edde751f77e14f6e998fc6961e320"
+      },
+      "exr": {
+        "size": 45144042,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/security_camera_02/security_camera_02_arm_8k.exr",
+        "md5": "46ed005aaef4688d8f062b481bf4f28f"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 6546788,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/security_camera_02/security_camera_02_arm_4k.jpg",
+        "md5": "0bdee33e0eb51131f29c67d7d0524268"
+      },
+      "png": {
+        "size": 9052660,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/security_camera_02/security_camera_02_arm_4k.png",
+        "md5": "24809fa2bf4b9d976604d52d65780951"
+      },
+      "exr": {
+        "size": 13620007,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/security_camera_02/security_camera_02_arm_4k.exr",
+        "md5": "39d614cab3c5f84b2d8bf23dc87e4e71"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 1738160,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/security_camera_02/security_camera_02_arm_2k.jpg",
+        "md5": "2c87cf3b9eea0736bb1d1606ca11b239"
+      },
+      "png": {
+        "size": 2456520,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/security_camera_02/security_camera_02_arm_2k.png",
+        "md5": "9a64c0eb6335f4a1d0e7730ec860d773"
+      },
+      "exr": {
+        "size": 3671399,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/security_camera_02/security_camera_02_arm_2k.exr",
+        "md5": "59ed42b6faf4551a93ca143a8e89a9fc"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 472504,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/security_camera_02/security_camera_02_arm_1k.jpg",
+        "md5": "fca667e754388506baaf426077f0511c"
+      },
+      "png": {
+        "size": 659612,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/security_camera_02/security_camera_02_arm_1k.png",
+        "md5": "69ac033d482fd79a3d12509799373b02"
+      },
+      "exr": {
+        "size": 1015024,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/security_camera_02/security_camera_02_arm_1k.exr",
+        "md5": "4992a4073bf621cc1c4163d9b9aefc8b"
+      }
+    }
+  },
+  "fbx": {
+    "8k": {
+      "fbx": {
+        "include": {
+          "textures/security_camera_02_diff_8k.jpg": {
+            "size": 19757306,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/security_camera_02/security_camera_02_diff_8k.jpg",
+            "md5": "0d8ab04375b4eed10042feac253db576"
+          },
+          "textures/security_camera_02_metal_8k.exr": {
+            "size": 247312,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/security_camera_02/security_camera_02_metal_8k.exr",
+            "md5": "7da21992dced7ea3bd90842d77b54dc2"
+          },
+          "textures/security_camera_02_opacity_8k.png": {
+            "size": 174402,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/security_camera_02/security_camera_02_opacity_8k.png",
+            "md5": "9b57debe2100b22b80c09942966dd660"
+          },
+          "textures/security_camera_02_nor_gl_8k.exr": {
+            "size": 111414579,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/security_camera_02/security_camera_02_nor_gl_8k.exr",
+            "md5": "6f4a5e831c5bbcc4a3e786ef0b3cf086"
+          },
+          "textures/security_camera_02_rough_8k.exr": {
+            "size": 29812340,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/security_camera_02/security_camera_02_rough_8k.exr",
+            "md5": "2cc0412f6519f7729aa3e8cb002db55c"
+          }
+        },
+        "size": 451324,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/8k/security_camera_02/security_camera_02_8k.fbx",
+        "md5": "56241c5ca4679b817baa1c84b659e403"
+      }
+    },
+    "4k": {
+      "fbx": {
+        "include": {
+          "textures/security_camera_02_nor_gl_4k.exr": {
+            "size": 22029638,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/security_camera_02/security_camera_02_nor_gl_4k.exr",
+            "md5": "02db0376fc5ab120dca028c04fb41c2b"
+          },
+          "textures/security_camera_02_rough_4k.exr": {
+            "size": 10657526,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/security_camera_02/security_camera_02_rough_4k.exr",
+            "md5": "ae08021340d0e163acaea4a86c25599f"
+          },
+          "textures/security_camera_02_opacity_4k.png": {
+            "size": 59941,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/security_camera_02/security_camera_02_opacity_4k.png",
+            "md5": "d227a9603851289a3f61b6ce42f8a860"
+          },
+          "textures/security_camera_02_metal_4k.exr": {
+            "size": 92968,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/security_camera_02/security_camera_02_metal_4k.exr",
+            "md5": "3666783d798d1f13fafb6bf78f4c50a5"
+          },
+          "textures/security_camera_02_diff_4k.jpg": {
+            "size": 5601287,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/security_camera_02/security_camera_02_diff_4k.jpg",
+            "md5": "2d985686263dccd9d3e69d5be68328ad"
+          }
+        },
+        "size": 451324,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/4k/security_camera_02/security_camera_02_4k.fbx",
+        "md5": "47b145246806f1aae95a5fecf43730fd"
+      }
+    },
+    "2k": {
+      "fbx": {
+        "include": {
+          "textures/security_camera_02_diff_2k.jpg": {
+            "size": 1475390,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/security_camera_02/security_camera_02_diff_2k.jpg",
+            "md5": "593fb4dc461d5035fc51408f21e7975d"
+          },
+          "textures/security_camera_02_rough_2k.exr": {
+            "size": 3147919,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/security_camera_02/security_camera_02_rough_2k.exr",
+            "md5": "fc377e372c637e006419e961076b61a3"
+          },
+          "textures/security_camera_02_metal_2k.exr": {
+            "size": 38501,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/security_camera_02/security_camera_02_metal_2k.exr",
+            "md5": "7e6ae4c7aad9aaa8ab10608b304dca81"
+          },
+          "textures/security_camera_02_opacity_2k.png": {
+            "size": 24447,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/security_camera_02/security_camera_02_opacity_2k.png",
+            "md5": "f7ea055e8020a6cfb10b563f459241df"
+          },
+          "textures/security_camera_02_nor_gl_2k.exr": {
+            "size": 3942927,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/security_camera_02/security_camera_02_nor_gl_2k.exr",
+            "md5": "41df17ce1f09695c9996d136d1d421b6"
+          }
+        },
+        "size": 451324,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/2k/security_camera_02/security_camera_02_2k.fbx",
+        "md5": "91e684a32f440e5699e5e8a58c45df30"
+      }
+    },
+    "1k": {
+      "fbx": {
+        "include": {
+          "textures/security_camera_02_opacity_1k.png": {
+            "size": 11098,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/security_camera_02/security_camera_02_opacity_1k.png",
+            "md5": "150658f8c9f5953e7883ae40b970e271"
+          },
+          "textures/security_camera_02_rough_1k.exr": {
+            "size": 853807,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/security_camera_02/security_camera_02_rough_1k.exr",
+            "md5": "f90ce6984fe954ceec5f889ebb4ada3f"
+          },
+          "textures/security_camera_02_nor_gl_1k.exr": {
+            "size": 746474,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/security_camera_02/security_camera_02_nor_gl_1k.exr",
+            "md5": "97c6c924ee5589612b8cb3663768c129"
+          },
+          "textures/security_camera_02_diff_1k.jpg": {
+            "size": 394762,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/security_camera_02/security_camera_02_diff_1k.jpg",
+            "md5": "57891dae85c87511723b5a69020dbedb"
+          },
+          "textures/security_camera_02_metal_1k.exr": {
+            "size": 17048,
+            "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/security_camera_02/security_camera_02_metal_1k.exr",
+            "md5": "6ba225b79bb4c8b2e85c273c139622e7"
+          }
+        },
+        "size": 451324,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/fbx/1k/security_camera_02/security_camera_02_1k.fbx",
+        "md5": "cf1a76d4cff4340861cafe75136e88a5"
+      }
+    }
+  },
+  "AO": {
+    "8k": {
+      "jpg": {
+        "size": 3503917,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/security_camera_02/security_camera_02_ao_8k.jpg",
+        "md5": "ee4c6aa1af7e1a02c4401d1f34d64a0e"
+      },
+      "png": {
+        "size": 3371500,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/security_camera_02/security_camera_02_ao_8k.png",
+        "md5": "55f1f2e6877a093060beb8ca136a5a12"
+      },
+      "exr": {
+        "size": 4370740,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/security_camera_02/security_camera_02_ao_8k.exr",
+        "md5": "ec0416c300fa6d5fe75e45b109b6d5d8"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 1182737,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/security_camera_02/security_camera_02_ao_4k.jpg",
+        "md5": "125a9833b21cfbbe86e7771c224c9db3"
+      },
+      "png": {
+        "size": 2499437,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/security_camera_02/security_camera_02_ao_4k.png",
+        "md5": "3c69b7d83945ecb0f09f2e98bef9f707"
+      },
+      "exr": {
+        "size": 1939068,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/security_camera_02/security_camera_02_ao_4k.exr",
+        "md5": "f6ff6163e9cf244fbd7a48d66e5c53ca"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 356282,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/security_camera_02/security_camera_02_ao_2k.jpg",
+        "md5": "e03228190973df6c0089fa78765568ad"
+      },
+      "png": {
+        "size": 893993,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/security_camera_02/security_camera_02_ao_2k.png",
+        "md5": "304769c83a05d86d77a1e6cdb0b3dd16"
+      },
+      "exr": {
+        "size": 643969,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/security_camera_02/security_camera_02_ao_2k.exr",
+        "md5": "bf3d00ce58769e5a9fa8a2c4428332a4"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 118192,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/security_camera_02/security_camera_02_ao_1k.jpg",
+        "md5": "6f45c89b528a4fdb72e89e322ea39ab3"
+      },
+      "png": {
+        "size": 276634,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/security_camera_02/security_camera_02_ao_1k.png",
+        "md5": "178e512e5489ff79bf3a71dac8345f0d"
+      },
+      "exr": {
+        "size": 206665,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/security_camera_02/security_camera_02_ao_1k.exr",
+        "md5": "940c3e76f8555b61551f177ba4b3dc09"
+      }
+    }
+  },
+  "Rough": {
+    "8k": {
+      "jpg": {
+        "size": 19978091,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/8k/security_camera_02/security_camera_02_rough_8k.jpg",
+        "md5": "e7f47a2db4f43aeacb26956080d0795c"
+      },
+      "png": {
+        "size": 28421407,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/8k/security_camera_02/security_camera_02_rough_8k.png",
+        "md5": "7f2c1fe23319a49846b86c1e44d6528a"
+      },
+      "exr": {
+        "size": 29812340,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/8k/security_camera_02/security_camera_02_rough_8k.exr",
+        "md5": "2cc0412f6519f7729aa3e8cb002db55c"
+      }
+    },
+    "4k": {
+      "jpg": {
+        "size": 5696021,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/4k/security_camera_02/security_camera_02_rough_4k.jpg",
+        "md5": "538de32ef6faee1468f780910e6e7b35"
+      },
+      "png": {
+        "size": 14382961,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/4k/security_camera_02/security_camera_02_rough_4k.png",
+        "md5": "c9a01dc2ac1d2963043ab629715b4f9d"
+      },
+      "exr": {
+        "size": 10657526,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/4k/security_camera_02/security_camera_02_rough_4k.exr",
+        "md5": "ae08021340d0e163acaea4a86c25599f"
+      }
+    },
+    "2k": {
+      "jpg": {
+        "size": 1490958,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/2k/security_camera_02/security_camera_02_rough_2k.jpg",
+        "md5": "f69860222d1a38bda560b6c27129a40b"
+      },
+      "png": {
+        "size": 4928006,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/2k/security_camera_02/security_camera_02_rough_2k.png",
+        "md5": "f6ecba97289b23e4826ede0e3027ecd0"
+      },
+      "exr": {
+        "size": 3147919,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/2k/security_camera_02/security_camera_02_rough_2k.exr",
+        "md5": "fc377e372c637e006419e961076b61a3"
+      }
+    },
+    "1k": {
+      "jpg": {
+        "size": 390946,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/security_camera_02/security_camera_02_rough_1k.jpg",
+        "md5": "cc7e541540a24778a8623ffbc70e9ed7"
+      },
+      "png": {
+        "size": 1405122,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/security_camera_02/security_camera_02_rough_1k.png",
+        "md5": "a88f9f581e44d57e5f86de29a740103b"
+      },
+      "exr": {
+        "size": 853807,
+        "url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/security_camera_02/security_camera_02_rough_1k.exr",
+        "md5": "f90ce6984fe954ceec5f889ebb4ada3f"
+      }
+    }
+  }
+}

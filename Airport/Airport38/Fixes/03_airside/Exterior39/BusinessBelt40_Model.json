@@ -1,0 +1,70 @@
+{
+  "assets": [
+    "SM_AP_B40LuxurySeatBase",
+    "SM_AP_B40LapStowed",
+    "SM_AP_B40LapWornCrew",
+    "SM_AP_B40LapWornGeneric",
+    "SM_AP_B40ReleaseLid"
+  ],
+  "anchor_points": [
+    [
+      -0.325,
+      0.15,
+      0.5
+    ],
+    [
+      0.325,
+      0.15,
+      0.5
+    ]
+  ],
+  "worn": {
+    "Crew": {
+      "buckle_centre": [
+        0.0,
+        -0.35343475580215455,
+        0.705
+      ],
+      "hinge": [
+        0.0,
+        -0.36443475580215456,
+        0.727
+      ],
+      "complete_buckle_footprint_body_ray_fit": true
+    },
+    "Generic": {
+      "buckle_centre": [
+        0.0,
+        -0.35343475580215455,
+        0.705
+      ],
+      "hinge": [
+        0.0,
+        -0.36443475580215456,
+        0.727
+      ],
+      "complete_buckle_footprint_body_ray_fit": true
+    }
+  },
+  "removed_old_fixed_parts": [
+    "Suite surface fitted woven restraint12 ergonomic39",
+    "Suite surface fitted woven restraint12 sewn selvage ergonomic39",
+    "Suite surface fitted woven restraint12 sewn selvage.001 ergonomic39",
+    "Suite surface fitted woven restraint12.001 ergonomic39",
+    "Suite surface fitted woven restraint12 sewn selvage.002 ergonomic39",
+    "Suite surface fitted woven restraint12 sewn selvage.003 ergonomic39",
+    "Suite buckle genuinely open tongue frame12 ergonomic39",
+    "Suite buckle retained hinge pin12 ergonomic39"
+  ],
+  "stowed_receiver_centre": [
+    -0.29,
+    -0.18,
+    0.5011829063892365
+  ],
+  "stowed_hinge": [
+    -0.29,
+    -0.158,
+    0.5121829063892365
+  ],
+  "version": 1
+}

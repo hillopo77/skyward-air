@@ -1,0 +1,28 @@
+{
+  "scene": "L_Plane_Reference",
+  "characters": 0,
+  "seats": 18,
+  "cabin_width_m": 3.44,
+  "cabin_length_m": 11.5,
+  "crown_m": 2.46,
+  "window_aperture_m": [
+    0.79,
+    0.965
+  ],
+  "window_bottom_m": 0.8875,
+  "row_pitch_m": 1.15,
+  "modeled_features": [
+    "quad upholstered seat and separate shell",
+    "tapered recessed windows",
+    "open dark luggage shelves with three lights per bay",
+    "barrel ceiling and separate ribs",
+    "curved analog cockpit, recessed gauges, scale ticks, needles and glass",
+    "yoke and four-slot throttle quadrant",
+    "open rear cargo ramp"
+  ],
+  "remaining": [
+    "reference comparison and material tuning",
+    "full exterior integration",
+    "in-engine visual and navigation verification"
+  ]
+}

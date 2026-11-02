@@ -1,0 +1,251 @@
+{
+  "tests": [
+    {
+      "test": "Gate is genuinely open",
+      "x_m": -0.142,
+      "angle": -0.6,
+      "passed": true
+    },
+    {
+      "test": "Gate is genuinely open",
+      "x_m": -0.142,
+      "angle": -0.3,
+      "passed": true
+    },
+    {
+      "test": "Gate is genuinely open",
+      "x_m": -0.142,
+      "angle": 0,
+      "passed": true
+    },
+    {
+      "test": "Gate is genuinely open",
+      "x_m": -0.142,
+      "angle": 0.3,
+      "passed": true
+    },
+    {
+      "test": "Gate is genuinely open",
+      "x_m": -0.142,
+      "angle": 0.6,
+      "passed": true
+    },
+    {
+      "test": "Solid material borders gate",
+      "x_m": -0.16199999999999998,
+      "passed": true
+    },
+    {
+      "test": "Solid material borders gate",
+      "x_m": -0.12199999999999998,
+      "passed": true
+    },
+    {
+      "test": "Gate is genuinely open",
+      "x_m": -0.047,
+      "angle": -0.6,
+      "passed": true
+    },
+    {
+      "test": "Gate is genuinely open",
+      "x_m": -0.047,
+      "angle": -0.3,
+      "passed": true
+    },
+    {
+      "test": "Gate is genuinely open",
+      "x_m": -0.047,
+      "angle": 0,
+      "passed": true
+    },
+    {
+      "test": "Gate is genuinely open",
+      "x_m": -0.047,
+      "angle": 0.3,
+      "passed": true
+    },
+    {
+      "test": "Gate is genuinely open",
+      "x_m": -0.047,
+      "angle": 0.6,
+      "passed": true
+    },
+    {
+      "test": "Solid material borders gate",
+      "x_m": -0.067,
+      "passed": true
+    },
+    {
+      "test": "Solid material borders gate",
+      "x_m": -0.027,
+      "passed": true
+    },
+    {
+      "test": "Gate is genuinely open",
+      "x_m": 0.047,
+      "angle": -0.6,
+      "passed": true
+    },
+    {
+      "test": "Gate is genuinely open",
+      "x_m": 0.047,
+      "angle": -0.3,
+      "passed": true
+    },
+    {
+      "test": "Gate is genuinely open",
+      "x_m": 0.047,
+      "angle": 0,
+      "passed": true
+    },
+    {
+      "test": "Gate is genuinely open",
+      "x_m": 0.047,
+      "angle": 0.3,
+      "passed": true
+    },
+    {
+      "test": "Gate is genuinely open",
+      "x_m": 0.047,
+      "angle": 0.6,
+      "passed": true
+    },
+    {
+      "test": "Solid material borders gate",
+      "x_m": 0.027,
+      "passed": true
+    },
+    {
+      "test": "Solid material borders gate",
+      "x_m": 0.067,
+      "passed": true
+    },
+    {
+      "test": "Gate is genuinely open",
+      "x_m": 0.142,
+      "angle": -0.6,
+      "passed": true
+    },
+    {
+      "test": "Gate is genuinely open",
+      "x_m": 0.142,
+      "angle": -0.3,
+      "passed": true
+    },
+    {
+      "test": "Gate is genuinely open",
+      "x_m": 0.142,
+      "angle": 0,
+      "passed": true
+    },
+    {
+      "test": "Gate is genuinely open",
+      "x_m": 0.142,
+      "angle": 0.3,
+      "passed": true
+    },
+    {
+      "test": "Gate is genuinely open",
+      "x_m": 0.142,
+      "angle": 0.6,
+      "passed": true
+    },
+    {
+      "test": "Solid material borders gate",
+      "x_m": 0.12199999999999998,
+      "passed": true
+    },
+    {
+      "test": "Solid material borders gate",
+      "x_m": 0.16199999999999998,
+      "passed": true
+    },
+    {
+      "test": "Switch/button mounting bore is open",
+      "x_m": -0.29,
+      "passed": true
+    },
+    {
+      "test": "Switch/button mounting bore is open",
+      "x_m": -0.2,
+      "passed": true
+    },
+    {
+      "test": "Switch/button mounting bore is open",
+      "x_m": -0.12,
+      "passed": true
+    },
+    {
+      "test": "Switch/button mounting bore is open",
+      "x_m": -0.04,
+      "passed": true
+    },
+    {
+      "test": "Switch/button mounting bore is open",
+      "x_m": 0.04,
+      "passed": true
+    },
+    {
+      "test": "Switch/button mounting bore is open",
+      "x_m": 0.12,
+      "passed": true
+    },
+    {
+      "test": "Switch/button mounting bore is open",
+      "x_m": 0.2,
+      "passed": true
+    },
+    {
+      "test": "Switch/button mounting bore is open",
+      "x_m": 0.29,
+      "passed": true
+    },
+    {
+      "test": "Vent is a through-opening with solid surrounding wall",
+      "x_m": -0.16,
+      "z_m": 0.846,
+      "passed": true
+    },
+    {
+      "test": "Vent is a through-opening with solid surrounding wall",
+      "x_m": -0.16,
+      "z_m": 0.88,
+      "passed": true
+    },
+    {
+      "test": "Vent is a through-opening with solid surrounding wall",
+      "x_m": 0,
+      "z_m": 0.846,
+      "passed": true
+    },
+    {
+      "test": "Vent is a through-opening with solid surrounding wall",
+      "x_m": 0,
+      "z_m": 0.88,
+      "passed": true
+    },
+    {
+      "test": "Vent is a through-opening with solid surrounding wall",
+      "x_m": 0.16,
+      "z_m": 0.846,
+      "passed": true
+    },
+    {
+      "test": "Vent is a through-opening with solid surrounding wall",
+      "x_m": 0.16,
+      "z_m": 0.88,
+      "passed": true
+    },
+    {
+      "test": "Pivot bearing bracket has a true shaft/bearing bore",
+      "side": -1,
+      "passed": true
+    },
+    {
+      "test": "Pivot bearing bracket has a true shaft/bearing bore",
+      "side": 1,
+      "passed": true
+    }
+  ],
+  "status": "SUCCESS"
+}

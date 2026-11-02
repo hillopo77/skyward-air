@@ -1,0 +1,109 @@
+{
+  "status": "MEASURED_REQUIRES_VISUAL_REVIEW",
+  "sequences": {
+    "33_CurtainHold": {
+      "status": "MEASURED",
+      "frames": 8,
+      "viewport": [
+        1920,
+        1080
+      ],
+      "warmup_frames": 2,
+      "mean_absolute_rgb_delta_0_255": 0.3276618719100952,
+      "p99_rgb_delta_0_255": 4.0,
+      "interpretation": "Moving-camera delta contains genuine scene motion; never an FPS metric or isolated AA diagnosis."
+    },
+    "34_CeilingHold": {
+      "status": "MEASURED",
+      "frames": 8,
+      "viewport": [
+        1920,
+        1080
+      ],
+      "warmup_frames": 2,
+      "mean_absolute_rgb_delta_0_255": 10.816252708435059,
+      "p99_rgb_delta_0_255": 33.0,
+      "interpretation": "Moving-camera delta contains genuine scene motion; never an FPS metric or isolated AA diagnosis.",
+      "probe_xy": [
+        900,
+        300
+      ],
+      "probe_rgb": [
+        [
+          48,
+          51,
+          59
+        ],
+        [
+          48,
+          51,
+          59
+        ],
+        [
+          48,
+          51,
+          59
+        ],
+        [
+          17,
+          21,
+          29
+        ],
+        [
+          17,
+          21,
+          29
+        ],
+        [
+          17,
+          21,
+          29
+        ],
+        [
+          48,
+          51,
+          59
+        ],
+        [
+          48,
+          51,
+          59
+        ]
+      ],
+      "probe_max_range_0_255": 31,
+      "baseline_mean_delta_0_255": 10.8162527084,
+      "same_camera_required": {
+        "eye": [
+          -28,
+          13.5,
+          1.7
+        ],
+        "target": [
+          -28,
+          16,
+          3.4
+        ],
+        "fov": 78
+      },
+      "review_required": "Inspect ceiling ROI for alternating materials. Mean improvement alone cannot pass a dark/flat/blurred picture."
+    },
+    "35_A08Move": {
+      "status": "MEASURED",
+      "frames": 12,
+      "viewport": [
+        1920,
+        1080
+      ],
+      "warmup_frames": 2,
+      "mean_absolute_rgb_delta_0_255": 24.24611473083496,
+      "p99_rgb_delta_0_255": 178.0,
+      "interpretation": "Moving-camera delta contains genuine scene motion; never an FPS metric or isolated AA diagnosis."
+    }
+  },
+  "caveats": [
+    "Use identical native1080p/100%, camera, exposure and settle time.",
+    "Capture-free representative gameplay CPU/GPU timing is a separate acceptance run.",
+    "Run SSR A/B only after geometry and TAA corrections; SSR remains an unproven risk.",
+    "Inspect moving held props and eyes for ghost trails, not just stationary frames."
+  ]
+}

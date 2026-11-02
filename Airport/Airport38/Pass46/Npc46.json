@@ -1,0 +1,45 @@
+{
+ "status": "SUCCESS",
+ "started": 1793454410.7152076,
+ "moved": [
+  {
+   "actor": "CH12 Security greeter",
+   "before": {
+    "location": [
+     -47.0,
+     -0.4,
+     0.0
+    ],
+    "yaw": -45.0
+   },
+   "after": {
+    "location": [
+     -43.6,
+     -2.3,
+     0.0
+    ],
+    "yaw": -73.0
+   }
+  },
+  {
+   "actor": "CH12COLL Security greeter",
+   "before": {
+    "location": [
+     -47.0,
+     -0.4,
+     0.9
+    ],
+    "yaw": -45.0
+   },
+   "after": {
+    "location": [
+     -43.6,
+     -2.3,
+     0.9
+    ],
+    "yaw": -73.0
+   }
+  }
+ ],
+ "finished": 1793454414.7212753
+}

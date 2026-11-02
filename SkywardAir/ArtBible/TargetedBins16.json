@@ -1,0 +1,83 @@
+{
+  "status": "SUCCESS",
+  "revision": "16",
+  "scope": "Focused selection/open/close of three changed bins and seven actual game views. No complete walking or all-fittings suite.",
+  "source_sha256": "ae048f469cf2a55e726e07289c23dc5514783b5656ea1e928a3da6a72f8105d0",
+  "runtime_sha256": "9d2309bd5cee852412c5a9244f0c64ac2922e887db5c0382b8204cd2b0a1d475",
+  "manifest_sha256": "a85dc65605155e0c6d534502121a3861db2427afa4c27ee9329723f2191f708b",
+  "checks": [
+    {
+      "test": "Select changed bin Overhead bin R 12",
+      "passed": true
+    },
+    {
+      "test": "Lift-up bin reaches open stop Overhead bin R 12",
+      "passed": true
+    },
+    {
+      "test": "Bin fully closes Overhead bin R 12",
+      "passed": true
+    },
+    {
+      "test": "Select changed bin Overhead bin L 12",
+      "passed": true
+    },
+    {
+      "test": "Lift-up bin reaches open stop Overhead bin L 12",
+      "passed": true
+    },
+    {
+      "test": "Bin fully closes Overhead bin L 12",
+      "passed": true
+    },
+    {
+      "test": "Select changed bin Overhead bin R 16",
+      "passed": true
+    },
+    {
+      "test": "Lift-up bin reaches open stop Overhead bin R 16",
+      "passed": true
+    },
+    {
+      "test": "Bin fully closes Overhead bin R 16",
+      "passed": true
+    }
+  ],
+  "captures": [
+    {
+      "camera": "EconomyCeiling13",
+      "file": "UE_16_Bins_Cabin.png",
+      "sha256": "bd11c30a5a59d38af181645c6cef74480ac98020cf57422a5750addffd1fa6d2"
+    },
+    {
+      "camera": "Bins13",
+      "file": "UE_16_Bins_Closed.png",
+      "sha256": "e95f630980c4cd20c9d7732e8eb9df0c127c16ff7e18c2ce3796c7687f3b7a92"
+    },
+    {
+      "camera": "Bins13",
+      "file": "UE_16_Bins_Open.png",
+      "sha256": "b6208097c94d70180bd05f99b21de06e503927b2524aebd5ccdaa37d2eb15faf"
+    },
+    {
+      "camera": "CargoOverview15",
+      "file": "UE_16_Cargo_Overview.png",
+      "sha256": "fa1522d78083a80480e7c7add3343c11e5bdb6dbba1e9f11a9a987b727bcbe26"
+    },
+    {
+      "camera": "CargoClose15",
+      "file": "UE_16_Cargo_Close.png",
+      "sha256": "b0728eb5421a1e6796f79a65b4a8f4d401ee25b3b1c8b341d259fcd341f25dd6"
+    },
+    {
+      "camera": "CargoSuitcases15",
+      "file": "UE_16_Cargo_Cases.png",
+      "sha256": "3a282e1dc9bbd7ae3c8db1beadda78803a14edaf6cbb51a2b1a37c4166abcdfb"
+    },
+    {
+      "camera": "CargoMixed15",
+      "file": "UE_16_Cargo_Mixed.png",
+      "sha256": "6cf882f4025c0d6b836a976d61354331ccc64ae713455b1636c94af7798d4d4e"
+    }
+  ]
+}

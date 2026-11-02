@@ -1,0 +1,394 @@
+{
+  "85": [
+    {
+      "pixel": [
+        1285,
+        365
+      ],
+      "hits": [
+        {
+          "actor": "Window shade 20 L18 frame",
+          "part": "W41 captive guide seated behind rolled collar.005",
+          "point": [
+            13.873963356018066,
+            14.564913749694824,
+            2.0098299980163574
+          ],
+          "distance": 0.9928889870643616,
+          "face_ray_dot": 0.8958010971546173
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 10",
+          "part": "W41 continuous fitted liner with formed mechanism recess.002",
+          "point": [
+            13.732158660888672,
+            14.640730857849121,
+            2.0938544273376465
+          ],
+          "distance": 1.1743191480636597,
+          "face_ray_dot": -0.9009820123028476
+        }
+      ]
+    },
+    {
+      "pixel": [
+        1278,
+        360
+      ],
+      "hits": [
+        {
+          "actor": "Window shade 20 L18 frame",
+          "part": "W41 captive guide seated behind rolled collar.005",
+          "point": [
+            13.87519359588623,
+            14.558662414550781,
+            2.0130231380462646
+          ],
+          "distance": 0.9908183813095093,
+          "face_ray_dot": 0.8976733386516571
+        },
+        {
+          "actor": "Window shade 20 L18 frame",
+          "part": "W40 retained curved cassette with actual feed mouth.004",
+          "point": [
+            13.817045211791992,
+            14.58933162689209,
+            2.047772169113159
+          ],
+          "distance": 1.0651772022247314,
+          "face_ray_dot": -0.41280822387489025
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 10",
+          "part": "W41 continuous fitted liner with formed mechanism recess.002",
+          "point": [
+            13.733745574951172,
+            14.633267402648926,
+            2.0975522994995117
+          ],
+          "distance": 1.1717010736465454,
+          "face_ray_dot": -0.9032770842604805
+        }
+      ]
+    },
+    {
+      "pixel": [
+        1300,
+        374
+      ],
+      "hits": [
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 10",
+          "part": "W41 continuous fitted liner with formed mechanism recess.002",
+          "point": [
+            13.72942066192627,
+            14.6566162109375,
+            2.0873515605926514
+          ],
+          "distance": 1.180200457572937,
+          "face_ray_dot": -0.8957881430687848
+        }
+      ]
+    },
+    {
+      "pixel": [
+        1780,
+        406
+      ],
+      "hits": [
+        {
+          "actor": "Window shade 22 L18 frame",
+          "part": "W40 retained curved cassette with actual feed mouth.004",
+          "point": [
+            13.802247047424316,
+            15.109342575073242,
+            2.0609030723571777
+          ],
+          "distance": 1.3784213066101074,
+          "face_ray_dot": -0.6962478331188322
+        },
+        {
+          "actor": "Window shade 22 L18 frame",
+          "part": "W41 captive guide seated behind rolled collar.004",
+          "point": [
+            13.786643981933594,
+            15.126999855041504,
+            2.0703065395355225
+          ],
+          "distance": 1.4037915468215942,
+          "face_ray_dot": -0.6959723234176636
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 11",
+          "part": "W41 continuous fitted liner with formed mechanism recess.002",
+          "point": [
+            13.735264778137207,
+            15.185141563415527,
+            2.1012701988220215
+          ],
+          "distance": 1.4873321056365967,
+          "face_ray_dot": -0.7118987355206627
+        }
+      ]
+    },
+    {
+      "pixel": [
+        1770,
+        420
+      ],
+      "hits": [
+        {
+          "actor": "Window shade 22 L18 frame",
+          "part": "W40 retained curved cassette with actual feed mouth.004",
+          "point": [
+            13.788289070129395,
+            15.10934829711914,
+            2.0528414249420166
+          ],
+          "distance": 1.3841036558151245,
+          "face_ray_dot": -0.6933849652923527
+        },
+        {
+          "actor": "Window shade 22 L18 frame",
+          "part": "W41 captive guide seated behind rolled collar.004",
+          "point": [
+            13.77243423461914,
+            15.126999855041504,
+            2.062093734741211
+          ],
+          "distance": 1.4095711708068848,
+          "face_ray_dot": -0.6931187510490417
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 11",
+          "part": "W41 continuous fitted liner with formed mechanism recess.002",
+          "point": [
+            13.729260444641113,
+            15.175065040588379,
+            2.087287187576294
+          ],
+          "distance": 1.4789179563522339,
+          "face_ray_dot": -0.7143264055921463
+        }
+      ]
+    },
+    {
+      "pixel": [
+        1800,
+        435
+      ],
+      "hits": [
+        {
+          "actor": "Window shade 22 L18 frame",
+          "part": "W41 captive guide seated behind rolled collar.004",
+          "point": [
+            13.798959732055664,
+            15.126999855041504,
+            2.0335874557495117
+          ],
+          "distance": 1.3829880952835083,
+          "face_ray_dot": -0.7064415812492371
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 11",
+          "part": "W42 continuous monotone rolled window reveal",
+          "point": [
+            13.776848793029785,
+            15.152383804321289,
+            2.046151638031006
+          ],
+          "distance": 1.4189194440841675,
+          "face_ray_dot": -0.29192155599594116
+        },
+        {
+          "actor": "Window shade 22 L18 frame",
+          "part": "W40 retained curved cassette with actual feed mouth.004",
+          "point": [
+            13.677342414855957,
+            15.266616821289062,
+            2.102694034576416
+          ],
+          "distance": 1.5806224346160889,
+          "face_ray_dot": -0.7045057415962219
+        }
+      ]
+    }
+  ],
+  "84": [
+    {
+      "pixel": [
+        1370,
+        350
+      ],
+      "hits": [
+        {
+          "actor": "Window shade 22 L18 frame",
+          "part": "W40 retained curved cassette with actual feed mouth.004",
+          "point": [
+            13.843389511108398,
+            15.109328269958496,
+            2.053041458129883
+          ],
+          "distance": 1.5311938524246216,
+          "face_ray_dot": -0.36572202159732115
+        },
+        {
+          "actor": "Window shade 22 L18 frame",
+          "part": "W41 captive guide seated behind rolled collar.004",
+          "point": [
+            13.806846618652344,
+            15.126999855041504,
+            2.0793612003326416
+          ],
+          "distance": 1.5795714855194092,
+          "face_ray_dot": -0.36528870463371277
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 11",
+          "part": "W41 continuous fitted liner with formed mechanism recess.002",
+          "point": [
+            13.745281219482422,
+            15.156771659851074,
+            2.1237027645111084
+          ],
+          "distance": 1.6610748767852783,
+          "face_ray_dot": -0.9127836023399141
+        }
+      ]
+    },
+    {
+      "pixel": [
+        1385,
+        380
+      ],
+      "hits": [
+        {
+          "actor": "Window shade 22 L18 frame",
+          "part": "W41 captive guide seated behind rolled collar.004",
+          "point": [
+            13.831131935119629,
+            15.126999855041504,
+            2.0187273025512695
+          ],
+          "distance": 1.5287725925445557,
+          "face_ray_dot": -0.37742674350738525
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 11",
+          "part": "W41 continuous fitted liner with formed mechanism recess.002",
+          "point": [
+            13.729606628417969,
+            15.177117347717285,
+            2.0881032943725586
+          ],
+          "distance": 1.6615594625473022,
+          "face_ray_dot": -0.9067308337835129
+        },
+        {
+          "actor": "Window shade 22 L18 frame",
+          "part": "W40 retained curved cassette with actual feed mouth.004",
+          "point": [
+            13.684578895568848,
+            15.199344635009766,
+            2.1188719272613525
+          ],
+          "distance": 1.720450758934021,
+          "face_ray_dot": -0.9112731218338013
+        }
+      ]
+    },
+    {
+      "pixel": [
+        1410,
+        370
+      ],
+      "hits": [
+        {
+          "actor": "Window shade 22 L18 frame",
+          "part": "W41 captive guide seated behind rolled collar.004",
+          "point": [
+            13.872356414794922,
+            15.138858795166016,
+            2.005655288696289
+          ],
+          "distance": 1.4951883554458618,
+          "face_ray_dot": -0.8926141560077667
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 11",
+          "part": "W42 continuous monotone rolled window reveal",
+          "point": [
+            13.85138988494873,
+            15.14980697631836,
+            2.0202629566192627
+          ],
+          "distance": 1.5229885578155518,
+          "face_ray_dot": -0.079521045088768
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 11",
+          "part": "W41 continuous fitted liner with formed mechanism recess.002",
+          "point": [
+            13.735200881958008,
+            15.210481643676758,
+            2.1012144088745117
+          ],
+          "distance": 1.6770482063293457,
+          "face_ray_dot": -0.9001010728024994
+        },
+        {
+          "actor": "Window shade 22 L18 frame",
+          "part": "W40 retained curved cassette with actual feed mouth.004",
+          "point": [
+            13.690585136413574,
+            15.233779907226562,
+            2.1322991847991943
+          ],
+          "distance": 1.7362056970596313,
+          "face_ray_dot": -0.9030037820339203
+        }
+      ]
+    },
+    {
+      "pixel": [
+        920,
+        360
+      ],
+      "hits": [
+        {
+          "actor": "Window shade 20 L18 frame",
+          "part": "W41 captive guide seated behind rolled collar.005",
+          "point": [
+            13.870011329650879,
+            14.56644058227539,
+            1.9995636940002441
+          ],
+          "distance": 1.372903823852539,
+          "face_ray_dot": 0.9721212983131409
+        },
+        {
+          "actor": "SM_Plane_WindowWall_L bay10 10",
+          "part": "W41 continuous fitted liner with formed mechanism recess.002",
+          "point": [
+            13.732355117797852,
+            14.568443298339844,
+            2.0945301055908203
+          ],
+          "distance": 1.5401510000228882,
+          "face_ray_dot": -0.9788327803862558
+        },
+        {
+          "actor": "Window shade 20 L18 frame",
+          "part": "W40 retained curved cassette with actual feed mouth.004",
+          "point": [
+            13.687524795532227,
+            14.569095611572266,
+            2.125458240509033
+          ],
+          "distance": 1.594618797302246,
+          "face_ray_dot": -0.9831821620464325
+        }
+      ]
+    }
+  ]
+}

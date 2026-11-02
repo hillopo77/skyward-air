@@ -1,0 +1,85 @@
+{
+  "status": "SUCCESS",
+  "created_utc": "2026-10-29T09:51:42.863919+00:00",
+  "source_sha256": "fda880cc42932bd3d27abc9c6d2be940e9b67866f0d404fe0da4b77604baa86d",
+  "map": "/Game/Airport35/L_Airport_Flow35",
+  "map_sha256": "92c696abb1bf32a4b7682a882784f367e75d907ef7c4d896441a39c06067005a",
+  "layout_sha256": "6a49067d9320da217d9956ff0ccb7205729fda69ff6fc097c58884fc5cc6b917",
+  "families": 15,
+  "triangles": 349308,
+  "checks": 65,
+  "setup_teleports": 1,
+  "walk_teleports": 0,
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\01_SecurityApproach.png",
+      "sha256": "f95794d5a714be1025490cae6f6a8642a9c25346689fdce2946a3a071752583f"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\02_SecurityPrepared.png",
+      "sha256": "a96e974cd3d87a0fd7ac30ec668640c9bf2ab6bee8c8d8d7c2abc137a7a8a7d2"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\03_RepackRight.png",
+      "sha256": "90efaa62a4d5b1ff97314691865af23a110168d49c25f81c102a8c29fe03ed53"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\04_ConcourseChoice.png",
+      "sha256": "53ac503f1fc9cfc9fb3216404bf1aac2e565ba9b39cc298dbf5af8daf9924dbb"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\05_CafeApproach.png",
+      "sha256": "3081f459604a33b92b963206b4e3d05273b48bd9fa80c53624739dd29b02b060"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\06_CafeEntry.png",
+      "sha256": "5042191de8ebe60631662eabac4b68cfa6b40df194b5c1463115b2d8506ae70b"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\07_CafeDining.png",
+      "sha256": "3f9566552b25710f54a86a47369e79b0b370fd4fd035af6948b7378cfdbfb181"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\08_CafeService.png",
+      "sha256": "8ada09f0974d9545411cd3f0fff26a16eafc1c3c54acfacd923cc7199c3db0d4"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\09_WideStairs.png",
+      "sha256": "75194089277110a4235bb2e0be6032e3a2e903b8e767ef67a38f1bcac0f9ec23"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\10_UpperGallery.png",
+      "sha256": "f91d182334ac74e18e272fb1e2a9acf429d0515c867ee67cf3ce86167aa54618"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\11_A07Entry.png",
+      "sha256": "4044fe206b83c002d37b0c57b128e95d850fc1f4ace368475d269d78e860a838"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\12_A07OpenLounge.png",
+      "sha256": "711528d65a053e8093656629b92e25ed3a70ff8fdaab785c8ac13ed04fb4ed73"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\13_A08Approach.png",
+      "sha256": "5d34b218bde3f3a5ee36660416796c5046362a9779c1552ca707e641837e33eb"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\14_A08Lounge.png",
+      "sha256": "9340bc4421ad0d27f2b4a138fc2f8ccd17f6a512a78cf893d6cca505fbb4848d"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\15_WingClearance.png",
+      "sha256": "6544bea5d255764b4f6d47da08ab4055a7838384f15016bbf97cf1453bea1d57"
+    }
+  ],
+  "qa_sha256": "fc809fae0adea10a0cbfece8fbc9aa543b06cb8db25aa462415bd9fd667692d4",
+  "runtime": {
+    "airport_runtime.py": "f29ef1c58a3ad3c5a4acdb81382deeecfbd04a0e9f71f1f6b30fd1943e22b6a8",
+    "airport_rooms24.py": "fb03a644b849271cc63cf5496636f42b71b8df6f068869b50858d05886e796b7",
+    "airport_journey22.py": "13c61479a9b187355d09e0cc47b3a67bd4a52b1fd0e915f0730a35bbdf7857fb",
+    "airport_flow35.py": "a25cdb68cd5a167ff28f442a94087e2ddbe4e9c57653b6f5409d0d9ca2c78c8b",
+    "flow35_review.py": "79d649cd0df617dc6b3f661fe869dc58d804e546f687d9bf8fa18292e43cb7d5"
+  },
+  "conservative_airframe_clearance_m": 1.21,
+  "review_sha256": "24263dfa66e68f0841df20ddd5955f1b831b7cd99c6487800a0b7c24ab5336bb"
+}

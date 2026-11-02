@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "source_sha256": "31d0a243dbdf1af25dea3a79e85c20903cc16acefbdce8e4ab1f2143b753c8bb",
+  "new_families": 5,
+  "initial_departure_exit": "checkin",
+  "closed_foyer_shortcut": true,
+  "step_order": [
+    "Check in",
+    "Bag drop (optional)",
+    "Security",
+    "Gate A07",
+    "Board aircraft"
+  ],
+  "mat_channels": 30,
+  "semibold_font": "C:\\Windows\\Fonts\\seguisb.ttf"
+}

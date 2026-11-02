@@ -1,0 +1,114 @@
+{
+  "version": 1,
+  "assets": [
+    "SM_AP_B40LuxurySeatBase",
+    "SM_AP_B40LapStowed",
+    "SM_AP_B40LapWornCrew",
+    "SM_AP_B40LapWornGeneric",
+    "SM_AP_B40ReleaseLid"
+  ],
+  "records": [
+    {
+      "seat": "Business 01 A",
+      "control": "Business belt release 112",
+      "location": [
+        14.480000019073486,
+        5.400000095367432,
+        0.0
+      ],
+      "occupied_npc": null,
+      "worn_kind": "Generic",
+      "worn_asset": "SM_AP_B40LapWornGeneric",
+      "worn_hinge": [
+        14.480000019073486,
+        5.035565339565277,
+        0.727
+      ],
+      "stowed_hinge": [
+        14.190000019073487,
+        5.242000095367431,
+        0.5121829063892365
+      ],
+      "initial_state": 1,
+      "stowed_actor": "B40 stowed Business 01 A",
+      "worn_actor": "B40 worn Business 01 A"
+    },
+    {
+      "seat": "Business 01 K",
+      "control": "Business belt release 212",
+      "location": [
+        17.519999980926514,
+        5.400000095367432,
+        0.0
+      ],
+      "occupied_npc": null,
+      "worn_kind": "Generic",
+      "worn_asset": "SM_AP_B40LapWornGeneric",
+      "worn_hinge": [
+        17.519999980926514,
+        5.035565339565277,
+        0.727
+      ],
+      "stowed_hinge": [
+        17.229999980926515,
+        5.242000095367431,
+        0.5121829063892365
+      ],
+      "initial_state": 1,
+      "stowed_actor": "B40 stowed Business 01 K",
+      "worn_actor": "B40 worn Business 01 K"
+    },
+    {
+      "seat": "Business 02 A",
+      "control": "Business belt release 312",
+      "location": [
+        14.480000019073486,
+        7.800000190734863,
+        0.0
+      ],
+      "occupied_npc": "CH12 Business passenger",
+      "worn_kind": "Crew",
+      "worn_asset": "SM_AP_B40LapWornCrew",
+      "worn_hinge": [
+        14.480000019073486,
+        7.435565434932709,
+        0.727
+      ],
+      "stowed_hinge": [
+        14.190000019073487,
+        7.642000190734863,
+        0.5121829063892365
+      ],
+      "initial_state": 0,
+      "stowed_actor": "B40 stowed Business 02 A",
+      "worn_actor": "B40 worn Business 02 A"
+    },
+    {
+      "seat": "Business 02 K",
+      "control": "Business belt release 412",
+      "location": [
+        17.519999980926514,
+        7.800000190734863,
+        0.0
+      ],
+      "occupied_npc": null,
+      "worn_kind": "Generic",
+      "worn_asset": "SM_AP_B40LapWornGeneric",
+      "worn_hinge": [
+        17.519999980926514,
+        7.435565434932709,
+        0.727
+      ],
+      "stowed_hinge": [
+        17.229999980926515,
+        7.642000190734863,
+        0.5121829063892365
+      ],
+      "initial_state": 1,
+      "stowed_actor": "B40 stowed Business 02 K",
+      "worn_actor": "B40 worn Business 02 K"
+    }
+  ],
+  "old_static_webbing_removed": true,
+  "real_webbing_states": true
+}

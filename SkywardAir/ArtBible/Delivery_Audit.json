@@ -1,0 +1,36 @@
+{
+  "status": "SUCCESS",
+  "revision": "16",
+  "source_sha256": "ae048f469cf2a55e726e07289c23dc5514783b5656ea1e928a3da6a72f8105d0",
+  "runtime_sha256": "9d2309bd5cee852412c5a9244f0c64ac2922e887db5c0382b8204cd2b0a1d475",
+  "checks": [
+    {
+      "name": "Current aircraft sources agree with build and focused check",
+      "passed": true
+    },
+    {
+      "name": "Current bin source/selection/open/close checks pass",
+      "passed": true
+    },
+    {
+      "name": "Tower source and manifest agree with native import and photos",
+      "passed": true
+    },
+    {
+      "name": "All gallery image hashes verified",
+      "passed": true
+    },
+    {
+      "name": "Full walkthrough was not repeated for bin revision16",
+      "passed": true
+    },
+    {
+      "name": "Historical revision15 failure remains disclosed",
+      "passed": true
+    }
+  ],
+  "current_aircraft_photos": 7,
+  "previous_revision15_aircraft_photos": 28,
+  "tower_photos": 10,
+  "checked_at_utc": "2026-10-25T04:30:58Z"
+}

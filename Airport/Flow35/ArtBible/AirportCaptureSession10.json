@@ -1,0 +1,73 @@
+{
+  "status": "READY",
+  "pass_id": 10,
+  "revision": 35,
+  "runtime_sha256": "f29ef1c58a3ad3c5a4acdb81382deeecfbd04a0e9f71f1f6b30fd1943e22b6a8",
+  "journey": {
+    "checked_in": false,
+    "bag_accepted": false,
+    "security": false,
+    "boarding": false,
+    "aboard": false
+  },
+  "held": null,
+  "driving": null,
+  "spectator": false,
+  "native_physics_bodies": 17,
+  "events": [
+    {
+      "event": "Room-based airport24 ready",
+      "time_s": 0.25,
+      "zones": 17,
+      "controlled_leaves": 5
+    },
+    {
+      "event": "Clear arrival26 ready",
+      "time_s": 0.28199999999196734,
+      "initial_exit": "checkin",
+      "high_dpi": "project enabled",
+      "profile": "FastTAA"
+    },
+    {
+      "event": "Entrance prototype27 ready",
+      "time_s": 0.29699999999138527,
+      "level": 5,
+      "profile": "Distance27"
+    },
+    {
+      "event": "Crafted check-in30 ready",
+      "time_s": 0.29699999999138527,
+      "queue": "live",
+      "counters": 2
+    },
+    {
+      "event": "Arrival31 ready",
+      "time_s": 0.3129999999946449,
+      "buffer_m": 4.1,
+      "queue_starts_ahead": true
+    },
+    {
+      "event": "Circulation35 ready",
+      "time_s": 0.34399999999732245,
+      "cafe_m2": 306,
+      "gallery_m2": 72,
+      "stair_width_m": 2.4
+    },
+    {
+      "event": "Native tow couplings bound",
+      "time_s": 0.5469999999913853,
+      "count": 2
+    }
+  ],
+  "frame_statistics": {
+    "frames": 780,
+    "average_fps": 37.05792972065378,
+    "p95_ms": 30.130300001474097,
+    "maximum_ms": 803.491300001042
+  },
+  "player_source": [
+    -50.9,
+    -12.5,
+    1.62
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "status": "SUCCESS",
+  "checks": [
+    {
+      "name": "11 emitters match the authored fixture positions",
+      "passed": true
+    },
+    {
+      "name": "Every room fixture casts shadows",
+      "passed": true
+    },
+    {
+      "name": "Native viewport1920x1080",
+      "passed": true
+    },
+    {
+      "name": "Ambient fill reduced to1.1",
+      "passed": true
+    },
+    {
+      "name": "No upward hemisphere wash",
+      "passed": true
+    },
+    {
+      "name": "Matched diagnostic disables physical check-in emitters",
+      "passed": true
+    },
+    {
+      "name": "Lamp intensities restored",
+      "passed": true
+    }
+  ],
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Lighting32\\Screenshots\\01_FixtureLitEntrance.png",
+      "sha256": "35d8ef92d5d3010dd356744244a68c41127464a6b011da2d715cd2f3267f21c3",
+      "view": "01_FixtureLitEntrance"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Lighting32\\Screenshots\\Diagnostic_LampsOff.png",
+      "sha256": "2e9d919d5811584e60764c0444f2baba35b26d8c5f0086648ffc708bec0f2077",
+      "view": "Diagnostic_LampsOff"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Lighting32\\Screenshots\\02_WaitingArea.png",
+      "sha256": "d58b6ff50e71c59740387b55aed1036aed0e31d4631c6f3f61578d0550059c45",
+      "view": "02_WaitingArea"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Lighting32\\Screenshots\\03_DeskLighting.png",
+      "sha256": "b8722e964c0ff2444ead275e654544037368ed1a44c3a18406eafdf9a14e1731",
+      "view": "03_DeskLighting"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Lighting32\\Screenshots\\04_RoomLighting.png",
+      "sha256": "906d059bb440621a1600fca61a1ab668cebda9433cd3ce8821169862d7c9c319",
+      "view": "04_RoomLighting"
+    }
+  ],
+  "step": 13,
+  "elapsed_s": 12.26600000000326,
+  "viewport": [
+    1920,
+    1080
+  ]
+}

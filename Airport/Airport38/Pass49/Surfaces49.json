@@ -1,0 +1,138 @@
+{
+ "extra_textures": {
+  "Carpet48": "/Game/Airport38/Pass48/Textures/T_AP_Carpet48"
+ },
+ "ground": [
+  {
+   "mi": "MI_AP_P34Field",
+   "texture": "Grass49",
+   "tile": 8.0,
+   "Specular": 0.12,
+   "tint_scale": [
+    0.78,
+    0.84,
+    0.8
+   ],
+   "MacroLow": 0.74,
+   "MacroHigh": 1.14,
+   "MacroMetres": 45.0
+  },
+  {
+   "mi": "MI_AP_P34FieldAlt",
+   "texture": "Grass49",
+   "tile": 8.0,
+   "Specular": 0.12,
+   "tint_scale": [
+    0.78,
+    0.84,
+    0.8
+   ],
+   "MacroLow": 0.74,
+   "MacroHigh": 1.14,
+   "MacroMetres": 45.0
+  },
+  {
+   "mi": "MI_AP_F39Field",
+   "texture": "Grass49",
+   "tile": 8.0,
+   "Specular": 0.12,
+   "tint_scale": [
+    0.78,
+    0.84,
+    0.8
+   ],
+   "MacroLow": 0.74,
+   "MacroHigh": 1.14,
+   "MacroMetres": 45.0
+  },
+  {
+   "mi": "MI_AP_Grass",
+   "texture": "Grass49",
+   "tile": 8.0,
+   "Specular": 0.12,
+   "tint_scale": [
+    0.78,
+    0.84,
+    0.8
+   ],
+   "MacroLow": 0.74,
+   "MacroHigh": 1.14,
+   "MacroMetres": 45.0
+  },
+  {
+   "mi": "MI_AP_P34Apron",
+   "texture": "Concrete49",
+   "tile": 10.0
+  },
+  {
+   "mi": "MI_AP_Concrete",
+   "texture": "Concrete49",
+   "tile": 10.0
+  },
+  {
+   "mi": "MI_AP_F39Apron",
+   "texture": "Concrete49",
+   "tile": 10.0
+  },
+  {
+   "mi": "MI_AP_F39Asphalt",
+   "texture": "Asphalt49",
+   "tile": 4.0
+  },
+  {
+   "mi": "MI_AP_F39Shoulder",
+   "texture": "Concrete49",
+   "tile": 10.0
+  },
+  {
+   "mi": "MI_AP_Asphalt",
+   "texture": "Asphalt49",
+   "tile": 4.0
+  },
+  {
+   "mi": "MI_AP_P38ARoof",
+   "texture": "Roof49",
+   "tile": 6.0,
+   "MacroLow": 0.94,
+   "MacroHigh": 1.06
+  },
+  {
+   "mi": "MI_AP_P30Carpet",
+   "texture": "Carpet48",
+   "tile": 3.0,
+   "tint": [
+    1,
+    1,
+    1
+   ],
+   "Specular": 0.2,
+   "MacroLow": 1.0,
+   "MacroHigh": 1.0
+  },
+  {
+   "mi": "MI_AP_P34Carpet",
+   "texture": "Carpet48",
+   "tile": 3.0,
+   "tint": [
+    1,
+    1,
+    1
+   ],
+   "Specular": 0.2,
+   "MacroLow": 1.0,
+   "MacroHigh": 1.0
+  }
+ ],
+ "finish": [
+  {
+   "path": "/Game/Airport38/Finish43/MI_AP_P43TPlaster",
+   "texture": "Plaster49",
+   "tile": 4.0
+  },
+  {
+   "path": "/Game/Airport38/Finish43/MI_AP_P43TPlasterWarm",
+   "texture": "PlasterWarm49",
+   "tile": 4.0
+  }
+ ]
+}

@@ -1,0 +1,23 @@
+{
+ "status": "SUCCESS",
+ "actor": "COL_CockpitFloor47",
+ "template": "COL_ObserverSeat",
+ "mesh": "Cube",
+ "profile": "BlockAll",
+ "enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+ "parent": "Flight39 Aircraft carrier",
+ "bounds_m": {
+  "x": [
+   14.05,
+   17.95
+  ],
+  "y": [
+   -5.0,
+   0.05
+  ],
+  "z": [
+   -0.1,
+   0.0
+  ]
+ }
+}

@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "scope": "Offline adapter contract; root owns native visual/input approval",
+  "native_worn_meshes": 4,
+  "retained_lids_refitted": 4,
+  "window_mesh_swaps": 96,
+  "finish_mesh_swaps": 70,
+  "existing_release_targets_retained": true,
+  "absolute_lid_baseline_and_released_delta_consistent": true,
+  "native_and_data_repeat_safe": true
+}

@@ -1,0 +1,15 @@
+{
+ "status": "SUCCESS",
+ "asset": "SM_AP_P60SunShafts",
+ "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\RayBuild\\SM_AP_P60SunShafts.fbx",
+ "materials": [
+  "M_AP_P60SunShaft"
+ ],
+ "polygons": 60,
+ "shafts": 15,
+ "sun": [
+  0.913,
+  0.161,
+  -0.375
+ ]
+}

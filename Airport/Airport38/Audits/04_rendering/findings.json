@@ -1,0 +1,98 @@
+{
+  "reviewer": "audit4_rendering",
+  "baseline": "Clarity37 / L_Airport_Clarity37",
+  "read_only": true,
+  "summary": "The A08 ceiling is a verified depth conflict, while scanner shimmer is a different failure: thin bright openings rendered with an overly responsive temporal profile. The scanner is not physically shaking in the captured run. Lighting policy and diagnostics still depend on several historical layers rather than one current specification.",
+  "findings": [
+    {
+      "id": "R01", "severity": "P1", "status": "verified",
+      "title": "A08 and cafe approach ceilings fight retained roof undersides for the same depth",
+      "evidence": [
+        "SourceInventory38 and audit1 L01 show Roof35 caps .002/.003 lower faces at z3.4, exactly matching Room37_cafefoyer and Room37_gate08foyer visible ceiling undersides.",
+        "AuditInventory38 records Crafted Roof35 visible=true, hidden=false.",
+        "Fixed-camera34_CeilingHold pixel(x900,y300): frames00/01/02 RGB[48,51,59]; frames03/04/05 RGB[17,21,29]; frames06/07 return[48,51,59].",
+        "BaselineAnalysis38 mean full-frame temporal RGB delta is10.816/255 and99th percentile33/255."
+      ],
+      "objects": ["Crafted Roof35", "SM_AP_Roof35", "SM_AP_Room37_gate08foyer", "SM_AP_Room37_cafefoyer"],
+      "correction": "Remove/rebuild obsolete caps from the current ceiling heights, with one visible ceiling owner and positive separation. Do not cover the fighting planes with another plane or attempt to cure this with AA.",
+      "acceptance": "Repeat the same fixed-camera8-frame hold and the A08 walking sequence. No ceiling region may alternate between the two materials. Check every current ceiling/cap pair for coincident visible area; inspect cafe approach as well as A08."
+    },
+    {
+      "id": "R02", "severity": "P1", "status": "verified_configuration_with_supported_risk",
+      "title": "The final temporal profile is substantially less stable than the project settings imply",
+      "evidence": [
+        "Clarity37/ArtBible/ClaritySession26.json records Calm31: TAA method2, native100%, samples8, current-frame weight0.35, filter0.8, sharpen0.1.",
+        "airport_arrival31.initialize applies Calm31 after airport_clarity26 and airport_prototype27 apply different profiles; DefaultEngine.ini's125%/TAA16/weight0.1/filter1 is therefore not the final runtime configuration.",
+        "Bundled Epic source Engine/Source/Runtime/Renderer/Private/PostProcess/TemporalAA.cpp lines22–25 describes filter1 as smoother and filter0 as sharper but aliased. Lines40–44 state that high current-frame weights fail to hide jittering."
+      ],
+      "objects": ["airport_arrival31.py:initialize", "airport_clarity26.py:PROFILES/apply_profile", "airport_prototype27.py:initialize", "airport_clarity37.py:initialize", "DefaultEngine.ini"],
+      "correction": "Select one final rendering profile after legacy setup. A/B the existing OriginalTAA16/0.08/filter1 profile against the current8/0.35/0.8 at the SAME100% native resolution, after geometry corrections. Keep blur/grain off, and select the least aliasing without unacceptable motion ghosting. Do not increase resolution blindly on an already sensitive performance budget.",
+      "acceptance": "Record actual console values after full initialization, then compare stationary scanner edges, a moving A08 approach and moving eyes/held props. The chosen profile must be stable after all initialization callbacks and match the delivery report."
+    },
+    {
+      "id": "R03", "severity": "P1", "status": "verified_geometry_and_static_state; aliasing_attribution_is_supported",
+      "title": "The scanner curtain creates a repeated field of thin bright openings",
+      "evidence": [
+        "airport_model.scanner places strips0.106m wide on0.112m pitch:6mm open gaps, revealing bright equipment behind them.",
+        "BaselineScreenshots/07_Curtain.png shows these high-contrast slits and thin outer silhouettes dominating the close view.",
+        "Native scanner actors are static/non-simulating; BaselineAnalysis38 records zero position range and zero speed for both scanners across60 samples. Source per-part duplicate-face count is zero.",
+        "Fixed-curtain frame delta is0.328/255 mean, far below the ceiling's10.816/255. These are different defects."
+      ],
+      "objects": ["X-ray scanner01", "X-ray scanner02", "SM_AP_Scanner34", "Individual flexible curtain strip"],
+      "correction": "Build an opaque dark backing/liner and a coherent molded curtain silhouette, or stagger overlapping strips in different depth planes. Keep thickness and rounded edges, remove light-leaking straight slits, and retain a credible bag opening. Do not merely freeze physics or widen coplanar strips.",
+      "acceptance": "Inspect from front, oblique angle and through the scanner while walking. No bright leaking slit field or alternating pixels at normal interaction distances; scanner world transforms remain fixed. Test actual bags through the intended tunnel separately."
+    },
+    {
+      "id": "R04", "severity": "P2", "status": "verified_configuration; contribution_to_reported_random_shadows_needs_visual_confirmation",
+      "title": "Shadow behavior is selected by loop index instead of an intentional lighting role",
+      "evidence": [
+        "Clarity37/SourceAssets/native37.py creates otherwise similar AP37 practicals with cast_shadows=i%5==0.",
+        "Flow35/native35.py used i%4==0 and Terminal34/native34.py used i%3==0; these are historical generation policies, not fixture/occlusion decisions.",
+        "Native terminal footprint contains80 RectLights across AP24,AP25,AP27,AP33,AP34,AP36 andAP37 generations. This alone does not prove duplication or poor FPS."
+      ],
+      "objects": ["AP37 coherent practical0..31", "native37.py practical creation", "retained southern lighting generations"],
+      "correction": "Define explicit key, practical, wall-wash and ambient-fill roles. Pick shadow casters by the surfaces and people they must ground; make the remaining fills intentionally low contrast. Preserve warm readability and avoid turning every small light into a shadow caster or removing all fill.",
+      "acceptance": "At each room transition, move past the same floor/wall/object and inspect shadow continuity. Verify each visible shadow has a sensible light/occluder relationship; validate GPU cost with capture disabled before claiming a performance gain."
+    },
+    {
+      "id": "R05", "severity": "P2", "status": "verified_visual_condition; proposed_lighting_cause_requires_A_B",
+      "title": "The closed northern rooms have dark ceiling fields against bright walls and bright narrow practicals",
+      "evidence": [
+        "Native Clarity37 exit/concourse/security and baseline A08 images show near-black broad ceiling regions while walls remain bright.",
+        "P37Ceiling is a middle-value material (linear RGB approximately0.266/0.275/0.250), roughness0.96, emission0; the dark visible result is not simply a black base color.",
+        "DefaultEngine.ini and retained room grades use DynamicGlobalIlluminationMethod.NONE. Direct practicals point downward, so closing the internal glazing changes how their upper surfaces receive fill."
+      ],
+      "objects": ["MI_AP_P37Ceiling", "Room37 northern ceilings", "AP37 practicals", "AP35 warm-grade volumes"],
+      "correction": "After fixing depth conflicts, balance the ceiling with restrained warm indirect/fill approximation and material response. Keep fixtures down-facing and maintain contact shading. Do not use excessive bloom, unlimited emissive ceilings or a giant flat point light.",
+      "acceptance": "Review the entrance-to-security-to-gates sequence at eye height with fixed exposure. The ceiling should retain a legible material value and depth without looking like a black void or a glowing panel; retain the user's approved welcoming brightness."
+    },
+    {
+      "id": "R06", "severity": "P1", "status": "verified_verification_gap",
+      "title": "The duplicate checks miss the cross-asset surface conflict that is actually flickering",
+      "evidence": [
+        "BaselineAnalysis38 reports zero exact duplicate placements and zero within-part duplicate face parts.",
+        "Despite those zero counts, R01 is a confirmed overlap between distinct assets, different object transforms and different materials.",
+        "QA37's93 checks test routes/interactions/occlusion; they do not establish stationary pixel stability or architectural coplanarity."
+      ],
+      "objects": ["analyze_baseline38.py duplicate test", "clarity37_review.py", "QA37.json", "SourceInventory38.json"],
+      "correction": "Add a world-space structural plane overlap audit across active visible assets, especially ceilings, caps, floors, wall lining and signs. Use a broad phase, identify near-coplanar face regions and exempt intended edge joints/contact. Add the fixed-camera/moving-camera regressions to the acceptance evidence.",
+      "acceptance": "The old cap/ceiling pairs must fail the checker; the repaired map must pass. Record the tested scope and do not equate the route-check count with visual signoff."
+    },
+    {
+      "id": "R07", "severity": "P2", "status": "verified",
+      "title": "The inherited plane runtime status still advertises a hard-coded rendering profile",
+      "evidence": [
+        "skyward_runtime.write writes profile='1600x900 /125% render / TAA16 / grain0 / motion blur0' as a constant string.",
+        "Actual current airport session is1920x1080 at100% with TAA8 and current-frame weight0.35."
+      ],
+      "objects": ["skyward_runtime.py:write", "RuntimeStatus.json profile field", "ClaritySession26.json settings"],
+      "correction": "For Airport38, record actual viewport and queried cvars in the final rendering/stability report; avoid presenting the inherited label as measured evidence. Keep legacy modes unaffected if changing shared status code.",
+      "acceptance": "A freshly launched visible preview and the final validation run report identical effective rendering settings; no stale nominal profile is cited as proof."
+    }
+  ],
+  "suspected_not_proven": [
+    {"id":"H01","title":"High dynamic light count may contribute to performance or temporal instability","evidence":"Inventory contains142 RectLights,40 SpotLights,27 PointLights,one directional andone skylight across airport plus aircraft. No capture-free GPU/CPU profile was supplied for this review.","test":"Measure representative moving gameplay with screenshot capture disabled; separate GPU, CPU, physics and disk stalls. Do not diagnose FPS from actor count alone."},
+    {"id":"H02","title":"Screen-space reflections may add instability on narrow metallic rollers/rails","evidence":"SSR quality4/temporal1 are configured and reflective metal edges are visible. This is not an isolated cause in the supplied evidence.","test":"After roof/curtain/AA fixes, compare the same metal-edge walk with SSR enabled and disabled, identical exposure and camera. Retain or simplify reflections based on that result."}
+  ],
+  "scope_and_limits": "Read-only review of supplied native/source inventory, current runtime and import scripts, local Epic TemporalAA implementation, full baseline photographs and fixed/moving sequences. No engine or Blender process launched. Static transform samples do not reproduce baggage pickup, drop or belt contact, so they do not disprove later runaway-physics reports."
+}

@@ -1,0 +1,18 @@
+# Aircraft ugly audit — actual current native review
+
+Reviewed genuine current80049 native contact pages04–08, then full-size59,85,39,73 and74. These findings prioritize recognizable forms, coherent surfacing and actual attachment over adding decorative objects. The child has not approved the final native import; the parent owns that final assembled-game review.
+
+| Priority | Actual evidence | Finding | Implemented action / boundary |
+|---|---|---|---|
+| P1 |59_BusinessCharacter | Worn lap bands visibly wrapped wrists as cuffs. A zero-intersection count alone concealed a bad anatomical route. | B41 uses pelvis/trousers-only fitting authority and a low hip/lap route beneath the hands; final full-body/hand and actual lid checks pass against eac73c. |
+| P1 |85_WindowCornerClose;61,88 | Long white reverse-profile facets and pointed corner shields made the window trim look split/ripped. | W42 monotone collar, true wall gauge, actual shade-service recess, rounded cassette feed cowl, retained dark wear channels. Actual old guide feet projecting below the sill are removed. Full clear-view/whole-frame travel checks pass. |
+| P1 |39_Cockpit full size | Centre toggle-console fascia reads as an inward diamond fold. | Exact owner found in current source: F39DashboardFixed / Hollow switch tray casting. Only that casting is rebuilt in C43; exact bounds and3 real vents retained,365 other fixed objects unchanged, stable planar fascia normals. Native combined view still required. |
+| P2 |60/61/85 overhead units | Broad near-black PSU surfaces and bright outlines dominate the window view; keys disappear into the carrier. | A42 warm satin broad carrier faces retain dark recesses/nozzles. Source check additionally caught25mm bevels collapsing a16mm plenum cover; safe rolls eliminate the degenerate edges. No control/fixture movement. |
+| P2 |71_CargoMixed15 | Soft-luggage handles stand as rigid high arches, making canvas bags read as molded cylinders. | Both soft-bag handle families now drape on actual canvas and meet existing leather patches. Body/shelf/actor ground contacts preserved. |
+| P2 |Actual new cargo source close-up | Existing zipper tape/teeth floated rigidly above the compressed end slopes. | Existing seam geometry now follows the actual canvas taper. No new bags/objects/asset IDs. |
+| P2 |39_Cockpit full size | Large white forward cheek/sill fields remain visually blank and angular beside a detailed instrument panel. | Read-only owner inspection proved E39CockpitShell only owns side sills/aft equipment liners. Blind recoloring would miss the forward airframe-owned faces. Record for a precise native owner/material-slot probe; no unverified duplicate liner was added. |
+| Preserve |73_EngineDetail15 full size | Inlet/ring/blade/pylon forms are readable and attached. | Preserve dimensions and actuator bindings; do not add clutter to a coherent engine silhouette. |
+| Preserve |74_TailDetail15 full size | Tail silhouette and livery remain readable at game scale. | Preserve fixed/actuated tail geometry. No unsupported claim that a new tail redesign was needed. |
+| Verify assembled |28/29/30 bridge;49 gear;70 cargo | Prior contact/sweep fixes are physically significant, but static source views do not establish a working final journey/flight. | Existing parent route/bridge/gear/cargo QA remains mandatory. No city expansion, route origin shift or working Flight system rewrite in this pass. |
+
+Source proof images are explicitly source renders, not substitutes for new gameplay screenshots. Exact source/native/data hooks and all ten families are in `Assembly42_INTEGRATION.md`. Existing editable libraries remain preserved; all new work is isolated in the ten targeted kits.

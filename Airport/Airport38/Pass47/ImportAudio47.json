@@ -1,0 +1,30 @@
+{
+ "status": "SUCCESS",
+ "imported": [
+  {
+   "asset": "/Game/Airport38/Pass47/Audio/Apron47.Apron47",
+   "looping": true,
+   "seconds": 12.0
+  },
+  {
+   "asset": "/Game/Airport38/Pass47/Audio/Murmur47.Murmur47",
+   "looping": true,
+   "seconds": 20.0
+  },
+  {
+   "asset": "/Game/Airport38/Pass47/Audio/Outdoor47.Outdoor47",
+   "looping": true,
+   "seconds": 20.0
+  },
+  {
+   "asset": "/Game/Airport38/Pass47/Audio/PA47.PA47",
+   "looping": true,
+   "seconds": 120.0
+  },
+  {
+   "asset": "/Game/Airport38/Pass47/Audio/RoomTone47.RoomTone47",
+   "looping": true,
+   "seconds": 10.0
+  }
+ ]
+}

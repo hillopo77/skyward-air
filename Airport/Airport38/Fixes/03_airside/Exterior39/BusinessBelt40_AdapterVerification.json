@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "scope": "Offline API contracts; native visual review remains",
+  "native_actors": 16,
+  "asset_families": 5,
+  "controls": 4,
+  "default_worn_npcs": 1,
+  "default_stowed_empty_seats": 3,
+  "data_idempotent": true,
+  "native_idempotent": true,
+  "runtime_idempotent": true,
+  "actual_webbing_targets": true,
+  "empty_fastening_denied": true,
+  "seated_fastening_and_release_checked": true,
+  "auto_stow_on_exit": true,
+  "chair_drop_applied_before_absolute_belt_fit": true
+}

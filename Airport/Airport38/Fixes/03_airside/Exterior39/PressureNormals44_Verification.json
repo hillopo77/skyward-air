@@ -1,0 +1,88 @@
+{
+  "passed": true,
+  "scope": "Private two-collection append; source master untouched",
+  "first_pass": {
+    "version": 1,
+    "assets": [
+      "SM_AP_W40PressureWindows",
+      "SM_AP_W40CargoBayWindows"
+    ],
+    "normal_only": true,
+    "geometry_uv_material_transform_interactions_unchanged": true,
+    "collections": [
+      {
+        "asset": "SM_AP_W40PressureWindows",
+        "before_fingerprint_excluding_custom_normals": "fdfea79f3b4ab84633028326f9572705b89f9fb2a1cf068ac317091cf1fb7d1e",
+        "after_fingerprint_excluding_custom_normals": "fdfea79f3b4ab84633028326f9572705b89f9fb2a1cf068ac317091cf1fb7d1e",
+        "parts": [
+          {
+            "part": "Fitted pressure crown09.001",
+            "loops": 384,
+            "before_angle_max": 180.0,
+            "after_angle_max": 0.0290102701953188,
+            "before_normal_y_max": 0.0,
+            "after_normal_y_max": 1.558463009132538e-05,
+            "removed_new_all_false_sharp_edge_attribute": true
+          },
+          {
+            "part": "W40 pressure skin with matched rounded aperture",
+            "loops": 10320,
+            "before_angle_max": 22.687800402132137,
+            "after_angle_max": 0.03987258366756047,
+            "before_normal_y_max": 0.3793615698814392,
+            "after_normal_y_max": 0.0003413459053263068,
+            "removed_new_all_false_sharp_edge_attribute": true
+          },
+          {
+            "part": "W40 pressure skin with matched rounded aperture.001",
+            "loops": 10320,
+            "before_angle_max": 22.68778048049696,
+            "after_angle_max": 0.03956468264845247,
+            "before_normal_y_max": 0.37936118245124817,
+            "after_normal_y_max": 0.0006379269761964679,
+            "removed_new_all_false_sharp_edge_attribute": true
+          }
+        ]
+      },
+      {
+        "asset": "SM_AP_W40CargoBayWindows",
+        "before_fingerprint_excluding_custom_normals": "aa41b91b6c698c135d4c6a54aca56d5cc6408097e7066bedf5f54a88aef91dd1",
+        "after_fingerprint_excluding_custom_normals": "aa41b91b6c698c135d4c6a54aca56d5cc6408097e7066bedf5f54a88aef91dd1",
+        "parts": [
+          {
+            "part": "Fitted pressure crown09.002",
+            "loops": 384,
+            "before_angle_max": 180.0,
+            "after_angle_max": 0.0290102701953188,
+            "before_normal_y_max": 0.0,
+            "after_normal_y_max": 1.558463009132538e-05,
+            "removed_new_all_false_sharp_edge_attribute": true
+          },
+          {
+            "part": "W40 pressure skin with matched rounded aperture.002",
+            "loops": 10320,
+            "before_angle_max": 22.687800402132137,
+            "after_angle_max": 0.03987258366756047,
+            "before_normal_y_max": 0.3793615698814392,
+            "after_normal_y_max": 0.0003413459053263068,
+            "removed_new_all_false_sharp_edge_attribute": true
+          },
+          {
+            "part": "W40 pressure skin with matched rounded aperture.003",
+            "loops": 10320,
+            "before_angle_max": 22.68778048049696,
+            "after_angle_max": 0.03956468264845247,
+            "before_normal_y_max": 0.37936118245124817,
+            "after_normal_y_max": 0.0006379269761964679,
+            "removed_new_all_false_sharp_edge_attribute": true
+          }
+        ]
+      }
+    ]
+  },
+  "repeat_geometry_stable": true,
+  "repeat_normal_angle_max": 0.03987258366756047,
+  "initial_private_manifest_filename_error": "Traceback (most recent call last):\n  File \"C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Fixes\\03_airside\\Exterior39\\test_pressure_normals44.py\", line 16, in <module>\n    namespace={};exec(compile((A/'Rooms24/SourceAssets/airport_export24.py').read_text(),'private_normal_export44','exec'),namespace);namespace['export'](NS(ASSETS=a.ASSETS,MATS=a.MATS,ROOT=out))\n                                                                                                                                      ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"private_normal_export44\", line 51, in export\n  File \"C:\\Program Files\\Blender Foundation\\Blender 5.2\\5.2\\python\\Lib\\pathlib\\_abc.py\", line 625, in read_bytes\n    with self.open(mode='rb') as f:\n         ~~~~~~~~~^^^^^^^^^^^\n  File \"C:\\Program Files\\Blender Foundation\\Blender 5.2\\5.2\\python\\Lib\\pathlib\\_local.py\", line 537, in open\n    return io.open(self, mode, buffering, encoding, errors, newline)\n           ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nFileNotFoundError: [Errno 2] No such file or directory: 'C:\\\\Users\\\\zaran\\\\Documents\\\\Codex\\\\2026-10-22\\\\referenced-chatgpt-conversation-this-is-an\\\\outputs\\\\Airport\\\\Airport38\\\\Fixes\\\\03_airside\\\\Exterior39\\\\PressureNormals44_Exports\\\\Airport_Rooms24.blend'\n",
+  "private_exports": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Fixes\\03_airside\\Exterior39\\PressureNormals44_Exports\\Exports",
+  "editable_kit_sha256": "fa70d26e80169fb47943a1924cbab217c8e3aa2eb1a2c33aa58317929ead89f2"
+}

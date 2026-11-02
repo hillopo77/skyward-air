@@ -1,0 +1,8 @@
+{
+  "status": "CLEANUP_CALLED",
+  "time": 1793655613.5421598,
+  "callbacks_released": 5,
+  "state_dictionaries_released": 20,
+  "errors": [],
+  "scope": "Callback/native-wrapper cleanup only. Process exit is verified separately by the launcher."
+}

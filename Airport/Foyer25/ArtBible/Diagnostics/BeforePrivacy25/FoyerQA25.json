@@ -1,0 +1,112 @@
+{
+  "status": "SUCCESS",
+  "checks": [
+    {
+      "name": "Clear passage to [-48.5, -12.5]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Clear passage to [-46, -12.5]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Entry centre is unobstructed",
+      "passed": true,
+      "blocker": null
+    },
+    {
+      "name": "Check-in centre is unobstructed",
+      "passed": true,
+      "blocker": null
+    },
+    {
+      "name": "North route left is unobstructed",
+      "passed": true,
+      "blocker": null
+    },
+    {
+      "name": "North route right is unobstructed",
+      "passed": true,
+      "blocker": null
+    },
+    {
+      "name": "Clear passage to [-46, -15.9]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Clear passage to [-47.25, -16.0]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Aim selects seat",
+      "passed": true,
+      "selected": "Foyer two-seat waiting bench25",
+      "visible": true
+    },
+    {
+      "name": "Foyer seat is usable",
+      "passed": true
+    },
+    {
+      "name": "Standing restores 1.62m eye height",
+      "passed": true
+    },
+    {
+      "name": "Clear passage to [-45.7, -16.0]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Aim selects pickup",
+      "passed": true,
+      "selected": "Physical luggage 01",
+      "visible": true
+    },
+    {
+      "name": "Rack suitcase is a usable native physics body",
+      "passed": true
+    },
+    {
+      "name": "Clear passage to [-46, -14]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Clear passage to [-42.6, -14]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Clear passage to [-46, -14]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Clear passage to [-46, -10.05]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Aim selects information",
+      "passed": true,
+      "selected": "Foyer information and departures25",
+      "visible": true
+    },
+    {
+      "name": "Clear passage to [-46, -8.5]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Clear passage to [-46, -6.5]",
+      "passed": true,
+      "eye_height_m": 1.62
+    }
+  ],
+  "step": 21,
+  "elapsed_s": 14.531000000000859
+}

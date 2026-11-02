@@ -1,0 +1,136 @@
+{
+  "provider": "Powered by Poly Haven",
+  "assets": [
+    {
+      "id": "CoffeeCart_01",
+      "title": "Coffee Cart 01",
+      "authors": {
+        "Joe Seabuhr": "All"
+      },
+      "source": "https://polyhaven.com/a/CoffeeCart_01",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "resolution": "1k"
+    },
+    {
+      "id": "potted_plant_04",
+      "title": "Potted Plant 04",
+      "authors": {
+        "James Ray Cock": "All"
+      },
+      "source": "https://polyhaven.com/a/potted_plant_04",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "resolution": "1k"
+    },
+    {
+      "id": "security_camera_02",
+      "title": "Security Camera 02",
+      "authors": {
+        "Garrison Gager": "Modeling & Texturing",
+        "Yann Kervran": "Rigging"
+      },
+      "source": "https://polyhaven.com/a/security_camera_02",
+      "license": "CC0-1.0",
+      "license_url": "https://polyhaven.com/license",
+      "resolution": "1k"
+    }
+  ],
+  "files": [
+    {
+      "path": "outputs\\Airport\\Rooms24\\ThirdParty\\PolyHaven\\CoffeeCart_01\\CoffeeCart_01.blend",
+      "sha256": "de341bef8e200848ba5a97045eda13c7a9045fc8e119537fd32b32f3e781d779",
+      "download_url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/CoffeeCart_01/CoffeeCart_01_1k.blend"
+    },
+    {
+      "path": "outputs\\Airport\\Rooms24\\ThirdParty\\PolyHaven\\CoffeeCart_01\\textures\\CoffeeCart_01_props_metallic_1k.png",
+      "sha256": "517da446e42222673612ba519872681ee0a279f65b471f1e00af6929c0e21d6a",
+      "download_url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_props_metallic_1k.png"
+    },
+    {
+      "path": "outputs\\Airport\\Rooms24\\ThirdParty\\PolyHaven\\CoffeeCart_01\\textures\\CoffeeCart_01_cart_roughness_1k.png",
+      "sha256": "0e738f1f3ca9c246685ef1940ec9879d32b7506489de1d9bf6d8321c941bb70f",
+      "download_url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_cart_roughness_1k.png"
+    },
+    {
+      "path": "outputs\\Airport\\Rooms24\\ThirdParty\\PolyHaven\\CoffeeCart_01\\textures\\CoffeeCart_01_cart_nor_gl_1k.png",
+      "sha256": "9908dd414e52d5c9e55de9a126dcc4f6636fe9c9f6d3df02f37d13b81060cd31",
+      "download_url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_cart_nor_gl_1k.png"
+    },
+    {
+      "path": "outputs\\Airport\\Rooms24\\ThirdParty\\PolyHaven\\CoffeeCart_01\\textures\\CoffeeCart_01_cart_metallic_1k.png",
+      "sha256": "b78cb943b55592376a9a27bd5b7825a55ad3994686cb91035ac0f487638113f7",
+      "download_url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_cart_metallic_1k.png"
+    },
+    {
+      "path": "outputs\\Airport\\Rooms24\\ThirdParty\\PolyHaven\\CoffeeCart_01\\textures\\CoffeeCart_01_props_diff_1k.png",
+      "sha256": "32a71bc37e84029fbd284e337fd3ccb15a1294890999fa083682af73492c2bc7",
+      "download_url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_props_diff_1k.png"
+    },
+    {
+      "path": "outputs\\Airport\\Rooms24\\ThirdParty\\PolyHaven\\CoffeeCart_01\\textures\\CoffeeCart_01_cart_diff_1k.png",
+      "sha256": "2d41cd906bacfd20fd625e65f35e57e2d7ead2a2afaa3b8f58f23d35973a4435",
+      "download_url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_cart_diff_1k.png"
+    },
+    {
+      "path": "outputs\\Airport\\Rooms24\\ThirdParty\\PolyHaven\\CoffeeCart_01\\textures\\CoffeeCart_01_props_nor_gl_1k.png",
+      "sha256": "165a1429248c14d99e350ee97c941ca6b0c41e979739213447d7ccb59b337e6e",
+      "download_url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_props_nor_gl_1k.png"
+    },
+    {
+      "path": "outputs\\Airport\\Rooms24\\ThirdParty\\PolyHaven\\CoffeeCart_01\\textures\\CoffeeCart_01_props_roughness_1k.png",
+      "sha256": "81b4c1e3e043de928f32aebe75a6570ad090a435a51a5c7761f1594628092143",
+      "download_url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/CoffeeCart_01/CoffeeCart_01_props_roughness_1k.png"
+    },
+    {
+      "path": "outputs\\Airport\\Rooms24\\ThirdParty\\PolyHaven\\potted_plant_04\\potted_plant_04.blend",
+      "sha256": "b88e49bbf42b2d6c7178b25e89c54922944e7c1a2bef504a9033b300ab3d8b98",
+      "download_url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/potted_plant_04/potted_plant_04_1k.blend"
+    },
+    {
+      "path": "outputs\\Airport\\Rooms24\\ThirdParty\\PolyHaven\\potted_plant_04\\textures\\potted_plant_04_nor_gl_1k.exr",
+      "sha256": "0c4324b220959b8de709a2352ff6f3fa509c831d58068356c46bc7f72e228421",
+      "download_url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/potted_plant_04/potted_plant_04_nor_gl_1k.exr"
+    },
+    {
+      "path": "outputs\\Airport\\Rooms24\\ThirdParty\\PolyHaven\\potted_plant_04\\textures\\potted_plant_04_rough_1k.exr",
+      "sha256": "a52498a2410201bbe8055a28a4ff3a3aa468ddfbf63b229be99a5dd216f8996c",
+      "download_url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/potted_plant_04/potted_plant_04_rough_1k.exr"
+    },
+    {
+      "path": "outputs\\Airport\\Rooms24\\ThirdParty\\PolyHaven\\potted_plant_04\\textures\\potted_plant_04_diff_1k.jpg",
+      "sha256": "8693a971557fbafb12a24a2e23c1a04ab6b04ecdc4d26808c5ad3516a4971f24",
+      "download_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/potted_plant_04/potted_plant_04_diff_1k.jpg"
+    },
+    {
+      "path": "outputs\\Airport\\Rooms24\\ThirdParty\\PolyHaven\\security_camera_02\\security_camera_02.blend",
+      "sha256": "0ca1c59445c0b08bc91a88453703bd22e7877813d6481d2e53fefd5a879b3ab2",
+      "download_url": "https://dl.polyhaven.org/file/ph-assets/Models/blend/1k/security_camera_02/security_camera_02_1k.blend"
+    },
+    {
+      "path": "outputs\\Airport\\Rooms24\\ThirdParty\\PolyHaven\\security_camera_02\\textures\\security_camera_02_opacity_1k.png",
+      "sha256": "57d177802df3361cf077e07aae7eb874473ef4114f90cc17c1e1d7dfb644c290",
+      "download_url": "https://dl.polyhaven.org/file/ph-assets/Models/png/1k/security_camera_02/security_camera_02_opacity_1k.png"
+    },
+    {
+      "path": "outputs\\Airport\\Rooms24\\ThirdParty\\PolyHaven\\security_camera_02\\textures\\security_camera_02_rough_1k.exr",
+      "sha256": "97d5a5c17e96ff926fa1b09de6597f84ea1024aac74a5d2e705b7af679187da7",
+      "download_url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/security_camera_02/security_camera_02_rough_1k.exr"
+    },
+    {
+      "path": "outputs\\Airport\\Rooms24\\ThirdParty\\PolyHaven\\security_camera_02\\textures\\security_camera_02_nor_gl_1k.exr",
+      "sha256": "af084999659874615e1e68db5c0c2372aa09aafe44855c8bae33cd54268a280b",
+      "download_url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/security_camera_02/security_camera_02_nor_gl_1k.exr"
+    },
+    {
+      "path": "outputs\\Airport\\Rooms24\\ThirdParty\\PolyHaven\\security_camera_02\\textures\\security_camera_02_diff_1k.jpg",
+      "sha256": "619756fa57b0972248d0f0100e99ca62d7cd95daa80c7439bb49ff8254eb7d12",
+      "download_url": "https://dl.polyhaven.org/file/ph-assets/Models/jpg/1k/security_camera_02/security_camera_02_diff_1k.jpg"
+    },
+    {
+      "path": "outputs\\Airport\\Rooms24\\ThirdParty\\PolyHaven\\security_camera_02\\textures\\security_camera_02_metal_1k.exr",
+      "sha256": "4e5b7bb6722e5177f95a1249db0c48db95cb4995bf3d4fb427168dd81eae5da2",
+      "download_url": "https://dl.polyhaven.org/file/ph-assets/Models/exr/1k/security_camera_02/security_camera_02_metal_1k.exr"
+    }
+  ]
+}

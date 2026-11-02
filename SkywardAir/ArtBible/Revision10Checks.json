@@ -1,0 +1,202 @@
+{
+  "revision": "10",
+  "status": "SUCCESS",
+  "source_file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\Plane.blend",
+  "source_sha256": "c0e936f61889dcd122bf903276481cf836ade76bbfc76c4c83c1f62f0f4f49c6",
+  "source_bytes": 22805992,
+  "checked_at_utc": "2026-10-24T03:46:36Z",
+  "method": "Evaluated saved Blender geometry; actual nose/glazing/barrel BVH; measured mesh extents and conservative free-space prism search. No authoring fit helper imported.",
+  "checks": [
+    {
+      "test": "Actual swept cockpit roof inside evaluated nose/glass envelope",
+      "passed": true,
+      "vertices": 13041,
+      "outside_samples": 0,
+      "minimum_clearance_m": 0.039999961853027344,
+      "examples": []
+    },
+    {
+      "test": "Cockpit liner leaves actual glazing footprints clear",
+      "passed": true,
+      "tested_vertices": 13041,
+      "over_glass_samples": 0
+    },
+    {
+      "test": "Roof has one continuous boundary and only quads",
+      "passed": true,
+      "boundary_loops": 1,
+      "boundary_edges": 480,
+      "quads": 12800
+    },
+    {
+      "test": "All rebuilt partition upper edges fit the actual pressure barrel",
+      "passed": true,
+      "vertices": 8788,
+      "minimum_margin_m": 0.023294448852539062,
+      "objects": [
+        {
+          "object": "Crew business full height partition10",
+          "minimum_margin_m": 0.04017233848571777,
+          "outside_vertices": 0
+        },
+        {
+          "object": "Crew business full height partition10.001",
+          "minimum_margin_m": 0.04017233848571777,
+          "outside_vertices": 0
+        },
+        {
+          "object": "Crew portal lintel10",
+          "minimum_margin_m": 0.026027679443359375,
+          "outside_vertices": 0
+        },
+        {
+          "object": "Separate service room central wall10",
+          "minimum_margin_m": 0.5573294162750244,
+          "outside_vertices": 0
+        },
+        {
+          "object": "Separate service sidewall10",
+          "minimum_margin_m": 0.040090322494506836,
+          "outside_vertices": 0
+        },
+        {
+          "object": "Separate service sidewall10.001",
+          "minimum_margin_m": 0.040090322494506836,
+          "outside_vertices": 0
+        },
+        {
+          "object": "Service room portal upper header10",
+          "minimum_margin_m": 0.026380062103271484,
+          "outside_vertices": 0
+        },
+        {
+          "object": "Separate service room central wall10.001",
+          "minimum_margin_m": 0.5573294162750244,
+          "outside_vertices": 0
+        },
+        {
+          "object": "Separate service sidewall10.002",
+          "minimum_margin_m": 0.03801369667053223,
+          "outside_vertices": 0
+        },
+        {
+          "object": "Separate service sidewall10.003",
+          "minimum_margin_m": 0.03801369667053223,
+          "outside_vertices": 0
+        },
+        {
+          "object": "Service room portal upper header10.001",
+          "minimum_margin_m": 0.023294448852539062,
+          "outside_vertices": 0
+        }
+      ],
+      "examples": []
+    },
+    {
+      "test": "Business first row has physical forward walking clearance",
+      "passed": true,
+      "seat_instance": "Business 01 A",
+      "seat_front_y_m": 4.7098517417907715,
+      "partition_aft_y_m": 3.8499999046325684,
+      "clearance_m": 0.8598518371582031
+    },
+    {
+      "test": "Economy first row has physical forward walking clearance",
+      "passed": true,
+      "seat_instance": "Economy 03 A",
+      "seat_front_y_m": 13.826065063476562,
+      "partition_aft_y_m": 12.449999809265137,
+      "clearance_m": 1.3760652542114258
+    },
+    {
+      "test": "Pilot chair has a physically open centre-side approach",
+      "passed": true,
+      "chair_inner_x_m": 0.7160000205039978,
+      "pedestal_outer_x_m": 0.24500000476837158,
+      "clearance_m": 0.4710000157356262,
+      "controller_diameter_m": 0.36
+    },
+    {
+      "test": "Lavatory R contains a free 0.90 by 1.10m standing prism",
+      "passed": true,
+      "measured_clear_room_m": [
+        1.5,
+        2.599998712539673
+      ],
+      "standing_height_tested_m": 1.98,
+      "free_prism": {
+        "local_min": [
+          -0.675000011920929,
+          -1.2499994039535522,
+          0.11999999731779099
+        ],
+        "local_max": [
+          0.22499999403953552,
+          -0.14999935030937195,
+          2.0999999046325684
+        ]
+      }
+    },
+    {
+      "test": "Lavatory L contains a free 0.90 by 1.10m standing prism",
+      "passed": true,
+      "measured_clear_room_m": [
+        1.5,
+        2.599998712539673
+      ],
+      "standing_height_tested_m": 1.98,
+      "free_prism": {
+        "local_min": [
+          -0.30000001192092896,
+          -1.2499994039535522,
+          0.11999999731779099
+        ],
+        "local_max": [
+          0.6000000238418579,
+          -0.14999935030937195,
+          2.0999999046325684
+        ]
+      }
+    },
+    {
+      "test": "Mirrored closed fixture orientation: Toilet rear servicing fairing",
+      "passed": true,
+      "signed_volumes_m3": [
+        0.10815573142000778,
+        0.10815570989452417
+      ]
+    },
+    {
+      "test": "Mirrored closed fixture orientation: Vanity front formed apron",
+      "passed": true,
+      "signed_volumes_m3": [
+        -0.007839854253158286,
+        -0.007839838458759608
+      ]
+    },
+    {
+      "test": "Mirrored closed fixture orientation: Soap cartridge housing",
+      "passed": true,
+      "signed_volumes_m3": [
+        -0.005142213485669345,
+        -0.005142156670842725
+      ]
+    },
+    {
+      "test": "Lavatory and aft structure upper corners stay inside actual barrel",
+      "passed": true,
+      "objects": 29,
+      "outside_vertices": 0,
+      "examples": []
+    },
+    {
+      "test": "Saved source remained unchanged during read-only audit",
+      "passed": true
+    }
+  ],
+  "limitations": [
+    "This is source geometry evidence; real walking and interactions require the separate current EngineValidation report.",
+    "No visual approval, engineering certification, packaged game, flight controls, or performance result is asserted.",
+    "Mirrored fixture checks sample three closed assemblies; source lettering remains subject to runtime raster readability."
+  ]
+}

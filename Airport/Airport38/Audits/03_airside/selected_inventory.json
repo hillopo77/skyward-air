@@ -1,0 +1,3893 @@
+{
+  "native": [
+    {
+      "actor": "SM_Plane_ExteriorAirframe",
+      "component": "StaticMeshComponent0",
+      "instance": null,
+      "mesh": "/Game/Art/Meshes/SM_Plane_ExteriorAirframe.SM_Plane_ExteriorAirframe",
+      "location": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "bounds_min": [
+        -22.668164,
+        -8.76,
+        -3.434
+      ],
+      "bounds_max": [
+        22.668164,
+        43.38,
+        7.8
+      ],
+      "visible": true,
+      "hidden": false,
+      "collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll",
+      "simulating": false,
+      "mobility": "<ComponentMobility.STATIC: 0>",
+      "materials": [
+        "/Game/Art/Materials/Instances/MI_Plane_Paint09.MI_Plane_Paint09",
+        "/Game/Art/Materials/Instances/MI_Plane_AirAlloy15.MI_Plane_AirAlloy15",
+        "/Game/Art/Materials/Instances/MI_Plane_SteelDark.MI_Plane_SteelDark",
+        "/Game/Art/Materials/Instances/MI_Plane_RedLED07.MI_Plane_RedLED07",
+        "/Game/Art/Materials/Instances/MI_Plane_GreenLED07.MI_Plane_GreenLED07",
+        "/Game/Art/Materials/Instances/MI_Plane_Blue09.MI_Plane_Blue09",
+        "/Game/Art/Materials/Instances/MI_Plane_LiveryGold.MI_Plane_LiveryGold",
+        "/Game/Art/Materials/Instances/MI_Plane_Seam09.MI_Plane_Seam09",
+        "/Game/Art/Materials/Instances/MI_Plane_Trim09.MI_Plane_Trim09",
+        "/Game/Art/Materials/Instances/MI_Plane_AirDark15.MI_Plane_AirDark15",
+        "/Game/Art/Materials/Instances/MI_Plane_AirCorroguard15.MI_Plane_AirCorroguard15",
+        "/Game/Art/Materials/Instances/MI_Plane_AirBlue15.MI_Plane_AirBlue15",
+        "/Game/Art/Materials/Instances/MI_Plane_AirTitanium15.MI_Plane_AirTitanium15",
+        "/Game/Art/Materials/Instances/MI_Plane_AirHot15.MI_Plane_AirHot15",
+        "/Game/Art/Materials/Instances/MI_Plane_AirSeam15.MI_Plane_AirSeam15",
+        "/Game/Art/Materials/Instances/MI_Plane_AirGold15.MI_Plane_AirGold15"
+      ]
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "component": "InstancedStaticMesh57",
+      "instance": 0,
+      "mesh": "/Game/Airport12/Meshes/SM_AP_Ground12.SM_AP_Ground12",
+      "location": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "bounds_min": [
+        -200.0,
+        -800.0,
+        -3.78
+      ],
+      "bounds_max": [
+        350.0,
+        800.0,
+        -0.08
+      ],
+      "visible": true,
+      "hidden": false,
+      "collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll",
+      "simulating": false,
+      "mobility": "<ComponentMobility.MOVABLE: 2>",
+      "materials": [
+        "/Game/Airport23/Materials/Instances/MI_AP_Grass.MI_AP_Grass"
+      ]
+    },
+    {
+      "actor": "Airport instanced architecture and fittings",
+      "component": "InstancedStaticMesh58",
+      "instance": 0,
+      "mesh": "/Game/Airport12/Meshes/SM_AP_ServicePath12.SM_AP_ServicePath12",
+      "location": [
+        -17.0,
+        18.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "bounds_min": [
+        -18.4,
+        17.982,
+        -3.848423
+      ],
+      "bounds_max": [
+        -15.6,
+        53.018,
+        1.10685
+      ],
+      "visible": true,
+      "hidden": false,
+      "collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll",
+      "simulating": false,
+      "mobility": "<ComponentMobility.MOVABLE: 2>",
+      "materials": [
+        "/Game/Airport23/Materials/Instances/MI_AP_Concrete.MI_AP_Concrete",
+        "/Game/Airport23/Materials/Instances/MI_AP_Steel.MI_AP_Steel",
+        "/Game/Airport23/Materials/Instances/MI_AP_Gold.MI_AP_Gold"
+      ]
+    },
+    {
+      "actor": "Service ramp automatic leaf -17.7",
+      "component": "StaticMeshComponent0",
+      "instance": null,
+      "mesh": "/Game/Airport23/Meshes/SM_AP_GateDoor.SM_AP_GateDoor",
+      "location": [
+        -17.7,
+        18.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "bounds_min": [
+        -18.375,
+        17.852128,
+        0.0
+      ],
+      "bounds_max": [
+        -17.025,
+        18.06,
+        2.7
+      ],
+      "visible": true,
+      "hidden": false,
+      "collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll",
+      "simulating": false,
+      "mobility": "<ComponentMobility.MOVABLE: 2>",
+      "materials": [
+        "/Game/Airport12/Materials/Instances/MI_AP_Glass.MI_AP_Glass",
+        "/Game/Airport23/Materials/Instances/MI_AP_Pearl.MI_AP_Pearl",
+        "/Game/Airport23/Materials/Instances/MI_AP_Steel.MI_AP_Steel"
+      ]
+    },
+    {
+      "actor": "Service ramp automatic leaf -16.3",
+      "component": "StaticMeshComponent0",
+      "instance": null,
+      "mesh": "/Game/Airport23/Meshes/SM_AP_GateDoor.SM_AP_GateDoor",
+      "location": [
+        -16.3,
+        18.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "bounds_min": [
+        -16.975,
+        17.852128,
+        0.0
+      ],
+      "bounds_max": [
+        -15.625,
+        18.06,
+        2.7
+      ],
+      "visible": true,
+      "hidden": false,
+      "collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll",
+      "simulating": false,
+      "mobility": "<ComponentMobility.MOVABLE: 2>",
+      "materials": [
+        "/Game/Airport12/Materials/Instances/MI_AP_Glass.MI_AP_Glass",
+        "/Game/Airport23/Materials/Instances/MI_AP_Pearl.MI_AP_Pearl",
+        "/Game/Airport23/Materials/Instances/MI_AP_Steel.MI_AP_Steel"
+      ]
+    },
+    {
+      "actor": "Driveable electric baggage tug",
+      "component": "StaticMeshComponent0",
+      "instance": null,
+      "mesh": "/Game/Airport34/Meshes/SM_AP_Tug34.SM_AP_Tug34",
+      "location": [
+        15.0,
+        -12.0,
+        -3.7
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "bounds_min": [
+        14.2065,
+        -13.3,
+        -3.68
+      ],
+      "bounds_max": [
+        15.7935,
+        -10.591778,
+        -2.232
+      ],
+      "visible": true,
+      "hidden": false,
+      "collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll",
+      "simulating": false,
+      "mobility": "<ComponentMobility.MOVABLE: 2>",
+      "materials": [
+        "/Game/Airport23/Materials/Instances/MI_AP_Ivory.MI_AP_Ivory",
+        "/Game/Airport23/Materials/Instances/MI_AP_Rubber.MI_AP_Rubber",
+        "/Game/Airport23/Materials/Instances/MI_AP_Steel.MI_AP_Steel",
+        "/Game/Airport23/Materials/Instances/MI_AP_DarkSteel.MI_AP_DarkSteel",
+        "/Game/Airport23/Materials/Instances/MI_AP_Blue.MI_AP_Blue",
+        "/Game/Airport23/Materials/Instances/MI_AP_Graphite.MI_AP_Graphite",
+        "/Game/Airport23/Materials/Instances/MI_AP_Pearl.MI_AP_Pearl",
+        "/Game/Airport23/Materials/Instances/MI_AP_WhiteLED.MI_AP_WhiteLED",
+        "/Game/Airport34/Materials/MI_AP_P34Rubber.MI_AP_P34Rubber"
+      ]
+    },
+    {
+      "actor": "Tow dolly 1",
+      "component": "StaticMeshComponent0",
+      "instance": null,
+      "mesh": "/Game/Airport34/Meshes/SM_AP_Dolly34.SM_AP_Dolly34",
+      "location": [
+        15.0,
+        -8.0,
+        -3.7
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "bounds_min": [
+        14.1765,
+        -10.265,
+        -3.65
+      ],
+      "bounds_max": [
+        15.8235,
+        -6.7,
+        -2.455852
+      ],
+      "visible": true,
+      "hidden": false,
+      "collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll",
+      "simulating": false,
+      "mobility": "<ComponentMobility.MOVABLE: 2>",
+      "materials": [
+        "/Game/Airport23/Materials/Instances/MI_AP_Steel.MI_AP_Steel",
+        "/Game/Airport23/Materials/Instances/MI_AP_Rubber.MI_AP_Rubber",
+        "/Game/Airport23/Materials/Instances/MI_AP_DarkSteel.MI_AP_DarkSteel"
+      ]
+    },
+    {
+      "actor": "Tow dolly 2",
+      "component": "StaticMeshComponent0",
+      "instance": null,
+      "mesh": "/Game/Airport34/Meshes/SM_AP_Dolly34.SM_AP_Dolly34",
+      "location": [
+        15.0,
+        -4.0,
+        -3.7
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "bounds_min": [
+        14.1765,
+        -6.265,
+        -3.65
+      ],
+      "bounds_max": [
+        15.8235,
+        -2.7,
+        -2.455852
+      ],
+      "visible": true,
+      "hidden": false,
+      "collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll",
+      "simulating": false,
+      "mobility": "<ComponentMobility.MOVABLE: 2>",
+      "materials": [
+        "/Game/Airport23/Materials/Instances/MI_AP_Steel.MI_AP_Steel",
+        "/Game/Airport23/Materials/Instances/MI_AP_Rubber.MI_AP_Rubber",
+        "/Game/Airport23/Materials/Instances/MI_AP_DarkSteel.MI_AP_DarkSteel"
+      ]
+    },
+    {
+      "actor": "Gate A07 boarding desk",
+      "component": "StaticMeshComponent0",
+      "instance": null,
+      "mesh": "/Game/Airport34/Meshes/SM_AP_Counter34.SM_AP_Counter34",
+      "location": [
+        -17.5,
+        -2.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        89.99999999999999,
+        -0.0
+      ],
+      "bounds_min": [
+        -18.12789,
+        -3.055,
+        0.0
+      ],
+      "bounds_max": [
+        -17.0,
+        -0.945,
+        1.6725
+      ],
+      "visible": true,
+      "hidden": false,
+      "collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll",
+      "simulating": false,
+      "mobility": "<ComponentMobility.STATIC: 0>",
+      "materials": [
+        "/Game/Airport30/Materials/MI_AP_P30Navy.MI_AP_P30Navy",
+        "/Game/Airport31/Materials/MI_AP_P27Oak.MI_AP_P27Oak",
+        "/Game/Airport31/Materials/MI_AP_P30Brass.MI_AP_P30Brass",
+        "/Game/Airport31/Materials/MI_AP_P30Solid.MI_AP_P30Solid",
+        "/Game/Airport31/Materials/MI_AP_P30Metal.MI_AP_P30Metal",
+        "/Game/Airport27/P5/Materials/MI_AP_P27Rubber.MI_AP_P27Rubber",
+        "/Game/Airport26/Materials/MI_AP_C26Blue.MI_AP_C26Blue",
+        "/Game/Airport30/Materials/MI_AP_P30Brand.MI_AP_P30Brand",
+        "/Game/Airport34/Materials/MI_AP_GateMonitor34.MI_AP_GateMonitor34"
+      ]
+    },
+    {
+      "actor": "Gate A08 boarding desk",
+      "component": "StaticMeshComponent0",
+      "instance": null,
+      "mesh": "/Game/Airport34/Meshes/SM_AP_Counter34.SM_AP_Counter34",
+      "location": [
+        -30.2,
+        20.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        -90.00000000000001,
+        0.0
+      ],
+      "bounds_min": [
+        -30.7,
+        18.945,
+        0.0
+      ],
+      "bounds_max": [
+        -29.57211,
+        21.055,
+        1.6725
+      ],
+      "visible": true,
+      "hidden": false,
+      "collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll",
+      "simulating": false,
+      "mobility": "<ComponentMobility.STATIC: 0>",
+      "materials": [
+        "/Game/Airport30/Materials/MI_AP_P30Navy.MI_AP_P30Navy",
+        "/Game/Airport31/Materials/MI_AP_P27Oak.MI_AP_P27Oak",
+        "/Game/Airport31/Materials/MI_AP_P30Brass.MI_AP_P30Brass",
+        "/Game/Airport31/Materials/MI_AP_P30Solid.MI_AP_P30Solid",
+        "/Game/Airport31/Materials/MI_AP_P30Metal.MI_AP_P30Metal",
+        "/Game/Airport27/P5/Materials/MI_AP_P27Rubber.MI_AP_P27Rubber",
+        "/Game/Airport26/Materials/MI_AP_C26Blue.MI_AP_C26Blue",
+        "/Game/Airport30/Materials/MI_AP_P30Brand.MI_AP_P30Brand",
+        "/Game/Airport34/Materials/MI_AP_GateA08Monitor34.MI_AP_GateA08Monitor34"
+      ]
+    },
+    {
+      "actor": "AP COLL Gate A07 boarding desk",
+      "component": "StaticMeshComponent0",
+      "instance": null,
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "location": [
+        -17.5,
+        -2.0,
+        0.95
+      ],
+      "rotation": [
+        0.0,
+        89.99999999999999,
+        -0.0
+      ],
+      "bounds_min": [
+        -18.05,
+        -2.9,
+        0.0
+      ],
+      "bounds_max": [
+        -16.95,
+        -1.1,
+        1.9
+      ],
+      "visible": true,
+      "hidden": false,
+      "collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "Custom",
+      "simulating": false,
+      "mobility": "<ComponentMobility.STATIC: 0>",
+      "materials": [
+        "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+      ]
+    },
+    {
+      "actor": "AP COLL Gate A08 boarding desk",
+      "component": "StaticMeshComponent0",
+      "instance": null,
+      "mesh": "/Engine/BasicShapes/Cube.Cube",
+      "location": [
+        -30.2,
+        20.0,
+        0.95
+      ],
+      "rotation": [
+        0.0,
+        -90.00000000000001,
+        0.0
+      ],
+      "bounds_min": [
+        -30.75,
+        19.1,
+        0.0
+      ],
+      "bounds_max": [
+        -29.65,
+        20.9,
+        1.9
+      ],
+      "visible": true,
+      "hidden": false,
+      "collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "Custom",
+      "simulating": false,
+      "mobility": "<ComponentMobility.STATIC: 0>",
+      "materials": [
+        "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial"
+      ]
+    },
+    {
+      "actor": "Operations workstation24",
+      "component": "StaticMeshComponent0",
+      "instance": null,
+      "mesh": "/Game/Airport34/Meshes/SM_AP_Counter34.SM_AP_Counter34",
+      "location": [
+        -46.0,
+        14.8,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "bounds_min": [
+        -47.055,
+        14.17211,
+        0.0
+      ],
+      "bounds_max": [
+        -44.945,
+        15.3,
+        1.6725
+      ],
+      "visible": true,
+      "hidden": false,
+      "collision": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+      "profile": "BlockAll",
+      "simulating": false,
+      "mobility": "<ComponentMobility.STATIC: 0>",
+      "materials": [
+        "/Game/Airport30/Materials/MI_AP_P30Navy.MI_AP_P30Navy",
+        "/Game/Airport31/Materials/MI_AP_P27Oak.MI_AP_P27Oak",
+        "/Game/Airport31/Materials/MI_AP_P30Brass.MI_AP_P30Brass",
+        "/Game/Airport31/Materials/MI_AP_P30Solid.MI_AP_P30Solid",
+        "/Game/Airport31/Materials/MI_AP_P30Metal.MI_AP_P30Metal",
+        "/Game/Airport27/P5/Materials/MI_AP_P27Rubber.MI_AP_P27Rubber",
+        "/Game/Airport26/Materials/MI_AP_C26Blue.MI_AP_C26Blue",
+        "/Game/Airport30/Materials/MI_AP_P30Brand.MI_AP_P30Brand",
+        "/Game/Airport12/Materials/Instances/MI_AP_UI_Checkin.MI_AP_UI_Checkin"
+      ]
+    },
+    {
+      "actor": "Jetbridge crafted fittings34",
+      "component": "StaticMeshComponent0",
+      "instance": null,
+      "mesh": "/Game/Airport34/Meshes/SM_AP_Jetbridge34.SM_AP_Jetbridge34",
+      "location": [
+        0.0,
+        -0.0,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        -0.0
+      ],
+      "bounds_min": [
+        -13.875,
+        -0.65,
+        0.125
+      ],
+      "bounds_max": [
+        -1.8075,
+        2.0,
+        2.775
+      ],
+      "visible": true,
+      "hidden": false,
+      "collision": "<CollisionEnabled.NO_COLLISION: 0>",
+      "profile": "NoCollision",
+      "simulating": false,
+      "mobility": "<ComponentMobility.STATIC: 0>",
+      "materials": [
+        "/Game/Airport34/Materials/MI_AP_P34Metal.MI_AP_P34Metal",
+        "/Game/Airport34/Materials/MI_AP_P34Navy.MI_AP_P34Navy",
+        "/Game/Airport34/Materials/MI_AP_P34Cream.MI_AP_P34Cream",
+        "/Game/Airport34/Materials/MI_AP_P34LED.MI_AP_P34LED",
+        "/Game/Airport34/Materials/MI_AP_P34Rubber.MI_AP_P34Rubber"
+      ]
+    }
+  ],
+  "source": [
+    {
+      "asset": "SM_AP_BridgeFloor",
+      "parts": [
+        {
+          "name": "Jetbridge structural deck",
+          "type": "MESH",
+          "min": [
+            -1.35,
+            -1.375,
+            -0.32
+          ],
+          "max": [
+            1.35,
+            1.375,
+            0.0
+          ],
+          "materials": [
+            "MI_AP_Pearl.001"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Fitted walking carpet",
+          "type": "MESH",
+          "min": [
+            -1.34,
+            -1.275,
+            0.0055
+          ],
+          "max": [
+            1.34,
+            1.275,
+            0.0305
+          ],
+          "materials": [
+            "MI_AP_Navy.001"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        }
+      ]
+    },
+    {
+      "asset": "SM_AP_BridgeRoof",
+      "parts": [
+        {
+          "name": "Insulated telescopic roof",
+          "type": "MESH",
+          "min": [
+            -1.35,
+            -1.4,
+            2.49
+          ],
+          "max": [
+            1.35,
+            1.4,
+            2.71
+          ],
+          "materials": [
+            "MI_AP_Ivory.001"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        }
+      ]
+    },
+    {
+      "asset": "SM_AP_BridgeWall",
+      "parts": [
+        {
+          "name": "Jetbridge insulated lower wall",
+          "type": "MESH",
+          "min": [
+            -1.35,
+            -0.05,
+            0.0
+          ],
+          "max": [
+            1.35,
+            0.05,
+            1.0
+          ],
+          "materials": [
+            "MI_AP_Ivory.001"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge glazing",
+          "type": "MESH",
+          "min": [
+            -1.275,
+            -0.0125,
+            1.05
+          ],
+          "max": [
+            1.275,
+            0.0125,
+            2.39
+          ],
+          "materials": [
+            "MI_AP_Glass.001"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Upper frame",
+          "type": "MESH",
+          "min": [
+            -1.35,
+            -0.05,
+            2.36
+          ],
+          "max": [
+            1.35,
+            0.05,
+            2.48
+          ],
+          "materials": [
+            "MI_AP_Pearl.001"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Lower glazing rail",
+          "type": "MESH",
+          "min": [
+            -1.35,
+            -0.05,
+            1.0
+          ],
+          "max": [
+            1.35,
+            0.05,
+            1.1
+          ],
+          "materials": [
+            "MI_AP_Pearl.001"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Glazing mullion",
+          "type": "MESH",
+          "min": [
+            1.26,
+            -0.05,
+            1.0
+          ],
+          "max": [
+            1.34,
+            0.05,
+            2.4
+          ],
+          "materials": [
+            "MI_AP_Pearl.001"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        }
+      ]
+    },
+    {
+      "asset": "SM_AP_Counter34",
+      "parts": [
+        {
+          "name": "Recessed service-desk structural plinth29.002",
+          "type": "MESH",
+          "min": [
+            -0.89,
+            -0.29,
+            0.0
+          ],
+          "max": [
+            0.89,
+            0.41,
+            0.16
+          ],
+          "materials": [
+            "MI_AP_P30Navy"
+          ],
+          "polygons": 38,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Bowed service counter closed carcass29.002",
+          "type": "MESH",
+          "min": [
+            -1.015,
+            -0.47,
+            0.16
+          ],
+          "max": [
+            1.015,
+            0.47,
+            1.025
+          ],
+          "materials": [
+            "MI_AP_P30Navy"
+          ],
+          "polygons": 106,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Fitted curved oak service door29.004",
+          "type": "MESH",
+          "min": [
+            -0.899046,
+            -0.498615,
+            0.240334
+          ],
+          "max": [
+            -0.011937,
+            -0.403073,
+            0.910522
+          ],
+          "materials": [
+            "MI_AP_P27Oak"
+          ],
+          "polygons": 18,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Retained cabinet pull29.004",
+          "type": "MESH",
+          "min": [
+            -0.565,
+            -0.543931,
+            0.811
+          ],
+          "max": [
+            -0.347,
+            -0.51,
+            0.829
+          ],
+          "materials": [
+            "MI_AP_P30Brass"
+          ],
+          "polygons": 50,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Fitted curved oak service door29.005",
+          "type": "MESH",
+          "min": [
+            0.011937,
+            -0.498615,
+            0.240334
+          ],
+          "max": [
+            0.899046,
+            -0.403073,
+            0.910522
+          ],
+          "materials": [
+            "MI_AP_P27Oak"
+          ],
+          "polygons": 18,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Retained cabinet pull29.005",
+          "type": "MESH",
+          "min": [
+            0.347,
+            -0.543931,
+            0.811
+          ],
+          "max": [
+            0.565,
+            -0.51,
+            0.829
+          ],
+          "materials": [
+            "MI_AP_P30Brass"
+          ],
+          "polygons": 50,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Backed internal shelf29.006",
+          "type": "MESH",
+          "min": [
+            -0.9,
+            -0.33,
+            0.2175
+          ],
+          "max": [
+            0.9,
+            0.37,
+            0.2425
+          ],
+          "materials": [
+            "MI_AP_P30Navy"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Backed internal shelf29.007",
+          "type": "MESH",
+          "min": [
+            -0.9,
+            -0.33,
+            0.5575
+          ],
+          "max": [
+            0.9,
+            0.37,
+            0.5825
+          ],
+          "materials": [
+            "MI_AP_P30Navy"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Backed internal shelf29.008",
+          "type": "MESH",
+          "min": [
+            -0.9,
+            -0.33,
+            0.9275
+          ],
+          "max": [
+            0.9,
+            0.37,
+            0.9525
+          ],
+          "materials": [
+            "MI_AP_P30Navy"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Honed bullnose service worktop29.002",
+          "type": "MESH",
+          "min": [
+            -1.055,
+            -0.54,
+            1.0275
+          ],
+          "max": [
+            1.055,
+            0.5,
+            1.1025
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 38,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Supported brushed foot rail29.002",
+          "type": "MESH",
+          "min": [
+            -0.828,
+            -0.62789,
+            0.152
+          ],
+          "max": [
+            0.828,
+            -0.43,
+            0.188
+          ],
+          "materials": [
+            "MI_AP_P30Metal"
+          ],
+          "polygons": 50,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Keyboard tray29.002",
+          "type": "MESH",
+          "min": [
+            0.105,
+            -0.225,
+            1.103
+          ],
+          "max": [
+            0.595,
+            -0.035,
+            1.131
+          ],
+          "materials": [
+            "MI_AP_P27Rubber"
+          ],
+          "polygons": 38,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.096",
+          "type": "MESH",
+          "min": [
+            0.132,
+            -0.2025,
+            1.1315
+          ],
+          "max": [
+            0.158,
+            -0.1775,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.097",
+          "type": "MESH",
+          "min": [
+            0.168,
+            -0.2025,
+            1.1315
+          ],
+          "max": [
+            0.194,
+            -0.1775,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.098",
+          "type": "MESH",
+          "min": [
+            0.204,
+            -0.2025,
+            1.1315
+          ],
+          "max": [
+            0.23,
+            -0.1775,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.099",
+          "type": "MESH",
+          "min": [
+            0.24,
+            -0.2025,
+            1.1315
+          ],
+          "max": [
+            0.266,
+            -0.1775,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.100",
+          "type": "MESH",
+          "min": [
+            0.276,
+            -0.2025,
+            1.1315
+          ],
+          "max": [
+            0.302,
+            -0.1775,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.101",
+          "type": "MESH",
+          "min": [
+            0.312,
+            -0.2025,
+            1.1315
+          ],
+          "max": [
+            0.338,
+            -0.1775,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.102",
+          "type": "MESH",
+          "min": [
+            0.348,
+            -0.2025,
+            1.1315
+          ],
+          "max": [
+            0.374,
+            -0.1775,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.103",
+          "type": "MESH",
+          "min": [
+            0.384,
+            -0.2025,
+            1.1315
+          ],
+          "max": [
+            0.41,
+            -0.1775,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.104",
+          "type": "MESH",
+          "min": [
+            0.42,
+            -0.2025,
+            1.1315
+          ],
+          "max": [
+            0.446,
+            -0.1775,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.105",
+          "type": "MESH",
+          "min": [
+            0.456,
+            -0.2025,
+            1.1315
+          ],
+          "max": [
+            0.482,
+            -0.1775,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.106",
+          "type": "MESH",
+          "min": [
+            0.492,
+            -0.2025,
+            1.1315
+          ],
+          "max": [
+            0.518,
+            -0.1775,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.107",
+          "type": "MESH",
+          "min": [
+            0.528,
+            -0.2025,
+            1.1315
+          ],
+          "max": [
+            0.554,
+            -0.1775,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.108",
+          "type": "MESH",
+          "min": [
+            0.132,
+            -0.1655,
+            1.1315
+          ],
+          "max": [
+            0.158,
+            -0.1405,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.109",
+          "type": "MESH",
+          "min": [
+            0.168,
+            -0.1655,
+            1.1315
+          ],
+          "max": [
+            0.194,
+            -0.1405,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.110",
+          "type": "MESH",
+          "min": [
+            0.204,
+            -0.1655,
+            1.1315
+          ],
+          "max": [
+            0.23,
+            -0.1405,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.111",
+          "type": "MESH",
+          "min": [
+            0.24,
+            -0.1655,
+            1.1315
+          ],
+          "max": [
+            0.266,
+            -0.1405,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.112",
+          "type": "MESH",
+          "min": [
+            0.276,
+            -0.1655,
+            1.1315
+          ],
+          "max": [
+            0.302,
+            -0.1405,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.113",
+          "type": "MESH",
+          "min": [
+            0.312,
+            -0.1655,
+            1.1315
+          ],
+          "max": [
+            0.338,
+            -0.1405,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.114",
+          "type": "MESH",
+          "min": [
+            0.348,
+            -0.1655,
+            1.1315
+          ],
+          "max": [
+            0.374,
+            -0.1405,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.115",
+          "type": "MESH",
+          "min": [
+            0.384,
+            -0.1655,
+            1.1315
+          ],
+          "max": [
+            0.41,
+            -0.1405,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.116",
+          "type": "MESH",
+          "min": [
+            0.42,
+            -0.1655,
+            1.1315
+          ],
+          "max": [
+            0.446,
+            -0.1405,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.117",
+          "type": "MESH",
+          "min": [
+            0.456,
+            -0.1655,
+            1.1315
+          ],
+          "max": [
+            0.482,
+            -0.1405,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.118",
+          "type": "MESH",
+          "min": [
+            0.492,
+            -0.1655,
+            1.1315
+          ],
+          "max": [
+            0.518,
+            -0.1405,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.119",
+          "type": "MESH",
+          "min": [
+            0.528,
+            -0.1655,
+            1.1315
+          ],
+          "max": [
+            0.554,
+            -0.1405,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.120",
+          "type": "MESH",
+          "min": [
+            0.132,
+            -0.1285,
+            1.1315
+          ],
+          "max": [
+            0.158,
+            -0.1035,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.121",
+          "type": "MESH",
+          "min": [
+            0.168,
+            -0.1285,
+            1.1315
+          ],
+          "max": [
+            0.194,
+            -0.1035,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.122",
+          "type": "MESH",
+          "min": [
+            0.204,
+            -0.1285,
+            1.1315
+          ],
+          "max": [
+            0.23,
+            -0.1035,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.123",
+          "type": "MESH",
+          "min": [
+            0.24,
+            -0.1285,
+            1.1315
+          ],
+          "max": [
+            0.266,
+            -0.1035,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.124",
+          "type": "MESH",
+          "min": [
+            0.276,
+            -0.1285,
+            1.1315
+          ],
+          "max": [
+            0.302,
+            -0.1035,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.125",
+          "type": "MESH",
+          "min": [
+            0.312,
+            -0.1285,
+            1.1315
+          ],
+          "max": [
+            0.338,
+            -0.1035,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.126",
+          "type": "MESH",
+          "min": [
+            0.348,
+            -0.1285,
+            1.1315
+          ],
+          "max": [
+            0.374,
+            -0.1035,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.127",
+          "type": "MESH",
+          "min": [
+            0.384,
+            -0.1285,
+            1.1315
+          ],
+          "max": [
+            0.41,
+            -0.1035,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.128",
+          "type": "MESH",
+          "min": [
+            0.42,
+            -0.1285,
+            1.1315
+          ],
+          "max": [
+            0.446,
+            -0.1035,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.129",
+          "type": "MESH",
+          "min": [
+            0.456,
+            -0.1285,
+            1.1315
+          ],
+          "max": [
+            0.482,
+            -0.1035,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.130",
+          "type": "MESH",
+          "min": [
+            0.492,
+            -0.1285,
+            1.1315
+          ],
+          "max": [
+            0.518,
+            -0.1035,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.131",
+          "type": "MESH",
+          "min": [
+            0.528,
+            -0.1285,
+            1.1315
+          ],
+          "max": [
+            0.554,
+            -0.1035,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.132",
+          "type": "MESH",
+          "min": [
+            0.132,
+            -0.0915,
+            1.1315
+          ],
+          "max": [
+            0.158,
+            -0.0665,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.133",
+          "type": "MESH",
+          "min": [
+            0.168,
+            -0.0915,
+            1.1315
+          ],
+          "max": [
+            0.194,
+            -0.0665,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.134",
+          "type": "MESH",
+          "min": [
+            0.204,
+            -0.0915,
+            1.1315
+          ],
+          "max": [
+            0.23,
+            -0.0665,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.135",
+          "type": "MESH",
+          "min": [
+            0.24,
+            -0.0915,
+            1.1315
+          ],
+          "max": [
+            0.266,
+            -0.0665,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.136",
+          "type": "MESH",
+          "min": [
+            0.276,
+            -0.0915,
+            1.1315
+          ],
+          "max": [
+            0.302,
+            -0.0665,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.137",
+          "type": "MESH",
+          "min": [
+            0.312,
+            -0.0915,
+            1.1315
+          ],
+          "max": [
+            0.338,
+            -0.0665,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.138",
+          "type": "MESH",
+          "min": [
+            0.348,
+            -0.0915,
+            1.1315
+          ],
+          "max": [
+            0.374,
+            -0.0665,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.139",
+          "type": "MESH",
+          "min": [
+            0.384,
+            -0.0915,
+            1.1315
+          ],
+          "max": [
+            0.41,
+            -0.0665,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.140",
+          "type": "MESH",
+          "min": [
+            0.42,
+            -0.0915,
+            1.1315
+          ],
+          "max": [
+            0.446,
+            -0.0665,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.141",
+          "type": "MESH",
+          "min": [
+            0.456,
+            -0.0915,
+            1.1315
+          ],
+          "max": [
+            0.482,
+            -0.0665,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.142",
+          "type": "MESH",
+          "min": [
+            0.492,
+            -0.0915,
+            1.1315
+          ],
+          "max": [
+            0.518,
+            -0.0665,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Low-profile keycap29.143",
+          "type": "MESH",
+          "min": [
+            0.528,
+            -0.0915,
+            1.1315
+          ],
+          "max": [
+            0.554,
+            -0.0665,
+            1.1405
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Passport contact pad29.002",
+          "type": "MESH",
+          "min": [
+            -0.59,
+            -0.42,
+            1.1025
+          ],
+          "max": [
+            -0.27,
+            -0.18,
+            1.1295
+          ],
+          "materials": [
+            "MI_AP_P30Navy"
+          ],
+          "polygons": 38,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Mounted boarding-pass scanner29.002",
+          "type": "MESH",
+          "min": [
+            -0.78,
+            -0.52,
+            1.13
+          ],
+          "max": [
+            -0.6,
+            -0.36,
+            1.23
+          ],
+          "materials": [
+            "MI_AP_P30Navy"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Scanner contact window29.002",
+          "type": "MESH",
+          "min": [
+            -0.755,
+            -0.526,
+            1.1525
+          ],
+          "max": [
+            -0.625,
+            -0.526,
+            1.2075
+          ],
+          "materials": [
+            "MI_AP_C26Blue"
+          ],
+          "polygons": 1,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Contoured solid-surface desk end cheek30.002",
+          "type": "MESH",
+          "min": [
+            -1.015,
+            -0.52,
+            0.18
+          ],
+          "max": [
+            -0.925,
+            0.48,
+            1.04
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 8,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Desk retained brass end seam30.002",
+          "type": "MESH",
+          "min": [
+            -1.024,
+            -0.456,
+            0.25
+          ],
+          "max": [
+            -1.012,
+            -0.355757,
+            0.974243
+          ],
+          "materials": [
+            "MI_AP_P30Brass"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Contoured solid-surface desk end cheek30.003",
+          "type": "MESH",
+          "min": [
+            0.925,
+            -0.52,
+            0.18
+          ],
+          "max": [
+            1.015,
+            0.48,
+            1.04
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 8,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Desk retained brass end seam30.003",
+          "type": "MESH",
+          "min": [
+            1.012,
+            -0.456,
+            0.25
+          ],
+          "max": [
+            1.024,
+            -0.355757,
+            0.974243
+          ],
+          "materials": [
+            "MI_AP_P30Brass"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Desk fascia retained badge plate30.001",
+          "type": "MESH",
+          "min": [
+            -0.835,
+            -0.5375,
+            0.47
+          ],
+          "max": [
+            -0.005,
+            -0.5125,
+            0.67
+          ],
+          "materials": [
+            "MI_AP_P30Navy"
+          ],
+          "polygons": 38,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Airline cabinet badge30.001",
+          "type": "MESH",
+          "min": [
+            -0.81,
+            -0.541,
+            0.509
+          ],
+          "max": [
+            -0.03,
+            -0.541,
+            0.631
+          ],
+          "materials": [
+            "MI_AP_P30Brand"
+          ],
+          "polygons": 1,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Badge captive fixing30.002",
+          "type": "MESH",
+          "min": [
+            -0.785,
+            -0.546,
+            0.565
+          ],
+          "max": [
+            -0.775,
+            -0.542,
+            0.575
+          ],
+          "materials": [
+            "MI_AP_P30Metal"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Badge captive fixing30.003",
+          "type": "MESH",
+          "min": [
+            -0.065,
+            -0.546,
+            0.565
+          ],
+          "max": [
+            -0.055,
+            -0.542,
+            0.575
+          ],
+          "materials": [
+            "MI_AP_P30Metal"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Monitor balanced swivel foot30.001",
+          "type": "MESH",
+          "min": [
+            0.53,
+            0.045,
+            1.1045
+          ],
+          "max": [
+            0.87,
+            0.315,
+            1.1395
+          ],
+          "materials": [
+            "MI_AP_P30Navy"
+          ],
+          "polygons": 38,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Monitor actual hinge stem30.001",
+          "type": "MESH",
+          "min": [
+            0.675,
+            0.195,
+            1.13
+          ],
+          "max": [
+            0.725,
+            0.245,
+            1.43
+          ],
+          "materials": [
+            "MI_AP_P30Metal"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Monitor tilt hinge30.001",
+          "type": "MESH",
+          "min": [
+            0.615,
+            0.164,
+            1.394
+          ],
+          "max": [
+            0.785,
+            0.236,
+            1.466
+          ],
+          "materials": [
+            "MI_AP_P30Metal"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Dual-sided monitor molded enclosure30.001",
+          "type": "MESH",
+          "min": [
+            0.395,
+            0.1375,
+            1.2875
+          ],
+          "max": [
+            1.005,
+            0.2425,
+            1.6725
+          ],
+          "materials": [
+            "MI_AP_P30Navy"
+          ],
+          "polygons": 38,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Passenger-facing check-in display30.001",
+          "type": "MESH",
+          "min": [
+            0.43,
+            0.129,
+            1.32
+          ],
+          "max": [
+            0.97,
+            0.129,
+            1.64
+          ],
+          "materials": [
+            "MI_AP_Screen"
+          ],
+          "polygons": 1,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Agent-facing booking display30.001",
+          "type": "MESH",
+          "min": [
+            0.43,
+            0.252,
+            1.32
+          ],
+          "max": [
+            0.97,
+            0.252,
+            1.64
+          ],
+          "materials": [
+            "MI_AP_Screen"
+          ],
+          "polygons": 1,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Monitor recessed ventilation30.005",
+          "type": "MESH",
+          "min": [
+            0.55,
+            0.249,
+            1.3225
+          ],
+          "max": [
+            0.85,
+            0.253,
+            1.3275
+          ],
+          "materials": [
+            "MI_AP_P27Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Monitor recessed ventilation30.006",
+          "type": "MESH",
+          "min": [
+            0.55,
+            0.249,
+            1.3345
+          ],
+          "max": [
+            0.85,
+            0.253,
+            1.3395
+          ],
+          "materials": [
+            "MI_AP_P27Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Monitor recessed ventilation30.007",
+          "type": "MESH",
+          "min": [
+            0.55,
+            0.249,
+            1.3465
+          ],
+          "max": [
+            0.85,
+            0.253,
+            1.3515
+          ],
+          "materials": [
+            "MI_AP_P27Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Monitor recessed ventilation30.008",
+          "type": "MESH",
+          "min": [
+            0.55,
+            0.249,
+            1.3585
+          ],
+          "max": [
+            0.85,
+            0.253,
+            1.3635
+          ],
+          "materials": [
+            "MI_AP_P27Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Monitor recessed ventilation30.009",
+          "type": "MESH",
+          "min": [
+            0.55,
+            0.249,
+            1.3705
+          ],
+          "max": [
+            0.85,
+            0.253,
+            1.3755
+          ],
+          "materials": [
+            "MI_AP_P27Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Assistance switch mounting ring30.001",
+          "type": "MESH",
+          "min": [
+            -0.153,
+            -0.423,
+            1.103
+          ],
+          "max": [
+            -0.087,
+            -0.357,
+            1.115
+          ],
+          "materials": [
+            "MI_AP_P30Metal"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Assistance switch captured cap30.001",
+          "type": "MESH",
+          "min": [
+            -0.145,
+            -0.415,
+            1.114
+          ],
+          "max": [
+            -0.095,
+            -0.365,
+            1.134
+          ],
+          "materials": [
+            "MI_AP_C26Blue"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Intercom grille opening30.007",
+          "type": "MESH",
+          "min": [
+            -0.5345,
+            -0.539,
+            0.9515
+          ],
+          "max": [
+            -0.5255,
+            -0.535,
+            0.9785
+          ],
+          "materials": [
+            "MI_AP_P27Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Intercom grille opening30.008",
+          "type": "MESH",
+          "min": [
+            -0.5105,
+            -0.539,
+            0.9515
+          ],
+          "max": [
+            -0.5015,
+            -0.535,
+            0.9785
+          ],
+          "materials": [
+            "MI_AP_P27Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Intercom grille opening30.009",
+          "type": "MESH",
+          "min": [
+            -0.4865,
+            -0.539,
+            0.9515
+          ],
+          "max": [
+            -0.4775,
+            -0.535,
+            0.9785
+          ],
+          "materials": [
+            "MI_AP_P27Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Intercom grille opening30.010",
+          "type": "MESH",
+          "min": [
+            -0.4625,
+            -0.539,
+            0.9515
+          ],
+          "max": [
+            -0.4535,
+            -0.535,
+            0.9785
+          ],
+          "materials": [
+            "MI_AP_P27Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Intercom grille opening30.011",
+          "type": "MESH",
+          "min": [
+            -0.4385,
+            -0.539,
+            0.9515
+          ],
+          "max": [
+            -0.4295,
+            -0.535,
+            0.9785
+          ],
+          "materials": [
+            "MI_AP_P27Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Intercom grille opening30.012",
+          "type": "MESH",
+          "min": [
+            -0.4145,
+            -0.539,
+            0.9515
+          ],
+          "max": [
+            -0.4055,
+            -0.535,
+            0.9785
+          ],
+          "materials": [
+            "MI_AP_P27Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Intercom grille opening30.013",
+          "type": "MESH",
+          "min": [
+            -0.3905,
+            -0.539,
+            0.9515
+          ],
+          "max": [
+            -0.3815,
+            -0.535,
+            0.9785
+          ],
+          "materials": [
+            "MI_AP_P27Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Passport booklet folded cover30.001",
+          "type": "MESH",
+          "min": [
+            -0.545,
+            -0.38,
+            1.132
+          ],
+          "max": [
+            -0.315,
+            -0.22,
+            1.146
+          ],
+          "materials": [
+            "MI_AP_P30Navy"
+          ],
+          "polygons": 38,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Passport real layered page block30.001",
+          "type": "MESH",
+          "min": [
+            -0.537,
+            -0.374,
+            1.1455
+          ],
+          "max": [
+            -0.323,
+            -0.226,
+            1.1545
+          ],
+          "materials": [
+            "MI_AP_P30Solid"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Passport retained top cover30.001",
+          "type": "MESH",
+          "min": [
+            -0.545,
+            -0.38,
+            1.154
+          ],
+          "max": [
+            -0.315,
+            -0.22,
+            1.16
+          ],
+          "materials": [
+            "MI_AP_P30Navy"
+          ],
+          "polygons": 38,
+          "duplicate_faces": 0
+        }
+      ]
+    },
+    {
+      "asset": "SM_AP_Jetbridge34",
+      "parts": [
+        {
+          "name": "Jetbridge supported handrail34",
+          "type": "MESH",
+          "min": [
+            -13.8,
+            -0.626,
+            0.884
+          ],
+          "max": [
+            -2.0,
+            -0.574,
+            0.936
+          ],
+          "materials": [
+            "MI_AP_P34Metal"
+          ],
+          "polygons": 14,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge navy protective lining34",
+          "type": "MESH",
+          "min": [
+            -13.8,
+            -0.63,
+            0.125
+          ],
+          "max": [
+            -2.0,
+            -0.57,
+            0.775
+          ],
+          "materials": [
+            "MI_AP_P34Navy"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge retained rail support34",
+          "type": "MESH",
+          "min": [
+            -13.518,
+            -0.618,
+            0.18
+          ],
+          "max": [
+            -13.482,
+            -0.582,
+            0.94
+          ],
+          "materials": [
+            "MI_AP_P34Metal"
+          ],
+          "polygons": 14,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge glazing mullion34",
+          "type": "MESH",
+          "min": [
+            -13.5325,
+            -0.64,
+            0.825
+          ],
+          "max": [
+            -13.4675,
+            -0.56,
+            2.775
+          ],
+          "materials": [
+            "MI_AP_P34Cream"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge retained rail support34.001",
+          "type": "MESH",
+          "min": [
+            -10.818,
+            -0.618,
+            0.18
+          ],
+          "max": [
+            -10.782001,
+            -0.582,
+            0.94
+          ],
+          "materials": [
+            "MI_AP_P34Metal"
+          ],
+          "polygons": 14,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge glazing mullion34.001",
+          "type": "MESH",
+          "min": [
+            -10.8325,
+            -0.64,
+            0.825
+          ],
+          "max": [
+            -10.7675,
+            -0.56,
+            2.775
+          ],
+          "materials": [
+            "MI_AP_P34Cream"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge retained rail support34.002",
+          "type": "MESH",
+          "min": [
+            -8.118,
+            -0.618,
+            0.18
+          ],
+          "max": [
+            -8.082001,
+            -0.582,
+            0.94
+          ],
+          "materials": [
+            "MI_AP_P34Metal"
+          ],
+          "polygons": 14,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge glazing mullion34.002",
+          "type": "MESH",
+          "min": [
+            -8.1325,
+            -0.64,
+            0.825
+          ],
+          "max": [
+            -8.0675,
+            -0.56,
+            2.775
+          ],
+          "materials": [
+            "MI_AP_P34Cream"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge retained rail support34.003",
+          "type": "MESH",
+          "min": [
+            -5.418,
+            -0.618,
+            0.18
+          ],
+          "max": [
+            -5.382,
+            -0.582,
+            0.94
+          ],
+          "materials": [
+            "MI_AP_P34Metal"
+          ],
+          "polygons": 14,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge glazing mullion34.003",
+          "type": "MESH",
+          "min": [
+            -5.4325,
+            -0.64,
+            0.825
+          ],
+          "max": [
+            -5.3675,
+            -0.56,
+            2.775
+          ],
+          "materials": [
+            "MI_AP_P34Cream"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge retained rail support34.004",
+          "type": "MESH",
+          "min": [
+            -2.318,
+            -0.618,
+            0.18
+          ],
+          "max": [
+            -2.282,
+            -0.582,
+            0.94
+          ],
+          "materials": [
+            "MI_AP_P34Metal"
+          ],
+          "polygons": 14,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge glazing mullion34.004",
+          "type": "MESH",
+          "min": [
+            -2.3325,
+            -0.64,
+            0.825
+          ],
+          "max": [
+            -2.2675,
+            -0.56,
+            2.775
+          ],
+          "materials": [
+            "MI_AP_P34Cream"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge supported handrail34.001",
+          "type": "MESH",
+          "min": [
+            -13.8,
+            1.924,
+            0.884
+          ],
+          "max": [
+            -2.0,
+            1.976,
+            0.936
+          ],
+          "materials": [
+            "MI_AP_P34Metal"
+          ],
+          "polygons": 14,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge navy protective lining34.001",
+          "type": "MESH",
+          "min": [
+            -13.8,
+            1.92,
+            0.125
+          ],
+          "max": [
+            -2.0,
+            1.98,
+            0.775
+          ],
+          "materials": [
+            "MI_AP_P34Navy"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge retained rail support34.005",
+          "type": "MESH",
+          "min": [
+            -13.518,
+            1.932,
+            0.18
+          ],
+          "max": [
+            -13.482,
+            1.968,
+            0.94
+          ],
+          "materials": [
+            "MI_AP_P34Metal"
+          ],
+          "polygons": 14,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge glazing mullion34.005",
+          "type": "MESH",
+          "min": [
+            -13.5325,
+            1.91,
+            0.825
+          ],
+          "max": [
+            -13.4675,
+            1.99,
+            2.775
+          ],
+          "materials": [
+            "MI_AP_P34Cream"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge retained rail support34.006",
+          "type": "MESH",
+          "min": [
+            -10.818,
+            1.932,
+            0.18
+          ],
+          "max": [
+            -10.782001,
+            1.968,
+            0.94
+          ],
+          "materials": [
+            "MI_AP_P34Metal"
+          ],
+          "polygons": 14,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge glazing mullion34.006",
+          "type": "MESH",
+          "min": [
+            -10.8325,
+            1.91,
+            0.825
+          ],
+          "max": [
+            -10.7675,
+            1.99,
+            2.775
+          ],
+          "materials": [
+            "MI_AP_P34Cream"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge retained rail support34.007",
+          "type": "MESH",
+          "min": [
+            -8.118,
+            1.932,
+            0.18
+          ],
+          "max": [
+            -8.082001,
+            1.968,
+            0.94
+          ],
+          "materials": [
+            "MI_AP_P34Metal"
+          ],
+          "polygons": 14,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge glazing mullion34.007",
+          "type": "MESH",
+          "min": [
+            -8.1325,
+            1.91,
+            0.825
+          ],
+          "max": [
+            -8.0675,
+            1.99,
+            2.775
+          ],
+          "materials": [
+            "MI_AP_P34Cream"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge retained rail support34.008",
+          "type": "MESH",
+          "min": [
+            -5.418,
+            1.932,
+            0.18
+          ],
+          "max": [
+            -5.382,
+            1.968,
+            0.94
+          ],
+          "materials": [
+            "MI_AP_P34Metal"
+          ],
+          "polygons": 14,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge glazing mullion34.008",
+          "type": "MESH",
+          "min": [
+            -5.4325,
+            1.91,
+            0.825
+          ],
+          "max": [
+            -5.3675,
+            1.99,
+            2.775
+          ],
+          "materials": [
+            "MI_AP_P34Cream"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge retained rail support34.009",
+          "type": "MESH",
+          "min": [
+            -2.318,
+            1.932,
+            0.18
+          ],
+          "max": [
+            -2.282,
+            1.968,
+            0.94
+          ],
+          "materials": [
+            "MI_AP_P34Metal"
+          ],
+          "polygons": 14,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge glazing mullion34.009",
+          "type": "MESH",
+          "min": [
+            -2.3325,
+            1.91,
+            0.825
+          ],
+          "max": [
+            -2.2675,
+            1.99,
+            2.775
+          ],
+          "materials": [
+            "MI_AP_P34Cream"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge retained ceiling cross-member34",
+          "type": "MESH",
+          "min": [
+            -13.545,
+            -0.65,
+            2.385
+          ],
+          "max": [
+            -13.455,
+            2.0,
+            2.495
+          ],
+          "materials": [
+            "MI_AP_P34Cream"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge downlight housing34",
+          "type": "MESH",
+          "min": [
+            -13.875,
+            0.535,
+            2.3
+          ],
+          "max": [
+            -13.125,
+            0.815,
+            2.38
+          ],
+          "materials": [
+            "MI_AP_P34Navy"
+          ],
+          "polygons": 38,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge luminous downlight34",
+          "type": "MESH",
+          "min": [
+            -13.83,
+            0.58,
+            2.288
+          ],
+          "max": [
+            -13.17,
+            0.77,
+            2.3
+          ],
+          "materials": [
+            "MI_AP_P34LED"
+          ],
+          "polygons": 38,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge retained ceiling cross-member34.001",
+          "type": "MESH",
+          "min": [
+            -10.845,
+            -0.65,
+            2.385
+          ],
+          "max": [
+            -10.755,
+            2.0,
+            2.495
+          ],
+          "materials": [
+            "MI_AP_P34Cream"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge downlight housing34.001",
+          "type": "MESH",
+          "min": [
+            -11.175,
+            0.535,
+            2.3
+          ],
+          "max": [
+            -10.425,
+            0.815,
+            2.38
+          ],
+          "materials": [
+            "MI_AP_P34Navy"
+          ],
+          "polygons": 38,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge luminous downlight34.001",
+          "type": "MESH",
+          "min": [
+            -11.13,
+            0.58,
+            2.288
+          ],
+          "max": [
+            -10.47,
+            0.77,
+            2.3
+          ],
+          "materials": [
+            "MI_AP_P34LED"
+          ],
+          "polygons": 38,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge retained ceiling cross-member34.002",
+          "type": "MESH",
+          "min": [
+            -8.145,
+            -0.65,
+            2.385
+          ],
+          "max": [
+            -8.055,
+            2.0,
+            2.495
+          ],
+          "materials": [
+            "MI_AP_P34Cream"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge downlight housing34.002",
+          "type": "MESH",
+          "min": [
+            -8.475,
+            0.535,
+            2.3
+          ],
+          "max": [
+            -7.725,
+            0.815,
+            2.38
+          ],
+          "materials": [
+            "MI_AP_P34Navy"
+          ],
+          "polygons": 38,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge luminous downlight34.002",
+          "type": "MESH",
+          "min": [
+            -8.43,
+            0.58,
+            2.288
+          ],
+          "max": [
+            -7.77,
+            0.77,
+            2.3
+          ],
+          "materials": [
+            "MI_AP_P34LED"
+          ],
+          "polygons": 38,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge retained ceiling cross-member34.003",
+          "type": "MESH",
+          "min": [
+            -5.445,
+            -0.65,
+            2.385
+          ],
+          "max": [
+            -5.355,
+            2.0,
+            2.495
+          ],
+          "materials": [
+            "MI_AP_P34Cream"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge downlight housing34.003",
+          "type": "MESH",
+          "min": [
+            -5.775,
+            0.535,
+            2.3
+          ],
+          "max": [
+            -5.025,
+            0.815,
+            2.38
+          ],
+          "materials": [
+            "MI_AP_P34Navy"
+          ],
+          "polygons": 38,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge luminous downlight34.003",
+          "type": "MESH",
+          "min": [
+            -5.73,
+            0.58,
+            2.288
+          ],
+          "max": [
+            -5.07,
+            0.77,
+            2.3
+          ],
+          "materials": [
+            "MI_AP_P34LED"
+          ],
+          "polygons": 38,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge retained ceiling cross-member34.004",
+          "type": "MESH",
+          "min": [
+            -2.345,
+            -0.65,
+            2.385
+          ],
+          "max": [
+            -2.255,
+            2.0,
+            2.495
+          ],
+          "materials": [
+            "MI_AP_P34Cream"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge downlight housing34.004",
+          "type": "MESH",
+          "min": [
+            -2.675,
+            0.535,
+            2.3
+          ],
+          "max": [
+            -1.925,
+            0.815,
+            2.38
+          ],
+          "materials": [
+            "MI_AP_P34Navy"
+          ],
+          "polygons": 38,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Jetbridge luminous downlight34.004",
+          "type": "MESH",
+          "min": [
+            -2.63,
+            0.58,
+            2.288
+          ],
+          "max": [
+            -1.97,
+            0.77,
+            2.3
+          ],
+          "materials": [
+            "MI_AP_P34LED"
+          ],
+          "polygons": 38,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Dock bellows captured rib34",
+          "type": "MESH",
+          "min": [
+            -2.2175,
+            -0.565,
+            0.255
+          ],
+          "max": [
+            -2.1825,
+            -0.495,
+            2.705
+          ],
+          "materials": [
+            "MI_AP_P34Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Dock bellows captured rib34.001",
+          "type": "MESH",
+          "min": [
+            -2.2175,
+            1.845,
+            0.255
+          ],
+          "max": [
+            -2.1825,
+            1.915,
+            2.705
+          ],
+          "materials": [
+            "MI_AP_P34Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Dock bellows captured rib34.002",
+          "type": "MESH",
+          "min": [
+            -2.1425,
+            -0.565,
+            0.255
+          ],
+          "max": [
+            -2.1075,
+            -0.495,
+            2.705
+          ],
+          "materials": [
+            "MI_AP_P34Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Dock bellows captured rib34.003",
+          "type": "MESH",
+          "min": [
+            -2.1425,
+            1.845,
+            0.255
+          ],
+          "max": [
+            -2.1075,
+            1.915,
+            2.705
+          ],
+          "materials": [
+            "MI_AP_P34Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Dock bellows captured rib34.004",
+          "type": "MESH",
+          "min": [
+            -2.0675,
+            -0.565,
+            0.255
+          ],
+          "max": [
+            -2.0325,
+            -0.495,
+            2.705
+          ],
+          "materials": [
+            "MI_AP_P34Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Dock bellows captured rib34.005",
+          "type": "MESH",
+          "min": [
+            -2.0675,
+            1.845,
+            0.255
+          ],
+          "max": [
+            -2.0325,
+            1.915,
+            2.705
+          ],
+          "materials": [
+            "MI_AP_P34Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Dock bellows captured rib34.006",
+          "type": "MESH",
+          "min": [
+            -1.9925,
+            -0.565,
+            0.255
+          ],
+          "max": [
+            -1.9575,
+            -0.495,
+            2.705
+          ],
+          "materials": [
+            "MI_AP_P34Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Dock bellows captured rib34.007",
+          "type": "MESH",
+          "min": [
+            -1.9925,
+            1.845,
+            0.255
+          ],
+          "max": [
+            -1.9575,
+            1.915,
+            2.705
+          ],
+          "materials": [
+            "MI_AP_P34Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Dock bellows captured rib34.008",
+          "type": "MESH",
+          "min": [
+            -1.9175,
+            -0.565,
+            0.255
+          ],
+          "max": [
+            -1.8825,
+            -0.495,
+            2.705
+          ],
+          "materials": [
+            "MI_AP_P34Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Dock bellows captured rib34.009",
+          "type": "MESH",
+          "min": [
+            -1.9175,
+            1.845,
+            0.255
+          ],
+          "max": [
+            -1.8825,
+            1.915,
+            2.705
+          ],
+          "materials": [
+            "MI_AP_P34Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Dock bellows captured rib34.010",
+          "type": "MESH",
+          "min": [
+            -1.8425,
+            -0.565,
+            0.255
+          ],
+          "max": [
+            -1.8075,
+            -0.495,
+            2.705
+          ],
+          "materials": [
+            "MI_AP_P34Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Dock bellows captured rib34.011",
+          "type": "MESH",
+          "min": [
+            -1.8425,
+            1.845,
+            0.255
+          ],
+          "max": [
+            -1.8075,
+            1.915,
+            2.705
+          ],
+          "materials": [
+            "MI_AP_P34Rubber"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        }
+      ]
+    },
+    {
+      "asset": "SM_AP_ServicePath12",
+      "parts": [
+        {
+          "name": "Supported continuous service ramp12",
+          "type": "MESH",
+          "min": [
+            -1.4,
+            0.0,
+            -3.848423
+          ],
+          "max": [
+            1.4,
+            35.0,
+            -0.001577
+          ],
+          "materials": [
+            "MI_AP_Concrete.001"
+          ],
+          "polygons": 6,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Continuous ramp handrail12",
+          "type": "MESH",
+          "min": [
+            -1.377,
+            -0.002838,
+            -2.64685
+          ],
+          "max": [
+            -1.323,
+            35.002838,
+            1.10685
+          ],
+          "materials": [
+            "MI_AP_Steel.002"
+          ],
+          "polygons": 14,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Anchored ramp baluster12",
+          "type": "MESH",
+          "min": [
+            -1.368,
+            -0.018,
+            0.0
+          ],
+          "max": [
+            -1.332,
+            0.018,
+            1.08
+          ],
+          "materials": [
+            "MI_AP_Steel.002"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Anchored ramp baluster12.001",
+          "type": "MESH",
+          "min": [
+            -1.368,
+            4.982,
+            -0.528571
+          ],
+          "max": [
+            -1.332,
+            5.018,
+            0.551429
+          ],
+          "materials": [
+            "MI_AP_Steel.002"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Anchored ramp baluster12.002",
+          "type": "MESH",
+          "min": [
+            -1.368,
+            9.982,
+            -1.057143
+          ],
+          "max": [
+            -1.332,
+            10.018,
+            0.022857
+          ],
+          "materials": [
+            "MI_AP_Steel.002"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Anchored ramp baluster12.003",
+          "type": "MESH",
+          "min": [
+            -1.368,
+            14.982,
+            -1.585714
+          ],
+          "max": [
+            -1.332,
+            15.018,
+            -0.505714
+          ],
+          "materials": [
+            "MI_AP_Steel.002"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Anchored ramp baluster12.004",
+          "type": "MESH",
+          "min": [
+            -1.368,
+            19.982,
+            -2.114286
+          ],
+          "max": [
+            -1.332,
+            20.018,
+            -1.034286
+          ],
+          "materials": [
+            "MI_AP_Steel.002"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Anchored ramp baluster12.005",
+          "type": "MESH",
+          "min": [
+            -1.368,
+            24.982,
+            -2.642857
+          ],
+          "max": [
+            -1.332,
+            25.018,
+            -1.562857
+          ],
+          "materials": [
+            "MI_AP_Steel.002"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Anchored ramp baluster12.006",
+          "type": "MESH",
+          "min": [
+            -1.368,
+            29.982,
+            -3.171429
+          ],
+          "max": [
+            -1.332,
+            30.018,
+            -2.091429
+          ],
+          "materials": [
+            "MI_AP_Steel.002"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Anchored ramp baluster12.007",
+          "type": "MESH",
+          "min": [
+            -1.368,
+            34.981998,
+            -3.7
+          ],
+          "max": [
+            -1.332,
+            35.018002,
+            -2.62
+          ],
+          "materials": [
+            "MI_AP_Steel.002"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Painted ramp edge12",
+          "type": "MESH",
+          "min": [
+            -1.283,
+            -0.001472,
+            -3.701922
+          ],
+          "max": [
+            -1.255,
+            35.001472,
+            0.025922
+          ],
+          "materials": [
+            "MI_AP_Gold.002"
+          ],
+          "polygons": 10,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Continuous ramp handrail12.001",
+          "type": "MESH",
+          "min": [
+            1.323,
+            -0.002838,
+            -2.64685
+          ],
+          "max": [
+            1.377,
+            35.002838,
+            1.10685
+          ],
+          "materials": [
+            "MI_AP_Steel.002"
+          ],
+          "polygons": 14,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Anchored ramp baluster12.008",
+          "type": "MESH",
+          "min": [
+            1.332,
+            -0.018,
+            0.0
+          ],
+          "max": [
+            1.368,
+            0.018,
+            1.08
+          ],
+          "materials": [
+            "MI_AP_Steel.002"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Anchored ramp baluster12.009",
+          "type": "MESH",
+          "min": [
+            1.332,
+            4.982,
+            -0.528571
+          ],
+          "max": [
+            1.368,
+            5.018,
+            0.551429
+          ],
+          "materials": [
+            "MI_AP_Steel.002"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Anchored ramp baluster12.010",
+          "type": "MESH",
+          "min": [
+            1.332,
+            9.982,
+            -1.057143
+          ],
+          "max": [
+            1.368,
+            10.018,
+            0.022857
+          ],
+          "materials": [
+            "MI_AP_Steel.002"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Anchored ramp baluster12.011",
+          "type": "MESH",
+          "min": [
+            1.332,
+            14.982,
+            -1.585714
+          ],
+          "max": [
+            1.368,
+            15.018,
+            -0.505714
+          ],
+          "materials": [
+            "MI_AP_Steel.002"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Anchored ramp baluster12.012",
+          "type": "MESH",
+          "min": [
+            1.332,
+            19.982,
+            -2.114286
+          ],
+          "max": [
+            1.368,
+            20.018,
+            -1.034286
+          ],
+          "materials": [
+            "MI_AP_Steel.002"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Anchored ramp baluster12.013",
+          "type": "MESH",
+          "min": [
+            1.332,
+            24.982,
+            -2.642857
+          ],
+          "max": [
+            1.368,
+            25.018,
+            -1.562857
+          ],
+          "materials": [
+            "MI_AP_Steel.002"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Anchored ramp baluster12.014",
+          "type": "MESH",
+          "min": [
+            1.332,
+            29.982,
+            -3.171429
+          ],
+          "max": [
+            1.368,
+            30.018,
+            -2.091429
+          ],
+          "materials": [
+            "MI_AP_Steel.002"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Anchored ramp baluster12.015",
+          "type": "MESH",
+          "min": [
+            1.332,
+            34.981998,
+            -3.7
+          ],
+          "max": [
+            1.368,
+            35.018002,
+            -2.62
+          ],
+          "materials": [
+            "MI_AP_Steel.002"
+          ],
+          "polygons": 34,
+          "duplicate_faces": 0
+        },
+        {
+          "name": "Painted ramp edge12.001",
+          "type": "MESH",
+          "min": [
+            1.255,
+            -0.001472,
+            -3.701922
+          ],
+          "max": [
+            1.283,
+            35.001472,
+            0.025922
+          ],
+          "materials": [
+            "MI_AP_Gold.002"
+          ],
+          "polygons": 10,
+          "duplicate_faces": 0
+        }
+      ]
+    }
+  ]
+}

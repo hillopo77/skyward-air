@@ -1,0 +1,25 @@
+{
+  "passed": true,
+  "source_sha256": "eac73c0812391bc2f994d24cc9234c529be9a2d74175d41c1d58516c44703dff",
+  "read_only": true,
+  "results": [
+    {
+      "kind": "Crew",
+      "probes": 41542,
+      "minimum_full_body_clearance_m": 0.004433190173585899,
+      "minimum_arm_distance_m": 0.004749237559735775,
+      "lid_minimum_clearance_m": 0.028645100304856896,
+      "inside": 0
+    },
+    {
+      "kind": "Generic",
+      "probes": 41542,
+      "minimum_full_body_clearance_m": 0.004433190173585899,
+      "minimum_arm_distance_m": 0.004749237559735775,
+      "lid_minimum_clearance_m": 0.027569026933633722,
+      "inside": 0
+    }
+  ],
+  "belt_bundle_sha256": "f107e8d84898f02a420b5a154b1aa01756134580a06e01c42054d1245b09d0c7",
+  "no_source_or_bundle_writes": true
+}

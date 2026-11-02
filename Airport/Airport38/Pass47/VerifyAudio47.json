@@ -1,0 +1,236 @@
+{
+ "status": "SUCCESS",
+ "mixer_status": "playing",
+ "stops": [
+  {
+   "stop": "forecourt",
+   "context": "landside",
+   "pawn": [
+    -55.0,
+    -12.5,
+    1.62
+   ],
+   "volumes": {
+    "room": 0.0,
+    "murmur": 0.06,
+    "outdoor": 0.8,
+    "apron": 0.08,
+    "pa": 0.12
+   },
+   "playing": {
+    "room": true,
+    "murmur": true,
+    "outdoor": true,
+    "apron": true,
+    "pa": true
+   }
+  },
+  {
+   "stop": "check-in",
+   "context": "checkin",
+   "pawn": [
+    -35.0,
+    -13.0,
+    1.62
+   ],
+   "volumes": {
+    "room": 0.549,
+    "murmur": 0.748,
+    "outdoor": 0.052,
+    "apron": 0.0,
+    "pa": 0.699
+   },
+   "playing": {
+    "room": true,
+    "murmur": true,
+    "outdoor": true,
+    "apron": true,
+    "pa": true
+   }
+  },
+  {
+   "stop": "security",
+   "context": "security",
+   "pawn": [
+    -42.0,
+    4.0,
+    1.62
+   ],
+   "volumes": {
+    "room": 0.55,
+    "murmur": 0.6,
+    "outdoor": 0.05,
+    "apron": 0.0,
+    "pa": 0.7
+   },
+   "playing": {
+    "room": true,
+    "murmur": true,
+    "outdoor": true,
+    "apron": true,
+    "pa": true
+   }
+  },
+  {
+   "stop": "concourse",
+   "context": "concourse",
+   "pawn": [
+    -29.0,
+    5.0,
+    1.62
+   ],
+   "volumes": {
+    "room": 0.55,
+    "murmur": 0.675,
+    "outdoor": 0.05,
+    "apron": 0.0,
+    "pa": 0.7
+   },
+   "playing": {
+    "room": true,
+    "murmur": true,
+    "outdoor": true,
+    "apron": true,
+    "pa": true
+   }
+  },
+  {
+   "stop": "cafe",
+   "context": "cafe",
+   "pawn": [
+    -40.0,
+    25.0,
+    1.62
+   ],
+   "volumes": {
+    "room": 0.55,
+    "murmur": 0.75,
+    "outdoor": 0.05,
+    "apron": 0.0,
+    "pa": 0.7
+   },
+   "playing": {
+    "room": true,
+    "murmur": true,
+    "outdoor": true,
+    "apron": true,
+    "pa": true
+   }
+  },
+  {
+   "stop": "gate A07",
+   "context": "gate07",
+   "pawn": [
+    -18.0,
+    4.0,
+    1.62
+   ],
+   "volumes": {
+    "room": 0.55,
+    "murmur": 0.6,
+    "outdoor": 0.05,
+    "apron": 0.14,
+    "pa": 0.7
+   },
+   "playing": {
+    "room": true,
+    "murmur": true,
+    "outdoor": true,
+    "apron": true,
+    "pa": true
+   }
+  },
+  {
+   "stop": "toilets",
+   "context": "amenities",
+   "pawn": [
+    -18.0,
+    -7.0,
+    1.62
+   ],
+   "volumes": {
+    "room": 0.55,
+    "murmur": 0.151,
+    "outdoor": 0.05,
+    "apron": 0.0,
+    "pa": 0.7
+   },
+   "playing": {
+    "room": true,
+    "murmur": true,
+    "outdoor": true,
+    "apron": true,
+    "pa": true
+   }
+  },
+  {
+   "stop": "arrivals",
+   "context": "arrivals",
+   "pawn": [
+    -18.0,
+    -17.0,
+    1.62
+   ],
+   "volumes": {
+    "room": 0.55,
+    "murmur": 0.449,
+    "outdoor": 0.05,
+    "apron": 0.0,
+    "pa": 0.7
+   },
+   "playing": {
+    "room": true,
+    "murmur": true,
+    "outdoor": true,
+    "apron": true,
+    "pa": true
+   }
+  },
+  {
+   "stop": "apron",
+   "context": "airside",
+   "pawn": [
+    2.0,
+    2.0,
+    -2.07
+   ],
+   "volumes": {
+    "room": 0.001,
+    "murmur": 0.001,
+    "outdoor": 0.549,
+    "apron": 0.798,
+    "pa": 0.051
+   },
+   "playing": {
+    "room": true,
+    "murmur": true,
+    "outdoor": true,
+    "apron": true,
+    "pa": true
+   }
+  },
+  {
+   "stop": "aircraft cabin",
+   "context": "aircraft",
+   "pawn": [
+    15.2,
+    0.68,
+    1.62
+   ],
+   "volumes": {
+    "room": 0.12,
+    "murmur": 0.0,
+    "outdoor": 0.001,
+    "apron": 0.002,
+    "pa": 0.0
+   },
+   "playing": {
+    "room": true,
+    "murmur": true,
+    "outdoor": true,
+    "apron": true,
+    "pa": true
+   }
+  }
+ ]
+}

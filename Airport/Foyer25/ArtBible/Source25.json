@@ -1,0 +1,67 @@
+{
+  "status": "SUCCESS",
+  "source_sha256": "aa0d2047b1580ae1bde85595272325be05ced45cfa5efb8b750e62b9b6aaa781",
+  "room_size_m": [
+    6,
+    10,
+    3.6
+  ],
+  "seat_width_m": 0.55,
+  "seat_height_m": 0.46,
+  "seat_pitch_m": 0.76,
+  "bench_front_y": -16.89,
+  "mat_rect": [
+    -48.82,
+    -46.35,
+    -14.02,
+    -11.02
+  ],
+  "main_entry_clear_width_m": 2.7,
+  "checkin_opening_m": 1.9,
+  "north_opening_m": 3,
+  "sign_clear_height_m": 3.06,
+  "new_families": 8,
+  "scope": "Entrance foyer and its screened thresholds",
+  "privacy": {
+    "checkin_clear_width_m": 1.9,
+    "checkin_pocket_depth_m": 1.88,
+    "north_screen_return_m": 2.0,
+    "north_screen_width_m": 6.3,
+    "checkin_route": [
+      [
+        -46,
+        -15
+      ],
+      [
+        -42,
+        -15
+      ],
+      [
+        -42,
+        -13
+      ],
+      [
+        -40.5,
+        -13
+      ]
+    ],
+    "north_route": [
+      [
+        -46,
+        -9
+      ],
+      [
+        -45.2,
+        -7.2
+      ],
+      [
+        -40.4,
+        -7.2
+      ],
+      [
+        -40.4,
+        -5.9
+      ]
+    ]
+  }
+}

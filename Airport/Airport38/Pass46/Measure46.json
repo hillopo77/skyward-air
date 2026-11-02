@@ -1,0 +1,358 @@
+{
+ "status": "SUCCESS",
+ "started": 1793428776.4267387,
+ "ceiling": [
+  {
+   "point": "header0 hanger -y",
+   "x": -30.307,
+   "y": -12.8,
+   "up_complex": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "up_simple": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "down_complex": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "down_simple": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "box_at_3_70": []
+  },
+  {
+   "point": "header0 hanger +y",
+   "x": -30.307,
+   "y": -10.4,
+   "up_complex": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "up_simple": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "down_complex": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "down_simple": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "box_at_3_70": []
+  },
+  {
+   "point": "header0 centre",
+   "x": -30.307,
+   "y": -11.6,
+   "up_complex": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "up_simple": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "down_complex": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "down_simple": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "box_at_3_70": []
+  },
+  {
+   "point": "header1 hanger -y",
+   "x": -30.307,
+   "y": -15.8,
+   "up_complex": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "up_simple": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "down_complex": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "down_simple": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "box_at_3_70": []
+  },
+  {
+   "point": "header1 hanger +y",
+   "x": -30.307,
+   "y": -13.4,
+   "up_complex": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "up_simple": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "down_complex": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "down_simple": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "box_at_3_70": []
+  },
+  {
+   "point": "header1 centre",
+   "x": -30.307,
+   "y": -14.6,
+   "up_complex": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "up_simple": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "down_complex": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "down_simple": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "box_at_3_70": []
+  },
+  {
+   "point": "checkin mid-room",
+   "x": -34.0,
+   "y": -13.0,
+   "up_complex": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "up_simple": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "down_complex": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "down_simple": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "box_at_3_70": []
+  },
+  {
+   "point": "A07 display (known good, H=3.4)",
+   "x": -14.275,
+   "y": 5.15,
+   "up_complex": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "up_simple": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "down_complex": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "down_simple": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "box_at_3_70": []
+  },
+  {
+   "point": "A08 display (known good, H=3.8)",
+   "x": -24.325,
+   "y": 26.15,
+   "up_complex": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "up_simple": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "down_complex": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "down_simple": {
+    "actor": null,
+    "hit_z_m": null
+   },
+   "box_at_3_70": []
+  }
+ ],
+ "collision": [
+  {
+   "actor": "Check-in service header29 0",
+   "present": true,
+   "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+   "profile": "NoCollision",
+   "visible": true,
+   "centre_m": [
+    -30.307,
+    -11.6,
+    2.85
+   ],
+   "extent_cm": [
+    10.7,
+    167.0,
+    33.0
+   ],
+   "top_m": 3.18,
+   "bottom_m": 2.52
+  },
+  {
+   "actor": "Check-in service header29 1",
+   "present": true,
+   "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+   "profile": "NoCollision",
+   "visible": true,
+   "centre_m": [
+    -30.307,
+    -14.6,
+    2.85
+   ],
+   "extent_cm": [
+    10.7,
+    167.0,
+    33.0
+   ],
+   "top_m": 3.18,
+   "bottom_m": 2.52
+  },
+  {
+   "actor": "P46 header mount Header0",
+   "present": true,
+   "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "profile": "BlockAll",
+   "visible": true,
+   "centre_m": [
+    -30.307,
+    -11.6,
+    3.478
+   ],
+   "extent_cm": [
+    8.0,
+    130.0,
+    32.2
+   ],
+   "top_m": 3.8,
+   "bottom_m": 3.155
+  },
+  {
+   "actor": "P46 header mount Header1",
+   "present": true,
+   "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "profile": "BlockAll",
+   "visible": true,
+   "centre_m": [
+    -30.307,
+    -14.6,
+    3.478
+   ],
+   "extent_cm": [
+    8.0,
+    130.0,
+    32.2
+   ],
+   "top_m": 3.8,
+   "bottom_m": 3.155
+  },
+  {
+   "actor": "Airport38 coherent ceiling union",
+   "present": true,
+   "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "profile": "BlockAll",
+   "visible": true,
+   "centre_m": [
+    -31.5,
+    6.0,
+    4.88
+   ],
+   "extent_cm": [
+    1750.0,
+    2800.0,
+    208.0
+   ],
+   "top_m": 6.96,
+   "bottom_m": 2.8
+  },
+  {
+   "actor": "Crafted GalleryStair35",
+   "present": true,
+   "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+   "profile": "NoCollision",
+   "visible": true,
+   "centre_m": [
+    -44.998,
+    25.602,
+    2.096
+   ],
+   "extent_cm": [
+    402.6,
+    842.2,
+    213.3
+   ],
+   "top_m": 4.229,
+   "bottom_m": -0.037
+  },
+  {
+   "actor": "Gate A07 flight display",
+   "present": true,
+   "collision_enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+   "profile": "NoCollision",
+   "visible": true,
+   "centre_m": [
+    -14.302,
+    5.8,
+    2.4
+   ],
+   "extent_cm": [
+    6.0,
+    98.4,
+    53.8
+   ],
+   "top_m": 2.938,
+   "bottom_m": 1.862
+  },
+  {
+   "actor": "Airport38 verified architectural attachments",
+   "present": true,
+   "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+   "profile": "BlockAll",
+   "visible": true,
+   "centre_m": [
+    -31.65,
+    6.445,
+    1.897
+   ],
+   "extent_cm": [
+    1745.5,
+    2753.5,
+    190.2
+   ],
+   "top_m": 3.8,
+   "bottom_m": -0.005
+  }
+ ]
+}

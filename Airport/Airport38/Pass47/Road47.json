@@ -1,0 +1,44 @@
+{
+ "status": "SUCCESS",
+ "placed": [
+  {
+   "actor": "Access road south47",
+   "y": [
+    -600.0,
+    -37.0
+   ],
+   "bounds_y_m": [
+    -600.0,
+    -37.0
+   ],
+   "top_z_m": 0.015,
+   "width_m": 6.0
+  },
+  {
+   "actor": "Access road north47",
+   "y": [
+    33.0,
+    800.0
+   ],
+   "bounds_y_m": [
+    33.0,
+    800.0
+   ],
+   "top_z_m": 0.015,
+   "width_m": 6.0
+  }
+ ],
+ "source": {
+  "location_m": [
+   -65.0,
+   -2.0,
+   0.015
+  ],
+  "scale": [
+   6.0,
+   70.0,
+   1.0
+  ],
+  "yaw": 0.0
+ }
+}

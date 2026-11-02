@@ -1,0 +1,95 @@
+{
+  "status": "READY",
+  "pass_id": 10,
+  "revision": 36,
+  "runtime_sha256": "889c906fded20eab4a98e65a8d40b8770ac7c223a15931945a72b11b21c726d2",
+  "journey": {
+    "checked_in": true,
+    "bag_accepted": false,
+    "security": true,
+    "boarding": false,
+    "aboard": false
+  },
+  "held": null,
+  "driving": null,
+  "spectator": true,
+  "native_physics_bodies": 17,
+  "events": [
+    {
+      "event": "Room-based airport24 ready",
+      "time_s": 0.17200000000593718,
+      "zones": 17,
+      "controlled_leaves": 5
+    },
+    {
+      "event": "Clear arrival26 ready",
+      "time_s": 0.21800000000803266,
+      "initial_exit": "checkin",
+      "high_dpi": "project enabled",
+      "profile": "FastTAA"
+    },
+    {
+      "event": "Entrance prototype27 ready",
+      "time_s": 0.21800000000803266,
+      "level": 5,
+      "profile": "Distance27"
+    },
+    {
+      "event": "Crafted check-in30 ready",
+      "time_s": 0.2340000000112923,
+      "queue": "live",
+      "counters": 2
+    },
+    {
+      "event": "Arrival31 ready",
+      "time_s": 0.2340000000112923,
+      "buffer_m": 4.1,
+      "queue_starts_ahead": true
+    },
+    {
+      "event": "Circulation35 ready",
+      "time_s": 0.25,
+      "cafe_m2": 306,
+      "gallery_m2": 72,
+      "stair_width_m": 2.4
+    },
+    {
+      "event": "Detail36 ready",
+      "time_s": 0.25,
+      "screening_exit": "aligned and clear",
+      "cafe_bins": 3,
+      "sofas": 2
+    },
+    {
+      "event": "Native tow couplings bound",
+      "time_s": 0.5310000000026776,
+      "count": 2
+    },
+    {
+      "event": "Sliding door operated",
+      "time_s": 46.01499999999942,
+      "door": "Screening entry24 leaf 0"
+    },
+    {
+      "event": "Security cleared by full portal traversal",
+      "time_s": 53.04700000000594,
+      "lane": 0
+    },
+    {
+      "event": "Spectator toggled",
+      "time_s": 118.78100000000268,
+      "enabled": true
+    }
+  ],
+  "frame_statistics": {
+    "frames": 67380,
+    "average_fps": 36.341335778253985,
+    "p95_ms": 33.66100000857841,
+    "maximum_ms": 85.84639999025967
+  },
+  "player_source": [
+    -18.335483324956105,
+    0.28847925030837296,
+    2.495254667112283
+  ]
+}

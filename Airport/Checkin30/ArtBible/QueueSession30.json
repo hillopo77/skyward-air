@@ -1,0 +1,9 @@
+{
+  "status": "READY",
+  "joined": false,
+  "called": false,
+  "passengers_ahead": 3,
+  "departures": {},
+  "hud": "JoinQueue",
+  "updated": 1793201866.9566529
+}

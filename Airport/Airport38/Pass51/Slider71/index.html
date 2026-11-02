@@ -1,0 +1,232 @@
+<title>Pass 71 Before and After</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Overpass:wght@600;800&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+/* Layout: a single column of full-width comparison frames, each with a signage-style caption bar, like walking the route stop by stop. */
+:root {
+  --ground: #f3f1ec;     /* warm terrazzo */
+  --ink: #12222b;        /* navy text */
+  --muted: #5b6870;
+  --panel: #0f2a33;      /* Skyward navy sign board */
+  --panel-ink: #f4ead6;  /* lit sign lettering */
+  --gold: #b88a2c;
+  --line: #dcd6ca;
+  --display: "Overpass", "Segoe UI", system-ui, sans-serif;
+  --body: "Atkinson Hyperlegible", "Segoe UI", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --ground: #0b1418; --ink: #e9e4d8; --muted: #9aa6ab; --panel: #132f39; --panel-ink: #f4ead6; --gold: #d3a648; --line: #24343b; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --ground: #0b1418; --ink: #e9e4d8; --muted: #9aa6ab; --panel: #132f39; --panel-ink: #f4ead6; --gold: #d3a648; --line: #24343b; color-scheme: dark }
+
+body { background: var(--ground); color: var(--ink); font-family: var(--body); font-size: 16px; line-height: 1.55; }
+.wrap { max-width: 1180px; margin: 0 auto; padding-block: 28px 64px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: grid; gap: 40px; }
+header { display: grid; gap: 10px; }
+.eyebrow { font-family: var(--display); font-weight: 600; letter-spacing: .14em; text-transform: uppercase; font-size: 12px; color: var(--gold); }
+h1 { font-family: var(--display); font-weight: 800; font-size: clamp(28px, 4.6vw, 44px); line-height: 1.05; margin: 0; text-wrap: balance; }
+.lede { margin: 0; max-width: 64ch; color: var(--muted); }
+.how { font-size: 14px; color: var(--muted); margin: 0; }
+
+figure { margin: 0; display: grid; gap: 0; }
+.bar { background: var(--panel); color: var(--panel-ink); display: flex; align-items: center; gap: 14px;
+  padding: 10px 16px; border-radius: 4px 4px 0 0; flex-wrap: wrap; }
+.badge { flex: none; width: 30px; height: 30px; border-radius: 50%; background: var(--gold); color: #0f2a33;
+  display: grid; place-items: center; font-family: var(--display); font-weight: 800; font-size: 15px; }
+.bar h2 { font-family: var(--display); font-weight: 800; font-size: 17px; letter-spacing: .06em; text-transform: uppercase; margin: 0; }
+.bar .where { margin-left: auto; font-size: 13px; opacity: .75; font-variant-numeric: tabular-nums; }
+
+.cmp { position: relative; aspect-ratio: 16 / 9; max-width: 100%; overflow: hidden; background: #000;
+  touch-action: pan-y; user-select: none; cursor: ew-resize; }
+.cmp img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; pointer-events: none; }
+.cmp .after { clip-path: inset(0 0 0 var(--pos, 50%)); }
+.handle { position: absolute; top: 0; bottom: 0; left: var(--pos, 50%); width: 0; pointer-events: none; }
+.handle::before { content: ""; position: absolute; top: 0; bottom: 0; left: -1.5px; width: 3px; background: var(--panel-ink); box-shadow: 0 0 0 1px rgba(15,42,51,.5); }
+.knob { position: absolute; top: 50%; left: 0; transform: translate(-50%, -50%); width: 44px; height: 44px; border-radius: 50%;
+  background: var(--panel); border: 3px solid var(--panel-ink); display: grid; place-items: center; }
+.knob svg { width: 22px; height: 22px; fill: var(--panel-ink); }
+.tag { position: absolute; top: 12px; font-family: var(--display); font-weight: 800; font-size: 12px; letter-spacing: .14em;
+  text-transform: uppercase; padding: 5px 9px; border-radius: 3px; pointer-events: none; }
+.tag.b { left: 12px; background: rgba(15,42,51,.82); color: #f4ead6; }
+.tag.a { right: 12px; background: var(--gold); color: #0f2a33; }
+.cmp input { position: absolute; inset: 0; width: 100%; height: 100%; opacity: 0; margin: 0; cursor: ew-resize; }
+.cmp:has(input:focus-visible) .knob { outline: 3px solid var(--gold); outline-offset: 3px; }
+
+.seg { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 6px; }
+.seg-label { font-size: 13px; color: var(--muted); margin-right: 4px; }
+.seg button { font: 700 14px var(--body); padding: 8px 14px; border-radius: 999px; border: 1.5px solid var(--panel);
+  background: transparent; color: var(--ink); cursor: pointer; }
+.seg button[aria-checked="true"] { background: var(--panel); color: var(--panel-ink); }
+.seg button:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+.part { display: grid; gap: 24px; }
+.part-head { display: grid; gap: 8px; border-top: 2px solid var(--panel); padding-top: 18px; }
+.part-title { font-family: var(--display); font-weight: 800; font-size: clamp(22px, 3vw, 30px); margin: 0; text-wrap: balance; }
+.list { display: grid; gap: 40px; }
+figcaption { border: 1px solid var(--line); border-top: 0; border-radius: 0 0 4px 4px; padding: 12px 16px; font-size: 15px; }
+figcaption p { margin: 0; max-width: 78ch; }
+footer { font-size: 13px; color: var(--muted); border-top: 1px solid var(--line); padding-top: 16px; }
+@media (max-width: 520px) { .bar .where { margin-left: 0; width: 100%; } .knob { width: 36px; height: 36px; } }
+.still { aspect-ratio: 16 / 9; max-width: 100%; overflow: hidden; background: #000; }
+.still img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.tag.n { right: 12px; background: var(--gold); color: #0f2a33; }
+.split { font-family: var(--display); font-weight: 800; font-size: 13px; letter-spacing: .14em; text-transform: uppercase; color: var(--gold);
+  border-top: 2px solid var(--panel); padding-top: 14px; margin: 0; }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Skyward Air · Pass 71</div>
+    <h1>Panic lights, security and the toilets, redone</h1>
+    <p class="lede">The plane gets its red panic line and glowing cockpit, security is rebuilt to be bright and readable, and the toilets become five proper stalls. Each pair is the same camera spot in the game.</p>
+    <p class="how">Drag across any picture (or focus it and use the arrow keys) to wipe between the two.</p>
+  </header>
+  <div class="list">
+  <p class="split">In the plane</p>
+  <figure>
+    <div class="bar"><span class="badge">1</span><h2>Economy: normal, then panic</h2><span class="where">In the plane</span></div>
+    <div class="cmp" style="--pos:50%">
+      <img class="before" src="img/P72eco_before.jpg" alt="Economy: normal, then panic, normal" loading="eager">
+      <img class="after" src="img/P72eco_after.jpg" alt="Economy: normal, then panic, panic" loading="eager">
+      <span class="tag b">Normal</span><span class="tag a">Panic</span>
+      <div class="handle"><div class="knob"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6 3 12l6 6V6zm6 0v12l6-6-6-6z"/></svg></div></div>
+      <input type="range" min="0" max="100" step="0.1" value="50" aria-label="Economy: normal, then panic: normal and panic">
+    </div>
+    <figcaption><p>A new line of lights along the ceiling, built like the floor path lights. Normally it is dark glass. In a panic (a rejected takeoff) it pulses red and floods the cabin, the floor lights drop to a lower white, the lights under the bins dim and the cabin darkens.</p></figcaption>
+  </figure>
+  <figure>
+    <div class="bar"><span class="badge">2</span><h2>Business: normal, then panic</h2><span class="where">In the plane</span></div>
+    <div class="cmp" style="--pos:50%">
+      <img class="before" src="img/P72bus_before.jpg" alt="Business: normal, then panic, normal" loading="eager">
+      <img class="after" src="img/P72bus_after.jpg" alt="Business: normal, then panic, panic" loading="eager">
+      <span class="tag b">Normal</span><span class="tag a">Panic</span>
+      <div class="handle"><div class="knob"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6 3 12l6 6V6zm6 0v12l6-6-6-6z"/></svg></div></div>
+      <input type="range" min="0" max="100" step="0.1" value="50" aria-label="Business: normal, then panic: normal and panic">
+    </div>
+    <figcaption><p>Same in business: the red line overhead and a panicky red flood across the suites, with the white path lights still showing the way out.</p></figcaption>
+  </figure>
+  <figure>
+    <div class="bar"><span class="badge">3</span><h2>The flight deck glows</h2><span class="where">In the plane</span></div>
+    <div class="cmp" style="--pos:50%">
+      <img class="before" src="img/P72deck_before.jpg" alt="The flight deck glows, before" loading="lazy">
+      <img class="after" src="img/P72deck_after.jpg" alt="The flight deck glows, after" loading="lazy">
+      <span class="tag b">Before</span><span class="tag a">After</span>
+      <div class="handle"><div class="knob"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6 3 12l6 6V6zm6 0v12l6-6-6-6z"/></svg></div></div>
+      <input type="range" min="0" max="100" step="0.1" value="50" aria-label="The flight deck glows: before and after">
+    </div>
+    <figcaption><p>The green and red buttons now throw their colour onto the panel, the switches and the console around them, and the radar glows phosphor green. The buttons themselves are untouched, so every control still works.</p></figcaption>
+  </figure>
+  <figure>
+    <div class="bar"><span class="badge">4</span><h2>Bars off the ceiling</h2><span class="where">In the plane</span></div>
+    <div class="cmp" style="--pos:50%">
+      <img class="before" src="img/P72ribs_before.jpg" alt="Bars off the ceiling, before" loading="lazy">
+      <img class="after" src="img/P72ribs_after.jpg" alt="Bars off the ceiling, after" loading="lazy">
+      <span class="tag b">Before</span><span class="tag a">After</span>
+      <div class="handle"><div class="knob"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6 3 12l6 6V6zm6 0v12l6-6-6-6z"/></svg></div></div>
+      <input type="range" min="0" max="100" step="0.1" value="50" aria-label="Bars off the ceiling: before and after">
+    </div>
+    <figcaption><p>The curved bars across the ceiling are gone. The two thin lines are the dormant panic line.</p></figcaption>
+  </figure>
+  <p class="split">Security</p>
+  <figure>
+    <div class="bar"><span class="badge">5</span><h2>The screening hall</h2><span class="where">Security</span></div>
+    <div class="cmp" style="--pos:50%">
+      <img class="before" src="img/S71sec_before.jpg" alt="The screening hall, before" loading="lazy">
+      <img class="after" src="img/S71sec_after.jpg" alt="The screening hall, after" loading="lazy">
+      <span class="tag b">Before</span><span class="tag a">After</span>
+      <div class="handle"><div class="knob"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6 3 12l6 6V6zm6 0v12l6-6-6-6z"/></svg></div></div>
+      <input type="range" min="0" max="100" step="0.1" value="50" aria-label="The screening hall: before and after">
+    </div>
+    <figcaption><p>Redone. Machines in a clean white shell with lit tunnels and smoked curtains, lit LANE signs with a green OPEN, slate lanes on the floor with light lines and footprints in each arch, deep sea-green stone on the walls, and more light: a soft light under each ceiling line, washers on every wall, and the orange cast taken out of the room.</p></figcaption>
+  </figure>
+  <figure>
+    <div class="bar"><span class="badge">6</span><h2>The feature wall</h2><span class="where">Security</span></div>
+    <div class="cmp" style="--pos:50%">
+      <img class="before" src="img/S71wall_before.jpg" alt="The feature wall, before" loading="lazy">
+      <img class="after" src="img/S71wall_after.jpg" alt="The feature wall, after" loading="lazy">
+      <span class="tag b">Before</span><span class="tag a">After</span>
+      <div class="handle"><div class="knob"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6 3 12l6 6V6zm6 0v12l6-6-6-6z"/></svg></div></div>
+      <input type="range" min="0" max="100" step="0.1" value="50" aria-label="The feature wall: before and after">
+    </div>
+    <figcaption><p>A cool backlit wall with navy roundels and white-lit icons, captioned: liquids 100 ml, laptops out, coats off, belts off, phones in tray.</p></figcaption>
+  </figure>
+  <p class="split">Toilets</p>
+  <figure>
+    <div class="bar"><span class="badge">7</span><h2>Five stalls</h2><span class="where">Toilets</span></div>
+    <div class="cmp" style="--pos:50%">
+      <img class="before" src="img/S71wc_before.jpg" alt="Five stalls, before" loading="lazy">
+      <img class="after" src="img/S71wc_after.jpg" alt="Five stalls, after" loading="lazy">
+      <span class="tag b">Before</span><span class="tag a">After</span>
+      <div class="handle"><div class="knob"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6 3 12l6 6V6zm6 0v12l6-6-6-6z"/></svg></div></div>
+      <input type="range" min="0" max="100" step="0.1" value="50" aria-label="Five stalls: before and after">
+    </div>
+    <figcaption><p>The two huge cubicles became five proper stalls in walnut joinery with brass frames, numbered signs and occupancy lights. Stalls 1 and 4 are the ones you can use; 2, 3 and 5 are occupied.</p></figcaption>
+  </figure>
+  <figure>
+    <div class="bar"><span class="badge">8</span><h2>The vanity</h2><span class="where">Toilets</span></div>
+    <div class="cmp" style="--pos:50%">
+      <img class="before" src="img/S71vanity_before.jpg" alt="The vanity, before" loading="lazy">
+      <img class="after" src="img/S71vanity_after.jpg" alt="The vanity, after" loading="lazy">
+      <span class="tag b">Before</span><span class="tag a">After</span>
+      <div class="handle"><div class="knob"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6 3 12l6 6V6zm6 0v12l6-6-6-6z"/></svg></div></div>
+      <input type="range" min="0" max="100" step="0.1" value="50" aria-label="The vanity: before and after">
+    </div>
+    <figcaption><p>A 5.8 m stone vanity with four bowl basins, brass taps, real mirrors in arched backlit frames, slim wall lights and a slatted wood ceiling over it.</p></figcaption>
+  </figure>
+  <figure>
+    <div class="bar"><span class="badge">9</span><h2>Outside the toilets</h2><span class="where">Toilets</span></div>
+    <div class="cmp" style="--pos:50%">
+      <img class="before" src="img/S71bench_before.jpg" alt="Outside the toilets, before" loading="lazy">
+      <img class="after" src="img/S71bench_after.jpg" alt="Outside the toilets, after" loading="lazy">
+      <span class="tag b">Before</span><span class="tag a">After</span>
+      <div class="handle"><div class="knob"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6 3 12l6 6V6zm6 0v12l6-6-6-6z"/></svg></div></div>
+      <input type="range" min="0" max="100" step="0.1" value="50" aria-label="Outside the toilets: before and after">
+    </div>
+    <figcaption><p>The bench faced the wall. It now faces into the passage, back against the wall.</p></figcaption>
+  </figure>
+  <figure>
+    <div class="bar"><span class="badge">10</span><h2>Fire extinguishers</h2><span class="where">Toilets</span></div>
+    <div class="cmp" style="--pos:50%">
+      <img class="before" src="img/S71ext_before.jpg" alt="Fire extinguishers, before" loading="lazy">
+      <img class="after" src="img/S71ext_after.jpg" alt="Fire extinguishers, after" loading="lazy">
+      <span class="tag b">Before</span><span class="tag a">After</span>
+      <div class="handle"><div class="knob"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6 3 12l6 6V6zm6 0v12l6-6-6-6z"/></svg></div></div>
+      <input type="range" min="0" max="100" step="0.1" value="50" aria-label="Fire extinguishers: before and after">
+    </div>
+    <figcaption><p>Every extinguisher is new and sits in a red cabinet mounted on a real wall that the game measured. No more floor stands in the middle of a room.</p></figcaption>
+  </figure>
+  <p class="split">New this pass</p>
+  <figure>
+    <div class="bar"><span class="badge">11</span><h2>Inside a stall</h2><span class="where">New</span></div>
+    <div class="still"><img src="img/N71stall_after.jpg" alt="Inside a stall" loading="lazy"></div>
+    <figcaption><p>Deep teal tiles over a stone-topped ledge, a wall-hung white toilet, brass flush plate, roll holder and hook, and walnut side walls.</p></figcaption>
+  </figure>
+  <figure>
+    <div class="bar"><span class="badge">12</span><h2>The hand-dryer wall</h2><span class="where">New</span></div>
+    <div class="still"><img src="img/N71amenity_after.jpg" alt="The hand-dryer wall" loading="lazy"></div>
+    <figcaption><p>One built-in wall: two lit niches with blade dryers and flush waste slots, and a baby-change unit. The old grey dryer is covered.</p></figcaption>
+  </figure>
+  <figure>
+    <div class="bar"><span class="badge">13</span><h2>An extinguisher cabinet, Gate A08</h2><span class="where">New</span></div>
+    <div class="still"><img src="img/N71ext_after.jpg" alt="An extinguisher cabinet, Gate A08" loading="lazy"></div>
+    <figcaption><p>The cabinet from the side: open front so you can still grab it, lit inside, with its sign above.</p></figcaption>
+  </figure>
+  </div>
+  <footer>Stills captured in Unreal Engine at 1920×1080, resized for the web. Before: Pass 70, earlier on 2 November. The full journey test passes 170 of 170 with these changes.</footer>
+</div>
+
+<script>
+document.querySelectorAll('figure').forEach(f => {
+  const box = f.querySelector('.cmp'), input = f.querySelector('input');
+  if (!box) return;
+  const set = v => { box.style.setProperty('--pos', v + '%'); input.value = v; };
+  input.addEventListener('input', () => set(input.value));
+  let drag = false;
+  const move = e => { const r = box.getBoundingClientRect(); set(Math.max(0, Math.min(100, (e.clientX - r.left) / r.width * 100))); };
+  box.addEventListener('pointerdown', e => { drag = true; box.setPointerCapture(e.pointerId); move(e); });
+  box.addEventListener('pointermove', e => { if (drag) move(e); });
+  box.addEventListener('pointerup', () => drag = false);
+  box.addEventListener('pointercancel', () => drag = false);
+});
+</script>

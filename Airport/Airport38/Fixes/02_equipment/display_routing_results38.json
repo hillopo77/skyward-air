@@ -1,0 +1,13 @@
+{
+  "scope": "Unit routing only; native material/readability check remains",
+  "checks": [
+    "Inherited .001 screen slot receives real default UI",
+    "Reader lens material is not mistaken for the display",
+    "Belt scan completion routes to actual X-ray monitor",
+    "Stopped motor sets actual monitor STOPPED UI",
+    "Reset motor restores ready scanner UI",
+    "A08 cannot display a false A07 boarding-open state",
+    "Display install is idempotent"
+  ],
+  "passed": true
+}

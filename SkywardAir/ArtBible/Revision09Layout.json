@@ -1,0 +1,70 @@
+{
+  "layout": {
+    "revision": "09",
+    "shell_scale": 1.1,
+    "furnishing_scale": 1,
+    "business_seats": 4,
+    "economy_seats": 40,
+    "passenger_seats": 44,
+    "business_rows": [
+      3.2,
+      4.8
+    ],
+    "economy_rows": [
+      8.0,
+      9.22,
+      10.44,
+      11.66,
+      12.879999999999999,
+      14.1,
+      15.32,
+      16.54,
+      17.759999999999998,
+      18.98
+    ],
+    "class_divider_y_m": 7.55,
+    "main_galley_y_m": 6.435,
+    "business_centre_clear_width_m": 2.3,
+    "cockpit_front_y_m": -4.213,
+    "door_ids": [
+      "1L",
+      "1R",
+      "2L",
+      "2R"
+    ],
+    "carpet": "Continuous fitted zones; globally aligned UVs; no transverse bay bindings.",
+    "exterior_revision": "09",
+    "exterior_length_m": 39.992,
+    "exterior_span_m": 31.0,
+    "exterior_width_m": 5.0,
+    "exterior_body_height_m": 4.7,
+    "roof_m": 2.9000000000000004,
+    "interior_width_m": 4.796880000000001,
+    "economy_aisle_clear_width_m": 0.75
+  },
+  "changed_assets": [
+    "SM_Plane_AftServiceShell",
+    "SM_Plane_ArchRib",
+    "SM_Plane_CabinFinish09",
+    "SM_Plane_ClassDivider",
+    "SM_Plane_CockpitShell",
+    "SM_Plane_CrewAmenities07",
+    "SM_Plane_DoorBay07",
+    "SM_Plane_ExteriorAirframe",
+    "SM_Plane_FittedCarpet07",
+    "SM_Plane_Floor",
+    "SM_Plane_ForwardVestibule",
+    "SM_Plane_LandingGear",
+    "SM_Plane_LuxurySeat",
+    "SM_Plane_OuterWindowBarrel",
+    "SM_Plane_PassengerDoor07_L",
+    "SM_Plane_PassengerDoor07_R",
+    "SM_Plane_Rack_L",
+    "SM_Plane_Rack_R",
+    "SM_Plane_Seat",
+    "SM_Plane_SeatPair",
+    "SM_Plane_WindowWall_L",
+    "SM_Plane_WindowWall_R"
+  ],
+  "navigation_bounds": 58
+}

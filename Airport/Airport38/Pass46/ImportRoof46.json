@@ -1,0 +1,54 @@
+{
+ "status": "SUCCESS",
+ "started": 1793456395.2274911,
+ "notes": [],
+ "slots": [
+  {
+   "slot": 0,
+   "name": "MI_AP_P38BSteel",
+   "material": "MI_AP_P38BSteel"
+  },
+  {
+   "slot": 1,
+   "name": "MI_AP_DarkSteel_001",
+   "material": "MI_AP_DarkSteel_001"
+  },
+  {
+   "slot": 2,
+   "name": "MI_AP_P38ARubber",
+   "material": "MI_AP_P38ARubber"
+  },
+  {
+   "slot": 3,
+   "name": "MI_AP_P38AHousing",
+   "material": "MI_AP_P38AHousing"
+  }
+ ],
+ "mesh_bounds_m": {
+  "x": [
+   -46.45,
+   -16.75
+  ],
+  "y_source": [
+   -17.57,
+   27.86
+  ],
+  "z": [
+   3.34,
+   8.57
+  ]
+ },
+ "placed": {
+  "actor": "Airport46 rooftop plant",
+  "centre_m": [
+   -31.6,
+   5.14,
+   5.96
+  ],
+  "extent_m": [
+   14.85,
+   22.71,
+   2.62
+  ]
+ }
+}

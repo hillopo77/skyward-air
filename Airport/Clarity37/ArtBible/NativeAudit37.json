@@ -1,0 +1,858 @@
+[
+  {
+    "actor": "Economy first-row display mount 03A12",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Art/Meshes/SM_Plane_EconomyBulkheadDisplay12.SM_Plane_EconomyBulkheadDisplay12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Economy first-row display mount 03D12",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Art/Meshes/SM_Plane_EconomyBulkheadDisplay12.SM_Plane_EconomyBulkheadDisplay12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Economy first-row display mount 03E12",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Art/Meshes/SM_Plane_EconomyBulkheadDisplay12.SM_Plane_EconomyBulkheadDisplay12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Economy first-row display mount 03K12",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Art/Meshes/SM_Plane_EconomyBulkheadDisplay12.SM_Plane_EconomyBulkheadDisplay12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Airport instanced architecture and fittings",
+    "component": "InstancedStaticMesh2",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12",
+    "instances": 0,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Airport instanced architecture and fittings",
+    "component": "InstancedStaticMesh3",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": 0,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Airport instanced architecture and fittings",
+    "component": "InstancedStaticMesh4",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Pillar12.SM_AP_Pillar12",
+    "instances": 0,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Airport instanced architecture and fittings",
+    "component": "InstancedStaticMesh22",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_BridgeRoof.SM_AP_BridgeRoof",
+    "instances": 4,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Airport instanced architecture and fittings",
+    "component": "InstancedStaticMesh24",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Pendant12.SM_AP_Pendant12",
+    "instances": 0,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Airport instanced architecture and fittings",
+    "component": "InstancedStaticMesh60",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_RoomCeiling11.SM_AP_RoomCeiling11",
+    "instances": 0,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Ceiling24_checkin modeled architecture",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport24/Meshes/SM_AP_Ceiling24_checkin.SM_AP_Ceiling24_checkin",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Ceiling24_publicreturn modeled architecture",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport24/Meshes/SM_AP_Ceiling24_publicreturn.SM_AP_Ceiling24_publicreturn",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Ceiling24_landsidecorridor modeled architecture",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport24/Meshes/SM_AP_Ceiling24_landsidecorridor.SM_AP_Ceiling24_landsidecorridor",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Ceiling24_amenitylobby modeled architecture",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport24/Meshes/SM_AP_Ceiling24_amenitylobby.SM_AP_Ceiling24_amenitylobby",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Ceiling24_amenities modeled architecture",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport24/Meshes/SM_AP_Ceiling24_amenities.SM_AP_Ceiling24_amenities",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Ceiling24_arrivals modeled architecture",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport24/Meshes/SM_AP_Ceiling24_arrivals.SM_AP_Ceiling24_arrivals",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Retained practical fixtures25",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport29/Meshes/SM_AP_FixturesRetained29.SM_AP_FixturesRetained29",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Check-in warm architecture29",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport33/Meshes/SM_AP_CheckinRoom33.SM_AP_CheckinRoom33",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Finished publicreturn34",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport34/Meshes/SM_AP_Room34_publicreturn.SM_AP_Room34_publicreturn",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Finished landsidecorridor34",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport34/Meshes/SM_AP_Room34_landsidecorridor.SM_AP_Room34_landsidecorridor",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Finished amenitylobby34",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport34/Meshes/SM_AP_Room34_amenitylobby.SM_AP_Room34_amenitylobby",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Finished amenities34",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport34/Meshes/SM_AP_Room34_amenities.SM_AP_Room34_amenities",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Finished arrivals34",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport34/Meshes/SM_AP_Room34_arrivals.SM_AP_Room34_arrivals",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Facade1212_1402",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Facade1212_1404",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Facade1212_1406",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Facade1212_1408",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Facade1212_1410",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Facade1212_1412",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Facade1212_1414",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Facade1212_1416",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Facade1212_1418",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Facade1212_1420",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Facade1212_1422",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Facade1212_1423",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Facade1212_1424",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Facade1212_1425",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Facade1212_1426",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Facade1212_1427",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Facade1212_1428",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Facade1212_1429",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Facade1212_1431",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Facade1212_1434",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Facade1212_1436",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Facade12.SM_AP_Facade12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1441",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1442",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1443",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1444",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1445",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1446",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1449",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1450",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1451",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1452",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1453",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1454",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1457",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1458",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1459",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1460",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1461",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1462",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1465",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1466",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1467",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1468",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1469",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1470",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1473",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1474",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1475",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1476",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1477",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1478",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Pillar1212_1481",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Pillar12.SM_AP_Pillar12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Pillar1212_1482",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Pillar12.SM_AP_Pillar12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Pillar1212_1483",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Pillar12.SM_AP_Pillar12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Pillar1212_1485",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Pillar12.SM_AP_Pillar12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Pillar1212_1486",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Pillar12.SM_AP_Pillar12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Pillar1212_1487",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Pillar12.SM_AP_Pillar12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Pillar1212_1489",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Pillar12.SM_AP_Pillar12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Pillar1212_1490",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Pillar12.SM_AP_Pillar12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Pillar1212_1491",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Pillar12.SM_AP_Pillar12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1497",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1498",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1499",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1500",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1501",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Roof1212_1502",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Roof12.SM_AP_Roof12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Pillar1212_1503",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Pillar12.SM_AP_Pillar12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Pillar1212_1504",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Pillar12.SM_AP_Pillar12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Pillar1212_1624",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Pillar12.SM_AP_Pillar12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Pillar1212_1625",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport23/Meshes/SM_AP_Pillar12.SM_AP_Pillar12",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Crafted Walls35",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport36/Meshes/SM_AP_Walls36.SM_AP_Walls36",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Crafted Room35_concourse",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport36/Meshes/SM_AP_Room36_concourse.SM_AP_Room36_concourse",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Crafted Room35_recovery",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport36/Meshes/SM_AP_Room36_recovery.SM_AP_Room36_recovery",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Crafted Room35_security",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport35/Meshes/SM_AP_Room35_security.SM_AP_Room35_security",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Crafted Room35_gate07foyer",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport36/Meshes/SM_AP_Room36_gate07foyer.SM_AP_Room36_gate07foyer",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Crafted Room35_operations",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport35/Meshes/SM_AP_Room35_operations.SM_AP_Room35_operations",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Crafted Room35_gate08foyer",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport35/Meshes/SM_AP_Room35_gate08foyer.SM_AP_Room35_gate08foyer",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Crafted Room35_gate08",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport35/Meshes/SM_AP_Room35_gate08.SM_AP_Room35_gate08",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Crafted Room35_cafefoyer",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport35/Meshes/SM_AP_Room35_cafefoyer.SM_AP_Room35_cafefoyer",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Crafted Room35_gate07",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport36/Meshes/SM_AP_Room36_gate07.SM_AP_Room36_gate07",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Crafted Room35_cafe",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport36/Meshes/SM_AP_Room36_cafe.SM_AP_Room36_cafe",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Crafted Fixtures35",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport36/Meshes/SM_AP_Fixtures36.SM_AP_Fixtures36",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Crafted Identity35",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport36/FinalMeshes36/SM_AP_Identity36.SM_AP_Identity36",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  },
+  {
+    "actor": "Crafted Roof35",
+    "component": "StaticMeshComponent0",
+    "mesh": "/Game/Airport35/Meshes/SM_AP_Roof35.SM_AP_Roof35",
+    "instances": null,
+    "hidden": false,
+    "visible": true
+  }
+]

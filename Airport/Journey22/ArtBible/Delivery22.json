@@ -1,0 +1,134 @@
+{
+  "status": "SUCCESS",
+  "revision": 22,
+  "created": 1793042234.5668824,
+  "map": "/Game/Airport12/L_Airport_Journey22",
+  "checks": 26,
+  "genuine_captures": 9,
+  "main_route_resets": 0,
+  "ticket": {
+    "id": "SW-SA107-LOCAL-01",
+    "flight": "SA107",
+    "destination": "Azure Bay",
+    "gate": "A07",
+    "cabin": "Economy",
+    "seat": "03E",
+    "checked_bags": [
+      "Physical luggage 01"
+    ],
+    "security_cleared": true,
+    "gate_scanned": true,
+    "aboard": true
+  },
+  "seat": "Economy seat 03E12",
+  "files": {
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_runtime.py": "abb0258b0ca05907a3e9a37307a8d660886ac936af9710b26738c793dd27fa3a",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_journey22.py": "d6823d40706ec3e8511fb9d6f3bfe7e58f7dc71cfffb9a177276d6b96105312e",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_journey22_qa.py": "a655a08732569fb560291a4ab78f0e56cce5f68d9886079e8797d1c64a891589",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\characters12_runtime.py": "a73f87bb0b924b2b9bd330fc0567e2eb5102c438cac57816d530897fd628ad30",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Journey22\\Narrative\\Cast22.json": "0e608451090e15f6186acacc48761982b16a1d8d6e63bf5319645c8abbd556c3",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Open-Airport.ps1": "45db37f9b24818db4f4f73da83999f39186028d4dc8cf0d90ee8e0fc66f2135f",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Airport12\\L_Airport_Journey22.umap": "477d2a5e15c6d897f823e3b66d43efb915d0afd76f9cc66786d691d77589fb16"
+  },
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Journey22\\Screenshots\\01_Entrance.png",
+      "sha256": "f7e4b220ff6b3cddade5feab50154e468daaa64b525ea91dd4bff8908ed9095a",
+      "name": "01_Entrance",
+      "player": [
+        -53.0,
+        -12.5,
+        1.62
+      ],
+      "stage": "checkin"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Journey22\\Screenshots\\02_PhysicalSuitcase.png",
+      "sha256": "3e5013adf33e9d305db1eb077c6beb1b4a075a46f92c7518d759087ee3b1ccb1",
+      "name": "02_PhysicalSuitcase",
+      "player": [
+        -46.30717017392925,
+        -18.569495947805695,
+        1.62
+      ],
+      "stage": "checkin"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Journey22\\Screenshots\\03_CheckInPass.png",
+      "sha256": "c0b1d3508351f5e68011aea7cdfbf2840d0d98690658f587d99e8b1a2b6f5ea3",
+      "name": "03_CheckInPass",
+      "player": [
+        -43.206422678446735,
+        -13.301412499327675,
+        1.62
+      ],
+      "stage": "bagdrop_security"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Journey22\\Screenshots\\04_BagAccepted.png",
+      "sha256": "eb7bafc8f97d31fe22c9e4eb757fd9fa18c3e3167b7df4219731012205a613c4",
+      "name": "04_BagAccepted",
+      "player": [
+        -41.16640838953196,
+        -13.300007026929713,
+        1.62
+      ],
+      "stage": "bagdrop_security"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Journey22\\Screenshots\\05_SecurityCleared.png",
+      "sha256": "b5fe4bfd01f9fed0b4ef8df669a3ac8293caccc9820769ca7549586ebb1aa05a",
+      "name": "05_SecurityCleared",
+      "player": [
+        -41.00152738353902,
+        -2.200602517423659,
+        1.62
+      ],
+      "stage": "gate"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Journey22\\Screenshots\\06_GateOpen.png",
+      "sha256": "a69cbecf4f2185fdb670dde57671718f3cafc741b4c055561917e718231428a1",
+      "name": "06_GateOpen",
+      "player": [
+        -18.500021292013137,
+        -1.8021361942896268,
+        1.62
+      ],
+      "stage": "jetbridge"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Journey22\\Screenshots\\07_Jetbridge.png",
+      "sha256": "0f8af6790710b17d67fee70cd83c322f03ee195b4f438968967ac52fab121eb2",
+      "name": "07_Jetbridge",
+      "player": [
+        -7.1746709731903415,
+        0.6747588196433374,
+        1.62
+      ],
+      "stage": "jetbridge"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Journey22\\Screenshots\\08_Aboard.png",
+      "sha256": "ad8b5ef0412d643008f56bd8166c9debf3a785e5cbb87887624e78d0f55b43ec",
+      "name": "08_Aboard",
+      "player": [
+        -1.1016838132977518,
+        0.674992247852638,
+        1.62
+      ],
+      "stage": "aboard"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Journey22\\Screenshots\\09_Seated.png",
+      "sha256": "267b3d6acace782f4a84fc33b3fc1626aa5c7b39d24001e82636cfa3e2fe7320",
+      "name": "09_Seated",
+      "player": [
+        0.3449999988079071,
+        14.135000190734864,
+        1.28
+      ],
+      "stage": "seated"
+    }
+  ]
+}

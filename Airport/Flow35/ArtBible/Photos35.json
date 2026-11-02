@@ -1,0 +1,70 @@
+{
+  "status": "SUCCESS",
+  "checks": [],
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\01_SecurityApproach.png",
+      "sha256": "5ed7811fe0104aaf200dd01e1263ade6157f7eda84fc5f272ad7eef74e6ecf09"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\02_SecurityPrepared.png",
+      "sha256": "482b53abeaa2f2cd75f7aa72dfc455fe92fdba9b2d5d0303e3f6f58c7ce4ba2b"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\03_RepackRight.png",
+      "sha256": "e9020863a0511df06509d32a2c88f0e2d664f5ecc3183c4372f708e978558bf2"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\04_ConcourseChoice.png",
+      "sha256": "bafe8dd889d04c163a5fd072c1f5768e44fa6a23ccbc4019f917243e92245fd4"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\05_CafeApproach.png",
+      "sha256": "a04b2bb3b873150df15ede4c60534b445c2d3ff84a6b0f8a3b3dfc5a771c650d"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\06_CafeEntry.png",
+      "sha256": "70710252a3f64c9df63681c37ad91d57d944679c23c12712b4f95e90aad56f0c"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\07_CafeDining.png",
+      "sha256": "2096e4ae2d59907c672ea2ab5bb960935c0813af740591095fa58fddc9594a89"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\08_CafeService.png",
+      "sha256": "6fdc8ff26eda323b5e35ad249e6d846f2699eef94b090bc36d966698120f21b7"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\09_WideStairs.png",
+      "sha256": "de446c498804d63646aadc4d87dcab01d8dc375f98fde9c4665329de817a6cfb"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\10_UpperGallery.png",
+      "sha256": "f45e7bfae844dfdbd255120a3264ebefe040a048ee0da4d82e74d95bcd69b312"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\11_A07Entry.png",
+      "sha256": "d2e33298fd261b32ca0cf1100573689bcf9d15dc464bc8e48fc93a064d8548d4"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\12_A07OpenLounge.png",
+      "sha256": "d85da5894cc2bf96bbd5c92ac9dab50985d73569d19b3d832c2956bd490a00bf"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\13_A08Approach.png",
+      "sha256": "198c50f4b405e473cb5951758887eca88318bfdf45842218cb145cb60ecb98d4"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\14_A08Lounge.png",
+      "sha256": "2943b305287462af2c24da0c73fea7bfe9cd41ce612db79b0bfd0c785a0683b8"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Flow35\\Screenshots\\15_WingClearance.png",
+      "sha256": "6f4577c4229d84695aa13cc16cfea2e136093c2bb7fbb23271f8508ced5cc68d"
+    }
+  ],
+  "step": 31,
+  "setup_player_teleports": 0,
+  "walk_teleports": 0,
+  "elapsed_s": 37.562999999994645
+}

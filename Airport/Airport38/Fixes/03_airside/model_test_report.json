@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "test_scene": "factory empty; complete linked-root fixture; newly authored bridge geometry only",
+  "linked_aircraft_roots": 1209,
+  "new_assets": 18,
+  "bridge_components": 20,
+  "moving_components": 16,
+  "mesh_faces": 5930,
+  "source_stowed_sweep": {
+    "clear": true,
+    "method": "conservative complete-aircraft AABB swept continuously along source -Y",
+    "distance_m": 180.0,
+    "margin_m": 0.25,
+    "swept_bounds": [
+      [
+        -6.668164,
+        -188.76,
+        -3.434
+      ],
+      [
+        38.668164,
+        43.38,
+        7.8
+      ]
+    ],
+    "blocking": []
+  },
+  "native_validation": "root integration required"
+}

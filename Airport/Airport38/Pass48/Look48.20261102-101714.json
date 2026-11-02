@@ -1,0 +1,46 @@
+{
+ "status": "SUCCESS",
+ "airside": null,
+ "captures": [
+  {
+   "name": "C1_cabin_aisle",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\C70\\C1_cabin_aisle.png"
+  },
+  {
+   "name": "C2_flight_deck",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\C70\\C2_flight_deck.png"
+  },
+  {
+   "name": "C_aisle_fwd",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\C70\\C_aisle_fwd.png"
+  },
+  {
+   "name": "C_business",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\C70\\C_business.png"
+  },
+  {
+   "name": "C69_eco_window_seat",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\C70\\C69_eco_window_seat.png"
+  },
+  {
+   "name": "C69_eco_ceiling",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\C70\\C69_eco_ceiling.png"
+  },
+  {
+   "name": "C69_eco_floor",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\C70\\C69_eco_floor.png"
+  },
+  {
+   "name": "C69_bus_suite",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\C70\\C69_bus_suite.png"
+  },
+  {
+   "name": "C70_into_cockpit",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\C70\\C70_into_cockpit.png"
+  },
+  {
+   "name": "C70_eco_seated",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\C70\\C70_eco_seated.png"
+  }
+ ]
+}

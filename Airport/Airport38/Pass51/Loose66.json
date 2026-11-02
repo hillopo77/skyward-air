@@ -1,0 +1,102 @@
+{
+ "status": "SUCCESS",
+ "meshes": [
+  [
+   "SM_AP_P66Mug",
+   -1,
+   "<class 'EditorStaticMeshLibrary'>"
+  ],
+  [
+   "SM_AP_P66MugTeal",
+   -1,
+   "<class 'EditorStaticMeshLibrary'>"
+  ],
+  [
+   "SM_AP_P66TakeawayCup",
+   -1,
+   "<class 'EditorStaticMeshLibrary'>"
+  ],
+  [
+   "SM_AP_P66BookNavy",
+   -1,
+   "<class 'EditorStaticMeshLibrary'>"
+  ],
+  [
+   "SM_AP_P66BookClay",
+   -1,
+   "<class 'EditorStaticMeshLibrary'>"
+  ],
+  [
+   "SM_AP_P66BookSage",
+   -1,
+   "<class 'EditorStaticMeshLibrary'>"
+  ],
+  [
+   "SM_AP_P66Magazine",
+   -1,
+   "<class 'EditorStaticMeshLibrary'>"
+  ],
+  [
+   "SM_AP_P66MagazineGold",
+   -1,
+   "<class 'EditorStaticMeshLibrary'>"
+  ],
+  [
+   "SM_AP_P66Cushion",
+   -1,
+   "<class 'EditorStaticMeshLibrary'>"
+  ],
+  [
+   "SM_AP_P66CushionGold",
+   -1,
+   "<class 'EditorStaticMeshLibrary'>"
+  ],
+  [
+   "SM_AP_P66CushionTeal",
+   -1,
+   "<class 'EditorStaticMeshLibrary'>"
+  ],
+  [
+   "SM_AP_P66Plant",
+   -1,
+   "<class 'EditorStaticMeshLibrary'>"
+  ],
+  [
+   "SM_AP_P66ToyPlane",
+   -1,
+   "<class 'EditorStaticMeshLibrary'>"
+  ],
+  [
+   "SM_AP_P66Ball",
+   -1,
+   "<class 'EditorStaticMeshLibrary'>"
+  ],
+  [
+   "SM_AP_P66BallTeal",
+   -1,
+   "<class 'EditorStaticMeshLibrary'>"
+  ],
+  [
+   "SM_AP_P66Toolbox",
+   -1,
+   "<class 'EditorStaticMeshLibrary'>"
+  ],
+  [
+   "SM_AP_P66Hammer",
+   -1,
+   "<class 'EditorStaticMeshLibrary'>"
+  ],
+  [
+   "SM_AP_P66Mallet",
+   -1,
+   "<class 'EditorStaticMeshLibrary'>"
+  ],
+  [
+   "SM_AP_P66WetSign",
+   -1,
+   "<class 'EditorStaticMeshLibrary'>"
+  ]
+ ],
+ "placed": 44,
+ "notes": []
+}

@@ -1,0 +1,29 @@
+{
+  "status": "SUCCESS",
+  "pass_id": 1,
+  "pass_name": "Passenger circulation and connected boarding footprint",
+  "captures": [
+    {
+      "file": "Pass01_01_Entrance.png",
+      "sha256": "a6656d5878dd27ba0e7da25b5ea31b672e7b1fd7c4c9c06bd08106799dccde8a",
+      "camera": "01_Entrance"
+    },
+    {
+      "file": "Pass01_03_Security.png",
+      "sha256": "5e52beb6ea32c6b693e206b37553e5932c42f055b7faba33a019a094ed4cbcd3",
+      "camera": "03_Security"
+    },
+    {
+      "file": "Pass01_06_Gate.png",
+      "sha256": "94ea369da761b5c372b6a61ab2f31735561014cb595f16bdfac97f974efb5a9f",
+      "camera": "06_Gate"
+    },
+    {
+      "file": "Pass01_07_BoardingBridge.png",
+      "sha256": "ea1396a72c9195fe1a0f0484d33ea783dc024ba0e973f8e1bb546160e71470b6",
+      "camera": "07_BoardingBridge"
+    }
+  ],
+  "runtime_sha256": "cb71573c3626e1e41e1d4ff77d8698cde23dea7052d46f92f1a550abec8d3cdc",
+  "native_bodies": 0
+}

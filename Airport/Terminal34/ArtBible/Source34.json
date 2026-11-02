@@ -1,0 +1,11 @@
+{
+  "status": "SUCCESS",
+  "source_sha256": "0aad5740a7821d64eecd022307e89a3121f76bdd44be977644f3276c9401a264",
+  "families": 40,
+  "zones": 15,
+  "approved_rooms_preserved": true,
+  "legacy_palette_normalized": true,
+  "double_sided_signs": true,
+  "airfield_details": true,
+  "bridge_lights_below_soffit": true
+}

@@ -1,0 +1,471 @@
+{
+ "status": "SUCCESS",
+ "control": {
+  "floor": {
+   "hit": "Airport38 coherent bounded floors",
+   "at": [
+    -42.0,
+    -13.0,
+    0.0
+   ]
+  },
+  "passed": true
+ },
+ "stair_as_built": {
+  "actor_collision": true,
+  "enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+  "profile": "NoCollision",
+  "body_setup": "not readable here: StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+ },
+ "traces_as_built": [
+  {
+   "z": 0.6,
+   "simple": {
+    "hit": null
+   },
+   "complex": {
+    "hit": null
+   }
+  },
+  {
+   "z": 1.62,
+   "simple": {
+    "hit": null
+   },
+   "complex": {
+    "hit": null
+   }
+  },
+  {
+   "z": 2.4,
+   "simple": {
+    "hit": null
+   },
+   "complex": {
+    "hit": null
+   }
+  },
+  {
+   "down_at": [
+    -46.0,
+    30.5
+   ],
+   "simple": {
+    "hit": null
+   },
+   "complex": {
+    "hit": null
+   }
+  },
+  {
+   "down_at": [
+    -43.2,
+    27.6
+   ],
+   "simple": {
+    "hit": "Gallery chair46 3",
+    "at": [
+     -43.2,
+     27.6,
+     3.623
+    ]
+   },
+   "complex": {
+    "hit": "Gallery chair46 3",
+    "at": [
+     -43.2,
+     27.6,
+     3.623
+    ]
+   }
+  },
+  {
+   "down_at": [
+    -42.2,
+    32.6
+   ],
+   "simple": {
+    "hit": null
+   },
+   "complex": {
+    "hit": null
+   }
+  }
+ ],
+ "sweeps_as_built": [
+  {
+   "leg": "stair centreline y 17.00 -> 17.80",
+   "simple": {
+    "hit": null
+   },
+   "complex": {
+    "hit": null
+   }
+  },
+  {
+   "leg": "stair centreline y 17.80 -> 20.68",
+   "simple": {
+    "hit": null
+   },
+   "complex": {
+    "hit": null
+   }
+  },
+  {
+   "leg": "stair centreline y 20.68 -> 22.08",
+   "simple": {
+    "hit": null
+   },
+   "complex": {
+    "hit": null
+   }
+  },
+  {
+   "leg": "stair centreline y 22.08 -> 25.00",
+   "simple": {
+    "hit": null
+   },
+   "complex": {
+    "hit": null
+   }
+  },
+  {
+   "leg": "stair centreline y 25.00 -> 26.60",
+   "simple": {
+    "hit": null
+   },
+   "complex": {
+    "hit": null
+   }
+  },
+  {
+   "leg": "across the deck at standing height",
+   "simple": {
+    "hit": "CH12COLL Gallery passenger 1",
+    "at": [
+     -42.55,
+     29.0,
+     4.77
+    ]
+   },
+   "complex": {
+    "hit": "CH12COLL Gallery passenger 1",
+    "at": [
+     -42.55,
+     29.0,
+     4.77
+    ]
+   }
+  },
+  {
+   "leg": "cafe floor under the deck at standing height",
+   "simple": {
+    "hit": null
+   },
+   "complex": {
+    "hit": null
+   }
+  }
+ ],
+ "mounts": [
+  {
+   "header": "Header0",
+   "at": [
+    -30.307,
+    -12.8
+   ],
+   "mount_top_z": 3.8,
+   "mount_bottom_z": 3.155,
+   "ceiling": {
+    "hit": "Airport38 coherent ceiling union",
+    "at": [
+     -30.307,
+     -12.8,
+     3.8
+    ]
+   },
+   "ceiling_with_mount": {
+    "hit": "P46 header mount Header0",
+    "at": [
+     -30.307,
+     -12.8,
+     3.776
+    ]
+   },
+   "gap_mount_top_to_ceiling_m": 0.0
+  },
+  {
+   "header": "Header0",
+   "at": [
+    -30.307,
+    -10.4
+   ],
+   "mount_top_z": 3.8,
+   "mount_bottom_z": 3.155,
+   "ceiling": {
+    "hit": "Airport38 coherent ceiling union",
+    "at": [
+     -30.307,
+     -10.4,
+     3.8
+    ]
+   },
+   "ceiling_with_mount": {
+    "hit": "P46 header mount Header0",
+    "at": [
+     -30.307,
+     -10.4,
+     3.776
+    ]
+   },
+   "gap_mount_top_to_ceiling_m": 0.0
+  },
+  {
+   "header": "Header1",
+   "at": [
+    -30.307,
+    -15.8
+   ],
+   "mount_top_z": 3.8,
+   "mount_bottom_z": 3.155,
+   "ceiling": {
+    "hit": "Airport38 coherent ceiling union",
+    "at": [
+     -30.307,
+     -15.8,
+     3.8
+    ]
+   },
+   "ceiling_with_mount": {
+    "hit": "P46 header mount Header1",
+    "at": [
+     -30.307,
+     -15.8,
+     3.776
+    ]
+   },
+   "gap_mount_top_to_ceiling_m": 0.0
+  },
+  {
+   "header": "Header1",
+   "at": [
+    -30.307,
+    -13.4
+   ],
+   "mount_top_z": 3.8,
+   "mount_bottom_z": 3.155,
+   "ceiling": {
+    "hit": "Airport38 coherent ceiling union",
+    "at": [
+     -30.307,
+     -13.4,
+     3.8
+    ]
+   },
+   "ceiling_with_mount": {
+    "hit": "P46 header mount Header1",
+    "at": [
+     -30.307,
+     -13.4,
+     3.776
+    ]
+   },
+   "gap_mount_top_to_ceiling_m": 0.0
+  }
+ ],
+ "spawn_errors": [
+  "deck 0: type object 'GameplayStatics' has no attribute 'begin_deferred_actor_spawn_from_class'",
+  "deck 1: type object 'GameplayStatics' has no attribute 'begin_deferred_actor_spawn_from_class'",
+  "deck 2: type object 'GameplayStatics' has no attribute 'begin_deferred_actor_spawn_from_class'",
+  "control: check-in floor: type object 'GameplayStatics' has no attribute 'begin_deferred_actor_spawn_from_class'",
+  "deck 0: type object 'GameplayStatics' has no attribute 'begin_deferred_actor_spawn_from_class'",
+  "deck 1: type object 'GameplayStatics' has no attribute 'begin_deferred_actor_spawn_from_class'",
+  "deck 2: type object 'GameplayStatics' has no attribute 'begin_deferred_actor_spawn_from_class'",
+  "released under the deck: type object 'GameplayStatics' has no attribute 'begin_deferred_actor_spawn_from_class'",
+  "control: check-in floor: type object 'GameplayStatics' has no attribute 'begin_deferred_actor_spawn_from_class'"
+ ],
+ "drop_as_built": [],
+ "stair_enabled": {
+  "actor_collision": true,
+  "enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+  "profile": "BlockAll",
+  "body_setup": "not readable here: StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+ },
+ "traces_enabled": [
+  {
+   "z": 0.6,
+   "simple": {
+    "hit": null
+   },
+   "complex": {
+    "hit": null
+   }
+  },
+  {
+   "z": 1.62,
+   "simple": {
+    "hit": null
+   },
+   "complex": {
+    "hit": null
+   }
+  },
+  {
+   "z": 2.4,
+   "simple": {
+    "hit": null
+   },
+   "complex": {
+    "hit": null
+   }
+  },
+  {
+   "down_at": [
+    -46.0,
+    30.5
+   ],
+   "simple": {
+    "hit": "Crafted GalleryStair35",
+    "at": [
+     -46.0,
+     30.5,
+     3.165
+    ]
+   },
+   "complex": {
+    "hit": "Crafted GalleryStair35",
+    "at": [
+     -46.0,
+     30.5,
+     3.165
+    ]
+   }
+  },
+  {
+   "down_at": [
+    -43.2,
+    27.6
+   ],
+   "simple": {
+    "hit": "Gallery chair46 3",
+    "at": [
+     -43.2,
+     27.6,
+     3.623
+    ]
+   },
+   "complex": {
+    "hit": "Gallery chair46 3",
+    "at": [
+     -43.2,
+     27.6,
+     3.623
+    ]
+   }
+  },
+  {
+   "down_at": [
+    -42.2,
+    32.6
+   ],
+   "simple": {
+    "hit": "Crafted GalleryStair35",
+    "at": [
+     -42.2,
+     32.6,
+     3.165
+    ]
+   },
+   "complex": {
+    "hit": "Crafted GalleryStair35",
+    "at": [
+     -42.2,
+     32.6,
+     3.165
+    ]
+   }
+  }
+ ],
+ "sweeps_enabled": [
+  {
+   "leg": "stair centreline y 17.00 -> 17.80",
+   "simple": {
+    "hit": null
+   },
+   "complex": {
+    "hit": null
+   }
+  },
+  {
+   "leg": "stair centreline y 17.80 -> 20.68",
+   "simple": {
+    "hit": null
+   },
+   "complex": {
+    "hit": null
+   }
+  },
+  {
+   "leg": "stair centreline y 20.68 -> 22.08",
+   "simple": {
+    "hit": null
+   },
+   "complex": {
+    "hit": null
+   }
+  },
+  {
+   "leg": "stair centreline y 22.08 -> 25.00",
+   "simple": {
+    "hit": null
+   },
+   "complex": {
+    "hit": null
+   }
+  },
+  {
+   "leg": "stair centreline y 25.00 -> 26.60",
+   "simple": {
+    "hit": null
+   },
+   "complex": {
+    "hit": null
+   }
+  },
+  {
+   "leg": "across the deck at standing height",
+   "simple": {
+    "hit": "CH12COLL Gallery passenger 1",
+    "at": [
+     -42.55,
+     29.0,
+     4.77
+    ]
+   },
+   "complex": {
+    "hit": "CH12COLL Gallery passenger 1",
+    "at": [
+     -42.55,
+     29.0,
+     4.77
+    ]
+   }
+  },
+  {
+   "leg": "cafe floor under the deck at standing height",
+   "simple": {
+    "hit": null
+   },
+   "complex": {
+    "hit": null
+   }
+  }
+ ],
+ "drop_enabled": [],
+ "restored": {
+  "actor_collision": false,
+  "enabled": "<CollisionEnabled.NO_COLLISION: 0>",
+  "profile": "BlockAll",
+  "body_setup": "not readable here: StaticMesh: Failed to find property 'body_setup' for attribute 'body_setup' on 'StaticMesh'"
+ }
+}

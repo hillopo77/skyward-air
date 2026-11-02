@@ -1,0 +1,210 @@
+{
+  "CoffeeCart_01": [
+    {
+      "name": "CoffeeCart_01_props",
+      "type": "MESH",
+      "dimensions": [
+        2.00809907913208,
+        1.0732901096343994,
+        1.5492043495178223
+      ],
+      "parent": null,
+      "materials": [
+        "CoffeeCart_01_props"
+      ],
+      "verts": 9344,
+      "hide": false,
+      "modifiers": []
+    },
+    {
+      "name": "CoffeeCart_01_mugs",
+      "type": "MESH",
+      "dimensions": [
+        0.4211046099662781,
+        0.5796854496002197,
+        0.11939787864685059
+      ],
+      "parent": null,
+      "materials": [
+        "CoffeeCart_01_mugs"
+      ],
+      "verts": 928,
+      "hide": false,
+      "modifiers": []
+    },
+    {
+      "name": "CoffeeCart_01_cart",
+      "type": "MESH",
+      "dimensions": [
+        1.4414585828781128,
+        0.7165452837944031,
+        1.0522831678390503
+      ],
+      "parent": null,
+      "materials": [
+        "CoffeeCart_01_cart"
+      ],
+      "verts": 5406,
+      "hide": false,
+      "modifiers": []
+    }
+  ],
+  "potted_plant_04": [
+    {
+      "name": "potted_plant_04_pot",
+      "type": "MESH",
+      "dimensions": [
+        0.17027407884597778,
+        0.17027407884597778,
+        0.15603511035442352
+      ],
+      "parent": null,
+      "materials": [
+        "potted_plant_04"
+      ],
+      "verts": 458,
+      "hide": false,
+      "modifiers": [
+        "WEIGHTED_NORMAL",
+        "NODES",
+        "SUBSURF"
+      ]
+    },
+    {
+      "name": "potted_plant_04_plant",
+      "type": "MESH",
+      "dimensions": [
+        0.14611169695854187,
+        0.17312735319137573,
+        0.132341206073761
+      ],
+      "parent": null,
+      "materials": [
+        "potted_plant_04"
+      ],
+      "verts": 1927,
+      "hide": false,
+      "modifiers": [
+        "NODES",
+        "WEIGHTED_NORMAL"
+      ]
+    },
+    {
+      "name": "potted_plant_04_ground",
+      "type": "MESH",
+      "dimensions": [
+        0.1473338007926941,
+        0.14888179302215576,
+        0.021731257438659668
+      ],
+      "parent": null,
+      "materials": [
+        "potted_plant_04"
+      ],
+      "verts": 847,
+      "hide": false,
+      "modifiers": []
+    },
+    {
+      "name": "potted_plant_04_dirt",
+      "type": "MESH",
+      "dimensions": [
+        0.15638068318367004,
+        0.15623123943805695,
+        0.019160091876983643
+      ],
+      "parent": null,
+      "materials": [
+        "potted_plant_04"
+      ],
+      "verts": 320,
+      "hide": false,
+      "modifiers": []
+    }
+  ],
+  "security_camera_02": [
+    {
+      "name": "wdg_root_square",
+      "type": "MESH",
+      "dimensions": [
+        0.1318684220314026,
+        9.350004326336148e-09,
+        0.16363966464996338
+      ],
+      "parent": null,
+      "materials": [],
+      "verts": 66,
+      "hide": false,
+      "modifiers": [
+        "MIRROR"
+      ]
+    },
+    {
+      "name": "wdg_pole",
+      "type": "MESH",
+      "dimensions": [
+        0.12768161296844482,
+        0.12768161296844482,
+        0.1276819109916687
+      ],
+      "parent": null,
+      "materials": [],
+      "verts": 144,
+      "hide": false,
+      "modifiers": [
+        "NODES"
+      ]
+    },
+    {
+      "name": "security_camera_02_mount",
+      "type": "MESH",
+      "dimensions": [
+        0.054302651435136795,
+        0.17104384303092957,
+        0.08935894072055817
+      ],
+      "parent": "rig_security_camera_02",
+      "materials": [
+        "security_camera_02"
+      ],
+      "verts": 2382,
+      "hide": false,
+      "modifiers": [
+        "ARMATURE"
+      ]
+    },
+    {
+      "name": "security_camera_02",
+      "type": "MESH",
+      "dimensions": [
+        0.14066612720489502,
+        0.34428519010543823,
+        0.15010131895542145
+      ],
+      "parent": "rig_security_camera_02",
+      "materials": [
+        "security_camera_02",
+        "security_camera_02_glass"
+      ],
+      "verts": 4284,
+      "hide": false,
+      "modifiers": [
+        "ARMATURE"
+      ]
+    },
+    {
+      "name": "rig_security_camera_02",
+      "type": "ARMATURE",
+      "dimensions": [
+        0.12970055639743805,
+        0.4857598543167114,
+        0.2627091407775879
+      ],
+      "parent": null,
+      "materials": [],
+      "verts": 0,
+      "hide": false,
+      "modifiers": []
+    }
+  ]
+}

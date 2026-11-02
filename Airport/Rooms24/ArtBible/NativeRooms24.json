@@ -1,0 +1,23 @@
+{
+  "status": "SUCCESS",
+  "started": 1793179905.677128,
+  "base_map": "/Game/Airport23/L_Airport_Visual23",
+  "stages": [
+    "Loading preserved visual map",
+    "Importing modeled room architecture",
+    "Reassembling relocated modeled kit and equipment",
+    "Relocating existing characters and body proxies",
+    "Lighting each fixture and saving the independent map"
+  ],
+  "finished": 1793179926.297463,
+  "map": "/Game/Airport24/L_Airport_Rooms24",
+  "zones": 17,
+  "portals": 19,
+  "new_asset_families": 40,
+  "instances": 1893,
+  "standalone": 111,
+  "instanced": 1782,
+  "removed_old": 170,
+  "source_sha256": "6df085979da4d56cde1015f27da2e58ad27a70bd84ec0ae77a6b86780987f0cf",
+  "layout_sha256": "6e4222e6a6e08b1c595d448fb88fdc59b04654e5f6ebf42a04759680d48bd405"
+}

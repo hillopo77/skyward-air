@@ -1,0 +1,1170 @@
+{
+  "status": "RECORDED_NATIVE",
+  "characters": [
+    {
+      "actor": "CH12 Queue passenger 0",
+      "character": "PassengerTourist",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerTourist.SK_CH39_PassengerTourist",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_DarkSkin.CH39_DarkSkin",
+        "/Game/Characters39/Materials/CH39_Teal.CH39_Teal",
+        "/Game/Characters39/Materials/CH39_Denim.CH39_Denim",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BlackHair.CH39_BlackHair"
+      ],
+      "location": [
+        -38.4,
+        -9.9,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Queue passenger 1",
+      "character": "PassengerBusiness",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerCrew.SK_CH39_PassengerCrew",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Tan.CH39_Tan",
+        "/Game/Characters39/Materials/CH39_Navy.CH39_Navy",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BrownHair.CH39_BrownHair"
+      ],
+      "location": [
+        -29.15,
+        -11.6,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Queue passenger 3",
+      "character": "PassengerSenior",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerSenior.SK_CH39_PassengerSenior",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Peach.CH39_Peach",
+        "/Game/Characters39/Materials/CH39_Denim.CH39_Denim",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_GreyHair.CH39_GreyHair"
+      ],
+      "location": [
+        -35.7,
+        -13.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Queue passenger 4",
+      "character": "PassengerHoodie",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerHoodie.SK_CH39_PassengerHoodie",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Peach.CH39_Peach",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Olive.CH39_Olive",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BrownHair.CH39_BrownHair"
+      ],
+      "location": [
+        -29.15,
+        -14.6,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Queue passenger 6",
+      "character": "PassengerBusiness",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerCrew.SK_CH39_PassengerCrew",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Tan.CH39_Tan",
+        "/Game/Characters39/Materials/CH39_Navy.CH39_Navy",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BrownHair.CH39_BrownHair"
+      ],
+      "location": [
+        -34.2,
+        -13.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Security pilot",
+      "character": "SecurityGuard",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_SecurityGuard.SK_CH39_SecurityGuard",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_DarkSkin.CH39_DarkSkin",
+        "/Game/Characters39/Materials/CH39_Security.CH39_Security",
+        "/Game/Characters39/Materials/CH39_Navy.CH39_Navy",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Gold.CH39_Gold",
+        "/Game/Characters39/Materials/CH39_Metal.CH39_Metal",
+        "/Game/Characters39/Materials/CH39_Radio.CH39_Radio",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BlackHair.CH39_BlackHair"
+      ],
+      "location": [
+        -47.0,
+        7.6,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Gate pilot",
+      "character": "PlayerYellow",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PlayerYellow.SK_CH39_PlayerYellow",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Yellow.CH39_Yellow",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Navy.CH39_Navy",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Gold.CH39_Gold",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil"
+      ],
+      "location": [
+        -16.25,
+        -1.15,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Caf\u00e9 barista",
+      "character": "PassengerCrew",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerCrew.SK_CH39_PassengerCrew",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Tan.CH39_Tan",
+        "/Game/Characters39/Materials/CH39_Navy.CH39_Navy",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BrownHair.CH39_BrownHair"
+      ],
+      "location": [
+        -44.0,
+        32.3,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Information host",
+      "character": "PlayerBlue",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PlayerBlue.SK_CH39_PlayerBlue",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Blue.CH39_Blue",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Navy.CH39_Navy",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Gold.CH39_Gold",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil"
+      ],
+      "location": [
+        -47.4,
+        -9.4,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Waiting passenger 0",
+      "character": "PassengerTourist",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerTourist.SK_CH39_PassengerTourist",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_DarkSkin.CH39_DarkSkin",
+        "/Game/Characters39/Materials/CH39_Teal.CH39_Teal",
+        "/Game/Characters39/Materials/CH39_Denim.CH39_Denim",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BlackHair.CH39_BlackHair"
+      ],
+      "location": [
+        -21.7,
+        6.46,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Waiting passenger 1",
+      "character": "PassengerHoodie",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerHoodie.SK_CH39_PassengerHoodie",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Peach.CH39_Peach",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Olive.CH39_Olive",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BrownHair.CH39_BrownHair"
+      ],
+      "location": [
+        -21.7,
+        7.2,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Waiting passenger 2",
+      "character": "PassengerSenior",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerSenior.SK_CH39_PassengerSenior",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Peach.CH39_Peach",
+        "/Game/Characters39/Materials/CH39_Denim.CH39_Denim",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_GreyHair.CH39_GreyHair"
+      ],
+      "location": [
+        -21.7,
+        7.94,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Waiting passenger 3",
+      "character": "PassengerSenior",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerSenior.SK_CH39_PassengerSenior",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Peach.CH39_Peach",
+        "/Game/Characters39/Materials/CH39_Denim.CH39_Denim",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_GreyHair.CH39_GreyHair"
+      ],
+      "location": [
+        -15.45,
+        8.14,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Waiting passenger 4",
+      "character": "PassengerHoodie",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerHoodie.SK_CH39_PassengerHoodie",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Peach.CH39_Peach",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Olive.CH39_Olive",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BrownHair.CH39_BrownHair"
+      ],
+      "location": [
+        -15.45,
+        7.4,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Waiting passenger 5",
+      "character": "PassengerTourist",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerTourist.SK_CH39_PassengerTourist",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_DarkSkin.CH39_DarkSkin",
+        "/Game/Characters39/Materials/CH39_Teal.CH39_Teal",
+        "/Game/Characters39/Materials/CH39_Denim.CH39_Denim",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BlackHair.CH39_BlackHair"
+      ],
+      "location": [
+        -15.45,
+        6.66,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Waiting passenger 6",
+      "character": "PassengerHoodie",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerHoodie.SK_CH39_PassengerHoodie",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Peach.CH39_Peach",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Olive.CH39_Olive",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BrownHair.CH39_BrownHair"
+      ],
+      "location": [
+        -30.6,
+        23.26,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Waiting passenger 7",
+      "character": "PassengerCrew",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerCrew.SK_CH39_PassengerCrew",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Tan.CH39_Tan",
+        "/Game/Characters39/Materials/CH39_Navy.CH39_Navy",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BrownHair.CH39_BrownHair"
+      ],
+      "location": [
+        -24.85,
+        18.6,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Caf\u00e9 passenger 0",
+      "character": "PassengerCrew",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerCrew.SK_CH39_PassengerCrew",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Tan.CH39_Tan",
+        "/Game/Characters39/Materials/CH39_Navy.CH39_Navy",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BrownHair.CH39_BrownHair"
+      ],
+      "location": [
+        -38.5,
+        22.35,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Caf\u00e9 passenger 1",
+      "character": "PassengerSenior",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerSenior.SK_CH39_PassengerSenior",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Peach.CH39_Peach",
+        "/Game/Characters39/Materials/CH39_Denim.CH39_Denim",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_GreyHair.CH39_GreyHair"
+      ],
+      "location": [
+        -34.5,
+        23.65,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Gallery passenger 0",
+      "character": "PassengerSenior",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerSenior.SK_CH39_PassengerSenior",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Peach.CH39_Peach",
+        "/Game/Characters39/Materials/CH39_Denim.CH39_Denim",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_GreyHair.CH39_GreyHair"
+      ],
+      "location": [
+        -46.8,
+        31.2,
+        3.15
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Gallery passenger 1",
+      "character": "PassengerHoodie",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerHoodie.SK_CH39_PassengerHoodie",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Peach.CH39_Peach",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Olive.CH39_Olive",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BrownHair.CH39_BrownHair"
+      ],
+      "location": [
+        -42.3,
+        28.8,
+        3.15
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Cabin passenger 0",
+      "character": "PassengerTourist",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerTourist.SK_CH39_PassengerTourist",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_DarkSkin.CH39_DarkSkin",
+        "/Game/Characters39/Materials/CH39_Teal.CH39_Teal",
+        "/Game/Characters39/Materials/CH39_Denim.CH39_Denim",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BlackHair.CH39_BlackHair"
+      ],
+      "location": [
+        14.131999969482422,
+        14.175000190734863,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Cabin passenger 1",
+      "character": "PassengerBusiness",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerCrew.SK_CH39_PassengerCrew",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Tan.CH39_Tan",
+        "/Game/Characters39/Materials/CH39_Navy.CH39_Navy",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BrownHair.CH39_BrownHair"
+      ],
+      "location": [
+        17.868000030517578,
+        15.524999618530273,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Cabin passenger 2",
+      "character": "PassengerCrew",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerCrew.SK_CH39_PassengerCrew",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Tan.CH39_Tan",
+        "/Game/Characters39/Materials/CH39_Navy.CH39_Navy",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BrownHair.CH39_BrownHair"
+      ],
+      "location": [
+        14.131999969482422,
+        18.225000381469727,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Cabin passenger 3",
+      "character": "PassengerSenior",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerSenior.SK_CH39_PassengerSenior",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Peach.CH39_Peach",
+        "/Game/Characters39/Materials/CH39_Denim.CH39_Denim",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_GreyHair.CH39_GreyHair"
+      ],
+      "location": [
+        17.868000030517578,
+        19.575000762939453,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Cabin passenger 4",
+      "character": "PassengerHoodie",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerHoodie.SK_CH39_PassengerHoodie",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Peach.CH39_Peach",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Olive.CH39_Olive",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BrownHair.CH39_BrownHair"
+      ],
+      "location": [
+        14.131999969482422,
+        22.274999618530273,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Cabin passenger 5",
+      "character": "PassengerTourist",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerTourist.SK_CH39_PassengerTourist",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_DarkSkin.CH39_DarkSkin",
+        "/Game/Characters39/Materials/CH39_Teal.CH39_Teal",
+        "/Game/Characters39/Materials/CH39_Denim.CH39_Denim",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BlackHair.CH39_BlackHair"
+      ],
+      "location": [
+        17.868000030517578,
+        23.625,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Business passenger",
+      "character": "PassengerBusiness",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerCrew.SK_CH39_PassengerCrew",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Tan.CH39_Tan",
+        "/Game/Characters39/Materials/CH39_Navy.CH39_Navy",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BrownHair.CH39_BrownHair"
+      ],
+      "location": [
+        14.480000019073486,
+        7.800000190734863,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Additional waiting passenger 0",
+      "character": "PassengerTourist",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerTourist.SK_CH39_PassengerTourist",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_DarkSkin.CH39_DarkSkin",
+        "/Game/Characters39/Materials/CH39_Teal.CH39_Teal",
+        "/Game/Characters39/Materials/CH39_Denim.CH39_Denim",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BlackHair.CH39_BlackHair"
+      ],
+      "location": [
+        -30.6,
+        24.74,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Additional waiting passenger 1",
+      "character": "PassengerCrew",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerCrew.SK_CH39_PassengerCrew",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Tan.CH39_Tan",
+        "/Game/Characters39/Materials/CH39_Navy.CH39_Navy",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BrownHair.CH39_BrownHair"
+      ],
+      "location": [
+        -30.6,
+        28.26,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Additional waiting passenger 2",
+      "character": "PassengerSenior",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerSenior.SK_CH39_PassengerSenior",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Peach.CH39_Peach",
+        "/Game/Characters39/Materials/CH39_Denim.CH39_Denim",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_GreyHair.CH39_GreyHair"
+      ],
+      "location": [
+        -26.96,
+        32.2,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Additional waiting passenger 3",
+      "character": "PassengerHoodie",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerHoodie.SK_CH39_PassengerHoodie",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Peach.CH39_Peach",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Olive.CH39_Olive",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BrownHair.CH39_BrownHair"
+      ],
+      "location": [
+        -30.6,
+        29.74,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Additional waiting passenger 4",
+      "character": "PassengerTourist",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerTourist.SK_CH39_PassengerTourist",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_DarkSkin.CH39_DarkSkin",
+        "/Game/Characters39/Materials/CH39_Teal.CH39_Teal",
+        "/Game/Characters39/Materials/CH39_Denim.CH39_Denim",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BlackHair.CH39_BlackHair"
+      ],
+      "location": [
+        -28.44,
+        32.2,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Additional waiting passenger 5",
+      "character": "PassengerBusiness",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerCrew.SK_CH39_PassengerCrew",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Tan.CH39_Tan",
+        "/Game/Characters39/Materials/CH39_Navy.CH39_Navy",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BrownHair.CH39_BrownHair"
+      ],
+      "location": [
+        -27.7,
+        32.2,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Additional waiting passenger 6",
+      "character": "PassengerCrew",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerCrew.SK_CH39_PassengerCrew",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Tan.CH39_Tan",
+        "/Game/Characters39/Materials/CH39_Navy.CH39_Navy",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BrownHair.CH39_BrownHair"
+      ],
+      "location": [
+        -38.5,
+        27.15,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Additional waiting passenger 7",
+      "character": "PassengerSenior",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerSenior.SK_CH39_PassengerSenior",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Peach.CH39_Peach",
+        "/Game/Characters39/Materials/CH39_Denim.CH39_Denim",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_GreyHair.CH39_GreyHair"
+      ],
+      "location": [
+        -34.5,
+        29.15,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Arrivals passenger 0",
+      "character": "PassengerCrew",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerCrew.SK_CH39_PassengerCrew",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Tan.CH39_Tan",
+        "/Game/Characters39/Materials/CH39_Navy.CH39_Navy",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BrownHair.CH39_BrownHair"
+      ],
+      "location": [
+        -16.0,
+        -14.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Arrivals passenger 1",
+      "character": "PassengerSenior",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerSenior.SK_CH39_PassengerSenior",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Peach.CH39_Peach",
+        "/Game/Characters39/Materials/CH39_Denim.CH39_Denim",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_GreyHair.CH39_GreyHair"
+      ],
+      "location": [
+        -15.5,
+        -16.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Gate traveller",
+      "character": "PassengerHoodie",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerHoodie.SK_CH39_PassengerHoodie",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Peach.CH39_Peach",
+        "/Game/Characters39/Materials/CH39_Charcoal.CH39_Charcoal",
+        "/Game/Characters39/Materials/CH39_Olive.CH39_Olive",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BrownHair.CH39_BrownHair"
+      ],
+      "location": [
+        -27.4,
+        10.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Forecourt traveller",
+      "character": "PassengerTourist",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PassengerTourist.SK_CH39_PassengerTourist",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_DarkSkin.CH39_DarkSkin",
+        "/Game/Characters39/Materials/CH39_Teal.CH39_Teal",
+        "/Game/Characters39/Materials/CH39_Denim.CH39_Denim",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BlackHair.CH39_BlackHair"
+      ],
+      "location": [
+        -53.7,
+        -18.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Player avatar",
+      "character": "PlayerBlue",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_PlayerBlue.SK_CH39_PlayerBlue",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_Blue.CH39_Blue",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Navy.CH39_Navy",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Gold.CH39_Gold",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil"
+      ],
+      "location": [
+        -53.0,
+        -12.5,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "actor": "CH12 Security greeter",
+      "character": "SecurityGuard",
+      "mesh": "/Game/Characters39/Meshes/SK_CH39_SecurityGuard.SK_CH39_SecurityGuard",
+      "materials": [
+        "/Game/Characters39/Materials/CH39_DarkSkin.CH39_DarkSkin",
+        "/Game/Characters39/Materials/CH39_Security.CH39_Security",
+        "/Game/Characters39/Materials/CH39_Navy.CH39_Navy",
+        "/Game/Characters39/Materials/CH39_Leather.CH39_Leather",
+        "/Game/Characters39/Materials/CH39_Rubber.CH39_Rubber",
+        "/Game/Characters39/Materials/CH39_Sole.CH39_Sole",
+        "/Game/Characters39/Materials/CH39_Ivory.CH39_Ivory",
+        "/Game/Characters39/Materials/CH39_Gold.CH39_Gold",
+        "/Game/Characters39/Materials/CH39_Metal.CH39_Metal",
+        "/Game/Characters39/Materials/CH39_Radio.CH39_Radio",
+        "/Game/Characters39/Materials/CH39_Mouth.CH39_Mouth",
+        "/Game/Characters39/Materials/CH39_Eye.CH39_Eye",
+        "/Game/Characters39/Materials/CH39_Pupil.CH39_Pupil",
+        "/Game/Characters39/Materials/CH39_BlackHair.CH39_BlackHair"
+      ],
+      "location": [
+        -43.6,
+        -2.3,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ]
+}

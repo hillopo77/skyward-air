@@ -1,0 +1,11 @@
+{
+  "removed_floating_parts": [],
+  "guide": "Security preparation mounted guide38",
+  "asset": "SM_AP_PreparationGuide38",
+  "table_top_m": 1.0,
+  "base_bottom_m": 1.0,
+  "panel_top_m": 1.45,
+  "eye_height_m": 1.62,
+  "supports": "Two folded steel brackets, two bearing feet, eight captured table fixings, four panel fixings",
+  "assertion": "Feet bear on real table top; brackets intersect panel backing; panel remains below standing eye height"
+}

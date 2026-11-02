@@ -1,0 +1,641 @@
+{
+  "scope": "Exact current native camera78deg rays through exported opaque meshes; read-only, noDCC/editor",
+  "views": {
+    "85": [
+      {
+        "pixel": [
+          1285,
+          365
+        ],
+        "hits": [
+          {
+            "actor": "Window shade 20 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_Graphite.001",
+            "distance": 0.9928890477903749,
+            "point": [
+              13.873963929864082,
+              14.564913490048047,
+              2.0098298324883115
+            ],
+            "face_ray_dot": 0.8958010728350967
+          },
+          {
+            "actor": "Window shade 20 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_Graphite.001",
+            "distance": 1.012240547876706,
+            "point": [
+              13.858838914524602,
+              14.573000192642212,
+              2.018791958783186
+            ],
+            "face_ray_dot": -0.4178850506724951
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 10",
+            "asset": "SM_AP_W42WindowWallL",
+            "material": "MI_Plane_Cabin09.001",
+            "distance": 1.1742729912777752,
+            "point": [
+              13.732195337489161,
+              14.640711128463456,
+              2.093832922798851
+            ],
+            "face_ray_dot": -0.899067807101807
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 10",
+            "asset": "SM_AP_W40PressureWindows",
+            "material": "MI_Plane_Paint09",
+            "distance": 1.2387113782169898,
+            "point": [
+              13.681830684280937,
+              14.667638967054803,
+              2.123675826936043
+            ],
+            "face_ray_dot": 0.925381403733792
+          }
+        ]
+      },
+      {
+        "pixel": [
+          1278,
+          360
+        ],
+        "hits": [
+          {
+            "actor": "Window shade 20 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_Graphite.001",
+            "distance": 0.9908182632493281,
+            "point": [
+              13.875193340631208,
+              14.558662651963601,
+              2.0130230105256803
+            ],
+            "face_ray_dot": 0.8976732739059536
+          },
+          {
+            "actor": "Window shade 20 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_Graphite.001",
+            "distance": 0.9960162611309391,
+            "point": [
+              13.871128575655188,
+              14.560806564402432,
+              2.015452106473061
+            ],
+            "face_ray_dot": -0.8976732739059536
+          },
+          {
+            "actor": "Window shade 20 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_Graphite.001",
+            "distance": 0.9989102406289633,
+            "point": [
+              13.868865522307955,
+              14.562000185251236,
+              2.016804502920801
+            ],
+            "face_ray_dot": 0.41244965612908313
+          },
+          {
+            "actor": "Window shade 20 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_Graphite.001",
+            "distance": 1.0255801801658586,
+            "point": [
+              13.84800998550105,
+              14.573000192642212,
+              2.0292677327107063
+            ],
+            "face_ray_dot": -0.41244965612908313
+          },
+          {
+            "actor": "Window shade 20 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_White.001",
+            "distance": 1.065190916323827,
+            "point": [
+              13.817034918431691,
+              14.589337627149586,
+              2.0477783748589986
+            ],
+            "face_ray_dot": -0.41216458556270086
+          }
+        ]
+      },
+      {
+        "pixel": [
+          1300,
+          374
+        ],
+        "hits": [
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 10",
+            "asset": "SM_AP_W42WindowWallL",
+            "material": "MI_Plane_Cabin09.001",
+            "distance": 1.180147248817333,
+            "point": [
+              13.729461956149432,
+              14.656593256482797,
+              2.087327191942716
+            ],
+            "face_ray_dot": -0.8981532199773048
+          },
+          {
+            "actor": "SM_Plane_OuterWindowBarrel bay10 10",
+            "asset": "SM_AP_W40PressureWindows",
+            "material": "MI_Plane_Paint09",
+            "distance": 1.2450494984628784,
+            "point": [
+              13.678836926103322,
+              14.684453374814595,
+              2.1168775244014446
+            ],
+            "face_ray_dot": 0.8705146758786052
+          }
+        ]
+      },
+      {
+        "pixel": [
+          1780,
+          406
+        ],
+        "hits": [
+          {
+            "actor": "Window shade 22 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_White.001",
+            "distance": 1.3783739082065656,
+            "point": [
+              13.802276237730977,
+              15.109309764984143,
+              2.06088533793324
+            ],
+            "face_ray_dot": -0.6965171020646677
+          },
+          {
+            "actor": "Window shade 22 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_White.001",
+            "distance": 1.3803587723984407,
+            "point": [
+              13.801055511968315,
+              15.110691175057344,
+              2.061621014956274
+            ],
+            "face_ray_dot": 0.6954236531679953
+          },
+          {
+            "actor": "Window shade 22 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_Graphite.001",
+            "distance": 1.4037913810906695,
+            "point": [
+              13.786644052869963,
+              15.126999616622925,
+              2.070306159196971
+            ],
+            "face_ray_dot": -0.6959720865815895
+          },
+          {
+            "actor": "Window shade 22 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_Graphite.001",
+            "distance": 1.4195966232879602,
+            "point": [
+              13.776923555913884,
+              15.1379996240139,
+              2.076164269578345
+            ],
+            "face_ray_dot": 0.6959720865815895
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 11",
+            "asset": "SM_AP_W42WindowWallL",
+            "material": "MI_Plane_Cabin09.001",
+            "distance": 1.4873492078445165,
+            "point": [
+              13.735254546117794,
+              15.185153531659022,
+              2.101276325059766
+            ],
+            "face_ray_dot": -0.7104539871597746
+          }
+        ]
+      },
+      {
+        "pixel": [
+          1770,
+          420
+        ],
+        "hits": [
+          {
+            "actor": "Window shade 22 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_White.001",
+            "distance": 1.3840802467634992,
+            "point": [
+              13.788303773346763,
+              15.109331562296811,
+              2.0528326720029653
+            ],
+            "face_ray_dot": -0.6936454749286187
+          },
+          {
+            "actor": "Window shade 22 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_White.001",
+            "distance": 1.3860103091484222,
+            "point": [
+              13.78710216131727,
+              15.110669324155191,
+              2.053533858533452
+            ],
+            "face_ray_dot": 0.6925880232258917
+          },
+          {
+            "actor": "Window shade 22 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_Graphite.001",
+            "distance": 1.4095709175102966,
+            "point": [
+              13.77243387357127,
+              15.126999616622925,
+              2.062093364880226
+            ],
+            "face_ray_dot": -0.6931184550462943
+          },
+          {
+            "actor": "Window shade 22 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_Graphite.001",
+            "distance": 1.4254412313230218,
+            "point": [
+              13.76255338466161,
+              15.1379996240139,
+              2.0678590076734373
+            ],
+            "face_ray_dot": 0.6931184550462943
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 11",
+            "asset": "SM_AP_W42WindowWallL",
+            "material": "MI_Plane_Cabin09.001",
+            "distance": 1.4789297358359588,
+            "point": [
+              13.729252683625019,
+              15.175073493624645,
+              2.0872912390838456
+            ],
+            "face_ray_dot": -0.7156596722822788
+          }
+        ]
+      },
+      {
+        "pixel": [
+          1800,
+          435
+        ],
+        "hits": [
+          {
+            "actor": "Window shade 22 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_Graphite.001",
+            "distance": 1.3829876637464233,
+            "point": [
+              13.798959396341926,
+              15.126999616622925,
+              2.0335871360145457
+            ],
+            "face_ray_dot": -0.7064413098062613
+          },
+          {
+            "actor": "Window shade 22 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_Graphite.001",
+            "distance": 1.398558677556463,
+            "point": [
+              13.789377557443547,
+              15.1379996240139,
+              2.039031828089992
+            ],
+            "face_ray_dot": 0.7064413098062613
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 11",
+            "asset": "SM_AP_W42WindowWallL",
+            "material": "MI_Plane_CabinReveal09.001",
+            "distance": 1.4188913022477014,
+            "point": [
+              13.77686559537419,
+              15.152363430032578,
+              2.0461415052041456
+            ],
+            "face_ray_dot": -0.28962774131928015
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 11",
+            "asset": "SM_AP_W42WindowWallL",
+            "material": "MI_Plane_CabinReveal09.001",
+            "distance": 1.426258798416654,
+            "point": [
+              13.772331904617985,
+              15.157568133676167,
+              2.048717686080763
+            ],
+            "face_ray_dot": 0.26664208544383333
+          },
+          {
+            "actor": "Window shade 22 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_White.001",
+            "distance": 1.5806219723374941,
+            "point": [
+              13.677342388688176,
+              15.266616656446656,
+              2.102693615974655
+            ],
+            "face_ray_dot": -0.704505378607466
+          }
+        ]
+      }
+    ],
+    "84": [
+      {
+        "pixel": [
+          1370,
+          350
+        ],
+        "hits": [
+          {
+            "actor": "Window shade 22 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_White.001",
+            "distance": 1.5311474302284205,
+            "point": [
+              13.843424305472777,
+              15.109311171837643,
+              2.0530162837433417
+            ],
+            "face_ray_dot": -0.366143865606263
+          },
+          {
+            "actor": "Window shade 22 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_White.001",
+            "distance": 1.5349272367624418,
+            "point": [
+              13.840569170636666,
+              15.110691893236593,
+              2.055072676439484
+            ],
+            "face_ray_dot": 0.36443194723741096
+          },
+          {
+            "actor": "Window shade 22 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_Graphite.001",
+            "distance": 1.5795705945445133,
+            "point": [
+              13.80684712564383,
+              15.126999616622925,
+              2.079360764744539
+            ],
+            "face_ray_dot": -0.3652889073877121
+          },
+          {
+            "actor": "Window shade 22 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_Graphite.001",
+            "distance": 1.6096837657044054,
+            "point": [
+              13.784100679964546,
+              15.1379996240139,
+              2.0957437474907517
+            ],
+            "face_ray_dot": 0.3652889073877121
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 11",
+            "asset": "SM_AP_W42WindowWallL",
+            "material": "MI_Plane_Cabin09.001",
+            "distance": 1.6610911140294509,
+            "point": [
+              13.745269350976212,
+              15.156778158115257,
+              2.123711765079
+            ],
+            "face_ray_dot": -0.9139309735888888
+          }
+        ]
+      },
+      {
+        "pixel": [
+          1385,
+          380
+        ],
+        "hits": [
+          {
+            "actor": "Window shade 22 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_Graphite.001",
+            "distance": 1.5287717000889385,
+            "point": [
+              13.831133132308784,
+              15.126999616622925,
+              2.0187268613384353
+            ],
+            "face_ray_dot": -0.3774269347014707
+          },
+          {
+            "actor": "Window shade 22 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_Graphite.001",
+            "distance": 1.5579164334919122,
+            "point": [
+              13.808849678709763,
+              15.1379996240139,
+              2.0339539102392936
+            ],
+            "face_ray_dot": 0.3774269347014707
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 11",
+            "asset": "SM_AP_W42WindowWallL",
+            "material": "MI_Plane_Cabin09.001",
+            "distance": 1.6615691073860297,
+            "point": [
+              13.729599012141701,
+              15.177120934995369,
+              2.0881086116142393
+            ],
+            "face_ray_dot": -0.9077542552466842
+          },
+          {
+            "actor": "Window shade 22 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_White.001",
+            "distance": 1.7204507278798349,
+            "point": [
+              13.684579356618793,
+              15.1993444445286,
+              2.118872087890522
+            ],
+            "face_ray_dot": -0.9112714298585038
+          },
+          {
+            "actor": "Window shade 22 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_White.001",
+            "distance": 1.7220120195349644,
+            "point": [
+              13.68338562567363,
+              15.199933718052172,
+              2.119687805229653
+            ],
+            "face_ray_dot": 0.9112685471845097
+          }
+        ]
+      },
+      {
+        "pixel": [
+          1410,
+          370
+        ],
+        "hits": [
+          {
+            "actor": "Window shade 22 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_Graphite.001",
+            "distance": 1.4951883629950375,
+            "point": [
+              13.872356674488984,
+              15.138858700044091,
+              2.005655269598965
+            ],
+            "face_ray_dot": -0.8926153272806938
+          },
+          {
+            "actor": "Window shade 22 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_Graphite.001",
+            "distance": 1.5004158149931524,
+            "point": [
+              13.868414227168637,
+              15.140917457766086,
+              2.0084020641236813
+            ],
+            "face_ray_dot": 0.892615327280694
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 11",
+            "asset": "SM_AP_W42WindowWallL",
+            "material": "MI_Plane_CabinReveal09.001",
+            "distance": 1.5229599390827058,
+            "point": [
+              13.851411867005698,
+              15.1497961408361,
+              2.020248002955075
+            ],
+            "face_ray_dot": -0.0782461612440698
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 11",
+            "asset": "SM_AP_W42WindowWallL",
+            "material": "MI_Plane_CabinReveal09.001",
+            "distance": 1.5806070250850466,
+            "point": [
+              13.80793550417775,
+              15.172499626874924,
+              2.0505389937196368
+            ],
+            "face_ray_dot": 0.3938357966246726
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 11",
+            "asset": "SM_AP_W42WindowWallL",
+            "material": "MI_Plane_Cabin09.001",
+            "distance": 1.677051202414665,
+            "point": [
+              13.73519909481171,
+              15.210482796283346,
+              2.1012161378283376
+            ],
+            "face_ray_dot": -0.9008023340590194
+          }
+        ]
+      },
+      {
+        "pixel": [
+          920,
+          360
+        ],
+        "hits": [
+          {
+            "actor": "Window shade 20 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_Graphite.001",
+            "distance": 1.3729035438728434,
+            "point": [
+              13.870011312607426,
+              14.566440587142973,
+              1.9995636049982153
+            ],
+            "face_ray_dot": 0.9721207698366255
+          },
+          {
+            "actor": "SM_Plane_WindowWall_L bay10 10",
+            "asset": "SM_AP_W42WindowWallL",
+            "material": "MI_Plane_Cabin09.001",
+            "distance": 1.5401340937758807,
+            "point": [
+              13.732369720508531,
+              14.568443181164175,
+              2.0945206403486316
+            ],
+            "face_ray_dot": -0.9789616634204845
+          },
+          {
+            "actor": "Window shade 20 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_Graphite.001",
+            "distance": 1.5730226256674222,
+            "point": [
+              13.705300325030422,
+              14.568837022943505,
+              2.113195442813009
+            ],
+            "face_ray_dot": -0.9969091925760862
+          },
+          {
+            "actor": "Window shade 20 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_White.001",
+            "distance": 1.5946186214307905,
+            "point": [
+              13.68752541941925,
+              14.56909563604992,
+              2.125458104954099
+            ],
+            "face_ray_dot": -0.9831802875783778
+          },
+          {
+            "actor": "Window shade 20 L18 frame",
+            "asset": "SM_AP_W42ShadeFrameL",
+            "material": "MI_Plane_White.001",
+            "distance": 1.596065850253995,
+            "point": [
+              13.686334256204916,
+              14.569112966685921,
+              2.1262798720212097
+            ],
+            "face_ray_dot": 0.9831770982545416
+          }
+        ]
+      }
+    ]
+  }
+}

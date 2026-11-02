@@ -1,0 +1,34 @@
+{
+  "status": "SUCCESS",
+  "pass_id": 9,
+  "pass_name": "Materials, illumination and performance review",
+  "captures": [
+    {
+      "file": "Pass09_01_Entrance.png",
+      "sha256": "bef34311ec486f04b0a53c681bb262b3921dbdfed5cccf18b607a929dbce66a2",
+      "camera": "01_Entrance"
+    },
+    {
+      "file": "Pass09_03_Security.png",
+      "sha256": "34889607ef80f0ba350a65dbc963febeaec6d7a84c33eed8055aa59cb8c9da7a",
+      "camera": "03_Security"
+    },
+    {
+      "file": "Pass09_06_Gate.png",
+      "sha256": "f9ce1eff2881f53f2bbf21bbca34e4a0efcd994cb9f54e1da155d4994eebd127",
+      "camera": "06_Gate"
+    },
+    {
+      "file": "Pass09_05_Concourse.png",
+      "sha256": "dec002b83f46630787c80198e904ee4330de5e4c0815e5f7ec8d0e5d8f12aeef",
+      "camera": "05_Concourse"
+    },
+    {
+      "file": "Pass09_09_Apron.png",
+      "sha256": "92637296b6fd0cabfccfb24d01915b691a1e16092d6f8dc537dff452d9f5e6da",
+      "camera": "09_Apron"
+    }
+  ],
+  "runtime_sha256": "cdfa0263f3ef4fac59658b04f2a4b04296cbb0efd1e5a17bcc26db5dbe1ce8ea",
+  "native_bodies": 31
+}

@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "scope": "active same-facing axis-planar structural face candidates across different parts; exposure not yet established",
+  "eligible_faces": 3892,
+  "narrow_phase_pairs": 0,
+  "plane_tolerance_m": 0.00075,
+  "minimum_area_m2": 0.002,
+  "conflicts": [],
+  "limits": "Sealed interior contacts can be candidates; no visibility suppression applied. Does not prove non-planar/oblique clearance, lighting stability or every aircraft surface."
+}

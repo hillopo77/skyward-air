@@ -1,0 +1,70 @@
+{
+  "status": "SUCCESS",
+  "map": "/Game/Airport29/L_Airport_Checkin29",
+  "map_sha256": "1574f00649237bd55fc6f743f21b1dcc890984646093ba4cddc5d988eef57857",
+  "source_sha256": "12a166fb9b93a3b5e6506fd1f10d1329a93becb3367e5928dfb067c5fbe703cf",
+  "layout_sha256": "dcb2b65c3283ae594ab58adc7f21a8ddc345b868d227cf9f734de3e4845eaded",
+  "room_boundaries_unchanged": true,
+  "mesh_imports": 8,
+  "room_redesign": true,
+  "counters": 2,
+  "queue_width_m": 1.9,
+  "queue_passengers": 3,
+  "checks": 36,
+  "teleports": 0,
+  "scope": "Check-in room approach, counter, rotated physical baggage belt and landside exit only",
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin29\\Screenshots\\QA29_Arrival.png",
+      "sha256": "e3933531503133abf9d2095951a86ef7820cf80ef77e1e877eccb5052751ef0e",
+      "view": "QA29_Arrival"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin29\\Screenshots\\QA29_Queue.png",
+      "sha256": "8f4cfff824cbd67b39c96838c87e16d04e9b0ff5d26455d0c0b70dfc114bf169",
+      "view": "QA29_Queue"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin29\\Screenshots\\QA29_Service.png",
+      "sha256": "198c1edda892f54d83f718cca26f316ae7c6fa0111ddcc79dae9416a8ad069c2",
+      "view": "QA29_Service"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin29\\Screenshots\\01_CheckinArrival.png",
+      "sha256": "f7c2ebac584fcb8d6cad1d1baab480c648a8d3fe0666ac3e13d191a0535a61ce",
+      "view": "01_CheckinArrival"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin29\\Screenshots\\02_QueueAndCounters.png",
+      "sha256": "81be27667eb47a615c43811c4360fbe612b3b5164d0ee216bddb6714c199113c",
+      "view": "02_QueueAndCounters"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin29\\Screenshots\\03_ServiceDesk.png",
+      "sha256": "b701a08bb304a8fadf2f31b41256f174376df925e75407cf93a35e6259d61366",
+      "view": "03_ServiceDesk"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin29\\Screenshots\\04_Kiosks.png",
+      "sha256": "a882744695f3649530ff56e7dd5a828029b2af61b48db6b6b9142331d0ca6f52",
+      "view": "04_Kiosks"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin29\\Screenshots\\05_WaitingBay.png",
+      "sha256": "ac68d3222cad6655aa03c75ed6c180c151d7f970b4e6cab59dee91ef632c0232",
+      "view": "05_WaitingBay"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin29\\Screenshots\\06_RoomOverview.png",
+      "sha256": "abdae62a993d3467f43901cfd7674d8bf68a0487263732e832ce671ef52b878d",
+      "view": "06_RoomOverview"
+    }
+  ],
+  "dependencies": {
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_runtime.py": "0fc69ff233d58e9da196f5c571316385c4331040c660aa39e9ffb55f8474d9fb",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_journey22.py": "af124695cc7c99bb4039321bc6a6bc7185d48f93c7e778428e39576e23cfaddf",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_checkin29.py": "ba1fdd0e1dba93acf18edb6364e3342b26ce644c88ff2156b91e06bedf2cce1f",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\checkin29_qa.py": "945a8a226abd3b8ae46a4310ae0c5b643f131260d68c9b9d2052bffe42446d5d",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_rooms24.py": "025124560ccbe3933567a74d7dc46d71e41e6be487c4cbc80679b65f6298eaa6"
+  }
+}

@@ -1,0 +1,43 @@
+{
+ "status": "SUCCESS",
+ "graded": [
+  "PostProcessVolume",
+  "Airport clean daylight grade",
+  "Airport26 journey overlay",
+  "Entrance27 local surface separation",
+  "Checkin33 warm welcoming grade",
+  "AP38 warm grade entrancefoyer",
+  "AP38 warm grade checkin",
+  "AP38 warm grade publicreturn",
+  "AP38 warm grade landsidecorridor",
+  "AP38 warm grade security",
+  "AP38 warm grade recovery",
+  "AP38 warm grade concourse",
+  "AP38 warm grade gate07",
+  "AP38 warm grade gate08",
+  "AP38 warm grade cafefoyer",
+  "AP38 warm grade cafe",
+  "AP38 warm grade amenitylobby",
+  "AP38 warm grade amenities",
+  "AP38 warm grade operations",
+  "AP38 warm grade gate07entry",
+  "AP38 warm grade baggageservice",
+  "AP38 warm grade arrivals",
+  "AP38 warm grade arrivalsreturn",
+  "AP38 warm grade publicreturneast"
+ ],
+ "lights": 74,
+ "seats": [
+  [
+   "Landside corridor bench46 0",
+   0.0
+  ],
+  [
+   "Landside corridor bench46 1",
+   0.0
+  ]
+ ],
+ "removed": [],
+ "sun": "Airport daylight",
+ "sky": "Airport hemisphere fill"
+}

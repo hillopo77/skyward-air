@@ -1,0 +1,273 @@
+{
+  "status": "FAILED",
+  "phase": "steps",
+  "step": 72,
+  "elapsed_s": 80.25,
+  "checks": [
+    {
+      "name": "Security entrance refuses entry before check-in",
+      "passed": true
+    },
+    {
+      "name": "Gate rejects boarding without check-in",
+      "passed": true
+    },
+    {
+      "name": "Bag drop requires check-in",
+      "passed": true
+    },
+    {
+      "name": "Spectator inside aircraft does not count as boarding",
+      "passed": true
+    },
+    {
+      "name": "Airfield position cannot count as cabin boarding",
+      "passed": true
+    },
+    {
+      "name": "Walked into entrancefoyer",
+      "passed": true,
+      "position": [
+        -46.21978099457513,
+        -12.5,
+        1.62
+      ]
+    },
+    {
+      "name": "Usable pickup target Physical luggage 01",
+      "passed": true,
+      "selected": "Physical luggage 01",
+      "visible": true
+    },
+    {
+      "name": "Suitcase picked up through interaction",
+      "passed": true
+    },
+    {
+      "name": "Walked into checkin",
+      "passed": true,
+      "position": [
+        -39.20788870644491,
+        -13.013338960277219,
+        1.62
+      ]
+    },
+    {
+      "name": "Usable checkin target Check-in desk 01",
+      "passed": true,
+      "selected": "Check-in desk 01",
+      "visible": true
+    },
+    {
+      "name": "Check-in issued a real journey ticket",
+      "passed": true
+    },
+    {
+      "name": "Usable bagdrop target Bag drop belt 01",
+      "passed": true,
+      "selected": "Bag drop belt 01",
+      "visible": true
+    },
+    {
+      "name": "Checked bag is a native physical body on the belt",
+      "passed": true
+    },
+    {
+      "name": "Accepted suitcase is transported by conveyor forces",
+      "passed": true,
+      "travel_m": 0.49542015285297936
+    },
+    {
+      "name": "Walked into landsidecorridor",
+      "passed": true,
+      "position": [
+        -30.00819762457034,
+        -6.19970916414167,
+        1.62
+      ]
+    },
+    {
+      "name": "Screening entry24 controlled door opens only after clearance",
+      "passed": true
+    },
+    {
+      "name": "Walked into security",
+      "passed": true,
+      "position": [
+        -45.471116815412714,
+        -1.4671719772698042,
+        1.62
+      ]
+    },
+    {
+      "name": "Usable security target Security portal 01",
+      "passed": true,
+      "selected": "Security portal 01",
+      "visible": true
+    },
+    {
+      "name": "Full security traversal cleared the ticket",
+      "passed": true
+    },
+    {
+      "name": "Screening exit24 controlled door opens only after clearance",
+      "passed": true
+    },
+    {
+      "name": "Walked into recovery",
+      "passed": true,
+      "position": [
+        -34.201033552199064,
+        3.4997955153638567,
+        1.62
+      ]
+    },
+    {
+      "name": "Walked into concourse",
+      "passed": true,
+      "position": [
+        -30.66852595557953,
+        1.5085725751175543,
+        1.62
+      ]
+    },
+    {
+      "name": "Walked into cafefoyer",
+      "passed": true,
+      "position": [
+        -33.82988645963904,
+        8.491086716542462,
+        1.62
+      ]
+    },
+    {
+      "name": "Walked into cafe",
+      "passed": true,
+      "position": [
+        -33.98306516154826,
+        10.435079731989468,
+        1.62
+      ]
+    },
+    {
+      "name": "Gallery reached on supported stairs",
+      "passed": true,
+      "height": 4.77
+    },
+    {
+      "name": "Gallery descent restores normal eye height",
+      "passed": false,
+      "height": 1.9248533232099703
+    },
+    {
+      "name": "Walked into amenitylobby",
+      "passed": true,
+      "position": [
+        -24.712572350703837,
+        -2.9922641174115836,
+        1.9248533232099703
+      ]
+    },
+    {
+      "name": "Route is walkable",
+      "passed": false,
+      "goal": [
+        -22.2,
+        -7,
+        1.62
+      ],
+      "position": [
+        -22.870652682705686,
+        -6.999928677817245,
+        1.9248533232099703
+      ],
+      "blocker": "Walls24 modeled architecture"
+    }
+  ],
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Rooms24\\ArtBible\\RouteScreenshots\\01_NewConcourseRoute.png",
+      "sha256": "87f310d31dd8089e956284e7181b33e09e287b53c64b952097e001e0299f6c8a",
+      "name": "01_NewConcourseRoute",
+      "player": [
+        -30.66852595557953,
+        1.5085725751175543,
+        1.62
+      ],
+      "stage": "gate"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Rooms24\\ArtBible\\RouteScreenshots\\02_GalleryReached.png",
+      "sha256": "c5db3331bb1a8ddf31f8dea35a78ee174709792c99ebb6223aa22cd8a6d94277",
+      "name": "02_GalleryReached",
+      "player": [
+        -43.40669557698281,
+        14.820378522954366,
+        4.77
+      ],
+      "stage": "gate"
+    }
+  ],
+  "continuous_walk": true,
+  "main_route_resets": 0,
+  "ticket": {
+    "id": "SW-SA107-LOCAL-01",
+    "flight": "SA107",
+    "destination": "Azure Bay",
+    "gate": "A07",
+    "cabin": "Economy",
+    "seat": "03E",
+    "checked_bags": [
+      "Physical luggage 01"
+    ],
+    "security_cleared": true,
+    "gate_scanned": false,
+    "aboard": false
+  },
+  "journey": {
+    "checked_in": true,
+    "bag_accepted": true,
+    "security": true,
+    "boarding": false,
+    "aboard": false
+  },
+  "seat": null,
+  "events": [
+    {
+      "event": "Continuous passenger journey started",
+      "elapsed_s": 3.875
+    },
+    {
+      "event": "Boarding pass issued",
+      "elapsed_s": 9.969000000000051,
+      "actor": "Check-in desk 01"
+    },
+    {
+      "event": "Bag placement requested",
+      "elapsed_s": 10.969000000000051,
+      "actor": "Physical luggage 01"
+    },
+    {
+      "event": "Suitcase placed using native physics",
+      "elapsed_s": 11.922000000000025,
+      "actor": "Physical luggage 01"
+    },
+    {
+      "event": "Checked suitcase accepted on physical belt",
+      "elapsed_s": 11.922000000000025,
+      "actor": "Physical luggage 01",
+      "belt": "Bag drop belt 01"
+    },
+    {
+      "event": "Security cleared by full portal traversal",
+      "elapsed_s": 25.96900000000005,
+      "lane": 0
+    }
+  ],
+  "dependencies": {
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_rooms24_qa.py": "2b85fd42ac187c132573d1b814099f05442de4b96c8859db9c8c88fec8769d85",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_journey22.py": "d6823d40706ec3e8511fb9d6f3bfe7e58f7dc71cfffb9a177276d6b96105312e",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_runtime.py": "ca736a0e547809c05b37b5bf2e9bbd0c2373615ef9594d76f0af96cdbe814eb0",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\characters12_runtime.py": "bbea4d595c31465a7eb4d958cbd8d986aa250dd93b3d72b6553a26cda39ef4ba"
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "status": "SUCCESS",
+  "checks": [
+    {
+      "name": "Clear passage to [-48.5, -12.5]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Clear passage to [-46, -12.5]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Entry centre is unobstructed",
+      "passed": true,
+      "blocker": null
+    },
+    {
+      "name": "Check-in entrance is unobstructed",
+      "passed": true,
+      "blocker": null
+    },
+    {
+      "name": "North route left is unobstructed",
+      "passed": true,
+      "blocker": null
+    },
+    {
+      "name": "North route right is unobstructed",
+      "passed": true,
+      "blocker": null
+    },
+    {
+      "name": "Check-in queue hidden from entrance",
+      "passed": true,
+      "blocker": "Foyer screened approaches25",
+      "impact": [
+        -43.1910009765625,
+        -13.338263003700659,
+        1.62
+      ]
+    },
+    {
+      "name": "Security hidden from foyer",
+      "passed": true,
+      "blocker": "Foyer screened approaches25",
+      "impact": [
+        -46.0,
+        -6.1775,
+        1.62
+      ]
+    },
+    {
+      "name": "Scanner hidden from entry angle",
+      "passed": true,
+      "blocker": "Walls24 modeled architecture",
+      "impact": [
+        -44.507001953125,
+        -8.003380577843467,
+        1.62
+      ]
+    },
+    {
+      "name": "Scanner hidden from welcome angle",
+      "passed": true,
+      "blocker": "Foyer warm envelope25",
+      "impact": [
+        -43.58188644688644,
+        -8.1925,
+        1.62
+      ]
+    },
+    {
+      "name": "Scanner hidden beside corridor entrance",
+      "passed": true,
+      "blocker": "Foyer warm envelope25",
+      "impact": [
+        -44.44437622680593,
+        -8.186707506828512,
+        1.62
+      ]
+    },
+    {
+      "name": "Clear passage to [-46, -15.9]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Clear passage to [-47.25, -16.0]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Aim selects seat",
+      "passed": true,
+      "selected": "Foyer two-seat waiting bench25",
+      "visible": true
+    },
+    {
+      "name": "Foyer seat is usable",
+      "passed": true
+    },
+    {
+      "name": "Standing restores 1.62m eye height",
+      "passed": true
+    },
+    {
+      "name": "Clear passage to [-45.7, -16.0]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Aim selects pickup",
+      "passed": true,
+      "selected": "Physical luggage 01",
+      "visible": true
+    },
+    {
+      "name": "Rack suitcase is a usable native physics body",
+      "passed": true
+    },
+    {
+      "name": "Clear passage to [-46, -15]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Clear passage to [-42, -15]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Clear passage to [-42, -13]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Clear passage to [-40.5, -13]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Clear passage to [-42, -13]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Clear passage to [-42, -15]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Clear passage to [-46, -15]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Clear passage to [-46, -10.05]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Aim selects information",
+      "passed": true,
+      "selected": "Foyer information and departures25",
+      "visible": true
+    },
+    {
+      "name": "Clear passage to [-46, -8.5]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Clear passage to [-45.2, -7.2]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Clear passage to [-40.4, -7.2]",
+      "passed": true,
+      "eye_height_m": 1.62
+    },
+    {
+      "name": "Clear passage to [-40.4, -5.9]",
+      "passed": true,
+      "eye_height_m": 1.62
+    }
+  ],
+  "step": 27,
+  "elapsed_s": 20.32799999999952
+}

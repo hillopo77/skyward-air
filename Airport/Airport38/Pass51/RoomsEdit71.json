@@ -1,0 +1,98 @@
+{
+ "status": "SUCCESS",
+ "materials": [
+  "MI_AP_P71SecStone",
+  "MI_AP_P71SecOpal",
+  "MI_AP_P71Mirror",
+  "MI_AP_P71Porcelain",
+  "MI_AP_P71SecGreen",
+  "MI_AP_P71SecShell",
+  "MI_AP_P71SecTunnel",
+  "MI_AP_P71SecCurtain",
+  "MI_AP_P71SecLaneFloor"
+ ],
+ "swaps": [],
+ "lights": [
+  [
+   "P71 security line -45.75",
+   5000
+  ],
+  [
+   "P71 security line -39.25",
+   5000
+  ],
+  [
+   "P71 security washer W",
+   1500
+  ],
+  [
+   "P71 security washer E",
+   1500
+  ],
+  [
+   "P71 security washer S",
+   1500
+  ],
+  [
+   "P71 security washer N",
+   1500
+  ],
+  [
+   "P71 security feature spill",
+   900
+  ],
+  [
+   "P71 security tunnel -43.15",
+   30
+  ],
+  [
+   "P71 security tunnel -38.05",
+   30
+  ]
+ ],
+ "grade": {
+  "changed": "AP38 warm grade security",
+  "white_temp": 5600.0,
+  "exposure": 6.0
+ },
+ "grades_here": [
+  {
+   "label": "AP38 warm grade security",
+   "priority": 1538.0,
+   "box": [
+    -49.0,
+    -36.0,
+    -4.0,
+    10.0
+   ],
+   "white_temp": [
+    true,
+    5600.0
+   ],
+   "exposure": [
+    true,
+    6.0,
+    6.0
+   ]
+  }
+ ],
+ "wc": {
+  "Recycling24_1810": "hidden",
+  "Toilet24_1798": "hidden",
+  "Toilet24_1803": "hidden",
+  "Vanity24_1808": "hidden"
+ },
+ "bench": {
+  "before": [
+   -25.54,
+   -6.318
+  ],
+  "after": [
+   -25.54,
+   -6.318
+  ],
+  "back": -25.88,
+  "wall": -25.91,
+  "yaw": 90
+ }
+}

@@ -1,0 +1,7 @@
+{
+  "status": "SUCCESS",
+  "source_sha256": "4287c2149b322615cc2830b50e5ab233b49f2bdbcc9c5751129dd406f50c7e55",
+  "changed_placements": 29,
+  "exported_meshes": 1,
+  "retained_modeling": true
+}

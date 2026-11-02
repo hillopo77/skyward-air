@@ -1,0 +1,16 @@
+{
+ "status": "ABORTED",
+ "started": 1793451298.6351345,
+ "group": "A",
+ "control": {
+  "expected": "a floor or ground actor",
+  "got": null,
+  "passed": false
+ },
+ "solid": [],
+ "not_solid": [],
+ "reverted": [],
+ "tunnels": [],
+ "rejected": [],
+ "error": "Trace control found no floor under the check-in hall at z 1.4 -> -1.0. Physics queries are not answering in this session, so nothing here could be verified. No change made."
+}

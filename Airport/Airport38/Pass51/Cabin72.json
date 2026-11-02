@@ -1,0 +1,118 @@
+{
+ "status": "SUCCESS",
+ "panic": 6,
+ "floor": 6,
+ "cockpit": [
+  [
+   "Cockpit status pushlight 112",
+   "green",
+   [
+    15.885,
+    -4.562,
+    1.142
+   ],
+   "y",
+   -1
+  ],
+  [
+   "Cockpit status pushlight 212",
+   "red",
+   [
+    16.115,
+    -4.562,
+    1.142
+   ],
+   "y",
+   -1
+  ],
+  [
+   "Cockpit emergency test 112",
+   "red",
+   [
+    15.687,
+    -4.47,
+    1.086
+   ],
+   "z",
+   -1
+  ],
+  [
+   "Cockpit emergency test 212",
+   "red",
+   [
+    16.313,
+    -4.47,
+    1.086
+   ],
+   "z",
+   -1
+  ],
+  [
+   "Cockpit side pushbutton 0112",
+   "amber",
+   [
+    14.63,
+    -4.37,
+    1.0
+   ],
+   "y",
+   -1
+  ],
+  [
+   "Cockpit side pushbutton 0212",
+   "amber",
+   [
+    14.741,
+    -3.498,
+    1.13
+   ],
+   "y",
+   -1
+  ],
+  [
+   "Cockpit side pushbutton 0312",
+   "amber",
+   [
+    14.852,
+    -4.505,
+    1.0
+   ],
+   "y",
+   -1
+  ],
+  [
+   "Cockpit side pushbutton 0412",
+   "amber",
+   [
+    17.148,
+    -4.505,
+    1.0
+   ],
+   "y",
+   -1
+  ],
+  [
+   "Cockpit side pushbutton 0512",
+   "amber",
+   [
+    17.259,
+    -3.498,
+    1.13
+   ],
+   "y",
+   -1
+  ],
+  [
+   "Cockpit side pushbutton 0612",
+   "amber",
+   [
+    17.37,
+    -4.37,
+    1.0
+   ],
+   "y",
+   -1
+  ]
+ ],
+ "ribs_hidden": 13
+}

@@ -1,0 +1,14 @@
+{
+ "status": "SUCCESS",
+ "asset": "SM_AP_P50Landmarks",
+ "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass50\\LandmarkBuild\\SM_AP_P50Landmarks.fbx",
+ "materials": [
+  "MI_AP_P38AGold",
+  "MI_AP_P27Steel",
+  "MI_AP_P34Cream",
+  "MI_AP_P38ANavy",
+  "MI_AP_Glass39_Terminal",
+  "MI_AP_DarkSteel"
+ ],
+ "polygons": 4717
+}

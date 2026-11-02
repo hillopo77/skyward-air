@@ -1,0 +1,27 @@
+{
+  "status": "READY",
+  "pass_id": 4,
+  "runtime_sha256": "cb71573c3626e1e41e1d4ff77d8698cde23dea7052d46f92f1a550abec8d3cdc",
+  "journey": {
+    "checked_in": false,
+    "bag_accepted": false,
+    "security": false,
+    "boarding": false
+  },
+  "held": null,
+  "driving": null,
+  "spectator": false,
+  "native_physics_bodies": 0,
+  "events": [],
+  "frame_statistics": {
+    "frames": 420,
+    "average_fps": 51.3392880062099,
+    "p95_ms": 17.199099998833844,
+    "maximum_ms": 660.4280000028666
+  },
+  "player_source": [
+    -78.0,
+    -58.0,
+    1.62
+  ]
+}

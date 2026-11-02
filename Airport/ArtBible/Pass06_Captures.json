@@ -1,0 +1,39 @@
+{
+  "status": "SUCCESS",
+  "pass_id": 6,
+  "pass_name": "Landside, apron, runway and ground service",
+  "captures": [
+    {
+      "file": "Pass06_01_Entrance.png",
+      "sha256": "b268b41c314c447e208d5bdbf526301f19972f07a4544303799de37e7a5bd42e",
+      "camera": "01_Entrance"
+    },
+    {
+      "file": "Pass06_03_Security.png",
+      "sha256": "2e21dd3c6f6c7586844015478d034960f358182c7f725824735171b343d3d8d1",
+      "camera": "03_Security"
+    },
+    {
+      "file": "Pass06_06_Gate.png",
+      "sha256": "f7aa3d807eaa198a5c858f2b64bc5dd10b4cb67bd4a2aad77ef77c33966540a6",
+      "camera": "06_Gate"
+    },
+    {
+      "file": "Pass06_09_Apron.png",
+      "sha256": "058f818baedc20fb3174ba67244d996e2d11a650219567a71a231b22a0441174",
+      "camera": "09_Apron"
+    },
+    {
+      "file": "Pass06_10_Runway.png",
+      "sha256": "5c124edf7768cfccf5a3b5f14ba69255542d7e0cd5da5a7b5fc7bd005753ca2c",
+      "camera": "10_Runway"
+    },
+    {
+      "file": "Pass06_11_Overview.png",
+      "sha256": "cce05be9d1e4c4106e9887b1b9099cb5d91f8b76ee5a7bff227c587ef50f02c6",
+      "camera": "11_Overview"
+    }
+  ],
+  "runtime_sha256": "cb71573c3626e1e41e1d4ff77d8698cde23dea7052d46f92f1a550abec8d3cdc",
+  "native_bodies": 0
+}

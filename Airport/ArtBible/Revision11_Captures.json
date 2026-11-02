@@ -1,0 +1,129 @@
+{
+  "status": "SUCCESS",
+  "pass_id": 10,
+  "pass_name": "Scrutiny, route verification and final corrections",
+  "captures": [
+    {
+      "file": "Revision11_01_Entrance.png",
+      "sha256": "36a56772d74bfd88cbdf5f39fb699576cf0327dd69f2b3634962511b8680ba74",
+      "camera": "01_Entrance"
+    },
+    {
+      "file": "Revision11_03_Security.png",
+      "sha256": "b2624a8ca76e8e4e4ee6d223f20d96e4b4980659a6d910aa003db02f510f3df1",
+      "camera": "03_Security"
+    },
+    {
+      "file": "Revision11_06_Gate.png",
+      "sha256": "e613746dc1ce0bdc3da8ef59a36a73225bff09cdd7e829223c41a54ed975e193",
+      "camera": "06_Gate"
+    },
+    {
+      "file": "Revision11_02_Departures.png",
+      "sha256": "0ee9920f8ff9055a6c2780ec4528d6c0f70e80905cba71b7cef1312ce41579a7",
+      "camera": "02_Departures"
+    },
+    {
+      "file": "Revision11_04_Baggage.png",
+      "sha256": "4fff1827f9545831ac9005efbe305af678625123bc9f9f522cd8985036dd0afa",
+      "camera": "04_Baggage"
+    },
+    {
+      "file": "Revision11_05_Concourse.png",
+      "sha256": "05eefc5e41285515ed5a6151007746e2b3d987fcf2147838cd407d78a57e7762",
+      "camera": "05_Concourse"
+    },
+    {
+      "file": "Revision11_07_BoardingBridge.png",
+      "sha256": "e17cb300f7a3641ab92a47cd0d8cd714c4c34d41829c2b25d9757f70c7dc78a2",
+      "camera": "07_BoardingBridge"
+    },
+    {
+      "file": "Revision11_08_Lounge.png",
+      "sha256": "73b96674b51a4bc5a2e19fdd2fd9ec336a8aa77551b65c8ce5f7a3381a44d04d",
+      "camera": "08_Lounge"
+    },
+    {
+      "file": "Revision11_09_Apron.png",
+      "sha256": "23942171b060c343f3dc86e2e22375e013aae04c22c1339293bc15803b3ba2fd",
+      "camera": "09_Apron"
+    },
+    {
+      "file": "Revision11_10_Runway.png",
+      "sha256": "66cfe21292d49ada855978a84d6f1ff52b6cb7e105a8b5b0c3885787e2e3eaf8",
+      "camera": "10_Runway"
+    },
+    {
+      "file": "Revision11_11_Overview.png",
+      "sha256": "378633834793f39029ebf0ec55b9dbaccdc4a38a6ca28499f0824473fa186bd3",
+      "camera": "11_Overview"
+    },
+    {
+      "file": "Revision11_12_Cafe.png",
+      "sha256": "40baf576c40093efc42c117fb090c42d2f487f9960e4c577938e722fee2f8269",
+      "camera": "12_Cafe"
+    },
+    {
+      "file": "Revision11_13_Restrooms.png",
+      "sha256": "5ff68af01ac727c4d6ce090c674815104b7672e5401149de9ac17155b5e858b6",
+      "camera": "13_Restrooms"
+    },
+    {
+      "file": "Revision11_14_CheckinDetail.png",
+      "sha256": "7a2aa9d11a08934b43267e167e5d2d9d97ee559c1c66990ba93bf1c72c83ecdf",
+      "camera": "14_CheckinDetail"
+    },
+    {
+      "file": "Revision11_15_GateSeating.png",
+      "sha256": "30a503434bd2c9f44107090e12c75b600e84cd4ef50049293e819f4ac98e0560",
+      "camera": "15_GateSeating"
+    },
+    {
+      "file": "Revision11_16_Tug.png",
+      "sha256": "970978e5b215bd3f1511ab022eb30853642bb1e26662f0a921da0e7daf05b2c7",
+      "camera": "16_Tug"
+    },
+    {
+      "file": "Revision11_17_EntrySequence.png",
+      "sha256": "1de5bbed62e0aed6844a8a7d3bf6bae07e67f09fee26f2d72b23a04e1a1176d1",
+      "camera": "17_EntrySequence"
+    },
+    {
+      "file": "Revision11_18_GateRoom.png",
+      "sha256": "79fe57f1837fe8717063286b40a83041216452f4d762c2e87e4f6e5f81bd0117",
+      "camera": "18_GateRoom"
+    },
+    {
+      "file": "Revision11_19_WaitingRoom.png",
+      "sha256": "38c56a4cf5355e363b16ae08b08cb065aa2d48b6e2860479468236b21cf29092",
+      "camera": "19_WaitingRoom"
+    },
+    {
+      "file": "Revision11_20_SeatBack17.png",
+      "sha256": "083addcddff15dcb67c4486fcaa78cc8c093717934ec59c5657a3cc62bdc862f",
+      "camera": "20_SeatBack17"
+    },
+    {
+      "file": "Revision11_21_PilotReach17.png",
+      "sha256": "f64c10723deb44f08079a964e3c0670d029d2f68bf43e90657ac15f84f777b61",
+      "camera": "21_PilotReach17"
+    },
+    {
+      "file": "Revision11_22_Extinguisher11.png",
+      "sha256": "d6315f3b0c660e98714da8d0b1874dc998df4e953fbc8413f67e67473d73d871",
+      "camera": "22_Extinguisher11"
+    },
+    {
+      "file": "Revision11_24_StairStructure.png",
+      "sha256": "3b6bd2e24dba1f6883739c9ae82982e5b82fec55c65a068e4dd400f344587a48",
+      "camera": "24_StairStructure"
+    },
+    {
+      "file": "Revision11_25_SeatBackStowed.png",
+      "sha256": "a85070b8ca362773d134a155943e711cc57a8981497237902c2c044acb7db95d",
+      "camera": "25_SeatBackStowed"
+    }
+  ],
+  "runtime_sha256": "0b7dca7c2885693f048e33fb13361dd9dc7e2e9c2cc1557407b561d2b98bf35a",
+  "native_bodies": 46
+}

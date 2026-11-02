@@ -1,0 +1,94 @@
+{
+  "source_sha256": "cb1bb7a948cf9d4cfb5b8995c6e7eaf8effc1f56796d3ad7ca92caee2716426f",
+  "helper_sha256": "99f26f02acf6208dbd872cee6960e0e2475bbe58f1ffcc5dc2d58d6c27928396",
+  "changed_assets": [
+    "SM_Plane_Lavatory_L",
+    "SM_Plane_Lavatory_R"
+  ],
+  "nonfinite": [],
+  "nonmanifold": [],
+  "new_mesh_count": 54,
+  "modified_mesh_count": 72,
+  "standing_prism_intrusions": [],
+  "interaction_and_navigation_unchanged": true,
+  "moving_instances_unchanged": true,
+  "source_unchanged": true,
+  "construction": {
+    "revision": "12",
+    "changed_assets": [
+      "SM_Plane_Lavatory_L",
+      "SM_Plane_Lavatory_R"
+    ],
+    "construction": [
+      {
+        "asset": "SM_Plane_Lavatory_R",
+        "counter_underside_z": 0.928,
+        "carcass_original_top_z": 0.91,
+        "collar_z": [
+          0.825,
+          0.928
+        ],
+        "wall_inner_x": 0.75,
+        "counter_outboard_x": 0.749,
+        "counter_front_y": -0.62,
+        "carcass_front_y": -0.607,
+        "waste_hinge_z": 0.847,
+        "collar_lower_front_z": 0.852,
+        "counter_cove_wall_overlap_m": 0.002,
+        "roll_spindle_local": [
+          0.64,
+          0.66,
+          0.67
+        ],
+        "hood_hinge_local": [
+          0.708,
+          0.66,
+          0.692
+        ],
+        "floor_pan_top_z": 0.05,
+        "toilet_foundation_z": [
+          0.049,
+          0.084
+        ],
+        "moving_parts_unchanged": true
+      },
+      {
+        "asset": "SM_Plane_Lavatory_L",
+        "counter_underside_z": 0.928,
+        "carcass_original_top_z": 0.91,
+        "collar_z": [
+          0.825,
+          0.928
+        ],
+        "wall_inner_x": -0.75,
+        "counter_outboard_x": -0.749,
+        "counter_front_y": -0.62,
+        "carcass_front_y": -0.607,
+        "waste_hinge_z": 0.847,
+        "collar_lower_front_z": 0.852,
+        "counter_cove_wall_overlap_m": 0.002,
+        "roll_spindle_local": [
+          -0.64,
+          0.66,
+          0.67
+        ],
+        "hood_hinge_local": [
+          -0.708,
+          0.66,
+          0.692
+        ],
+        "floor_pan_top_z": 0.05,
+        "toilet_foundation_z": [
+          0.049,
+          0.084
+        ],
+        "moving_parts_unchanged": true
+      }
+    ],
+    "interactions": [],
+    "navigation_bounds": [],
+    "limits": [
+      "Existing room and all moving actors are retained."
+    ]
+  }
+}

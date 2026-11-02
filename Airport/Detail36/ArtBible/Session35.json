@@ -1,0 +1,15 @@
+{
+  "status": "READY",
+  "map": "/Game/Airport36/L_Airport_Detail36",
+  "zone": "gate07",
+  "player": [
+    -18.335483324956105,
+    0.28847925030837296,
+    2.495254667112283
+  ],
+  "viewport": [
+    1920,
+    1080
+  ],
+  "updated": 1793276168.789404
+}

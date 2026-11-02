@@ -1,0 +1,16 @@
+{"rooms": [
+ {"name": "entrancefoyer",    "rect": [-49, -43, -18, -8],    "ceiling": 3.6, "axis": "y", "pitch": 0.25, "lights": [-46.0]},
+ {"name": "checkin",          "rect": [-43, -26, -18, -8],    "ceiling": 3.8, "axis": "x", "pitch": 0.25, "lights": [-15.5, -10.5]},
+ {"name": "landsidecorridor", "rect": [-49, -26, -8, -4],     "ceiling": 3.4, "axis": "x", "pitch": 0.25, "lights": [-6.0]},
+ {"name": "publicreturn",     "rect": [-49, -26, -22, -18],   "ceiling": 3.2, "axis": "x", "pitch": 0.25, "lights": [-20.0]},
+ {"name": "security",         "rect": [-49, -36, -4, 10],     "ceiling": 3.5, "axis": "y", "pitch": 0.25, "lights": [-45.75, -39.25]},
+ {"name": "recovery",         "rect": [-36, -32, 0, 10],      "ceiling": 3.4, "axis": "y", "pitch": 0.25, "lights": [-34.0]},
+ {"name": "concourse",        "rect": [-32, -26, -4, 14],     "ceiling": 3.4, "axis": "y", "pitch": 0.25, "lights": [-29.0]},
+ {"name": "gate07",           "rect": [-23, -14, -3, 10],     "ceiling": 3.4, "axis": "y", "pitch": 0.25, "lights": [-20.75, -16.25]},
+ {"name": "gate07entry",      "rect": [-26, -23, -1, 10],     "ceiling": 3.4, "axis": "y", "pitch": 0.25, "lights": [-24.5]},
+ {"name": "gate08",           "rect": [-32, -24, 14, 34],     "ceiling": 3.8, "axis": "y", "pitch": 0.25, "lights": [-30.0, -26.0]},
+ {"name": "cafefoyer",        "rect": [-38, -32, 10, 16],     "ceiling": 3.4, "axis": "x", "pitch": 0.25, "lights": [13.0]},
+ {"name": "amenitylobby",     "rect": [-26, -23, -12, -1],    "ceiling": 3.0, "axis": "y", "pitch": 0.25, "lights": [-24.5]},
+ {"name": "arrivals",         "rect": [-22, -14, -22, -12],   "ceiling": 3.6, "axis": "y", "pitch": 0.25, "lights": [-20.0, -16.0]},
+ {"name": "arrivalsreturn",   "rect": [-25, -22, -22, -18.5], "ceiling": 3.6, "axis": "x", "pitch": 0.25, "lights": [-20.25]}
+]}

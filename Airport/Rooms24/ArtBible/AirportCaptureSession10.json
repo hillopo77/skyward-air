@@ -1,0 +1,41 @@
+{
+  "status": "READY",
+  "pass_id": 10,
+  "revision": 24,
+  "runtime_sha256": "ca736a0e547809c05b37b5bf2e9bbd0c2373615ef9594d76f0af96cdbe814eb0",
+  "journey": {
+    "checked_in": false,
+    "bag_accepted": false,
+    "security": false,
+    "boarding": false,
+    "aboard": false
+  },
+  "held": null,
+  "driving": null,
+  "spectator": false,
+  "native_physics_bodies": 17,
+  "events": [
+    {
+      "event": "Room-based airport24 ready",
+      "time_s": 0.10900000000037835,
+      "zones": 17,
+      "controlled_leaves": 5
+    },
+    {
+      "event": "Native tow couplings bound",
+      "time_s": 0.4059999999990396,
+      "count": 2
+    }
+  ],
+  "frame_statistics": {
+    "frames": 780,
+    "average_fps": 37.18698499005591,
+    "p95_ms": 37.36190000017814,
+    "maximum_ms": 829.4506000002002
+  },
+  "player_source": [
+    -53.0,
+    -12.5,
+    1.62
+  ]
+}

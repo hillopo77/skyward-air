@@ -1,0 +1,693 @@
+{
+ "status": "RUNNING",
+ "panel": {
+  "rows": [
+   {
+    "x": -48.0,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -48.0,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -47.5,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -47.5,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -47.0,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -47.0,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -46.5,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -46.5,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -46.0,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -46.0,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -45.5,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -45.5,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -45.0,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -45.0,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -44.5,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -44.5,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -44.0,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -44.0,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -43.5,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -43.5,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -43.0,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -43.0,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -42.5,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -42.5,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -42.0,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -42.0,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -41.5,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -41.5,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -41.0,
+    "z": 1.4,
+    "y_hit": -7.82,
+    "actor": "Landside departures board46",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_Graphite",
+    "element": 0
+   },
+   {
+    "x": -41.0,
+    "z": 2.1,
+    "y_hit": -7.82,
+    "actor": "Landside departures board46",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_Graphite",
+    "element": 0
+   },
+   {
+    "x": -40.5,
+    "z": 1.4,
+    "y_hit": -7.81,
+    "actor": "Landside departures board46",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_Graphite",
+    "element": 0
+   },
+   {
+    "x": -40.5,
+    "z": 2.1,
+    "y_hit": -7.81,
+    "actor": "Landside departures board46",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_Graphite",
+    "element": 0
+   },
+   {
+    "x": -40.0,
+    "z": 1.4,
+    "y_hit": -7.81,
+    "actor": "Landside departures board46",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_Graphite",
+    "element": 0
+   },
+   {
+    "x": -40.0,
+    "z": 2.1,
+    "y_hit": -7.81,
+    "actor": "Landside departures board46",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_Graphite",
+    "element": 0
+   },
+   {
+    "x": -39.5,
+    "z": 1.4,
+    "y_hit": -7.81,
+    "actor": "Landside departures board46",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_Graphite",
+    "element": 0
+   },
+   {
+    "x": -39.5,
+    "z": 2.1,
+    "y_hit": -7.81,
+    "actor": "Landside departures board46",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_Graphite",
+    "element": 0
+   },
+   {
+    "x": -39.0,
+    "z": 1.4,
+    "y_hit": -7.81,
+    "actor": "Landside departures board46",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_Graphite",
+    "element": 0
+   },
+   {
+    "x": -39.0,
+    "z": 2.1,
+    "y_hit": -7.81,
+    "actor": "Landside departures board46",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_Graphite",
+    "element": 0
+   },
+   {
+    "x": -38.5,
+    "z": 1.4,
+    "y_hit": -7.81,
+    "actor": "Landside departures board46",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_Graphite",
+    "element": 0
+   },
+   {
+    "x": -38.5,
+    "z": 2.1,
+    "y_hit": -7.81,
+    "actor": "Landside departures board46",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_Graphite",
+    "element": 0
+   },
+   {
+    "x": -38.0,
+    "z": 1.4,
+    "y_hit": -7.81,
+    "actor": "Landside departures board46",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_Graphite",
+    "element": 0
+   },
+   {
+    "x": -38.0,
+    "z": 2.1,
+    "y_hit": -7.81,
+    "actor": "Landside departures board46",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_Graphite",
+    "element": 0
+   },
+   {
+    "x": -37.5,
+    "z": 1.4,
+    "y_hit": -7.81,
+    "actor": "Landside departures board46",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_Graphite",
+    "element": 0
+   },
+   {
+    "x": -37.5,
+    "z": 2.1,
+    "y_hit": -7.81,
+    "actor": "Landside departures board46",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_Graphite",
+    "element": 0
+   },
+   {
+    "x": -37.0,
+    "z": 1.4,
+    "y_hit": -7.82,
+    "actor": "Landside departures board46",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_Graphite",
+    "element": 0
+   },
+   {
+    "x": -37.0,
+    "z": 2.1,
+    "y_hit": -7.82,
+    "actor": "Landside departures board46",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_Graphite",
+    "element": 0
+   },
+   {
+    "x": -36.5,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -36.5,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -36.0,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -36.0,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -35.5,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -35.5,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -35.0,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -35.0,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -34.5,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -34.5,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -34.0,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -34.0,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -33.5,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -33.5,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -33.0,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -33.0,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -32.5,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -32.5,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -32.0,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -32.0,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -31.5,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -31.5,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -28.5,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -28.5,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -28.0,
+    "z": 1.4,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   },
+   {
+    "x": -28.0,
+    "z": 2.1,
+    "y_hit": -7.91,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "component": "StaticMeshComponent0",
+    "face_material": "MI_AP_P43TPlaster",
+    "element": 0
+   }
+  ],
+  "runs": [
+   {
+    "from_x": -48.0,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "y_hit": -7.91,
+    "material": "MI_AP_P43TPlaster",
+    "to_x": -41.5
+   },
+   {
+    "from_x": -41.0,
+    "actor": "Landside departures board46",
+    "y_hit": -7.82,
+    "material": "MI_AP_Graphite",
+    "to_x": -41.0
+   },
+   {
+    "from_x": -40.5,
+    "actor": "Landside departures board46",
+    "y_hit": -7.81,
+    "material": "MI_AP_Graphite",
+    "to_x": -37.5
+   },
+   {
+    "from_x": -37.0,
+    "actor": "Landside departures board46",
+    "y_hit": -7.82,
+    "material": "MI_AP_Graphite",
+    "to_x": -37.0
+   },
+   {
+    "from_x": -36.5,
+    "actor": "Airport38 complete physical perimeter and partitions",
+    "y_hit": -7.91,
+    "material": "MI_AP_P43TPlaster",
+    "to_x": -28.0
+   }
+  ]
+ },
+ "shots": []
+}

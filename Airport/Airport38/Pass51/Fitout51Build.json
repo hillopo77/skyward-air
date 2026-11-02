@@ -1,0 +1,20 @@
+{
+ "status": "SUCCESS",
+ "asset": "SM_AP_P51Fitout",
+ "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\FitoutBuild\\SM_AP_P51Fitout.fbx",
+ "materials": [
+  "MI_AP_P38ANavy",
+  "MI_AP_P38AGold",
+  "MI_AP_P51SignGlow",
+  "MI_AP_P43TOak",
+  "MI_AP_P27Steel",
+  "MI_AP_P30Carpet",
+  "MI_AP_P51Runway",
+  "MI_AP_P51Soffit",
+  "MI_AP_P38AStone"
+ ],
+ "polygons": 38932,
+ "runway_lamps": 16,
+ "chevrons": 7,
+ "words": 20
+}

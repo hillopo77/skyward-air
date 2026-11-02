@@ -1,0 +1,62 @@
+{
+  "status": "PASS",
+  "scope": "Pure publisher selection/claim/coverage checks; no game/editor/Blender launch or final publication",
+  "checks": [
+    {
+      "name": "No screenshot-directory fallback",
+      "passed": true
+    },
+    {
+      "name": "Exact selected capture accepted",
+      "passed": true
+    },
+    {
+      "name": "Changed image hash",
+      "passed": true
+    },
+    {
+      "name": "Stale native source",
+      "passed": true
+    },
+    {
+      "name": "Failure excluded",
+      "passed": true
+    },
+    {
+      "name": "Hold excluded",
+      "passed": true
+    },
+    {
+      "name": "Move excluded",
+      "passed": true
+    },
+    {
+      "name": "Parent excluded",
+      "passed": true
+    },
+    {
+      "name": "Source preview labeled separately",
+      "passed": true
+    },
+    {
+      "name": "All refinement groups represented",
+      "passed": true
+    },
+    {
+      "name": "Roof trace correction separately recorded",
+      "passed": true
+    },
+    {
+      "name": "Filter hidden rule wins over card display",
+      "passed": true
+    },
+    {
+      "name": "No final manifest prevents publication",
+      "passed": true
+    },
+    {
+      "name": "Import/draft checks leave final gallery and delivery unchanged",
+      "passed": true
+    }
+  ]
+}

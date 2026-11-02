@@ -1,0 +1,562 @@
+{
+ "destroy": [
+  "Airport53 clerestory sun veil",
+  "Airport54 sun shafts",
+  "Ceiling bounce approximation",
+  "Forward lower cargo hold warm service fill 1",
+  "Forward lower cargo hold warm service fill 10",
+  "Forward lower cargo hold warm service fill 11",
+  "Forward lower cargo hold warm service fill 12",
+  "Forward lower cargo hold warm service fill 13",
+  "Forward lower cargo hold warm service fill 2",
+  "Forward lower cargo hold warm service fill 3",
+  "Forward lower cargo hold warm service fill 4",
+  "Forward lower cargo hold warm service fill 5",
+  "Forward lower cargo hold warm service fill 6",
+  "Forward lower cargo hold warm service fill 7",
+  "Forward lower cargo hold warm service fill 8",
+  "Forward lower cargo hold warm service fill 9",
+  "Soft indirect fill"
+ ],
+ "grade": {
+  "white_temp": 6900,
+  "color_contrast": 1.0,
+  "ambient_occlusion_intensity": 0.5,
+  "ambient_occlusion_radius": 120,
+  "bloom_intensity": 0.2,
+  "vignette_intensity": 0.15,
+  "ambient_cubemap_intensity": 0.08
+ },
+ "practical": {
+  "prefix": "AP38 practical",
+  "temp": 4000
+ },
+ "sun": {
+  "source_angle": 5.0,
+  "dynamic_shadow_cm": 0,
+  "rotation": [
+   -22,
+   -10
+  ],
+  "temp": 4300
+ },
+ "sky": {
+  "intensity": 36.0
+ },
+ "lightmass": {
+  "num_indirect_lighting_bounces": 4,
+  "num_sky_lighting_bounces": 2,
+  "use_ambient_occlusion": true,
+  "direct_illumination_occlusion_fraction": 0.4,
+  "indirect_illumination_occlusion_fraction": 1.0,
+  "volumetric_lightmap_detail_cell_size": 50.0,
+  "indirect_lighting_smoothness": 1.3
+ },
+ "importance": [
+  -112,
+  60,
+  -70,
+  48,
+  -4,
+  20
+ ],
+ "no_shadow_over_m": 1000,
+ "no_shadow_meshes": [],
+ "lightmap_by_area": [
+  [
+   20,
+   128
+  ],
+  [
+   80,
+   256
+  ],
+  [
+   300,
+   512
+  ],
+  [
+   1500,
+   1024
+  ],
+  [
+   5000,
+   2048
+  ]
+ ],
+ "lightmap_overrides": {
+  "SM_AP_P50Hall": 2048,
+  "SM_AP_Walls38": 2048,
+  "SM_AP_TerminalWallFinish43": 1024,
+  "SM_AP_Ceilings38": 1024,
+  "SM_AP_Floors38": 2048,
+  "SM_AP_Roofs38": 1024,
+  "SM_AP_Attachments38": 1024,
+  "SM_AP_RetainedCraft38": 1024,
+  "SM_AP_Glazing38": 1024,
+  "SM_AP_P48Ceilings": 2048,
+  "SM_AP_Wayfinding38": 1024,
+  "SM_AP_P51Fitout": 1024,
+  "SM_AP_P48Features": 1024,
+  "SM_AP_Transitions39": 1024,
+  "SM_AP_Canopy38": 1024,
+  "SM_AP_Fixtures38": 256,
+  "SM_AP_BaggageBackdrop43": 1024,
+  "SM_AP_P47SignFaces": 1024,
+  "Sphere": 32,
+  "SM_AP_P46GroundSkirt": 256,
+  "SM_AP_Grounds34": 1024,
+  "SM_AP_F39FieldExtension": 128,
+  "SM_AP_F39Markings": 512,
+  "SM_AP_F39Pavement": 512,
+  "SM_AP_OvalTable36": 256,
+  "SM_AP_FireStand11": 256,
+  "SM_AP_TrayStation38": 256,
+  "SM_AP_PreparationGuide38": 256,
+  "SM_AP_StaffStorage38": 256,
+  "SM_AP_Scanner38": 256,
+  "SM_AP_GroundPower34": 256,
+  "SM_AP_Bench34_Hardware40": 256,
+  "SM_AP_Recycling38": 256,
+  "SM_AP_Bins36": 256,
+  "SM_AP_Bakery36": 256,
+  "SM_AP_P48Exterior": 1024
+ },
+ "force_volumetric": [
+  "SM_AP_P50Hall",
+  "SM_AP_P48Ceilings",
+  "SM_AP_Fixtures38",
+  "SM_AP_Counter38",
+  "SM_AP_TravelStorage38",
+  "SM_AP_Tea36",
+  "SM_AP_POS36",
+  "SM_AP_Transfer38",
+  "SM_AP_Information27",
+  "SM_AP_SafetyStation27",
+  "SM_AP_Vanity34",
+  "SM_AP_HangarFinish34",
+  "SM_AP_StaffStorage38",
+  "SM_AP_PreparationGuide38",
+  "SM_AP_Scanner38",
+  "SM_AP_OvalTable36",
+  "SM_AP_TrayStation38",
+  "SM_AP_Bins36",
+  "SM_AP_Recycling38",
+  "SM_AP_Bakery36",
+  "SM_AP_GroundPower34",
+  "SM_AP_Bench34_Hardware40",
+  "SM_AP_FireStand11"
+ ],
+ "ambient": [
+  {
+   "label": "P55 ambient hall 00",
+   "p": [
+    -45.17,
+    -11.0,
+    5.6
+   ],
+   "w": 537,
+   "h": 600,
+   "lm": 5000,
+   "temp": 4300,
+   "att": 1100
+  },
+  {
+   "label": "P55 ambient hall 10",
+   "p": [
+    -37.5,
+    -11.0,
+    5.6
+   ],
+   "w": 537,
+   "h": 600,
+   "lm": 5000,
+   "temp": 4300,
+   "att": 1100
+  },
+  {
+   "label": "P55 ambient hall 20",
+   "p": [
+    -29.83,
+    -11.0,
+    5.6
+   ],
+   "w": 537,
+   "h": 600,
+   "lm": 5000,
+   "temp": 4300,
+   "att": 1100
+  },
+  {
+   "label": "P55 ambient gate08 00",
+   "p": [
+    -28.0,
+    19.0,
+    5.4
+   ],
+   "w": 560,
+   "h": 600,
+   "lm": 5000,
+   "temp": 4300,
+   "att": 1100
+  },
+  {
+   "label": "P55 ambient gate08 01",
+   "p": [
+    -28.0,
+    29.0,
+    5.4
+   ],
+   "w": 560,
+   "h": 600,
+   "lm": 5000,
+   "temp": 4300,
+   "att": 1100
+  },
+  {
+   "label": "P55 ambient gate07 00",
+   "p": [
+    -18.5,
+    0.25,
+    5.4
+   ],
+   "w": 600,
+   "h": 390,
+   "lm": 5000,
+   "temp": 4300,
+   "att": 1100
+  },
+  {
+   "label": "P55 ambient gate07 01",
+   "p": [
+    -18.5,
+    6.75,
+    5.4
+   ],
+   "w": 600,
+   "h": 390,
+   "lm": 5000,
+   "temp": 4300,
+   "att": 1100
+  },
+  {
+   "label": "P55 ambient arrivals 00",
+   "p": [
+    -18.0,
+    -17.0,
+    5.4
+   ],
+   "w": 560,
+   "h": 600,
+   "lm": 5000,
+   "temp": 4300,
+   "att": 1100
+  }
+ ],
+ "indirect_saturation": 0.55,
+ "room_ambient": {
+  "skip": [
+   "entrancefoyer",
+   "checkin",
+   "landsidecorridor",
+   "gate07",
+   "gate08",
+   "arrivals"
+  ],
+  "lm_per_m2": 110,
+  "min_lm": 1500,
+  "temp": 4500,
+  "below_top": 0.6,
+  "max_size": 700,
+  "spacing": 5.0,
+  "cover": 0.85,
+  "below_top_tall": 1.2
+ },
+ "no_shadow_labels": [
+  "Airport38 exterior glazing and observation panes"
+ ],
+ "move_up": {
+  "match": "cafe_dining",
+  "from": [
+   3.0,
+   6.0
+  ],
+  "to": 6.63
+ },
+ "canopy_lights": [
+  {
+   "label": "P55 canopy downlight 0",
+   "p": [
+    -30.6,
+    -16.3,
+    3.895
+   ],
+   "w": 22,
+   "h": 22,
+   "lm": 1400,
+   "temp": 4000,
+   "att": 550
+  },
+  {
+   "label": "P55 canopy downlight 1",
+   "p": [
+    -30.6,
+    -13.5,
+    3.895
+   ],
+   "w": 22,
+   "h": 22,
+   "lm": 1400,
+   "temp": 4000,
+   "att": 550
+  },
+  {
+   "label": "P55 canopy downlight 2",
+   "p": [
+    -30.6,
+    -10.7,
+    3.895
+   ],
+   "w": 22,
+   "h": 22,
+   "lm": 1400,
+   "temp": 4000,
+   "att": 550
+  },
+  {
+   "label": "P55 canopy downlight 3",
+   "p": [
+    -28.2,
+    -16.3,
+    3.895
+   ],
+   "w": 22,
+   "h": 22,
+   "lm": 1400,
+   "temp": 4000,
+   "att": 550
+  },
+  {
+   "label": "P55 canopy downlight 4",
+   "p": [
+    -28.2,
+    -13.5,
+    3.895
+   ],
+   "w": 22,
+   "h": 22,
+   "lm": 1400,
+   "temp": 4000,
+   "att": 550
+  },
+  {
+   "label": "P55 canopy downlight 5",
+   "p": [
+    -28.2,
+    -10.7,
+    3.895
+   ],
+   "w": 22,
+   "h": 22,
+   "lm": 1400,
+   "temp": 4000,
+   "att": 550
+  },
+  {
+   "label": "P55 cafe deck downlight 0",
+   "p": [
+    -47.3,
+    27.6,
+    2.85
+   ],
+   "w": 18,
+   "h": 18,
+   "lm": 1300,
+   "temp": 3500,
+   "att": 500
+  },
+  {
+   "label": "P55 cafe deck downlight 1",
+   "p": [
+    -47.3,
+    30.9,
+    2.85
+   ],
+   "w": 18,
+   "h": 18,
+   "lm": 1300,
+   "temp": 3500,
+   "att": 500
+  },
+  {
+   "label": "P55 cafe deck downlight 2",
+   "p": [
+    -44.9,
+    27.6,
+    2.85
+   ],
+   "w": 18,
+   "h": 18,
+   "lm": 1300,
+   "temp": 3500,
+   "att": 500
+  },
+  {
+   "label": "P55 cafe deck downlight 3",
+   "p": [
+    -44.9,
+    30.9,
+    2.85
+   ],
+   "w": 18,
+   "h": 18,
+   "lm": 1300,
+   "temp": 3500,
+   "att": 500
+  },
+  {
+   "label": "P55 cafe deck downlight 4",
+   "p": [
+    -42.5,
+    27.6,
+    2.85
+   ],
+   "w": 18,
+   "h": 18,
+   "lm": 1300,
+   "temp": 3500,
+   "att": 500
+  },
+  {
+   "label": "P55 cafe deck downlight 5",
+   "p": [
+    -42.5,
+    30.9,
+    2.85
+   ],
+   "w": 18,
+   "h": 18,
+   "lm": 1300,
+   "temp": 3500,
+   "att": 500
+  },
+  {
+   "label": "P55 cafe floor lamp 0",
+   "p": [
+    -48.45,
+    25.7,
+    1.46
+   ],
+   "w": 36,
+   "h": 36,
+   "lm": 900,
+   "temp": 2800,
+   "att": 450
+  },
+  {
+   "label": "P55 cafe floor lamp 1",
+   "p": [
+    -42.65,
+    28.95,
+    1.46
+   ],
+   "w": 36,
+   "h": 36,
+   "lm": 900,
+   "temp": 2800,
+   "att": 450
+  },
+  {
+   "label": "P55 lounge lamp 0",
+   "p": [
+    -24.6,
+    31.5,
+    1.46
+   ],
+   "w": 36,
+   "h": 36,
+   "lm": 900,
+   "temp": 2800,
+   "att": 450
+  },
+  {
+   "label": "P55 lounge lamp 1",
+   "p": [
+    -22.45,
+    5.9,
+    1.46
+   ],
+   "w": 36,
+   "h": 36,
+   "lm": 900,
+   "temp": 2800,
+   "att": 450
+  },
+  {
+   "label": "P55 gallery lamp 0",
+   "p": [
+    -48.55,
+    31.25,
+    4.63
+   ],
+   "w": 36,
+   "h": 36,
+   "lm": 900,
+   "temp": 2800,
+   "att": 450
+  },
+  {
+   "label": "P55 gallery lamp 1",
+   "p": [
+    -41.55,
+    30.6,
+    4.63
+   ],
+   "w": 36,
+   "h": 36,
+   "lm": 900,
+   "temp": 2800,
+   "att": 450
+  }
+ ],
+ "keep_lightmaps": [
+  "SM_AP_Walls38",
+  "SM_AP_TerminalWallFinish43",
+  "SM_AP_Ceilings38",
+  "SM_AP_Floors38",
+  "SM_AP_Roofs38",
+  "SM_AP_Slab",
+  "SM_AP_Grounds34",
+  "SM_AP_P46GroundSkirt",
+  "SM_AP_F39FieldExtension",
+  "SM_AP_F39Pavement",
+  "SM_AP_F39Markings",
+  "SM_AP_Asphalt",
+  "SM_AP_Apron34",
+  "SM_AP_P47LandsideRoad",
+  "SM_AP_P47AirsideRoad",
+  "SM_AP_P48Exterior",
+  "SM_AP_Canopy38",
+  "SM_AP_ControlTower34",
+  "SM_AP_P38B_parking_pad",
+  "SM_AP_Glazing38",
+  "SM_AP_P46RooftopPlant",
+  "SM_AP_P50Landmarks",
+  "Sphere"
+ ],
+ "grade_tint": [
+  1.0,
+  0.93,
+  0.82
+ ],
+ "haze": {
+  "density": 0.004,
+  "falloff": 0.3,
+  "start_cm": 200,
+  "color": [
+   0.62,
+   0.55,
+   0.45
+  ]
+ }
+}

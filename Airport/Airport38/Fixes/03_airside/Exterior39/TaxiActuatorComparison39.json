@@ -1,0 +1,266 @@
+{
+  "scope": "Read-only exact source/actuator FBX comparison",
+  "actuators": [
+    {
+      "actor": "Flight39 flap 00",
+      "vertices": 199,
+      "unmatched_source_vertices": 0,
+      "max_neutral_reconstruction_error_m": 0.0,
+      "unmatched_examples": [],
+      "unique_geometric_hinge": {
+        "pivot": [
+          13.700000047683716,
+          17.78036117553711,
+          -1.1599999964237213
+        ],
+        "axis": [
+          -0.9950828520326804,
+          0.08213772641724146,
+          0.05534899718615583
+        ]
+      }
+    },
+    {
+      "actor": "Flight39 flap 01",
+      "vertices": 170,
+      "unmatched_source_vertices": 0,
+      "max_neutral_reconstruction_error_m": 0.0,
+      "unmatched_examples": [],
+      "unique_geometric_hinge": {
+        "pivot": [
+          11.54259967803955,
+          17.95844078063965,
+          -1.0399999916553497
+        ],
+        "axis": [
+          -0.9833952539068422,
+          0.16988634125936056,
+          0.06381540289777668
+        ]
+      }
+    },
+    {
+      "actor": "Flight39 flap 02",
+      "vertices": 132,
+      "unmatched_source_vertices": 0,
+      "max_neutral_reconstruction_error_m": 0.0,
+      "unmatched_examples": [],
+      "unique_geometric_hinge": {
+        "pivot": [
+          7.5360002517700195,
+          18.65060043334961,
+          -0.7800000011920929
+        ],
+        "axis": [
+          -0.963080039476259,
+          0.25838636458549474,
+          0.0755865342418814
+        ]
+      }
+    },
+    {
+      "actor": "Flight39 aileron 03",
+      "vertices": 132,
+      "unmatched_source_vertices": 0,
+      "max_neutral_reconstruction_error_m": 2.9802322387695312e-08,
+      "unmatched_examples": []
+    },
+    {
+      "actor": "Flight39 aileron 04",
+      "vertices": 132,
+      "unmatched_source_vertices": 0,
+      "max_neutral_reconstruction_error_m": 0.0,
+      "unmatched_examples": []
+    },
+    {
+      "actor": "Flight39 elevator 05",
+      "vertices": 198,
+      "unmatched_source_vertices": 0,
+      "max_neutral_reconstruction_error_m": 2.384185791015625e-07,
+      "unmatched_examples": []
+    },
+    {
+      "actor": "Flight39 flap 06",
+      "vertices": 199,
+      "unmatched_source_vertices": 0,
+      "max_neutral_reconstruction_error_m": 0.0,
+      "unmatched_examples": [],
+      "unique_geometric_hinge": {
+        "pivot": [
+          18.299999952316284,
+          17.78036117553711,
+          -1.1599999964237213
+        ],
+        "axis": [
+          0.9950828520326804,
+          0.08213772641724146,
+          0.05534899718615583
+        ]
+      }
+    },
+    {
+      "actor": "Flight39 flap 07",
+      "vertices": 168,
+      "unmatched_source_vertices": 0,
+      "max_neutral_reconstruction_error_m": 0.0,
+      "unmatched_examples": [],
+      "unique_geometric_hinge": {
+        "pivot": [
+          20.45740032196045,
+          17.95844078063965,
+          -1.0399999916553497
+        ],
+        "axis": [
+          0.9833952539068422,
+          0.16988634125936056,
+          0.06381540289777668
+        ]
+      }
+    },
+    {
+      "actor": "Flight39 flap 08",
+      "vertices": 132,
+      "unmatched_source_vertices": 0,
+      "max_neutral_reconstruction_error_m": 0.0,
+      "unmatched_examples": [],
+      "unique_geometric_hinge": {
+        "pivot": [
+          24.46399974822998,
+          18.65060043334961,
+          -0.7800000011920929
+        ],
+        "axis": [
+          0.963080039476259,
+          0.25838636458549474,
+          0.0755865342418814
+        ]
+      }
+    },
+    {
+      "actor": "Flight39 aileron 09",
+      "vertices": 132,
+      "unmatched_source_vertices": 0,
+      "max_neutral_reconstruction_error_m": 2.9802322387695312e-08,
+      "unmatched_examples": []
+    },
+    {
+      "actor": "Flight39 aileron 10",
+      "vertices": 132,
+      "unmatched_source_vertices": 0,
+      "max_neutral_reconstruction_error_m": 0.0,
+      "unmatched_examples": []
+    },
+    {
+      "actor": "Flight39 elevator 11",
+      "vertices": 198,
+      "unmatched_source_vertices": 0,
+      "max_neutral_reconstruction_error_m": 2.384185791015625e-07,
+      "unmatched_examples": []
+    },
+    {
+      "actor": "Flight39 rudder 12",
+      "vertices": 198,
+      "unmatched_source_vertices": 0,
+      "max_neutral_reconstruction_error_m": 0.0,
+      "unmatched_examples": []
+    }
+  ],
+  "mirror_hinges": [
+    {
+      "left": "Flight39 flap 00",
+      "right": "Flight39 flap 06",
+      "mirrored_pivot_error_m": 0.0,
+      "mirrored_axis_error_deg": 1.827196454044573,
+      "left_pivot": [
+        13.699999809265137,
+        17.780363082885742,
+        -1.1600000858306885
+      ],
+      "right_pivot": [
+        18.300000190734863,
+        17.780363082885742,
+        -1.1600000858306885
+      ]
+    },
+    {
+      "left": "Flight39 flap 01",
+      "right": "Flight39 flap 07",
+      "mirrored_pivot_error_m": 0.06925499439239502,
+      "mirrored_axis_error_deg": 0.9716156751570201,
+      "left_pivot": [
+        11.542599201202393,
+        17.95844078063965,
+        -1.0053725242614746
+      ],
+      "right_pivot": [
+        20.457400798797607,
+        17.95844078063965,
+        -1.0746275186538696
+      ]
+    },
+    {
+      "left": "Flight39 flap 02",
+      "right": "Flight39 flap 08",
+      "mirrored_pivot_error_m": 0.0,
+      "mirrored_axis_error_deg": 0.0,
+      "left_pivot": [
+        7.5360002517700195,
+        18.65060043334961,
+        -0.7799999713897705
+      ],
+      "right_pivot": [
+        24.46399974822998,
+        18.65060043334961,
+        -0.7799999713897705
+      ]
+    },
+    {
+      "left": "Flight39 aileron 03",
+      "right": "Flight39 aileron 09",
+      "mirrored_pivot_error_m": 0.0,
+      "mirrored_axis_error_deg": 0.0,
+      "left_pivot": [
+        2.604800224304199,
+        19.973600387573242,
+        -0.39297887682914734
+      ],
+      "right_pivot": [
+        29.3951997756958,
+        19.973600387573242,
+        -0.39297887682914734
+      ]
+    },
+    {
+      "left": "Flight39 aileron 04",
+      "right": "Flight39 aileron 10",
+      "mirrored_pivot_error_m": 0.0,
+      "mirrored_axis_error_deg": 0.015883820243358677,
+      "left_pivot": [
+        -2.480499267578125,
+        21.308082580566406,
+        0.10125488042831421
+      ],
+      "right_pivot": [
+        34.480499267578125,
+        21.308082580566406,
+        0.10125488042831421
+      ]
+    },
+    {
+      "left": "Flight39 elevator 05",
+      "right": "Flight39 elevator 11",
+      "mirrored_pivot_error_m": 0.0,
+      "mirrored_axis_error_deg": 0.0,
+      "left_pivot": [
+        14.299999952316284,
+        39.75469970703125,
+        0.6200000047683716
+      ],
+      "right_pivot": [
+        17.700000047683716,
+        39.75469970703125,
+        0.6200000047683716
+      ]
+    }
+  ]
+}

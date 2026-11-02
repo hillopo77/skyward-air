@@ -1,0 +1,24 @@
+{
+  "status": "READY",
+  "map": "/Game/Airport35/L_Airport_Flow35",
+  "zone": "concourse",
+  "player": [
+    -31.790242445730033,
+    11.853779388668592,
+    1.62
+  ],
+  "journey": {
+    "checked_in": true,
+    "security": true,
+    "boarding": false,
+    "aboard": false
+  },
+  "controlled_doors": {
+    "Screening entry24 leaf 0": 0,
+    "Screening entry24 leaf 1": 0,
+    "Screening exit24 leaf 0": 0,
+    "Screening exit24 leaf 1": 0,
+    "Staff service leaf24": 0
+  },
+  "updated": 1793271273.4463835
+}

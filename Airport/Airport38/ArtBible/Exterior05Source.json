@@ -1,0 +1,284 @@
+{
+  "status": "SUCCESS",
+  "passes": [
+    {
+      "module": "Fixes/03_airside/Exterior39/exterior39.py",
+      "result": {
+        "passes": [
+          {
+            "pass_id": 1,
+            "work": "Measured linked source fittings and real screenshots; identified 6 redundant windscreen tubes, protruding shade pockets and glass-assigned rubber weather seals."
+          },
+          {
+            "pass_id": 2,
+            "work": "Removed only the6 added pearl tube outlines; retained6 real curved panes and true pressure-shell aperture edges at exact coordinates."
+          },
+          {
+            "pass_id": 3,
+            "work": "Remodeled curved hollow shade pockets, actual open C guide channels, supported felt mouths/end returns; specified coherent inboard stow stroke."
+          },
+          {
+            "pass_id": 4,
+            "work": "Restored opaque rubber for2 weather seals, rolled both bored pressure-door leaf edges, clamped collapsed thin bevels."
+          },
+          {
+            "pass_id": 5,
+            "work": "Refreshed source instance bindings and exact original actor swap map; evaluated fit/stroke/viewport tests are recorded separately, native visual approval remains required."
+          }
+        ],
+        "swaps": {
+          "SM_Plane_CockpitShell": "SM_AP_E39CockpitShellClean",
+          "SM_Plane_WindowShadeFrame18_L": "SM_AP_E39ShadeFrameL",
+          "SM_Plane_WindowShadeFrame18_R": "SM_AP_E39ShadeFrameR",
+          "SM_Plane_OuterWindowBarrel": "SM_AP_E39WeatherSeals",
+          "SM_Plane_PassengerDoor07_L": "SM_AP_E39PassengerDoorL",
+          "SM_Plane_PassengerDoor07_R": "SM_AP_E39PassengerDoorR"
+        },
+        "changed_assets": [
+          "SM_AP_E39CockpitShellClean",
+          "SM_AP_E39ShadeFrameL",
+          "SM_AP_E39ShadeFrameR",
+          "SM_AP_E39WeatherSeals",
+          "SM_AP_E39PassengerDoorL",
+          "SM_AP_E39PassengerDoorR"
+        ],
+        "source_instances": [
+          "SM_Plane_CockpitShell",
+          "Aircraft door 1L",
+          "Aircraft door 2L",
+          "Aircraft door 1R",
+          "Aircraft door 2R",
+          "SM_Plane_OuterWindowBarrel bay10 01",
+          "SM_Plane_OuterWindowBarrel bay10 02",
+          "SM_Plane_OuterWindowBarrel bay10 03",
+          "SM_Plane_OuterWindowBarrel bay10 05",
+          "SM_Plane_OuterWindowBarrel bay10 06",
+          "SM_Plane_OuterWindowBarrel bay10 07",
+          "SM_Plane_OuterWindowBarrel bay10 08",
+          "SM_Plane_OuterWindowBarrel bay10 09",
+          "SM_Plane_OuterWindowBarrel bay10 10",
+          "SM_Plane_OuterWindowBarrel bay10 11",
+          "SM_Plane_OuterWindowBarrel bay10 12",
+          "SM_Plane_OuterWindowBarrel bay10 13",
+          "SM_Plane_OuterWindowBarrel bay10 14",
+          "SM_Plane_OuterWindowBarrel bay10 15",
+          "SM_Plane_OuterWindowBarrel bay10 16",
+          "SM_Plane_OuterWindowBarrel bay10 17",
+          "SM_Plane_OuterWindowBarrel bay10 18",
+          "SM_Plane_OuterWindowBarrel bay10 19",
+          "SM_Plane_OuterWindowBarrel bay10 21",
+          "SM_Plane_OuterWindowBarrel bay10 22",
+          "SM_Plane_OuterWindowBarrel bay10 23",
+          "SM_Plane_OuterWindowBarrel bay10 24",
+          "SM_Plane_OuterWindowBarrel bay10 25",
+          "Window shade 01 R18 frame",
+          "Window shade 02 L18 frame",
+          "Window shade 03 R18 frame",
+          "Window shade 04 L18 frame",
+          "Window shade 05 R18 frame",
+          "Window shade 06 L18 frame",
+          "Window shade 07 R18 frame",
+          "Window shade 08 L18 frame",
+          "Window shade 09 R18 frame",
+          "Window shade 10 L18 frame",
+          "Window shade 11 R18 frame",
+          "Window shade 12 L18 frame",
+          "Window shade 13 R18 frame",
+          "Window shade 14 L18 frame",
+          "Window shade 15 R18 frame",
+          "Window shade 16 L18 frame",
+          "Window shade 17 R18 frame",
+          "Window shade 18 L18 frame",
+          "Window shade 19 R18 frame",
+          "Window shade 20 L18 frame",
+          "Window shade 21 R18 frame",
+          "Window shade 22 L18 frame",
+          "Window shade 23 R18 frame",
+          "Window shade 24 L18 frame",
+          "Window shade 25 R18 frame",
+          "Window shade 26 L18 frame",
+          "Window shade 27 R18 frame",
+          "Window shade 28 L18 frame",
+          "Window shade 29 R18 frame",
+          "Window shade 30 L18 frame",
+          "Window shade 31 R18 frame",
+          "Window shade 32 L18 frame",
+          "Window shade 33 R18 frame",
+          "Window shade 34 L18 frame",
+          "Window shade 35 R18 frame",
+          "Window shade 36 L18 frame",
+          "Window shade 37 R18 frame",
+          "Window shade 38 L18 frame",
+          "Window shade 39 R18 frame",
+          "Window shade 40 L18 frame",
+          "Window shade 41 R18 frame",
+          "Window shade 42 L18 frame",
+          "Window shade 43 R18 frame",
+          "Window shade 44 L18 frame",
+          "Window shade 45 R18 frame",
+          "Window shade 46 L18 frame",
+          "Window shade 47 R18 frame",
+          "Window shade 48 L18 frame"
+        ],
+        "details": {
+          "SM_AP_E39CockpitShellClean": {
+            "removed": [
+              "Fitted rounded pearl glazing reveal18",
+              "Fitted rounded pearl glazing reveal18.001",
+              "Fitted rounded pearl glazing reveal18.002",
+              "Fitted rounded pearl glazing reveal18.003",
+              "Fitted rounded pearl glazing reveal18.004",
+              "Fitted rounded pearl glazing reveal18.005"
+            ],
+            "actual_panes": 6,
+            "glazing_vertices_unchanged": true
+          },
+          "SM_AP_E39ShadeFrameL": {
+            "removed": [
+              "Shade captive guide channel18",
+              "Shade captive guide channel18.001",
+              "Shade retained upper pocket18",
+              "Shade pocket dark felt mouth18"
+            ],
+            "pressure_skin_clearance_m": 0.035,
+            "pocket_top_z": 2.25,
+            "cavity_open_below": true,
+            "guide_retains_slat_edge_y": 0.35,
+            "stow_inboard_m": 0.12,
+            "guidefit_version": 2,
+            "lower_guide_inner_abs_x": 2.334,
+            "business_shell_top_z": 1.3565,
+            "guide_knee_z": 1.4
+          },
+          "SM_AP_E39ShadeFrameR": {
+            "removed": [
+              "Shade captive guide channel18.002",
+              "Shade captive guide channel18.003",
+              "Shade retained upper pocket18.001",
+              "Shade pocket dark felt mouth18.001"
+            ],
+            "pressure_skin_clearance_m": 0.035,
+            "pocket_top_z": 2.25,
+            "cavity_open_below": true,
+            "guide_retains_slat_edge_y": 0.35,
+            "stow_inboard_m": 0.12,
+            "guidefit_version": 2,
+            "lower_guide_inner_abs_x": 2.334,
+            "business_shell_top_z": 1.3565,
+            "guide_knee_z": 1.4
+          },
+          "SM_AP_E39WeatherSeals": {
+            "opaque_weather_seals": [
+              {
+                "replaced": "Flush glazing weather seal09",
+                "original_path_samples": 164,
+                "clean_path_samples": 164,
+                "profile_radius_m": 0.003,
+                "stable_radial_frame": true
+              },
+              {
+                "replaced": "Flush glazing weather seal09.001",
+                "original_path_samples": 164,
+                "clean_path_samples": 164,
+                "profile_radius_m": 0.003,
+                "stable_radial_frame": true
+              }
+            ],
+            "previous_incorrect_material": "MI_Plane_SkyGlass18"
+          },
+          "SM_AP_E39PassengerDoorL": {
+            "door_pivot_unchanged": true,
+            "viewport_aperture_unchanged": true,
+            "edge_radius_m": 0.004
+          },
+          "SM_AP_E39PassengerDoorR": {
+            "door_pivot_unchanged": true,
+            "viewport_aperture_unchanged": true,
+            "edge_radius_m": 0.004
+          }
+        }
+      }
+    }
+  ],
+  "unused_empty_material_slots": [],
+  "pending_assets": {
+    "SM_AP_E39CockpitShellClean": "complex",
+    "SM_AP_E39ShadeFrameL": "complex",
+    "SM_AP_E39ShadeFrameR": "complex",
+    "SM_AP_E39WeatherSeals": "complex",
+    "SM_AP_E39PassengerDoorL": "complex",
+    "SM_AP_E39PassengerDoorR": "complex"
+  },
+  "glass39": {
+    "presets": {
+      "Terminal": {
+        "tint": [
+          0.25,
+          0.47,
+          0.49,
+          1
+        ],
+        "opacity": 0.13,
+        "edge": 0.3,
+        "roughness": 0.18,
+        "specular": 0.48
+      },
+      "Bridge": {
+        "tint": [
+          0.24,
+          0.46,
+          0.48,
+          1
+        ],
+        "opacity": 0.12,
+        "edge": 0.28,
+        "roughness": 0.19,
+        "specular": 0.46
+      },
+      "Cabin": {
+        "tint": [
+          0.29,
+          0.52,
+          0.56,
+          1
+        ],
+        "opacity": 0.09,
+        "edge": 0.24,
+        "roughness": 0.16,
+        "specular": 0.48
+      },
+      "Cockpit": {
+        "tint": [
+          0.3,
+          0.53,
+          0.57,
+          1
+        ],
+        "opacity": 0.085,
+        "edge": 0.23,
+        "roughness": 0.17,
+        "specular": 0.48
+      }
+    },
+    "source_materials": [
+      "MI_AP_Glass",
+      "MI_AP_Glass.001",
+      "MI_AP_Glass.002",
+      "MI_AP_P36Glass",
+      "MI_AP_P38AGlass",
+      "MI_AP_P38BGlass"
+    ],
+    "design": "Subtle blue-green tint, soft specular and stronger glancing edges. No procedural dirt or distortion. Instrument glass excluded."
+  },
+  "changed_assets": [
+    "SM_AP_E39CockpitShellClean",
+    "SM_AP_E39PassengerDoorL",
+    "SM_AP_E39PassengerDoorR",
+    "SM_AP_E39ShadeFrameL",
+    "SM_AP_E39ShadeFrameR",
+    "SM_AP_E39WeatherSeals"
+  ],
+  "families": 104,
+  "source_sha256": "5c4efb58201c8faaa5bdba28aeb635d11d4d475c09ee28da857f66ea1103ed51",
+  "retired_names": []
+}

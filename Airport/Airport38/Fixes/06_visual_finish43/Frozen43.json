@@ -1,0 +1,91 @@
+{
+  "status": "FROZEN_SOURCE_ACTUALLY_REOPENED_NATIVE_PENDING",
+  "files": {
+    "finish43.py": {
+      "bytes": 14283,
+      "sha256": "1c5102b8dbf34fadb8842c648783429d247e5cb7aefc24e58a4030666b3510a8"
+    },
+    "native_finish43.py": {
+      "bytes": 6581,
+      "sha256": "bafae28c936d8ddc80491dd223397ac1614e4afa224e2c9eefec15b65f2a5504"
+    },
+    "make_textures43.py": {
+      "bytes": 1970,
+      "sha256": "44e32965481ae58e766de1c48f55d13f83d125c32426d4aa22a2d1d5a4c23d5d"
+    },
+    "source_unit43.py": {
+      "bytes": 7739,
+      "sha256": "b2262c75686ac6b63f8c9a57d2709e80d957d7b0cda451234420e7a676f50a71"
+    },
+    "reopen_unit43.py": {
+      "bytes": 5232,
+      "sha256": "828007b8baac7b6b495f1ac2dc0a3dd17c18fe8ca03477c8bc39baa1af8ba0bc"
+    },
+    "freeze43.py": {
+      "bytes": 1855,
+      "sha256": "ad7f019854b98fc6e64566cc8e171f9cf341bb455ff5372bdab709b926691aa0"
+    },
+    "README.md": {
+      "bytes": 7665,
+      "sha256": "e982183b4fb4263ea519b5baae1abfaebc3bc39499473fcee087e58fcc5f2228"
+    },
+    "Integration43.json": {
+      "bytes": 707,
+      "sha256": "575e9ba6ba59f423eabd29d3b4841db84fc47b021a52274f848c1756eb735cdf"
+    },
+    "Source43Report.json": {
+      "bytes": 52161,
+      "sha256": "f4978698ff721b55fd98b79124361d7d9373ce80fe34f657afa95c6037d6b64b"
+    },
+    "Unit43Layout.json": {
+      "bytes": 730299,
+      "sha256": "ddc9c9e06addc6701ae24e1770b2da077e3fd76430be7c9afebe766e0d1676db"
+    },
+    "TerminalFinish43_UnitKit.blend": {
+      "bytes": 4445049,
+      "sha256": "cbfa2e63e726c3dd35ab1ddd4fb70f72aa1587f7546d0e8aa8c3396934309249"
+    },
+    "Textures/Carpet43.png": {
+      "bytes": 10176,
+      "sha256": "b187c87bd7f61aee03094cf683dd8614f10c5b2476ff7d8d3a08305cbc7a9c50"
+    },
+    "Textures/Ceiling43.png": {
+      "bytes": 6924,
+      "sha256": "759558b6bdc9b4f3f05b55e01f6da3d2d336721154245d09498f939568ccbaaa"
+    },
+    "Textures/Floor43.png": {
+      "bytes": 44504,
+      "sha256": "a14d49a40ee78e6f99c55622007084a437b1d9b5d3c3582f4332d2f985cc26db"
+    },
+    "Textures/Oak43.png": {
+      "bytes": 36277,
+      "sha256": "7a65b1e4d0eb98afbdc1ed9b09b28f1ea127dfbc7a701f77b154060003ee5070"
+    },
+    "Textures/Plaster43.png": {
+      "bytes": 6942,
+      "sha256": "ff75f5b9a16c712552aa31fd8b5c5fd96c331643cd086181986dab219bff18d7"
+    },
+    "Textures/PlasterWarm43.png": {
+      "bytes": 6557,
+      "sha256": "5561936790d2fb47c493c9d047b1989692775142c7b0e25c3e070254d455488f"
+    },
+    "Textures/WC43.png": {
+      "bytes": 43943,
+      "sha256": "0a85f3ea23afbbb804fcd375584f7cb4b22941ca51e408c73d42d8d26993c3eb"
+    }
+  },
+  "source_master_sha256_unchanged": "80049b883f8bda5eea272b71eaa71bd16132dd51d4de0c17a10b872f1ba927a5",
+  "service_identity": [
+    "BAY 01",
+    "BAY 02"
+  ],
+  "expected_native_material_graphs": 13,
+  "packed_texture_roles": 7,
+  "final_source_parts": 596,
+  "wall_cassettes": 298,
+  "feed_clearance_rays": 18,
+  "native_integration": "Integration43.json",
+  "prior_source_comparison_images": "Evidence/*After* precede the final identity-only addition; no new render requested",
+  "jobs_closed": true,
+  "native_verified": false
+}

@@ -1,0 +1,588 @@
+{
+  "revision": "12",
+  "status": "SUCCESS",
+  "source_file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\Plane.blend",
+  "source_sha256": "718cd6c2845211682a6eac6057aed830bfcc02e185a01c5032b68cf2e8431000",
+  "source_bytes": 29093980,
+  "checked_at_utc": "2026-10-24T18:44:56Z",
+  "checks": [
+    {
+      "test": "Saved source is revision12",
+      "passed": true,
+      "layout_revision": "12",
+      "quality_revision": "12 \u2014 manufactured service fittings and functional equipment; native verification pending",
+      "source_sha256": "718cd6c2845211682a6eac6057aed830bfcc02e185a01c5032b68cf2e8431000"
+    },
+    {
+      "test": "44 passenger seats remain in the saved current source",
+      "passed": true,
+      "actual_passenger_seats": 44,
+      "instances_by_asset": {
+        "SM_Plane_Seat": 20,
+        "SM_Plane_SeatPair": 10,
+        "SM_Plane_LuxurySeat": 4
+      }
+    },
+    {
+      "test": "No character assemblies were added to this aircraft",
+      "passed": true,
+      "character_candidates": [],
+      "method": "Scene armatures and explicit character/NPC/humanoid identifiers; semantic art names are reported, not inferred from arbitrary meshes."
+    },
+    {
+      "test": "Trimmed wing-body fairing is a closed manifold solid",
+      "passed": true,
+      "objects": [
+        {
+          "object": "Fitted low profile wing body fairing09",
+          "vertices": 1301,
+          "faces": 1052,
+          "nonmanifold_edges": 0,
+          "boundary_edges": 0,
+          "loose_vertices": 0,
+          "volume_m3": 7.059950041890969
+        }
+      ]
+    },
+    {
+      "test": "Actual exterior triangles leave the usable hold prism empty",
+      "passed": true,
+      "usable_prism_min": [
+        -1.399999976158142,
+        1.2999999523162842,
+        -2.0399999618530273
+      ],
+      "usable_prism_max": [
+        1.399999976158142,
+        21.799999237060547,
+        -0.2199999988079071
+      ],
+      "method": "Evaluated mesh triangles clipped to all six prism planes; intersection area must exceed1e\u22129m\u00b2.",
+      "triangles_tested": 7206,
+      "intersecting_triangles": 0,
+      "intersection_area_m2": 0,
+      "objects": [],
+      "examples": []
+    },
+    {
+      "test": "Entire bottom landing has no rack or luggage triangles",
+      "passed": true,
+      "clear_rect_m": [
+        -1.4,
+        1.4,
+        3.6,
+        5.1
+      ],
+      "tested_rack_luggage_objects": 1056,
+      "triangles_tested": 0,
+      "intersecting_triangles": 0,
+      "intersection_area_m2": 0,
+      "objects": [],
+      "examples": []
+    },
+    {
+      "test": "Hold restraint tracks and retained screw heads have physical floor support",
+      "passed": true,
+      "floor_surface_z_m": -2.049999952316284,
+      "tracks": [
+        {
+          "object": "Cargo restraint floor track10",
+          "min": [
+            -0.862500011920929,
+            3.34999942779541,
+            -2.073000192642212
+          ],
+          "max": [
+            -0.82750004529953,
+            21.549999237060547,
+            -2.0480000972747803
+          ],
+          "track_top_above_floor_m": 0.0019998550415039062
+        },
+        {
+          "object": "Cargo restraint floor track10.001",
+          "min": [
+            -1.3675000667572021,
+            3.34999942779541,
+            -2.073000192642212
+          ],
+          "max": [
+            -1.3324999809265137,
+            21.549999237060547,
+            -2.0480000972747803
+          ],
+          "track_top_above_floor_m": 0.0019998550415039062
+        },
+        {
+          "object": "Cargo restraint floor track10.002",
+          "min": [
+            0.82750004529953,
+            3.34999942779541,
+            -2.073000192642212
+          ],
+          "max": [
+            0.862500011920929,
+            21.549999237060547,
+            -2.0480000972747803
+          ],
+          "track_top_above_floor_m": 0.0019998550415039062
+        },
+        {
+          "object": "Cargo restraint floor track10.003",
+          "min": [
+            1.3324999809265137,
+            3.34999942779541,
+            -2.073000192642212
+          ],
+          "max": [
+            1.3675000667572021,
+            21.549999237060547,
+            -2.0480000972747803
+          ],
+          "track_top_above_floor_m": 0.0019998550415039062
+        }
+      ],
+      "screw_count": 108,
+      "maximum_screw_head_gap_m": -0.0024995803833007812,
+      "maximum_screw_head_proud_m": 0.0005002021789550781,
+      "unsupported_examples": []
+    },
+    {
+      "test": "Deck and carpet have a true 1.45m stair opening",
+      "passed": true,
+      "measured_left_edge_m": -2.100000059604645,
+      "measured_right_edge_m": -0.6500000357627869,
+      "measured_width_m": 1.450000023841858,
+      "ray_samples": [
+        {
+          "x": -2.085,
+          "y": 1.215,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -2.085,
+          "y": 1.7,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -2.085,
+          "y": 2.35,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -2.085,
+          "y": 2.95,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -2.085,
+          "y": 3.485,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -1.75,
+          "y": 1.215,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -1.75,
+          "y": 1.7,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -1.75,
+          "y": 2.35,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -1.75,
+          "y": 2.95,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -1.75,
+          "y": 3.485,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -1.375,
+          "y": 1.215,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -1.375,
+          "y": 1.7,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -1.375,
+          "y": 2.35,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -1.375,
+          "y": 2.95,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -1.375,
+          "y": 3.485,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -1.0,
+          "y": 1.215,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -1.0,
+          "y": 1.7,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -1.0,
+          "y": 2.35,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -1.0,
+          "y": 2.95,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -1.0,
+          "y": 3.485,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -0.665,
+          "y": 1.215,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -0.665,
+          "y": 1.7,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -0.665,
+          "y": 2.35,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -0.665,
+          "y": 2.95,
+          "blocked": false,
+          "object": null
+        },
+        {
+          "x": -0.665,
+          "y": 3.485,
+          "blocked": false,
+          "object": null
+        }
+      ]
+    },
+    {
+      "test": "Carpet is one flush shared deck with continuous metre UVs",
+      "passed": true,
+      "objects": [
+        {
+          "object": "Continuous joined inlaid carpet and washable flooring12",
+          "vertices": 396,
+          "faces": 349,
+          "z_min_m": 0.007000000216066837,
+          "z_max_m": 0.007000000216066837,
+          "duplicate_vertex_positions": 0,
+          "shared_edges": 651,
+          "uv_world_xy_max_error": 0.0,
+          "authored_uv": true
+        }
+      ]
+    },
+    {
+      "test": "New service parts have finite closed manifold construction",
+      "passed": true,
+      "mesh_parts_tested": 1264,
+      "nonmanifold": [],
+      "nonfinite": [],
+      "invalid_material_slots": []
+    },
+    {
+      "test": "Six ovens have open chambers, thick jambs, recessed backs and real racks",
+      "passed": true,
+      "ovens": [
+        {
+          "asset": "SM_Plane_AftGalley",
+          "object": "Mid_lower_oven insulated chamber",
+          "outer_bounds": [
+            [
+              -1.0499999523162842,
+              -0.3100000023841858,
+              1.0549999475479126
+            ],
+            [
+              -0.4000000059604645,
+              0.23999999463558197,
+              1.524999976158142
+            ]
+          ],
+          "front_to_back_depth_m": 0.546000063419342,
+          "front_edge_wall_hit_m": 0.02000001072883606,
+          "rack_bars_inside": 18
+        },
+        {
+          "asset": "SM_Plane_AftGalley",
+          "object": "Mid_upper_oven insulated chamber",
+          "outer_bounds": [
+            [
+              -1.0499999523162842,
+              -0.3100000023841858,
+              1.590000033378601
+            ],
+            [
+              -0.4000000059604645,
+              0.23999999463558197,
+              2.059999942779541
+            ]
+          ],
+          "front_to_back_depth_m": 0.546000063419342,
+          "front_edge_wall_hit_m": 0.02000001072883606,
+          "rack_bars_inside": 18
+        },
+        {
+          "asset": "SM_Plane_ForwardGalley_L",
+          "object": "Rear_L_lower_oven insulated chamber",
+          "outer_bounds": [
+            [
+              -0.5849999785423279,
+              -0.3100000023841858,
+              1.0549999475479126
+            ],
+            [
+              -0.02500000037252903,
+              0.23999999463558197,
+              1.524999976158142
+            ]
+          ],
+          "front_to_back_depth_m": 0.5460000038146973,
+          "front_edge_wall_hit_m": 0.02000000886619091,
+          "rack_bars_inside": 18
+        },
+        {
+          "asset": "SM_Plane_ForwardGalley_L",
+          "object": "Rear_L_upper_oven insulated chamber",
+          "outer_bounds": [
+            [
+              -0.5849999785423279,
+              -0.3100000023841858,
+              1.590000033378601
+            ],
+            [
+              -0.02500000037252903,
+              0.23999999463558197,
+              2.059999942779541
+            ]
+          ],
+          "front_to_back_depth_m": 0.5460000038146973,
+          "front_edge_wall_hit_m": 0.02000001072883606,
+          "rack_bars_inside": 18
+        },
+        {
+          "asset": "SM_Plane_ForwardGalley_R",
+          "object": "Rear_R_lower_oven insulated chamber",
+          "outer_bounds": [
+            [
+              -0.5849999785423279,
+              -0.3100000023841858,
+              1.0549999475479126
+            ],
+            [
+              -0.02500000037252903,
+              0.23999999463558197,
+              1.524999976158142
+            ]
+          ],
+          "front_to_back_depth_m": 0.5460000038146973,
+          "front_edge_wall_hit_m": 0.02000000886619091,
+          "rack_bars_inside": 18
+        },
+        {
+          "asset": "SM_Plane_ForwardGalley_R",
+          "object": "Rear_R_upper_oven insulated chamber",
+          "outer_bounds": [
+            [
+              -0.5849999785423279,
+              -0.3100000023841858,
+              1.590000033378601
+            ],
+            [
+              -0.02500000037252903,
+              0.23999999463558197,
+              2.059999942779541
+            ]
+          ],
+          "front_to_back_depth_m": 0.5460000038146973,
+          "front_edge_wall_hit_m": 0.02000001072883606,
+          "rack_bars_inside": 18
+        }
+      ]
+    },
+    {
+      "test": "Both formed vanities contain real side openings and usable cavity depth",
+      "passed": true,
+      "vanities": [
+        {
+          "lavatory": "R",
+          "clear_inner_wall_samples": 9,
+          "blocked_samples": [],
+          "actual_inner_door_plane_to_outer_liner_depth_m": 0.3939999303817749,
+          "retained_outer_shell": "Contoured aircraft vanity side shell.001"
+        },
+        {
+          "lavatory": "L",
+          "clear_inner_wall_samples": 9,
+          "blocked_samples": [],
+          "actual_inner_door_plane_to_outer_liner_depth_m": 0.3939999303817749,
+          "retained_outer_shell": "Contoured aircraft vanity side shell.003"
+        }
+      ],
+      "method": "Raycast modified side thickness at9 interior points, then measure the retained opposite liner; moving door is separately authored closed."
+    },
+    {
+      "test": "All interaction actors, targets, linked props and close-up cameras exist",
+      "passed": true,
+      "actual_inventory": {
+        "seat": 50,
+        "door": 1,
+        "movable": 106,
+        "screen": 48,
+        "control": 188,
+        "inspect": 47
+      },
+      "total_interactions": 440,
+      "missing": [],
+      "duplicate_actors": []
+    },
+    {
+      "test": "Both retained pilot sightlines still reach actual glazing",
+      "passed": true,
+      "measured_rays": [
+        {
+          "seat": "SM_Plane_Seat.016",
+          "pitch_deg": 0,
+          "first_hit": "Fitted curved cockpit glazing11.003",
+          "point": [
+            -1.100000023841858,
+            -6.203754901885986,
+            1.600000023841858
+          ]
+        },
+        {
+          "seat": "SM_Plane_Seat.016",
+          "pitch_deg": 5,
+          "first_hit": "Fitted curved cockpit glazing11.003",
+          "point": [
+            -1.100000023841858,
+            -5.87583065032959,
+            1.8306052684783936
+          ]
+        },
+        {
+          "seat": "SM_Plane_Seat.016",
+          "pitch_deg": 10,
+          "first_hit": "Fitted curved cockpit glazing11.003",
+          "point": [
+            -1.100000023841858,
+            -5.603880882263184,
+            2.0168159008026123
+          ]
+        },
+        {
+          "seat": "SM_Plane_Seat.016",
+          "pitch_deg": 15,
+          "first_hit": "Fitted curved cockpit glazing11.003",
+          "point": [
+            -1.100000023841858,
+            -5.352984428405762,
+            2.166172504425049
+          ]
+        },
+        {
+          "seat": "SM_Plane_Seat.017",
+          "pitch_deg": 0,
+          "first_hit": "Fitted curved cockpit glazing11",
+          "point": [
+            1.100000023841858,
+            -6.203517436981201,
+            1.600000023841858
+          ]
+        },
+        {
+          "seat": "SM_Plane_Seat.017",
+          "pitch_deg": 5,
+          "first_hit": "Fitted curved cockpit glazing11",
+          "point": [
+            1.100000023841858,
+            -5.875609397888184,
+            1.8305859565734863
+          ]
+        },
+        {
+          "seat": "SM_Plane_Seat.017",
+          "pitch_deg": 10,
+          "first_hit": "Fitted curved cockpit glazing11",
+          "point": [
+            1.100000023841858,
+            -5.6038079261779785,
+            2.01680326461792
+          ]
+        },
+        {
+          "seat": "SM_Plane_Seat.017",
+          "pitch_deg": 15,
+          "first_hit": "Fitted curved cockpit glazing11",
+          "point": [
+            1.100000023841858,
+            -5.352855682373047,
+            2.166137933731079
+          ]
+        }
+      ]
+    },
+    {
+      "test": "Audit did not change the saved source",
+      "passed": true,
+      "sha256_before": "718cd6c2845211682a6eac6057aed830bfcc02e185a01c5032b68cf2e8431000",
+      "sha256_after": "718cd6c2845211682a6eac6057aed830bfcc02e185a01c5032b68cf2e8431000"
+    }
+  ],
+  "limitations": [
+    "Read-only saved Blender geometry measurements; native walking and interaction tests are a separate required report.",
+    "No authoring helper was imported and no source file was saved.",
+    "Static meshes and project clearances do not constitute aircraft certification."
+  ]
+}

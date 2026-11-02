@@ -1,0 +1,14 @@
+{
+  "mesh": "/Game/Art/Meshes/SM_Plane_ExteriorAirframe.SM_Plane_ExteriorAirframe",
+  "origin": [
+    0.0,
+    17.31,
+    2.183000030517578
+  ],
+  "extent": [
+    22.6681640625,
+    26.07,
+    5.616999969482422
+  ],
+  "min_x": -22.6681640625
+}

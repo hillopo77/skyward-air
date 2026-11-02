@@ -1,0 +1,185 @@
+<title>Pass 70 Before and After</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Overpass:wght@600;800&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<style>
+/* Layout: a single column of full-width comparison frames, each with a signage-style caption bar, like walking the route stop by stop. */
+:root {
+  --ground: #f3f1ec;     /* warm terrazzo */
+  --ink: #12222b;        /* navy text */
+  --muted: #5b6870;
+  --panel: #0f2a33;      /* Skyward navy sign board */
+  --panel-ink: #f4ead6;  /* lit sign lettering */
+  --gold: #b88a2c;
+  --line: #dcd6ca;
+  --display: "Overpass", "Segoe UI", system-ui, sans-serif;
+  --body: "Atkinson Hyperlegible", "Segoe UI", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --ground: #0b1418; --ink: #e9e4d8; --muted: #9aa6ab; --panel: #132f39; --panel-ink: #f4ead6; --gold: #d3a648; --line: #24343b; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --ground: #0b1418; --ink: #e9e4d8; --muted: #9aa6ab; --panel: #132f39; --panel-ink: #f4ead6; --gold: #d3a648; --line: #24343b; color-scheme: dark }
+
+body { background: var(--ground); color: var(--ink); font-family: var(--body); font-size: 16px; line-height: 1.55; }
+.wrap { max-width: 1180px; margin: 0 auto; padding-block: 28px 64px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: grid; gap: 40px; }
+header { display: grid; gap: 10px; }
+.eyebrow { font-family: var(--display); font-weight: 600; letter-spacing: .14em; text-transform: uppercase; font-size: 12px; color: var(--gold); }
+h1 { font-family: var(--display); font-weight: 800; font-size: clamp(28px, 4.6vw, 44px); line-height: 1.05; margin: 0; text-wrap: balance; }
+.lede { margin: 0; max-width: 64ch; color: var(--muted); }
+.how { font-size: 14px; color: var(--muted); margin: 0; }
+
+figure { margin: 0; display: grid; gap: 0; }
+.bar { background: var(--panel); color: var(--panel-ink); display: flex; align-items: center; gap: 14px;
+  padding: 10px 16px; border-radius: 4px 4px 0 0; flex-wrap: wrap; }
+.badge { flex: none; width: 30px; height: 30px; border-radius: 50%; background: var(--gold); color: #0f2a33;
+  display: grid; place-items: center; font-family: var(--display); font-weight: 800; font-size: 15px; }
+.bar h2 { font-family: var(--display); font-weight: 800; font-size: 17px; letter-spacing: .06em; text-transform: uppercase; margin: 0; }
+.bar .where { margin-left: auto; font-size: 13px; opacity: .75; font-variant-numeric: tabular-nums; }
+
+.cmp { position: relative; aspect-ratio: 16 / 9; max-width: 100%; overflow: hidden; background: #000;
+  touch-action: pan-y; user-select: none; cursor: ew-resize; }
+.cmp img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; pointer-events: none; }
+.cmp .after { clip-path: inset(0 0 0 var(--pos, 50%)); }
+.handle { position: absolute; top: 0; bottom: 0; left: var(--pos, 50%); width: 0; pointer-events: none; }
+.handle::before { content: ""; position: absolute; top: 0; bottom: 0; left: -1.5px; width: 3px; background: var(--panel-ink); box-shadow: 0 0 0 1px rgba(15,42,51,.5); }
+.knob { position: absolute; top: 50%; left: 0; transform: translate(-50%, -50%); width: 44px; height: 44px; border-radius: 50%;
+  background: var(--panel); border: 3px solid var(--panel-ink); display: grid; place-items: center; }
+.knob svg { width: 22px; height: 22px; fill: var(--panel-ink); }
+.tag { position: absolute; top: 12px; font-family: var(--display); font-weight: 800; font-size: 12px; letter-spacing: .14em;
+  text-transform: uppercase; padding: 5px 9px; border-radius: 3px; pointer-events: none; }
+.tag.b { left: 12px; background: rgba(15,42,51,.82); color: #f4ead6; }
+.tag.a { right: 12px; background: var(--gold); color: #0f2a33; }
+.cmp input { position: absolute; inset: 0; width: 100%; height: 100%; opacity: 0; margin: 0; cursor: ew-resize; }
+.cmp:has(input:focus-visible) .knob { outline: 3px solid var(--gold); outline-offset: 3px; }
+
+.seg { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin-top: 6px; }
+.seg-label { font-size: 13px; color: var(--muted); margin-right: 4px; }
+.seg button { font: 700 14px var(--body); padding: 8px 14px; border-radius: 999px; border: 1.5px solid var(--panel);
+  background: transparent; color: var(--ink); cursor: pointer; }
+.seg button[aria-checked="true"] { background: var(--panel); color: var(--panel-ink); }
+.seg button:focus-visible { outline: 3px solid var(--gold); outline-offset: 2px; }
+.part { display: grid; gap: 24px; }
+.part-head { display: grid; gap: 8px; border-top: 2px solid var(--panel); padding-top: 18px; }
+.part-title { font-family: var(--display); font-weight: 800; font-size: clamp(22px, 3vw, 30px); margin: 0; text-wrap: balance; }
+.list { display: grid; gap: 40px; }
+figcaption { border: 1px solid var(--line); border-top: 0; border-radius: 0 0 4px 4px; padding: 12px 16px; font-size: 15px; }
+figcaption p { margin: 0; max-width: 78ch; }
+footer { font-size: 13px; color: var(--muted); border-top: 1px solid var(--line); padding-top: 16px; }
+@media (max-width: 520px) { .bar .where { margin-left: 0; width: 100%; } .knob { width: 36px; height: 36px; } }
+</style>
+
+<div class="wrap">
+  <header>
+    <div class="eyebrow">Skyward Air · Pass 70</div>
+    <h1>This round, before and after</h1>
+    <p class="lede">The cabin relit from real sources, the screening hall, the WC passage and the washrooms redesigned, and three fixes at the gates. Each pair is the same camera spot in the game, before and after.</p>
+    <p class="how">Drag across any picture (or focus it and use the arrow keys) to wipe between before and after.</p>
+  </header>
+  <div class="list">
+  <figure>
+    <div class="bar"><span class="badge">1</span><h2>Economy cabin</h2><span class="where">In the plane</span></div>
+    <div class="cmp" style="--pos:50%">
+      <img class="before" src="img/C69eco_before.jpg" alt="Economy cabin, before" loading="eager">
+      <img class="after" src="img/C69eco_after.jpg" alt="Economy cabin, after" loading="eager">
+      <span class="tag b">Before</span><span class="tag a">After</span>
+      <div class="handle"><div class="knob"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6 3 12l6 6V6zm6 0v12l6-6-6-6z"/></svg></div></div>
+      <input type="range" min="0" max="100" step="0.1" value="50" aria-label="Economy cabin: before and after">
+    </div>
+    <figcaption><p>The flat glow from nowhere and the controls above the seats are gone. The light comes from glowing strips under the bins, nothing lights the ceiling, path lights glow along the aisle, and the pale line down the carpet is gone.</p></figcaption>
+  </figure>
+  <figure>
+    <div class="bar"><span class="badge">2</span><h2>Business cabin</h2><span class="where">In the plane</span></div>
+    <div class="cmp" style="--pos:50%">
+      <img class="before" src="img/C69bus_before.jpg" alt="Business cabin, before" loading="eager">
+      <img class="after" src="img/C69bus_after.jpg" alt="Business cabin, after" loading="eager">
+      <span class="tag b">Before</span><span class="tag a">After</span>
+      <div class="handle"><div class="knob"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6 3 12l6 6V6zm6 0v12l6-6-6-6z"/></svg></div></div>
+      <input type="range" min="0" max="100" step="0.1" value="50" aria-label="Business cabin: before and after">
+    </div>
+    <figcaption><p>The suites lit from the strips under the bins, a quiet ceiling, and glowing path lights just inside the carpet trim.</p></figcaption>
+  </figure>
+  <figure>
+    <div class="bar"><span class="badge">3</span><h2>Security: the calm screening hall</h2><span class="where">Screening</span></div>
+    <div class="cmp" style="--pos:50%">
+      <img class="before" src="img/S70sec_before.jpg" alt="Security: the calm screening hall, before" loading="lazy">
+      <img class="after" src="img/S70sec_after.jpg" alt="Security: the calm screening hall, after" loading="lazy">
+      <span class="tag b">Before</span><span class="tag a">After</span>
+      <div class="handle"><div class="knob"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6 3 12l6 6V6zm6 0v12l6-6-6-6z"/></svg></div></div>
+      <input type="range" min="0" max="100" step="0.1" value="50" aria-label="Security: the calm screening hall: before and after">
+    </div>
+    <figcaption><p>Sage acoustic bays above the oak, a backlit SECURITY / SAFE TRAVELS wall with what-to-divest pictograms, lane signs hung over both lanes, an oak divest counter per lane with a lit instruction panel, and brass lane lines in the floor.</p></figcaption>
+  </figure>
+  <figure>
+    <div class="bar"><span class="badge">4</span><h2>The WC passage</h2><span class="where">Outside the toilets</span></div>
+    <div class="cmp" style="--pos:50%">
+      <img class="before" src="img/S70wcp_before.jpg" alt="The WC passage, before" loading="lazy">
+      <img class="after" src="img/S70wcp_after.jpg" alt="The WC passage, after" loading="lazy">
+      <span class="tag b">Before</span><span class="tag a">After</span>
+      <div class="handle"><div class="knob"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6 3 12l6 6V6zm6 0v12l6-6-6-6z"/></svg></div></div>
+      <input type="range" min="0" max="100" step="0.1" value="50" aria-label="The WC passage: before and after">
+    </div>
+    <figcaption><p>Three backlit landscapes with picture lights, a sunrise mural on the end wall, a lit WC sign with pictograms at the washroom door, a bottle-refill station, a living green wall and a teal runner.</p></figcaption>
+  </figure>
+  <figure>
+    <div class="bar"><span class="badge">5</span><h2>The washrooms</h2><span class="where">Toilets</span></div>
+    <div class="cmp" style="--pos:50%">
+      <img class="before" src="img/S70wc_before.jpg" alt="The washrooms, before" loading="lazy">
+      <img class="after" src="img/S70wc_after.jpg" alt="The washrooms, after" loading="lazy">
+      <span class="tag b">Before</span><span class="tag a">After</span>
+      <div class="handle"><div class="knob"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6 3 12l6 6V6zm6 0v12l6-6-6-6z"/></svg></div></div>
+      <input type="range" min="0" max="100" step="0.1" value="50" aria-label="The washrooms: before and after">
+    </div>
+    <figcaption><p>Walnut slats on the cubicle fronts with brass lintels and lit numbers, a sage tile wainscot, a large-format tile floor, three backlit round mirrors and globe pendants over the vanity.</p></figcaption>
+  </figure>
+  <figure>
+    <div class="bar"><span class="badge">6</span><h2>Gate A08: the sign stops flickering</h2><span class="where">Gate A08</span></div>
+    <div class="cmp" style="--pos:50%">
+      <img class="before" src="img/S70sign_before.jpg" alt="Gate A08: the sign stops flickering, before" loading="lazy">
+      <img class="after" src="img/S70sign_after.jpg" alt="Gate A08: the sign stops flickering, after" loading="lazy">
+      <span class="tag b">Before</span><span class="tag a">After</span>
+      <div class="handle"><div class="knob"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6 3 12l6 6V6zm6 0v12l6-6-6-6z"/></svg></div></div>
+      <input type="range" min="0" max="100" step="0.1" value="50" aria-label="Gate A08: the sign stops flickering: before and after">
+    </div>
+    <figcaption><p>The slat wall behind the A08 numerals sat exactly on the wall and fought it, drawing a noisy band; it now stands just proud of it. The same fix stops the terrace flicker.</p></figcaption>
+  </figure>
+  <figure>
+    <div class="bar"><span class="badge">7</span><h2>Gate A08: a real play plane</h2><span class="where">Gate A08</span></div>
+    <div class="cmp" style="--pos:50%">
+      <img class="before" src="img/S70kids_before.jpg" alt="Gate A08: a real play plane, before" loading="lazy">
+      <img class="after" src="img/S70kids_after.jpg" alt="Gate A08: a real play plane, after" loading="lazy">
+      <span class="tag b">Before</span><span class="tag a">After</span>
+      <div class="handle"><div class="knob"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6 3 12l6 6V6zm6 0v12l6-6-6-6z"/></svg></div></div>
+      <input type="range" min="0" max="100" step="0.1" value="50" aria-label="Gate A08: a real play plane: before and after">
+    </div>
+    <figcaption><p>The big green cylinder with flat wings is gone; a cartoon play plane with a propeller, canopy, portholes, wheels and little stairs sits on the mat.</p></figcaption>
+  </figure>
+  <figure>
+    <div class="bar"><span class="badge">8</span><h2>Gate A07: the agent, fixed</h2><span class="where">Gate A07</span></div>
+    <div class="cmp" style="--pos:50%">
+      <img class="before" src="img/S70desk_before.jpg" alt="Gate A07: the agent, fixed, before" loading="lazy">
+      <img class="after" src="img/S70desk_after.jpg" alt="Gate A07: the agent, fixed, after" loading="lazy">
+      <span class="tag b">Before</span><span class="tag a">After</span>
+      <div class="handle"><div class="knob"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6 3 12l6 6V6zm6 0v12l6-6-6-6z"/></svg></div></div>
+      <input type="range" min="0" max="100" step="0.1" value="50" aria-label="Gate A07: the agent, fixed: before and after">
+    </div>
+    <figcaption><p>The agent wore a character model whose update broke its skinning, stretching a red sheet across the gate. They now wear the working coat model.</p></figcaption>
+  </figure>
+  </div>
+  <footer>Stills captured in Unreal Engine at 1920×1080, resized for the web. Cabin before: Pass 68 with the sky light on. Everything else before: earlier on 2 November, before this pass.</footer>
+</div>
+
+<script>
+document.querySelectorAll('figure').forEach(f => {
+  const box = f.querySelector('.cmp'), input = f.querySelector('input');
+  const set = v => { box.style.setProperty('--pos', v + '%'); input.value = v; };
+  input.addEventListener('input', () => set(input.value));
+  let drag = false;
+  const move = e => { const r = box.getBoundingClientRect(); set(Math.max(0, Math.min(100, (e.clientX - r.left) / r.width * 100))); };
+  box.addEventListener('pointerdown', e => { drag = true; box.setPointerCapture(e.pointerId); move(e); });
+  box.addEventListener('pointermove', e => { if (drag) move(e); });
+  box.addEventListener('pointerup', () => drag = false);
+  box.addEventListener('pointercancel', () => drag = false);
+});
+</script>

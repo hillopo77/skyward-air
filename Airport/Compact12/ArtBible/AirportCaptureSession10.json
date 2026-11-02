@@ -1,0 +1,35 @@
+{
+  "status": "READY",
+  "pass_id": 10,
+  "revision": 12,
+  "runtime_sha256": "651c63c3a0ac06272f8c7e3767bf7588f7f41c696aa805bb61cabbca94bfa10e",
+  "journey": {
+    "checked_in": false,
+    "bag_accepted": false,
+    "security": false,
+    "boarding": false,
+    "aboard": false
+  },
+  "held": null,
+  "driving": null,
+  "spectator": false,
+  "native_physics_bodies": 16,
+  "events": [
+    {
+      "event": "Native tow couplings bound",
+      "time_s": 0.31199999999989814,
+      "count": 2
+    }
+  ],
+  "frame_statistics": {
+    "frames": 480,
+    "average_fps": 47.76637941491912,
+    "p95_ms": 18.394299999954455,
+    "maximum_ms": 703.564599999936
+  },
+  "player_source": [
+    -53.0,
+    -12.5,
+    1.62
+  ]
+}

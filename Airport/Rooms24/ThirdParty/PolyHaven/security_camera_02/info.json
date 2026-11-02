@@ -1,0 +1,62 @@
+{
+  "donated": true,
+  "name": "Security Camera 02",
+  "type": 2,
+  "info": null,
+  "date_published": 1693353600,
+  "staging": null,
+  "categories": [
+    "industrial",
+    "electronics",
+    "appliances",
+    "rigged",
+    "collection: hidden_alley"
+  ],
+  "tags": [
+    "camera",
+    "surveillance",
+    "monitoring",
+    "cctv",
+    "police",
+    "security",
+    "utility",
+    "infrastructure"
+  ],
+  "authors": {
+    "Garrison Gager": "Modeling & Texturing",
+    "Yann Kervran": "Rigging"
+  },
+  "max_resolution": [
+    8192,
+    8192
+  ],
+  "polycount": 12477,
+  "texel_density": 11749.061886175377,
+  "dimensions": [
+    140.66611975431442,
+    393.7917649745941,
+    208.5888683795929
+  ],
+  "sponsors": [
+    "146648879"
+  ],
+  "files_hash": "141ee900f27b02e86f21ef1c1b5a5500a7e22b40",
+  "description": "Free 8K model: rigged CCTV camera with weathered metal casing, protective hood and mounting bracket - perfect for industrial or urban surveillance scenes.",
+  "category_id": "e64298e4-a9df-5b16-bb7e-1fc3fc124d25",
+  "category": "Industrial & Infrastructure/Utility Equipment/Surveillance Cameras",
+  "collections": [
+    "hidden_alley"
+  ],
+  "attributes": {
+    "condition": [
+      "weathered"
+    ],
+    "material": [
+      "metal"
+    ],
+    "rigged": true
+  },
+  "img_version": "fca43927",
+  "download_count": 13532,
+  "thumbnail_url": "https://cdn.polyhaven.com/asset_img/thumbs/security_camera_02.png?width=256&height=256&format=webp&v=fca43927"
+}

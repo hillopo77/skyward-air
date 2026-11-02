@@ -1,0 +1,11 @@
+{
+  "status": "PASS_FILES_ONLY",
+  "html_sha256": "1d305126ec33f5221b82a64fa8de36d832e76a9216d6179b9c32b78b9a7f3c64",
+  "image_elements": 101,
+  "unique_images": 98,
+  "links": 564,
+  "missing_files": [],
+  "browser_visual_review": "BLOCKED_LOCAL_FILE_PROTOCOL",
+  "browser_reason": "Browser automation permits http/https and rejected file URL. No alternate server or browser workaround attempted.",
+  "scope": "UTF-8 and linked-file validation only; the genuine game screenshots were inspected separately."
+}

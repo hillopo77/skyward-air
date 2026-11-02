@@ -1,0 +1,14 @@
+{
+ "status": "SUCCESS",
+ "asset": "SM_AP_P47Facade",
+ "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass47\\FacadeBuild\\SM_AP_P47Facade.fbx",
+ "materials": [
+  "MI_AP_P38AGold",
+  "MI_AP_DarkSteel_001",
+  "MI_AP_P38AOak",
+  "MI_AP_P38ANavy",
+  "MI_AP_P38AText"
+ ],
+ "letters_span_m": 4.43,
+ "polygons": 6541
+}

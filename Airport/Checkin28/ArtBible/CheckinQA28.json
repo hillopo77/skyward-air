@@ -1,0 +1,200 @@
+{
+  "status": "SUCCESS",
+  "checks": [
+    {
+      "name": "Starts with check-in objective",
+      "passed": true
+    },
+    {
+      "name": "Native viewport1920x1080",
+      "passed": true
+    },
+    {
+      "name": "Check-in desk 01 quarter-turn matches layout",
+      "passed": true
+    },
+    {
+      "name": "Check-in desk 01 placed correctly",
+      "passed": true
+    },
+    {
+      "name": "Check-in desk 02 quarter-turn matches layout",
+      "passed": true
+    },
+    {
+      "name": "Check-in desk 02 placed correctly",
+      "passed": true
+    },
+    {
+      "name": "Check-in desk 03 quarter-turn matches layout",
+      "passed": true
+    },
+    {
+      "name": "Check-in desk 03 placed correctly",
+      "passed": true
+    },
+    {
+      "name": "Bag drop belt 01 travels along rotated belt",
+      "passed": true
+    },
+    {
+      "name": "Bag drop belt 02 travels along rotated belt",
+      "passed": true
+    },
+    {
+      "name": "Bag drop belt 03 travels along rotated belt",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-48.3, -12.5]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-46, -15.9]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-45.7, -16.0]",
+      "passed": true
+    },
+    {
+      "name": "Aim reaches Physical luggage 01",
+      "passed": true,
+      "selected": "Physical luggage 01"
+    },
+    {
+      "name": "Walk reaches [-46, -15]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-42, -15]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-42, -13]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-40.8, -13]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-40.8, -11.6]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-39.4, -11.6]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-39.4, -13]",
+      "passed": true
+    },
+    {
+      "name": "Entry arrives behind the last queue passenger",
+      "passed": true,
+      "player": [
+        -39.41331767028184,
+        -12.85764080162421
+      ],
+      "last_passenger": [
+        -38.5,
+        -13.0
+      ]
+    },
+    {
+      "name": "Walk reaches [-39.4, -13.65]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-34.4, -13.65]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-34.4, -13]",
+      "passed": true
+    },
+    {
+      "name": "Aim reaches Check-in desk 02",
+      "passed": true,
+      "selected": "Check-in desk 02"
+    },
+    {
+      "name": "Rotated counter issues boarding pass",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-34.4, -14.4]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-33.6, -14.4]",
+      "passed": true
+    },
+    {
+      "name": "Aim reaches Bag drop belt 02",
+      "passed": true,
+      "selected": "Bag drop belt 02"
+    },
+    {
+      "name": "Rotated conveyor accepts the physical suitcase",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-34.4, -14.4]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-34.4, -8.65]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-30, -8.65]",
+      "passed": true
+    },
+    {
+      "name": "Walk reaches [-30, -6]",
+      "passed": true
+    },
+    {
+      "name": "Room exit connects to the unchanged landside corridor",
+      "passed": true
+    }
+  ],
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin28\\Screenshots\\01_RotatedEntrance.png",
+      "sha256": "b2d2268062ed51a8a7e9df913a7956c726c96096a236ab4c72dc0c565a6711e4",
+      "view": "01_RotatedEntrance"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin28\\Screenshots\\02_QueueBack.png",
+      "sha256": "d4cbf2b359fa01ba0a7927d25a39167533747a654f39980b8527b48d6b5cb113",
+      "view": "02_QueueBack"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin28\\Screenshots\\03_RotatedBagDrop.png",
+      "sha256": "2c8342d529f0f1abe638e28b8eb544aee6494fa3e6d46a00246ae93c89359d89",
+      "view": "03_RotatedBagDrop"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Checkin28\\Screenshots\\04_RoomOverview.png",
+      "sha256": "218792191d54fe66e7ef31d29b476717044f4596d766c4fa8a4c5d829a17cc6c",
+      "view": "04_RoomOverview"
+    }
+  ],
+  "step": 33,
+  "continuous_walk": true,
+  "teleports": 0,
+  "elapsed_s": 26.187999999998283,
+  "viewport": [
+    1920,
+    1080
+  ],
+  "journey": {
+    "checked_in": true,
+    "bag_accepted": true,
+    "security": false,
+    "aboard": false
+  }
+}

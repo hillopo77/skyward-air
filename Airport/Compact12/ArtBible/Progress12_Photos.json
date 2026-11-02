@@ -1,0 +1,46 @@
+{
+  "status": "SUCCESS",
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Compact12\\Screenshots\\Progress12_01_Entrance.png",
+      "sha256": "8e4b6ece279a9af1c2bfa6f4fef2b50bcf71a6f5d3284c066fc54ce77f55fcc1",
+      "view": "01_Entrance"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Compact12\\Screenshots\\Progress12_02_CheckIn.png",
+      "sha256": "06dff36f277eb8c08d1bbe66ff7a61c28af5734cab3e348daef6565bd6dfc652",
+      "view": "02_CheckIn"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Compact12\\Screenshots\\Progress12_03_Security.png",
+      "sha256": "5bda613bc6f6e0377010c997528b0e5817eca42e3b3b03e998c88d82b2d49c22",
+      "view": "03_Security"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Compact12\\Screenshots\\Progress12_04_GateHall.png",
+      "sha256": "82c5a113b90415098fea318712abac0678416b245e324fa7e35c15eaaf6a0223",
+      "view": "04_GateHall"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Compact12\\Screenshots\\Progress12_05_ReferenceView.png",
+      "sha256": "52798736ad8fb94a8dfcf38422d720c90713422a7d8afa03f44fa1f66d553bc7",
+      "view": "05_ReferenceView"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Compact12\\Screenshots\\Progress12_06_Cafe.png",
+      "sha256": "293c4feac88680595f2f337daa9f05a72a58542a330a373aadd87be6e33af093",
+      "view": "06_Cafe"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Compact12\\Screenshots\\Progress12_07_Gallery.png",
+      "sha256": "0ecf0d56c644787b67af788d3407cbdc67fcde4c649d0f37507be0d8e8f21521",
+      "view": "07_Gallery"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Compact12\\Screenshots\\Progress12_08_Boarding.png",
+      "sha256": "dc0637e0d2f38ead804f00ac42172e4e81cba78affbaf9baf697fe085735ab3c",
+      "view": "08_Boarding"
+    }
+  ],
+  "runtime_sha256": "367063e04ba0ee2eaeab7240f0a6dbf42e3938dd9e576240bfea8bb997844378"
+}

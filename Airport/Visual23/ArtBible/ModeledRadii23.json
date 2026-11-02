@@ -1,0 +1,2700 @@
+{
+  "status": "SUCCESS",
+  "assets": [
+    "SM_AP_Facade12",
+    "SM_AP_Roof12",
+    "SM_AP_Pillar12",
+    "SM_AP_Pendant12",
+    "SM_AP_Stairs12",
+    "SM_AP_Divider12",
+    "SM_AP_Counter",
+    "SM_AP_Kiosk",
+    "SM_AP_Belt",
+    "SM_AP_Scanner",
+    "SM_AP_Portal",
+    "SM_AP_Tray",
+    "SM_AP_Bench3",
+    "SM_AP_CafeTable",
+    "SM_AP_CafeChair",
+    "SM_AP_Coffee",
+    "SM_AP_BakeryCounter",
+    "SM_AP_RegisterCounter",
+    "SM_AP_TeaCounter",
+    "SM_AP_Recycling",
+    "SM_AP_Sign",
+    "SM_AP_SmallSign",
+    "SM_AP_ScreenBoard",
+    "SM_AP_GateDoor",
+    "SM_AP_BridgeWall",
+    "SM_AP_BridgeFloor",
+    "SM_AP_BridgeRoof",
+    "SM_AP_RoomWall11",
+    "SM_AP_RoomCeiling11",
+    "SM_AP_RoomPortal11",
+    "SM_AP_Vanity",
+    "SM_AP_HandDryer",
+    "SM_AP_RetailShelf",
+    "SM_AP_ChargingTable",
+    "SM_AP_Tile",
+    "SM_AP_MezzanineRear23",
+    "SM_AP_MezzanineReturn23",
+    "SM_AP_MezzanineLanding23"
+  ],
+  "changes": [
+    {
+      "asset": "SM_AP_Facade12",
+      "object": "Continuous facade structural mullion12",
+      "old_radius": 0.017999999225139618,
+      "radius": 0.025300001725554466,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Facade12",
+      "object": "Anchored facade shoe12",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Facade12",
+      "object": "Continuous facade structural mullion12.001",
+      "old_radius": 0.017999999225139618,
+      "radius": 0.025300001725554466,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Facade12",
+      "object": "Anchored facade shoe12.001",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Facade12",
+      "object": "Glazing transom12",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Facade12",
+      "object": "Glazing transom12.001",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Facade12",
+      "object": "Glazing transom12.002",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Facade12",
+      "object": "Glazing transom12.003",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Facade12",
+      "object": "Glazing transom12.004",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Facade12",
+      "object": "Clear captured glazing12",
+      "old_radius": 0.0020000000949949026,
+      "radius": 0.003100000089034438,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Facade12",
+      "object": "Clear captured glazing12.001",
+      "old_radius": 0.0020000000949949026,
+      "radius": 0.003100000089034438,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Facade12",
+      "object": "Clear captured glazing12.002",
+      "old_radius": 0.0020000000949949026,
+      "radius": 0.003100000089034438,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Facade12",
+      "object": "Blue enamel lower spandrel12",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Roof12",
+      "object": "Roof longitudinal purlin12",
+      "old_radius": 0.009999999776482582,
+      "radius": 0.015399985015392303,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Roof12",
+      "object": "Roof longitudinal purlin12.001",
+      "old_radius": 0.009999999776482582,
+      "radius": 0.015399999916553497,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Roof12",
+      "object": "Roof longitudinal purlin12.002",
+      "old_radius": 0.009999999776482582,
+      "radius": 0.015399985015392303,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Pillar12",
+      "object": "Bolted base plate12",
+      "old_radius": 0.02500000037252903,
+      "radius": 0.01759999990463257,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Pendant12",
+      "object": "Continuous pendant housing12",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Pendant12",
+      "object": "Recessed opal light diffuser12",
+      "old_radius": 0.006000000052154064,
+      "radius": 0.0033000002149492502,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Pendant12",
+      "object": "Warm brass light endcap12",
+      "old_radius": 0.014000000432133675,
+      "radius": 0.017600009217858315,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Pendant12",
+      "object": "Warm brass light endcap12.001",
+      "old_radius": 0.014000000432133675,
+      "radius": 0.017600009217858315,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Pendant12",
+      "object": "Ceiling rose12",
+      "old_radius": 0.0044999998062849045,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Pendant12",
+      "object": "Ceiling rose12.001",
+      "old_radius": 0.0044999998062849045,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Stairs12",
+      "object": "Supported stair tread12",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Stairs12",
+      "object": "Supported stair tread12.001",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Stairs12",
+      "object": "Supported stair tread12.002",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Stairs12",
+      "object": "Supported stair tread12.003",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Stairs12",
+      "object": "Supported stair tread12.004",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Stairs12",
+      "object": "Supported stair tread12.005",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Stairs12",
+      "object": "Supported stair tread12.006",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Stairs12",
+      "object": "Supported stair tread12.007",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Stairs12",
+      "object": "Supported stair tread12.008",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Stairs12",
+      "object": "Supported stair tread12.009",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Stairs12",
+      "object": "Supported stair tread12.010",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Stairs12",
+      "object": "Supported stair tread12.011",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Stairs12",
+      "object": "Supported stair tread12.012",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Stairs12",
+      "object": "Supported stair tread12.013",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Stairs12",
+      "object": "Supported stair tread12.014",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Stairs12",
+      "object": "Supported stair tread12.015",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Stairs12",
+      "object": "Supported stair tread12.016",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Stairs12",
+      "object": "Supported stair tread12.017",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Stairs12",
+      "object": "Continuous turn landing12",
+      "old_radius": 0.02500000037252903,
+      "radius": 0.0374000184237957,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Stairs12",
+      "object": "Landing load-bearing pier12",
+      "old_radius": 0.019999999552965164,
+      "radius": 0.03099999949336052,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Stairs12",
+      "object": "Landing load-bearing pier12.001",
+      "old_radius": 0.019999999552965164,
+      "radius": 0.03099999949336052,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Divider12",
+      "object": "Retained half-wall plinth12",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Divider12",
+      "object": "Blue opaque wayfinding base12",
+      "old_radius": 0.017999999225139618,
+      "radius": 0.027899999171495438,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Divider12",
+      "object": "Captured privacy glazing12",
+      "old_radius": 0.00800000037997961,
+      "radius": 0.005499999970197678,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Divider12",
+      "object": "Divider mullion12",
+      "old_radius": 0.007000000216066837,
+      "radius": 0.008799998089671135,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Divider12",
+      "object": "Divider mullion12.001",
+      "old_radius": 0.007000000216066837,
+      "radius": 0.008799998089671135,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Divider12",
+      "object": "Divider coped rail12",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.013200039975345135,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Recessed toe plinth",
+      "old_radius": 0.02500000037252903,
+      "radius": 0.030799999833106995,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Folded cabinet side",
+      "old_radius": 0.017999999225139618,
+      "radius": 0.012319998815655708,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Folded cabinet side.001",
+      "old_radius": 0.017999999225139618,
+      "radius": 0.012319998815655708,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Cabinet backing",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.009899997152388096,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Actual shelf",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.00989999994635582,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Actual shelf.001",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.007699992507696152,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Inset fitted drawer front",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Lower cupboard leaf",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Inset fitted drawer front.001",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Lower cupboard leaf.001",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Continuous worktop",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01649998500943184,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Counter fascia",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.015399998053908348,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Operator keyboard tray",
+      "old_radius": 0.009999999776482582,
+      "radius": 0.0055000209249556065,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.001",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.002",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.003",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.004",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.005",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.006",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.007",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.008",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.009",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.010",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.011",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.012",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.013",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.014",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.015",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.016",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.017",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.018",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.019",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.020",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.021",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.022",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.023",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.024",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.025",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.026",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.027",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.028",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.029",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.030",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.031",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.032",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.033",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.034",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.035",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.036",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.037",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.038",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.039",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.040",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.041",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.042",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.043",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.044",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.045",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.046",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Keyboard key.047",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Screen housing",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Weighted stand",
+      "old_radius": 0.00800000037997961,
+      "radius": 0.007040000986307859,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Passport document pad",
+      "old_radius": 0.006500000134110451,
+      "radius": 0.00572000490501523,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Counter",
+      "object": "Mounted reader",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.022000005468726158,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Kiosk",
+      "object": "Upper bezel",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.015400001779198647,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Kiosk",
+      "object": "Receipt aperture",
+      "old_radius": 0.00800000037997961,
+      "radius": 0.0026400021743029356,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Kiosk",
+      "object": "Scanner lens",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.0043999990448355675,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Kiosk",
+      "object": "Ticket shelf",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.007700005546212196,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Belt",
+      "object": "Folded side rail",
+      "old_radius": 0.009999999776482582,
+      "radius": 0.015399998053908348,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Belt",
+      "object": "Folded side rail.001",
+      "old_radius": 0.009999999776482582,
+      "radius": 0.015399998053908348,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Belt",
+      "object": "Rubber conveyor bed",
+      "old_radius": 0.02500000037252903,
+      "radius": 0.014299999922513962,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Belt",
+      "object": "Emergency stop box",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Chamfered equipment shoulder",
+      "old_radius": 0.04500000178813934,
+      "radius": 0.03300000727176666,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Chamfered equipment shoulder.001",
+      "old_radius": 0.04500000178813934,
+      "radius": 0.03300000727176666,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Tunnel roof",
+      "old_radius": 0.05000000074505806,
+      "radius": 0.03520001843571663,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Tunnel floor",
+      "old_radius": 0.03500000014901161,
+      "radius": 0.026399988681077957,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Service door",
+      "old_radius": 0.03500000014901161,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Service door.001",
+      "old_radius": 0.03500000014901161,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.001",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.002",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.003",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.004",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.005",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.006",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.007",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.008",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.009",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.010",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.011",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Curtain support",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.012099988758563995,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.012",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.013",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.014",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.015",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.016",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.017",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.018",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.019",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.020",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.021",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.022",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Individual flexible curtain strip.023",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.003960001282393932,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Curtain support.001",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.012099988758563995,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Screen housing.001",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Weighted stand.001",
+      "old_radius": 0.00800000037997961,
+      "radius": 0.007040000986307859,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Operator side shelf",
+      "old_radius": 0.03999999910593033,
+      "radius": 0.015400011092424393,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Scanner status optic",
+      "old_radius": 0.009999999776482582,
+      "radius": 0.0076999664306640625,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Scanner status optic.001",
+      "old_radius": 0.009999999776482582,
+      "radius": 0.0076999664306640625,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Cooling vent",
+      "old_radius": 0.009999999776482582,
+      "radius": 0.004399995785206556,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Cooling vent.001",
+      "old_radius": 0.009999999776482582,
+      "radius": 0.004399995785206556,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Cooling vent.002",
+      "old_radius": 0.009999999776482582,
+      "radius": 0.004399995785206556,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Cooling vent.003",
+      "old_radius": 0.009999999776482582,
+      "radius": 0.004399995785206556,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Cooling vent.004",
+      "old_radius": 0.009999999776482582,
+      "radius": 0.004399995785206556,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Cooling vent.005",
+      "old_radius": 0.009999999776482582,
+      "radius": 0.004399995785206556,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Scanner",
+      "object": "Cooling vent.006",
+      "old_radius": 0.009999999776482582,
+      "radius": 0.004399995785206556,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Portal",
+      "object": "Heavy base",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Portal",
+      "object": "Zone indication light",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.005499998107552528,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Portal",
+      "object": "Zone indication light.001",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.005499998107552528,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Portal",
+      "object": "Zone indication light.002",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.005499998107552528,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Portal",
+      "object": "Zone indication light.003",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.005499998107552528,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Portal",
+      "object": "Heavy base.001",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Portal",
+      "object": "Zone indication light.004",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.005499998107552528,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Portal",
+      "object": "Zone indication light.005",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.005499998107552528,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Portal",
+      "object": "Zone indication light.006",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.005499998107552528,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Portal",
+      "object": "Zone indication light.007",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.005499998107552528,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Portal",
+      "object": "Rounded header",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Tray",
+      "object": "Nested tray basin",
+      "old_radius": 0.008999999612569809,
+      "radius": 0.013949999585747719,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Tray",
+      "object": "Load-bearing tray bottom",
+      "old_radius": 0.05999999865889549,
+      "radius": 0.005499999970197678,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Bench3",
+      "object": "Sculpted upholstered seat",
+      "old_radius": 0.026000000536441803,
+      "radius": 0.040300000458955765,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Bench3",
+      "object": "Sculpted upholstered seat.001",
+      "old_radius": 0.026000000536441803,
+      "radius": 0.040300000458955765,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Bench3",
+      "object": "Sculpted upholstered seat.002",
+      "old_radius": 0.026000000536441803,
+      "radius": 0.040300000458955765,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Bench3",
+      "object": "Extruded beam",
+      "old_radius": 0.02500000037252903,
+      "radius": 0.024199996143579483,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Bench3",
+      "object": "Tapered pedestal",
+      "old_radius": 0.009999999776482582,
+      "radius": 0.01549999974668026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Bench3",
+      "object": "Floor anchored foot",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.014299999922513962,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Bench3",
+      "object": "Tapered pedestal.001",
+      "old_radius": 0.009999999776482582,
+      "radius": 0.01549999974668026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Bench3",
+      "object": "Floor anchored foot.001",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.014299999922513962,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_CafeTable",
+      "object": "Rounded cafe top",
+      "old_radius": 0.011250000447034836,
+      "radius": 0.009899990633130074,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_CafeTable",
+      "object": "Weighted table base",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01209999993443489,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_CafeChair",
+      "object": "Sculpted upholstered seat.003",
+      "old_radius": 0.026000000536441803,
+      "radius": 0.040300000458955765,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Coffee",
+      "object": "Recessed toe plinth.001",
+      "old_radius": 0.02500000037252903,
+      "radius": 0.030799999833106995,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Coffee",
+      "object": "Folded cabinet side.002",
+      "old_radius": 0.017999999225139618,
+      "radius": 0.012319998815655708,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Coffee",
+      "object": "Folded cabinet side.003",
+      "old_radius": 0.017999999225139618,
+      "radius": 0.012319998815655708,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Coffee",
+      "object": "Cabinet backing.001",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.009899997152388096,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Coffee",
+      "object": "Actual shelf.002",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.00989999994635582,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Coffee",
+      "object": "Actual shelf.003",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.007699992507696152,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Coffee",
+      "object": "Inset fitted drawer front.002",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Coffee",
+      "object": "Lower cupboard leaf.002",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Coffee",
+      "object": "Inset fitted drawer front.003",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Coffee",
+      "object": "Lower cupboard leaf.003",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Coffee",
+      "object": "Continuous worktop.001",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01649998500943184,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Coffee",
+      "object": "Machine fascia",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.008799998089671135,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Coffee",
+      "object": "Drip tray slot",
+      "old_radius": 0.004000000189989805,
+      "radius": 0.0026400184724479914,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Coffee",
+      "object": "Drip tray slot.001",
+      "old_radius": 0.004000000189989805,
+      "radius": 0.0026400184724479914,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Coffee",
+      "object": "Drip tray slot.002",
+      "old_radius": 0.004000000189989805,
+      "radius": 0.0026400184724479914,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Coffee",
+      "object": "Drip tray slot.003",
+      "old_radius": 0.004000000189989805,
+      "radius": 0.0026400184724479914,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Coffee",
+      "object": "Drip tray slot.004",
+      "old_radius": 0.004000000189989805,
+      "radius": 0.0026400184724479914,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Coffee",
+      "object": "Drip tray slot.005",
+      "old_radius": 0.004000000189989805,
+      "radius": 0.0026400184724479914,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Coffee",
+      "object": "Drip tray slot.006",
+      "old_radius": 0.004000000189989805,
+      "radius": 0.0026400184724479914,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Coffee",
+      "object": "Drip tray slot.007",
+      "old_radius": 0.004000000189989805,
+      "radius": 0.0026400184724479914,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Coffee",
+      "object": "Drip tray slot.008",
+      "old_radius": 0.004000000189989805,
+      "radius": 0.0026400184724479914,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Recessed toe plinth.002",
+      "old_radius": 0.02500000037252903,
+      "radius": 0.030799999833106995,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Folded cabinet side.004",
+      "old_radius": 0.017999999225139618,
+      "radius": 0.012319998815655708,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Folded cabinet side.005",
+      "old_radius": 0.017999999225139618,
+      "radius": 0.012319998815655708,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Cabinet backing.002",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.009899997152388096,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Actual shelf.004",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.00989999994635582,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Actual shelf.005",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.007699992507696152,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Inset fitted drawer front.004",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Lower cupboard leaf.004",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Inset fitted drawer front.005",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Lower cupboard leaf.005",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Continuous worktop.002",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01649998500943184,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Bakery case base",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Case side glass",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.004840003326535225,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Case side glass.001",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.004840003326535225,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Case top glass",
+      "old_radius": 0.009999999776482582,
+      "radius": 0.005499994847923517,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Sloped display glass",
+      "old_radius": 0.009999999776482582,
+      "radius": 0.0055000013671815395,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Display tray",
+      "old_radius": 0.019999999552965164,
+      "radius": 0.0055000209249556065,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Modeled pastry base",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.015400011092424393,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Modeled pastry base.001",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.015400011092424393,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Modeled pastry base.002",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.015400011092424393,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Modeled pastry base.003",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.015400011092424393,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Modeled pastry base.004",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.015400011092424393,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Display tray.001",
+      "old_radius": 0.019999999552965164,
+      "radius": 0.005499994847923517,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Modeled pastry base.005",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.015399985015392303,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Modeled pastry base.006",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.015399985015392303,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Modeled pastry base.007",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.015399985015392303,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Modeled pastry base.008",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.015399985015392303,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BakeryCounter",
+      "object": "Modeled pastry base.009",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.015399985015392303,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RegisterCounter",
+      "object": "Recessed toe plinth.003",
+      "old_radius": 0.02500000037252903,
+      "radius": 0.030799999833106995,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RegisterCounter",
+      "object": "Folded cabinet side.006",
+      "old_radius": 0.017999999225139618,
+      "radius": 0.012319998815655708,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RegisterCounter",
+      "object": "Folded cabinet side.007",
+      "old_radius": 0.017999999225139618,
+      "radius": 0.012319998815655708,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RegisterCounter",
+      "object": "Cabinet backing.003",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.009899997152388096,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RegisterCounter",
+      "object": "Actual shelf.006",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.00989999994635582,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RegisterCounter",
+      "object": "Actual shelf.007",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.007699992507696152,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RegisterCounter",
+      "object": "Inset fitted drawer front.006",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RegisterCounter",
+      "object": "Lower cupboard leaf.006",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RegisterCounter",
+      "object": "Inset fitted drawer front.007",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RegisterCounter",
+      "object": "Lower cupboard leaf.007",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RegisterCounter",
+      "object": "Continuous worktop.003",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01649998500943184,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RegisterCounter",
+      "object": "Register anchor",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.010999989695847034,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RegisterCounter",
+      "object": "Cash register display",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RegisterCounter",
+      "object": "Contactless payment reader",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.013199987821280956,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_TeaCounter",
+      "object": "Recessed toe plinth.004",
+      "old_radius": 0.02500000037252903,
+      "radius": 0.030799999833106995,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_TeaCounter",
+      "object": "Folded cabinet side.008",
+      "old_radius": 0.017999999225139618,
+      "radius": 0.012319998815655708,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_TeaCounter",
+      "object": "Folded cabinet side.009",
+      "old_radius": 0.017999999225139618,
+      "radius": 0.012319998815655708,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_TeaCounter",
+      "object": "Cabinet backing.004",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.009899997152388096,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_TeaCounter",
+      "object": "Actual shelf.008",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.00989999994635582,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_TeaCounter",
+      "object": "Actual shelf.009",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.007699992507696152,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_TeaCounter",
+      "object": "Inset fitted drawer front.008",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_TeaCounter",
+      "object": "Lower cupboard leaf.008",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_TeaCounter",
+      "object": "Inset fitted drawer front.009",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_TeaCounter",
+      "object": "Lower cupboard leaf.009",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_TeaCounter",
+      "object": "Continuous worktop.004",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01649998500943184,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_TeaCounter",
+      "object": "Tap lever",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.007699999026954174,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_TeaCounter",
+      "object": "Drip reservoir",
+      "old_radius": 0.011250000447034836,
+      "radius": 0.009900016710162163,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_TeaCounter",
+      "object": "Tap lever.001",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.007699999026954174,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_TeaCounter",
+      "object": "Drip reservoir.001",
+      "old_radius": 0.011250000447034836,
+      "radius": 0.009900016710162163,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_TeaCounter",
+      "object": "Tap lever.002",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.007699999026954174,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_TeaCounter",
+      "object": "Drip reservoir.002",
+      "old_radius": 0.011250000447034836,
+      "radius": 0.009900016710162163,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Recycling",
+      "object": "Bag removal door",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.007700002286583185,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Recycling",
+      "object": "Waste opening surround",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Recycling",
+      "object": "Open dark recess",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.003959998022764921,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Recycling",
+      "object": "Waste opening surround.001",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Recycling",
+      "object": "Open dark recess.001",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.003959998022764921,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Sign",
+      "object": "Suspended sign with backing",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_SmallSign",
+      "object": "Mounted signage",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.016499999910593033,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_ScreenBoard",
+      "object": "Flight display enclosure",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_GateDoor",
+      "object": "Tempered glass leaf",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.00989999994635582,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_GateDoor",
+      "object": "Bottom extrusion",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.023249998688697815,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_GateDoor",
+      "object": "Top extrusion",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.02199999988079071,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BridgeWall",
+      "object": "Jetbridge insulated lower wall",
+      "old_radius": 0.02500000037252903,
+      "radius": 0.02199999988079071,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BridgeWall",
+      "object": "Jetbridge glazing",
+      "old_radius": 0.009999999776482582,
+      "radius": 0.005499999970197678,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BridgeWall",
+      "object": "Upper frame",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.02199999988079071,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BridgeWall",
+      "object": "Lower glazing rail",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.02199999988079071,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BridgeWall",
+      "object": "Glazing mullion",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.017600009217858315,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BridgeFloor",
+      "object": "Jetbridge structural deck",
+      "old_radius": 0.03500000014901161,
+      "radius": 0.05425000190734863,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BridgeFloor",
+      "object": "Fitted walking carpet",
+      "old_radius": 0.009999999776482582,
+      "radius": 0.005499999970197678,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_BridgeRoof",
+      "object": "Insulated telescopic roof",
+      "old_radius": 0.03500000014901161,
+      "radius": 0.04840000718832016,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RoomWall11",
+      "object": "Layered solid room wall",
+      "old_radius": 0.02500000037252903,
+      "radius": 0.038750000298023224,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RoomWall11",
+      "object": "Protected dark skirting",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.007700000889599323,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RoomWall11",
+      "object": "Recessed navy wayfinding ribbon",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0066000004298985004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RoomWall11",
+      "object": "Oak wall coping",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.010999936610460281,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RoomCeiling11",
+      "object": "Acoustic suspended room ceiling",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.023249998688697815,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RoomPortal11",
+      "object": "Door portal stile",
+      "old_radius": 0.03500000014901161,
+      "radius": 0.030799996107816696,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RoomPortal11",
+      "object": "Door portal stile.001",
+      "old_radius": 0.03500000014901161,
+      "radius": 0.030799996107816696,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RoomPortal11",
+      "object": "Door portal head",
+      "old_radius": 0.03999999910593033,
+      "radius": 0.04840000718832016,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Vanity",
+      "object": "Vanity cabinet backing",
+      "old_radius": 0.03500000014901161,
+      "radius": 0.01759999617934227,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Vanity",
+      "object": "Cabinet full-depth support",
+      "old_radius": 0.02500000037252903,
+      "radius": 0.013200013898313046,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Vanity",
+      "object": "Cabinet full-depth support.001",
+      "old_radius": 0.02500000037252903,
+      "radius": 0.013199999928474426,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Vanity",
+      "object": "Cabinet full-depth support.002",
+      "old_radius": 0.02500000037252903,
+      "radius": 0.013200013898313046,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Vanity",
+      "object": "Interior shelf",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.01210000179708004,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Vanity",
+      "object": "Integrated stone counter",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01759999617934227,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Vanity",
+      "object": "Mirror backing",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.008799998089671135,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Vanity",
+      "object": "Vanity light",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.012099962681531906,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Vanity",
+      "object": "Fitted cupboard door",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.009899997152388096,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Vanity",
+      "object": "Fitted cupboard door.001",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.009899997152388096,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Vanity",
+      "object": "Mirror backing.001",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.008799998089671135,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Vanity",
+      "object": "Vanity light.001",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.012099962681531906,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Vanity",
+      "object": "Fitted cupboard door.002",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.009899997152388096,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Vanity",
+      "object": "Fitted cupboard door.003",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.009899997152388096,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_HandDryer",
+      "object": "Dryer outlet",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.007700000889599323,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_HandDryer",
+      "object": "Sensor",
+      "old_radius": 0.0062500000931322575,
+      "radius": 0.00395999988541007,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Retail plinth",
+      "old_radius": 0.03500000014901161,
+      "radius": 0.028599999845027924,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Retail backing",
+      "old_radius": 0.02500000037252903,
+      "radius": 0.011000002734363079,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Shelf upright",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.009900003671646118,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Shelf upright.001",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.009900003671646118,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Proper shelf",
+      "old_radius": 0.008750000037252903,
+      "radius": 0.007700002286583185,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Original travel product carton",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Product paper label",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Original travel product carton.001",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Product paper label.001",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Original travel product carton.002",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Product paper label.002",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Original travel product carton.003",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Product paper label.003",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Original travel product carton.004",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Product paper label.004",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Proper shelf.001",
+      "old_radius": 0.008750000037252903,
+      "radius": 0.007699992507696152,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Original travel product carton.005",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Product paper label.005",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Original travel product carton.006",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Product paper label.006",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Original travel product carton.007",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Product paper label.007",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Original travel product carton.008",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Product paper label.008",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Original travel product carton.009",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Product paper label.009",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Proper shelf.002",
+      "old_radius": 0.008750000037252903,
+      "radius": 0.007700019050389528,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Original travel product carton.010",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Product paper label.010",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Original travel product carton.011",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Product paper label.011",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Original travel product carton.012",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Product paper label.012",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Original travel product carton.013",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Product paper label.013",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Original travel product carton.014",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Product paper label.014",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Proper shelf.003",
+      "old_radius": 0.008750000037252903,
+      "radius": 0.007700019050389528,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Original travel product carton.015",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Product paper label.015",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Original travel product carton.016",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Product paper label.016",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Original travel product carton.017",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Product paper label.017",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Original travel product carton.018",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Product paper label.018",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Original travel product carton.019",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Product paper label.019",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_RetailShelf",
+      "object": "Shelf header",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.01860000006854534,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_ChargingTable",
+      "object": "Charging shelf",
+      "old_radius": 0.012000000104308128,
+      "radius": 0.017599983140826225,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_ChargingTable",
+      "object": "Angled desk leg",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.017600009217858315,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_ChargingTable",
+      "object": "Angled desk leg.001",
+      "old_radius": 0.014999999664723873,
+      "radius": 0.017600009217858315,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_ChargingTable",
+      "object": "Power module",
+      "old_radius": 0.0062500000931322575,
+      "radius": 0.005499994847923517,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_ChargingTable",
+      "object": "Socket recess",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_ChargingTable",
+      "object": "Socket recess.001",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_ChargingTable",
+      "object": "USB C port",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_ChargingTable",
+      "object": "Power module.001",
+      "old_radius": 0.0062500000931322575,
+      "radius": 0.005499994847923517,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_ChargingTable",
+      "object": "Socket recess.002",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_ChargingTable",
+      "object": "Socket recess.003",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_ChargingTable",
+      "object": "USB C port.001",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_ChargingTable",
+      "object": "Power module.002",
+      "old_radius": 0.0062500000931322575,
+      "radius": 0.005499994847923517,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_ChargingTable",
+      "object": "Socket recess.004",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_ChargingTable",
+      "object": "Socket recess.005",
+      "old_radius": 0.004999999888241291,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_ChargingTable",
+      "object": "USB C port.002",
+      "old_radius": 0.003000000026077032,
+      "radius": 0.0020000000949949026,
+      "segments": 5
+    },
+    {
+      "asset": "SM_AP_Tile",
+      "object": "Honed porcelain tile",
+      "old_radius": 0.008999999612569809,
+      "radius": 0.0024999999441206455,
+      "segments": 5
+    }
+  ],
+  "original_source_sha256": "e8918a1638cb12dc004ca80d2c5e061e68ce38c6ca33a95a9c14357c224894ad",
+  "editable_source": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Visual23\\Airport_Visual23.blend"
+}

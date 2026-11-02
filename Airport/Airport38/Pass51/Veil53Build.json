@@ -1,0 +1,10 @@
+{
+ "status": "SUCCESS",
+ "asset": "SM_AP_P53SunVeil",
+ "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\VeilBuild\\SM_AP_P53SunVeil.fbx",
+ "materials": [
+  "MI_AP_P38ANavy"
+ ],
+ "polygons": 96,
+ "bands": 16
+}

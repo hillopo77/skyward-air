@@ -1,0 +1,6 @@
+{
+ "status": "ERROR",
+ "airside": null,
+ "captures": [],
+ "error": "Traceback (most recent call last):\n  File \"C:\\Users/zaran/Documents/Codex/2026-10-22/referenced-chatgpt-conversation-this-is-an/outputs/SkywardAir/UnrealProject/Content/Python\\look48_probe.py\", line 67, in tick\n    name, eye, target = VIEWS[S['i']]\n    ^^^^^^^^^^^^^^^^^\nValueError: not enough values to unpack (expected 3, got 2)\n"
+}

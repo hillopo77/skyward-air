@@ -1,0 +1,217 @@
+{
+  "status": "READY",
+  "pass_id": 10,
+  "revision": 25,
+  "runtime_sha256": "fb88e1209e601507c22eff236490287a1181abe670595e2b3357d1df059a34fa",
+  "journey": {
+    "checked_in": true,
+    "bag_accepted": true,
+    "security": true,
+    "boarding": false,
+    "aboard": false
+  },
+  "held": null,
+  "driving": null,
+  "spectator": true,
+  "native_physics_bodies": 17,
+  "events": [
+    {
+      "event": "Room-based airport24 ready",
+      "time_s": 0.10899999999855936,
+      "zones": 17,
+      "controlled_leaves": 5
+    },
+    {
+      "event": "Native tow couplings bound",
+      "time_s": 0.35899999999855936,
+      "count": 2
+    },
+    {
+      "event": "Prop picked up",
+      "time_s": 334.1399999999994,
+      "actor": "Physical luggage 01"
+    },
+    {
+      "event": "Prop thrown",
+      "time_s": 334.5619999999999,
+      "actor": "Physical luggage 01"
+    },
+    {
+      "event": "Prop picked up",
+      "time_s": 335.2029999999995,
+      "actor": "Physical luggage 01"
+    },
+    {
+      "event": "Prop dropped",
+      "time_s": 338.9529999999995,
+      "actor": "Physical luggage 01"
+    },
+    {
+      "event": "Prop picked up",
+      "time_s": 339.9529999999995,
+      "actor": "Physical luggage 01"
+    },
+    {
+      "event": "Prop thrown",
+      "time_s": 341.125,
+      "actor": "Physical luggage 01"
+    },
+    {
+      "event": "Prop picked up",
+      "time_s": 343.15599999999904,
+      "actor": "Physical luggage 01"
+    },
+    {
+      "event": "Prop thrown",
+      "time_s": 343.71899999999914,
+      "actor": "Physical luggage 01"
+    },
+    {
+      "event": "Prop picked up",
+      "time_s": 344.0619999999999,
+      "actor": "Physical luggage 01"
+    },
+    {
+      "event": "Prop thrown",
+      "time_s": 350.46899999999914,
+      "actor": "Physical luggage 01"
+    },
+    {
+      "event": "Prop picked up",
+      "time_s": 354.21899999999914,
+      "actor": "Physical luggage 01"
+    },
+    {
+      "event": "Prop thrown",
+      "time_s": 356.54699999999866,
+      "actor": "Physical luggage 01"
+    },
+    {
+      "event": "Prop picked up",
+      "time_s": 358.90599999999904,
+      "actor": "Physical luggage 02"
+    },
+    {
+      "event": "Prop thrown",
+      "time_s": 361.59399999999914,
+      "actor": "Physical luggage 02"
+    },
+    {
+      "event": "Checked in",
+      "time_s": 369.17199999999866,
+      "desk": "Self-service kiosk24 0"
+    },
+    {
+      "event": "Boarding pass issued",
+      "time_s": 369.17199999999866,
+      "actor": "Self-service kiosk24 0"
+    },
+    {
+      "event": "Prop picked up",
+      "time_s": 378.5,
+      "actor": "Physical luggage 02"
+    },
+    {
+      "event": "Bag drop running",
+      "time_s": 381.4369999999999,
+      "belt": "Bag drop belt 02"
+    },
+    {
+      "event": "Bag placement requested",
+      "time_s": 381.4369999999999,
+      "actor": "Physical luggage 02"
+    },
+    {
+      "event": "Prop dropped",
+      "time_s": 381.98399999999856,
+      "actor": "Physical luggage 02"
+    },
+    {
+      "event": "Suitcase placed using native physics",
+      "time_s": 381.98399999999856,
+      "actor": "Physical luggage 02"
+    },
+    {
+      "event": "Checked suitcase accepted on physical belt",
+      "time_s": 382.0,
+      "actor": "Physical luggage 02",
+      "belt": "Bag drop belt 02"
+    },
+    {
+      "event": "Prop picked up",
+      "time_s": 392.5619999999999,
+      "actor": "Usable extinguisher 1"
+    },
+    {
+      "event": "Prop dropped",
+      "time_s": 398.85899999999856,
+      "actor": "Usable extinguisher 1"
+    },
+    {
+      "event": "Prop picked up",
+      "time_s": 400.125,
+      "actor": "Usable extinguisher 1"
+    },
+    {
+      "event": "Prop dropped",
+      "time_s": 403.5779999999995,
+      "actor": "Usable extinguisher 1"
+    },
+    {
+      "event": "Extinguisher stowed",
+      "time_s": 403.5779999999995,
+      "actor": "Usable extinguisher 1"
+    },
+    {
+      "event": "Prop picked up",
+      "time_s": 404.0779999999995,
+      "actor": "Usable extinguisher 1"
+    },
+    {
+      "event": "Prop dropped",
+      "time_s": 425.4529999999995,
+      "actor": "Usable extinguisher 1"
+    },
+    {
+      "event": "Screening requested",
+      "time_s": 429.23399999999856,
+      "lane": 0
+    },
+    {
+      "event": "Security cleared by full portal traversal",
+      "time_s": 431.375,
+      "lane": 1
+    },
+    {
+      "event": "Prop picked up",
+      "time_s": 433.65599999999904,
+      "actor": "Usable extinguisher 2"
+    },
+    {
+      "event": "Prop dropped",
+      "time_s": 434.8899999999994,
+      "actor": "Usable extinguisher 2"
+    },
+    {
+      "event": "Bag drop running",
+      "time_s": 446.75,
+      "belt": "Bag drop belt 02"
+    },
+    {
+      "event": "Spectator toggled",
+      "time_s": 831.2649999999994,
+      "enabled": true
+    }
+  ],
+  "frame_statistics": {
+    "frames": 80760,
+    "average_fps": 51.44955873256884,
+    "p95_ms": 23.68180000121356,
+    "maximum_ms": 97.03099999933329
+  },
+  "player_source": [
+    -47.362961703566754,
+    -11.375865560990043,
+    1.5221007077631705
+  ]
+}

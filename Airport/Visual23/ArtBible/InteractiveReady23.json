@@ -1,0 +1,29 @@
+{
+  "status": "SUCCESS",
+  "visual": {
+    "status": "READY",
+    "settings": [
+      "r.AntiAliasingMethod 2",
+      "r.PostProcessAAQuality 6",
+      "r.ScreenPercentage 100",
+      "r.TemporalAASamples 16",
+      "r.TemporalAAFilterSize 1",
+      "r.TemporalAACurrentFrameWeight 0.08",
+      "r.Tonemapper.Sharpen 0",
+      "r.MotionBlurQuality 0",
+      "r.DepthOfFieldQuality 0",
+      "r.SceneColorFringeQuality 0",
+      "r.MaxAnisotropy 16"
+    ],
+    "gameplay_fov": 82,
+    "initialized": 1793080463.1806145
+  },
+  "journey_stage": "checkin",
+  "player": [
+    -53.0,
+    -12.5,
+    1.62
+  ],
+  "map": "/Game/Airport23/L_Airport_Visual23",
+  "normal_launcher": "Open-Airport.ps1 -Play"
+}

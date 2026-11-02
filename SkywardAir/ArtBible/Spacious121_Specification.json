@@ -1,0 +1,19 @@
+{
+  "preserved_original": "767 2-3-2: 32 rows, 224 seats, 54.94m airframe",
+  "layout": "1-2-1",
+  "rows": 8,
+  "seats": 32,
+  "cabin_length_m": 13.0,
+  "connected_cockpit": true,
+  "pitch_m": 1.26,
+  "nominal_aisles_m": 1.09,
+  "crown_m": 2.62,
+  "window_opening_m": [
+    1.05,
+    1.21
+  ],
+  "cabin_width_m": 4.72,
+  "compact_airframe_length_m": 34.062799999999996,
+  "compact_span_m": 35.6775,
+  "intent": "Compact gameplay interpretation, not a standard 767 configuration."
+}

@@ -1,0 +1,16 @@
+{
+  "status": "SUCCESS",
+  "method": "Matched raw sRGB frames converted to linear RGB. Mean Rec709 relative luminance in fixed image regions; exposure/view unchanged. This tests source response, not calibrated illuminance.",
+  "regions": {
+    "queue_floor": {
+      "on_relative_luminance": 0.3615071570521119,
+      "off_relative_luminance": 0.08101422112128263,
+      "reduction_percent": 77.58987075611222
+    },
+    "service_wall": {
+      "on_relative_luminance": 0.10252942516614504,
+      "off_relative_luminance": 0.004914994215689071,
+      "reduction_percent": 95.20625985396435
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "status": "SUCCESS",
+  "changed_assets": [
+    "SM_Plane_Controls",
+    "SM_Plane_EconomyTray17",
+    "SM_Plane_FlightdeckSystems",
+    "SM_Plane_PilotSeat17",
+    "SM_Plane_Seat",
+    "SM_Plane_SeatPair"
+  ],
+  "actor_deltas": {
+    "SM_Plane_Seat.016": [
+      0.3799999952316284,
+      -0.3400000035762787,
+      0.0
+    ],
+    "SM_Plane_Seat.017": [
+      -0.3799999952316284,
+      -0.3400000035762787,
+      0.0
+    ],
+    "Pilot headset L12": [
+      0.3799999952316284,
+      -0.3400000035762787,
+      0.0
+    ],
+    "Pilot headset R12": [
+      -0.3799999952316284,
+      -0.3400000035762787,
+      0.0
+    ],
+    "Cockpit side pushbutton 0112": [
+      0.20000000298023224,
+      0.0,
+      0.0
+    ],
+    "Cockpit side pushbutton 0212": [
+      0.20000000298023224,
+      0.0,
+      0.0
+    ],
+    "Cockpit side pushbutton 0312": [
+      0.20000000298023224,
+      0.0,
+      0.0
+    ],
+    "Cockpit side pushbutton 0412": [
+      -0.20000000298023224,
+      0.0,
+      0.0
+    ],
+    "Cockpit side pushbutton 0512": [
+      -0.20000000298023224,
+      0.0,
+      0.0
+    ],
+    "Cockpit side pushbutton 0612": [
+      -0.20000000298023224,
+      0.0,
+      0.0
+    ],
+    "Cockpit side rotary 112": [
+      0.20000000298023224,
+      0.0,
+      0.0
+    ],
+    "Cockpit side rotary 212": [
+      0.20000000298023224,
+      0.0,
+      0.0
+    ],
+    "Cockpit side rotary 312": [
+      0.20000000298023224,
+      0.0,
+      0.0
+    ],
+    "Cockpit side rotary 412": [
+      -0.20000000298023224,
+      0.0,
+      0.0
+    ],
+    "Cockpit side rotary 512": [
+      -0.20000000298023224,
+      0.0,
+      0.0
+    ],
+    "Cockpit side rotary 612": [
+      -0.20000000298023224,
+      0.0,
+      0.0
+    ]
+  },
+  "trays": 36,
+  "pilot_station": {
+    "centres": [
+      [
+        -0.72,
+        -3.58,
+        1.6
+      ],
+      [
+        0.72,
+        -3.58,
+        1.6
+      ]
+    ],
+    "centre_throttle_reach_m": 0.59
+  },
+  "source": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\Revision17\\Plane_Refined17.blend"
+}

@@ -1,0 +1,489 @@
+{
+  "revision": "12",
+  "status": "SUCCESS",
+  "source_sha256": "718cd6c2845211682a6eac6057aed830bfcc02e185a01c5032b68cf2e8431000",
+  "source_unchanged": true,
+  "checks": [
+    {
+      "name": "Saved lavatory fit version",
+      "pass_": true,
+      "measured": 1
+    },
+    {
+      "name": "R Counter structure contacts retained top and carcass",
+      "pass_": true,
+      "measured": {
+        "top_gap_m": 0.0,
+        "body_centre_overlap_z_m": 0.08500003814697266,
+        "collar_bounds": [
+          [
+            0.3100000023841858,
+            -0.6199998259544373,
+            0.824999988079071
+          ],
+          [
+            0.7490000128746033,
+            0.17999985814094543,
+            0.9279999732971191
+          ]
+        ]
+      }
+    },
+    {
+      "name": "R Counter covers cabinet front and leaves waste hinge clear",
+      "pass_": true,
+      "measured": {
+        "top_projection_m": 0.013000011444091797,
+        "collar_front_lower_z": 0.8519631028175354,
+        "side_corner_upper_z": [
+          0.8560000061988831,
+          0.8560273051261902
+        ],
+        "waste_hinge_z": 0.847
+      }
+    },
+    {
+      "name": "R Wall return closes counter side",
+      "pass_": true,
+      "measured": {
+        "counter_wall_gap_m": 0.0009999871253967285,
+        "cove_wall_overlap_m": 0.001999974250793457
+      }
+    },
+    {
+      "name": "R Plumbing passes actual bore into supported bulkhead",
+      "pass_": true,
+      "measured": {
+        "panel_bore_ray_clear": true,
+        "nipple_x": [
+          0.7160000205039978,
+          0.7559999823570251
+        ],
+        "wall_flange_bounds": [
+          [
+            0.7440000176429749,
+            -0.1810000091791153,
+            0.7069999575614929
+          ],
+          [
+            0.7520000338554382,
+            -0.11900000274181366,
+            0.7689999938011169
+          ]
+        ]
+      }
+    },
+    {
+      "name": "R Paper roll brackets attach to wall and journals",
+      "pass_": true,
+      "measured": {
+        "rosette_wall_overlaps_m": [
+          0.0009999871253967285,
+          0.0009999871253967285
+        ],
+        "fork_bounds": [
+          [
+            [
+              0.6183860301971436,
+              0.5429999828338623,
+              0.6503310799598694
+            ],
+            [
+              0.75,
+              0.5569999814033508,
+              0.7178147435188293
+            ]
+          ],
+          [
+            [
+              0.6183860301971436,
+              0.7630000114440918,
+              0.6503310799598694
+            ],
+            [
+              0.75,
+              0.7770000100135803,
+              0.7178147435188293
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "name": "R Hood has real sheet thickness and retained hinge",
+      "pass_": true,
+      "measured": {
+        "nonmanifold_edges": 0,
+        "hinge_pin_bounds": [
+          [
+            0.7039999961853027,
+            0.5425000190734863,
+            0.687999963760376
+          ],
+          [
+            0.7120000123977661,
+            0.7775000333786011,
+            0.6959999799728394
+          ]
+        ]
+      }
+    },
+    {
+      "name": "R Mirror glass channels and clips physically mounted",
+      "pass_": true,
+      "measured": {
+        "bedding_bounds": [
+          [
+            0.7110000252723694,
+            -0.4100000262260437,
+            1.1069999933242798
+          ],
+          [
+            0.7149999737739563,
+            0.25,
+            1.8930000066757202
+          ]
+        ],
+        "channel_spine_bounds": [
+          [
+            [
+              0.699999988079071,
+              -0.42899999022483826,
+              1.128000020980835
+            ],
+            [
+              0.7160000205039978,
+              -0.41099998354911804,
+              1.871999979019165
+            ]
+          ],
+          [
+            [
+              0.699999988079071,
+              0.25099998712539673,
+              1.128000020980835
+            ],
+            [
+              0.7160000205039978,
+              0.26899999380111694,
+              1.871999979019165
+            ]
+          ]
+        ],
+        "clip_bounds": [
+          [
+            [
+              0.6939999461174011,
+              -0.3624999523162842,
+              1.1119999885559082
+            ],
+            [
+              0.7149999141693115,
+              -0.3374999761581421,
+              1.1480000019073486
+            ]
+          ],
+          [
+            [
+              0.6939999461174011,
+              -0.3624999523162842,
+              1.8519999980926514
+            ],
+            [
+              0.7149999141693115,
+              -0.3374999761581421,
+              1.8880000114440918
+            ]
+          ],
+          [
+            [
+              0.6939999461174011,
+              0.17750000953674316,
+              1.1119999885559082
+            ],
+            [
+              0.7149999141693115,
+              0.20250001549720764,
+              1.1480000019073486
+            ]
+          ],
+          [
+            [
+              0.6939999461174011,
+              0.17750000953674316,
+              1.8519999980926514
+            ],
+            [
+              0.7149999141693115,
+              0.20250001549720764,
+              1.8880000114440918
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "name": "R Soap housing nozzle level window and label supported",
+      "pass_": true,
+      "measured": {
+        "backplate_wall_overlap_m": 0.001999974250793457,
+        "nozzle_neck_overlap_m": 0.0040000081062316895,
+        "level_body_overlap_m": 0.0010001063346862793,
+        "label_body_overlap_m": 0.0009999871253967285
+      }
+    },
+    {
+      "name": "R Toilet and rear casing contact floor through fitted foundations",
+      "pass_": true,
+      "measured": {
+        "floor_top_z": 0.05000000074505806,
+        "shroud_foundation_overlap_m": 0.0040000006556510925,
+        "rear_foundation_overlap_m": 0.005000032484531403
+      }
+    },
+    {
+      "name": "L Counter structure contacts retained top and carcass",
+      "pass_": true,
+      "measured": {
+        "top_gap_m": 0.0,
+        "body_centre_overlap_z_m": 0.08500003814697266,
+        "collar_bounds": [
+          [
+            0.3100000023841858,
+            -0.6199998259544373,
+            0.824999988079071
+          ],
+          [
+            0.7490000128746033,
+            0.17999985814094543,
+            0.9279999732971191
+          ]
+        ]
+      }
+    },
+    {
+      "name": "L Counter covers cabinet front and leaves waste hinge clear",
+      "pass_": true,
+      "measured": {
+        "top_projection_m": 0.013000011444091797,
+        "collar_front_lower_z": 0.8519631028175354,
+        "side_corner_upper_z": [
+          0.8560000061988831,
+          0.8560000061988831
+        ],
+        "waste_hinge_z": 0.847
+      }
+    },
+    {
+      "name": "L Wall return closes counter side",
+      "pass_": true,
+      "measured": {
+        "counter_wall_gap_m": 0.0009999871253967285,
+        "cove_wall_overlap_m": 0.001999974250793457
+      }
+    },
+    {
+      "name": "L Plumbing passes actual bore into supported bulkhead",
+      "pass_": true,
+      "measured": {
+        "panel_bore_ray_clear": true,
+        "nipple_x": [
+          0.7160000205039978,
+          0.7559999823570251
+        ],
+        "wall_flange_bounds": [
+          [
+            0.7440000176429749,
+            -0.1810000091791153,
+            0.7069999575614929
+          ],
+          [
+            0.7520000338554382,
+            -0.11900000274181366,
+            0.7689999938011169
+          ]
+        ]
+      }
+    },
+    {
+      "name": "L Paper roll brackets attach to wall and journals",
+      "pass_": true,
+      "measured": {
+        "rosette_wall_overlaps_m": [
+          0.0009999871253967285,
+          0.0009999871253967285
+        ],
+        "fork_bounds": [
+          [
+            [
+              0.6183860301971436,
+              0.5429999828338623,
+              0.6503310799598694
+            ],
+            [
+              0.75,
+              0.5569999814033508,
+              0.7178147435188293
+            ]
+          ],
+          [
+            [
+              0.6183860301971436,
+              0.7630000114440918,
+              0.6503310799598694
+            ],
+            [
+              0.75,
+              0.7770000100135803,
+              0.7178147435188293
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "name": "L Hood has real sheet thickness and retained hinge",
+      "pass_": true,
+      "measured": {
+        "nonmanifold_edges": 0,
+        "hinge_pin_bounds": [
+          [
+            0.7039999961853027,
+            0.5425000190734863,
+            0.687999963760376
+          ],
+          [
+            0.7120000123977661,
+            0.7775000333786011,
+            0.6959999799728394
+          ]
+        ]
+      }
+    },
+    {
+      "name": "L Mirror glass channels and clips physically mounted",
+      "pass_": true,
+      "measured": {
+        "bedding_bounds": [
+          [
+            0.7110000252723694,
+            -0.4100000262260437,
+            1.1069999933242798
+          ],
+          [
+            0.7149999737739563,
+            0.25,
+            1.8930000066757202
+          ]
+        ],
+        "channel_spine_bounds": [
+          [
+            [
+              0.699999988079071,
+              -0.42899999022483826,
+              1.128000020980835
+            ],
+            [
+              0.7160000205039978,
+              -0.41099998354911804,
+              1.871999979019165
+            ]
+          ],
+          [
+            [
+              0.699999988079071,
+              0.25099998712539673,
+              1.128000020980835
+            ],
+            [
+              0.7160000205039978,
+              0.26899999380111694,
+              1.871999979019165
+            ]
+          ]
+        ],
+        "clip_bounds": [
+          [
+            [
+              0.6940000057220459,
+              -0.3624999523162842,
+              1.1119999885559082
+            ],
+            [
+              0.7149999141693115,
+              -0.3374999761581421,
+              1.1480000019073486
+            ]
+          ],
+          [
+            [
+              0.6940000057220459,
+              -0.3624999523162842,
+              1.8519999980926514
+            ],
+            [
+              0.7149999141693115,
+              -0.3374999761581421,
+              1.8880000114440918
+            ]
+          ],
+          [
+            [
+              0.6940000057220459,
+              0.17750000953674316,
+              1.1119999885559082
+            ],
+            [
+              0.7149999141693115,
+              0.20250001549720764,
+              1.1480000019073486
+            ]
+          ],
+          [
+            [
+              0.6940000057220459,
+              0.17750000953674316,
+              1.8519999980926514
+            ],
+            [
+              0.7149999141693115,
+              0.20250001549720764,
+              1.8880000114440918
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "name": "L Soap housing nozzle level window and label supported",
+      "pass_": true,
+      "measured": {
+        "backplate_wall_overlap_m": 0.001999974250793457,
+        "nozzle_neck_overlap_m": 0.0040000081062316895,
+        "level_body_overlap_m": 0.0010001659393310547,
+        "label_body_overlap_m": 0.001000046730041504
+      }
+    },
+    {
+      "name": "L Toilet and rear casing contact floor through fitted foundations",
+      "pass_": true,
+      "measured": {
+        "floor_top_z": 0.05000000074505806,
+        "shroud_foundation_overlap_m": 0.0040000006556510925,
+        "rear_foundation_overlap_m": 0.005000032484531403
+      }
+    }
+  ],
+  "passed": 19,
+  "total": 19,
+  "facts": [
+    {
+      "asset": "SM_Plane_Lavatory_R",
+      "evaluated_changed_meshes": 36
+    },
+    {
+      "asset": "SM_Plane_Lavatory_L",
+      "evaluated_changed_meshes": 36
+    }
+  ]
+}

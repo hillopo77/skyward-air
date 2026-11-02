@@ -1,0 +1,22 @@
+{
+ "status": "SUCCESS",
+ "airside": null,
+ "captures": [
+  {
+   "name": "K_cafe_sun",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\K1\\K_cafe_sun.png"
+  },
+  {
+   "name": "K_cafe_sun_hi",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\K1\\K_cafe_sun_hi.png"
+  },
+  {
+   "name": "K_cafe_wide",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\K1\\K_cafe_wide.png"
+  },
+  {
+   "name": "K_cafe_plan",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Look\\K1\\K_cafe_plan.png"
+  }
+ ]
+}

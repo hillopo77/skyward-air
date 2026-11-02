@@ -1,0 +1,195 @@
+{
+  "status": "FAILED",
+  "checks": [
+    {
+      "name": "Compact terminal area reduced to 1400 square metres",
+      "passed": true
+    },
+    {
+      "name": "Native physical props initialized",
+      "passed": true,
+      "count": 16
+    },
+    {
+      "name": "Two articulated tow couplings",
+      "passed": true
+    },
+    {
+      "name": "checkin reachable from journey",
+      "passed": true
+    },
+    {
+      "name": "Continuous entrance security gate and aircraft walk",
+      "passed": false,
+      "waypoint": 8,
+      "position": [
+        -41.000627886429896,
+        -0.6810013530322705,
+        1.62
+      ],
+      "blocker": "Airport instanced architecture and fittings"
+    },
+    {
+      "name": "Supported stairs reach mezzanine continuously",
+      "passed": true,
+      "eye_height_m": 4.77,
+      "expected_m": 4.77
+    },
+    {
+      "name": "Service door and ramp reach apron continuously",
+      "passed": true,
+      "eye_height_m": -2.077857248981023,
+      "expected_m": -2.08
+    },
+    {
+      "name": "Ten native skeletal character variants",
+      "passed": true
+    },
+    {
+      "name": "Seven native animations loaded",
+      "passed": true,
+      "names": [
+        "Idle",
+        "Walk",
+        "Seated",
+        "CafeSeated",
+        "CabinSeated",
+        "LuxurySeated",
+        "Wave"
+      ]
+    },
+    {
+      "name": "Skeleton roots retain unit scale during animation",
+      "passed": true
+    },
+    {
+      "name": "Populated terminal and aircraft",
+      "passed": true,
+      "count": 55
+    },
+    {
+      "name": "Real eyelid morph is controllable",
+      "passed": true
+    },
+    {
+      "name": "First-person hands use modeled mesh variants",
+      "passed": true
+    },
+    {
+      "name": "Passenger greeting has visible target",
+      "passed": true
+    },
+    {
+      "name": "Passenger greeting plays a native wave",
+      "passed": true
+    },
+    {
+      "name": "Standing NPC body blocks the pawn",
+      "passed": true
+    },
+    {
+      "name": "Pilot colour also updates first-person hands",
+      "passed": true
+    },
+    {
+      "name": "Third-person view toggle changes mode",
+      "passed": true
+    },
+    {
+      "name": "Window shade rocker visible from cabin",
+      "passed": false
+    },
+    {
+      "name": "Shade sections close to fitted overlapping positions",
+      "passed": true,
+      "max_error_cm": 0.0
+    },
+    {
+      "name": "Shade panels retract into visible upper pocket",
+      "passed": true,
+      "max_error_cm": 2.842170943040401e-14
+    },
+    {
+      "name": "Shade switch stays fixed while panel moves",
+      "passed": true
+    },
+    {
+      "name": "Shade sections close to fitted overlapping positions",
+      "passed": true,
+      "max_error_cm": 2.197121773406252e-08
+    },
+    {
+      "name": "Shade panels retract into visible upper pocket",
+      "passed": true,
+      "max_error_cm": 5.856111357616101e-06
+    },
+    {
+      "name": "Shade switch stays fixed while panel moves",
+      "passed": true
+    },
+    {
+      "name": "Pilot throttle stays within seated reach",
+      "passed": true,
+      "reach_m": 0.5816756657076954
+    },
+    {
+      "name": "WC outside control is visible",
+      "passed": true
+    },
+    {
+      "name": "WC leaf retracts along modeled wall pocket",
+      "passed": true
+    },
+    {
+      "name": "WC control accessible from inside",
+      "passed": true
+    },
+    {
+      "name": "WC closes and occupied indicator updates",
+      "passed": true
+    },
+    {
+      "name": "Opaque arrivals partition blocks interaction",
+      "passed": true
+    },
+    {
+      "name": "Luggage settles on physical terminal floor",
+      "passed": true,
+      "bottom_cm": -4.93449951510175,
+      "speed_cm_s": 0.0
+    },
+    {
+      "name": "Physical luggage pickup works",
+      "passed": true
+    },
+    {
+      "name": "Extinguisher detaches and can be carried",
+      "passed": true
+    },
+    {
+      "name": "Usable extinguisher emits powder and consumes charge",
+      "passed": true
+    },
+    {
+      "name": "Extinguisher returns to bracket",
+      "passed": true
+    },
+    {
+      "name": "Driveable tug pulls coupled dollies",
+      "passed": true,
+      "tug_cm": 183.23385804968345,
+      "dolly_cm": 184.62200654157286
+    },
+    {
+      "name": "Rendered populated airport performance",
+      "passed": true,
+      "average_fps": 59.21463096629611,
+      "p95_ms": 17.114100002800114,
+      "samples": 297
+    }
+  ],
+  "phase": "profile",
+  "elapsed": 59.84399999999732,
+  "runtime_sha256": "b3abb045cc3772accd8541e9a4c4bb8394e39906284d65cc946ed2796d98f888",
+  "qa_sha256": "6dcfa5bb12b20bc2ea3ec7a7a634f5c3fba870764dec1e0689a3a93c685534ea"
+}

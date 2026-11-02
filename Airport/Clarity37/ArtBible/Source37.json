@@ -1,0 +1,14 @@
+{
+  "status": "SUCCESS",
+  "source_sha256": "a5531cb295a2a4ca563811dde330fef61309aa26f5d4e847fe1c7c3bd7f804cf",
+  "families": 14,
+  "stats": {
+    "legacy_fixture_parts_removed": 380,
+    "ceiling_ring_parts_removed": 36,
+    "internal_glass_segments_removed": 22,
+    "exterior_glass_segments": 7
+  },
+  "fixtures": 32,
+  "exact_foyer_coverage": true,
+  "a07_clear_opening_m": 3.0
+}

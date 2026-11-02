@@ -1,0 +1,714 @@
+{
+  "status": "SUCCESS",
+  "started": 1793405734.278832,
+  "imported": [
+    {
+      "asset": "SM_AP_P45B_Closure00",
+      "package": "/Game/Airport38/Pass45Meshes/SM_AP_P45B_Closure00",
+      "bounds_cm": [
+        309.2,
+        11.0,
+        234.0
+      ],
+      "expected_cm": [
+        309.2,
+        null,
+        234.0
+      ]
+    },
+    {
+      "asset": "SM_AP_P45B_Closure01",
+      "package": "/Game/Airport38/Pass45Meshes/SM_AP_P45B_Closure01",
+      "bounds_cm": [
+        195.9,
+        11.0,
+        234.0
+      ],
+      "expected_cm": [
+        195.9,
+        null,
+        234.0
+      ]
+    },
+    {
+      "asset": "SM_AP_P45B_Closure02",
+      "package": "/Game/Airport38/Pass45Meshes/SM_AP_P45B_Closure02",
+      "bounds_cm": [
+        186.0,
+        11.0,
+        234.0
+      ],
+      "expected_cm": [
+        185.9,
+        null,
+        234.0
+      ]
+    },
+    {
+      "asset": "SM_AP_P45B_Closure03",
+      "package": "/Game/Airport38/Pass45Meshes/SM_AP_P45B_Closure03",
+      "bounds_cm": [
+        146.0,
+        11.0,
+        234.0
+      ],
+      "expected_cm": [
+        146.0,
+        null,
+        234.0
+      ]
+    },
+    {
+      "asset": "SM_AP_P45B_Closure04",
+      "package": "/Game/Airport38/Pass45Meshes/SM_AP_P45B_Closure04",
+      "bounds_cm": [
+        136.0,
+        11.0,
+        234.0
+      ],
+      "expected_cm": [
+        136.0,
+        null,
+        234.0
+      ]
+    },
+    {
+      "asset": "SM_AP_P45B_Closure05",
+      "package": "/Game/Airport38/Pass45Meshes/SM_AP_P45B_Closure05",
+      "bounds_cm": [
+        126.1,
+        11.0,
+        234.0
+      ],
+      "expected_cm": [
+        126.1,
+        null,
+        234.0
+      ]
+    },
+    {
+      "asset": "SM_AP_P45B_Closure06",
+      "package": "/Game/Airport38/Pass45Meshes/SM_AP_P45B_Closure06",
+      "bounds_cm": [
+        126.0,
+        11.0,
+        234.0
+      ],
+      "expected_cm": [
+        126.0,
+        null,
+        234.0
+      ]
+    },
+    {
+      "asset": "SM_AP_P45B_Closure07",
+      "package": "/Game/Airport38/Pass45Meshes/SM_AP_P45B_Closure07",
+      "bounds_cm": [
+        100.5,
+        11.0,
+        234.0
+      ],
+      "expected_cm": [
+        100.4,
+        null,
+        234.0
+      ]
+    },
+    {
+      "asset": "SM_AP_P45B_Closure08",
+      "package": "/Game/Airport38/Pass45Meshes/SM_AP_P45B_Closure08",
+      "bounds_cm": [
+        76.0,
+        11.0,
+        234.0
+      ],
+      "expected_cm": [
+        76.0,
+        null,
+        234.0
+      ]
+    },
+    {
+      "asset": "SM_AP_P45B_Closure09",
+      "package": "/Game/Airport38/Pass45Meshes/SM_AP_P45B_Closure09",
+      "bounds_cm": [
+        70.9,
+        11.0,
+        234.0
+      ],
+      "expected_cm": [
+        70.9,
+        null,
+        234.0
+      ]
+    },
+    {
+      "asset": "SM_AP_P45B_Closure10",
+      "package": "/Game/Airport38/Pass45Meshes/SM_AP_P45B_Closure10",
+      "bounds_cm": [
+        56.0,
+        11.0,
+        234.0
+      ],
+      "expected_cm": [
+        56.0,
+        null,
+        234.0
+      ]
+    },
+    {
+      "asset": "SM_AP_P45B_Closure11",
+      "package": "/Game/Airport38/Pass45Meshes/SM_AP_P45B_Closure11",
+      "bounds_cm": [
+        108.4,
+        11.0,
+        234.0
+      ],
+      "expected_cm": [
+        108.4,
+        null,
+        234.0
+      ]
+    }
+  ],
+  "placed": [
+    {
+      "actor": "P45 bridge closure 00",
+      "asset": "SM_AP_P45B_Closure00",
+      "part": "Bridge38 cab mitre",
+      "parent": "Bridge38 cab mitre",
+      "world_centre": [
+        10.294,
+        1.8674,
+        0.008
+      ],
+      "yaw_degrees": 9.8157,
+      "length_m": 3.0919
+    },
+    {
+      "actor": "P45 bridge closure 01",
+      "asset": "SM_AP_P45B_Closure01",
+      "part": "Bridge38 cab mitre",
+      "parent": "Bridge38 cab mitre",
+      "world_centre": [
+        10.7911,
+        -0.8969,
+        0.008
+      ],
+      "yaw_degrees": 9.8084,
+      "length_m": 1.9594
+    },
+    {
+      "actor": "P45 bridge closure 02",
+      "asset": "SM_AP_P45B_Closure02",
+      "part": "Bridge38 pivot",
+      "parent": "Bridge38 pivot chamber",
+      "world_centre": [
+        -11.3439,
+        1.7321,
+        0.008
+      ],
+      "yaw_degrees": -11.006,
+      "length_m": 1.8595
+    },
+    {
+      "actor": "P45 bridge closure 03",
+      "asset": "SM_AP_P45B_Closure03",
+      "part": "Bridge38 docking cab",
+      "parent": "Bridge38 docking cab",
+      "world_centre": [
+        11.05,
+        1.925,
+        0.0
+      ],
+      "yaw_degrees": 0.0,
+      "length_m": 1.46
+    },
+    {
+      "actor": "P45 bridge closure 04",
+      "asset": "SM_AP_P45B_Closure04",
+      "part": "Bridge38 bank A",
+      "parent": "Bridge38 bank A sleeve 00",
+      "world_centre": [
+        -11.1765,
+        1.6289,
+        0.0
+      ],
+      "yaw_degrees": -21.9751,
+      "length_m": 1.3597
+    },
+    {
+      "actor": "P45 bridge closure 05",
+      "asset": "SM_AP_P45B_Closure05",
+      "part": "Bridge38 pivot",
+      "parent": "Bridge38 pivot chamber",
+      "world_centre": [
+        -12.111,
+        -0.9692,
+        0.008
+      ],
+      "yaw_degrees": -11.022,
+      "length_m": 1.2606
+    },
+    {
+      "actor": "P45 bridge closure 06",
+      "asset": "SM_AP_P45B_Closure06",
+      "part": "Bridge38 elbow",
+      "parent": "Bridge38 elbow chamber",
+      "world_centre": [
+        -1.454,
+        -1.864,
+        0.008
+      ],
+      "yaw_degrees": -1.1458,
+      "length_m": 1.2603
+    },
+    {
+      "actor": "P45 bridge closure 07",
+      "asset": "SM_AP_P45B_Closure07",
+      "part": "Bridge38 bank A",
+      "parent": "Bridge38 bank A sleeve 03",
+      "world_centre": [
+        -2.2048,
+        -4.6076,
+        0.0
+      ],
+      "yaw_degrees": -8.4552,
+      "length_m": 1.0045
+    },
+    {
+      "actor": "P45 bridge closure 08",
+      "asset": "SM_AP_P45B_Closure08",
+      "part": "Bridge38 bank B",
+      "parent": "Bridge38 bank B sleeve 04",
+      "world_centre": [
+        9.8955,
+        1.6591,
+        0.0
+      ],
+      "yaw_degrees": 19.5768,
+      "length_m": 0.7601
+    },
+    {
+      "actor": "P45 bridge closure 09",
+      "asset": "SM_AP_P45B_Closure09",
+      "part": "Bridge38 bank B",
+      "parent": "Bridge38 bank B sleeve 00",
+      "world_centre": [
+        -0.9701,
+        -4.5986,
+        0.0
+      ],
+      "yaw_degrees": 11.6683,
+      "length_m": 0.7085
+    },
+    {
+      "actor": "P45 bridge closure 10",
+      "asset": "SM_AP_P45B_Closure10",
+      "part": "Bridge38 docking cab",
+      "parent": "Bridge38 docking cab",
+      "world_centre": [
+        13.816,
+        -0.575,
+        0.0
+      ],
+      "yaw_degrees": 0.0,
+      "length_m": 0.56
+    },
+    {
+      "actor": "P45 bridge closure 11",
+      "asset": "SM_AP_P45B_Closure11",
+      "part": "Bridge38 elbow",
+      "parent": "Bridge38 elbow chamber",
+      "world_centre": [
+        -1.54,
+        -4.703,
+        0.0
+      ],
+      "yaw_degrees": 5.1849,
+      "length_m": 1.0844
+    }
+  ],
+  "notes": [],
+  "removed_previous": [
+    "P45 bridge closure 00",
+    "P45 bridge closure 01",
+    "P45 bridge closure 02",
+    "P45 bridge closure 03",
+    "P45 bridge closure 04",
+    "P45 bridge closure 05",
+    "P45 bridge closure 06",
+    "P45 bridge closure 07",
+    "P45 bridge closure 08",
+    "P45 bridge closure 09",
+    "P45 bridge closure 10"
+  ],
+  "placed_slots": [
+    {
+      "asset": "SM_AP_P45B_Closure00",
+      "slots": [
+        {
+          "index": 0,
+          "slot": "MI_AP_P38BShell",
+          "assigned": "MI_AP_P38BShell"
+        },
+        {
+          "index": 1,
+          "slot": "MI_AP_P38BTeal",
+          "assigned": "MI_AP_P38BTeal"
+        },
+        {
+          "index": 2,
+          "slot": "MI_AP_P38BGlass",
+          "assigned": "MI_AP_P38BGlass"
+        },
+        {
+          "index": 3,
+          "slot": "MI_AP_P38BTrim",
+          "assigned": "MI_AP_P38BTrim"
+        },
+        {
+          "index": 4,
+          "slot": "MI_AP_P38BSteel",
+          "assigned": "MI_AP_P38BSteel"
+        }
+      ]
+    },
+    {
+      "asset": "SM_AP_P45B_Closure01",
+      "slots": [
+        {
+          "index": 0,
+          "slot": "MI_AP_P38BShell",
+          "assigned": "MI_AP_P38BShell"
+        },
+        {
+          "index": 1,
+          "slot": "MI_AP_P38BTeal",
+          "assigned": "MI_AP_P38BTeal"
+        },
+        {
+          "index": 2,
+          "slot": "MI_AP_P38BGlass",
+          "assigned": "MI_AP_P38BGlass"
+        },
+        {
+          "index": 3,
+          "slot": "MI_AP_P38BTrim",
+          "assigned": "MI_AP_P38BTrim"
+        },
+        {
+          "index": 4,
+          "slot": "MI_AP_P38BSteel",
+          "assigned": "MI_AP_P38BSteel"
+        }
+      ]
+    },
+    {
+      "asset": "SM_AP_P45B_Closure02",
+      "slots": [
+        {
+          "index": 0,
+          "slot": "MI_AP_P38BShell",
+          "assigned": "MI_AP_P38BShell"
+        },
+        {
+          "index": 1,
+          "slot": "MI_AP_P38BTeal",
+          "assigned": "MI_AP_P38BTeal"
+        },
+        {
+          "index": 2,
+          "slot": "MI_AP_P38BGlass",
+          "assigned": "MI_AP_P38BGlass"
+        },
+        {
+          "index": 3,
+          "slot": "MI_AP_P38BTrim",
+          "assigned": "MI_AP_P38BTrim"
+        },
+        {
+          "index": 4,
+          "slot": "MI_AP_P38BSteel",
+          "assigned": "MI_AP_P38BSteel"
+        }
+      ]
+    },
+    {
+      "asset": "SM_AP_P45B_Closure03",
+      "slots": [
+        {
+          "index": 0,
+          "slot": "MI_AP_P38BShell",
+          "assigned": "MI_AP_P38BShell"
+        },
+        {
+          "index": 1,
+          "slot": "MI_AP_P38BTeal",
+          "assigned": "MI_AP_P38BTeal"
+        },
+        {
+          "index": 2,
+          "slot": "MI_AP_P38BGlass",
+          "assigned": "MI_AP_P38BGlass"
+        },
+        {
+          "index": 3,
+          "slot": "MI_AP_P38BTrim",
+          "assigned": "MI_AP_P38BTrim"
+        },
+        {
+          "index": 4,
+          "slot": "MI_AP_P38BSteel",
+          "assigned": "MI_AP_P38BSteel"
+        }
+      ]
+    },
+    {
+      "asset": "SM_AP_P45B_Closure04",
+      "slots": [
+        {
+          "index": 0,
+          "slot": "MI_AP_P38BShell",
+          "assigned": "MI_AP_P38BShell"
+        },
+        {
+          "index": 1,
+          "slot": "MI_AP_P38BTeal",
+          "assigned": "MI_AP_P38BTeal"
+        },
+        {
+          "index": 2,
+          "slot": "MI_AP_P38BGlass",
+          "assigned": "MI_AP_P38BGlass"
+        },
+        {
+          "index": 3,
+          "slot": "MI_AP_P38BTrim",
+          "assigned": "MI_AP_P38BTrim"
+        },
+        {
+          "index": 4,
+          "slot": "MI_AP_P38BSteel",
+          "assigned": "MI_AP_P38BSteel"
+        }
+      ]
+    },
+    {
+      "asset": "SM_AP_P45B_Closure05",
+      "slots": [
+        {
+          "index": 0,
+          "slot": "MI_AP_P38BShell",
+          "assigned": "MI_AP_P38BShell"
+        },
+        {
+          "index": 1,
+          "slot": "MI_AP_P38BTeal",
+          "assigned": "MI_AP_P38BTeal"
+        },
+        {
+          "index": 2,
+          "slot": "MI_AP_P38BGlass",
+          "assigned": "MI_AP_P38BGlass"
+        },
+        {
+          "index": 3,
+          "slot": "MI_AP_P38BTrim",
+          "assigned": "MI_AP_P38BTrim"
+        },
+        {
+          "index": 4,
+          "slot": "MI_AP_P38BSteel",
+          "assigned": "MI_AP_P38BSteel"
+        }
+      ]
+    },
+    {
+      "asset": "SM_AP_P45B_Closure06",
+      "slots": [
+        {
+          "index": 0,
+          "slot": "MI_AP_P38BShell",
+          "assigned": "MI_AP_P38BShell"
+        },
+        {
+          "index": 1,
+          "slot": "MI_AP_P38BTeal",
+          "assigned": "MI_AP_P38BTeal"
+        },
+        {
+          "index": 2,
+          "slot": "MI_AP_P38BGlass",
+          "assigned": "MI_AP_P38BGlass"
+        },
+        {
+          "index": 3,
+          "slot": "MI_AP_P38BTrim",
+          "assigned": "MI_AP_P38BTrim"
+        },
+        {
+          "index": 4,
+          "slot": "MI_AP_P38BSteel",
+          "assigned": "MI_AP_P38BSteel"
+        }
+      ]
+    },
+    {
+      "asset": "SM_AP_P45B_Closure07",
+      "slots": [
+        {
+          "index": 0,
+          "slot": "MI_AP_P38BShell",
+          "assigned": "MI_AP_P38BShell"
+        },
+        {
+          "index": 1,
+          "slot": "MI_AP_P38BTeal",
+          "assigned": "MI_AP_P38BTeal"
+        },
+        {
+          "index": 2,
+          "slot": "MI_AP_P38BGlass",
+          "assigned": "MI_AP_P38BGlass"
+        },
+        {
+          "index": 3,
+          "slot": "MI_AP_P38BTrim",
+          "assigned": "MI_AP_P38BTrim"
+        },
+        {
+          "index": 4,
+          "slot": "MI_AP_P38BSteel",
+          "assigned": "MI_AP_P38BSteel"
+        }
+      ]
+    },
+    {
+      "asset": "SM_AP_P45B_Closure08",
+      "slots": [
+        {
+          "index": 0,
+          "slot": "MI_AP_P38BShell",
+          "assigned": "MI_AP_P38BShell"
+        },
+        {
+          "index": 1,
+          "slot": "MI_AP_P38BTeal",
+          "assigned": "MI_AP_P38BTeal"
+        },
+        {
+          "index": 2,
+          "slot": "MI_AP_P38BGlass",
+          "assigned": "MI_AP_P38BGlass"
+        },
+        {
+          "index": 3,
+          "slot": "MI_AP_P38BTrim",
+          "assigned": "MI_AP_P38BTrim"
+        },
+        {
+          "index": 4,
+          "slot": "MI_AP_P38BSteel",
+          "assigned": "MI_AP_P38BSteel"
+        }
+      ]
+    },
+    {
+      "asset": "SM_AP_P45B_Closure09",
+      "slots": [
+        {
+          "index": 0,
+          "slot": "MI_AP_P38BShell",
+          "assigned": "MI_AP_P38BShell"
+        },
+        {
+          "index": 1,
+          "slot": "MI_AP_P38BTeal",
+          "assigned": "MI_AP_P38BTeal"
+        },
+        {
+          "index": 2,
+          "slot": "MI_AP_P38BGlass",
+          "assigned": "MI_AP_P38BGlass"
+        },
+        {
+          "index": 3,
+          "slot": "MI_AP_P38BTrim",
+          "assigned": "MI_AP_P38BTrim"
+        },
+        {
+          "index": 4,
+          "slot": "MI_AP_P38BSteel",
+          "assigned": "MI_AP_P38BSteel"
+        }
+      ]
+    },
+    {
+      "asset": "SM_AP_P45B_Closure10",
+      "slots": [
+        {
+          "index": 0,
+          "slot": "MI_AP_P38BShell",
+          "assigned": "MI_AP_P38BShell"
+        },
+        {
+          "index": 1,
+          "slot": "MI_AP_P38BTeal",
+          "assigned": "MI_AP_P38BTeal"
+        },
+        {
+          "index": 2,
+          "slot": "MI_AP_P38BGlass",
+          "assigned": "MI_AP_P38BGlass"
+        },
+        {
+          "index": 3,
+          "slot": "MI_AP_P38BTrim",
+          "assigned": "MI_AP_P38BTrim"
+        },
+        {
+          "index": 4,
+          "slot": "MI_AP_P38BSteel",
+          "assigned": "MI_AP_P38BSteel"
+        }
+      ]
+    },
+    {
+      "asset": "SM_AP_P45B_Closure11",
+      "slots": [
+        {
+          "index": 0,
+          "slot": "MI_AP_P38BShell",
+          "assigned": "MI_AP_P38BShell"
+        },
+        {
+          "index": 1,
+          "slot": "MI_AP_P38BTeal",
+          "assigned": "MI_AP_P38BTeal"
+        },
+        {
+          "index": 2,
+          "slot": "MI_AP_P38BGlass",
+          "assigned": "MI_AP_P38BGlass"
+        },
+        {
+          "index": 3,
+          "slot": "MI_AP_P38BTrim",
+          "assigned": "MI_AP_P38BTrim"
+        },
+        {
+          "index": 4,
+          "slot": "MI_AP_P38BSteel",
+          "assigned": "MI_AP_P38BSteel"
+        }
+      ]
+    }
+  ],
+  "map": "/Game/Airport38/L_Airport_Repair38",
+  "finished": 1793405739.9750125,
+  "summary": {
+    "imported": 12,
+    "placed": 12
+  }
+}

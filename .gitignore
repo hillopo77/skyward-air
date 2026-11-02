@@ -1,0 +1,41 @@
+# Skyward Air repo: an allow-list. The code, scripts and notes go in git; the Unreal project's binary
+# content (Content/*.uasset, *.umap) is attached to the GitHub Release as zips instead.
+*
+!*/
+!.gitignore
+!*.py
+!*.ps1
+!*.cmd
+!*.md
+!*.ini
+!*.uproject
+!*.json
+!*.html
+!Slider*/img/*.jpg
+!Slider*/pairs/*.jpg
+
+# other projects in this folder
+/Animations/
+/Characters/
+/Emotes/
+/TwinTowers/
+/Opus_5_5_Handoff/
+/Opus_5_5_Handoff.zip
+
+# generated, cached or bulky
+**/Backup/
+**/Backups/
+**/DerivedDataCache/
+**/Intermediate/
+**/Saved/
+**/Screenshots/
+**/Snapshots/
+**/Versions/
+**/Exports/
+**/SourceAssets/
+**/*Build/
+**/Look/
+**/Preview/
+**/Logs/
+**/__pycache__/
+*.log

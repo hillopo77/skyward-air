@@ -1,0 +1,384 @@
+{
+  "run_id": "12-navigation-4",
+  "status": "FAILED_OPEN_DRAWER_TEST_SETUP",
+  "archived_at_utc": "2026-10-24T19:02:21.953618+00:00",
+  "verification": {
+    "run_id": "12-navigation-4",
+    "kind": "fresh captures, targeted card/cockpit/PSU/lavatory/privacy-door actions, all barriers and walking/body audits",
+    "status": "FAILED",
+    "source_blend_sha256": "718cd6c2845211682a6eac6057aed830bfcc02e185a01c5032b68cf2e8431000",
+    "runtime_sha256": "5aff0dacd9d60f542526b178625df3a1492ef77a9d725f3ba70c6645a71d0371",
+    "interaction_metadata_sha256": "3c019c334b018e60d72bb20598a7d52006b9e855330537fe71c77a54ceab7177",
+    "fresh_action_checks": 71,
+    "fresh_captures": 60,
+    "walking_routes_passed": 22,
+    "body_routes_passed": 21
+  },
+  "manifest_sha256": "8a3511da13415bc59ab7736903fd4b2095da88329f66303aa75797de7cd5a810",
+  "map_sha256": "b9e3059d014cde1c3765706f1fc9af3c20a71641a8766a82b4d13b8c22b085ac",
+  "report_sha256": "398cabbd40f2c367adaa8ac3d4a8ba2db2569bd7865e76a284d2d239c4d6ead4",
+  "capture_count": 60,
+  "authored_capture_count": 59,
+  "captures": [
+    {
+      "file": "UE_110_business12.png",
+      "walking_test": null,
+      "sha256": "d377d1d740311aace62cbd54ed7c918ff57892ab098de2a7ae24c4e5abdb2db8",
+      "mtime": 1792867867.6645496
+    },
+    {
+      "file": "UE_111_suiteentry12.png",
+      "walking_test": null,
+      "sha256": "6dc07ec1c22f0d36bb02ecaf0e49749306a97f54014cecf0ef8fd002eb388e97",
+      "mtime": 1792867871.3866563
+    },
+    {
+      "file": "UE_112_suiteseated12.png",
+      "walking_test": null,
+      "sha256": "ae117c61f53244c5a05d32ae59c7a6ec447f89cfe3e70a8816dd21ba44b2cc97",
+      "mtime": 1792867875.581217
+    },
+    {
+      "file": "UE_113_economy12.png",
+      "walking_test": null,
+      "sha256": "7364aa97982fb7d4862efff4b06c1a8da843a046c11635a1f645966beff16293",
+      "mtime": 1792867879.894676
+    },
+    {
+      "file": "UE_114_galley12.png",
+      "walking_test": null,
+      "sha256": "9adbc0c43ff1095b441992f2ed068f918fd0bc73449874326accabdccce1854a",
+      "mtime": 1792867884.0818424
+    },
+    {
+      "file": "UE_115_crew12.png",
+      "walking_test": null,
+      "sha256": "d4c5e243c0349594f583c94c3968bd2d5049d0873aeabf6a1a1307b32bc869df",
+      "mtime": 1792867888.328227
+    },
+    {
+      "file": "UE_116_rearservice12.png",
+      "walking_test": null,
+      "sha256": "bd253c7208f26a33cdb54571225fafd4d15ef665b5cfab052e67554f2dad79ea",
+      "mtime": 1792867892.4835913
+    },
+    {
+      "file": "UE_117_lavcorridor12.png",
+      "walking_test": null,
+      "sha256": "29c02a3051a5d99dff72f8401e13dac603487faf220046f84c7590d241a7b352",
+      "mtime": 1792867896.781498
+    },
+    {
+      "file": "UE_118_laventry12.png",
+      "walking_test": null,
+      "sha256": "5bf192a75d8e522dcafc8e415a9c8f00e90fd6d57c503c02222ada66a151398b",
+      "mtime": 1792867900.993825
+    },
+    {
+      "file": "UE_119_vanity12.png",
+      "walking_test": null,
+      "sha256": "8c9c54bfa6e62973d52193fe7937ac8afdcc12c5185174170316477fccd73eeb",
+      "mtime": 1792867905.1804352
+    },
+    {
+      "file": "UE_120_cockpit12.png",
+      "walking_test": null,
+      "sha256": "c3b9c25174039c9f4a4e76b5592d70c39216cb65768d7ff92174f5d242dcf040",
+      "mtime": 1792867909.446103
+    },
+    {
+      "file": "UE_121_piloteye12.png",
+      "walking_test": null,
+      "sha256": "1828120591f4684a314d2a92112ab55eadbaee05547e938e029cb9d4d993fc3f",
+      "mtime": 1792867913.6230102
+    },
+    {
+      "file": "UE_122_overhead12.png",
+      "walking_test": null,
+      "sha256": "b39ace986c27b81ea0891a1bac77fa9e3ec638ed2d407af373c2b1d0c983f04e",
+      "mtime": 1792867917.8214433
+    },
+    {
+      "file": "UE_123_controls12.png",
+      "walking_test": null,
+      "sha256": "f30afc71fc1655f753fa5e57cc6c2188466cec92f0285a2f3534e98229fd2591",
+      "mtime": 1792867922.0407526
+    },
+    {
+      "file": "UE_124_stairs12.png",
+      "walking_test": null,
+      "sha256": "0d165ad8e1429c09741d91df57440c481485f1f4c0de03d07c4821d3a7b7db2a",
+      "mtime": 1792867927.6205597
+    },
+    {
+      "file": "UE_125_hold12.png",
+      "walking_test": null,
+      "sha256": "65e986d73a73456a46b91e254270d09bd8f7eda0afe0a18d38f211ed69c13536",
+      "mtime": 1792867931.84303
+    },
+    {
+      "file": "UE_126_airframe12.png",
+      "walking_test": null,
+      "sha256": "b7695a6b6523fe466fbf007f3656f5e64a20e2fb955f2be46e069088d3c8c4b0",
+      "mtime": 1792867935.9976056
+    },
+    {
+      "file": "UE_127_profile12.png",
+      "walking_test": null,
+      "sha256": "da5817d67995399c4f118fe66fbfea3645c0e4e5784ad5663675185369ef7b37",
+      "mtime": 1792867940.2162921
+    },
+    {
+      "file": "UE_110_suites_open12.png",
+      "walking_test": null,
+      "sha256": "f20af095f9fe6168c0c913a3685852e4bfaf6de5452bb3e7c7921022843b04e4",
+      "mtime": 1792867944.4875762
+    },
+    {
+      "file": "UE_111_suites_closed12.png",
+      "walking_test": null,
+      "sha256": "d433ab50a70ea44c3eb4ebf36d6e1739f3801eda59c124dbd3de0a4be5a140ed",
+      "mtime": 1792867949.554092
+    },
+    {
+      "file": "UE_112_suite_interior12.png",
+      "walking_test": null,
+      "sha256": "9402ed1fa2707dd34c183c3da80a5417f53544abd9390799768a7e40a62cf5e6",
+      "mtime": 1792867954.6630993
+    },
+    {
+      "file": "UE_113_suite_ife12.png",
+      "walking_test": null,
+      "sha256": "aae30f1d6892b7c14fdc5c2516d8b84ab26d4284cb86c701e35ad7bca15b3c07",
+      "mtime": 1792867959.6905262
+    },
+    {
+      "file": "UE_114_suite_door12.png",
+      "walking_test": null,
+      "sha256": "53bdf61a53c6e47db669b763b4e22c7d157210583b42223b1c3304f96242a6b1",
+      "mtime": 1792867964.9152164
+    },
+    {
+      "file": "UE_131_forwardcrew12.png",
+      "walking_test": null,
+      "sha256": "c1f54c3718fde6b2884efb22e880fc8f7e856bfba0d3589adaf75126afa3f6b8",
+      "mtime": 1792867969.1033392
+    },
+    {
+      "file": "UE_132_midgalley12.png",
+      "walking_test": null,
+      "sha256": "6bba1897f743185cfe6cb8c2488d0de66e8e0bd6519d0222a87776a2463e2cf8",
+      "mtime": 1792867973.340113
+    },
+    {
+      "file": "UE_133_rearcrew12.png",
+      "walking_test": null,
+      "sha256": "101126f0768ff8279c0f33ad6c0a6610aa262ecbc4cc458cdc2e3981f5fd6e82",
+      "mtime": 1792867977.5523012
+    },
+    {
+      "file": "UE_134_laventry12.png",
+      "walking_test": null,
+      "sha256": "186223e37b71889360244e494eb049868e30d29f0092bdcc3b4d0e475e2a28b2",
+      "mtime": 1792867981.7015238
+    },
+    {
+      "file": "UE_135_rearprep12.png",
+      "walking_test": null,
+      "sha256": "de288c637169a57dc5b50b8ee0a2e5cde0228d9873e8f08cb31cdd9c1fe9d5d5",
+      "mtime": 1792867985.9514315
+    },
+    {
+      "file": "UE_129_crewlocker12.png",
+      "walking_test": null,
+      "sha256": "d5abd5ae7b2f92efe4bad1a02354a23e99bb648cfa15285e4284d4bf790c9487",
+      "mtime": 1792867991.056042
+    },
+    {
+      "file": "UE_130_reachedoverhead12.png",
+      "walking_test": null,
+      "sha256": "cd529b62e952c40eda0d8a942c72d08c62c1fbc804680802ff0a82b0b875edcf",
+      "mtime": 1792867995.3248644
+    },
+    {
+      "file": "UE_136_suite_personaldetails12.png",
+      "walking_test": null,
+      "sha256": "e25802412a9feae70b4cd05374370eb608e4ed07a1232a83b7e918eea0d5864b",
+      "mtime": 1792868000.3610878
+    },
+    {
+      "file": "UE_137_suite_literature12.png",
+      "walking_test": null,
+      "sha256": "1855126ca1decd2fd0f3b2afe8095d8098bd069cda3b725277631994f141b244",
+      "mtime": 1792868004.5668914
+    },
+    {
+      "file": "UE_136_ife_flight12.png",
+      "walking_test": null,
+      "sha256": "0ac2c9f93a6738970d21c193d9f9b748aa643238fb31d3155a1b2335381a09aa",
+      "mtime": 1792868008.7652788
+    },
+    {
+      "file": "UE_137_ife_suite12.png",
+      "walking_test": null,
+      "sha256": "bbeb7e3e38f5abf8ee22bc0c662e264948ee4765b41dc6aff718dfb07bcf4673",
+      "mtime": 1792868012.98262
+    },
+    {
+      "file": "UE_138_privacytrack12.png",
+      "walking_test": null,
+      "sha256": "515a56d35e2d66bc947509cfb1852c335d876929f471fb0446d8fa7ca323d09c",
+      "mtime": 1792868018.149498
+    },
+    {
+      "file": "UE_140_mid_service12.png",
+      "walking_test": null,
+      "sha256": "5394bfd3e3846355ee7c8a55d3c1d7830807f6d9bc9b24fc5a449bb3ab9c539d",
+      "mtime": 1792868022.3601005
+    },
+    {
+      "file": "UE_141_ovens_service12.png",
+      "walking_test": null,
+      "sha256": "91ce8a407bbda7c5e3ea0bf50eeabf0c223d27e9bfc3d202d846d065c60f543a",
+      "mtime": 1792868027.4586298
+    },
+    {
+      "file": "UE_142_rear_service12.png",
+      "walking_test": null,
+      "sha256": "aa8c881a131f0f336c6fe00f6792510c3b99e1a68ce2abb453a3acea627d971d",
+      "mtime": 1792868032.444669
+    },
+    {
+      "file": "UE_143_dispatch_service12.png",
+      "walking_test": null,
+      "sha256": "d6b8a9f12775ef94c5dceeb43815d0a8ed9bf630eb2b80338a8da5615ac6b0cf",
+      "mtime": 1792868037.5457358
+    },
+    {
+      "file": "UE_144_phone_service12.png",
+      "walking_test": null,
+      "sha256": "d56bc699da1c27a7a741e56d1ca0f06424b466fbac4a83613c577d6685743218",
+      "mtime": 1792868041.7347755
+    },
+    {
+      "file": "UE_145_lavatory_service12.png",
+      "walking_test": null,
+      "sha256": "cc6143c6c7784f07f48ff2c1328d2b20bc4934805c9f881b41a7cae0663b575b",
+      "mtime": 1792868046.6979923
+    },
+    {
+      "file": "UE_210_crewseat12.png",
+      "walking_test": null,
+      "sha256": "7211663dda3bad7df6559ef96a281fbe5ba78fc19456f6e14401f8823538abc4",
+      "mtime": 1792868051.6221132
+    },
+    {
+      "file": "UE_211_psu12.png",
+      "walking_test": null,
+      "sha256": "b84160056f5c2fe4669f15baef901832fd65d5613647d0617bfaaea4916ab4e7",
+      "mtime": 1792868055.8206725
+    },
+    {
+      "file": "UE_212_belts12.png",
+      "walking_test": null,
+      "sha256": "78c1ea7e9d1a9fdfafecf73d20e1c1ddaf8cc033cbe117be9a84546d4bb3cece",
+      "mtime": 1792868060.1475315
+    },
+    {
+      "file": "UE_213_headset12.png",
+      "walking_test": null,
+      "sha256": "2e6017798427f42e4f047dbc69bbf2dc3f4530d660ecae116f1806167279da15",
+      "mtime": 1792868064.2972906
+    },
+    {
+      "file": "UE_214_labels12.png",
+      "walking_test": null,
+      "sha256": "c1abd6081e698918b170eab49e68cfb0ebf225c7ef6d0e3e3fd4f4579d1574c7",
+      "mtime": 1792868068.49366
+    },
+    {
+      "file": "UE_215_handbook12.png",
+      "walking_test": null,
+      "sha256": "b10cb3cc7f32fc1e3567ef1b4071e68f232e1991a280f22f0e92c3ee719af010",
+      "mtime": 1792868073.3081892
+    },
+    {
+      "file": "UE_216_safetycard12.png",
+      "walking_test": null,
+      "sha256": "ef7922a09279c7901c537035c6a66e6161774ea6d7de2b2a6eae58e87ea940a2",
+      "mtime": 1792868077.6113696
+    },
+    {
+      "file": "UE_217_economy_front_seated12.png",
+      "walking_test": null,
+      "sha256": "cc0a7a302a4f7329ec8c482f2224f874946fe17bd3d32da1f81f267c67a759b6",
+      "mtime": 1792868081.796512
+    },
+    {
+      "file": "UE_218_economy_seated12.png",
+      "walking_test": null,
+      "sha256": "a48b2f91644afa6e0bacd9477a9ce908e67c6e5a0d4f436095a2e4ccafbf7190",
+      "mtime": 1792868086.0991917
+    },
+    {
+      "file": "UE_166_safetyread12.png",
+      "walking_test": null,
+      "sha256": "f3cb6987580564b2decf8f60534d89bbc3ab08e257f04b623f57ce9387a563c6",
+      "mtime": 1792868090.256407
+    },
+    {
+      "file": "UE_167_crewguide12.png",
+      "walking_test": null,
+      "sha256": "90c9cce32a7f23ead37b0cd7a4f596e54015ee4690d7fdd8309eb2661656c176",
+      "mtime": 1792868095.0728052
+    },
+    {
+      "file": "UE_168_readinglight12.png",
+      "walking_test": null,
+      "sha256": "b37a398c5d2d5a1ef2cbf597ec8f8cc6989c99a48c0b34cb1313dd7176de44d5",
+      "mtime": 1792868099.3388846
+    },
+    {
+      "file": "UE_160_landing12.png",
+      "walking_test": null,
+      "sha256": "62e9965bbe9bd993bd7493e28826c99f606704374431a1545937bf7e14e0dc65",
+      "mtime": 1792868103.5621088
+    },
+    {
+      "file": "UE_161_holdclear12.png",
+      "walking_test": null,
+      "sha256": "bd2cfdcba5e2ea7968ae1adbc05c361cb1d6af8c396323c067ec77012a53b766",
+      "mtime": 1792868107.821084
+    },
+    {
+      "file": "UE_162_hatchclosed12.png",
+      "walking_test": null,
+      "sha256": "bf45ca7b3b745e2dedb8140446bec5c41b15730af74068d8749bd048d40420ed",
+      "mtime": 1792868113.3757782
+    },
+    {
+      "file": "UE_163_exitaccess12.png",
+      "walking_test": null,
+      "sha256": "82539e0359491103f70a50910d4bd1b55fb648e4d289feebe371aafbdf711cd4",
+      "mtime": 1792868117.5361547
+    },
+    {
+      "file": "UE_164_exitopen12.png",
+      "walking_test": null,
+      "sha256": "212189ea3cc3f3479c19a012e6a884755589f5d2a4db2da4a30f5128258327ab",
+      "mtime": 1792868123.3240929
+    },
+    {
+      "file": "UE_165_carpeting12.png",
+      "walking_test": null,
+      "sha256": "9a2e8a38ee8969ecfda60c4cf64e400a671a40f382f1bdaaa1eb6f5ea6f62466",
+      "mtime": 1792868127.6182156
+    },
+    {
+      "file": "UE_169_holdwalk12.png",
+      "walking_test": "Natural straight lower stair landing and full hold12",
+      "sha256": "15ea6934f02a6f7d7f14f4b677b818e79584ab5590a71b7eebb86465350964c7",
+      "mtime": 1792868259.2901793
+    }
+  ]
+}

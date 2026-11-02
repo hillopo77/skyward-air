@@ -1,0 +1,85 @@
+{
+  "official_store": "https://store.steampowered.com/app/4534960/Dear_Passengers/",
+  "screenshots": [
+    {
+      "id": 0,
+      "file": "Official_Steam_00.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/b28210ec5549d2cda898099e6d4a5c29153b2f35/ss_b28210ec5549d2cda898099e6d4a5c29153b2f35.1920x1080.jpg?t=1787132605",
+      "sha256": "028383fb1ab5c86b23857c95b673aa05dcc5ac951fd98d4fb5c4e5cfd9ddc071"
+    },
+    {
+      "id": 1,
+      "file": "Official_Steam_01.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/8587fe02b49b18e907bc271403aca145aac23b2d/ss_8587fe02b49b18e907bc271403aca145aac23b2d.1920x1080.jpg?t=1787132605",
+      "sha256": "dbc48493583db50f448949e7073c65cd81ef367c91352a81c40f875516b508f5"
+    },
+    {
+      "id": 2,
+      "file": "Official_Steam_02.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/de1051493ef5690ab1a17d7c2fc35a74a42a4ea1/ss_de1051493ef5690ab1a17d7c2fc35a74a42a4ea1.1920x1080.jpg?t=1787132605",
+      "sha256": "d5ad721e1d23d5121b9c77699dac1be3eb6758e2ec45e6c15314991b16a1bd31"
+    },
+    {
+      "id": 3,
+      "file": "Official_Steam_03.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/12ea170121330ac9040a00257436552a9b2368a1/ss_12ea170121330ac9040a00257436552a9b2368a1.1920x1080.jpg?t=1787132605",
+      "sha256": "2e43771d61457786bd9d186834ece9c7009ce96cd98f47f2ed234c64bd047e03"
+    },
+    {
+      "id": 4,
+      "file": "Official_Steam_04.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/7d572221193bf6d9a3294f7a59af4d093afb6ba1/ss_7d572221193bf6d9a3294f7a59af4d093afb6ba1.1920x1080.jpg?t=1787132605",
+      "sha256": "4e653997dc6820cb15c141cdb8f8ef428278e25c93e32df4dd6cb6a32e868fbf"
+    },
+    {
+      "id": 5,
+      "file": "Official_Steam_05.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/59919ca43b7423a86e31e69e5f7ddc7b1fe7dcc3/ss_59919ca43b7423a86e31e69e5f7ddc7b1fe7dcc3.1920x1080.jpg?t=1787132605",
+      "sha256": "fbce472fd774d49e44e006b94b71e1954a8750ccca167bab767611dd2c4e318b"
+    },
+    {
+      "id": 6,
+      "file": "Official_Steam_06.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/442dcbff83ae722b28b063e2b453a96d75f1d465/ss_442dcbff83ae722b28b063e2b453a96d75f1d465.1920x1080.jpg?t=1787132605",
+      "sha256": "aa98d0d8bf63fc643a76ea60d50b7bc776a1756086f85ca459174af9a878972f"
+    },
+    {
+      "id": 7,
+      "file": "Official_Steam_07.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/9fdf57c8e8d2946d9c82ebece8ce7c311f587d41/ss_9fdf57c8e8d2946d9c82ebece8ce7c311f587d41.1920x1080.jpg?t=1787132605",
+      "sha256": "db6ac81be0ed41dd4ff69eff86392979239d0ea644d333d0640de6d79b7af570"
+    },
+    {
+      "id": 8,
+      "file": "Official_Steam_08.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/a30af7fc82215257ef5f0934d3be1fb5d7f4d5fb/ss_a30af7fc82215257ef5f0934d3be1fb5d7f4d5fb.1920x1080.jpg?t=1787132605",
+      "sha256": "6f880ef77b16af8338e919969bef33b7b636b6717b2e56f1c37e04fbafabdd13"
+    },
+    {
+      "id": 9,
+      "file": "Official_Steam_09.jpg",
+      "url": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4534960/0f97770ed578a9ce1a20309e58a3bd1cc3cce099/ss_0f97770ed578a9ce1a20309e58a3bd1cc3cce099.1920x1080.jpg?t=1787132605",
+      "sha256": "14c41b5243427724fb16b903abd073432ed1aed11bb8a582446c441fd60d0f82"
+    }
+  ],
+  "trailers": [
+    {
+      "id": 257325982,
+      "name": "Dear Passengers Trailer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/257325982/67d1aadd1fe3216e8f7ee8987858863f3ea369c9/movie_600x337.jpg?t=1783975744",
+      "dash_av1": "https://video.akamai.steamstatic.com/store_trailers/4534960/176858668/0f21c3c6ad3b0997ac4ff3b5d339850810e8916a/1783965342/dash_av1.mpd?t=1783975744",
+      "dash_h264": "https://video.akamai.steamstatic.com/store_trailers/4534960/176858668/0f21c3c6ad3b0997ac4ff3b5d339850810e8916a/1783965342/dash_h264.mpd?t=1783975744",
+      "hls_h264": "https://video.akamai.steamstatic.com/store_trailers/4534960/176858668/0f21c3c6ad3b0997ac4ff3b5d339850810e8916a/1783965342/hls_264_master.m3u8?t=1783975744",
+      "highlight": true
+    }
+  ],
+  "research_only": true,
+  "trailer_frame_grids": [
+    {
+      "url": "https://video.akamai.steamstatic.com/store_trailers/4534960/176858668/0f21c3c6ad3b0997ac4ff3b5d339850810e8916a/1783965342/dash_thumbnails/thumbnails-00001.avif",
+      "file": "Official_Trailer_ThumbnailGrid01.avif",
+      "sha256": "d211844234752b21c1bed1a3198d6e243d695190fbb994d64dba20f29ce8b469",
+      "research_only": true
+    }
+  ]
+}

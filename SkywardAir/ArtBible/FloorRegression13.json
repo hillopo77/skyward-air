@@ -1,0 +1,89 @@
+{
+  "status": "SUCCESS",
+  "checks": [
+    {
+      "test": "Top portal restores height after missed stair sample",
+      "input": [
+        -0.4,
+        1.05,
+        -0.31
+      ],
+      "result": [
+        0.0,
+        "Cabin deck"
+      ],
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "test": "Top portal restores height after long return frame",
+      "input": [
+        -1.37,
+        1.14,
+        -0.62
+      ],
+      "result": [
+        0.0,
+        "Cabin deck"
+      ],
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "test": "Normal cabin remains on cabin deck",
+      "input": [
+        0,
+        10,
+        0.0
+      ],
+      "result": [
+        0.0,
+        "Cabin deck"
+      ],
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "test": "Lower hold does not pull a cabin player downward",
+      "input": [
+        0,
+        20,
+        0.0
+      ],
+      "result": [
+        0.0,
+        "Cabin deck"
+      ],
+      "expected": 0.0,
+      "passed": true
+    },
+    {
+      "test": "Extended aft hold floor is reachable",
+      "input": [
+        0,
+        33.8,
+        -2.05
+      ],
+      "result": [
+        -2.05,
+        "Forward lower cargo hold"
+      ],
+      "expected": -2.05,
+      "passed": true
+    },
+    {
+      "test": "No arbitrary snap from hold through cabin floor",
+      "input": [
+        0,
+        10,
+        -2.05
+      ],
+      "result": [
+        -2.05,
+        "Forward lower cargo hold"
+      ],
+      "expected": -2.05,
+      "passed": true
+    }
+  ]
+}

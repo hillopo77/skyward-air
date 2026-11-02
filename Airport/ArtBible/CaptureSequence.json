@@ -1,0 +1,94 @@
+{
+  "status": "SUCCESS",
+  "completed": [
+    {
+      "status": "SUCCESS",
+      "pass_id": 10,
+      "pass_name": "Scrutiny, route verification and final corrections",
+      "captures": [
+        {
+          "file": "Pass10_01_Entrance.png",
+          "sha256": "10055e47ce2465d5d98e2bd71d49568ed15ae80913d5a33730919b5c8bab8a57",
+          "camera": "01_Entrance"
+        },
+        {
+          "file": "Pass10_03_Security.png",
+          "sha256": "0684f6531a87e4f6dc21976793d03a11bb16bf3e45eaab08ca751fe674568da8",
+          "camera": "03_Security"
+        },
+        {
+          "file": "Pass10_06_Gate.png",
+          "sha256": "866c4e16da96cbd89a6b290ec354a8b7aec50f80916a5dd61dee6df3cda874ca",
+          "camera": "06_Gate"
+        },
+        {
+          "file": "Pass10_02_Departures.png",
+          "sha256": "67fb60c69d2417ab4a5fdd9b78a9477083f41a9c55005b41f18c84bdb8e5eb54",
+          "camera": "02_Departures"
+        },
+        {
+          "file": "Pass10_04_Baggage.png",
+          "sha256": "8f2fd1c1e5cb2492614d33c5279f8f28071d296f07579f0c47c24cdec11fbda6",
+          "camera": "04_Baggage"
+        },
+        {
+          "file": "Pass10_05_Concourse.png",
+          "sha256": "b959ca6765b3e1f9044519e187c9321bb7472837c12475face12e55830f54fbf",
+          "camera": "05_Concourse"
+        },
+        {
+          "file": "Pass10_07_BoardingBridge.png",
+          "sha256": "0972576372ed192f931557f5abe96112b1827d6229c3d1778bd0d80b04d37263",
+          "camera": "07_BoardingBridge"
+        },
+        {
+          "file": "Pass10_08_Lounge.png",
+          "sha256": "4ac14602ec09f99691c8e5515d0c02712e082bffed07aaf9117daf249abec2cc",
+          "camera": "08_Lounge"
+        },
+        {
+          "file": "Pass10_09_Apron.png",
+          "sha256": "91e3da2caeec32934789a6a1353118ed6675733d3f120c71134d4b4b3e645682",
+          "camera": "09_Apron"
+        },
+        {
+          "file": "Pass10_10_Runway.png",
+          "sha256": "91e263cf9acf2711bb4f012fd78a57da131ccf1a050fbe0d1c94220f63cc108b",
+          "camera": "10_Runway"
+        },
+        {
+          "file": "Pass10_11_Overview.png",
+          "sha256": "00befa14383e9a0a5dcf851a89b7b8598271d167571d0aa96bf1d72776663a94",
+          "camera": "11_Overview"
+        },
+        {
+          "file": "Pass10_12_Cafe.png",
+          "sha256": "6db80d9cd2a1445592906d9eb846f2cb0871692b8cfbc6f92ff4231303085e97",
+          "camera": "12_Cafe"
+        },
+        {
+          "file": "Pass10_13_Restrooms.png",
+          "sha256": "d605aec9b2bfcffdd65c03b7fcbf0c9906b125af6209e4b2cc3fd26cca64de50",
+          "camera": "13_Restrooms"
+        },
+        {
+          "file": "Pass10_14_CheckinDetail.png",
+          "sha256": "a91ef5b0507f59440a9af2b49997429add3621d7dc69f03ad4fec2f5471b93c9",
+          "camera": "14_CheckinDetail"
+        },
+        {
+          "file": "Pass10_15_GateSeating.png",
+          "sha256": "cdc6e54211eb528ca692d0bd917a32c74aaf4c1745178a7efb1295e23d149b1b",
+          "camera": "15_GateSeating"
+        },
+        {
+          "file": "Pass10_16_Tug.png",
+          "sha256": "8ec41c72a51dd2ddb1be66da885f021b3954b7919d38f3c90300091185f8b309",
+          "camera": "16_Tug"
+        }
+      ],
+      "runtime_sha256": "bbcdc17b1522bb03138a58950bd1753a47522a83b9a95f114c3f714256ca4371",
+      "native_bodies": 39
+    }
+  ]
+}

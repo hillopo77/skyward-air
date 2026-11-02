@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "actual_cold_library": true,
+  "name_collision_mapped": true,
+  "source_repeat_safe": true,
+  "only_flight_metadata_field_changed": "dashboard_fixed_asset",
+  "all_needle_button_pivot_arrays_preserved": true,
+  "source_actor_transform_unchanged": true,
+  "asset": "SM_AP_C43DashboardFixed",
+  "bundle_sha256": "4377baa4d2a57835fc9fe300364650f3d04833318d490fe2ebbf5019449650a0"
+}

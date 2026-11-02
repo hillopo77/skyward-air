@@ -1,0 +1,68 @@
+{
+  "status": "READY",
+  "actual": {
+    "name": "Airport38 Native Stable",
+    "viewport": [
+      2560,
+      1440
+    ],
+    "settings": {
+      "r.AntiAliasingMethod": 2.0,
+      "r.ScreenPercentage": 100.0,
+      "r.DynamicRes.OperationMode": 0.0,
+      "r.TemporalAASamples": 16.0,
+      "r.TemporalAACurrentFrameWeight": 0.10000000149011612,
+      "r.TemporalAAFilterSize": 1.0,
+      "r.TemporalAA.Quality": 2.0,
+      "r.Tonemapper.Sharpen": 0.10000000149011612,
+      "r.MotionBlurQuality": 0.0,
+      "r.DepthOfFieldQuality": 0.0,
+      "r.SceneColorFringeQuality": 0.0,
+      "r.MaxAnisotropy": 16.0,
+      "r.Shadow.MaxResolution": 4096.0
+    },
+    "internal_render_extent_approx": [
+      2560,
+      1440
+    ],
+    "native_resolution": true,
+    "grain_policy": "zero in AP38 grade; not inferred from a CVar",
+    "updated": 1793657021.2925
+  },
+  "requested": {
+    "name": "Airport38 Native Stable",
+    "requested_viewport": [
+      1920,
+      1080
+    ],
+    "cvars": {
+      "r.AntiAliasingMethod": 2,
+      "r.ScreenPercentage": 100,
+      "r.DynamicRes.OperationMode": 0,
+      "r.TemporalAASamples": 16,
+      "r.TemporalAACurrentFrameWeight": 0.1,
+      "r.TemporalAAFilterSize": 1,
+      "r.TemporalAA.Quality": 2,
+      "r.Tonemapper.Sharpen": 0.1,
+      "r.MotionBlurQuality": 0,
+      "r.DepthOfFieldQuality": 0,
+      "r.SceneColorFringeQuality": 0,
+      "r.MaxAnisotropy": 16,
+      "r.Shadow.MaxResolution": 4096
+    },
+    "pixel_budget": "100% of the actual viewport; no supersampling claim",
+    "grain": 0,
+    "motion_blur": 0,
+    "depth_of_field": 0,
+    "reflection_policy": "preserve SSR pending controlled native A/B; no proven SSR cause"
+  },
+  "drift": {},
+  "applications": [
+    {
+      "reason": "Airport38 final initialization",
+      "at": 0.0
+    }
+  ],
+  "runtime_viewport_is_measured": true,
+  "validation": "Settings only; visual/temporal/capture-free performance require separate native evidence"
+}

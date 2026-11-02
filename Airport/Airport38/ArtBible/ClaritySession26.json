@@ -1,0 +1,24 @@
+{
+  "status": "READY",
+  "profile": "Airport38 Native Stable",
+  "phase": "CheckIn",
+  "hint": "None",
+  "viewport": [
+    2560,
+    1440
+  ],
+  "settings": {
+    "r.AntiAliasingMethod": 2.0,
+    "r.ScreenPercentage": 100.0,
+    "r.Tonemapper.Sharpen": 0.10000000149011612,
+    "r.MotionBlurQuality": 0.0,
+    "r.DepthOfFieldQuality": 0.0,
+    "EnableHighDPIAwareness": 1.0,
+    "r.TemporalAACurrentFrameWeight": 0.10000000149011612,
+    "r.TemporalAASamples": 16.0,
+    "r.TemporalAAFilterSize": 1.0
+  },
+  "hud_after_tonemapping": true,
+  "initial_departure_exit": "checkin",
+  "updated": 1793657020.9483497
+}

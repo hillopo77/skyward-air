@@ -1,0 +1,574 @@
+{
+ "status": "SUCCESS",
+ "meshes": {
+  "SM_AP_Walls38": {
+   "path": "/Game/Airport38/Ugly43Meshes/SM_AP_Walls38.SM_AP_Walls38",
+   "exported": true,
+   "actors": [
+    {
+     "label": "Airport38 complete physical perimeter and partitions",
+     "location": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "rotation": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "scale": [
+      1.0,
+      1.0,
+      1.0
+     ],
+     "hidden": false,
+     "collision": "BlockAll"
+    }
+   ],
+   "slots": [
+    {
+     "slot": "MI_AP_P43TPlaster",
+     "material": "/Game/Airport38/Finish43/MI_AP_P43TPlaster.MI_AP_P43TPlaster"
+    },
+    {
+     "slot": "MI_AP_P38AFrame",
+     "material": "/Game/Airport38/Materials/MI_AP_P38AFrame.MI_AP_P38AFrame"
+    },
+    {
+     "slot": "MI_AP_P43TDado",
+     "material": "/Game/Airport38/Finish43/MI_AP_P43TDado.MI_AP_P43TDado"
+    },
+    {
+     "slot": "MI_AP_P43TOak",
+     "material": "/Game/Airport38/Finish43/MI_AP_P43TOak.MI_AP_P43TOak"
+    },
+    {
+     "slot": "MI_AP_P38ARoof",
+     "material": "/Game/Airport38/Materials/MI_AP_P38ARoof.MI_AP_P38ARoof"
+    },
+    {
+     "slot": "MI_AP_P38ARubber",
+     "material": "/Game/Airport38/Materials/MI_AP_P38ARubber.MI_AP_P38ARubber"
+    },
+    {
+     "slot": "MI_AP_P43TCeiling",
+     "material": "/Game/Airport38/Finish43/MI_AP_P43TCeiling.MI_AP_P43TCeiling"
+    }
+   ],
+   "trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+   "double_sided": true,
+   "triangles": 3440
+  },
+  "SM_AP_Ceilings38": {
+   "path": "/Game/Airport38/Ugly43Meshes/SM_AP_Ceilings38.SM_AP_Ceilings38",
+   "exported": true,
+   "actors": [
+    {
+     "label": "Airport38 coherent ceiling union",
+     "location": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "rotation": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "scale": [
+      1.0,
+      1.0,
+      1.0
+     ],
+     "hidden": false,
+     "collision": "BlockAll"
+    }
+   ],
+   "slots": [
+    {
+     "slot": "MI_AP_P43TCeiling",
+     "material": "/Game/Airport38/Finish43/MI_AP_P43TCeiling.MI_AP_P43TCeiling"
+    }
+   ],
+   "trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+   "double_sided": true,
+   "triangles": 242
+  },
+  "SM_AP_Roofs38": {
+   "path": "/Game/Airport38/Flow03Meshes/SM_AP_Roofs38.SM_AP_Roofs38",
+   "exported": true,
+   "actors": [
+    {
+     "label": "Airport38 coherent roof union",
+     "location": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "rotation": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "scale": [
+      1.0,
+      1.0,
+      1.0
+     ],
+     "hidden": false,
+     "collision": "BlockAll"
+    }
+   ],
+   "slots": [
+    {
+     "slot": "MI_AP_P38ARoof",
+     "material": "/Game/Airport38/Materials/MI_AP_P38ARoof.MI_AP_P38ARoof"
+    }
+   ],
+   "trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+   "double_sided": true,
+   "triangles": 218
+  },
+  "SM_AP_Glazing38": {
+   "path": "/Game/Airport38/Flow03Meshes/SM_AP_Glazing38.SM_AP_Glazing38",
+   "exported": true,
+   "actors": [
+    {
+     "label": "Airport38 exterior glazing and observation panes",
+     "location": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "rotation": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "scale": [
+      1.0,
+      1.0,
+      1.0
+     ],
+     "hidden": false,
+     "collision": "BlockAll"
+    }
+   ],
+   "slots": [
+    {
+     "slot": "MI_AP_P38AFrame",
+     "material": "/Game/Airport38/Materials/MI_AP_P38AFrame.MI_AP_P38AFrame"
+    },
+    {
+     "slot": "MI_AP_P38AGlass",
+     "material": "/Game/Airport38/Materials/MI_AP_P38AGlass.MI_AP_P38AGlass"
+    }
+   ],
+   "trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+   "double_sided": false,
+   "triangles": 840
+  },
+  "SM_AP_TerminalWallFinish43": {
+   "path": "/Game/Airport38/Ugly43Meshes/SM_AP_TerminalWallFinish43.SM_AP_TerminalWallFinish43",
+   "exported": true,
+   "actors": [
+    {
+     "label": "Airport43 fitted public wall finishes",
+     "location": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "rotation": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "scale": [
+      1.0,
+      1.0,
+      1.0
+     ],
+     "hidden": false,
+     "collision": "NoCollision"
+    }
+   ],
+   "slots": [
+    {
+     "slot": "MI_AP_P43TReveal",
+     "material": "/Game/Airport38/Finish43/MI_AP_P43TReveal.MI_AP_P43TReveal"
+    },
+    {
+     "slot": "MI_AP_P43TPlaster",
+     "material": "/Game/Airport38/Finish43/MI_AP_P43TPlaster.MI_AP_P43TPlaster"
+    },
+    {
+     "slot": "MI_AP_P43TPlasterWarm",
+     "material": "/Game/Airport38/Finish43/MI_AP_P43TPlasterWarm.MI_AP_P43TPlasterWarm"
+    },
+    {
+     "slot": "MI_AP_P43TOak",
+     "material": "/Game/Airport38/Finish43/MI_AP_P43TOak.MI_AP_P43TOak"
+    }
+   ],
+   "trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+   "double_sided": false,
+   "triangles": 105280
+  },
+  "SM_AP_Wayfinding38": {
+   "path": "/Game/Airport38/Flow03Meshes/SM_AP_Wayfinding38.SM_AP_Wayfinding38",
+   "exported": true,
+   "actors": [
+    {
+     "label": "Airport38 mounted legible route cues",
+     "location": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "rotation": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "scale": [
+      1.0,
+      1.0,
+      1.0
+     ],
+     "hidden": false,
+     "collision": "NoCollision"
+    }
+   ],
+   "slots": [
+    {
+     "slot": "MI_AP_P38AOak",
+     "material": "/Game/Airport38/Materials/MI_AP_P38AOak.MI_AP_P38AOak"
+    },
+    {
+     "slot": "MI_AP_P38ANavy",
+     "material": "/Game/Airport38/Materials/MI_AP_P38ANavy.MI_AP_P38ANavy"
+    },
+    {
+     "slot": "MI_AP_P38AText",
+     "material": "/Game/Airport38/Materials/MI_AP_P38AText.MI_AP_P38AText"
+    },
+    {
+     "slot": "MI_AP_P38AGold",
+     "material": "/Game/Airport38/Materials/MI_AP_P38AGold.MI_AP_P38AGold"
+    }
+   ],
+   "trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+   "double_sided": false,
+   "triangles": 60972
+  },
+  "SM_AP_Attachments38": {
+   "path": "/Game/Airport38/Flow03Meshes/SM_AP_Attachments38.SM_AP_Attachments38",
+   "exported": true,
+   "actors": [
+    {
+     "label": "Airport38 verified architectural attachments",
+     "location": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "rotation": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "scale": [
+      1.0,
+      1.0,
+      1.0
+     ],
+     "hidden": false,
+     "collision": "BlockAll"
+    }
+   ],
+   "slots": [
+    {
+     "slot": "MI_AP_P38AFrame",
+     "material": "/Game/Airport38/Materials/MI_AP_P38AFrame.MI_AP_P38AFrame"
+    },
+    {
+     "slot": "MI_AP_P38ANavy",
+     "material": "/Game/Airport38/Materials/MI_AP_P38ANavy.MI_AP_P38ANavy"
+    }
+   ],
+   "trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+   "double_sided": false,
+   "triangles": 11888
+  },
+  "SM_AP_Transitions39": {
+   "path": "/Game/Airport38/Flow03Meshes/SM_AP_Transitions39.SM_AP_Transitions39",
+   "exported": true,
+   "actors": [
+    {
+     "label": "Airport39 fitted room transitions",
+     "location": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "rotation": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "scale": [
+      1.0,
+      1.0,
+      1.0
+     ],
+     "hidden": false,
+     "collision": "BlockAll"
+    }
+   ],
+   "slots": [
+    {
+     "slot": "MI_AP_P39FOak",
+     "material": "/Game/Airport38/Materials/MI_AP_P39FOak.MI_AP_P39FOak"
+    },
+    {
+     "slot": "MI_AP_P39FMetal",
+     "material": "/Game/Airport38/Materials/MI_AP_P39FMetal.MI_AP_P39FMetal"
+    },
+    {
+     "slot": "MI_AP_P39FNavy",
+     "material": "/Game/Airport38/Materials/MI_AP_P39FNavy.MI_AP_P39FNavy"
+    }
+   ],
+   "trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+   "double_sided": false,
+   "triangles": 9984
+  },
+  "SM_AP_RetainedCraft38": {
+   "path": "/Game/Airport38/Flow03Meshes/SM_AP_RetainedCraft38.SM_AP_RetainedCraft38",
+   "exported": true,
+   "actors": [
+    {
+     "label": "Airport38 retained crafted furniture and artwork",
+     "location": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "rotation": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "scale": [
+      1.0,
+      1.0,
+      1.0
+     ],
+     "hidden": false,
+     "collision": "BlockAll"
+    }
+   ],
+   "slots": [
+    {
+     "slot": "MI_AP_P34Cream",
+     "material": "/Game/Airport34/Materials/MI_AP_P34Cream.MI_AP_P34Cream"
+    },
+    {
+     "slot": "MI_AP_P34Metal",
+     "material": "/Game/Airport34/Materials/MI_AP_P34Metal.MI_AP_P34Metal"
+    },
+    {
+     "slot": "MI_AP_P27Oak",
+     "material": "/Game/Airport27/P5/Materials/MI_AP_P27Oak.MI_AP_P27Oak"
+    },
+    {
+     "slot": "MI_AP_P34Navy",
+     "material": "/Game/Airport34/Materials/MI_AP_P34Navy.MI_AP_P34Navy"
+    },
+    {
+     "slot": "MI_AP_P34Sage",
+     "material": "/Game/Airport34/Materials/MI_AP_P34Sage.MI_AP_P34Sage"
+    },
+    {
+     "slot": "MI_AP_P36Text",
+     "material": "/Game/Airport36/Materials/MI_AP_P36Text.MI_AP_P36Text"
+    },
+    {
+     "slot": "MI_AP_Gold",
+     "material": "/Game/Airport23/Materials/Instances/MI_AP_Gold.MI_AP_Gold"
+    },
+    {
+     "slot": "MI_AP_P27Walnut",
+     "material": "/Game/Airport31/Materials/MI_AP_P27Walnut.MI_AP_P27Walnut"
+    },
+    {
+     "slot": "MI_AP_P27Acoustic",
+     "material": "/Game/Airport27/P5/Materials/MI_AP_P27Acoustic.MI_AP_P27Acoustic"
+    },
+    {
+     "slot": "MI_AP_P30Carpet",
+     "material": "/Game/Airport30/Materials/MI_AP_P30Carpet.MI_AP_P30Carpet"
+    },
+    {
+     "slot": "MI_AP_P30Navy",
+     "material": "/Game/Airport30/Materials/MI_AP_P30Navy.MI_AP_P30Navy"
+    },
+    {
+     "slot": "MI_AP_P30Kiosks",
+     "material": "/Game/Airport30/Materials/MI_AP_P30Kiosks.MI_AP_P30Kiosks"
+    },
+    {
+     "slot": "MI_AP_P30WaitingArt",
+     "material": "/Game/Airport30/Materials/MI_AP_P30WaitingArt.MI_AP_P30WaitingArt"
+    },
+    {
+     "slot": "MI_AP_P27Steel",
+     "material": "/Game/Airport27/P5/Materials/MI_AP_P27Steel.MI_AP_P27Steel"
+    },
+    {
+     "slot": "MI_AP_P27Piping",
+     "material": "/Game/Airport27/P5/Materials/MI_AP_P27Piping.MI_AP_P27Piping"
+    },
+    {
+     "slot": "MI_AP_P27Cream",
+     "material": "/Game/Airport27/P5/Materials/MI_AP_P27Cream.MI_AP_P27Cream"
+    },
+    {
+     "slot": "MI_AP_P27Navy",
+     "material": "/Game/Airport27/P5/Materials/MI_AP_P27Navy.MI_AP_P27Navy"
+    },
+    {
+     "slot": "MI_AP_P27GuideCover",
+     "material": "/Game/Airport27/P5/Materials/MI_AP_P27GuideCover.MI_AP_P27GuideCover"
+    },
+    {
+     "slot": "MI_AP_P27Rubber",
+     "material": "/Game/Airport27/P5/Materials/MI_AP_P27Rubber.MI_AP_P27Rubber"
+    },
+    {
+     "slot": "MI_AP_P34LED",
+     "material": "/Game/Airport34/Materials/MI_AP_P34LED.MI_AP_P34LED"
+    },
+    {
+     "slot": "MI_AP_P38AOak",
+     "material": "/Game/Airport38/Materials/MI_AP_P38AOak.MI_AP_P38AOak"
+    },
+    {
+     "slot": "MI_AP_P38AHousing",
+     "material": "/Game/Airport38/Materials/MI_AP_P38AHousing.MI_AP_P38AHousing"
+    },
+    {
+     "slot": "MI_AP_P38EMetal",
+     "material": "/Game/Airport38/Materials/MI_AP_P38EMetal.MI_AP_P38EMetal"
+    },
+    {
+     "slot": "MI_AP_P38ERubber",
+     "material": "/Game/Airport38/Materials/MI_AP_P38ERubber.MI_AP_P38ERubber"
+    }
+   ],
+   "trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+   "double_sided": false,
+   "triangles": 56704
+  },
+  "SM_AP_P46RooftopPlant": {
+   "path": "/Game/Airport38/Pass46Meshes/SM_AP_P46RooftopPlant.SM_AP_P46RooftopPlant",
+   "exported": true,
+   "actors": [
+    {
+     "label": "Airport46 rooftop plant",
+     "location": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "rotation": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "scale": [
+      1.0,
+      1.0,
+      1.0
+     ],
+     "hidden": false,
+     "collision": "NoCollision"
+    }
+   ],
+   "slots": [
+    {
+     "slot": "MI_AP_P38BSteel",
+     "material": "/Game/Airport38/Materials/MI_AP_P38BSteel.MI_AP_P38BSteel"
+    },
+    {
+     "slot": "MI_AP_DarkSteel_001",
+     "material": "/Game/Airport38/Materials/MI_AP_DarkSteel_001.MI_AP_DarkSteel_001"
+    },
+    {
+     "slot": "MI_AP_P38ARubber",
+     "material": "/Game/Airport38/Materials/MI_AP_P38ARubber.MI_AP_P38ARubber"
+    },
+    {
+     "slot": "MI_AP_P38AHousing",
+     "material": "/Game/Airport38/Materials/MI_AP_P38AHousing.MI_AP_P38AHousing"
+    }
+   ],
+   "trace_flag": "<CollisionTraceFlag.CTF_USE_DEFAULT: 0>",
+   "double_sided": false,
+   "triangles": 21640
+  },
+  "SM_AP_BaggageBackdrop43": {
+   "path": "/Game/Airport38/Ugly43Meshes/SM_AP_BaggageBackdrop43.SM_AP_BaggageBackdrop43",
+   "exported": true,
+   "actors": [
+    {
+     "label": "Airport43 baggage service backdrop",
+     "location": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "rotation": [
+      0.0,
+      0.0,
+      0.0
+     ],
+     "scale": [
+      1.0,
+      1.0,
+      1.0
+     ],
+     "hidden": false,
+     "collision": "NoCollision"
+    }
+   ],
+   "slots": [
+    {
+     "slot": "MI_AP_P43TPlasterWarm",
+     "material": "/Game/Airport38/Finish43/MI_AP_P43TPlasterWarm.MI_AP_P43TPlasterWarm"
+    },
+    {
+     "slot": "MI_AP_P43TOak",
+     "material": "/Game/Airport38/Finish43/MI_AP_P43TOak.MI_AP_P43TOak"
+    },
+    {
+     "slot": "MI_AP_P43TDado",
+     "material": "/Game/Airport38/Finish43/MI_AP_P43TDado.MI_AP_P43TDado"
+    },
+    {
+     "slot": "MI_AP_P43TMetal",
+     "material": "/Game/Airport38/Finish43/MI_AP_P43TMetal.MI_AP_P43TMetal"
+    },
+    {
+     "slot": "MI_AP_P43TText",
+     "material": "/Game/Airport38/Finish43/MI_AP_P43TText.MI_AP_P43TText"
+    }
+   ],
+   "trace_flag": "<CollisionTraceFlag.CTF_USE_COMPLEX_AS_SIMPLE: 3>",
+   "double_sided": false,
+   "triangles": 14968
+  }
+ }
+}

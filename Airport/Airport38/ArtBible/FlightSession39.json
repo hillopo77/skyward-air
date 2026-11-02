@@ -1,0 +1,204 @@
+{
+  "phase": "gate",
+  "position": [
+    16.0,
+    17.3,
+    0
+  ],
+  "heading": 0.0,
+  "pitch": 0.0,
+  "bank": 0.0,
+  "speed": 0,
+  "vertical_speed": 0.0,
+  "airborne": false,
+  "battery": false,
+  "avionics": false,
+  "fuel": false,
+  "pumps": false,
+  "bleed": false,
+  "beacon": false,
+  "engines": [
+    {
+      "running": false,
+      "starting": false,
+      "start_time": 0.0,
+      "n1": 0.0
+    },
+    {
+      "running": false,
+      "starting": false,
+      "start_time": 0.0,
+      "n1": 0.0
+    }
+  ],
+  "throttle": [
+    0.0,
+    0.0
+  ],
+  "parking": true,
+  "flaps": 0,
+  "speedbrake": 0,
+  "gear_down": true,
+  "taxi_clear": false,
+  "runway_clear": false,
+  "elapsed": 1263.4865786023424,
+  "distance": 0.0,
+  "last_reason": "Board, close doors and stow the jetbridge",
+  "engine_out": false,
+  "ready": true,
+  "pilot": false,
+  "context": {
+    "aboard": false,
+    "pilot": false,
+    "doors_closed": false,
+    "bridge_stowed": false
+  },
+  "checklist": "HOME / crew close doors, then wait for the door lamps",
+  "root_writes": 1,
+  "attached_roots": 1785,
+  "dynamic_props": 0,
+  "surface_count": 13,
+  "needle_count": 7,
+  "events": [],
+  "denials": [],
+  "model": "local game flight approximation",
+  "carrier_frame": "one native parent / frozen manifest reference",
+  "driver": null,
+  "audio_status": "Ready",
+  "mobility_promoted": [],
+  "native_warning_actor": [
+    {
+      "object": "StaticMeshActor_851",
+      "label": "CH12COLL Queue passenger 3",
+      "selected": false,
+      "mobility": "<ComponentMobility.MOVABLE: 2>",
+      "parent": null
+    }
+  ],
+  "actual_flightdeck_door": {
+    "label": "Flightdeck door",
+    "object": "StaticMeshActor_96",
+    "fraction": 0.0,
+    "target": 0,
+    "location_source": [
+      15.5,
+      0.054999999701976776,
+      0.0
+    ],
+    "rotation": {
+      "pitch": 0.0,
+      "yaw": 0.0,
+      "roll": 0.0
+    },
+    "expected_rotation": {
+      "pitch": 0.0,
+      "yaw": 0.0,
+      "roll": -0.0
+    },
+    "error_degrees": 0.0,
+    "pose_matches_fraction": true,
+    "mobility": "<ComponentMobility.MOVABLE: 2>",
+    "transform": {
+      "translation": [
+        1550.0,
+        -5.499999970197678,
+        0.0
+      ],
+      "rotation": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "parent": "Flight39 Aircraft carrier",
+    "source_quaternion_type": "Quat",
+    "source_quaternion": [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "relative_rotation": {
+      "pitch": 0.0,
+      "yaw": 0.0,
+      "roll": 0.0
+    },
+    "mesh": "/Game/Art/Meshes/SM_Plane_CockpitDoor.SM_Plane_CockpitDoor",
+    "collision_profile": "BlockAll",
+    "collision_enabled": "<CollisionEnabled.QUERY_AND_PHYSICS: 3>",
+    "nearby_door_actors": [
+      {
+        "name": "Flightdeck door",
+        "label": "Flightdeck door",
+        "object": "StaticMeshActor_96",
+        "rotation": {
+          "pitch": 0.0,
+          "yaw": 0.0,
+          "roll": 0.0
+        },
+        "parent": "Flight39 Aircraft carrier"
+      },
+      {
+        "name": "Aircraft door 1L",
+        "label": "Aircraft door 1L",
+        "object": "StaticMeshActor_131",
+        "rotation": {
+          "pitch": 0.0,
+          "yaw": 14.99999689609833,
+          "roll": -0.0
+        },
+        "parent": "Flight39 Aircraft carrier"
+      },
+      {
+        "name": "Forward first aid door11",
+        "label": "Forward first aid door11",
+        "object": "StaticMeshActor_458",
+        "rotation": {
+          "pitch": 0.0,
+          "yaw": 0.0,
+          "roll": 0.0
+        },
+        "parent": "Flight39 Aircraft carrier"
+      },
+      {
+        "name": "Aircraft door 1L articulation link 012",
+        "label": "Aircraft door 1L articulation link 012",
+        "object": "StaticMeshActor_482",
+        "rotation": {
+          "pitch": 0.0,
+          "yaw": -99.46230153288352,
+          "roll": -67.65755147836535
+        },
+        "parent": "Flight39 Aircraft carrier"
+      },
+      {
+        "name": "Aircraft door 1L articulation link 112",
+        "label": "Aircraft door 1L articulation link 112",
+        "object": "StaticMeshActor_483",
+        "rotation": {
+          "pitch": -3.1805546814635168e-15,
+          "yaw": -99.46230153288349,
+          "roll": -67.65763216972859
+        },
+        "parent": "Flight39 Aircraft carrier"
+      },
+      {
+        "name": "Pressure door articulated hinge bearings12",
+        "label": "Pressure door articulated hinge bearings12",
+        "object": "StaticMeshActor_536",
+        "rotation": {
+          "pitch": 0.0,
+          "yaw": 0.0,
+          "roll": 0.0
+        },
+        "parent": "Flight39 Aircraft carrier"
+      }
+    ]
+  }
+}

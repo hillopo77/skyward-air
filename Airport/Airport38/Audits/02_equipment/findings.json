@@ -1,0 +1,318 @@
+{
+  "review": "2 of 5: equipment and props",
+  "baseline": "Clarity37",
+  "read_only": true,
+  "summary": "The equipment is not consistently assembled. Several recent visual upgrades sit on older malformed assemblies; route waypoint tests did not inspect those connections.",
+  "findings": [
+    {
+      "id": "EQ01",
+      "severity": "P1",
+      "status": "verified",
+      "title": "Checked baggage belts terminate in a solid decorative wall and have no onward system",
+      "objects": [
+        "Bag drop belt 01",
+        "Bag drop belt 02",
+        "SM_AP_CheckinRoom33"
+      ],
+      "evidence": [
+        "Native03_BagDrop01 visibly ends against the timber/solid service wall. Belts point+X, occupy x[-29.7,-26.1] at y-12/-16; check-in east boundary is x-26 and its service lining is near x-26.13/-26.31.",
+        "Exports has only two finite bag-drop rectangles and no backstage continuation. airport_journey22.py:70\u201378 accepts the bag while supported anywhere on the entry belt; no end-of-belt removal/transfer occurs there."
+      ],
+      "correction": "Create proper guarded baggage hatches through ALL overlapping wall/lining layers and a visible short continuation into a supported backstage baggage area. Transfer/sleep bags only after they physically disappear through the guarded hatch. Add guidance distinguishing optional bag drop from security screening.",
+      "acceptance": [
+        "A physical suitcase travels from load point through a real opening without hitting or clipping wall, falling at the end or remaining against it.",
+        "The outward transfer is observed over time, not inferred from the accepted flag.",
+        "Both belts have consistent arrow direction and accessible stop controls."
+      ]
+    },
+    {
+      "id": "EQ02",
+      "severity": "P1",
+      "status": "verified",
+      "title": "The emergency stop is embedded in the scanner shoulder",
+      "objects": [
+        "SM_AP_Belt",
+        "SM_AP_Scanner34",
+        "Security belt 01",
+        "Security belt 02"
+      ],
+      "evidence": [
+        "Source inventory cap local bounds x[.583,.677],y[-.997,-.903],z[.935,1.005]; scanner shoulder extends x[.645,.795] through the same y/z region.",
+        "08_ScannerControl shows only a thin yellow fragment behind the body; the red mushroom is obscured."
+      ],
+      "correction": "Move the stop box to an accessible outboard/entry bracket clear of the scanner envelope, with a retained mounting foot and readable emergency-stop identification. Keep the cap circular and above its bezel.",
+      "acceptance": [
+        "The entire cap and guard are visible from the passenger/operator approach.",
+        "There is no triangle-volume intersection with scanner body.",
+        "The interaction ray reaches the cap/bracket rather than the equipment wall."
+      ]
+    },
+    {
+      "id": "EQ03",
+      "severity": "P1",
+      "status": "verified",
+      "title": "Right lane side monitor/shelf penetrates the security east partition",
+      "objects": [
+        "X-ray scanner 02"
+      ],
+      "evidence": [
+        "Native machine bounds maxX-35.845; the room east wall is x-36 with interior face near-36.09.",
+        "Its side console protrudes about245mm past the interior face at y~2.3, where the wall is solid."
+      ],
+      "correction": "Reposition the entire second screening assembly within the room envelope, including detector, belt, scanner, tray station and targets; do not move only the protruding screen. Preserve both lane clearances and the exit route.",
+      "acceptance": [
+        "All equipment bounds and controls are inside the room with a deliberate service clearance.",
+        "Both detectors are walkable and remain aligned with their floor guidance.",
+        "Monitor and control interaction rays are unobstructed."
+      ]
+    },
+    {
+      "id": "EQ04",
+      "severity": "P1",
+      "status": "verified",
+      "title": "Scanner monitor contains a floating weighted foot and conflicting supports",
+      "objects": [
+        "SM_AP_Scanner34"
+      ],
+      "evidence": [
+        "Old monitor weighted foot bottom is z1.164, while the side work shelf top is1.075: an89mm air gap.",
+        "The original articulated support and swivel stem are retained as well. 08_ScannerControl visibly shows a small base hovering above a large shelf.",
+        "Terminal34 clones Scanner without excluding original monitor housing/stand; a new readout housing is added over the original enclosure."
+      ],
+      "correction": "Use one coherent support scheme. Prefer a wall/VESA arm with bolted mounting and remove the redundant weighted foot; alternatively seat the foot on the worktop and correctly shorten the stem. Replace overlapping old/new monitor enclosures with one fitted enclosure.",
+      "acceptance": [
+        "Every monitor support member has a continuous mechanical connection to the scanner or shelf.",
+        "No horizontal foot floats in air.",
+        "Close front/side/rear views show one enclosure and no duplicate protruding backing."
+      ]
+    },
+    {
+      "id": "EQ05",
+      "severity": "P1",
+      "status": "verified",
+      "title": "A07 desk intersects its room wall",
+      "objects": [
+        "Gate A07 boarding desk"
+      ],
+      "evidence": [
+        "Native bounds minY-3.055; south room wall is centred y-3 with inside face approximately-2.91.",
+        "The desk therefore penetrates the room boundary by~145mm. 27_DeskClearance shows the desk/foot rail crowded against the corner."
+      ],
+      "correction": "Move the complete boarding workstation and its NPC, interaction point, screen/reader and collision proxies north into a planned service bay; preserve a usable staff clearance. Audit A08 and operations workstation similarly rather than applying the move blindly.",
+      "acceptance": [
+        "No desk geometry or support penetrates a wall or adjacent desk.",
+        "The staff working area and public scanner approach are both accessible.",
+        "The boarding action remains reachable from the public side."
+      ]
+    },
+    {
+      "id": "EQ06",
+      "severity": "P1",
+      "status": "verified",
+      "title": "A standalone potted plant was left floating when furniture moved",
+      "objects": [
+        "Small potted plant24"
+      ],
+      "evidence": [
+        "Native plant base is at[-35.25,.25,1.06], boundsY[.1576,.3424].",
+        "The repacking bench now starts at y.533 and the charging table moved to x-32.75. Neither is beneath this plant."
+      ],
+      "correction": "Attach the plant to the new charging surface with its base seated at the actual top height, or relocate it to a real supported ledge. Group props with their supporting furniture so later moves carry them together.",
+      "acceptance": [
+        "Downward support trace from the planter bottom hits its intended furniture within a few millimetres.",
+        "The prop does not float or intersect another fixture from any nearby viewpoint."
+      ]
+    },
+    {
+      "id": "EQ07",
+      "severity": "P1",
+      "status": "verified",
+      "title": "Service-desk carcass and curved front panels are not constructed as a fitted assembly",
+      "objects": [
+        "SM_AP_ServiceDesk30",
+        "SM_AP_Counter34"
+      ],
+      "evidence": [
+        "The closed carcass has a front face while separate curved doors cross that envelope. The upper outer portions of the door curve reach approximately y-.45 at z.91, behind the carcass front near-.455.",
+        "27_DeskClearance shows open dark side voids/strips around the door/end-cheek assembly. The same modeled source is reused at check-in, both gates and operations.",
+        "There is no evidence here that the TWO CHECK-IN DESKS mutually intersect: their centres are4m apart and their2.11m widths do not overlap. The verified defects are desk-wall and within-model assembly intersections."
+      ],
+      "correction": "Model an open-front carcass/frame with real backing and shelves, inset doors with consistent reveals, properly joined end cheeks and seated trim. Remove unseen faces behind inset panels instead of layering closed solids. Keep a continuous attached front badge rather than a plaque spanning two functional doors.",
+      "acceptance": [
+        "No front panel crosses the carcass surface in section.",
+        "Door reveals are narrow, consistent and backed; no bright/world-visible voids at the ends.",
+        "All instances render cleanly at close range while moving."
+      ]
+    },
+    {
+      "id": "EQ08",
+      "severity": "P2",
+      "status": "verified_geometry; shimmering_cause_is_suspected",
+      "title": "Curtain gaps create an unnecessarily high-contrast high-frequency pattern",
+      "objects": [
+        "SM_AP_Scanner34"
+      ],
+      "evidence": [
+        "There are12 strips across each tunnel end, width.106m on.112m pitch:6mm bright open gaps.",
+        "All curtain parts are static/non-simulating and have zero within-part duplicate faces in the source inventory. That does not prove that no inter-asset overlap exists.",
+        "The user image and07_Curtain show the repeated bright lines between very dark strips."
+      ],
+      "correction": "Use a continuous dark interior liner and softly shaped strips/grooves, or realistically stagger the overlaps in depth. Do not widen coplanar front strips into one another, which would create z-fighting. Soften the visible manufactured edges and keep cavity darkness stable.",
+      "acceptance": [
+        "Fixed-camera and moving-camera frame sequences have stable curtain silhouettes and no bright intermittent slit pattern.",
+        "Transform samples remain invariant while stationary.",
+        "No overlapping coplanar faces are introduced."
+      ]
+    },
+    {
+      "id": "EQ09",
+      "severity": "P2",
+      "status": "verified",
+      "title": "Stock shelves are populated with identical blank cartons rather than recognizable supplies",
+      "objects": [
+        "SM_AP_Storage34",
+        "RetailShelf24_1814",
+        "RetailShelf24_1815",
+        "RetailShelf24_1832",
+        "RetailShelf24_1833",
+        "RetailShelf24_1834"
+      ],
+      "evidence": [
+        "Source inventory:20 identical.18\u00d7.17\u00d7.30m cartons plus20 plain white rectangular label solids per shelf.",
+        "11_StaffStorage confirms the repeated five colours and blank labels."
+      ],
+      "correction": "Create a small coherent supply set with recognizable silhouettes and readable role labels: folded blankets, first-aid packs, radio/headset cases, document binders and boxed service supplies. Vary arrangement according to staff storage versus gallery retail; retain a consistent smooth stylized finish.",
+      "acceptance": [
+        "At normal player distance each product family is identifiable without zoom.",
+        "There are meaningful shape/material differences and labels, not only recolours.",
+        "Every item rests on a shelf with no wall intersection."
+      ]
+    },
+    {
+      "id": "EQ10",
+      "severity": "P2",
+      "status": "verified",
+      "title": "Shelf price rails float in front of the shelves",
+      "objects": [
+        "SM_AP_Storage34"
+      ],
+      "evidence": [
+        "Shelf front y-.245; rail back y-.258, leaving13mm unsupported air.",
+        "Four rails are simple6-face boxes with no clips/attachment geometry."
+      ],
+      "correction": "Seat the rails directly on the shelf edge or add actual retained clips. If used in staff storage, replace retail price rails with appropriate inventory tags.",
+      "acceptance": [
+        "The rail back contacts its support continuously or at modeled clips.",
+        "Close oblique views show no floating horizontal strip."
+      ]
+    },
+    {
+      "id": "EQ11",
+      "severity": "P2",
+      "status": "verified",
+      "title": "Legacy recycling units have painted-on recesses instead of apertures",
+      "objects": [
+        "SM_AP_Recycling",
+        "Recycling24_1810",
+        "Recycling24_1830",
+        "Recycling24_1831"
+      ],
+      "evidence": [
+        "The source consists of a closed housing, door and dark solid rectangles named Open dark recess; there is no cut-out or open liner.",
+        "Newer caf\u00e9 Bins36 already use genuine openings, so the map contains inconsistent prop construction standards."
+      ],
+      "correction": "Replace the legacy units with a compact genuinely open version, including a liner, thickness and either a swing flap or an actual mouth. Keep a clear label appropriate to location.",
+      "acceptance": [
+        "A view into the aperture shows a supported dark cavity rather than the outside floor or a flat solid decal.",
+        "No open shell backfaces or floating trim are visible."
+      ]
+    },
+    {
+      "id": "EQ12",
+      "severity": "P2",
+      "status": "verified",
+      "title": "Screening tray stacks remain on the floor rather than the preparation worktop",
+      "objects": [
+        "Tray24_1719",
+        "Tray24_1720",
+        "Tray24_1721",
+        "Tray24_1722",
+        "Tray24_1732",
+        "Tray24_1733",
+        "Tray24_1734",
+        "Tray24_1735"
+      ],
+      "evidence": [
+        "Both stacks are at scannerX,y.8, baseZ0,.12,.24,.36, whereas the supported preparation worktop is aroundz.94.",
+        "They are nonblocking decorative instances, with no coherent tray-use journey."
+      ],
+      "correction": "Put the stack on a fitted waist-height input cart or the preparation bench and make the equipment layout communicate prepare\u2192load\u2192walk\u2192collect. Add a receiving shelf at the output or bounded return arrangement.",
+      "acceptance": [
+        "All trays rest on a support, with a deliberate reachable input/collection position.",
+        "The route cannot be mistaken for putting belongings on the floor.",
+        "If trays are interactive, they can be picked up and placed without slipping through the surface."
+      ]
+    },
+    {
+      "id": "EQ13",
+      "severity": "P1",
+      "status": "verified",
+      "title": "The fitted caf\u00e9 run has100mm open voids between cabinet bases",
+      "objects": [
+        "SM_AP_Espresso36",
+        "SM_AP_Bakery36",
+        "SM_AP_POS36",
+        "SM_AP_Tea36"
+      ],
+      "evidence": [
+        "Each base/plinth is1.90m wide while counters are placed2.0m apart; worktops are2.0m wide.",
+        "24_CafeService visibly exposes100mm vertical gaps between base units below the almost-continuous worktop. The units have separate backs, so the service void is not closed by a continuous rear panel."
+      ],
+      "correction": "Model scribed filler panels/pilasters and continuous plinth/backing at the three joints, or author the run as one fitted cabinet frame with separate functional doors. Retain honest narrow worktop joints.",
+      "acceptance": [
+        "Front and oblique views show a continuous backed run with no view through100mm gaps.",
+        "Doors, pulls and plaques do not intersect the fillers.",
+        "All four equipment stations remain accessible."
+      ]
+    }
+  ],
+  "not_proven": [
+    "No proof that the scanner itself physically moves; native scanner is static. Motion/temporal causes require frame/transform analysis.",
+    "No proof of mutually overlapping check-in desks in current placements.",
+    "AP COLL proxy component visible flags do not establish that actors render: actor hidden-in-game must also be checked."
+  ],
+  "coverage": [
+    "Check-in service desks and kiosks",
+    "Bag-drop input, conveyor direction, wall termination and runtime acceptance",
+    "Both security portals, belts, scanners, curtains, controls, monitor supports and trays",
+    "Operator/repacking furniture and attached props",
+    "Gate A07/A08 and operations workstation construction/placement",
+    "Staff and gallery shelves",
+    "Caf\u00e9 equipment/cabinet run",
+    "Restroom vanity/toilet modeled source",
+    "Legacy recycling",
+    "Trolleys, reclaim carousel and extinguisher source inventories"
+  ],
+  "sources": [
+    "Airport38/Audits/AuditInventory38.json",
+    "Airport38/Audits/SourceInventory38.json",
+    "Clarity37/Exports/airport_layout.json",
+    "SourceAssets/airport_model.py",
+    "SourceAssets/airport_equipment.py",
+    "Checkin29/SourceAssets/model29.py",
+    "Checkin30/SourceAssets/model30.py",
+    "Terminal34/SourceAssets/model34.py",
+    "Detail36/SourceAssets/model36.py",
+    "UnrealProject/Content/Python/airport_journey22.py"
+  ],
+  "native_images_reviewed": [
+    "03_BagDrop01",
+    "08_ScannerControl",
+    "11_StaffStorage",
+    "12_Repacking",
+    "21_WCInterior",
+    "24_CafeService",
+    "26_A07Desks",
+    "27_DeskClearance"
+  ]
+}

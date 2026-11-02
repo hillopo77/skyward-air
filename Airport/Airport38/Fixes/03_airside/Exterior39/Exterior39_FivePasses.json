@@ -1,0 +1,51 @@
+{
+  "status": "PASS",
+  "passes": [
+    {
+      "pass_id": 1,
+      "actual": "Original linked source diagnosis",
+      "maximum_pocket_outside_skin_m": 0.13005761942378768,
+      "redundant_cockpit_tubes": 6
+    },
+    {
+      "pass_id": 2,
+      "actual": "Source model removed redundant framing; six exact pressure-shell panes retained",
+      "tube_count_after": 0,
+      "unchanged_glazing_vertices": 1253
+    },
+    {
+      "pass_id": 3,
+      "actual": "Curved pocket/C-guide pressure-skin and business-shell fit after actual model evaluation",
+      "evaluated_vertices": 2320,
+      "minimum_inside_skin_m": 0.0312094007924979,
+      "minimum_business_shell_clearance_m": 0.013999998122453672
+    },
+    {
+      "pass_id": 4,
+      "actual": "All48 shade mechanisms over21 stroke positions with unchanged closed poses/targets",
+      "sampled_slat_vertices": 290304,
+      "minimum_inside_skin_m": 0.047737979014603305,
+      "idempotent": true
+    },
+    {
+      "pass_id": 5,
+      "actual": "Evaluated doors, weather seals, surfaces, all bindings and actual version1-to2 upgrade",
+      "evaluated_faces": 48242,
+      "zero_area_faces": 0,
+      "doors_aperture_vertices_unchanged": true,
+      "source_instances": 76,
+      "version1_upgrade_tested": true
+    }
+  ],
+  "changed_assets": [
+    "SM_AP_E39CockpitShellClean",
+    "SM_AP_E39ShadeFrameL",
+    "SM_AP_E39ShadeFrameR",
+    "SM_AP_E39WeatherSeals",
+    "SM_AP_E39PassengerDoorL",
+    "SM_AP_E39PassengerDoorR"
+  ],
+  "native_swap_instances": 76,
+  "source_master_modified": false,
+  "native_visual_review": "required after root import"
+}

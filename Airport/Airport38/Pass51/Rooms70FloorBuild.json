@@ -1,0 +1,14 @@
+{
+ "status": "SUCCESS",
+ "asset": "SM_AP_P70RoomsFloor",
+ "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Rooms70Build\\SM_AP_P70RoomsFloor.fbx",
+ "materials": [
+  "MI_AP_P27Teal",
+  "MI_AP_P34Cream",
+  "MI_AP_P27Walnut",
+  "MI_AP_P38AGold",
+  "MI_AP_P71SecLaneFloor",
+  "MI_AP_P71SecOpal"
+ ],
+ "polygons": 3626
+}

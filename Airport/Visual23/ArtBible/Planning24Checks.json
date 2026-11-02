@@ -1,0 +1,12 @@
+{
+  "status": "SUCCESS",
+  "scope": "Plan topology and threshold dimensions only; not built or walked in Unreal",
+  "checks": [
+    "Every threshold fits the full width of its adjoining zones",
+    "All departure destinations reachable through the circulation network",
+    "No departure route bypasses security",
+    "Major destination rooms are connected through circulation or transition spaces",
+    "SVG is valid XML"
+  ],
+  "plan_revision": 24
+}

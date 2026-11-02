@@ -1,0 +1,128 @@
+{
+  "scope": "Private final frozen character append; no airport/character master/native writes",
+  "source": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Characters\\Revision39\\Characters39.blend",
+  "source_sha256": "177c3ee1b7a0db92fd668ea205cafe97784a9a734a668018fb88dcc13929301c",
+  "passes": [
+    {
+      "pass_id": 1,
+      "check": "Actual static ownership removed from ergonomic chair and new body-fitted lap buckle",
+      "removed": 8,
+      "worn_buckles": {
+        "Crew": {
+          "buckle_centre": [
+            0.0,
+            -0.35343475580215455,
+            0.705
+          ],
+          "hinge": [
+            0.0,
+            -0.36443475580215456,
+            0.727
+          ],
+          "complete_buckle_footprint_body_ray_fit": true
+        },
+        "Generic": {
+          "buckle_centre": [
+            0.0,
+            -0.35343475580215455,
+            0.705
+          ],
+          "hinge": [
+            0.0,
+            -0.36443475580215456,
+            0.727
+          ],
+          "complete_buckle_footprint_body_ray_fit": true
+        }
+      },
+      "side_anchors": [
+        [
+          -0.325,
+          0.15,
+          0.5
+        ],
+        [
+          0.325,
+          0.15,
+          0.5
+        ]
+      ]
+    },
+    {
+      "pass_id": 2,
+      "check": "Actual evaluated manufactured geometry",
+      "triangles": 69388,
+      "zero_area": 0
+    },
+    {
+      "pass_id": 3,
+      "check": "Actual candidate lap/body clearance, not semantic anchor guesses",
+      "fits": [
+        {
+          "kind": "Crew",
+          "minimum_signed_clothing_clearance_m": 0.0009221730724675581,
+          "inside_probes": 0,
+          "vertices_edges_facecentres_checked": 34126
+        },
+        {
+          "kind": "Generic",
+          "minimum_signed_clothing_clearance_m": 0.0013515817336156033,
+          "inside_probes": 0,
+          "vertices_edges_facecentres_checked": 34126
+        }
+      ]
+    },
+    {
+      "pass_id": 4,
+      "check": "Stowed halves supported on actual pan edges; receiver/tongue clear arm walls",
+      "minimum_cushion_gap_m": 0.0015999972820281982,
+      "maximum_cushion_gap_m": 0.004400014877319336,
+      "maximum_abs_x": 0.3310000002384186
+    },
+    {
+      "pass_id": 5,
+      "check": "Actual separate retained lid in both worn and side-parked released poses",
+      "poses": [
+        {
+          "body": "Crew",
+          "state": 0,
+          "minimum_body_clearance_m": 0.02642702031880617,
+          "probes": 246
+        },
+        {
+          "body": "Crew",
+          "state": 1,
+          "minimum_body_clearance_m": 0.038990638218820095,
+          "probes": 246
+        },
+        {
+          "body": "Hoodie",
+          "state": 0,
+          "minimum_body_clearance_m": 0.02571801840497301,
+          "probes": 246
+        },
+        {
+          "body": "Hoodie",
+          "state": 1,
+          "minimum_body_clearance_m": 0.03894846529874485,
+          "probes": 246
+        }
+      ]
+    },
+    {
+      "pass_id": 6,
+      "check": "Current-source assembly metadata/overlay placement repeat-safe with existing four controls",
+      "assets": 5,
+      "records": 4,
+      "default_worn_npcs": 1
+    }
+  ],
+  "passed": true,
+  "assets": [
+    "SM_AP_B40LuxurySeatBase",
+    "SM_AP_B40LapStowed",
+    "SM_AP_B40LapWornCrew",
+    "SM_AP_B40LapWornGeneric",
+    "SM_AP_B40ReleaseLid"
+  ]
+}

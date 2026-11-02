@@ -1,0 +1,17 @@
+{
+  "status": "READY",
+  "level": 5,
+  "map": "/Game/Airport32/L_Airport_Lighting32",
+  "viewport": [
+    1920,
+    1080
+  ],
+  "profile": "Calm31",
+  "phase": "CheckIn",
+  "distance_normal_fade_m": [
+    2.5,
+    8
+  ],
+  "essential_prints_never_stream": true,
+  "updated": 1793206485.1172698
+}

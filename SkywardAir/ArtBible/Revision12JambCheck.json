@@ -1,0 +1,301 @@
+{
+  "revision": "12",
+  "status": "SUCCESS",
+  "source_sha256": "718cd6c2845211682a6eac6057aed830bfcc02e185a01c5032b68cf2e8431000",
+  "source_unchanged": true,
+  "actual_saved_source_proof": true,
+  "checked_at_utc": "2026-10-24T18:44:34Z",
+  "before_source_sha256": "9fa1ada1393d219b41483d4414049891cab5f2ad06ed3c1d26200262a2ebcc22",
+  "before": {
+    "white_front_faces": [
+      {
+        "object": "Cockpit crew jamb continuous seam backing11",
+        "plane_y_m": 0.12000000476837158,
+        "geometric_normal_y": 1.0,
+        "min": [
+          -0.6330000162124634,
+          0.006999969482421875
+        ],
+        "max": [
+          -0.5169999599456787,
+          2.1530001163482666
+        ],
+        "polygon_vertices": 4,
+        "material": "MI_Plane_ServiceWarm11"
+      },
+      {
+        "object": "Cockpit crew jamb continuous seam backing11.001",
+        "plane_y_m": 0.12000000476837158,
+        "geometric_normal_y": 1.0,
+        "min": [
+          0.5169999599456787,
+          0.006999969482421875
+        ],
+        "max": [
+          0.6330000162124634,
+          2.1530001163482666
+        ],
+        "polygon_vertices": 4,
+        "material": "MI_Plane_ServiceWarm11"
+      }
+    ],
+    "metal_front_faces": [
+      {
+        "object": "Cockpit reinforced jamb",
+        "plane_y_m": 0.11999999731779099,
+        "geometric_normal_y": -1.0,
+        "min": [
+          -0.5710000395774841,
+          0.008999943733215332
+        ],
+        "max": [
+          -0.5090000033378601,
+          2.071000099182129
+        ],
+        "polygon_vertices": 4,
+        "material": "MI_Plane_SteelDark"
+      },
+      {
+        "object": "Cockpit reinforced jamb.001",
+        "plane_y_m": 0.11999999731779099,
+        "geometric_normal_y": -1.0,
+        "min": [
+          0.5090000033378601,
+          0.008999943733215332
+        ],
+        "max": [
+          0.5710000395774841,
+          2.071000099182129
+        ],
+        "polygon_vertices": 4,
+        "material": "MI_Plane_SteelDark"
+      },
+      {
+        "object": "Cockpit door header",
+        "plane_y_m": 0.11999999731779099,
+        "geometric_normal_y": -1.0,
+        "min": [
+          -0.5709999799728394,
+          2.059000015258789
+        ],
+        "max": [
+          0.5709999799728394,
+          2.1409997940063477
+        ],
+        "polygon_vertices": 4,
+        "material": "MI_Plane_SteelDark"
+      }
+    ],
+    "coplanar_contrasting_face_overlaps": [
+      {
+        "white": "Cockpit crew jamb continuous seam backing11",
+        "metal": "Cockpit reinforced jamb",
+        "plane_separation_m": 7.450580596923828e-09,
+        "overlapping_flat_rectangular_face_area_m2": 0.11134817259503649
+      },
+      {
+        "white": "Cockpit crew jamb continuous seam backing11",
+        "metal": "Cockpit door header",
+        "plane_separation_m": 7.450580596923828e-09,
+        "overlapping_flat_rectangular_face_area_m2": 0.004427989694590906
+      },
+      {
+        "white": "Cockpit crew jamb continuous seam backing11.001",
+        "metal": "Cockpit reinforced jamb.001",
+        "plane_separation_m": 7.450580596923828e-09,
+        "overlapping_flat_rectangular_face_area_m2": 0.11134817259503649
+      },
+      {
+        "white": "Cockpit crew jamb continuous seam backing11.001",
+        "metal": "Cockpit door header",
+        "plane_separation_m": 7.450580596923828e-09,
+        "overlapping_flat_rectangular_face_area_m2": 0.004427989694590906
+      }
+    ],
+    "total_coplanar_face_area_m2": 0.2315523245792548
+  },
+  "offline_prediction": {
+    "white_front_faces": [
+      {
+        "object": "Cockpit crew jamb continuous seam backing11",
+        "plane_y_m": 0.10499999672174454,
+        "geometric_normal_y": 1.0,
+        "min": [
+          -0.6330000162124634,
+          0.006999969482421875
+        ],
+        "max": [
+          -0.5820000171661377,
+          2.1530001163482666
+        ],
+        "polygon_vertices": 4,
+        "material": "MI_Plane_ServiceWarm11"
+      },
+      {
+        "object": "Cockpit crew jamb continuous seam backing11.001",
+        "plane_y_m": 0.10499999672174454,
+        "geometric_normal_y": 1.0,
+        "min": [
+          0.5820000171661377,
+          0.006999969482421875
+        ],
+        "max": [
+          0.6330000162124634,
+          2.1530001163482666
+        ],
+        "polygon_vertices": 4,
+        "material": "MI_Plane_ServiceWarm11"
+      }
+    ],
+    "metal_front_faces": [
+      {
+        "object": "Cockpit reinforced jamb",
+        "plane_y_m": 0.11999999731779099,
+        "geometric_normal_y": -1.0,
+        "min": [
+          -0.5710000395774841,
+          0.008999943733215332
+        ],
+        "max": [
+          -0.5090000033378601,
+          2.071000099182129
+        ],
+        "polygon_vertices": 4,
+        "material": "MI_Plane_SteelDark"
+      },
+      {
+        "object": "Cockpit reinforced jamb.001",
+        "plane_y_m": 0.11999999731779099,
+        "geometric_normal_y": -1.0,
+        "min": [
+          0.5090000033378601,
+          0.008999943733215332
+        ],
+        "max": [
+          0.5710000395774841,
+          2.071000099182129
+        ],
+        "polygon_vertices": 4,
+        "material": "MI_Plane_SteelDark"
+      },
+      {
+        "object": "Cockpit door header",
+        "plane_y_m": 0.11999999731779099,
+        "geometric_normal_y": -1.0,
+        "min": [
+          -0.5709999799728394,
+          2.059000015258789
+        ],
+        "max": [
+          0.5709999799728394,
+          2.1409997940063477
+        ],
+        "polygon_vertices": 4,
+        "material": "MI_Plane_SteelDark"
+      }
+    ],
+    "coplanar_contrasting_face_overlaps": [],
+    "total_coplanar_face_area_m2": 0
+  },
+  "actual_saved": {
+    "white_front_faces": [
+      {
+        "object": "Cockpit crew jamb continuous seam backing11",
+        "plane_y_m": 0.10499999672174454,
+        "geometric_normal_y": 1.0,
+        "min": [
+          -0.6330000162124634,
+          0.006999969482421875
+        ],
+        "max": [
+          -0.5820000171661377,
+          2.1530001163482666
+        ],
+        "polygon_vertices": 4,
+        "material": "MI_Plane_ServiceWarm11"
+      },
+      {
+        "object": "Cockpit crew jamb continuous seam backing11.001",
+        "plane_y_m": 0.10499999672174454,
+        "geometric_normal_y": 1.0,
+        "min": [
+          0.5820000171661377,
+          0.006999969482421875
+        ],
+        "max": [
+          0.6330000162124634,
+          2.1530001163482666
+        ],
+        "polygon_vertices": 4,
+        "material": "MI_Plane_ServiceWarm11"
+      }
+    ],
+    "metal_front_faces": [
+      {
+        "object": "Cockpit reinforced jamb",
+        "plane_y_m": 0.11999999731779099,
+        "geometric_normal_y": -1.0,
+        "min": [
+          -0.5710000395774841,
+          0.008999943733215332
+        ],
+        "max": [
+          -0.5090000033378601,
+          2.071000099182129
+        ],
+        "polygon_vertices": 4,
+        "material": "MI_Plane_SteelDark"
+      },
+      {
+        "object": "Cockpit reinforced jamb.001",
+        "plane_y_m": 0.11999999731779099,
+        "geometric_normal_y": -1.0,
+        "min": [
+          0.5090000033378601,
+          0.008999943733215332
+        ],
+        "max": [
+          0.5710000395774841,
+          2.071000099182129
+        ],
+        "polygon_vertices": 4,
+        "material": "MI_Plane_SteelDark"
+      },
+      {
+        "object": "Cockpit door header",
+        "plane_y_m": 0.11999999731779099,
+        "geometric_normal_y": -1.0,
+        "min": [
+          -0.5709999799728394,
+          2.059000015258789
+        ],
+        "max": [
+          0.5709999799728394,
+          2.1409997940063477
+        ],
+        "polygon_vertices": 4,
+        "material": "MI_Plane_SteelDark"
+      }
+    ],
+    "coplanar_contrasting_face_overlaps": [],
+    "total_coplanar_face_area_m2": 0
+  },
+  "checks": [
+    {
+      "test": "Saved white returns have no contrasting coplanar face overlap",
+      "passed": true
+    },
+    {
+      "test": "White return faces are recessed15mm behind the metal frame",
+      "passed": true,
+      "measured_minimum_plane_separation_m": 0.015000000596046448
+    },
+    {
+      "test": "Saved-source jamb audit left the source unchanged",
+      "passed": true,
+      "sha256_before": "718cd6c2845211682a6eac6057aed830bfcc02e185a01c5032b68cf2e8431000",
+      "sha256_after": "718cd6c2845211682a6eac6057aed830bfcc02e185a01c5032b68cf2e8431000"
+    }
+  ],
+  "method": "Actual evaluated saved-source face planes and rectangular face extents after cold load; original before evidence retained. No helper imported, no source save."
+}

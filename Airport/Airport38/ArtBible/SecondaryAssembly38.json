@@ -1,0 +1,2653 @@
+{
+  "status": "SUCCESS",
+  "passes": [
+    {
+      "name": "architectural supports",
+      "result": {
+        "status": "IMPLEMENTED_SOURCE_REQUIRES_NATIVE_REVIEW",
+        "asset_ids": [
+          "SM_AP_Attachments38",
+          "SM_AP_RetainedCraft38",
+          "SM_AP_Wayfinding38"
+        ],
+        "moved_actors": [
+          "Compact departures display"
+        ],
+        "changed_parts": [
+          "A08 wall-mounted oak backing",
+          "A08 navy laminated face",
+          "A08 A08   NORTH LOUNGE"
+        ],
+        "removed_unused_parts": [
+          "Gate timber feature supported backing35.006",
+          "Gate timber feature supported backing35.007"
+        ],
+        "new_actor": "Airport38 verified architectural attachments",
+        "findings": [
+          "AT02_A08_ceiling_crop",
+          "AT03_display_orientation",
+          "AT04_flight_display_supports",
+          "AT05_A07_picture_mount",
+          "AT06_menu_support",
+          "AT07_fascia_hangers",
+          "AT08_gallery_soffit_closure",
+          "AT09_clock_backplate",
+          "AT10_wall_plaque_standoffs"
+        ],
+        "unresolved": [
+          "AT11 shared-boundary roof-step plenum gap requires union repair",
+          "AT12 duplicated glazing mullions require union repair",
+          "AT13 gallery source contact candidates require exposure scrutiny"
+        ],
+        "untouched": [
+          "PreparationGuide38 owned by root",
+          "A08 rear artwork and Vanity34 owned by equipment agent"
+        ]
+      }
+    },
+    {
+      "name": "equipment assemblies",
+      "result": {
+        "applied": true,
+        "asset_ids": [
+          "SM_AP_Bakery36",
+          "SM_AP_Bench27",
+          "SM_AP_Bench29",
+          "SM_AP_Bench34",
+          "SM_AP_CafeChair34",
+          "SM_AP_CafeTable34",
+          "SM_AP_Information27",
+          "SM_AP_OperatorConsole36",
+          "SM_AP_OvalTable36",
+          "SM_AP_POS36",
+          "SM_AP_RetainedCraft38",
+          "SM_AP_Scanner38",
+          "SM_AP_Sofa36",
+          "SM_AP_TableSetting36",
+          "SM_AP_Tea36",
+          "SM_AP_Toilet34",
+          "SM_AP_TravelStorage38",
+          "SM_AP_Trolley",
+          "SM_AP_Vanity34"
+        ],
+        "findings": [
+          {
+            "id": "S2E01",
+            "asset": "SM_AP_Scanner38",
+            "detail": "Replace twisted multi-bend loft with three rigid links and captured pivots",
+            "before_bounds": [
+              [
+                -0.8485000133514404,
+                -1.1059999465942383,
+                0.0
+              ],
+              [
+                1.409999966621399,
+                1.1059999465942383,
+                2.180000066757202
+              ]
+            ],
+            "after_bounds": [
+              [
+                -0.8485000133514404,
+                -1.1059999465942383,
+                0.0
+              ],
+              [
+                1.409999966621399,
+                1.1059999465942383,
+                2.180000066757202
+              ]
+            ]
+          },
+          {
+            "id": "S2E02",
+            "asset": "SM_AP_Vanity34",
+            "detail": "Fitted doors; closed carcass and mirror chase; fully formed drain bowls and seated hardware",
+            "before_bounds": [
+              [
+                -1.25,
+                -0.5400000214576721,
+                0.03999999910593033
+              ],
+              [
+                1.25,
+                0.3700000047683716,
+                2.247499942779541
+              ]
+            ],
+            "after_bounds": [
+              [
+                -1.6200000047683716,
+                -1.059999942779541,
+                0.0
+              ],
+              [
+                1.9600000381469727,
+                1.2200000286102295,
+                2.2899999618530273
+              ]
+            ]
+          },
+          {
+            "id": "S2E03",
+            "asset": "SM_AP_Toilet34",
+            "detail": "Remove the solid pedestal cap occluding the real recessed bowl and water",
+            "before_bounds": [
+              [
+                -0.28999999165534973,
+                -0.47999998927116394,
+                0.0
+              ],
+              [
+                0.28999999165534973,
+                0.41999998688697815,
+                0.925000011920929
+              ]
+            ],
+            "after_bounds": [
+              [
+                -0.28999999165534973,
+                -0.47999998927116394,
+                0.0
+              ],
+              [
+                0.28999999165534973,
+                0.41999998688697815,
+                0.925000011920929
+              ]
+            ]
+          },
+          {
+            "id": "S2E04",
+            "asset": "SM_AP_Bakery36",
+            "detail": "Support all three shelves from base and move the identity plaque onto fixed transom",
+            "before_bounds": [
+              [
+                -1.0,
+                -0.47189098596572876,
+                0.0
+              ],
+              [
+                1.0,
+                0.4699999988079071,
+                1.7179311513900757
+              ]
+            ],
+            "after_bounds": [
+              [
+                -1.0,
+                -0.49300000071525574,
+                0.0
+              ],
+              [
+                1.0,
+                0.4699999988079071,
+                1.7179311513900757
+              ]
+            ]
+          },
+          {
+            "id": "S2E04",
+            "asset": "SM_AP_POS36",
+            "detail": "Mount identification on fixed stone front rather than bridging both cabinet doors",
+            "before_bounds": [
+              [
+                -1.0,
+                -0.47189098596572876,
+                0.0
+              ],
+              [
+                1.0,
+                0.4699999988079071,
+                1.625
+              ]
+            ],
+            "after_bounds": [
+              [
+                -1.0,
+                -0.49300000071525574,
+                0.0
+              ],
+              [
+                1.0,
+                0.4699999988079071,
+                1.625
+              ]
+            ]
+          },
+          {
+            "id": "S2E04",
+            "asset": "SM_AP_Tea36",
+            "detail": "Mount identification on fixed stone front rather than bridging both cabinet doors",
+            "before_bounds": [
+              [
+                -1.0,
+                -0.47189098596572876,
+                0.0
+              ],
+              [
+                1.0,
+                0.4699999988079071,
+                1.6575000286102295
+              ]
+            ],
+            "after_bounds": [
+              [
+                -1.0,
+                -0.49300000071525574,
+                0.0
+              ],
+              [
+                1.0,
+                0.4699999988079071,
+                1.6575000286102295
+              ]
+            ]
+          },
+          {
+            "id": "S2E05",
+            "asset": "SM_AP_TravelStorage38",
+            "detail": "Lower neck pillows13 mm onto shelves and round their closed tips",
+            "before_bounds": [
+              [
+                -0.75,
+                -0.27000001072883606,
+                0.0
+              ],
+              [
+                0.75,
+                0.27000001072883606,
+                2.4600000381469727
+              ]
+            ],
+            "after_bounds": [
+              [
+                -0.75,
+                -0.27000001072883606,
+                0.0
+              ],
+              [
+                0.75,
+                0.27000001072883606,
+                2.4600000381469727
+              ]
+            ]
+          },
+          {
+            "id": "S2E06",
+            "asset": "SM_AP_TableSetting36",
+            "detail": "Seat settings on actual .7725 tops and support spoon at napkin/table contacts",
+            "before_bounds": [
+              [
+                -0.3247409760951996,
+                -0.23000000417232513,
+                0.0
+              ],
+              [
+                0.28299999237060547,
+                0.18000000715255737,
+                0.12862002849578857
+              ]
+            ],
+            "after_bounds": [
+              [
+                -0.8999999761581421,
+                -1.190000057220459,
+                -0.9929999709129333
+              ],
+              [
+                1.2380000352859497,
+                0.8100000023841858,
+                1.024999976158142
+              ]
+            ]
+          },
+          {
+            "id": "S2E07",
+            "asset": "SM_AP_Sofa36",
+            "detail": "Seat actual resilient feet/casters on the floor without moving tops or seat shells",
+            "before_bounds": [
+              [
+                -1.0850000381469727,
+                -0.38999998569488525,
+                0.012500000186264515
+              ],
+              [
+                1.0850000381469727,
+                0.45500001311302185,
+                0.9300000071525574
+              ]
+            ],
+            "after_bounds": [
+              [
+                -1.0850000381469727,
+                -0.38999998569488525,
+                0.0
+              ],
+              [
+                1.0850000381469727,
+                0.45500001311302185,
+                0.9300000071525574
+              ]
+            ]
+          },
+          {
+            "id": "S2E07",
+            "asset": "SM_AP_OvalTable36",
+            "detail": "Seat actual resilient feet/casters on the floor without moving tops or seat shells",
+            "before_bounds": [
+              [
+                -0.625,
+                -0.3400000035762787,
+                0.019999999552965164
+              ],
+              [
+                0.625,
+                0.3400000035762787,
+                0.578000009059906
+              ]
+            ],
+            "after_bounds": [
+              [
+                -0.625,
+                -0.3400000035762787,
+                0.0
+              ],
+              [
+                0.625,
+                0.3400000035762787,
+                0.578000009059906
+              ]
+            ]
+          },
+          {
+            "id": "S2E07",
+            "asset": "SM_AP_CafeTable34",
+            "detail": "Seat actual resilient feet/casters on the floor without moving tops or seat shells",
+            "before_bounds": [
+              [
+                -0.6000000238418579,
+                -0.3700000047683716,
+                0.007499999832361937
+              ],
+              [
+                0.6000000238418579,
+                0.3700000047683716,
+                0.7724999785423279
+              ]
+            ],
+            "after_bounds": [
+              [
+                -0.6000000238418579,
+                -0.3700000047683716,
+                0.0
+              ],
+              [
+                0.6000000238418579,
+                0.3700000047683716,
+                0.7724999785423279
+              ]
+            ]
+          },
+          {
+            "id": "S2E07",
+            "asset": "SM_AP_CafeChair34",
+            "detail": "Seat actual resilient feet/casters on the floor without moving tops or seat shells",
+            "before_bounds": [
+              [
+                -0.37700000405311584,
+                -0.40560421347618103,
+                0.007499999832361937
+              ],
+              [
+                0.37700000405311584,
+                0.43299999833106995,
+                1.1589863300323486
+              ]
+            ],
+            "after_bounds": [
+              [
+                -0.37700000405311584,
+                -0.40560421347618103,
+                0.0
+              ],
+              [
+                0.37700000405311584,
+                0.43299999833106995,
+                1.1589863300323486
+              ]
+            ]
+          },
+          {
+            "id": "S2E07",
+            "asset": "SM_AP_Trolley",
+            "detail": "Seat actual resilient feet/casters on the floor without moving tops or seat shells",
+            "before_bounds": [
+              [
+                -0.36000001430511475,
+                -0.6200000047683716,
+                0.009999999776482582
+              ],
+              [
+                0.36000001430511475,
+                0.5449615120887756,
+                1.1150000095367432
+              ]
+            ],
+            "after_bounds": [
+              [
+                -0.36000001430511475,
+                -0.6200000047683716,
+                0.0
+              ],
+              [
+                0.36000001430511475,
+                0.5449615120887756,
+                1.1150000095367432
+              ]
+            ]
+          },
+          {
+            "id": "S2E07",
+            "asset": "SM_AP_Information27",
+            "detail": "Seat actual resilient feet/casters on the floor without moving tops or seat shells",
+            "before_bounds": [
+              [
+                -1.1299999952316284,
+                -0.43393591046333313,
+                0.004999999888241291
+              ],
+              [
+                1.1299999952316284,
+                0.4050000011920929,
+                2.674999952316284
+              ]
+            ],
+            "after_bounds": [
+              [
+                -1.1299999952316284,
+                -0.43393591046333313,
+                0.0
+              ],
+              [
+                1.1299999952316284,
+                0.4050000011920929,
+                2.674999952316284
+              ]
+            ]
+          },
+          {
+            "id": "S2E07",
+            "asset": "SM_AP_Bench27",
+            "detail": "Extend shoe underside to floor while retaining top fixing height and supported seat geometry",
+            "before_bounds": [
+              [
+                -1.375,
+                -0.41093069314956665,
+                0.007000000216066837
+              ],
+              [
+                1.1380000114440918,
+                0.3527831733226776,
+                1.0848417282104492
+              ]
+            ],
+            "after_bounds": [
+              [
+                -1.375,
+                -0.41093069314956665,
+                0.0
+              ],
+              [
+                1.1380000114440918,
+                0.3527831733226776,
+                1.0848417282104492
+              ]
+            ]
+          },
+          {
+            "id": "S2E07",
+            "asset": "SM_AP_Bench29",
+            "detail": "Extend shoe underside to floor while retaining top fixing height and supported seat geometry",
+            "before_bounds": [
+              [
+                -1.375,
+                -0.41093069314956665,
+                0.007000000216066837
+              ],
+              [
+                1.1380000114440918,
+                0.3527831733226776,
+                1.0848417282104492
+              ]
+            ],
+            "after_bounds": [
+              [
+                -1.375,
+                -0.41093069314956665,
+                0.0
+              ],
+              [
+                1.1380000114440918,
+                0.3527831733226776,
+                1.0848417282104492
+              ]
+            ]
+          },
+          {
+            "id": "S2E07",
+            "asset": "SM_AP_Bench34",
+            "detail": "Extend shoe underside to floor while retaining top fixing height and supported seat geometry",
+            "before_bounds": [
+              [
+                -1.1169999837875366,
+                -0.40560421347618103,
+                0.012500000186264515
+              ],
+              [
+                1.1169999837875366,
+                0.4399999976158142,
+                1.1589863300323486
+              ]
+            ],
+            "after_bounds": [
+              [
+                -1.1169999837875366,
+                -0.40560421347618103,
+                0.0
+              ],
+              [
+                1.1169999837875366,
+                0.4399999976158142,
+                1.1589863300323486
+              ]
+            ]
+          },
+          {
+            "id": "S2E08",
+            "asset": "SM_AP_RetainedCraft38",
+            "detail": "Support A08 art independently of glazing, ground storage racks and foyer side-table shoe",
+            "before_bounds": [
+              [
+                -55.073001861572266,
+                -17.90999984741211,
+                0.0
+              ],
+              [
+                -15.770000457763672,
+                33.900001525878906,
+                3.7950000762939453
+              ]
+            ],
+            "after_bounds": [
+              [
+                -55.073001861572266,
+                -17.90999984741211,
+                0.0
+              ],
+              [
+                -15.770000457763672,
+                33.96500015258789,
+                3.7950000762939453
+              ]
+            ]
+          },
+          {
+            "id": "S2E09",
+            "actor": "HandDryer24_1809",
+            "before_location": [
+              -14.4,
+              -8.9,
+              1.1
+            ],
+            "after_location": [
+              -14.2,
+              -8.9,
+              1.1
+            ],
+            "detail": "Seat mounting rear against actual room inner wall face"
+          },
+          {
+            "id": "S2E09",
+            "actor": "Security camera24",
+            "before_location": [
+              -39.2,
+              9.85,
+              2.85
+            ],
+            "after_location": [
+              -39.2,
+              9.91,
+              2.85
+            ],
+            "detail": "Seat mounting rear against actual room inner wall face"
+          },
+          {
+            "id": "S2E09",
+            "actor": "Concourse camera24",
+            "before_location": [
+              -26.13,
+              9.6,
+              3.02
+            ],
+            "after_location": [
+              -26.09,
+              9.6,
+              3.02
+            ],
+            "detail": "Seat mounting rear against actual room inner wall face"
+          },
+          {
+            "id": "S2E10",
+            "asset": "SM_AP_OperatorConsole36",
+            "detail": "Replace static painted monitor text with correctly UV-mapped active display faces",
+            "before_bounds": [
+              [
+                -0.7250000238418579,
+                -0.4000000059604645,
+                0.0
+              ],
+              [
+                0.7250000238418579,
+                0.4000000059604645,
+                1.725000023841858
+              ]
+            ],
+            "after_bounds": [
+              [
+                -0.7250000238418579,
+                -0.4000000059604645,
+                0.0
+              ],
+              [
+                0.7250000238418579,
+                0.4000000059604645,
+                1.725000023841858
+              ]
+            ]
+          }
+        ],
+        "display_hook": "native_equipment_displays38.apply_native(ctx)",
+        "runtime": "equipment_displays38.install(G)",
+        "ignored": "39 intentionally hidden conveyor contact helpers are not rendered props"
+      }
+    },
+    {
+      "name": "airside contacts",
+      "result": {
+        "changed_assets": [
+          "SM_AP_P38B_A00",
+          "SM_AP_P38B_A01",
+          "SM_AP_P38B_A02",
+          "SM_AP_P38B_A03",
+          "SM_AP_P38B_B00",
+          "SM_AP_P38B_B01",
+          "SM_AP_P38B_B02",
+          "SM_AP_P38B_B03",
+          "SM_AP_P38B_B04",
+          "SM_AP_P38B_docking_cab",
+          "SM_AP_P38B_GearContact39"
+        ],
+        "sleeves": [
+          {
+            "asset": "SM_AP_P38B_A00",
+            "deck_width": 3.18,
+            "carpet_width": 2.99,
+            "wall_inner_half_width": 1.5025,
+            "old_open_floor_to_wall_gap_m": 0.0325,
+            "new_deck_under_wall_overlap_m": 0.0875,
+            "carpet_under_kick_seal_overlap_m": 0.0195,
+            "bearing_reseated": true
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "deck_width": 3.105,
+            "carpet_width": 2.915,
+            "wall_inner_half_width": 1.4649999999999999,
+            "old_open_floor_to_wall_gap_m": 0.0325,
+            "new_deck_under_wall_overlap_m": 0.0875,
+            "carpet_under_kick_seal_overlap_m": 0.0195,
+            "bearing_reseated": false
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "deck_width": 3.0300000000000002,
+            "carpet_width": 2.8400000000000003,
+            "wall_inner_half_width": 1.4275,
+            "old_open_floor_to_wall_gap_m": 0.0325,
+            "new_deck_under_wall_overlap_m": 0.0875,
+            "carpet_under_kick_seal_overlap_m": 0.0195,
+            "bearing_reseated": false
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "deck_width": 2.955,
+            "carpet_width": 2.765,
+            "wall_inner_half_width": 1.39,
+            "old_open_floor_to_wall_gap_m": 0.0325,
+            "new_deck_under_wall_overlap_m": 0.0875,
+            "carpet_under_kick_seal_overlap_m": 0.0195,
+            "bearing_reseated": false
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "deck_width": 3.08,
+            "carpet_width": 2.89,
+            "wall_inner_half_width": 1.4525,
+            "old_open_floor_to_wall_gap_m": 0.0325,
+            "new_deck_under_wall_overlap_m": 0.0875,
+            "carpet_under_kick_seal_overlap_m": 0.0195,
+            "bearing_reseated": true
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "deck_width": 3.005,
+            "carpet_width": 2.815,
+            "wall_inner_half_width": 1.4149999999999998,
+            "old_open_floor_to_wall_gap_m": 0.0325,
+            "new_deck_under_wall_overlap_m": 0.0875,
+            "carpet_under_kick_seal_overlap_m": 0.0195,
+            "bearing_reseated": false
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "deck_width": 2.93,
+            "carpet_width": 2.74,
+            "wall_inner_half_width": 1.3775,
+            "old_open_floor_to_wall_gap_m": 0.0325,
+            "new_deck_under_wall_overlap_m": 0.0875,
+            "carpet_under_kick_seal_overlap_m": 0.0195,
+            "bearing_reseated": false
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "deck_width": 2.855,
+            "carpet_width": 2.665,
+            "wall_inner_half_width": 1.3399999999999999,
+            "old_open_floor_to_wall_gap_m": 0.0325,
+            "new_deck_under_wall_overlap_m": 0.0875,
+            "carpet_under_kick_seal_overlap_m": 0.0195,
+            "bearing_reseated": false
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "deck_width": 2.7800000000000002,
+            "carpet_width": 2.5900000000000003,
+            "wall_inner_half_width": 1.3025,
+            "old_open_floor_to_wall_gap_m": 0.0325,
+            "new_deck_under_wall_overlap_m": 0.0875,
+            "carpet_under_kick_seal_overlap_m": 0.0195,
+            "bearing_reseated": false
+          }
+        ],
+        "characters": [
+          {
+            "actor": "CH12 Cabin passenger 0",
+            "location": [
+              14.131999969482422,
+              14.075000190734864,
+              0.03
+            ]
+          },
+          {
+            "actor": "CH12 Cabin passenger 1",
+            "location": [
+              17.868000030517578,
+              15.424999618530274,
+              0.03
+            ]
+          },
+          {
+            "actor": "CH12 Cabin passenger 2",
+            "location": [
+              14.131999969482422,
+              18.125000381469725,
+              0.03
+            ]
+          },
+          {
+            "actor": "CH12 Cabin passenger 3",
+            "location": [
+              17.868000030517578,
+              19.47500076293945,
+              0.03
+            ]
+          },
+          {
+            "actor": "CH12 Cabin passenger 4",
+            "location": [
+              14.131999969482422,
+              22.174999618530272,
+              0.03
+            ]
+          },
+          {
+            "actor": "CH12 Cabin passenger 5",
+            "location": [
+              17.868000030517578,
+              23.525,
+              0.03
+            ]
+          },
+          {
+            "actor": "CH12 Business passenger",
+            "location": [
+              14.48,
+              7.65,
+              0.12
+            ]
+          }
+        ],
+        "bevel_contact_clamps": [
+          {
+            "asset": "SM_AP_P38B_A00",
+            "part": "Fitted non-slip floor",
+            "old": 0.00800000037997961,
+            "new": 0.002400000020861626
+          },
+          {
+            "asset": "SM_AP_P38B_A00",
+            "part": "Lower formed side panel",
+            "old": 0.02500000037252903,
+            "new": 0.014999985694885254
+          },
+          {
+            "asset": "SM_AP_P38B_A00",
+            "part": "Continuous kick rail",
+            "old": 0.00800000037997961,
+            "new": 0.004999995231628418
+          },
+          {
+            "asset": "SM_AP_P38B_A00",
+            "part": "Window lintel",
+            "old": 0.02500000037252903,
+            "new": 0.020000004768371583
+          },
+          {
+            "asset": "SM_AP_P38B_A00",
+            "part": "Clear laminated side glazing",
+            "old": 0.006000000052154064,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_A00",
+            "part": "Airline teal sill",
+            "old": 0.00800000037997961,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_A00",
+            "part": "Fine warm identity band",
+            "old": 0.004999999888241291,
+            "new": 0.002400016784667969
+          },
+          {
+            "asset": "SM_AP_P38B_A00",
+            "part": "Lower formed side panel.001",
+            "old": 0.02500000037252903,
+            "new": 0.014999985694885254
+          },
+          {
+            "asset": "SM_AP_P38B_A00",
+            "part": "Continuous kick rail.001",
+            "old": 0.00800000037997961,
+            "new": 0.004999995231628418
+          },
+          {
+            "asset": "SM_AP_P38B_A00",
+            "part": "Window lintel.001",
+            "old": 0.02500000037252903,
+            "new": 0.020000004768371583
+          },
+          {
+            "asset": "SM_AP_P38B_A00",
+            "part": "Clear laminated side glazing.001",
+            "old": 0.006000000052154064,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_A00",
+            "part": "Airline teal sill.001",
+            "old": 0.00800000037997961,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_A00",
+            "part": "Fine warm identity band.001",
+            "old": 0.004999999888241291,
+            "new": 0.002400016784667969
+          },
+          {
+            "asset": "SM_AP_P38B_A00",
+            "part": "Weather roof cassette",
+            "old": 0.03999999910593033,
+            "new": 0.028000020980834962
+          },
+          {
+            "asset": "SM_AP_P38B_A00",
+            "part": "Warm acoustic ceiling",
+            "old": 0.017999999225139618,
+            "new": 0.009000015258789063
+          },
+          {
+            "asset": "SM_AP_P38B_A00",
+            "part": "Recessed diffuser surround",
+            "old": 0.00800000037997961,
+            "new": 0.006400012969970704
+          },
+          {
+            "asset": "SM_AP_P38B_A00",
+            "part": "Warm diffuse linear lamp",
+            "old": 0.0044999998062849045,
+            "new": 0.003600025177001953
+          },
+          {
+            "asset": "SM_AP_P38B_A00",
+            "part": "Recessed diffuser surround.001",
+            "old": 0.00800000037997961,
+            "new": 0.006400012969970704
+          },
+          {
+            "asset": "SM_AP_P38B_A00",
+            "part": "Warm diffuse linear lamp.001",
+            "old": 0.0044999998062849045,
+            "new": 0.003600025177001953
+          },
+          {
+            "asset": "SM_AP_P38B_A00",
+            "part": "Sealed telescoping bearing",
+            "old": 0.01600000075995922,
+            "new": 0.014999985694885254
+          },
+          {
+            "asset": "SM_AP_P38B_A00",
+            "part": "Sealed telescoping bearing.001",
+            "old": 0.01600000075995922,
+            "new": 0.014999985694885254
+          },
+          {
+            "asset": "SM_AP_P38B_A00",
+            "part": "Replaceable expansion gasket",
+            "old": 0.003000000026077032,
+            "new": 0.0008000001311302186
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "part": "Fitted non-slip floor.001",
+            "old": 0.00800000037997961,
+            "new": 0.002399999834597111
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "part": "Lower formed side panel.002",
+            "old": 0.02500000037252903,
+            "new": 0.014999985694885254
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "part": "Continuous kick rail.002",
+            "old": 0.00800000037997961,
+            "new": 0.005000019073486329
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "part": "Window lintel.002",
+            "old": 0.02500000037252903,
+            "new": 0.020000004768371583
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "part": "Clear laminated side glazing.002",
+            "old": 0.006000000052154064,
+            "new": 0.0031999826431274416
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "part": "Airline teal sill.002",
+            "old": 0.00800000037997961,
+            "new": 0.0031999826431274416
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "part": "Fine warm identity band.002",
+            "old": 0.004999999888241291,
+            "new": 0.002400016784667969
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "part": "Lower formed side panel.003",
+            "old": 0.02500000037252903,
+            "new": 0.014999985694885254
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "part": "Continuous kick rail.003",
+            "old": 0.00800000037997961,
+            "new": 0.005000019073486329
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "part": "Window lintel.003",
+            "old": 0.02500000037252903,
+            "new": 0.020000004768371583
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "part": "Clear laminated side glazing.003",
+            "old": 0.006000000052154064,
+            "new": 0.0031999826431274416
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "part": "Airline teal sill.003",
+            "old": 0.00800000037997961,
+            "new": 0.0031999826431274416
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "part": "Fine warm identity band.003",
+            "old": 0.004999999888241291,
+            "new": 0.002400016784667969
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "part": "Weather roof cassette.001",
+            "old": 0.03999999910593033,
+            "new": 0.028000020980834962
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "part": "Warm acoustic ceiling.001",
+            "old": 0.017999999225139618,
+            "new": 0.009000015258789063
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "part": "Recessed diffuser surround.002",
+            "old": 0.00800000037997961,
+            "new": 0.006400012969970704
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "part": "Warm diffuse linear lamp.002",
+            "old": 0.0044999998062849045,
+            "new": 0.003599977493286133
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "part": "Recessed diffuser surround.003",
+            "old": 0.00800000037997961,
+            "new": 0.006400012969970704
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "part": "Warm diffuse linear lamp.003",
+            "old": 0.0044999998062849045,
+            "new": 0.003599977493286133
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "part": "Sealed telescoping bearing.002",
+            "old": 0.01600000075995922,
+            "new": 0.015000009536743165
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "part": "Sealed telescoping bearing.003",
+            "old": 0.01600000075995922,
+            "new": 0.015000009536743165
+          },
+          {
+            "asset": "SM_AP_P38B_A01",
+            "part": "Replaceable expansion gasket.001",
+            "old": 0.003000000026077032,
+            "new": 0.0008000001311302186
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "part": "Fitted non-slip floor.002",
+            "old": 0.00800000037997961,
+            "new": 0.002400000020861626
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "part": "Lower formed side panel.004",
+            "old": 0.02500000037252903,
+            "new": 0.015000009536743165
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "part": "Continuous kick rail.004",
+            "old": 0.00800000037997961,
+            "new": 0.004999995231628418
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "part": "Window lintel.004",
+            "old": 0.02500000037252903,
+            "new": 0.020000004768371583
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "part": "Clear laminated side glazing.004",
+            "old": 0.006000000052154064,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "part": "Airline teal sill.004",
+            "old": 0.00800000037997961,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "part": "Fine warm identity band.004",
+            "old": 0.004999999888241291,
+            "new": 0.002399992942810059
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "part": "Lower formed side panel.005",
+            "old": 0.02500000037252903,
+            "new": 0.015000009536743165
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "part": "Continuous kick rail.005",
+            "old": 0.00800000037997961,
+            "new": 0.004999995231628418
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "part": "Window lintel.005",
+            "old": 0.02500000037252903,
+            "new": 0.020000004768371583
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "part": "Clear laminated side glazing.005",
+            "old": 0.006000000052154064,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "part": "Airline teal sill.005",
+            "old": 0.00800000037997961,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "part": "Fine warm identity band.005",
+            "old": 0.004999999888241291,
+            "new": 0.002399992942810059
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "part": "Weather roof cassette.002",
+            "old": 0.03999999910593033,
+            "new": 0.027999973297119143
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "part": "Warm acoustic ceiling.002",
+            "old": 0.017999999225139618,
+            "new": 0.009000015258789063
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "part": "Recessed diffuser surround.004",
+            "old": 0.00800000037997961,
+            "new": 0.006400012969970704
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "part": "Warm diffuse linear lamp.004",
+            "old": 0.0044999998062849045,
+            "new": 0.003599977493286133
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "part": "Recessed diffuser surround.005",
+            "old": 0.00800000037997961,
+            "new": 0.006400012969970704
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "part": "Warm diffuse linear lamp.005",
+            "old": 0.0044999998062849045,
+            "new": 0.003599977493286133
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "part": "Sealed telescoping bearing.004",
+            "old": 0.01600000075995922,
+            "new": 0.015000009536743165
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "part": "Sealed telescoping bearing.005",
+            "old": 0.01600000075995922,
+            "new": 0.015000009536743165
+          },
+          {
+            "asset": "SM_AP_P38B_A02",
+            "part": "Replaceable expansion gasket.002",
+            "old": 0.003000000026077032,
+            "new": 0.0008000001311302186
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "part": "Fitted non-slip floor.003",
+            "old": 0.00800000037997961,
+            "new": 0.002400000020861626
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "part": "Lower formed side panel.006",
+            "old": 0.02500000037252903,
+            "new": 0.015000009536743165
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "part": "Continuous kick rail.006",
+            "old": 0.00800000037997961,
+            "new": 0.004999995231628418
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "part": "Window lintel.006",
+            "old": 0.02500000037252903,
+            "new": 0.019999980926513672
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "part": "Clear laminated side glazing.006",
+            "old": 0.006000000052154064,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "part": "Airline teal sill.006",
+            "old": 0.00800000037997961,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "part": "Fine warm identity band.006",
+            "old": 0.004999999888241291,
+            "new": 0.002399992942810059
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "part": "Lower formed side panel.007",
+            "old": 0.02500000037252903,
+            "new": 0.015000009536743165
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "part": "Continuous kick rail.007",
+            "old": 0.00800000037997961,
+            "new": 0.004999995231628418
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "part": "Window lintel.007",
+            "old": 0.02500000037252903,
+            "new": 0.019999980926513672
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "part": "Clear laminated side glazing.007",
+            "old": 0.006000000052154064,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "part": "Airline teal sill.007",
+            "old": 0.00800000037997961,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "part": "Fine warm identity band.007",
+            "old": 0.004999999888241291,
+            "new": 0.002399992942810059
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "part": "Weather roof cassette.003",
+            "old": 0.03999999910593033,
+            "new": 0.028000020980834962
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "part": "Warm acoustic ceiling.003",
+            "old": 0.017999999225139618,
+            "new": 0.009000015258789063
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "part": "Recessed diffuser surround.006",
+            "old": 0.00800000037997961,
+            "new": 0.006399965286254883
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "part": "Warm diffuse linear lamp.006",
+            "old": 0.0044999998062849045,
+            "new": 0.003600025177001953
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "part": "Recessed diffuser surround.007",
+            "old": 0.00800000037997961,
+            "new": 0.006399965286254883
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "part": "Warm diffuse linear lamp.007",
+            "old": 0.0044999998062849045,
+            "new": 0.003600025177001953
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "part": "Sealed telescoping bearing.006",
+            "old": 0.01600000075995922,
+            "new": 0.015000009536743165
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "part": "Sealed telescoping bearing.007",
+            "old": 0.01600000075995922,
+            "new": 0.015000009536743165
+          },
+          {
+            "asset": "SM_AP_P38B_A03",
+            "part": "Replaceable expansion gasket.003",
+            "old": 0.003000000026077032,
+            "new": 0.0008000005036592484
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "part": "Fitted non-slip floor.004",
+            "old": 0.00800000037997961,
+            "new": 0.002400000020861626
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "part": "Lower formed side panel.008",
+            "old": 0.02500000037252903,
+            "new": 0.015000009536743165
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "part": "Continuous kick rail.008",
+            "old": 0.00800000037997961,
+            "new": 0.004999995231628418
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "part": "Window lintel.008",
+            "old": 0.02500000037252903,
+            "new": 0.019999980926513672
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "part": "Clear laminated side glazing.008",
+            "old": 0.006000000052154064,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "part": "Airline teal sill.008",
+            "old": 0.00800000037997961,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "part": "Fine warm identity band.008",
+            "old": 0.004999999888241291,
+            "new": 0.002399992942810059
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "part": "Lower formed side panel.009",
+            "old": 0.02500000037252903,
+            "new": 0.015000009536743165
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "part": "Continuous kick rail.009",
+            "old": 0.00800000037997961,
+            "new": 0.004999995231628418
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "part": "Window lintel.009",
+            "old": 0.02500000037252903,
+            "new": 0.019999980926513672
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "part": "Clear laminated side glazing.009",
+            "old": 0.006000000052154064,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "part": "Airline teal sill.009",
+            "old": 0.00800000037997961,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "part": "Fine warm identity band.009",
+            "old": 0.004999999888241291,
+            "new": 0.002399992942810059
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "part": "Weather roof cassette.004",
+            "old": 0.03999999910593033,
+            "new": 0.028000020980834962
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "part": "Warm acoustic ceiling.004",
+            "old": 0.017999999225139618,
+            "new": 0.009000015258789063
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "part": "Recessed diffuser surround.008",
+            "old": 0.00800000037997961,
+            "new": 0.006400012969970704
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "part": "Warm diffuse linear lamp.008",
+            "old": 0.0044999998062849045,
+            "new": 0.003600025177001953
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "part": "Recessed diffuser surround.009",
+            "old": 0.00800000037997961,
+            "new": 0.006400012969970704
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "part": "Warm diffuse linear lamp.009",
+            "old": 0.0044999998062849045,
+            "new": 0.003600025177001953
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "part": "Sealed telescoping bearing.008",
+            "old": 0.01600000075995922,
+            "new": 0.015000009536743165
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "part": "Sealed telescoping bearing.009",
+            "old": 0.01600000075995922,
+            "new": 0.015000009536743165
+          },
+          {
+            "asset": "SM_AP_P38B_B00",
+            "part": "Replaceable expansion gasket.004",
+            "old": 0.003000000026077032,
+            "new": 0.0008000001311302186
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "part": "Fitted non-slip floor.005",
+            "old": 0.00800000037997961,
+            "new": 0.002399999834597111
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "part": "Lower formed side panel.010",
+            "old": 0.02500000037252903,
+            "new": 0.015000009536743165
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "part": "Continuous kick rail.010",
+            "old": 0.00800000037997961,
+            "new": 0.004999995231628418
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "part": "Window lintel.010",
+            "old": 0.02500000037252903,
+            "new": 0.020000004768371583
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "part": "Clear laminated side glazing.010",
+            "old": 0.006000000052154064,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "part": "Airline teal sill.010",
+            "old": 0.00800000037997961,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "part": "Fine warm identity band.010",
+            "old": 0.004999999888241291,
+            "new": 0.002399992942810059
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "part": "Lower formed side panel.011",
+            "old": 0.02500000037252903,
+            "new": 0.015000009536743165
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "part": "Continuous kick rail.011",
+            "old": 0.00800000037997961,
+            "new": 0.004999995231628418
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "part": "Window lintel.011",
+            "old": 0.02500000037252903,
+            "new": 0.020000004768371583
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "part": "Clear laminated side glazing.011",
+            "old": 0.006000000052154064,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "part": "Airline teal sill.011",
+            "old": 0.00800000037997961,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "part": "Fine warm identity band.011",
+            "old": 0.004999999888241291,
+            "new": 0.002399992942810059
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "part": "Weather roof cassette.005",
+            "old": 0.03999999910593033,
+            "new": 0.028000020980834962
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "part": "Warm acoustic ceiling.005",
+            "old": 0.017999999225139618,
+            "new": 0.009000015258789063
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "part": "Recessed diffuser surround.010",
+            "old": 0.00800000037997961,
+            "new": 0.006400012969970704
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "part": "Warm diffuse linear lamp.010",
+            "old": 0.0044999998062849045,
+            "new": 0.003599977493286133
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "part": "Recessed diffuser surround.011",
+            "old": 0.00800000037997961,
+            "new": 0.006400012969970704
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "part": "Warm diffuse linear lamp.011",
+            "old": 0.0044999998062849045,
+            "new": 0.003599977493286133
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "part": "Sealed telescoping bearing.010",
+            "old": 0.01600000075995922,
+            "new": 0.014999985694885254
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "part": "Sealed telescoping bearing.011",
+            "old": 0.01600000075995922,
+            "new": 0.014999985694885254
+          },
+          {
+            "asset": "SM_AP_P38B_B01",
+            "part": "Replaceable expansion gasket.005",
+            "old": 0.003000000026077032,
+            "new": 0.0008000001311302186
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "part": "Fitted non-slip floor.006",
+            "old": 0.00800000037997961,
+            "new": 0.002400000020861626
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "part": "Lower formed side panel.012",
+            "old": 0.02500000037252903,
+            "new": 0.014999985694885254
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "part": "Continuous kick rail.012",
+            "old": 0.00800000037997961,
+            "new": 0.004999995231628418
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "part": "Window lintel.012",
+            "old": 0.02500000037252903,
+            "new": 0.020000004768371583
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "part": "Clear laminated side glazing.012",
+            "old": 0.006000000052154064,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "part": "Airline teal sill.012",
+            "old": 0.00800000037997961,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "part": "Fine warm identity band.012",
+            "old": 0.004999999888241291,
+            "new": 0.002400016784667969
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "part": "Lower formed side panel.013",
+            "old": 0.02500000037252903,
+            "new": 0.014999985694885254
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "part": "Continuous kick rail.013",
+            "old": 0.00800000037997961,
+            "new": 0.004999995231628418
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "part": "Window lintel.013",
+            "old": 0.02500000037252903,
+            "new": 0.020000004768371583
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "part": "Clear laminated side glazing.013",
+            "old": 0.006000000052154064,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "part": "Airline teal sill.013",
+            "old": 0.00800000037997961,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "part": "Fine warm identity band.013",
+            "old": 0.004999999888241291,
+            "new": 0.002400016784667969
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "part": "Weather roof cassette.006",
+            "old": 0.03999999910593033,
+            "new": 0.027999973297119143
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "part": "Warm acoustic ceiling.006",
+            "old": 0.017999999225139618,
+            "new": 0.009000015258789063
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "part": "Recessed diffuser surround.012",
+            "old": 0.00800000037997961,
+            "new": 0.006400012969970704
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "part": "Warm diffuse linear lamp.012",
+            "old": 0.0044999998062849045,
+            "new": 0.003599977493286133
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "part": "Recessed diffuser surround.013",
+            "old": 0.00800000037997961,
+            "new": 0.006400012969970704
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "part": "Warm diffuse linear lamp.013",
+            "old": 0.0044999998062849045,
+            "new": 0.003599977493286133
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "part": "Sealed telescoping bearing.012",
+            "old": 0.01600000075995922,
+            "new": 0.014999985694885254
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "part": "Sealed telescoping bearing.013",
+            "old": 0.01600000075995922,
+            "new": 0.014999985694885254
+          },
+          {
+            "asset": "SM_AP_P38B_B02",
+            "part": "Replaceable expansion gasket.006",
+            "old": 0.003000000026077032,
+            "new": 0.0008000001311302186
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "part": "Fitted non-slip floor.007",
+            "old": 0.00800000037997961,
+            "new": 0.002400000020861626
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "part": "Lower formed side panel.014",
+            "old": 0.02500000037252903,
+            "new": 0.014999985694885254
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "part": "Continuous kick rail.014",
+            "old": 0.00800000037997961,
+            "new": 0.005000019073486329
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "part": "Window lintel.014",
+            "old": 0.02500000037252903,
+            "new": 0.020000004768371583
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "part": "Clear laminated side glazing.014",
+            "old": 0.006000000052154064,
+            "new": 0.0031999826431274416
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "part": "Airline teal sill.014",
+            "old": 0.00800000037997961,
+            "new": 0.0031999826431274416
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "part": "Fine warm identity band.014",
+            "old": 0.004999999888241291,
+            "new": 0.002400016784667969
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "part": "Lower formed side panel.015",
+            "old": 0.02500000037252903,
+            "new": 0.014999985694885254
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "part": "Continuous kick rail.015",
+            "old": 0.00800000037997961,
+            "new": 0.005000019073486329
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "part": "Window lintel.015",
+            "old": 0.02500000037252903,
+            "new": 0.020000004768371583
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "part": "Clear laminated side glazing.015",
+            "old": 0.006000000052154064,
+            "new": 0.0031999826431274416
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "part": "Airline teal sill.015",
+            "old": 0.00800000037997961,
+            "new": 0.0031999826431274416
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "part": "Fine warm identity band.015",
+            "old": 0.004999999888241291,
+            "new": 0.002400016784667969
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "part": "Weather roof cassette.007",
+            "old": 0.03999999910593033,
+            "new": 0.028000020980834962
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "part": "Warm acoustic ceiling.007",
+            "old": 0.017999999225139618,
+            "new": 0.009000015258789063
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "part": "Recessed diffuser surround.014",
+            "old": 0.00800000037997961,
+            "new": 0.006399965286254883
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "part": "Warm diffuse linear lamp.014",
+            "old": 0.0044999998062849045,
+            "new": 0.003600025177001953
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "part": "Recessed diffuser surround.015",
+            "old": 0.00800000037997961,
+            "new": 0.006399965286254883
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "part": "Warm diffuse linear lamp.015",
+            "old": 0.0044999998062849045,
+            "new": 0.003600025177001953
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "part": "Sealed telescoping bearing.014",
+            "old": 0.01600000075995922,
+            "new": 0.015000009536743165
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "part": "Sealed telescoping bearing.015",
+            "old": 0.01600000075995922,
+            "new": 0.015000009536743165
+          },
+          {
+            "asset": "SM_AP_P38B_B03",
+            "part": "Replaceable expansion gasket.007",
+            "old": 0.003000000026077032,
+            "new": 0.0008000005036592484
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "part": "Fitted non-slip floor.008",
+            "old": 0.00800000037997961,
+            "new": 0.002399999648332596
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "part": "Lower formed side panel.016",
+            "old": 0.02500000037252903,
+            "new": 0.015000009536743165
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "part": "Continuous kick rail.016",
+            "old": 0.00800000037997961,
+            "new": 0.004999995231628418
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "part": "Window lintel.016",
+            "old": 0.02500000037252903,
+            "new": 0.020000004768371583
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "part": "Clear laminated side glazing.016",
+            "old": 0.006000000052154064,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "part": "Airline teal sill.016",
+            "old": 0.00800000037997961,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "part": "Fine warm identity band.016",
+            "old": 0.004999999888241291,
+            "new": 0.002399992942810059
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "part": "Lower formed side panel.017",
+            "old": 0.02500000037252903,
+            "new": 0.015000009536743165
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "part": "Continuous kick rail.017",
+            "old": 0.00800000037997961,
+            "new": 0.004999995231628418
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "part": "Window lintel.017",
+            "old": 0.02500000037252903,
+            "new": 0.020000004768371583
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "part": "Clear laminated side glazing.017",
+            "old": 0.006000000052154064,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "part": "Airline teal sill.017",
+            "old": 0.00800000037997961,
+            "new": 0.003200006484985352
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "part": "Fine warm identity band.017",
+            "old": 0.004999999888241291,
+            "new": 0.002399992942810059
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "part": "Weather roof cassette.008",
+            "old": 0.03999999910593033,
+            "new": 0.027999973297119143
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "part": "Warm acoustic ceiling.008",
+            "old": 0.017999999225139618,
+            "new": 0.008999967575073242
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "part": "Recessed diffuser surround.016",
+            "old": 0.00800000037997961,
+            "new": 0.006400012969970704
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "part": "Warm diffuse linear lamp.016",
+            "old": 0.0044999998062849045,
+            "new": 0.003599977493286133
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "part": "Recessed diffuser surround.017",
+            "old": 0.00800000037997961,
+            "new": 0.006400012969970704
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "part": "Warm diffuse linear lamp.017",
+            "old": 0.0044999998062849045,
+            "new": 0.003599977493286133
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "part": "Sealed telescoping bearing.016",
+            "old": 0.01600000075995922,
+            "new": 0.015000009536743165
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "part": "Sealed telescoping bearing.017",
+            "old": 0.01600000075995922,
+            "new": 0.015000009536743165
+          },
+          {
+            "asset": "SM_AP_P38B_B04",
+            "part": "Replaceable expansion gasket.008",
+            "old": 0.003000000026077032,
+            "new": 0.0008000001311302186
+          },
+          {
+            "asset": "SM_AP_P38B_docking_cab",
+            "part": "Dock non-slip floor",
+            "old": 0.00800000037997961,
+            "new": 0.002800000086426735
+          },
+          {
+            "asset": "SM_AP_P38B_docking_cab",
+            "part": "Cab lower return",
+            "old": 0.03500000014901161,
+            "new": 0.020000004768371583
+          },
+          {
+            "asset": "SM_AP_P38B_docking_cab",
+            "part": "Cab clear side",
+            "old": 0.00800000037997961,
+            "new": 0.005599999427795411
+          },
+          {
+            "asset": "SM_AP_P38B_docking_cab",
+            "part": "Cab roof side rail",
+            "old": 0.02500000037252903,
+            "new": 0.024000000953674317
+          },
+          {
+            "asset": "SM_AP_P38B_docking_cab",
+            "part": "Cab corner post",
+            "old": 0.02500000037252903,
+            "new": 0.024000000953674317
+          },
+          {
+            "asset": "SM_AP_P38B_docking_cab",
+            "part": "Cab lower return.001",
+            "old": 0.03500000014901161,
+            "new": 0.020000004768371583
+          },
+          {
+            "asset": "SM_AP_P38B_docking_cab",
+            "part": "Cab clear side.001",
+            "old": 0.00800000037997961,
+            "new": 0.005599999427795411
+          },
+          {
+            "asset": "SM_AP_P38B_docking_cab",
+            "part": "Cab roof side rail.001",
+            "old": 0.02500000037252903,
+            "new": 0.024000000953674317
+          },
+          {
+            "asset": "SM_AP_P38B_docking_cab",
+            "part": "Cab corner post.001",
+            "old": 0.02500000037252903,
+            "new": 0.024000000953674317
+          },
+          {
+            "asset": "SM_AP_P38B_docking_cab",
+            "part": "Weather sealed cab roof",
+            "old": 0.03999999910593033,
+            "new": 0.031999969482421876
+          },
+          {
+            "asset": "SM_AP_P38B_docking_cab",
+            "part": "Threshold footplate",
+            "old": 0.004999999888241291,
+            "new": 0.0036000000312924386
+          },
+          {
+            "asset": "SM_AP_P38B_docking_cab",
+            "part": "Cab warm diffuser",
+            "old": 0.0062500000931322575,
+            "new": 0.004999971389770508
+          },
+          {
+            "asset": "SM_AP_P38B_docking_cab",
+            "part": "39 canopy side aperture return",
+            "old": 0.017999999225139618,
+            "new": 0.017999982833862307
+          },
+          {
+            "asset": "SM_AP_P38B_docking_cab",
+            "part": "39 canopy side aperture return.001",
+            "old": 0.017999999225139618,
+            "new": 0.017999982833862307
+          },
+          {
+            "asset": "SM_AP_P38B_docking_cab",
+            "part": "39 canopy lintel aperture return",
+            "old": 0.019999999552965164,
+            "new": 0.017999982833862307
+          }
+        ],
+        "canopy": {
+          "asset": "SM_AP_P38B_docking_cab",
+          "removed": [
+            "Supported flexible accordion rib",
+            "Supported flexible accordion rib.001",
+            "Supported flexible accordion rib.002",
+            "Supported flexible accordion rib.003",
+            "Supported flexible accordion rib.004",
+            "Supported flexible accordion rib.005",
+            "Supported flexible accordion rib.006",
+            "Bellows flexible side membrane",
+            "Bellows flexible side membrane.001",
+            "Bellows flexible upper membrane"
+          ],
+          "actual_skin_samples": [
+            {
+              "y": -0.5149999999999999,
+              "z": 0.04,
+              "skin_x": 13.505769968032837,
+              "new_contact_x": 13.517769968032837,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": -0.5149999999999999,
+              "z": 2.16,
+              "skin_x": 13.701242208480835,
+              "new_contact_x": 13.713242208480835,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": -0.509226946144639,
+              "z": 2.2259863075134336,
+              "skin_x": 13.736249685287476,
+              "new_contact_x": 13.748249685287476,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": -0.49208319589864513,
+              "z": 2.289967654463754,
+              "skin_x": 13.775306224822998,
+              "new_contact_x": 13.787306224822999,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": -0.4640896534380867,
+              "z": 2.35,
+              "skin_x": 13.817306995391846,
+              "new_contact_x": 13.829306995391846,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": -0.42609688838521165,
+              "z": 2.4042592916808854,
+              "skin_x": 13.860512733459473,
+              "new_contact_x": 13.872512733459473,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": -0.379259291680885,
+              "z": 2.451096888385212,
+              "skin_x": 13.902451515197754,
+              "new_contact_x": 13.914451515197754,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": -0.32499999999999996,
+              "z": 2.4890896534380866,
+              "skin_x": 13.940003156661987,
+              "new_contact_x": 13.952003156661988,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": -0.26496765446375414,
+              "z": 2.5170831958986453,
+              "skin_x": 13.971294164657593,
+              "new_contact_x": 13.983294164657593,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": -0.2009863075134335,
+              "z": 2.5342269461446394,
+              "skin_x": 13.99030065536499,
+              "new_contact_x": 14.00230065536499,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": -0.135,
+              "z": 2.54,
+              "skin_x": 13.997503757476807,
+              "new_contact_x": 14.009503757476807,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": 1.485,
+              "z": 2.54,
+              "skin_x": 13.99916386604309,
+              "new_contact_x": 14.011163866043091,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": 1.5509863075134338,
+              "z": 2.5342269461446394,
+              "skin_x": 13.991370916366577,
+              "new_contact_x": 14.003370916366578,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": 1.6149676544637543,
+              "z": 2.5170831958986453,
+              "skin_x": 13.969684600830078,
+              "new_contact_x": 13.981684600830079,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": 1.675,
+              "z": 2.4890896534380866,
+              "skin_x": 13.940259218215942,
+              "new_contact_x": 13.952259218215943,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": 1.729259291680885,
+              "z": 2.451096888385212,
+              "skin_x": 13.900321960449219,
+              "new_contact_x": 13.91232196044922,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": 1.7760968883852117,
+              "z": 2.404259291680885,
+              "skin_x": 13.858664751052856,
+              "new_contact_x": 13.870664751052857,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": 1.8140896534380868,
+              "z": 2.35,
+              "skin_x": 13.81479287147522,
+              "new_contact_x": 13.82679287147522,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": 1.8420831958986452,
+              "z": 2.289967654463754,
+              "skin_x": 13.760688304901123,
+              "new_contact_x": 13.772688304901124,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": 1.8592269461446391,
+              "z": 2.2259863075134336,
+              "skin_x": 13.681108951568604,
+              "new_contact_x": 13.693108951568604,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": 1.865,
+              "z": 2.16,
+              "skin_x": 13.64315390586853,
+              "new_contact_x": 13.65515390586853,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": 1.865,
+              "z": 0.04,
+              "skin_x": 13.503040075302124,
+              "new_contact_x": 13.515040075302124,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": 1.7550000000000001,
+              "z": 0.04,
+              "skin_x": 13.503039836883545,
+              "new_contact_x": 13.515039836883545,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": 1.7550000000000001,
+              "z": 2.16,
+              "skin_x": 13.64315390586853,
+              "new_contact_x": 13.65515390586853,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": 1.7508980933132963,
+              "z": 2.2068850079700715,
+              "skin_x": 13.664620399475098,
+              "new_contact_x": 13.676620399475098,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": 1.7387170076121954,
+              "z": 2.252345438697931,
+              "skin_x": 13.706929922103882,
+              "new_contact_x": 13.718929922103882,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": 1.7188268590217985,
+              "z": 2.295,
+              "skin_x": 13.77529239654541,
+              "new_contact_x": 13.78729239654541,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": 1.691831999642124,
+              "z": 2.3335526546153655,
+              "skin_x": 13.80259919166565,
+              "new_contact_x": 13.81459919166565,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": 1.6585526546153657,
+              "z": 2.366831999642124,
+              "skin_x": 13.827271938323975,
+              "new_contact_x": 13.839271938323975,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": 1.62,
+              "z": 2.3938268590217984,
+              "skin_x": 13.849509954452515,
+              "new_contact_x": 13.861509954452515,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": 1.5773454386979306,
+              "z": 2.4137170076121954,
+              "skin_x": 13.86746597290039,
+              "new_contact_x": 13.879465972900391,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": 1.5318850079700712,
+              "z": 2.4258980933132963,
+              "skin_x": 13.88136887550354,
+              "new_contact_x": 13.89336887550354,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": 1.485,
+              "z": 2.43,
+              "skin_x": 13.883480548858643,
+              "new_contact_x": 13.895480548858643,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": -0.135,
+              "z": 2.43,
+              "skin_x": 13.880995988845825,
+              "new_contact_x": 13.892995988845826,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": -0.18188500797007123,
+              "z": 2.4258980933132963,
+              "skin_x": 13.877497434616089,
+              "new_contact_x": 13.88949743461609,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": -0.22734543869793056,
+              "z": 2.4137170076121954,
+              "skin_x": 13.867103099822998,
+              "new_contact_x": 13.879103099822999,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": -0.27,
+              "z": 2.393826859021799,
+              "skin_x": 13.849912881851196,
+              "new_contact_x": 13.861912881851197,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": -0.30855265461536563,
+              "z": 2.366831999642124,
+              "skin_x": 13.828721284866333,
+              "new_contact_x": 13.840721284866333,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": -0.34183199964212396,
+              "z": 2.333552654615366,
+              "skin_x": 13.803208351135254,
+              "new_contact_x": 13.815208351135254,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": -0.36882685902179846,
+              "z": 2.295,
+              "skin_x": 13.77722716331482,
+              "new_contact_x": 13.78922716331482,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": -0.3887170076121953,
+              "z": 2.252345438697931,
+              "skin_x": 13.750457525253296,
+              "new_contact_x": 13.762457525253296,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": -0.4008980933132962,
+              "z": 2.2068850079700715,
+              "skin_x": 13.72412395477295,
+              "new_contact_x": 13.73612395477295,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": -0.405,
+              "z": 2.16,
+              "skin_x": 13.699944972991943,
+              "new_contact_x": 13.711944972991944,
+              "old_membrane_front_x": 13.891
+            },
+            {
+              "y": -0.405,
+              "z": 0.04,
+              "skin_x": 13.504884481430054,
+              "new_contact_x": 13.516884481430054,
+              "old_membrane_front_x": 13.891
+            }
+          ],
+          "start_world_x": 13.2,
+          "terminal_contact_overlap_m": 0.012,
+          "previous_top_membrane_gap_m": 0.1081638660430908,
+          "new_max_contact_gap_m": 0,
+          "door_clear_aperture_width_m": 2.16
+        },
+        "ground_power_base": {
+          "actor": "GroundPower12_1954",
+          "actor_z": -3.74,
+          "wheel_local_min_z": 0.04,
+          "pad_top_z": -3.7,
+          "gap_m": 0
+        },
+        "gear": {
+          "asset": "SM_AP_P38B_GearContact39",
+          "wheels": [
+            {
+              "part": "Revolved aircraft tire with recessed circumferential grooves15",
+              "old_bottom": -3.689000368118286,
+              "new_bottom": -3.689000368118286,
+              "diameter": 1.1200001239776611,
+              "contact_source": [
+                11.179999828338623,
+                16.899999618530273,
+                -3.689000368118286
+              ]
+            },
+            {
+              "part": "Revolved aircraft tire with recessed circumferential grooves15.001",
+              "old_bottom": -3.689000368118286,
+              "new_bottom": -3.689000368118286,
+              "diameter": 1.1200001239776611,
+              "contact_source": [
+                11.920000076293945,
+                16.899999618530273,
+                -3.689000368118286
+              ]
+            },
+            {
+              "part": "Revolved aircraft tire with recessed circumferential grooves15.002",
+              "old_bottom": -3.689000368118286,
+              "new_bottom": -3.689000368118286,
+              "diameter": 1.1200001239776611,
+              "contact_source": [
+                11.179999828338623,
+                18.299999237060547,
+                -3.689000368118286
+              ]
+            },
+            {
+              "part": "Revolved aircraft tire with recessed circumferential grooves15.003",
+              "old_bottom": -3.689000368118286,
+              "new_bottom": -3.689000368118286,
+              "diameter": 1.1200001239776611,
+              "contact_source": [
+                11.920000076293945,
+                18.299999237060547,
+                -3.689000368118286
+              ]
+            },
+            {
+              "part": "Revolved aircraft tire with recessed circumferential grooves15.004",
+              "old_bottom": -3.689000368118286,
+              "new_bottom": -3.689000368118286,
+              "diameter": 1.1200001239776611,
+              "contact_source": [
+                20.079999923706055,
+                16.899999618530273,
+                -3.689000368118286
+              ]
+            },
+            {
+              "part": "Revolved aircraft tire with recessed circumferential grooves15.005",
+              "old_bottom": -3.689000368118286,
+              "new_bottom": -3.689000368118286,
+              "diameter": 1.1200001239776611,
+              "contact_source": [
+                20.820000171661377,
+                16.899999618530273,
+                -3.689000368118286
+              ]
+            },
+            {
+              "part": "Revolved aircraft tire with recessed circumferential grooves15.006",
+              "old_bottom": -3.689000368118286,
+              "new_bottom": -3.689000368118286,
+              "diameter": 1.1200001239776611,
+              "contact_source": [
+                20.079999923706055,
+                18.299999237060547,
+                -3.689000368118286
+              ]
+            },
+            {
+              "part": "Revolved aircraft tire with recessed circumferential grooves15.007",
+              "old_bottom": -3.689000368118286,
+              "new_bottom": -3.689000368118286,
+              "diameter": 1.1200001239776611,
+              "contact_source": [
+                20.820000171661377,
+                18.299999237060547,
+                -3.689000368118286
+              ]
+            },
+            {
+              "part": "Revolved aircraft tire with recessed circumferential grooves15.008",
+              "old_bottom": -3.688999891281128,
+              "new_bottom": -3.688999891281128,
+              "diameter": 0.8399999141693115,
+              "contact_source": [
+                15.729999989271164,
+                -6.119999885559082,
+                -3.688999891281128
+              ]
+            },
+            {
+              "part": "Revolved aircraft tire with recessed circumferential grooves15.009",
+              "old_bottom": -3.688999891281128,
+              "new_bottom": -3.688999891281128,
+              "diameter": 0.8399999141693115,
+              "contact_source": [
+                16.270000010728836,
+                -6.119999885559082,
+                -3.688999891281128
+              ]
+            }
+          ],
+          "top_mounts_retained": true,
+          "oleo_compression_m": 0.511,
+          "tyre_diameters_preserved": true,
+          "contact_surface": "Poured apron panel34 top -3.689"
+        },
+        "stowed_sweep": {
+          "clear": true,
+          "method": "conservative complete-aircraft AABB swept continuously along source -Y",
+          "distance_m": 180.0,
+          "margin_m": 0.25,
+          "swept_bounds": [
+            [
+              -6.668164,
+              -188.76,
+              -3.689
+            ],
+            [
+              38.668164,
+              43.38,
+              7.8
+            ]
+          ],
+          "blocking": []
+        },
+        "max_stowed_x": -9.888078445257374
+      }
+    }
+  ],
+  "changed_assets": [
+    "SM_AP_Attachments38",
+    "SM_AP_Bakery36",
+    "SM_AP_Bench27",
+    "SM_AP_Bench29",
+    "SM_AP_Bench34",
+    "SM_AP_CafeChair34",
+    "SM_AP_CafeTable34",
+    "SM_AP_Information27",
+    "SM_AP_OperatorConsole36",
+    "SM_AP_OvalTable36",
+    "SM_AP_P38B_A00",
+    "SM_AP_P38B_A01",
+    "SM_AP_P38B_A02",
+    "SM_AP_P38B_A03",
+    "SM_AP_P38B_B00",
+    "SM_AP_P38B_B01",
+    "SM_AP_P38B_B02",
+    "SM_AP_P38B_B03",
+    "SM_AP_P38B_B04",
+    "SM_AP_P38B_GearContact39",
+    "SM_AP_P38B_docking_cab",
+    "SM_AP_POS36",
+    "SM_AP_RetainedCraft38",
+    "SM_AP_Scanner38",
+    "SM_AP_Sofa36",
+    "SM_AP_TableSetting36",
+    "SM_AP_Tea36",
+    "SM_AP_Toilet34",
+    "SM_AP_TravelStorage38",
+    "SM_AP_Trolley",
+    "SM_AP_Vanity34",
+    "SM_AP_Wayfinding38"
+  ],
+  "families": 62,
+  "source_sha256": "46af12b73406a96008f54326a95db74eb7d89581558bf5fb926b9f00fcb8c949",
+  "moved_actors": [
+    "GroundPower12_1954",
+    "Compact departures display",
+    "HandDryer24_1809",
+    "Security camera24",
+    "Concourse camera24",
+    "Cafe tabletop setting36 0",
+    "Cafe tabletop setting36 1",
+    "Cafe tabletop setting36 2",
+    "Cafe tabletop setting36 3",
+    "Bridge38 elbow chamber",
+    "Bridge38 docking cab",
+    "Bridge38 B truck",
+    "Bridge38 B lift",
+    "Airport38 verified architectural attachments"
+  ]
+}

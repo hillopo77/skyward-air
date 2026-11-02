@@ -1,0 +1,508 @@
+{
+ "status": "SUCCESS",
+ "jobs": [
+  {
+   "label": "Airport62 gate lounges",
+   "asset": "SM_AP_P62Lounges",
+   "slots": [
+    [
+     0,
+     "MI_AP_P43TOak",
+     "/Game/Airport38/Finish43/MI_AP_P43TOak.MI_AP_P43TOak"
+    ],
+    [
+     1,
+     "MI_AP_P27Walnut",
+     "/Game/Airport27/P2/Materials/MI_AP_P27Walnut.MI_AP_P27Walnut"
+    ],
+    [
+     2,
+     "MI_AP_P27Steel",
+     "/Game/Airport27/P2/Materials/MI_AP_P27Steel.MI_AP_P27Steel"
+    ],
+    [
+     3,
+     "MI_AP_P36Black",
+     "/Game/Airport36/Materials/MI_AP_P36Black.MI_AP_P36Black"
+    ],
+    [
+     4,
+     "MI_AP_P38AGold",
+     "/Game/Airport38/Materials/MI_AP_P38AGold.MI_AP_P38AGold"
+    ],
+    [
+     5,
+     "MI_AP_P51SignGlow",
+     "/Game/Airport38/Pass48/Materials/MI_AP_P51SignGlow.MI_AP_P51SignGlow"
+    ],
+    [
+     6,
+     "MI_AP_P51Soffit",
+     "/Game/Airport38/Pass48/Materials/MI_AP_P51Soffit.MI_AP_P51Soffit"
+    ],
+    [
+     7,
+     "MI_AP_P36Terracotta",
+     "/Game/Airport36/Materials/MI_AP_P36Terracotta.MI_AP_P36Terracotta"
+    ],
+    [
+     8,
+     "MI_AP_Leaf",
+     "/Game/Airport10/Materials/Instances/MI_AP_Leaf.MI_AP_Leaf"
+    ],
+    [
+     9,
+     "MI_AP_LightLeaf",
+     "/Game/Airport10/Materials/Instances/MI_AP_LightLeaf.MI_AP_LightLeaf"
+    ],
+    [
+     10,
+     "MI_AP_P38ANavy",
+     "/Game/Airport38/Materials/MI_AP_P38ANavy.MI_AP_P38ANavy"
+    ],
+    [
+     11,
+     "MI_AP_P38ASage",
+     "/Game/Airport38/Materials/MI_AP_P38ASage.MI_AP_P38ASage"
+    ],
+    [
+     12,
+     "MI_AP_Leaf",
+     "/Game/Airport10/Materials/Instances/MI_AP_Leaf.MI_AP_Leaf"
+    ],
+    [
+     13,
+     "MI_AP_LightLeaf",
+     "/Game/Airport10/Materials/Instances/MI_AP_LightLeaf.MI_AP_LightLeaf"
+    ],
+    [
+     14,
+     "MI_AP_P36Sand",
+     "/Game/Airport36/Materials/MI_AP_P36Sand.MI_AP_P36Sand"
+    ]
+   ],
+   "bounds_m": {
+    "x": [
+     -31.85,
+     -14.3
+    ],
+    "y_source": [
+     5.38,
+     33.68
+    ],
+    "z": [
+     0.0,
+     4.91
+    ]
+   }
+  },
+  {
+   "label": "Airport62 gate lounge upholstery",
+   "asset": "SM_AP_P62LoungeSoft",
+   "slots": [
+    [
+     0,
+     "MI_AP_P36Sand",
+     "/Game/Airport36/Materials/MI_AP_P36Sand.MI_AP_P36Sand"
+    ],
+    [
+     1,
+     "MI_AP_P34Cream",
+     "/Game/Airport34/Materials/MI_AP_P34Cream.MI_AP_P34Cream"
+    ],
+    [
+     2,
+     "MI_AP_P27Teal",
+     "/Game/Airport27/P2/Materials/MI_AP_P27Teal.MI_AP_P27Teal"
+    ]
+   ],
+   "bounds_m": {
+    "x": [
+     -31.77,
+     -14.8
+    ],
+    "y_source": [
+     6.29,
+     31.25
+    ],
+    "z": [
+     0.17,
+     1.95
+    ]
+   }
+  },
+  {
+   "label": "Airport62 gate lounge floors",
+   "asset": "SM_AP_P62LoungeFloor",
+   "slots": [
+    [
+     0,
+     "MI_AP_P34Carpet",
+     "/Game/Airport27/P2/Materials/MI_AP_P27Teal.MI_AP_P27Teal"
+    ],
+    [
+     1,
+     "MI_AP_P27Teal",
+     "/Game/Airport27/P2/Materials/MI_AP_P27Teal.MI_AP_P27Teal"
+    ]
+   ],
+   "bounds_m": {
+    "x": [
+     -28.35,
+     -14.6
+    ],
+    "y_source": [
+     5.4,
+     33.8
+    ],
+    "z": [
+     0.0,
+     0.02
+    ]
+   }
+  },
+  {
+   "label": "Airport63 gallery lounge",
+   "asset": "SM_AP_P63Gallery",
+   "slots": [
+    [
+     0,
+     "MI_AP_P43TOak",
+     "/Game/Airport38/Finish43/MI_AP_P43TOak.MI_AP_P43TOak"
+    ],
+    [
+     1,
+     "MI_AP_P27Walnut",
+     "/Game/Airport27/P2/Materials/MI_AP_P27Walnut.MI_AP_P27Walnut"
+    ],
+    [
+     2,
+     "MI_AP_P36Black",
+     "/Game/Airport36/Materials/MI_AP_P36Black.MI_AP_P36Black"
+    ],
+    [
+     3,
+     "MI_AP_P38AGold",
+     "/Game/Airport38/Materials/MI_AP_P38AGold.MI_AP_P38AGold"
+    ],
+    [
+     4,
+     "MI_AP_P51Soffit",
+     "/Game/Airport38/Pass48/Materials/MI_AP_P51Soffit.MI_AP_P51Soffit"
+    ],
+    [
+     5,
+     "MI_AP_P36Terracotta",
+     "/Game/Airport36/Materials/MI_AP_P36Terracotta.MI_AP_P36Terracotta"
+    ],
+    [
+     6,
+     "MI_AP_P27Steel",
+     "/Game/Airport27/P2/Materials/MI_AP_P27Steel.MI_AP_P27Steel"
+    ]
+   ],
+   "bounds_m": {
+    "x": [
+     -48.87,
+     -41.33
+    ],
+    "y_source": [
+     27.3,
+     33.73
+    ],
+    "z": [
+     3.17,
+     4.94
+    ]
+   }
+  },
+  {
+   "label": "Airport63 gallery upholstery",
+   "asset": "SM_AP_P63GallerySoft",
+   "slots": [
+    [
+     0,
+     "MI_AP_P36Sand",
+     "/Game/Airport36/Materials/MI_AP_P36Sand.MI_AP_P36Sand"
+    ],
+    [
+     1,
+     "MI_AP_P34Cream",
+     "/Game/Airport34/Materials/MI_AP_P34Cream.MI_AP_P34Cream"
+    ],
+    [
+     2,
+     "MI_AP_P27Teal",
+     "/Game/Airport27/P2/Materials/MI_AP_P27Teal.MI_AP_P27Teal"
+    ]
+   ],
+   "bounds_m": {
+    "x": [
+     -44.99,
+     -44.14
+    ],
+    "y_source": [
+     27.32,
+     29.53
+    ],
+    "z": [
+     3.34,
+     4.06
+    ]
+   }
+  },
+  {
+   "label": "Airport63 gallery rug",
+   "asset": "SM_AP_P63GalleryFloor",
+   "slots": [
+    [
+     0,
+     "MI_AP_P38ASage",
+     "/Game/Airport38/Materials/MI_AP_P38ASage.MI_AP_P38ASage"
+    ],
+    [
+     1,
+     "MI_AP_P27Teal",
+     "/Game/Airport27/P2/Materials/MI_AP_P27Teal.MI_AP_P27Teal"
+    ]
+   ],
+   "bounds_m": {
+    "x": [
+     -47.65,
+     -42.75
+    ],
+    "y_source": [
+     27.0,
+     30.45
+    ],
+    "z": [
+     3.17,
+     3.18
+    ]
+   }
+  },
+  {
+   "label": "Airport70 security and washrooms",
+   "asset": "SM_AP_P70Rooms",
+   "slots": [
+    [
+     0,
+     "MI_AP_P43TOak",
+     "/Game/Airport38/Finish43/MI_AP_P43TOak.MI_AP_P43TOak"
+    ],
+    [
+     1,
+     "MI_AP_P27Walnut",
+     "/Game/Airport27/P2/Materials/MI_AP_P27Walnut.MI_AP_P27Walnut"
+    ],
+    [
+     2,
+     "MI_AP_P27Teal",
+     "/Game/Airport27/P2/Materials/MI_AP_P27Teal.MI_AP_P27Teal"
+    ],
+    [
+     3,
+     "MI_AP_P38ANavy",
+     "/Game/Airport38/Materials/MI_AP_P38ANavy.MI_AP_P38ANavy"
+    ],
+    [
+     4,
+     "MI_AP_P27Steel",
+     "/Game/Airport27/P2/Materials/MI_AP_P27Steel.MI_AP_P27Steel"
+    ],
+    [
+     5,
+     "MI_AP_P36Black",
+     "/Game/Airport36/Materials/MI_AP_P36Black.MI_AP_P36Black"
+    ],
+    [
+     6,
+     "MI_AP_P38AGold",
+     "/Game/Airport38/Materials/MI_AP_P38AGold.MI_AP_P38AGold"
+    ],
+    [
+     7,
+     "MI_AP_P51SignGlow",
+     "/Game/Airport38/Pass48/Materials/MI_AP_P51SignGlow.MI_AP_P51SignGlow"
+    ],
+    [
+     8,
+     "MI_AP_P51Soffit",
+     "/Game/Airport38/Pass48/Materials/MI_AP_P51Soffit.MI_AP_P51Soffit"
+    ],
+    [
+     9,
+     "MI_AP_P36Terracotta",
+     "/Game/Airport36/Materials/MI_AP_P36Terracotta.MI_AP_P36Terracotta"
+    ],
+    [
+     10,
+     "MI_AP_P34Cream",
+     "/Game/Airport34/Materials/MI_AP_P34Cream.MI_AP_P34Cream"
+    ],
+    [
+     11,
+     "MI_AP_P38ASage",
+     "/Game/Airport38/Materials/MI_AP_P38ASage.MI_AP_P38ASage"
+    ],
+    [
+     12,
+     "MI_AP_Leaf",
+     "/Game/Airport10/Materials/Instances/MI_AP_Leaf.MI_AP_Leaf"
+    ],
+    [
+     13,
+     "MI_AP_LightLeaf",
+     "/Game/Airport10/Materials/Instances/MI_AP_LightLeaf.MI_AP_LightLeaf"
+    ],
+    [
+     14,
+     "MI_AP_P36Sand",
+     "/Game/Airport36/Materials/MI_AP_P36Sand.MI_AP_P36Sand"
+    ],
+    [
+     15,
+     "MI_AP_WhiteMark",
+     "/Game/Airport10/Materials/Instances/MI_AP_WhiteMark.MI_AP_WhiteMark"
+    ],
+    [
+     16,
+     "MI_AP_P71SecStone",
+     "/Game/Airport38/Pass48/Materials/MI_AP_P71SecStone.MI_AP_P71SecStone"
+    ],
+    [
+     17,
+     "MI_AP_P71SecOpal",
+     "/Game/Airport38/Pass48/Materials/MI_AP_P71SecOpal.MI_AP_P71SecOpal"
+    ],
+    [
+     18,
+     "MI_AP_P71SecGreen",
+     "/Game/Airport38/Pass48/Materials/MI_AP_P71SecGreen.MI_AP_P71SecGreen"
+    ],
+    [
+     19,
+     "MI_AP_P71SecShell",
+     "/Game/Airport38/Pass48/Materials/MI_AP_P71SecShell.MI_AP_P71SecShell"
+    ],
+    [
+     20,
+     "MI_AP_P71Mirror",
+     "/Game/Airport38/Pass48/Materials/MI_AP_P71Mirror.MI_AP_P71Mirror"
+    ],
+    [
+     21,
+     "MI_AP_P72GlowRed",
+     "/Game/Airport38/Pass48/Materials/MI_AP_P72GlowRed.MI_AP_P72GlowRed"
+    ],
+    [
+     22,
+     "MI_AP_P71Porcelain",
+     "/Game/Airport38/Pass48/Materials/MI_AP_P71Porcelain.MI_AP_P71Porcelain"
+    ]
+   ],
+   "bounds_m": {
+    "x": [
+     -48.89,
+     -14.09
+    ],
+    "y_source": [
+     -11.97,
+     9.89
+    ],
+    "z": [
+     0.0,
+     3.45
+    ]
+   }
+  },
+  {
+   "label": "Airport70 room upholstery",
+   "asset": "SM_AP_P70RoomsSoft",
+   "slots": [
+    [
+     0,
+     "MI_AP_P36Sand",
+     "/Game/Airport36/Materials/MI_AP_P36Sand.MI_AP_P36Sand"
+    ],
+    [
+     1,
+     "MI_AP_P34Cream",
+     "/Game/Airport34/Materials/MI_AP_P34Cream.MI_AP_P34Cream"
+    ],
+    [
+     2,
+     "MI_AP_P27Teal",
+     "/Game/Airport27/P2/Materials/MI_AP_P27Teal.MI_AP_P27Teal"
+    ]
+   ],
+   "bounds_m": {
+    "x": [
+     -44.87,
+     -38.63
+    ],
+    "y_source": [
+     9.37,
+     9.87
+    ],
+    "z": [
+     0.42,
+     1.03
+    ]
+   }
+  },
+  {
+   "label": "Airport70 room floors",
+   "asset": "SM_AP_P70RoomsFloor",
+   "slots": [
+    [
+     0,
+     "MI_AP_P27Teal",
+     "/Game/Airport27/P2/Materials/MI_AP_P27Teal.MI_AP_P27Teal"
+    ],
+    [
+     1,
+     "MI_AP_P34Cream",
+     "/Game/Airport34/Materials/MI_AP_P34Cream.MI_AP_P34Cream"
+    ],
+    [
+     2,
+     "MI_AP_P27Walnut",
+     "/Game/Airport27/P2/Materials/MI_AP_P27Walnut.MI_AP_P27Walnut"
+    ],
+    [
+     3,
+     "MI_AP_P38AGold",
+     "/Game/Airport38/Materials/MI_AP_P38AGold.MI_AP_P38AGold"
+    ],
+    [
+     4,
+     "MI_AP_P71SecLaneFloor",
+     "/Game/Airport38/Pass48/Materials/MI_AP_P71SecLaneFloor.MI_AP_P71SecLaneFloor"
+    ],
+    [
+     5,
+     "MI_AP_P71SecOpal",
+     "/Game/Airport38/Pass48/Materials/MI_AP_P71SecOpal.MI_AP_P71SecOpal"
+    ]
+   ],
+   "bounds_m": {
+    "x": [
+     -46.24,
+     -14.14
+    ],
+    "y_source": [
+     -11.86,
+     6.0
+    ],
+    "z": [
+     0.0,
+     0.01
+    ]
+   }
+  }
+ ],
+ "hidden": [],
+ "shown": [],
+ "notes": []
+}

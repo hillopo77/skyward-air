@@ -1,0 +1,25 @@
+{
+  "status": "SUCCESS",
+  "observed": 1793042343.013941,
+  "session": {
+    "status": "READY",
+    "revision": 22,
+    "stage": "checkin",
+    "ticket": null,
+    "journey": {
+      "checked_in": false,
+      "bag_accepted": false,
+      "security": false,
+      "boarding": false,
+      "aboard": false
+    },
+    "seat": null,
+    "events": [],
+    "player": [
+      -53.0,
+      -12.5,
+      1.62
+    ],
+    "runtime_sha256": "d6823d40706ec3e8511fb9d6f3bfe7e58f7dc71cfffb9a177276d6b96105312e"
+  }
+}

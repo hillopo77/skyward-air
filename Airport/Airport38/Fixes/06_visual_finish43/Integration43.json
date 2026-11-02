@@ -1,0 +1,21 @@
+{
+  "source_module": {"path": "Fixes/06_visual_finish43/finish43.py", "entry": "apply"},
+  "native_hook": "Fixes/06_visual_finish43/native_finish43.py",
+  "assets": [
+    "SM_AP_TerminalWallFinish43",
+    "SM_AP_BaggageBackdrop43",
+    "SM_AP_Walls38",
+    "SM_AP_Floors38",
+    "SM_AP_Ceilings38"
+  ],
+  "source_after": "architecture_flow39",
+  "native_after": "fresh mesh import and final placement",
+  "new_actor_collision": false,
+  "structural_collision_topology": "unchanged",
+  "source_unit": "TerminalFinish43_UnitKit.blend",
+  "source_report": "Source43Report.json",
+  "required_texture_directory": "Textures",
+  "source_ready": true,
+  "actual_reopen_verified": true,
+  "native_verified": false
+}

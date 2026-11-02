@@ -1,0 +1,103 @@
+{
+ "hall": [
+  -49.0,
+  -26.0,
+  -18.0,
+  -4.0
+ ],
+ "downlight_scale": 0.85,
+ "downlight_temp": 3000,
+ "ppv": {
+  "label": "P51 landside hall grade",
+  "exposure": 6.5,
+  "white_temp": 7200,
+  "vignette": 0.18,
+  "bloom": 0.12,
+  "ao": 0.7,
+  "ao_radius": 180,
+  "blend_radius": 200,
+  "priority": 1700,
+  "volumes": [
+   "AP38 warm grade entrancefoyer",
+   "AP38 warm grade checkin",
+   "AP38 warm grade landsidecorridor"
+  ],
+  "ambient_cubemap": 0.3,
+  "ambient_tint": [
+   1.0,
+   0.9,
+   0.76
+  ],
+  "contrast": 0.94
+ },
+ "spots": [],
+ "rects": [
+  {
+   "label": "P51 canopy glow",
+   "p": [
+    -29.2,
+    -13.5,
+    3.9
+   ],
+   "at": [
+    -29.2,
+    -13.5,
+    0
+   ],
+   "lm": 1800,
+   "w": 700,
+   "h": 500,
+   "temp": 2900,
+   "att": 450
+  }
+ ],
+ "floor": {
+  "material": "/Game/Airport38/Finish43/MI_AP_P43TFloor",
+  "tint": [
+   0.76,
+   0.71,
+   0.64
+  ]
+ },
+ "note": "Pass53: one warm, even fill. The room grade carries a warm ambient fill that lights everything softly and blends it; the twelve ceiling lights are gentle, warm and soft-shadowed; one low glow under the check-in canopy (it shades the desks). No uplights, washes or accents.",
+ "downlight": {
+  "lm": 4800,
+  "temp": 2900,
+  "w": 300,
+  "h": 120,
+  "att": 900,
+  "shadow_res": 0.3,
+  "barn_angle": 35,
+  "barn_length": 40,
+  "shadow_margin": 3.0,
+  "z": 5.75
+ },
+ "tall_rooms": {
+  "note": "Pass53: the gate and arrivals ceiling lights Pass50 lifted to the new ceilings got a 16 m reach; each re-rendered shadows for everything in it. 9 m reaches their own floor.",
+  "halls": [
+   [
+    -32,
+    -24,
+    14,
+    34
+   ],
+   [
+    -23,
+    -14,
+    -3,
+    10
+   ],
+   [
+    -22,
+    -14,
+    -22,
+    -12
+   ]
+  ],
+  "att": 900,
+  "shadow_res": 0.5,
+  "barn_angle": 35,
+  "barn_length": 40,
+  "z": 5.65
+ }
+}

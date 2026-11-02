@@ -1,0 +1,62 @@
+{
+  "status": "SUCCESS",
+  "started": 1793404688.9089258,
+  "changed": [
+    "PostProcessVolume",
+    "Airport clean daylight grade",
+    "Airport26 journey overlay",
+    "AP38 warm grade entrancefoyer",
+    "AP38 warm grade checkin",
+    "AP38 warm grade publicreturn",
+    "AP38 warm grade landsidecorridor",
+    "AP38 warm grade security",
+    "AP38 warm grade recovery",
+    "AP38 warm grade concourse",
+    "AP38 warm grade gate07",
+    "AP38 warm grade gate08",
+    "AP38 warm grade cafefoyer",
+    "AP38 warm grade cafe",
+    "AP38 warm grade amenitylobby",
+    "AP38 warm grade amenities",
+    "AP38 warm grade operations",
+    "AP38 warm grade gate07entry",
+    "AP38 warm grade baggageservice",
+    "AP38 warm grade arrivals",
+    "AP38 warm grade arrivalsreturn",
+    "AP38 warm grade publicreturneast"
+  ],
+  "notes": [],
+  "gradient": {
+    "width": 64,
+    "height": 32,
+    "up": [
+      1.0,
+      0.99,
+      0.96
+    ],
+    "horizon": [
+      0.72,
+      0.71,
+      0.7
+    ],
+    "down": [
+      0.62,
+      0.56,
+      0.48
+    ],
+    "bytes": 431,
+    "luminance_min": 0.5722,
+    "luminance_max": 0.9753,
+    "angular_variance": 0.013434
+  },
+  "texture": "/Game/Airport38/Textures/T_AP45_GradientIndirect",
+  "map": "/Game/Airport38/L_Airport_Repair38",
+  "finished": 1793404695.1202908,
+  "summary": {
+    "volumes": 22,
+    "gi": "NONE (SSGI reverted for cost)",
+    "ambient_intensity": 0.26,
+    "exposure_ev": 6.5,
+    "blend_radius_cm": 120.0
+  }
+}

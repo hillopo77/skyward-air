@@ -1,0 +1,1993 @@
+{
+ "revision": 46,
+ "route_clear_width_m": 1.9,
+ "rules": [
+  "place = new instance of an asset the project already owns",
+  "move = existing actor relocated because its position is a measured defect",
+  "vary = yaw/scale variation on verbatim-repeated groups",
+  "no bench carrying a seated NPC anchor is moved",
+  "collide = collision enabled on a visible solid that had none",
+  "the engine script re-checks every placement against live geometry"
+ ],
+ "place": [
+  {
+   "room": "concourse",
+   "asset": "SM_AP_ScreenBoard",
+   "name": "Concourse departures board46",
+   "location": [
+    -29.0,
+    -3.88,
+    2.15
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "dead-end south wall, faces north up the concourse at arriving passengers",
+   "snap": false
+  },
+  {
+   "room": "concourse",
+   "asset": "SM_AP_Bench34_Hardware40",
+   "name": "Concourse alcove bench46 0",
+   "location": [
+    -30.55,
+    -0.9,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "alcove seating, facing its pair across 3.1 m"
+  },
+  {
+   "room": "concourse",
+   "asset": "SM_AP_Bench34_Hardware40",
+   "name": "Concourse alcove bench46 1",
+   "location": [
+    -27.45,
+    -0.9,
+    0.0
+   ],
+   "rotation_degrees": -90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "alcove seating, facing its pair"
+  },
+  {
+   "room": "concourse",
+   "asset": "SM_AP_Charging34",
+   "name": "Concourse charging bar46",
+   "location": [
+    -31.62,
+    1.5,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "west wall between the facade corner and the recovery portal at y 4.9"
+  },
+  {
+   "room": "concourse",
+   "asset": "SM_AP_Bins36",
+   "name": "Concourse waste sorting46",
+   "location": [
+    -31.5,
+    -3.4,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "alcove corner; y=3.6 is taken by Plant1224_1772 at (-30.9, 4.0)"
+  },
+  {
+   "room": "concourse",
+   "asset": "SM_AP_Planter27",
+   "name": "Concourse planter46 0",
+   "location": [
+    -26.5,
+    1.2,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "east wall, marks the alcove mouth"
+  },
+  {
+   "room": "concourse",
+   "asset": "SM_AP_Information27",
+   "name": "Concourse information totem46",
+   "location": [
+    -26.55,
+    11.9,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "north decision node: cafe west, A08 north"
+  },
+  {
+   "room": "concourse",
+   "asset": "SM_AP_Plant12",
+   "name": "Concourse plant46 0",
+   "location": [
+    -29.0,
+    1.2,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "closes the north edge of the alcove; the west wall at y=11 falls inside the cafe portal mouth"
+  },
+  {
+   "room": "concourse",
+   "asset": "SM_AP_Recycling38",
+   "name": "Concourse recycling46",
+   "location": [
+    -26.55,
+    9.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "east wall below the existing A07 sign"
+  },
+  {
+   "room": "cafefoyer",
+   "asset": "SM_AP_Planter27",
+   "name": "Cafe approach planter46 0",
+   "location": [
+    -37.3,
+    15.4,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "west of the cafe threshold mouth, which spans x -36.3..-32.7"
+  },
+  {
+   "room": "cafefoyer",
+   "asset": "SM_AP_Bench27_Hardware40",
+   "name": "Cafe approach bench46",
+   "location": [
+    -35.4,
+    10.45,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "south wall, a pause before the cafe"
+  },
+  {
+   "room": "cafefoyer",
+   "asset": "SM_AP_Bins36",
+   "name": "Cafe approach waste sorting46",
+   "location": [
+    -37.4,
+    10.5,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "south-west corner, clear of the welcome sign above y 11.6"
+  },
+  {
+   "room": "cafefoyer",
+   "asset": "SM_AP_Plant12",
+   "name": "Cafe approach plant46",
+   "location": [
+    -33.6,
+    10.7,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "south-east corner; against the west wall it would stand in the welcome sign"
+  },
+  {
+   "room": "amenitylobby",
+   "asset": "SM_AP_Bench27_Hardware40",
+   "name": "WC passage bench46",
+   "location": [
+    -25.62,
+    -6.2,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "west wall waiting bench, 2.28 m left clear"
+  },
+  {
+   "room": "amenitylobby",
+   "asset": "SM_AP_Plant12",
+   "name": "WC passage plant46",
+   "location": [
+    -23.48,
+    -4.6,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "east wall, opposite the bench"
+  },
+  {
+   "room": "amenitylobby",
+   "asset": "SM_AP_Recycling38",
+   "name": "WC passage recycling46",
+   "location": [
+    -23.3,
+    -10.8,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "south end of the passage"
+  },
+  {
+   "room": "amenitylobby",
+   "asset": "SM_AP_Planter27",
+   "name": "WC passage planter46",
+   "location": [
+    -25.5,
+    -11.4,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "closes the dead south corner"
+  },
+  {
+   "room": "landsidecorridor",
+   "asset": "SM_AP_ScreenBoard",
+   "name": "Landside departures board46",
+   "location": [
+    -39.0,
+    -7.9,
+    2.15
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "south wall facing the corridor, between check-in and security",
+   "snap": false
+  },
+  {
+   "room": "landsidecorridor",
+   "asset": "SM_AP_Bench29_Hardware40",
+   "name": "Landside corridor bench46 0",
+   "location": [
+    -34.8,
+    -7.6,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "south wall, clear of the board"
+  },
+  {
+   "room": "landsidecorridor",
+   "asset": "SM_AP_Bench29_Hardware40",
+   "name": "Landside corridor bench46 1",
+   "location": [
+    -46.0,
+    -7.6,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "south wall, west end"
+  },
+  {
+   "room": "landsidecorridor",
+   "asset": "SM_AP_Charging34",
+   "name": "Landside charging bar46",
+   "location": [
+    -37.0,
+    -4.38,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "north wall, clear of the security portal at x -43.2..-40.8"
+  },
+  {
+   "room": "landsidecorridor",
+   "asset": "SM_AP_Planter27",
+   "name": "Landside planter46 1",
+   "location": [
+    -44.0,
+    -4.5,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "north wall"
+  },
+  {
+   "room": "landsidecorridor",
+   "asset": "SM_AP_Planter27",
+   "name": "Landside planter46 2",
+   "location": [
+    -28.6,
+    -4.5,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "north wall, east end, clear of Safety station 1 at (-26.7, -5.0)"
+  },
+  {
+   "room": "landsidecorridor",
+   "asset": "SM_AP_Bins36",
+   "name": "Landside waste sorting46",
+   "location": [
+    -27.6,
+    -7.5,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "east end, clear of the check-in threshold mouth x -31.5..-28.5"
+  },
+  {
+   "room": "arrivals",
+   "asset": "SM_AP_ScreenBoard",
+   "name": "Arrivals reclaim board46",
+   "location": [
+    -18.0,
+    -12.12,
+    2.15
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "north wall at y=-12, facing the carousel; x=-14 is glazed",
+   "snap": false
+  },
+  {
+   "room": "arrivals",
+   "asset": "SM_AP_Trolley",
+   "name": "Arrivals trolley rank46 0",
+   "location": [
+    -20.8,
+    -20.2,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "trolley rank by the exit"
+  },
+  {
+   "room": "arrivals",
+   "asset": "SM_AP_Trolley",
+   "name": "Arrivals trolley rank46 1",
+   "location": [
+    -20.0,
+    -20.2,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "trolley rank by the exit"
+  },
+  {
+   "room": "arrivals",
+   "asset": "SM_AP_Trolley",
+   "name": "Arrivals trolley rank46 2",
+   "location": [
+    -19.2,
+    -20.2,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "trolley rank by the exit"
+  },
+  {
+   "room": "arrivals",
+   "asset": "SM_AP_Bench34_Hardware40",
+   "name": "Arrivals bench46",
+   "location": [
+    -21.0,
+    -13.2,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "west wall, meeting seat"
+  },
+  {
+   "room": "arrivals",
+   "asset": "SM_AP_Planter27",
+   "name": "Arrivals planter46 0",
+   "location": [
+    -20.6,
+    -21.3,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "south-west, clear of the arrivals-exit portal mouth"
+  },
+  {
+   "room": "arrivals",
+   "asset": "SM_AP_Planter27",
+   "name": "Arrivals planter46 1",
+   "location": [
+    -14.6,
+    -21.3,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "south-east corner"
+  },
+  {
+   "room": "arrivals",
+   "asset": "SM_AP_Bins36",
+   "name": "Arrivals waste sorting46",
+   "location": [
+    -14.7,
+    -13.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "north-east corner"
+  },
+  {
+   "room": "arrivals",
+   "asset": "SM_AP_Recycling38",
+   "name": "Arrivals recycling46",
+   "location": [
+    -16.5,
+    -12.5,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "north wall, under the board"
+  },
+  {
+   "room": "arrivalsreturn",
+   "asset": "SM_AP_Bins36",
+   "name": "Arrivals exit waste sorting46",
+   "location": [
+    -23.5,
+    -21.5,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "the one spot clear of both portal mouths; two planters were dropped because a 3x3.5 m vestibule with an opening on each side has no room for them"
+  },
+  {
+   "room": "operations",
+   "asset": "SM_AP_StaffStorage38",
+   "name": "Operations storage46 0",
+   "location": [
+    -48.2,
+    15.6,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "north wall racking; RetailShelf24_1814 already holds the west wall"
+  },
+  {
+   "room": "operations",
+   "asset": "SM_AP_StaffStorage38",
+   "name": "Operations storage46 1",
+   "location": [
+    -43.0,
+    15.6,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "north wall racking"
+  },
+  {
+   "room": "operations",
+   "asset": "SM_AP_CafeTable34",
+   "name": "Operations break table46",
+   "location": [
+    -40.5,
+    14.5,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "staff break table"
+  },
+  {
+   "room": "operations",
+   "asset": "SM_AP_CafeChair34_Hardware40",
+   "name": "Operations break chair46 0",
+   "location": [
+    -40.5,
+    13.65,
+    0.0
+   ],
+   "rotation_degrees": 180,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "break seat"
+  },
+  {
+   "room": "operations",
+   "asset": "SM_AP_CafeChair34_Hardware40",
+   "name": "Operations break chair46 1",
+   "location": [
+    -40.5,
+    15.35,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "break seat"
+  },
+  {
+   "room": "operations",
+   "asset": "SM_AP_Plant12",
+   "name": "Operations plant46",
+   "location": [
+    -39.0,
+    10.8,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "south-east corner"
+  },
+  {
+   "room": "operations",
+   "asset": "SM_AP_Recycling38",
+   "name": "Operations recycling46",
+   "location": [
+    -47.0,
+    10.6,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "south wall"
+  },
+  {
+   "room": "operations",
+   "asset": "SM_AP_Bins36",
+   "name": "Operations waste sorting46",
+   "location": [
+    -48.4,
+    11.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "west wall, south of RetailShelf24_1814"
+  },
+  {
+   "room": "gate07entry",
+   "asset": "SM_AP_Bench34_Hardware40",
+   "name": "A07 entry bench46 0",
+   "location": [
+    -25.5,
+    8.8,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "west wall, north of the main route along y=6.5"
+  },
+  {
+   "room": "gate07entry",
+   "asset": "SM_AP_Bench34_Hardware40",
+   "name": "A07 entry bench46 1",
+   "location": [
+    -23.5,
+    8.8,
+    0.0
+   ],
+   "rotation_degrees": -90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "east wall, north of the main route along y=6.5"
+  },
+  {
+   "room": "gate07entry",
+   "asset": "SM_AP_Planter27",
+   "name": "A07 entry planter46 0",
+   "location": [
+    -25.5,
+    0.2,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "flanks the south threshold"
+  },
+  {
+   "room": "gate07entry",
+   "asset": "SM_AP_Planter27",
+   "name": "A07 entry planter46 1",
+   "location": [
+    -23.5,
+    0.2,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "flanks the south threshold"
+  },
+  {
+   "room": "gate07entry",
+   "asset": "SM_AP_Recycling38",
+   "name": "A07 entry recycling46",
+   "location": [
+    -24.5,
+    9.6,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "north wall, between the benches"
+  },
+  {
+   "room": "publicreturn",
+   "asset": "SM_AP_Bench27_Hardware40",
+   "name": "Public return bench46 0",
+   "location": [
+    -44.0,
+    -21.4,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "south wall, between the existing trolleys at x=-46 and x=-42"
+  },
+  {
+   "room": "publicreturn",
+   "asset": "SM_AP_Bench27_Hardware40",
+   "name": "Public return bench46 1",
+   "location": [
+    -31.5,
+    -21.4,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "south wall, east of the trolley at x=-34"
+  },
+  {
+   "room": "publicreturn",
+   "asset": "SM_AP_Planter27",
+   "name": "Public return planter46 0",
+   "location": [
+    -40.0,
+    -18.6,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "north wall rhythm"
+  },
+  {
+   "room": "publicreturn",
+   "asset": "SM_AP_Planter27",
+   "name": "Public return planter46 1",
+   "location": [
+    -29.0,
+    -18.6,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "north wall rhythm"
+  },
+  {
+   "room": "publicreturn",
+   "asset": "SM_AP_Trolley",
+   "name": "Public return trolley46 0",
+   "location": [
+    -47.5,
+    -19.0,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "trolley return by the exit"
+  },
+  {
+   "room": "publicreturn",
+   "asset": "SM_AP_Trolley",
+   "name": "Public return trolley46 1",
+   "location": [
+    -46.7,
+    -19.0,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "trolley return by the exit"
+  },
+  {
+   "room": "publicreturn",
+   "asset": "SM_AP_Bins36",
+   "name": "Public return waste sorting46",
+   "location": [
+    -36.0,
+    -18.6,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "north wall"
+  },
+  {
+   "room": "cafe",
+   "asset": "SM_AP_OvalTable36",
+   "name": "Gallery table46 0",
+   "location": [
+    -46.5,
+    28.6,
+    3.15
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "the gallery had no table at all; seats face each other across it",
+   "snap": false
+  },
+  {
+   "room": "cafe",
+   "asset": "SM_AP_CafeChair34_Hardware40",
+   "name": "Gallery chair46 0",
+   "location": [
+    -46.5,
+    27.75,
+    3.15
+   ],
+   "rotation_degrees": 180,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "serves table46 0",
+   "snap": false
+  },
+  {
+   "room": "cafe",
+   "asset": "SM_AP_CafeChair34_Hardware40",
+   "name": "Gallery chair46 1",
+   "location": [
+    -46.5,
+    29.45,
+    3.15
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "serves table46 0",
+   "snap": false
+  },
+  {
+   "room": "cafe",
+   "asset": "SM_AP_OvalTable36",
+   "name": "Gallery table46 1",
+   "location": [
+    -43.5,
+    26.6,
+    3.15
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "second gallery table",
+   "snap": false
+  },
+  {
+   "room": "cafe",
+   "asset": "SM_AP_CafeChair34_Hardware40",
+   "name": "Gallery chair46 2",
+   "location": [
+    -43.5,
+    25.75,
+    3.15
+   ],
+   "rotation_degrees": 180,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "serves table46 1",
+   "snap": false
+  },
+  {
+   "room": "cafe",
+   "asset": "SM_AP_CafeChair34_Hardware40",
+   "name": "Gallery chair46 3",
+   "location": [
+    -43.5,
+    27.45,
+    3.15
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "serves table46 1",
+   "snap": false
+  },
+  {
+   "room": "cafe",
+   "asset": "SM_AP_Planter27",
+   "name": "Gallery planter46",
+   "location": [
+    -48.3,
+    33.2,
+    3.15
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "softens the glazed north-west corner the charging bar vacated",
+   "snap": false
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 00",
+   "location": [
+    -61.8,
+    -24.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 01",
+   "location": [
+    -61.8,
+    -22.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 02",
+   "location": [
+    -61.8,
+    -20.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 03",
+   "location": [
+    -61.8,
+    -18.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 04",
+   "location": [
+    -61.8,
+    -16.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 05",
+   "location": [
+    -61.8,
+    -14.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 06",
+   "location": [
+    -61.8,
+    -12.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 07",
+   "location": [
+    -61.8,
+    -10.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 08",
+   "location": [
+    -61.8,
+    -8.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 09",
+   "location": [
+    -61.8,
+    -6.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 10",
+   "location": [
+    -61.8,
+    -4.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 11",
+   "location": [
+    -61.8,
+    -2.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 12",
+   "location": [
+    -61.8,
+    0.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 13",
+   "location": [
+    -61.8,
+    2.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 14",
+   "location": [
+    -61.8,
+    4.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 15",
+   "location": [
+    -61.8,
+    6.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 16",
+   "location": [
+    -61.8,
+    8.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 17",
+   "location": [
+    -61.8,
+    10.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 18",
+   "location": [
+    -61.8,
+    12.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 19",
+   "location": [
+    -61.8,
+    14.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 20",
+   "location": [
+    -61.8,
+    16.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 21",
+   "location": [
+    -61.8,
+    18.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Curb",
+   "name": "Forecourt kerb46 22",
+   "location": [
+    -61.8,
+    20.0,
+    0.0
+   ],
+   "rotation_degrees": 90,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "kerb run between the asphalt at x<-62 and the walkway",
+   "package": "/Game/Airport10/Meshes/SM_AP_Curb"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Streetlight",
+   "name": "Forecourt streetlight46 0",
+   "location": [
+    -60.4,
+    -23.0,
+    0.0
+   ],
+   "rotation_degrees": 0.0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "outside the canopy footprint; arm direction alternates along the row",
+   "package": "/Game/Airport10/Meshes/SM_AP_Streetlight"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Streetlight",
+   "name": "Forecourt streetlight46 1",
+   "location": [
+    -60.4,
+    4.8,
+    0.0
+   ],
+   "rotation_degrees": 180.0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "outside the canopy footprint; arm direction alternates along the row",
+   "package": "/Game/Airport10/Meshes/SM_AP_Streetlight"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Streetlight",
+   "name": "Forecourt streetlight46 2",
+   "location": [
+    -60.4,
+    14.0,
+    0.0
+   ],
+   "rotation_degrees": 0.0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "outside the canopy footprint; arm direction alternates along the row",
+   "package": "/Game/Airport10/Meshes/SM_AP_Streetlight"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Streetlight",
+   "name": "Forecourt streetlight46 3",
+   "location": [
+    -60.4,
+    22.0,
+    0.0
+   ],
+   "rotation_degrees": 180.0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "outside the canopy footprint; arm direction alternates along the row",
+   "package": "/Game/Airport10/Meshes/SM_AP_Streetlight"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Tree",
+   "name": "Forecourt tree46 0",
+   "location": [
+    -55.0,
+    1.0,
+    0.0
+   ],
+   "rotation_degrees": 14.0,
+   "scale": [
+    1.25,
+    1.25,
+    1.25
+   ],
+   "why": "north of the canopy; yaw, scale and offset differ per tree so the row is not a stamped array",
+   "package": "/Game/Airport10/Meshes/SM_AP_Tree"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Tree",
+   "name": "Forecourt tree46 1",
+   "location": [
+    -54.4,
+    9.5,
+    0.0
+   ],
+   "rotation_degrees": -37.0,
+   "scale": [
+    1.12,
+    1.12,
+    1.12
+   ],
+   "why": "north of the canopy; yaw, scale and offset differ per tree so the row is not a stamped array",
+   "package": "/Game/Airport10/Meshes/SM_AP_Tree"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_Tree",
+   "name": "Forecourt tree46 2",
+   "location": [
+    -54.8,
+    18.0,
+    0.0
+   ],
+   "rotation_degrees": 61.0,
+   "scale": [
+    1.19,
+    1.19,
+    1.19
+   ],
+   "why": "north of the canopy; yaw, scale and offset differ per tree so the row is not a stamped array",
+   "package": "/Game/Airport10/Meshes/SM_AP_Tree"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_GardenBench",
+   "name": "Forecourt garden bench46 0",
+   "location": [
+    -55.7,
+    -18.0,
+    0.0
+   ],
+   "rotation_degrees": 90.0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "sheltered seating under the canopy, facing alternately",
+   "package": "/Game/Airport10/Meshes/SM_AP_GardenBench"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_GardenBench",
+   "name": "Forecourt garden bench46 1",
+   "location": [
+    -55.7,
+    -12.25,
+    0.0
+   ],
+   "rotation_degrees": -90.0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "sheltered seating under the canopy, facing alternately",
+   "package": "/Game/Airport10/Meshes/SM_AP_GardenBench"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_GardenBench",
+   "name": "Forecourt garden bench46 2",
+   "location": [
+    -55.7,
+    -6.5,
+    0.0
+   ],
+   "rotation_degrees": 90.0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "sheltered seating under the canopy, facing alternately",
+   "package": "/Game/Airport10/Meshes/SM_AP_GardenBench"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_TaxiCar",
+   "name": "Forecourt taxi46 0",
+   "location": [
+    -64.5,
+    -19.0,
+    0.0
+   ],
+   "rotation_degrees": 0.0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "drop-off rank on the asphalt road",
+   "package": "/Game/Airport10/Meshes/SM_AP_TaxiCar"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_TaxiCar",
+   "name": "Forecourt taxi46 1",
+   "location": [
+    -64.5,
+    -6.0,
+    0.0
+   ],
+   "rotation_degrees": 2.5,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "drop-off rank on the asphalt road",
+   "package": "/Game/Airport10/Meshes/SM_AP_TaxiCar"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_TaxiCar",
+   "name": "Forecourt taxi46 2",
+   "location": [
+    -64.5,
+    8.0,
+    0.0
+   ],
+   "rotation_degrees": -3.0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "drop-off rank on the asphalt road",
+   "package": "/Game/Airport10/Meshes/SM_AP_TaxiCar"
+  },
+  {
+   "room": "forecourt",
+   "asset": "SM_AP_ShuttleBus",
+   "name": "Forecourt shuttle bus46",
+   "location": [
+    -66.0,
+    23.0,
+    0.0
+   ],
+   "rotation_degrees": 0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "why": "the layout asks for a shuttle bus; it is absent from the level",
+   "package": "/Game/Airport10/Meshes/SM_AP_ShuttleBus"
+  }
+ ],
+ "move": [
+  {
+   "actor": "ChargingTable24_1797",
+   "to": [
+    -48.4,
+    27.2,
+    3.15
+   ],
+   "yaw": 90,
+   "why": "becomes a window counter facing the west glazing at the stair head, instead of blocking the retail shelf face",
+   "snap": false
+  },
+  {
+   "actor": "RetailShelf24_1832",
+   "to": [
+    -43.4,
+    31.6,
+    3.15
+   ],
+   "yaw": 180,
+   "why": "back-to-back gondola island with an end cap, so the backs face each other instead of the glazing, and 2.1 m of walkway opens behind it",
+   "snap": false
+  },
+  {
+   "actor": "RetailShelf24_1833",
+   "to": [
+    -43.4,
+    31.06,
+    3.15
+   ],
+   "yaw": 0,
+   "why": "back-to-back gondola island with an end cap, so the backs face each other instead of the glazing, and 2.1 m of walkway opens behind it",
+   "snap": false
+  },
+  {
+   "actor": "RetailShelf24_1834",
+   "to": [
+    -44.7,
+    31.2,
+    3.15
+   ],
+   "yaw": 90,
+   "why": "back-to-back gondola island with an end cap, so the backs face each other instead of the glazing, and 2.1 m of walkway opens behind it",
+   "snap": false
+  },
+  {
+   "actor": "WC release 0 inside",
+   "to": [
+    -20.55,
+    -7.083,
+    1.13
+   ],
+   "yaw": null,
+   "snap": false,
+   "why": "hung 30.7 cm clear of the cubicle door inner face; the matching outside plate meets its face within 1 mm. Reseated flush, 1 mm in."
+  },
+  {
+   "actor": "WC release 1 inside",
+   "to": [
+    -16.65,
+    -7.083,
+    1.13
+   ],
+   "yaw": null,
+   "snap": false,
+   "why": "hung 30.7 cm clear of the cubicle door inner face; the matching outside plate meets its face within 1 mm. Reseated flush, 1 mm in."
+  }
+ ],
+ "vary": [
+  {
+   "actor": "CafeChair24_1783",
+   "to": null,
+   "yaw": 173.0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "skip_overlap": true,
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up"
+  },
+  {
+   "actor": "CafeChair24_1784",
+   "to": null,
+   "yaw": 5.0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "skip_overlap": true,
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up"
+  },
+  {
+   "actor": "CafeChair24_1786",
+   "to": null,
+   "yaw": 191.0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "skip_overlap": true,
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up"
+  },
+  {
+   "actor": "CafeChair24_1787",
+   "to": null,
+   "yaw": -4.0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "skip_overlap": true,
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up"
+  },
+  {
+   "actor": "CafeChair24_1789",
+   "to": null,
+   "yaw": 186.0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "skip_overlap": true,
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up"
+  },
+  {
+   "actor": "CafeChair24_1790",
+   "to": null,
+   "yaw": -9.0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "skip_overlap": true,
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up"
+  },
+  {
+   "actor": "CafeChair24_1792",
+   "to": null,
+   "yaw": 174.0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "skip_overlap": true,
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up"
+  },
+  {
+   "actor": "CafeChair24_1793",
+   "to": null,
+   "yaw": 8.0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "skip_overlap": true,
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up"
+  },
+  {
+   "actor": "Cafe extra chair36 0",
+   "to": null,
+   "yaw": 94.0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "skip_overlap": true,
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up"
+  },
+  {
+   "actor": "Cafe extra chair36 1",
+   "to": null,
+   "yaw": -95.0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "skip_overlap": true,
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up"
+  },
+  {
+   "actor": "Cafe extra chair36 2",
+   "to": null,
+   "yaw": 189.0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "skip_overlap": true,
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up"
+  },
+  {
+   "actor": "Cafe extra chair36 3",
+   "to": null,
+   "yaw": -7.0,
+   "scale": [
+    1,
+    1,
+    1
+   ],
+   "skip_overlap": true,
+   "why": "twelve identical chairs at identical yaw; jitter only, position unchanged so seated anchors still line up"
+  }
+ ],
+ "collide": [
+  {
+   "actor": "Plant1224_1761",
+   "profile": "BlockAll",
+   "why": "visible 1.1-1.2 m planting with collision disabled; the player walks through it"
+  },
+  {
+   "actor": "Plant1224_1771",
+   "profile": "BlockAll",
+   "why": "visible 1.1-1.2 m planting with collision disabled; the player walks through it"
+  },
+  {
+   "actor": "Plant1224_1772",
+   "profile": "BlockAll",
+   "why": "visible 1.1-1.2 m planting with collision disabled; the player walks through it"
+  },
+  {
+   "actor": "Plant1224_1773",
+   "profile": "BlockAll",
+   "why": "visible 1.1-1.2 m planting with collision disabled; the player walks through it"
+  },
+  {
+   "actor": "Plant1224_1827",
+   "profile": "BlockAll",
+   "why": "visible 1.1-1.2 m planting with collision disabled; the player walks through it"
+  },
+  {
+   "actor": "Plant1224_1828",
+   "profile": "BlockAll",
+   "why": "visible 1.1-1.2 m planting with collision disabled; the player walks through it"
+  },
+  {
+   "actor": "Plant1224_1829",
+   "profile": "BlockAll",
+   "why": "visible 1.1-1.2 m planting with collision disabled; the player walks through it"
+  },
+  {
+   "actor": "Plant1224_1824",
+   "profile": "BlockAll",
+   "why": "visible 1.1-1.2 m planting with collision disabled; the player walks through it"
+  },
+  {
+   "actor": "Plant1224_1825",
+   "profile": "BlockAll",
+   "why": "visible 1.1-1.2 m planting with collision disabled; the player walks through it"
+  },
+  {
+   "actor": "Plant1224_1826",
+   "profile": "BlockAll",
+   "why": "visible 1.1-1.2 m planting with collision disabled; the player walks through it"
+  }
+ ]
+}

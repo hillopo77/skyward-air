@@ -1,0 +1,58 @@
+{
+  "status": "SUCCESS",
+  "checks": [
+    {
+      "name": "Native viewport1920x1080",
+      "passed": true
+    },
+    {
+      "name": "Eleven room fixture sources retained",
+      "passed": true
+    },
+    {
+      "name": "Suspended panels point down",
+      "passed": true
+    },
+    {
+      "name": "Warm ambient fill restored",
+      "passed": true
+    },
+    {
+      "name": "Corrected room mesh loaded",
+      "passed": true
+    }
+  ],
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Warm33\\Screenshots\\01_EntryBreathingSpace.png",
+      "sha256": "f0b33f2be47a9a5c0d82015b4ccfc75d2063e25d36eedcc6dc79e86166a4d740",
+      "view": "01_EntryBreathingSpace"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Warm33\\Screenshots\\02_RightSideAccess.png",
+      "sha256": "341eae66b0f9ae79e3d23ac6bc6582ac79ebe3ac195e76c62e8721deff25c592",
+      "view": "02_RightSideAccess"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Warm33\\Screenshots\\03_ProcessStartsAhead.png",
+      "sha256": "54709cc29312f7ec1f23d6e9eb62f467ee4acd2137982d669ae2789d44e40ee9",
+      "view": "03_ProcessStartsAhead"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Warm33\\Screenshots\\04_CalmRoom.png",
+      "sha256": "04b232739b022fc9c6dd690b148ca7972c702a73662d6aabfd9e321e3c1ac194",
+      "view": "04_CalmRoom"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Warm33\\Screenshots\\05_CeilingPanels.png",
+      "sha256": "0f2a232adf7ce15467fc55ff509cb98e3154afb29b39d8087b96845cd7c57271",
+      "view": "05_CeilingPanels"
+    }
+  ],
+  "step": 12,
+  "elapsed_s": 14.281000000002678,
+  "viewport": [
+    1920,
+    1080
+  ]
+}

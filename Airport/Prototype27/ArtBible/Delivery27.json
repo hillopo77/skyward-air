@@ -1,0 +1,125 @@
+{
+  "status": "SUCCESS",
+  "prototype_level": 5,
+  "baseline": "Clarity26 treated as prototype1",
+  "map": "/Game/Airport27/L_Airport_Prototype5",
+  "map_sha256": "90933ea3bfd5652949e6a43087ba3b157f865406f40bac30643344b554b77716",
+  "source_sha256": "6e2f22470149db23d9c652af4e68ef25d9282ac24cba559e2bc8832008415eed",
+  "layout_sha256": "451677cdaf46e7e58a12b83532b3e9bce9c563f6b39088cd2372b5ba06e23984",
+  "functional_checks": 47,
+  "distance_checks": 5,
+  "continuous_walk": true,
+  "teleports": 0,
+  "viewport": [
+    1920,
+    1080
+  ],
+  "passes": [
+    {
+      "level": 1,
+      "name": "Preserved baseline",
+      "gallery": "../Clarity26/Review.html"
+    },
+    {
+      "level": 2,
+      "name": "Modeled construction",
+      "report": "PhotosP2.json"
+    },
+    {
+      "level": 3,
+      "name": "Materials and distance clarity",
+      "report": "PhotosP3.json"
+    },
+    {
+      "level": 4,
+      "name": "Fixture lighting",
+      "report": "PhotosP4.json"
+    },
+    {
+      "level": 5,
+      "name": "Scrutiny and corrected final",
+      "report": "PhotosP5.json"
+    }
+  ],
+  "final_photos": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Prototype27\\Screenshots\\P5\\00_Gameplay.png",
+      "sha256": "631a7cd188ca094f1f720fa522605228b7ea956ee63b4b8b8ad7cf5eb53c16b8",
+      "view": "00_Gameplay"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Prototype27\\Screenshots\\P5\\01_Arrival.png",
+      "sha256": "4a2393bd19714d39f2dc205af1f2fe8923726088b0dad36e157940772e12205d",
+      "view": "01_Arrival"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Prototype27\\Screenshots\\P5\\02_WelcomeDesk.png",
+      "sha256": "169133dd34819249190bb27db1efb8c783482a8df99ca4f865ca42d75f4a4871",
+      "view": "02_WelcomeDesk"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Prototype27\\Screenshots\\P5\\03_Seating.png",
+      "sha256": "9ef90518e6375e84a950fd5857a9b82000fe43fca71f7e7596a03ebce836baae",
+      "view": "03_Seating"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Prototype27\\Screenshots\\P5\\04_WelcomeWall.png",
+      "sha256": "1c3cc8691696a17c0a3e5c7da12bdac39257aef3c921b4539c21263ed5e67f63",
+      "view": "04_WelcomeWall"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Prototype27\\Screenshots\\P5\\05_FromDesk.png",
+      "sha256": "2f484ff32815a9d62f2723a69d5c6b4c0e05bd9ca8e1395058dba6131d49d954",
+      "view": "05_FromDesk"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Prototype27\\Screenshots\\P5\\06_DetailCabinet.png",
+      "sha256": "e50a1c3466aac42b1653dc804156d006a6e2e8cda506299b941dd0754671ba84",
+      "view": "06_DetailCabinet"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Prototype27\\Screenshots\\P5\\07_DetailSeat.png",
+      "sha256": "332d885123aa54e23749ce0a0c06f36fdb0bb7e9480924750e1934121f957bec",
+      "view": "07_DetailSeat"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Prototype27\\Screenshots\\P5\\08_DistantRoute.png",
+      "sha256": "23f5e9a67bd3d156c9c4c6f09ce78e1752e7b4239963e8667ef31a26d60ea846",
+      "view": "08_DistantRoute"
+    }
+  ],
+  "distance_photos": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Prototype27\\Screenshots\\Distance27_Near_2m.png",
+      "sha256": "b87ea7871194b936a422d93916d81fc987dc8ea3817e86873f4d8bca3a57de73",
+      "view": "Near_2m",
+      "distance_m": 2.077811348510735
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Prototype27\\Screenshots\\Distance27_Mid_5m.png",
+      "sha256": "4a643f836aef01b7eccabc8690cb2098e6f0c4b385b5456cdc1b3e86ac153dca",
+      "view": "Mid_5m",
+      "distance_m": 5.101225342993583
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Prototype27\\Screenshots\\Distance27_Far_7m.png",
+      "sha256": "2296604aac4b9fffcf3fcb557a356a759488cfdfaca0e23b8dfa8062381ed4d9",
+      "view": "Far_7m",
+      "distance_m": 7.042584752773657
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Prototype27\\Screenshots\\Distance27_Far_Moving.png",
+      "sha256": "c4a7abeb08aede7880c76d6f9f136992a512e4880c50adcc3f7462e1272fac22",
+      "view": "Far_Moving",
+      "distance_m": 7.042584752773657
+    }
+  ],
+  "dependencies": {
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_runtime.py": "2f1d07c0cf3e2ed402f761d3daa1295bc6f0e84b4bb5075277544dbac538ec54",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_prototype27.py": "9e95fc52496546b5710b8e9a3a507d55e5e7d167a5b0e997214ba52dbf4fb462",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_clarity26.py": "15b79dfd2e1a1d90a84c28931ea70124d9df20668917de44b5b0902c0657ee4f",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\arrival27_qa.py": "bc19377d5640b003ba82425870ab35c64fb41988a6ad1105470f4fdf2f1c39f1",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\distance27.py": "1c06512915e2785a665e2a6f72dc9b69d86a3c3943c5ff809551d52c2136b749",
+    "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Python\\airport_rooms24.py": "210f3c956d649a73e7042bfe847a765c339c2566c6ad03de2be4317f01907d12"
+  }
+}

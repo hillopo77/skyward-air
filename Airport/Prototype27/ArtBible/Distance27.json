@@ -1,0 +1,58 @@
+{
+  "status": "SUCCESS",
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Prototype27\\Screenshots\\Distance27_Near_2m.png",
+      "sha256": "b87ea7871194b936a422d93916d81fc987dc8ea3817e86873f4d8bca3a57de73",
+      "view": "Near_2m",
+      "distance_m": 2.077811348510735
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Prototype27\\Screenshots\\Distance27_Mid_5m.png",
+      "sha256": "4a643f836aef01b7eccabc8690cb2098e6f0c4b385b5456cdc1b3e86ac153dca",
+      "view": "Mid_5m",
+      "distance_m": 5.101225342993583
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Prototype27\\Screenshots\\Distance27_Far_7m.png",
+      "sha256": "2296604aac4b9fffcf3fcb557a356a759488cfdfaca0e23b8dfa8062381ed4d9",
+      "view": "Far_7m",
+      "distance_m": 7.042584752773657
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Prototype27\\Screenshots\\Distance27_Far_Moving.png",
+      "sha256": "c4a7abeb08aede7880c76d6f9f136992a512e4880c50adcc3f7462e1272fac22",
+      "view": "Far_Moving",
+      "distance_m": 7.042584752773657
+    }
+  ],
+  "viewport": [
+    1920,
+    1080
+  ],
+  "profile": "Distance27",
+  "checks": [
+    {
+      "name": "SignStart keeps full print resolution",
+      "passed": true
+    },
+    {
+      "name": "SignHeader keeps full print resolution",
+      "passed": true
+    },
+    {
+      "name": "SignWelcome keeps full print resolution",
+      "passed": true
+    },
+    {
+      "name": "FlightBoard keeps full print resolution",
+      "passed": true
+    },
+    {
+      "name": "Actual viewport is 1920x1080",
+      "passed": true
+    }
+  ],
+  "finished": 1793192829.521532,
+  "pan_sample_average_fps": 60.016962837254624
+}

@@ -1,0 +1,42 @@
+{
+ "Safety station 0": {
+  "wall": "x=-43",
+  "dist": 0.295,
+  "face": [
+   -1,
+   0
+  ]
+ },
+ "Safety station 1": {
+  "wall": "x=-26",
+  "dist": 0.613,
+  "face": [
+   -1,
+   0
+  ]
+ },
+ "Safety station 2": {
+  "wall": "y=10",
+  "dist": 0.813,
+  "face": [
+   0,
+   -1
+  ]
+ },
+ "Safety station 3": {
+  "wall": "y=34",
+  "dist": 1.313,
+  "face": [
+   0,
+   -1
+  ]
+ },
+ "Safety station 4": {
+  "wall": "x=-32",
+  "dist": 1.0,
+  "face": [
+   -1,
+   0
+  ]
+ }
+}

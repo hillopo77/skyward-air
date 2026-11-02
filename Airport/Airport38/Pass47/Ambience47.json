@@ -1,0 +1,442 @@
+[
+ {
+  "view": "C1_cabin_aisle",
+  "mean_lum": 0.516,
+  "dark_pct": 1.7,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.537,
+   0.55,
+   0.565
+  ]
+ },
+ {
+  "view": "C2_flight_deck",
+  "mean_lum": 0.474,
+  "dark_pct": 1.0,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.436,
+   0.447,
+   0.462
+  ]
+ },
+ {
+  "view": "X1_forecourt_arrival",
+  "mean_lum": 0.548,
+  "dark_pct": 0.1,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.407,
+   0.492,
+   0.493
+  ]
+ },
+ {
+  "view": "X2_terminal_facade",
+  "mean_lum": 0.46,
+  "dark_pct": 0.3,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.251,
+   0.279,
+   0.285
+  ]
+ },
+ {
+  "view": "X3_overview_landside",
+  "mean_lum": 0.663,
+  "dark_pct": 0.0,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.654,
+   0.738,
+   0.635
+  ]
+ },
+ {
+  "view": "X4_apron_from_stand",
+  "mean_lum": 0.594,
+  "dark_pct": 0.3,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.579,
+   0.652,
+   0.768
+  ]
+ },
+ {
+  "view": "X5_aircraft_bridge",
+  "mean_lum": 0.668,
+  "dark_pct": 0.1,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.618,
+   0.691,
+   0.796
+  ]
+ },
+ {
+  "view": "Z01_foyer_in",
+  "mean_lum": 0.512,
+  "dark_pct": 5.7,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.479,
+   0.467,
+   0.429
+  ]
+ },
+ {
+  "view": "Z02_foyer_back",
+  "mean_lum": 0.491,
+  "dark_pct": 3.2,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.374,
+   0.376,
+   0.349
+  ]
+ },
+ {
+  "view": "Z03_checkin_in",
+  "mean_lum": 0.523,
+  "dark_pct": 4.4,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.429,
+   0.424,
+   0.401
+  ]
+ },
+ {
+  "view": "Z04_checkin_back",
+  "mean_lum": 0.529,
+  "dark_pct": 1.4,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.367,
+   0.394,
+   0.38
+  ]
+ },
+ {
+  "view": "Z05_publicreturn_w",
+  "mean_lum": 0.574,
+  "dark_pct": 0.4,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.595,
+   0.569,
+   0.525
+  ]
+ },
+ {
+  "view": "Z06_publicreturn_e",
+  "mean_lum": 0.601,
+  "dark_pct": 1.0,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.594,
+   0.57,
+   0.531
+  ]
+ },
+ {
+  "view": "Z07_landside_w",
+  "mean_lum": 0.577,
+  "dark_pct": 0.4,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.556,
+   0.535,
+   0.502
+  ]
+ },
+ {
+  "view": "Z08_landside_e",
+  "mean_lum": 0.592,
+  "dark_pct": 0.4,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.603,
+   0.575,
+   0.533
+  ]
+ },
+ {
+  "view": "Z09_security_in",
+  "mean_lum": 0.495,
+  "dark_pct": 9.4,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.403,
+   0.399,
+   0.38
+  ]
+ },
+ {
+  "view": "Z10_security_back",
+  "mean_lum": 0.6,
+  "dark_pct": 0.3,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.518,
+   0.506,
+   0.491
+  ]
+ },
+ {
+  "view": "Z11_recovery_in",
+  "mean_lum": 0.597,
+  "dark_pct": 1.4,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.609,
+   0.583,
+   0.541
+  ]
+ },
+ {
+  "view": "Z12_recovery_back",
+  "mean_lum": 0.623,
+  "dark_pct": 1.7,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.617,
+   0.588,
+   0.542
+  ]
+ },
+ {
+  "view": "Z13_concourse_n",
+  "mean_lum": 0.517,
+  "dark_pct": 2.7,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.474,
+   0.465,
+   0.441
+  ]
+ },
+ {
+  "view": "Z14_concourse_s",
+  "mean_lum": 0.492,
+  "dark_pct": 3.8,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.426,
+   0.421,
+   0.4
+  ]
+ },
+ {
+  "view": "Z15_gate07entry",
+  "mean_lum": 0.431,
+  "dark_pct": 2.0,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.434,
+   0.425,
+   0.403
+  ]
+ },
+ {
+  "view": "Z16_gate07_in",
+  "mean_lum": 0.46,
+  "dark_pct": 2.2,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.415,
+   0.415,
+   0.398
+  ]
+ },
+ {
+  "view": "Z17_gate07_back",
+  "mean_lum": 0.503,
+  "dark_pct": 0.7,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.391,
+   0.392,
+   0.374
+  ]
+ },
+ {
+  "view": "Z18_gate08_in",
+  "mean_lum": 0.478,
+  "dark_pct": 1.5,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.489,
+   0.485,
+   0.466
+  ]
+ },
+ {
+  "view": "Z19_gate08_back",
+  "mean_lum": 0.442,
+  "dark_pct": 1.1,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.463,
+   0.467,
+   0.457
+  ]
+ },
+ {
+  "view": "Z20_cafefoyer",
+  "mean_lum": 0.534,
+  "dark_pct": 1.5,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.465,
+   0.458,
+   0.433
+  ]
+ },
+ {
+  "view": "Z21_cafe_in",
+  "mean_lum": 0.529,
+  "dark_pct": 3.4,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.39,
+   0.41,
+   0.405
+  ]
+ },
+ {
+  "view": "Z22_cafe_back",
+  "mean_lum": 0.481,
+  "dark_pct": 1.7,
+  "clipped_pct": 0.2,
+  "ceiling_rgb": [
+   0.337,
+   0.344,
+   0.328
+  ]
+ },
+ {
+  "view": "Z23_gallery",
+  "mean_lum": 0.448,
+  "dark_pct": 1.9,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.461,
+   0.474,
+   0.473
+  ]
+ },
+ {
+  "view": "Z24_gallery_down",
+  "mean_lum": 0.542,
+  "dark_pct": 0.0,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.553,
+   0.545,
+   0.506
+  ]
+ },
+ {
+  "view": "Z25_wc_passage",
+  "mean_lum": 0.557,
+  "dark_pct": 0.5,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.51,
+   0.52,
+   0.501
+  ]
+ },
+ {
+  "view": "Z26_wc_in",
+  "mean_lum": 0.525,
+  "dark_pct": 2.3,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.439,
+   0.422,
+   0.397
+  ]
+ },
+ {
+  "view": "Z27_wc_back",
+  "mean_lum": 0.566,
+  "dark_pct": 0.8,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.409,
+   0.403,
+   0.382
+  ]
+ },
+ {
+  "view": "Z28_operations_in",
+  "mean_lum": 0.475,
+  "dark_pct": 2.5,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.423,
+   0.408,
+   0.377
+  ]
+ },
+ {
+  "view": "Z29_operations_back",
+  "mean_lum": 0.563,
+  "dark_pct": 0.0,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.458,
+   0.451,
+   0.427
+  ]
+ },
+ {
+  "view": "Z30_baggage_service",
+  "mean_lum": 0.456,
+  "dark_pct": 1.5,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.525,
+   0.471,
+   0.394
+  ]
+ },
+ {
+  "view": "Z31_arrivals_in",
+  "mean_lum": 0.484,
+  "dark_pct": 6.7,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.419,
+   0.421,
+   0.409
+  ]
+ },
+ {
+  "view": "Z32_arrivals_back",
+  "mean_lum": 0.583,
+  "dark_pct": 0.1,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.499,
+   0.493,
+   0.466
+  ]
+ },
+ {
+  "view": "Z33_arrivals_exit",
+  "mean_lum": 0.64,
+  "dark_pct": 0.2,
+  "clipped_pct": 0.0,
+  "ceiling_rgb": [
+   0.658,
+   0.62,
+   0.564
+  ]
+ }
+]

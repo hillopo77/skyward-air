@@ -1,0 +1,24 @@
+{
+  "status": "READY",
+  "profile": "Distance27",
+  "phase": "Security",
+  "hint": "None",
+  "viewport": [
+    1920,
+    1080
+  ],
+  "settings": {
+    "r.AntiAliasingMethod": 2.0,
+    "r.ScreenPercentage": 100.0,
+    "r.Tonemapper.Sharpen": 0.0,
+    "r.MotionBlurQuality": 0.0,
+    "r.DepthOfFieldQuality": 0.0,
+    "EnableHighDPIAwareness": 1.0,
+    "r.TemporalAACurrentFrameWeight": 0.44999998807907104,
+    "r.TemporalAASamples": 4.0,
+    "r.TemporalAAFilterSize": 0.6499999761581421
+  },
+  "hud_after_tonemapping": true,
+  "initial_departure_exit": "checkin",
+  "updated": 1793194546.951794
+}

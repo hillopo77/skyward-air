@@ -1,0 +1,608 @@
+{
+ "status": "SUCCESS",
+ "items": [
+  {
+   "asset": "SM_AP_P66Mug",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Loose66Build\\SM_AP_P66Mug.fbx",
+   "materials": [
+    "MI_AP_P27Walnut",
+    "MI_AP_P34Cream"
+   ],
+   "kg": 0.35,
+   "polygons": 325,
+   "dims": [
+    0.11,
+    0.084,
+    0.092
+   ]
+  },
+  {
+   "asset": "SM_AP_P66MugTeal",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Loose66Build\\SM_AP_P66MugTeal.fbx",
+   "materials": [
+    "MI_AP_P27Walnut",
+    "MI_AP_P27Teal"
+   ],
+   "kg": 0.35,
+   "polygons": 325,
+   "dims": [
+    0.11,
+    0.084,
+    0.092
+   ]
+  },
+  {
+   "asset": "SM_AP_P66TakeawayCup",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Loose66Build\\SM_AP_P66TakeawayCup.fbx",
+   "materials": [
+    "MI_AP_P36Black",
+    "MI_AP_P34Cream",
+    "MI_AP_P36Sand"
+   ],
+   "kg": 0.3,
+   "polygons": 276,
+   "dims": [
+    0.082,
+    0.082,
+    0.137
+   ]
+  },
+  {
+   "asset": "SM_AP_P66BookNavy",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Loose66Build\\SM_AP_P66BookNavy.fbx",
+   "materials": [
+    "MI_AP_P38ANavy",
+    "MI_AP_P38AGold",
+    "MI_AP_P34Cream"
+   ],
+   "kg": 0.6,
+   "polygons": 162,
+   "dims": [
+    0.162,
+    0.235,
+    0.033
+   ]
+  },
+  {
+   "asset": "SM_AP_P66BookClay",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Loose66Build\\SM_AP_P66BookClay.fbx",
+   "materials": [
+    "MI_AP_P38AGold",
+    "MI_AP_P36Terracotta",
+    "MI_AP_P34Cream"
+   ],
+   "kg": 0.5,
+   "polygons": 162,
+   "dims": [
+    0.152,
+    0.22,
+    0.027
+   ]
+  },
+  {
+   "asset": "SM_AP_P66BookSage",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Loose66Build\\SM_AP_P66BookSage.fbx",
+   "materials": [
+    "MI_AP_P38AGold",
+    "MI_AP_P34Cream",
+    "MI_AP_P38ASage"
+   ],
+   "kg": 0.7,
+   "polygons": 162,
+   "dims": [
+    0.172,
+    0.24,
+    0.041
+   ]
+  },
+  {
+   "asset": "SM_AP_P66Magazine",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Loose66Build\\SM_AP_P66Magazine.fbx",
+   "materials": [
+    "MI_AP_P27Teal",
+    "MI_AP_P34Cream",
+    "MI_AP_P38AText"
+   ],
+   "kg": 0.25,
+   "polygons": 162,
+   "dims": [
+    0.21,
+    0.28,
+    0.009
+   ]
+  },
+  {
+   "asset": "SM_AP_P66MagazineGold",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Loose66Build\\SM_AP_P66MagazineGold.fbx",
+   "materials": [
+    "MI_AP_P38AGold",
+    "MI_AP_P34Cream",
+    "MI_AP_P38AText"
+   ],
+   "kg": 0.25,
+   "polygons": 162,
+   "dims": [
+    0.21,
+    0.28,
+    0.009
+   ]
+  },
+  {
+   "asset": "SM_AP_P66Cushion",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Loose66Build\\SM_AP_P66Cushion.fbx",
+   "materials": [
+    "MI_AP_P36Sand"
+   ],
+   "kg": 0.5,
+   "polygons": 600,
+   "dims": [
+    0.42,
+    0.42,
+    0.16
+   ]
+  },
+  {
+   "asset": "SM_AP_P66CushionGold",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Loose66Build\\SM_AP_P66CushionGold.fbx",
+   "materials": [
+    "MI_AP_P38AGold"
+   ],
+   "kg": 0.5,
+   "polygons": 600,
+   "dims": [
+    0.42,
+    0.42,
+    0.16
+   ]
+  },
+  {
+   "asset": "SM_AP_P66CushionTeal",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Loose66Build\\SM_AP_P66CushionTeal.fbx",
+   "materials": [
+    "MI_AP_P27Teal"
+   ],
+   "kg": 0.5,
+   "polygons": 600,
+   "dims": [
+    0.42,
+    0.42,
+    0.16
+   ]
+  },
+  {
+   "asset": "SM_AP_P66Plant",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Loose66Build\\SM_AP_P66Plant.fbx",
+   "materials": [
+    "MI_AP_P27Walnut",
+    "MI_AP_P36Terracotta",
+    "MI_AP_Leaf",
+    "MI_AP_LightLeaf"
+   ],
+   "kg": 1.6,
+   "polygons": 451,
+   "dims": [
+    0.254,
+    0.262,
+    0.388
+   ]
+  },
+  {
+   "asset": "SM_AP_P66ToyPlane",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Loose66Build\\SM_AP_P66ToyPlane.fbx",
+   "materials": [
+    "MI_AP_P27Teal",
+    "MI_AP_P38ANavy",
+    "MI_AP_P36Black",
+    "MI_AP_P36Terracotta",
+    "MI_AP_P34Cream"
+   ],
+   "kg": 0.8,
+   "polygons": 482,
+   "dims": [
+    0.522,
+    0.56,
+    0.165
+   ]
+  },
+  {
+   "asset": "SM_AP_P66Ball",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Loose66Build\\SM_AP_P66Ball.fbx",
+   "materials": [
+    "MI_AP_P36Terracotta"
+   ],
+   "kg": 0.3,
+   "polygons": 320,
+   "dims": [
+    0.2,
+    0.2,
+    0.2
+   ]
+  },
+  {
+   "asset": "SM_AP_P66BallTeal",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Loose66Build\\SM_AP_P66BallTeal.fbx",
+   "materials": [
+    "MI_AP_P27Teal"
+   ],
+   "kg": 0.3,
+   "polygons": 320,
+   "dims": [
+    0.2,
+    0.2,
+    0.2
+   ]
+  },
+  {
+   "asset": "SM_AP_P66Toolbox",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Loose66Build\\SM_AP_P66Toolbox.fbx",
+   "materials": [
+    "MI_AP_P27Steel",
+    "MI_AP_P36Black",
+    "MI_AP_P36Terracotta"
+   ],
+   "kg": 6.0,
+   "polygons": 324,
+   "dims": [
+    0.5,
+    0.225,
+    0.26
+   ]
+  },
+  {
+   "asset": "SM_AP_P66Hammer",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Loose66Build\\SM_AP_P66Hammer.fbx",
+   "materials": [
+    "MI_AP_P43TOak",
+    "MI_AP_P27Steel",
+    "MI_AP_P36Black"
+   ],
+   "kg": 0.7,
+   "polygons": 216,
+   "dims": [
+    0.351,
+    0.145,
+    0.045
+   ]
+  },
+  {
+   "asset": "SM_AP_P66Mallet",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Loose66Build\\SM_AP_P66Mallet.fbx",
+   "materials": [
+    "MI_AP_P43TOak",
+    "MI_AP_P36Black"
+   ],
+   "kg": 0.6,
+   "polygons": 136,
+   "dims": [
+    0.34,
+    0.13,
+    0.08
+   ]
+  },
+  {
+   "asset": "SM_AP_P66WetSign",
+   "fbx": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass51\\Loose66Build\\SM_AP_P66WetSign.fbx",
+   "materials": [
+    "MI_AP_P36Black",
+    "MI_AP_P38AGold"
+   ],
+   "kg": 1.2,
+   "polygons": 62,
+   "dims": [
+    0.3,
+    0.31,
+    0.625
+   ]
+  }
+ ],
+ "placements": [
+  [
+   "SM_AP_P66TakeawayCup",
+   -40.0,
+   33.5,
+   1.065,
+   -21.5
+  ],
+  [
+   "SM_AP_P66Mug",
+   -38.75,
+   33.5,
+   1.065,
+   -3.3
+  ],
+  [
+   "SM_AP_P66Magazine",
+   -37.9,
+   33.5,
+   1.065,
+   -12.7
+  ],
+  [
+   "SM_AP_P66MugTeal",
+   -36.3,
+   33.5,
+   1.065,
+   -2.7
+  ],
+  [
+   "SM_AP_P66TakeawayCup",
+   -34.9,
+   33.5,
+   1.065,
+   -12.2
+  ],
+  [
+   "SM_AP_P66Mug",
+   -33.2,
+   17.6,
+   0.755,
+   30
+  ],
+  [
+   "SM_AP_P66BookClay",
+   -33.0,
+   17.85,
+   0.755,
+   75
+  ],
+  [
+   "SM_AP_P66TakeawayCup",
+   -33.1,
+   19.95,
+   0.755,
+   0
+  ],
+  [
+   "SM_AP_P66MugTeal",
+   -33.25,
+   19.75,
+   0.755,
+   140
+  ],
+  [
+   "SM_AP_P66CushionGold",
+   -32.3,
+   18.9,
+   0.51,
+   0
+  ],
+  [
+   "SM_AP_P66Cushion",
+   -32.3,
+   22.6,
+   0.51,
+   0
+  ],
+  [
+   "SM_AP_P66CushionTeal",
+   -32.3,
+   28.2,
+   0.51,
+   0
+  ],
+  [
+   "SM_AP_P66BookNavy",
+   -32.35,
+   24.0,
+   0.51,
+   10
+  ],
+  [
+   "SM_AP_P66MagazineGold",
+   -45.6,
+   27.1,
+   0.42,
+   20
+  ],
+  [
+   "SM_AP_P66BookSage",
+   -45.0,
+   27.45,
+   0.42,
+   -70
+  ],
+  [
+   "SM_AP_P66Mug",
+   -45.85,
+   27.5,
+   0.42,
+   0
+  ],
+  [
+   "SM_AP_P66Plant",
+   -47.75,
+   27.3,
+   0.535,
+   0
+  ],
+  [
+   "SM_AP_P66CushionGold",
+   -43.0,
+   26.6,
+   0.55,
+   0
+  ],
+  [
+   "SM_AP_P66CushionTeal",
+   -43.0,
+   28.0,
+   0.55,
+   0
+  ],
+  [
+   "SM_AP_P66TakeawayCup",
+   -48.55,
+   27.9,
+   4.215,
+   0
+  ],
+  [
+   "SM_AP_P66Mug",
+   -48.6,
+   29.6,
+   4.215,
+   50
+  ],
+  [
+   "SM_AP_P66BookNavy",
+   -43.6,
+   28.2,
+   3.59,
+   15
+  ],
+  [
+   "SM_AP_P66MugTeal",
+   -43.2,
+   28.7,
+   3.59,
+   0
+  ],
+  [
+   "SM_AP_P66Mug",
+   -24.45,
+   22.4,
+   1.065,
+   0
+  ],
+  [
+   "SM_AP_P66TakeawayCup",
+   -24.4,
+   24.9,
+   1.065,
+   0
+  ],
+  [
+   "SM_AP_P66Magazine",
+   -24.45,
+   26.4,
+   1.065,
+   85
+  ],
+  [
+   "SM_AP_P66MugTeal",
+   -24.4,
+   28.3,
+   1.065,
+   0
+  ],
+  [
+   "SM_AP_P66CushionTeal",
+   -29.75,
+   26.1,
+   0.62,
+   0
+  ],
+  [
+   "SM_AP_P66CushionGold",
+   -29.75,
+   31.0,
+   0.62,
+   0
+  ],
+  [
+   "SM_AP_P66Cushion",
+   -30.65,
+   27.2,
+   1.07,
+   0
+  ],
+  [
+   "SM_AP_P66CushionGold",
+   -31.55,
+   28.9,
+   1.52,
+   0
+  ],
+  [
+   "SM_AP_P66BookClay",
+   -29.6,
+   28.7,
+   0.62,
+   30
+  ],
+  [
+   "SM_AP_P66BookSage",
+   -27.4,
+   30.6,
+   0.535,
+   40
+  ],
+  [
+   "SM_AP_P66ToyPlane",
+   -26.9,
+   32.6,
+   0.02,
+   200
+  ],
+  [
+   "SM_AP_P66Ball",
+   -25.8,
+   33.1,
+   0.02,
+   0
+  ],
+  [
+   "SM_AP_P66BallTeal",
+   -26.2,
+   32.2,
+   0.02,
+   0
+  ],
+  [
+   "SM_AP_P66TakeawayCup",
+   -19.669,
+   7.061,
+   0.535,
+   0
+  ],
+  [
+   "SM_AP_P66Magazine",
+   -19.809,
+   7.101,
+   0.535,
+   25
+  ],
+  [
+   "SM_AP_P66Mug",
+   -16.75,
+   7.85,
+   0.535,
+   0
+  ],
+  [
+   "SM_AP_P66Plant",
+   -16.73,
+   8.02,
+   0.535,
+   0
+  ],
+  [
+   "SM_AP_P66Toolbox",
+   -26.75,
+   6.4,
+   0,
+   90
+  ],
+  [
+   "SM_AP_P66Hammer",
+   -26.95,
+   7.05,
+   0,
+   35
+  ],
+  [
+   "SM_AP_P66Mallet",
+   -26.6,
+   7.3,
+   0,
+   160
+  ],
+  [
+   "SM_AP_P66WetSign",
+   -27.6,
+   5.6,
+   0,
+   20
+  ]
+ ]
+}

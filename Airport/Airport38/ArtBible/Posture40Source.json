@@ -1,0 +1,1379 @@
+{
+  "status": "SUCCESS",
+  "passes": [
+    {
+      "module": "SourceAssets/character_integration39.py",
+      "result": {
+        "luxury": {
+          "changed": true,
+          "asset": "SM_Plane_LuxurySeat",
+          "derived": "SM_Plane_LuxurySeat_Ergonomic39",
+          "upper_module_drop_m": 0.08,
+          "stowed_calf_panel_recess_m": 0.065,
+          "floor_datum_preserved_m": 0.155,
+          "compressed_support_interval_m": [
+            0.155,
+            0.41
+          ],
+          "objects": [
+            {
+              "name": "Suite chair formed lower chassis11",
+              "vertices": 152,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite chair wrap rear shell11",
+              "vertices": 866,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite deep plum seat cushion11",
+              "vertices": 866,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite deep plum seat cushion11 recessed double stitch",
+              "vertices": 768,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite sculpted lumbar support11",
+              "vertices": 866,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite sculpted lumbar support11 recessed double stitch",
+              "vertices": 768,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite tailored upper back11",
+              "vertices": 866,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite tailored upper back11 recessed double stitch",
+              "vertices": 768,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite wrap headrest11",
+              "vertices": 866,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite wrap headrest11 recessed double stitch",
+              "vertices": 768,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite upholstered headrest wing11",
+              "vertices": 866,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite upholstered headrest wing11 recessed double stitch",
+              "vertices": 768,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite integrated arm carrier11",
+              "vertices": 152,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite leather elbow pad11",
+              "vertices": 866,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Seat rail extruded channel11",
+              "vertices": 152,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Seat rail recessed floor anchor11",
+              "vertices": 400,
+              "method": "rigid hardware translation; circular cross-sections retained"
+            },
+            {
+              "name": "Seat rail hex-head fixing11",
+              "vertices": 228,
+              "method": "rigid hardware translation; circular cross-sections retained"
+            },
+            {
+              "name": "Seat rail recessed floor anchor11.001",
+              "vertices": 400,
+              "method": "rigid hardware translation; circular cross-sections retained"
+            },
+            {
+              "name": "Seat rail hex-head fixing11.001",
+              "vertices": 228,
+              "method": "rigid hardware translation; circular cross-sections retained"
+            },
+            {
+              "name": "Visible recline support link11",
+              "vertices": 400,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Recline link retained bearing11",
+              "vertices": 400,
+              "method": "rigid hardware translation; circular cross-sections retained"
+            },
+            {
+              "name": "Suite upholstered headrest wing11.001",
+              "vertices": 866,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite upholstered headrest wing11 recessed double stitch.001",
+              "vertices": 768,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite integrated arm carrier11.001",
+              "vertices": 152,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite leather elbow pad11.001",
+              "vertices": 866,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Seat rail extruded channel11.001",
+              "vertices": 152,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Seat rail recessed floor anchor11.002",
+              "vertices": 400,
+              "method": "rigid hardware translation; circular cross-sections retained"
+            },
+            {
+              "name": "Seat rail hex-head fixing11.002",
+              "vertices": 228,
+              "method": "rigid hardware translation; circular cross-sections retained"
+            },
+            {
+              "name": "Seat rail recessed floor anchor11.003",
+              "vertices": 400,
+              "method": "rigid hardware translation; circular cross-sections retained"
+            },
+            {
+              "name": "Seat rail hex-head fixing11.003",
+              "vertices": 228,
+              "method": "rigid hardware translation; circular cross-sections retained"
+            },
+            {
+              "name": "Visible recline support link11.001",
+              "vertices": 400,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Recline link retained bearing11.001",
+              "vertices": 400,
+              "method": "rigid hardware translation; circular cross-sections retained"
+            },
+            {
+              "name": "Supported stowed calf panel11",
+              "vertices": 866,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Supported stowed calf panel11 recessed double stitch",
+              "vertices": 768,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Supported personal accent pillow11",
+              "vertices": 866,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Supported personal accent pillow11 recessed double stitch",
+              "vertices": 768,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite surface fitted woven restraint12",
+              "vertices": 108,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite surface fitted woven restraint12 sewn selvage",
+              "vertices": 162,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite surface fitted woven restraint12 sewn selvage.001",
+              "vertices": 162,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite surface fitted woven restraint12.001",
+              "vertices": 108,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite surface fitted woven restraint12 sewn selvage.002",
+              "vertices": 162,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite surface fitted woven restraint12 sewn selvage.003",
+              "vertices": 162,
+              "method": "shared monotone support-height map; 80mm upper drop"
+            },
+            {
+              "name": "Suite buckle genuinely open tongue frame12",
+              "vertices": 192,
+              "method": "rigid hardware translation; circular cross-sections retained"
+            },
+            {
+              "name": "Suite buckle retained hinge pin12",
+              "vertices": 400,
+              "method": "rigid hardware translation; circular cross-sections retained"
+            }
+          ],
+          "seat_eye_annotation_delta_m": -0.08,
+          "belt_ownership": "Belt webbing, buckles, tips and selvage are inside SM_Plane_LuxurySeat and receive the same 80mm module drop.",
+          "export_families": [
+            "SM_Plane_LuxurySeat_Ergonomic39"
+          ],
+          "placed_instances": [],
+          "source_instances": 4,
+          "local_lap_anchor_m": [
+            0,
+            -0.2,
+            0.64
+          ],
+          "runtime_note": "Apply -0.080m to seated luxury eye/interaction annotations only when these annotations refer to original physical chair support height. Existing Character39 hip pose already includes the furniture correction, so do not translate the avatar actor."
+        },
+        "chairs": {
+          "status": "SOURCE_CORRECTED_REQUIRES_NATIVE_FIT",
+          "families": [
+            {
+              "source": "SM_AP_Bench27",
+              "asset": "SM_AP_Bench27_CharacterFit39.001",
+              "parts": 36,
+              "preserved_floor_vertices": 1184,
+              "upper_negative_depth_factor": 0.45,
+              "upper_positive_depth_factor": 0.6,
+              "unchanged": [
+                "actor world placement",
+                "all vertex X values",
+                "central sitting height",
+                "back/arm heights",
+                "arm width",
+                "floor-contact vertices"
+              ],
+              "front_waterfall_maximum_drop_m": 0.072,
+              "transformation": "coherent depth map blended z.14.. .35 plus local smooth front waterfall; no character or shin scaling"
+            },
+            {
+              "source": "SM_AP_Bench29",
+              "asset": "SM_AP_Bench29_CharacterFit39.001",
+              "parts": 36,
+              "preserved_floor_vertices": 1184,
+              "upper_negative_depth_factor": 0.45,
+              "upper_positive_depth_factor": 0.6,
+              "unchanged": [
+                "actor world placement",
+                "all vertex X values",
+                "central sitting height",
+                "back/arm heights",
+                "arm width",
+                "floor-contact vertices"
+              ],
+              "front_waterfall_maximum_drop_m": 0.072,
+              "transformation": "coherent depth map blended z.14.. .35 plus local smooth front waterfall; no character or shin scaling"
+            },
+            {
+              "source": "SM_AP_Bench34",
+              "asset": "SM_AP_Bench34_CharacterFit39.001",
+              "parts": 46,
+              "preserved_floor_vertices": 2424,
+              "upper_negative_depth_factor": 0.45,
+              "upper_positive_depth_factor": 0.6,
+              "unchanged": [
+                "actor world placement",
+                "all vertex X values",
+                "central sitting height",
+                "back/arm heights",
+                "arm width",
+                "floor-contact vertices"
+              ],
+              "front_waterfall_maximum_drop_m": 0.072,
+              "transformation": "coherent depth map blended z.14.. .35 plus local smooth front waterfall; no character or shin scaling"
+            },
+            {
+              "source": "SM_AP_CafeChair34",
+              "asset": "SM_AP_CafeChair34_CharacterFit39.001",
+              "parts": 14,
+              "preserved_floor_vertices": 304,
+              "upper_negative_depth_factor": 0.45,
+              "upper_positive_depth_factor": 0.6,
+              "unchanged": [
+                "actor world placement",
+                "all vertex X values",
+                "central sitting height",
+                "back/arm heights",
+                "arm width",
+                "floor-contact vertices"
+              ],
+              "front_waterfall_maximum_drop_m": 0.072,
+              "transformation": "coherent depth map blended z.14.. .35 plus local smooth front waterfall; no character or shin scaling"
+            }
+          ],
+          "instances": [],
+          "character_pose_authority": "Revision39/ArtBible/ChairFit39.json",
+          "source_policy": "clone whichever current source collection root supplied, preserving current floor repairs"
+        },
+        "rigs": {
+          "status": "SOURCE_RIGS_PLACED",
+          "master": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Characters\\Revision39\\Characters39.blend",
+          "retired": [
+            "RETIRED39 CH12 Additional waiting passenger 0.001",
+            "RETIRED39 CH12 Additional waiting passenger 1.001",
+            "RETIRED39 CH12 Additional waiting passenger 2.001",
+            "RETIRED39 CH12 Additional waiting passenger 3.001",
+            "RETIRED39 CH12 Additional waiting passenger 4.001",
+            "RETIRED39 CH12 Additional waiting passenger 5.001",
+            "RETIRED39 CH12 Additional waiting passenger 6.001",
+            "RETIRED39 CH12 Additional waiting passenger 7.001",
+            "RETIRED39 CH12 Arrivals passenger 0.001",
+            "RETIRED39 CH12 Arrivals passenger 1.001",
+            "RETIRED39 CH12 Business passenger.001",
+            "RETIRED39 CH12 Cabin passenger 0.001",
+            "RETIRED39 CH12 Cabin passenger 1.001",
+            "RETIRED39 CH12 Cabin passenger 2.001",
+            "RETIRED39 CH12 Cabin passenger 3.001",
+            "RETIRED39 CH12 Cabin passenger 4.001",
+            "RETIRED39 CH12 Cabin passenger 5.001",
+            "RETIRED39 CH12 Caf\u00e9 barista.001",
+            "RETIRED39 CH12 Caf\u00e9 passenger 0.001",
+            "RETIRED39 CH12 Caf\u00e9 passenger 1.001",
+            "RETIRED39 CH12 Forecourt traveller.001",
+            "RETIRED39 CH12 Gallery passenger 0.001",
+            "RETIRED39 CH12 Gallery passenger 1.001",
+            "RETIRED39 CH12 Gate pilot.001",
+            "RETIRED39 CH12 Gate traveller.001",
+            "RETIRED39 CH12 Information host.001",
+            "RETIRED39 CH12 Player avatar.001",
+            "RETIRED39 CH12 Queue passenger 0.001",
+            "RETIRED39 CH12 Queue passenger 1.001",
+            "RETIRED39 CH12 Queue passenger 3.001",
+            "RETIRED39 CH12 Queue passenger 4.001",
+            "RETIRED39 CH12 Queue passenger 6.001",
+            "RETIRED39 CH12 Security greeter.001",
+            "RETIRED39 CH12 Security pilot.001",
+            "RETIRED39 CH12 Waiting passenger 0.001",
+            "RETIRED39 CH12 Waiting passenger 1.001",
+            "RETIRED39 CH12 Waiting passenger 2.001",
+            "RETIRED39 CH12 Waiting passenger 3.001",
+            "RETIRED39 CH12 Waiting passenger 4.001",
+            "RETIRED39 CH12 Waiting passenger 5.001",
+            "RETIRED39 CH12 Waiting passenger 6.001",
+            "RETIRED39 CH12 Waiting passenger 7.001"
+          ],
+          "created": [
+            {
+              "actor": "CH12 Queue passenger 0",
+              "collection": "CHAR39_PassengerTourist_Idle.002",
+              "location": [
+                -38.4,
+                -9.9,
+                0
+              ],
+              "rotation_degrees": 180
+            },
+            {
+              "actor": "CH12 Queue passenger 1",
+              "collection": "CHAR39_PassengerCrew_Idle.002",
+              "location": [
+                -29.15,
+                -11.6,
+                0
+              ],
+              "rotation_degrees": -90
+            },
+            {
+              "actor": "CH12 Queue passenger 3",
+              "collection": "CHAR39_PassengerSenior_Idle.002",
+              "location": [
+                -35.7,
+                -13,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Queue passenger 4",
+              "collection": "CHAR39_PassengerHoodie_Idle.002",
+              "location": [
+                -29.15,
+                -14.6,
+                0
+              ],
+              "rotation_degrees": -90
+            },
+            {
+              "actor": "CH12 Queue passenger 6",
+              "collection": "CHAR39_PassengerCrew_Idle.002",
+              "location": [
+                -34.2,
+                -13,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Security pilot",
+              "collection": "CHAR39_SecurityGuard_Idle.002",
+              "location": [
+                -47.0,
+                7.6,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Gate pilot",
+              "collection": "CHAR39_PlayerYellow_Idle.002",
+              "location": [
+                -16.25,
+                -1.15,
+                0
+              ],
+              "rotation_degrees": -90
+            },
+            {
+              "actor": "CH12 Caf\u00e9 barista",
+              "collection": "CHAR39_PassengerCrew_Idle.002",
+              "location": [
+                -44,
+                32.3,
+                0
+              ],
+              "rotation_degrees": 0
+            },
+            {
+              "actor": "CH12 Information host",
+              "collection": "CHAR39_PlayerBlue_Idle.002",
+              "location": [
+                -47.4,
+                -9.4,
+                0
+              ],
+              "rotation_degrees": -15
+            },
+            {
+              "actor": "CH12 Waiting passenger 0",
+              "collection": "CHAR39_PassengerTourist_Seated.002",
+              "location": [
+                -21.7,
+                6.46,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Waiting passenger 1",
+              "collection": "CHAR39_PassengerCrew_Seated.002",
+              "location": [
+                -21.7,
+                7.2,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Waiting passenger 2",
+              "collection": "CHAR39_PassengerCrew_Seated.002",
+              "location": [
+                -21.7,
+                7.94,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Waiting passenger 3",
+              "collection": "CHAR39_PassengerSenior_Seated.002",
+              "location": [
+                -15.45,
+                8.14,
+                0
+              ],
+              "rotation_degrees": -90
+            },
+            {
+              "actor": "CH12 Waiting passenger 4",
+              "collection": "CHAR39_PassengerHoodie_Seated.002",
+              "location": [
+                -15.45,
+                7.4,
+                0
+              ],
+              "rotation_degrees": -90
+            },
+            {
+              "actor": "CH12 Waiting passenger 5",
+              "collection": "CHAR39_PassengerTourist_Seated.002",
+              "location": [
+                -15.45,
+                6.66,
+                0
+              ],
+              "rotation_degrees": -90
+            },
+            {
+              "actor": "CH12 Waiting passenger 6",
+              "collection": "CHAR39_PassengerCrew_Seated.002",
+              "location": [
+                -30.6,
+                23.26,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Waiting passenger 7",
+              "collection": "CHAR39_PassengerCrew_Seated.002",
+              "location": [
+                -30.6,
+                24.0,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Caf\u00e9 passenger 0",
+              "collection": "CHAR39_PassengerCrew_CafeSeated.002",
+              "location": [
+                -38.5,
+                22.35,
+                0
+              ],
+              "rotation_degrees": 0
+            },
+            {
+              "actor": "CH12 Caf\u00e9 passenger 1",
+              "collection": "CHAR39_PassengerSenior_CafeSeated.002",
+              "location": [
+                -34.5,
+                23.650000000000002,
+                0
+              ],
+              "rotation_degrees": 0
+            },
+            {
+              "actor": "CH12 Gallery passenger 0",
+              "collection": "CHAR39_PassengerSenior_Seated.002",
+              "location": [
+                -46.8,
+                31.2,
+                3.15
+              ],
+              "rotation_degrees": 0
+            },
+            {
+              "actor": "CH12 Gallery passenger 1",
+              "collection": "CHAR39_PassengerHoodie_Seated.002",
+              "location": [
+                -42.3,
+                28.8,
+                3.15
+              ],
+              "rotation_degrees": -90
+            },
+            {
+              "actor": "CH12 Cabin passenger 0",
+              "collection": "CHAR39_PassengerTourist_CabinSeated.002",
+              "location": [
+                14.131999969482422,
+                14.175000190734863,
+                0.0
+              ],
+              "rotation_degrees": 0.0
+            },
+            {
+              "actor": "CH12 Cabin passenger 1",
+              "collection": "CHAR39_PassengerCrew_CabinSeated.002",
+              "location": [
+                17.868000030517578,
+                15.524999618530273,
+                0.0
+              ],
+              "rotation_degrees": 0.0
+            },
+            {
+              "actor": "CH12 Cabin passenger 2",
+              "collection": "CHAR39_PassengerCrew_CabinSeated.002",
+              "location": [
+                14.131999969482422,
+                18.225000381469727,
+                0.0
+              ],
+              "rotation_degrees": 0.0
+            },
+            {
+              "actor": "CH12 Cabin passenger 3",
+              "collection": "CHAR39_PassengerSenior_CabinSeated.002",
+              "location": [
+                17.868000030517578,
+                19.575000762939453,
+                0.0
+              ],
+              "rotation_degrees": 0.0
+            },
+            {
+              "actor": "CH12 Cabin passenger 4",
+              "collection": "CHAR39_PassengerHoodie_CabinSeated.002",
+              "location": [
+                14.131999969482422,
+                22.274999618530273,
+                0.0
+              ],
+              "rotation_degrees": 0.0
+            },
+            {
+              "actor": "CH12 Cabin passenger 5",
+              "collection": "CHAR39_PassengerTourist_CabinSeated.002",
+              "location": [
+                17.868000030517578,
+                23.625,
+                0.0
+              ],
+              "rotation_degrees": 0.0
+            },
+            {
+              "actor": "CH12 Business passenger",
+              "collection": "CHAR39_PassengerCrew_LuxurySeated.002",
+              "location": [
+                14.480000019073486,
+                7.800000190734863,
+                0.0
+              ],
+              "rotation_degrees": 0.0
+            },
+            {
+              "actor": "CH12 Additional waiting passenger 0",
+              "collection": "CHAR39_PassengerCrew_Seated.002",
+              "location": [
+                -30.6,
+                24.74,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Additional waiting passenger 1",
+              "collection": "CHAR39_PassengerCrew_Seated.002",
+              "location": [
+                -30.6,
+                28.26,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Additional waiting passenger 2",
+              "collection": "CHAR39_PassengerSenior_Seated.002",
+              "location": [
+                -30.6,
+                29.0,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Additional waiting passenger 3",
+              "collection": "CHAR39_PassengerHoodie_Seated.002",
+              "location": [
+                -30.6,
+                29.74,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Additional waiting passenger 4",
+              "collection": "CHAR39_PassengerTourist_Seated.002",
+              "location": [
+                -28.439999999999998,
+                32.2,
+                0
+              ],
+              "rotation_degrees": 0
+            },
+            {
+              "actor": "CH12 Additional waiting passenger 5",
+              "collection": "CHAR39_PassengerCrew_Seated.002",
+              "location": [
+                -27.7,
+                32.2,
+                0
+              ],
+              "rotation_degrees": 0
+            },
+            {
+              "actor": "CH12 Additional waiting passenger 6",
+              "collection": "CHAR39_PassengerCrew_CafeSeated.002",
+              "location": [
+                -38.5,
+                27.15,
+                0
+              ],
+              "rotation_degrees": 180
+            },
+            {
+              "actor": "CH12 Additional waiting passenger 7",
+              "collection": "CHAR39_PassengerSenior_CafeSeated.002",
+              "location": [
+                -34.5,
+                29.15,
+                0
+              ],
+              "rotation_degrees": 180
+            },
+            {
+              "actor": "CH12 Arrivals passenger 0",
+              "collection": "CHAR39_PassengerCrew_Idle.002",
+              "location": [
+                -16,
+                -14,
+                0
+              ],
+              "rotation_degrees": 0
+            },
+            {
+              "actor": "CH12 Arrivals passenger 1",
+              "collection": "CHAR39_PassengerSenior_Idle.002",
+              "location": [
+                -15.5,
+                -16.0,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Gate traveller",
+              "collection": "CHAR39_PassengerHoodie_Walk.002",
+              "location": [
+                -27.4,
+                10,
+                0
+              ],
+              "rotation_degrees": 0
+            },
+            {
+              "actor": "CH12 Forecourt traveller",
+              "collection": "CHAR39_PassengerTourist_Walk.002",
+              "location": [
+                -53.7,
+                -18,
+                0
+              ],
+              "rotation_degrees": 180
+            },
+            {
+              "actor": "CH12 Player avatar",
+              "collection": "CHAR39_PlayerBlue_Idle.002",
+              "location": [
+                -53,
+                -12.5,
+                0
+              ],
+              "rotation_degrees": 90
+            },
+            {
+              "actor": "CH12 Security greeter",
+              "collection": "CHAR39_SecurityGuard_Idle.002",
+              "location": [
+                -47.0,
+                -0.4,
+                0
+              ],
+              "rotation_degrees": 45
+            }
+          ],
+          "alignment": {
+            "changes": [
+              {
+                "actor": "CH12 Waiting passenger 0",
+                "before": [
+                  -21.7,
+                  6.46,
+                  0
+                ],
+                "after": [
+                  -21.7,
+                  6.46,
+                  0
+                ],
+                "rotation": 90,
+                "chair": "A07 lounge bench24 0 slot 0",
+                "asset": "SM_AP_Bench34_CharacterFit39",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Waiting passenger 1",
+                "before": [
+                  -21.7,
+                  7.2,
+                  0
+                ],
+                "after": [
+                  -21.7,
+                  7.2,
+                  0
+                ],
+                "rotation": 90,
+                "chair": "A07 lounge bench24 0 slot 1",
+                "asset": "SM_AP_Bench34_CharacterFit39",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Waiting passenger 2",
+                "before": [
+                  -21.7,
+                  7.94,
+                  0
+                ],
+                "after": [
+                  -21.7,
+                  7.94,
+                  0
+                ],
+                "rotation": 90,
+                "chair": "A07 lounge bench24 0 slot 2",
+                "asset": "SM_AP_Bench34_CharacterFit39",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Waiting passenger 3",
+                "before": [
+                  -15.45,
+                  8.14,
+                  0
+                ],
+                "after": [
+                  -15.45,
+                  8.14,
+                  0
+                ],
+                "rotation": -90,
+                "chair": "A07 lounge bench24 1 slot 0",
+                "asset": "SM_AP_Bench34_CharacterFit39",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Waiting passenger 4",
+                "before": [
+                  -15.45,
+                  7.4,
+                  0
+                ],
+                "after": [
+                  -15.45,
+                  7.4,
+                  0
+                ],
+                "rotation": -90,
+                "chair": "A07 lounge bench24 1 slot 1",
+                "asset": "SM_AP_Bench34_CharacterFit39",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Waiting passenger 5",
+                "before": [
+                  -15.45,
+                  6.66,
+                  0
+                ],
+                "after": [
+                  -15.45,
+                  6.66,
+                  0
+                ],
+                "rotation": -90,
+                "chair": "A07 lounge bench24 1 slot 2",
+                "asset": "SM_AP_Bench34_CharacterFit39",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Waiting passenger 6",
+                "before": [
+                  -30.6,
+                  23.26,
+                  0
+                ],
+                "after": [
+                  -30.6,
+                  23.26,
+                  0
+                ],
+                "rotation": 90,
+                "chair": "A08 lounge bench24 0 slot 0",
+                "asset": "SM_AP_Bench34_CharacterFit39",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Waiting passenger 7",
+                "before": [
+                  -30.6,
+                  24.0,
+                  0
+                ],
+                "after": [
+                  -30.6,
+                  24.0,
+                  0
+                ],
+                "rotation": 90,
+                "chair": "A08 lounge bench24 0 slot 1",
+                "asset": "SM_AP_Bench34_CharacterFit39",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Caf\u00e9 passenger 0",
+                "before": [
+                  -38.5,
+                  22.35,
+                  0
+                ],
+                "after": [
+                  -38.5,
+                  22.35,
+                  0
+                ],
+                "rotation": 0,
+                "chair": "CafeChair24_1784 slot 0",
+                "asset": "SM_AP_CafeChair34_CharacterFit39",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Caf\u00e9 passenger 1",
+                "before": [
+                  -34.5,
+                  23.650000000000002,
+                  0
+                ],
+                "after": [
+                  -34.5,
+                  23.650000000000002,
+                  0
+                ],
+                "rotation": 0,
+                "chair": "CafeChair24_1787 slot 0",
+                "asset": "SM_AP_CafeChair34_CharacterFit39",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Gallery passenger 0",
+                "before": [
+                  -46.8,
+                  31.2,
+                  3.15
+                ],
+                "after": [
+                  -46.8,
+                  31.2,
+                  3.15
+                ],
+                "rotation": 0,
+                "chair": "Gallery bench24 0 slot 1",
+                "asset": "SM_AP_Bench34_CharacterFit39",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Gallery passenger 1",
+                "before": [
+                  -42.3,
+                  28.8,
+                  3.15
+                ],
+                "after": [
+                  -42.3,
+                  28.8,
+                  3.15
+                ],
+                "rotation": -90,
+                "chair": "Gallery bench24 1 slot 1",
+                "asset": "SM_AP_Bench34_CharacterFit39",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Cabin passenger 0",
+                "before": [
+                  14.131999969482422,
+                  14.175000190734863,
+                  0.0
+                ],
+                "after": [
+                  14.131999969482422,
+                  14.175000190734863,
+                  0.0
+                ],
+                "rotation": 0.0,
+                "chair": "Aircraft39 seat 24 slot 0",
+                "asset": "SM_Plane_Seat",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Cabin passenger 1",
+                "before": [
+                  17.868000030517578,
+                  15.524999618530273,
+                  0.0
+                ],
+                "after": [
+                  17.868000030517578,
+                  15.524999618530273,
+                  0.0
+                ],
+                "rotation": 0.0,
+                "chair": "Aircraft39 seat 28 slot 0",
+                "asset": "SM_Plane_Seat",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Cabin passenger 2",
+                "before": [
+                  14.131999969482422,
+                  18.225000381469727,
+                  0.0
+                ],
+                "after": [
+                  14.131999969482422,
+                  18.225000381469727,
+                  0.0
+                ],
+                "rotation": 0.0,
+                "chair": "Aircraft39 seat 33 slot 0",
+                "asset": "SM_Plane_Seat",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Cabin passenger 3",
+                "before": [
+                  17.868000030517578,
+                  19.575000762939453,
+                  0.0
+                ],
+                "after": [
+                  17.868000030517578,
+                  19.575000762939453,
+                  0.0
+                ],
+                "rotation": 0.0,
+                "chair": "Aircraft39 seat 37 slot 0",
+                "asset": "SM_Plane_Seat",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Cabin passenger 4",
+                "before": [
+                  14.131999969482422,
+                  22.274999618530273,
+                  0.0
+                ],
+                "after": [
+                  14.131999969482422,
+                  22.274999618530273,
+                  0.0
+                ],
+                "rotation": 0.0,
+                "chair": "Aircraft39 seat 46 slot 0",
+                "asset": "SM_Plane_Seat",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Cabin passenger 5",
+                "before": [
+                  17.868000030517578,
+                  23.625,
+                  0.0
+                ],
+                "after": [
+                  17.868000030517578,
+                  23.625,
+                  0.0
+                ],
+                "rotation": 0.0,
+                "chair": "Aircraft39 seat 50 slot 0",
+                "asset": "SM_Plane_Seat",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Business passenger",
+                "before": [
+                  14.480000019073486,
+                  7.800000190734863,
+                  0.0
+                ],
+                "after": [
+                  14.480000019073486,
+                  7.800000190734863,
+                  0.0
+                ],
+                "rotation": 0.0,
+                "chair": "Aircraft39 seat 22 slot 0",
+                "asset": "SM_Plane_LuxurySeat",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Additional waiting passenger 0",
+                "before": [
+                  -30.6,
+                  24.74,
+                  0
+                ],
+                "after": [
+                  -30.6,
+                  24.74,
+                  0
+                ],
+                "rotation": 90,
+                "chair": "A08 lounge bench24 0 slot 2",
+                "asset": "SM_AP_Bench34_CharacterFit39",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Additional waiting passenger 1",
+                "before": [
+                  -30.6,
+                  28.26,
+                  0
+                ],
+                "after": [
+                  -30.6,
+                  28.26,
+                  0
+                ],
+                "rotation": 90,
+                "chair": "A08 lounge bench24 1 slot 0",
+                "asset": "SM_AP_Bench34_CharacterFit39",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Additional waiting passenger 2",
+                "before": [
+                  -30.6,
+                  29.0,
+                  0
+                ],
+                "after": [
+                  -30.6,
+                  29.0,
+                  0
+                ],
+                "rotation": 90,
+                "chair": "A08 lounge bench24 1 slot 1",
+                "asset": "SM_AP_Bench34_CharacterFit39",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Additional waiting passenger 3",
+                "before": [
+                  -30.6,
+                  29.74,
+                  0
+                ],
+                "after": [
+                  -30.6,
+                  29.74,
+                  0
+                ],
+                "rotation": 90,
+                "chair": "A08 lounge bench24 1 slot 2",
+                "asset": "SM_AP_Bench34_CharacterFit39",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Additional waiting passenger 4",
+                "before": [
+                  -28.439999999999998,
+                  32.2,
+                  0
+                ],
+                "after": [
+                  -28.439999999999998,
+                  32.2,
+                  0
+                ],
+                "rotation": 0,
+                "chair": "A08 lounge bench24 2 slot 0",
+                "asset": "SM_AP_Bench34_CharacterFit39",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Additional waiting passenger 5",
+                "before": [
+                  -27.7,
+                  32.2,
+                  0
+                ],
+                "after": [
+                  -27.7,
+                  32.2,
+                  0
+                ],
+                "rotation": 0,
+                "chair": "A08 lounge bench24 2 slot 1",
+                "asset": "SM_AP_Bench34_CharacterFit39",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Additional waiting passenger 6",
+                "before": [
+                  -38.5,
+                  27.15,
+                  0
+                ],
+                "after": [
+                  -38.5,
+                  27.15,
+                  0
+                ],
+                "rotation": 180,
+                "chair": "CafeChair24_1789 slot 0",
+                "asset": "SM_AP_CafeChair34_CharacterFit39",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              },
+              {
+                "actor": "CH12 Additional waiting passenger 7",
+                "before": [
+                  -34.5,
+                  29.15,
+                  0
+                ],
+                "after": [
+                  -34.5,
+                  29.15,
+                  0
+                ],
+                "rotation": 180,
+                "chair": "CafeChair24_1792 slot 0",
+                "asset": "SM_AP_CafeChair34_CharacterFit39",
+                "horizontal_snap_m": 0.0,
+                "reason": "seat origin alignment; contact pose is authored fixed-length skin/rig deformation"
+              }
+            ],
+            "unmatched": [],
+            "unique_occupied_seats": 27
+          },
+          "policy": "true skinned mesh+armature+action collection instances; no character StaticMesh export"
+        }
+      }
+    }
+  ],
+  "unused_empty_material_slots": [],
+  "pending_assets": {
+    "SM_Plane_LuxurySeat_Ergonomic39": "complex",
+    "SM_AP_Bench27_CharacterFit39": "complex",
+    "SM_AP_Bench29_CharacterFit39": "complex",
+    "SM_AP_Bench34_CharacterFit39": "complex",
+    "SM_AP_CafeChair34_CharacterFit39": "complex"
+  },
+  "glass39": {
+    "presets": {
+      "Terminal": {
+        "tint": [
+          0.25,
+          0.47,
+          0.49,
+          1
+        ],
+        "opacity": 0.13,
+        "edge": 0.3,
+        "roughness": 0.18,
+        "specular": 0.48
+      },
+      "Bridge": {
+        "tint": [
+          0.24,
+          0.46,
+          0.48,
+          1
+        ],
+        "opacity": 0.12,
+        "edge": 0.28,
+        "roughness": 0.19,
+        "specular": 0.46
+      },
+      "Cabin": {
+        "tint": [
+          0.29,
+          0.52,
+          0.56,
+          1
+        ],
+        "opacity": 0.09,
+        "edge": 0.24,
+        "roughness": 0.16,
+        "specular": 0.48
+      },
+      "Cockpit": {
+        "tint": [
+          0.3,
+          0.53,
+          0.57,
+          1
+        ],
+        "opacity": 0.085,
+        "edge": 0.23,
+        "roughness": 0.17,
+        "specular": 0.48
+      }
+    },
+    "source_materials": [
+      "MI_AP_Glass",
+      "MI_AP_Glass.001",
+      "MI_AP_Glass.002",
+      "MI_AP_P36Glass",
+      "MI_AP_P38AGlass",
+      "MI_AP_P38BGlass"
+    ],
+    "design": "Subtle blue-green tint, soft specular and stronger glancing edges. No procedural dirt or distortion. Instrument glass excluded."
+  },
+  "changed_assets": [
+    "SM_AP_Bench27_CharacterFit39",
+    "SM_AP_Bench29_CharacterFit39",
+    "SM_AP_Bench34_CharacterFit39",
+    "SM_AP_CafeChair34_CharacterFit39",
+    "SM_Plane_LuxurySeat_Ergonomic39"
+  ],
+  "families": 119,
+  "source_sha256": "2f6af36c32cd6a8593e0691c2b9470617a1c5bd2e55cd98a85c2dc42a96742b6",
+  "retired_names": []
+}

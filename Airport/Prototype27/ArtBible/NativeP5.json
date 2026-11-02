@@ -1,0 +1,18 @@
+{
+  "status": "SUCCESS",
+  "pass_level": 5,
+  "started": 1793192677.1515925,
+  "stages": [
+    "Loading preserved prototype1",
+    "Importing original graphics and surface maps",
+    "Importing continuous models and fitted architecture",
+    "Lighting pass from modeled practical fixtures",
+    "Saving separate prototype 5"
+  ],
+  "finished": 1793192690.4074662,
+  "map": "/Game/Airport27/L_Airport_Prototype5",
+  "families": 11,
+  "triangles": 174684,
+  "source_sha256": "6e2f22470149db23d9c652af4e68ef25d9282ac24cba559e2bc8832008415eed",
+  "layout_sha256": "451677cdaf46e7e58a12b83532b3e9bce9c563f6b39088cd2372b5ba06e23984"
+}

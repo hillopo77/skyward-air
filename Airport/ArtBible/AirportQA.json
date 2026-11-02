@@ -1,0 +1,124 @@
+{
+  "status": "SUCCESS",
+  "checks": [
+    {
+      "name": "All authored native physics bodies initialized",
+      "passed": true,
+      "count": 39
+    },
+    {
+      "name": "Two native articulated tow couplings",
+      "passed": true
+    },
+    {
+      "name": "checkin action has line of sight",
+      "passed": true
+    },
+    {
+      "name": "boarding action has line of sight",
+      "passed": true
+    },
+    {
+      "name": "Continuous entrance to aircraft walk",
+      "passed": true,
+      "waypoints": 16,
+      "position": [
+        -1.4368627962888831,
+        0.6749801618776945,
+        1.62
+      ]
+    },
+    {
+      "name": "Security cleared by crossing portal",
+      "passed": true
+    },
+    {
+      "name": "Boarding gate opened after clearance",
+      "passed": true
+    },
+    {
+      "name": "Aircraft boarding event detected",
+      "passed": true
+    },
+    {
+      "name": "Sliding leaves occupy their modeled pockets",
+      "passed": true
+    },
+    {
+      "name": "Cubicle outside release visible",
+      "passed": true
+    },
+    {
+      "name": "Cubicle slides into modeled pocket",
+      "passed": true
+    },
+    {
+      "name": "Cubicle inside release remains accessible",
+      "passed": true
+    },
+    {
+      "name": "Cubicle closes from inside pocket enclosure",
+      "passed": true
+    },
+    {
+      "name": "Opaque wall blocks interaction",
+      "passed": true
+    },
+    {
+      "name": "Stairs and upper landing reach mezzanine",
+      "passed": true,
+      "height_m": 5.82,
+      "expected_m": 5.82
+    },
+    {
+      "name": "Service ramp reaches apron continuously",
+      "passed": true,
+      "height_m": -2.08,
+      "expected_m": -2.08
+    },
+    {
+      "name": "Suitcase settles on actual terminal floor",
+      "passed": true,
+      "bottom_cm": -3.9332545434542254,
+      "speed_cm_s": 0.0
+    },
+    {
+      "name": "Spring-force luggage pickup",
+      "passed": true,
+      "distance_cm": 132.49905857234168
+    },
+    {
+      "name": "Luggage throw uses physical impulse",
+      "passed": true,
+      "travel_cm": 221.16999806001613
+    },
+    {
+      "name": "Scanner conveyor moves supported physical luggage",
+      "passed": true,
+      "forward_cm": 46.30235332197719,
+      "position": [
+        -71.44524616787085,
+        -7.6369764667802285,
+        1.0286303441124087
+      ]
+    },
+    {
+      "name": "Powered tug pulls constrained baggage dollies",
+      "passed": true,
+      "tug_travel_cm": 219.54378545262634,
+      "dolly_travel_cm": 207.00134157706816
+    },
+    {
+      "name": "Rendered idle performance sample",
+      "passed": true,
+      "samples": 360,
+      "average_fps": 59.94385558578149,
+      "p95_ms": 17.59180000226479,
+      "max_ms": 20.840199998929165
+    }
+  ],
+  "runtime_sha256": "bbcdc17b1522bb03138a58950bd1753a47522a83b9a95f114c3f714256ca4371",
+  "qa_sha256": "c95a215aa723b01a7088d5fe1c835c3aef406dcc829debd54c557133ba8d2edd",
+  "phase": "profile",
+  "elapsed": 84.03100000000268
+}

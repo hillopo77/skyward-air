@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "scope": "Offline adapter contracts; actual native visuals remain root-owned",
+  "swapped_actors": 126,
+  "lifted_complete_fixture_light_camera_actors": 171,
+  "parallel_fitted_shade_parts": 240,
+  "native_repeat_safe": true,
+  "central_psu_unmoved": true,
+  "all_relative_pivots_preserved": true,
+  "curved_parts": 240,
+  "runtime_carrier_checked_states": [
+    0,
+    0.5,
+    1
+  ],
+  "runtime_repeat_safe": true
+}

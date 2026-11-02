@@ -1,0 +1,24 @@
+{
+  "status": "READY",
+  "map": "/Game/Airport27/L_Airport_Prototype5",
+  "zone": null,
+  "player": [
+    1.2550751437791274,
+    10.602678085068405,
+    1.62
+  ],
+  "journey": {
+    "checked_in": true,
+    "security": true,
+    "boarding": false,
+    "aboard": false
+  },
+  "controlled_doors": {
+    "Screening entry24 leaf 0": 0,
+    "Screening entry24 leaf 1": 0,
+    "Screening exit24 leaf 0": 0,
+    "Screening exit24 leaf 1": 0,
+    "Staff service leaf24": 0
+  },
+  "updated": 1793194608.1740544
+}

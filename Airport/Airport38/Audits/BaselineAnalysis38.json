@@ -1,0 +1,122 @@
+{
+  "exact_duplicate_placements": [],
+  "static_and_physics_motion": {
+    "X-ray scanner 01": {
+      "samples": 60,
+      "maximum_speed_m_s": 0.0,
+      "range_m": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "X-ray scanner 02": {
+      "samples": 60,
+      "maximum_speed_m_s": 0.0,
+      "range_m": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "Physical luggage 01": {
+      "samples": 60,
+      "maximum_speed_m_s": 0.0,
+      "range_m": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "Physical luggage 02": {
+      "samples": 60,
+      "maximum_speed_m_s": 0.0,
+      "range_m": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "Physical luggage 03": {
+      "samples": 60,
+      "maximum_speed_m_s": 0.0,
+      "range_m": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "Physical luggage 04": {
+      "samples": 60,
+      "maximum_speed_m_s": 0.0,
+      "range_m": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "Physical luggage 05": {
+      "samples": 60,
+      "maximum_speed_m_s": 0.0,
+      "range_m": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "Physical luggage 06": {
+      "samples": 60,
+      "maximum_speed_m_s": 0.0,
+      "range_m": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "Physical luggage 07": {
+      "samples": 60,
+      "maximum_speed_m_s": 0.0,
+      "range_m": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "Physical luggage 08": {
+      "samples": 60,
+      "maximum_speed_m_s": 0.0,
+      "range_m": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "frame_variance": {
+    "33_CurtainHold": {
+      "frames": 8,
+      "mean_absolute_rgb_delta_0_255": 0.3276618719100952,
+      "p99_rgb_delta_0_255": 4.0,
+      "note": "Native temporal image difference; does not itself prove physical movement or isolate AA/shadows."
+    },
+    "34_CeilingHold": {
+      "frames": 8,
+      "mean_absolute_rgb_delta_0_255": 10.816252708435059,
+      "p99_rgb_delta_0_255": 33.0,
+      "note": "Native temporal image difference; does not itself prove physical movement or isolate AA/shadows."
+    }
+  },
+  "world_traces": [
+    {
+      "name": "WC east breach",
+      "blocking": false,
+      "mesh": null
+    },
+    {
+      "name": "Security west breach",
+      "blocking": false,
+      "mesh": null
+    }
+  ],
+  "source_duplicate_face_parts": []
+}

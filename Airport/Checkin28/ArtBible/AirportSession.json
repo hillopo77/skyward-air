@@ -1,0 +1,101 @@
+{
+  "status": "READY",
+  "pass_id": 10,
+  "revision": 28,
+  "runtime_sha256": "98d2f4dba4f74f53cf1daa37c452914b6cbfb3b161ea08c709accfe93348f7e2",
+  "journey": {
+    "checked_in": true,
+    "bag_accepted": true,
+    "security": false,
+    "boarding": false,
+    "aboard": false
+  },
+  "held": null,
+  "driving": null,
+  "spectator": false,
+  "native_physics_bodies": 17,
+  "events": [
+    {
+      "event": "Room-based airport24 ready",
+      "time_s": 0.5929999999971187,
+      "zones": 17,
+      "controlled_leaves": 5
+    },
+    {
+      "event": "Clear arrival26 ready",
+      "time_s": 0.6719999999986612,
+      "initial_exit": "checkin",
+      "high_dpi": "project enabled",
+      "profile": "FastTAA"
+    },
+    {
+      "event": "Entrance prototype27 ready",
+      "time_s": 0.6719999999986612,
+      "level": 5,
+      "profile": "Distance27"
+    },
+    {
+      "event": "Rotated check-in28 ready",
+      "time_s": 0.7029999999977008,
+      "degrees": -90,
+      "architecture_unchanged": true
+    },
+    {
+      "event": "Native tow couplings bound",
+      "time_s": 1.3279999999977008,
+      "count": 2
+    },
+    {
+      "event": "Prop picked up",
+      "time_s": 5.717999999997119,
+      "actor": "Physical luggage 01"
+    },
+    {
+      "event": "Checked in",
+      "time_s": 17.35900000000038,
+      "desk": "Check-in desk 02"
+    },
+    {
+      "event": "Boarding pass issued",
+      "time_s": 17.35900000000038,
+      "actor": "Check-in desk 02"
+    },
+    {
+      "event": "Bag drop running",
+      "time_s": 18.625,
+      "belt": "Bag drop belt 02"
+    },
+    {
+      "event": "Bag placement requested",
+      "time_s": 18.625,
+      "actor": "Physical luggage 01"
+    },
+    {
+      "event": "Prop dropped",
+      "time_s": 19.42199999999866,
+      "actor": "Physical luggage 01"
+    },
+    {
+      "event": "Suitcase placed using native physics",
+      "time_s": 19.42199999999866,
+      "actor": "Physical luggage 01"
+    },
+    {
+      "event": "Checked suitcase accepted on physical belt",
+      "time_s": 19.42199999999866,
+      "actor": "Physical luggage 01",
+      "belt": "Bag drop belt 02"
+    }
+  ],
+  "frame_statistics": {
+    "frames": 600,
+    "average_fps": 25.27508571318731,
+    "p95_ms": 103.35299999860581,
+    "maximum_ms": 1662.5764000018535
+  },
+  "player_source": [
+    -31.949493863613093,
+    -8.704414113385162,
+    1.62
+  ]
+}

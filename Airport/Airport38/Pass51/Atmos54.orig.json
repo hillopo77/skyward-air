@@ -1,0 +1,1166 @@
+{
+ "volumes": {
+  "PostProcessVolume": {
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C154254C) {r: 1.000000, g: 0.980000, b: 0.940000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C1542130) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ],
+   "bloom_intensity": [
+    true,
+    0.11999999731779099
+   ],
+   "vignette_intensity": [
+    true,
+    0.0
+   ]
+  },
+  "Airport clean daylight grade": {
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C154174C) {r: 1.000000, g: 0.980000, b: 0.940000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C1541330) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ],
+   "bloom_intensity": [
+    true,
+    0.30000001192092896
+   ],
+   "vignette_intensity": [
+    true,
+    0.25
+   ]
+  },
+  "Airport26 journey overlay": {
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C154954C) {r: 1.000000, g: 0.980000, b: 0.940000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C1549130) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ],
+   "bloom_intensity": [
+    false,
+    0.675000011920929
+   ],
+   "vignette_intensity": [
+    false,
+    0.4000000059604645
+   ]
+  },
+  "Entrance27 local surface separation": {
+   "ambient_cubemap_intensity": [
+    false,
+    1.0
+   ],
+   "ambient_cubemap_tint": [
+    false,
+    "<Struct 'LinearColor' (0x00000000C154A34C) {r: 1.000000, g: 1.000000, b: 1.000000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C1549F30) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.550000011920929
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    110.0
+   ],
+   "bloom_intensity": [
+    true,
+    0.07000000029802322
+   ],
+   "vignette_intensity": [
+    false,
+    0.4000000059604645
+   ]
+  },
+  "Checkin33 warm welcoming grade": {
+   "ambient_cubemap_intensity": [
+    false,
+    1.0
+   ],
+   "ambient_cubemap_tint": [
+    false,
+    "<Struct 'LinearColor' (0x00000000C25F334C) {r: 1.000000, g: 1.000000, b: 1.000000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C25F2F30) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.550000011920929
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    110.0
+   ],
+   "bloom_intensity": [
+    true,
+    0.04500000178813934
+   ],
+   "vignette_intensity": [
+    false,
+    0.4000000059604645
+   ]
+  },
+  "AP38 warm grade entrancefoyer": {
+   "ambient_cubemap_intensity": [
+    true,
+    0.30000001192092896
+   ],
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C25F414C) {r: 1.000000, g: 0.900000, b: 0.760000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    true,
+    7200.0
+   ],
+   "color_contrast": [
+    true,
+    "<Struct 'Vector4' (0x00000000C25F3D30) {x: 0.940000, y: 0.940000, z: 0.940000, w: 1.000000}>"
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.699999988079071
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    180.0
+   ],
+   "bloom_intensity": [
+    true,
+    0.11999999731779099
+   ],
+   "vignette_intensity": [
+    true,
+    0.18000000715255737
+   ]
+  },
+  "AP38 warm grade checkin": {
+   "ambient_cubemap_intensity": [
+    true,
+    0.30000001192092896
+   ],
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C25F4F4C) {r: 1.000000, g: 0.900000, b: 0.760000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    true,
+    7200.0
+   ],
+   "color_contrast": [
+    true,
+    "<Struct 'Vector4' (0x00000000C25F4B30) {x: 0.940000, y: 0.940000, z: 0.940000, w: 1.000000}>"
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.699999988079071
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    180.0
+   ],
+   "bloom_intensity": [
+    true,
+    0.11999999731779099
+   ],
+   "vignette_intensity": [
+    true,
+    0.18000000715255737
+   ]
+  },
+  "AP38 warm grade publicreturn": {
+   "ambient_cubemap_intensity": [
+    true,
+    0.25999999046325684
+   ],
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C25F5D4C) {r: 1.000000, g: 0.980000, b: 0.940000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C25F5930) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.550000011920929
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    110.0
+   ],
+   "bloom_intensity": [
+    true,
+    0.04500000178813934
+   ],
+   "vignette_intensity": [
+    false,
+    0.4000000059604645
+   ]
+  },
+  "AP38 warm grade landsidecorridor": {
+   "ambient_cubemap_intensity": [
+    true,
+    0.30000001192092896
+   ],
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C154334C) {r: 1.000000, g: 0.900000, b: 0.760000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    true,
+    7200.0
+   ],
+   "color_contrast": [
+    true,
+    "<Struct 'Vector4' (0x00000000C1542F30) {x: 0.940000, y: 0.940000, z: 0.940000, w: 1.000000}>"
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.699999988079071
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    180.0
+   ],
+   "bloom_intensity": [
+    true,
+    0.11999999731779099
+   ],
+   "vignette_intensity": [
+    true,
+    0.18000000715255737
+   ]
+  },
+  "AP38 warm grade security": {
+   "ambient_cubemap_intensity": [
+    true,
+    0.25999999046325684
+   ],
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C154414C) {r: 1.000000, g: 0.980000, b: 0.940000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C1543D30) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.550000011920929
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    110.0
+   ],
+   "bloom_intensity": [
+    true,
+    0.04500000178813934
+   ],
+   "vignette_intensity": [
+    false,
+    0.4000000059604645
+   ]
+  },
+  "AP38 warm grade recovery": {
+   "ambient_cubemap_intensity": [
+    true,
+    0.25999999046325684
+   ],
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C1544F4C) {r: 1.000000, g: 0.980000, b: 0.940000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C1544B30) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.550000011920929
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    110.0
+   ],
+   "bloom_intensity": [
+    true,
+    0.04500000178813934
+   ],
+   "vignette_intensity": [
+    false,
+    0.4000000059604645
+   ]
+  },
+  "AP38 warm grade concourse": {
+   "ambient_cubemap_intensity": [
+    true,
+    0.25999999046325684
+   ],
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C1545D4C) {r: 1.000000, g: 0.980000, b: 0.940000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C1545930) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.550000011920929
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    110.0
+   ],
+   "bloom_intensity": [
+    true,
+    0.04500000178813934
+   ],
+   "vignette_intensity": [
+    false,
+    0.4000000059604645
+   ]
+  },
+  "AP38 warm grade gate07": {
+   "ambient_cubemap_intensity": [
+    true,
+    0.25999999046325684
+   ],
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C1546B4C) {r: 1.000000, g: 0.980000, b: 0.940000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C1546730) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.550000011920929
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    110.0
+   ],
+   "bloom_intensity": [
+    true,
+    0.04500000178813934
+   ],
+   "vignette_intensity": [
+    false,
+    0.4000000059604645
+   ]
+  },
+  "AP38 warm grade gate08": {
+   "ambient_cubemap_intensity": [
+    true,
+    0.25999999046325684
+   ],
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C154794C) {r: 1.000000, g: 0.980000, b: 0.940000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C1547530) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.550000011920929
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    110.0
+   ],
+   "bloom_intensity": [
+    true,
+    0.04500000178813934
+   ],
+   "vignette_intensity": [
+    false,
+    0.4000000059604645
+   ]
+  },
+  "AP38 warm grade cafefoyer": {
+   "ambient_cubemap_intensity": [
+    true,
+    0.25999999046325684
+   ],
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C154874C) {r: 1.000000, g: 0.980000, b: 0.940000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C1548330) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.550000011920929
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    110.0
+   ],
+   "bloom_intensity": [
+    true,
+    0.04500000178813934
+   ],
+   "vignette_intensity": [
+    false,
+    0.4000000059604645
+   ]
+  },
+  "AP38 warm grade cafe": {
+   "ambient_cubemap_intensity": [
+    true,
+    0.25999999046325684
+   ],
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C154B14C) {r: 1.000000, g: 0.980000, b: 0.940000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C154AD30) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.550000011920929
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    110.0
+   ],
+   "bloom_intensity": [
+    true,
+    0.04500000178813934
+   ],
+   "vignette_intensity": [
+    false,
+    0.4000000059604645
+   ]
+  },
+  "AP38 warm grade amenitylobby": {
+   "ambient_cubemap_intensity": [
+    true,
+    0.25999999046325684
+   ],
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C154BF4C) {r: 1.000000, g: 0.980000, b: 0.940000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C154BB30) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.550000011920929
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    110.0
+   ],
+   "bloom_intensity": [
+    true,
+    0.04500000178813934
+   ],
+   "vignette_intensity": [
+    false,
+    0.4000000059604645
+   ]
+  },
+  "AP38 warm grade amenities": {
+   "ambient_cubemap_intensity": [
+    true,
+    0.25999999046325684
+   ],
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C154CD4C) {r: 1.000000, g: 0.980000, b: 0.940000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C154C930) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.550000011920929
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    110.0
+   ],
+   "bloom_intensity": [
+    true,
+    0.04500000178813934
+   ],
+   "vignette_intensity": [
+    false,
+    0.4000000059604645
+   ]
+  },
+  "AP38 warm grade operations": {
+   "ambient_cubemap_intensity": [
+    true,
+    0.25999999046325684
+   ],
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C154DB4C) {r: 1.000000, g: 0.980000, b: 0.940000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C154D730) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.550000011920929
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    110.0
+   ],
+   "bloom_intensity": [
+    true,
+    0.04500000178813934
+   ],
+   "vignette_intensity": [
+    false,
+    0.4000000059604645
+   ]
+  },
+  "AP38 warm grade gate07entry": {
+   "ambient_cubemap_intensity": [
+    true,
+    0.25999999046325684
+   ],
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C154E94C) {r: 1.000000, g: 0.980000, b: 0.940000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C154E530) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.550000011920929
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    110.0
+   ],
+   "bloom_intensity": [
+    true,
+    0.04500000178813934
+   ],
+   "vignette_intensity": [
+    false,
+    0.4000000059604645
+   ]
+  },
+  "AP38 warm grade baggageservice": {
+   "ambient_cubemap_intensity": [
+    true,
+    0.25999999046325684
+   ],
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C154F74C) {r: 1.000000, g: 0.980000, b: 0.940000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C154F330) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.550000011920929
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    110.0
+   ],
+   "bloom_intensity": [
+    true,
+    0.04500000178813934
+   ],
+   "vignette_intensity": [
+    false,
+    0.4000000059604645
+   ]
+  },
+  "AP38 warm grade arrivals": {
+   "ambient_cubemap_intensity": [
+    true,
+    0.25999999046325684
+   ],
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C25F094C) {r: 1.000000, g: 0.980000, b: 0.940000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C25F0530) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.550000011920929
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    110.0
+   ],
+   "bloom_intensity": [
+    true,
+    0.04500000178813934
+   ],
+   "vignette_intensity": [
+    false,
+    0.4000000059604645
+   ]
+  },
+  "AP38 warm grade arrivalsreturn": {
+   "ambient_cubemap_intensity": [
+    true,
+    0.25999999046325684
+   ],
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C25F174C) {r: 1.000000, g: 0.980000, b: 0.940000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C25F1330) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.550000011920929
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    110.0
+   ],
+   "bloom_intensity": [
+    true,
+    0.04500000178813934
+   ],
+   "vignette_intensity": [
+    false,
+    0.4000000059604645
+   ]
+  },
+  "AP38 warm grade publicreturneast": {
+   "ambient_cubemap_intensity": [
+    true,
+    0.25999999046325684
+   ],
+   "ambient_cubemap_tint": [
+    true,
+    "<Struct 'LinearColor' (0x00000000C25F254C) {r: 1.000000, g: 0.980000, b: 0.940000, a: 1.000000}>"
+   ],
+   "white_temp": [
+    false,
+    6500.0
+   ],
+   "color_contrast": [
+    false,
+    "<Struct 'Vector4' (0x00000000C25F2130) {x: 1.000000, y: 1.000000, z: 1.000000, w: 1.000000}>"
+   ],
+   "ambient_occlusion_intensity": [
+    true,
+    0.550000011920929
+   ],
+   "ambient_occlusion_radius": [
+    true,
+    110.0
+   ],
+   "bloom_intensity": [
+    true,
+    0.04500000178813934
+   ],
+   "vignette_intensity": [
+    false,
+    0.4000000059604645
+   ]
+  }
+ },
+ "lights": {
+  "AP38 practical 000 welcome": {
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 001 welcome": {
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 002 checkin_task": {
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 003 checkin_task": {
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 004 checkin_task": {
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 005 checkin_task": {
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 006 checkin_task": {
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 007 checkin_task": {
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 008 exit_circulation": {
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 009 exit_circulation": {
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 010 exit_circulation": {
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 011 exit_circulation": {
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 012 circulation": {
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 013 circulation": {
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 014 circulation": {
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 015 circulation": {
+   "temperature": 2900.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 016 screening_task": {
+   "temperature": 3700.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 017 screening_task": {
+   "temperature": 3700.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 018 screening_task": {
+   "temperature": 3700.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 019 screening_task": {
+   "temperature": 3700.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 020 screening_task": {
+   "temperature": 3700.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 021 screening_task": {
+   "temperature": 3700.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 022 repack_task": {
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 023 repack_task": {
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 024 wayfinding": {
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 025 wayfinding": {
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 026 wayfinding": {
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 027 lounge": {
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 028 lounge": {
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 029 lounge": {
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 030 lounge": {
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 031 lounge": {
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 032 lounge": {
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 033 lounge": {
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 034 lounge": {
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 035 lounge": {
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 036 lounge": {
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 037 cafe_welcome": {
+   "temperature": 3200.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 038 cafe_dining": {
+   "temperature": 3200.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 039 cafe_dining": {
+   "temperature": 3200.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 040 cafe_dining": {
+   "temperature": 3200.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 041 gallery_reading": {
+   "temperature": 3200.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 042 cafe_dining": {
+   "temperature": 3200.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 043 cafe_dining": {
+   "temperature": 3200.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 044 cafe_dining": {
+   "temperature": 3200.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 045 cafe_dining": {
+   "temperature": 3200.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 046 cafe_dining": {
+   "temperature": 3200.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 047 cafe_dining": {
+   "temperature": 3200.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 048 amenity_circulation": {
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 049 amenity_circulation": {
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 050 washroom": {
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 051 washroom": {
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 052 washroom": {
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 053 washroom": {
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 054 staff_task": {
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 055 staff_task": {
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 056 lounge_arrival": {
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 057 lounge_arrival": {
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 058 baggage_task": {
+   "temperature": 3600.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 059 reclaim_task": {
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 060 reclaim_task": {
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 061 reclaim_task": {
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 062 reclaim_task": {
+   "temperature": 3500.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 063 exit_circulation": {
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 064 exit_circulation": {
+   "temperature": 3400.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 065 entrance_canopy": {
+   "temperature": 3200.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 066 entrance_canopy": {
+   "temperature": 3200.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 067 entrance_canopy": {
+   "temperature": 3200.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 068 covered_forecourt": {
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 069 covered_forecourt": {
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 070 covered_forecourt": {
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 071 covered_forecourt": {
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 072 covered_forecourt": {
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  },
+  "AP38 practical 073 covered_forecourt": {
+   "temperature": 3300.0,
+   "use_temperature": true,
+   "volumetric_scattering_intensity": 1.0
+  }
+ },
+ "sun": {
+  "volumetric_scattering_intensity": 1.0,
+  "temperature": 6500.0,
+  "use_temperature": false,
+  "intensity": 300.0,
+  "cast_volumetric_shadow": true
+ },
+ "sky": {
+  "volumetric_scattering_intensity": 1.0
+ }
+}

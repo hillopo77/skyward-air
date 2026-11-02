@@ -1,0 +1,19 @@
+{
+  "status": "SUCCESS",
+  "started": 1793184928.5841253,
+  "scope": "Entrance foyer only",
+  "stages": [
+    "Loading preserved room map",
+    "Importing editable foyer models",
+    "Replacing only foyer placements and practicals",
+    "Saving separate room-one map"
+  ],
+  "finished": 1793184944.59791,
+  "map": "/Game/Airport25/L_Airport_Foyer25",
+  "new_families": 8,
+  "new_triangles": 322968,
+  "removed": 5,
+  "relocated": 7,
+  "source_sha256": "aa0d2047b1580ae1bde85595272325be05ced45cfa5efb8b750e62b9b6aaa781",
+  "layout_sha256": "1a63f7c26d6b3a0c5d86643415f5cc50ebbf6c9be42f0d3fced925050d0dcb31"
+}

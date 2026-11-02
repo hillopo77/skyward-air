@@ -1,0 +1,58 @@
+{
+ "status": "SUCCESS",
+ "textures": [
+  "/Game/Airport38/Pass48/Textures/T_AP_Carpet48.T_AP_Carpet48",
+  "/Game/Airport38/Pass48/Textures/T_AP_Ceiling48.T_AP_Ceiling48",
+  "/Game/Airport38/Pass48/Textures/T_AP_Floor48.T_AP_Floor48",
+  "/Game/Airport38/Pass48/Textures/T_AP_Oak48.T_AP_Oak48",
+  "/Game/Airport38/Pass48/Textures/T_AP_WC48.T_AP_WC48",
+  "/Game/Airport38/Pass48/Textures/T_AP_Wainscot48.T_AP_Wainscot48"
+ ],
+ "instances": [
+  {
+   "mi": "/Game/Airport38/Finish43/MI_AP_P43TFloor.MI_AP_P43TFloor",
+   "parent": "/Game/Airport38/Pass48/Materials/M_AP_Finish48.M_AP_Finish48",
+   "texture": "Floor48",
+   "tile": 3.0,
+   "Specular": 0.55,
+   "RoughnessScale": 1.0
+  },
+  {
+   "mi": "/Game/Airport38/Finish43/MI_AP_P43TCarpet.MI_AP_P43TCarpet",
+   "parent": "/Game/Airport38/Pass48/Materials/M_AP_Finish48.M_AP_Finish48",
+   "texture": "Carpet48",
+   "tile": 3.0,
+   "Specular": 0.2
+  },
+  {
+   "mi": "/Game/Airport38/Finish43/MI_AP_P43TWC.MI_AP_P43TWC",
+   "parent": "/Game/Airport38/Pass48/Materials/M_AP_Finish48.M_AP_Finish48",
+   "texture": "WC48",
+   "tile": 2.0,
+   "Specular": 0.45
+  },
+  {
+   "mi": "/Game/Airport38/Finish43/MI_AP_P43TCeiling.MI_AP_P43TCeiling",
+   "parent": "/Game/Airport38/Pass48/Materials/M_AP_Finish48.M_AP_Finish48",
+   "texture": "Ceiling48",
+   "tile": 3.6,
+   "Specular": 0.2,
+   "Emissive": 0.55
+  },
+  {
+   "mi": "/Game/Airport38/Finish43/MI_AP_P43TDado.MI_AP_P43TDado",
+   "parent": "/Game/Airport38/Pass48/Materials/M_AP_Finish48.M_AP_Finish48",
+   "texture": "Wainscot48",
+   "tile": 2.4,
+   "Specular": 0.35
+  },
+  {
+   "mi": "/Game/Airport38/Finish43/MI_AP_P43TOak.MI_AP_P43TOak",
+   "parent": "/Game/Airport38/Pass48/Materials/M_AP_Finish48.M_AP_Finish48",
+   "texture": "Oak48",
+   "tile": 2.0,
+   "Specular": 0.35
+  }
+ ],
+ "master": "/Game/Airport38/Pass48/Materials/M_AP_Finish48.M_AP_Finish48"
+}

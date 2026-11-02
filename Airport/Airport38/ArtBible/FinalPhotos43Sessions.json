@@ -1,0 +1,24 @@
+{
+  "status": "SUCCESS",
+  "started": 1793384215.7437732,
+  "sessions": [
+    {
+      "mode": "photos",
+      "exit_code": 0,
+      "finished": 1793384391.0910556
+    },
+    {
+      "mode": "--details",
+      "exit_code": 0,
+      "finished": 1793384452.9394147
+    },
+    {
+      "mode": "--perf",
+      "exit_code": 0,
+      "finished": 1793384637.5272055
+    }
+  ],
+  "reason": "Post-repair optical material verification; geometry and controls unchanged.",
+  "active": null,
+  "finished": 1793384637.528206
+}

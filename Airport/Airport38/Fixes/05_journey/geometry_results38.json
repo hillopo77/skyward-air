@@ -1,0 +1,60 @@
+{
+  "scope": "Isolated source geometry, not native game verification",
+  "assets": {
+    "SM_AP_Transfer38": {
+      "parts": 80,
+      "faces": 4720,
+      "zero_area": 0,
+      "duplicate_faces": 0,
+      "nonfinite": 0
+    },
+    "SM_AP_BaggageDetail38": {
+      "parts": 56,
+      "faces": 13851,
+      "zero_area": 0,
+      "duplicate_faces": 0,
+      "nonfinite": 0
+    },
+    "SM_AP_ServiceDoor38": {
+      "parts": 8,
+      "faces": 820,
+      "zero_area": 0,
+      "duplicate_faces": 0,
+      "nonfinite": 0
+    },
+    "SM_AP_ServingCup38": {
+      "parts": 3,
+      "faces": 934,
+      "zero_area": 0,
+      "duplicate_faces": 0,
+      "nonfinite": 0
+    },
+    "SM_AP_ServingSaucer38": {
+      "parts": 3,
+      "faces": 2317,
+      "zero_area": 0,
+      "duplicate_faces": 0,
+      "nonfinite": 0
+    }
+  },
+  "checks": [
+    "SM_AP_Transfer38 has no zero-area evaluated faces",
+    "SM_AP_Transfer38 has no within-partduplicate faces/nonfiniteverts",
+    "SM_AP_BaggageDetail38 has no zero-area evaluated faces",
+    "SM_AP_BaggageDetail38 has no within-partduplicate faces/nonfiniteverts",
+    "SM_AP_ServiceDoor38 has no zero-area evaluated faces",
+    "SM_AP_ServiceDoor38 has no within-partduplicate faces/nonfiniteverts",
+    "SM_AP_ServingCup38 has no zero-area evaluated faces",
+    "SM_AP_ServingCup38 has no within-partduplicate faces/nonfiniteverts",
+    "SM_AP_ServingSaucer38 has no zero-area evaluated faces",
+    "SM_AP_ServingSaucer38 has no within-partduplicate faces/nonfiniteverts",
+    "Rack north edge clears lane02 guard by>=1.15m",
+    "Service leaf is on publicface clearofsolidwall",
+    "Both actual transfer openings supplied",
+    "Two transfer bodies continue torealreceivers",
+    "No collider spans scanmouth",
+    "One finitecup only",
+    "Cup has native-simple collision contract",
+    "A08 isinformation"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "status": "SUCCESS",
+  "started": 1793247815.9694843,
+  "map": "/Game/Airport35/L_Airport_Flow35",
+  "finished": 1793247869.0362115,
+  "source_sha256": "fda880cc42932bd3d27abc9c6d2be940e9b67866f0d404fe0da4b77604baa86d",
+  "families": 15,
+  "wing_bounds": [],
+  "final_supports_fitted": true,
+  "conservative_wing_clearance_m": 1.21
+}

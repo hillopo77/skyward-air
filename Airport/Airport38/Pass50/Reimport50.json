@@ -1,0 +1,303 @@
+{
+ "status": "SUCCESS",
+ "meshes": {
+  "SM_AP_Walls38": {
+   "slots": [
+    [
+     "MI_AP_P43TPlaster",
+     "/Game/Airport38/Finish43/MI_AP_P43TPlaster.MI_AP_P43TPlaster"
+    ],
+    [
+     "MI_AP_P38AFrame",
+     "/Game/Airport38/Materials/MI_AP_P38AFrame.MI_AP_P38AFrame"
+    ],
+    [
+     "MI_AP_P43TDado",
+     "/Game/Airport38/Finish43/MI_AP_P43TDado.MI_AP_P43TDado"
+    ],
+    [
+     "MI_AP_P43TOak",
+     "/Game/Airport38/Finish43/MI_AP_P43TOak.MI_AP_P43TOak"
+    ],
+    [
+     "MI_AP_P38ARoof",
+     "/Game/Airport38/Materials/MI_AP_P38ARoof.MI_AP_P38ARoof"
+    ],
+    [
+     "MI_AP_P38ARubber",
+     "/Game/Airport38/Materials/MI_AP_P38ARubber.MI_AP_P38ARubber"
+    ],
+    [
+     "MI_AP_P43TCeiling",
+     "/Game/Airport38/Finish43/MI_AP_P43TCeiling.MI_AP_P43TCeiling"
+    ]
+   ],
+   "unmatched": []
+  },
+  "SM_AP_TerminalWallFinish43": {
+   "slots": [
+    [
+     "MI_AP_P43TReveal",
+     "/Game/Airport38/Finish43/MI_AP_P43TReveal.MI_AP_P43TReveal"
+    ],
+    [
+     "MI_AP_P43TPlaster",
+     "/Game/Airport38/Finish43/MI_AP_P43TPlaster.MI_AP_P43TPlaster"
+    ],
+    [
+     "MI_AP_P43TPlasterWarm",
+     "/Game/Airport38/Finish43/MI_AP_P43TPlasterWarm.MI_AP_P43TPlasterWarm"
+    ],
+    [
+     "MI_AP_P43TOak",
+     "/Game/Airport38/Finish43/MI_AP_P43TOak.MI_AP_P43TOak"
+    ]
+   ],
+   "unmatched": []
+  },
+  "SM_AP_Ceilings38": {
+   "slots": [
+    [
+     "MI_AP_P43TCeiling",
+     "/Game/Airport38/Finish43/MI_AP_P43TCeiling.MI_AP_P43TCeiling"
+    ]
+   ],
+   "unmatched": []
+  },
+  "SM_AP_Roofs38": {
+   "slots": [
+    [
+     "MI_AP_P38ARoof",
+     "/Game/Airport38/Materials/MI_AP_P38ARoof.MI_AP_P38ARoof"
+    ]
+   ],
+   "unmatched": []
+  },
+  "SM_AP_Wayfinding38": {
+   "slots": [
+    [
+     "MI_AP_P38AOak",
+     "/Game/Airport38/Materials/MI_AP_P38AOak.MI_AP_P38AOak"
+    ],
+    [
+     "MI_AP_P38ANavy",
+     "/Game/Airport38/Materials/MI_AP_P38ANavy.MI_AP_P38ANavy"
+    ],
+    [
+     "MI_AP_P38AText",
+     "/Game/Airport38/Materials/MI_AP_P38AText.MI_AP_P38AText"
+    ],
+    [
+     "MI_AP_P38AGold",
+     "/Game/Airport38/Materials/MI_AP_P38AGold.MI_AP_P38AGold"
+    ]
+   ],
+   "unmatched": []
+  },
+  "SM_AP_Attachments38": {
+   "slots": [
+    [
+     "MI_AP_P38AFrame",
+     "/Game/Airport38/Materials/MI_AP_P38AFrame.MI_AP_P38AFrame"
+    ],
+    [
+     "MI_AP_P38ANavy",
+     "/Game/Airport38/Materials/MI_AP_P38ANavy.MI_AP_P38ANavy"
+    ]
+   ],
+   "unmatched": []
+  },
+  "SM_AP_Transitions39": {
+   "slots": [
+    [
+     "MI_AP_P39FOak",
+     "/Game/Airport38/Materials/MI_AP_P39FOak.MI_AP_P39FOak"
+    ],
+    [
+     "MI_AP_P39FMetal",
+     "/Game/Airport38/Materials/MI_AP_P39FMetal.MI_AP_P39FMetal"
+    ],
+    [
+     "MI_AP_P39FNavy",
+     "/Game/Airport38/Materials/MI_AP_P39FNavy.MI_AP_P39FNavy"
+    ]
+   ],
+   "unmatched": []
+  },
+  "SM_AP_RetainedCraft38": {
+   "slots": [
+    [
+     "MI_AP_P34Cream",
+     "/Game/Airport34/Materials/MI_AP_P34Cream.MI_AP_P34Cream"
+    ],
+    [
+     "MI_AP_P34Metal",
+     "/Game/Airport34/Materials/MI_AP_P34Metal.MI_AP_P34Metal"
+    ],
+    [
+     "MI_AP_P27Oak",
+     "/Game/Airport27/P5/Materials/MI_AP_P27Oak.MI_AP_P27Oak"
+    ],
+    [
+     "MI_AP_P34Navy",
+     "/Game/Airport34/Materials/MI_AP_P34Navy.MI_AP_P34Navy"
+    ],
+    [
+     "MI_AP_P34Sage",
+     "/Game/Airport34/Materials/MI_AP_P34Sage.MI_AP_P34Sage"
+    ],
+    [
+     "MI_AP_P36Text",
+     "/Game/Airport36/Materials/MI_AP_P36Text.MI_AP_P36Text"
+    ],
+    [
+     "MI_AP_Gold",
+     "/Game/Airport23/Materials/Instances/MI_AP_Gold.MI_AP_Gold"
+    ],
+    [
+     "MI_AP_P27Walnut",
+     "/Game/Airport31/Materials/MI_AP_P27Walnut.MI_AP_P27Walnut"
+    ],
+    [
+     "MI_AP_P27Acoustic",
+     "/Game/Airport27/P5/Materials/MI_AP_P27Acoustic.MI_AP_P27Acoustic"
+    ],
+    [
+     "MI_AP_P30Carpet",
+     "/Game/Airport30/Materials/MI_AP_P30Carpet.MI_AP_P30Carpet"
+    ],
+    [
+     "MI_AP_P30Navy",
+     "/Game/Airport30/Materials/MI_AP_P30Navy.MI_AP_P30Navy"
+    ],
+    [
+     "MI_AP_P30Kiosks",
+     "/Game/Airport30/Materials/MI_AP_P30Kiosks.MI_AP_P30Kiosks"
+    ],
+    [
+     "MI_AP_P30WaitingArt",
+     "/Game/Airport30/Materials/MI_AP_P30WaitingArt.MI_AP_P30WaitingArt"
+    ],
+    [
+     "MI_AP_P27Steel",
+     "/Game/Airport27/P5/Materials/MI_AP_P27Steel.MI_AP_P27Steel"
+    ],
+    [
+     "MI_AP_P27Piping",
+     "/Game/Airport27/P5/Materials/MI_AP_P27Piping.MI_AP_P27Piping"
+    ],
+    [
+     "MI_AP_P27Cream",
+     "/Game/Airport27/P5/Materials/MI_AP_P27Cream.MI_AP_P27Cream"
+    ],
+    [
+     "MI_AP_P27Navy",
+     "/Game/Airport27/P5/Materials/MI_AP_P27Navy.MI_AP_P27Navy"
+    ],
+    [
+     "MI_AP_P27GuideCover",
+     "/Game/Airport27/P5/Materials/MI_AP_P27GuideCover.MI_AP_P27GuideCover"
+    ],
+    [
+     "MI_AP_P27Rubber",
+     "/Game/Airport27/P5/Materials/MI_AP_P27Rubber.MI_AP_P27Rubber"
+    ],
+    [
+     "MI_AP_P34LED",
+     "/Game/Airport34/Materials/MI_AP_P34LED.MI_AP_P34LED"
+    ],
+    [
+     "MI_AP_P38AOak",
+     "/Game/Airport38/Materials/MI_AP_P38AOak.MI_AP_P38AOak"
+    ],
+    [
+     "MI_AP_P38AHousing",
+     "/Game/Airport38/Materials/MI_AP_P38AHousing.MI_AP_P38AHousing"
+    ],
+    [
+     "MI_AP_P38EMetal",
+     "/Game/Airport38/Materials/MI_AP_P38EMetal.MI_AP_P38EMetal"
+    ],
+    [
+     "MI_AP_P38ERubber",
+     "/Game/Airport38/Materials/MI_AP_P38ERubber.MI_AP_P38ERubber"
+    ]
+   ],
+   "unmatched": []
+  },
+  "SM_AP_P46RooftopPlant": {
+   "slots": [
+    [
+     "MI_AP_P38BSteel",
+     "/Game/Airport38/Materials/MI_AP_P38BSteel.MI_AP_P38BSteel"
+    ],
+    [
+     "MI_AP_DarkSteel_001",
+     "/Game/Airport38/Materials/MI_AP_DarkSteel_001.MI_AP_DarkSteel_001"
+    ],
+    [
+     "MI_AP_P38ARubber",
+     "/Game/Airport38/Materials/MI_AP_P38ARubber.MI_AP_P38ARubber"
+    ],
+    [
+     "MI_AP_P38AHousing",
+     "/Game/Airport38/Materials/MI_AP_P38AHousing.MI_AP_P38AHousing"
+    ]
+   ],
+   "unmatched": []
+  }
+ },
+ "lights": [
+  {
+   "label": "AP38 practical 059 reclaim_task",
+   "source": [
+    -20.0,
+    -19.5
+   ],
+   "z": [
+    3.431,
+    6.231000000000001
+   ]
+  },
+  {
+   "label": "AP38 practical 060 reclaim_task",
+   "source": [
+    -20.0,
+    -14.5
+   ],
+   "z": [
+    3.431,
+    6.231000000000001
+   ]
+  },
+  {
+   "label": "AP38 practical 061 reclaim_task",
+   "source": [
+    -16.0,
+    -19.5
+   ],
+   "z": [
+    3.431,
+    6.231000000000001
+   ]
+  },
+  {
+   "label": "AP38 practical 062 reclaim_task",
+   "source": [
+    -16.0,
+    -14.5
+   ],
+   "z": [
+    3.431,
+    6.231000000000001
+   ]
+  }
+ ],
+ "volumes": [
+  "Entrance27 local surface separation",
+  "Checkin33 warm welcoming grade",
+  "AP38 warm grade entrancefoyer",
+  "AP38 warm grade checkin",
+  "AP38 warm grade landsidecorridor"
+ ]
+}

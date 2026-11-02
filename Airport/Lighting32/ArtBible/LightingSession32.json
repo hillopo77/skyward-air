@@ -1,0 +1,12 @@
+{
+  "status": "READY",
+  "map": "/Game/Airport32/L_Airport_Lighting32",
+  "viewport": [
+    1920,
+    1080
+  ],
+  "fixture_sources": 11,
+  "source_positions_match": true,
+  "all_fixture_shadows": true,
+  "updated": 1793206485.1192832
+}

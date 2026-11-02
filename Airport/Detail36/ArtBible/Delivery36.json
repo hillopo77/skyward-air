@@ -1,0 +1,237 @@
+{
+  "status": "READY",
+  "created": 1793274224.9951012,
+  "revision": 36,
+  "map": "/Game/Airport36/L_Airport_Detail36",
+  "map_file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\SkywardAir\\UnrealProject\\Content\\Airport36\\L_Airport_Detail36.umap",
+  "map_sha256": "2438ef48e55f7b54039b526fada99da0255f0e131f1c71b181e4f8d4d6802004",
+  "source": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\Airport_Detail36.blend",
+  "source_sha256": "6cff758f1e4c6e471be1d90a1f80d681f2a55232305e0ed8d8285c81aa18f7e2",
+  "source_hashes_match": true,
+  "export_families": 18,
+  "exports": [
+    {
+      "id": "SM_AP_Sofa36",
+      "sha256": "3d3a87ecdc7d2255cf2ad093ef3952dbadeab629f50de3433e4ec90d947f4906",
+      "triangles": 4192
+    },
+    {
+      "id": "SM_AP_OvalTable36",
+      "sha256": "51d6616b5108e3970d5163b68d7529f3f10fdb385bfa34864e46763581a2085b",
+      "triangles": 2824
+    },
+    {
+      "id": "SM_AP_OperatorConsole36",
+      "sha256": "96b92d28e5981da4564e004ef37fdba8becd09f980c24e808ef1179456aaae34",
+      "triangles": 36500
+    },
+    {
+      "id": "SM_AP_Walls36",
+      "sha256": "4cdf935ab1bb8489ee78228dcf9dfa5f0575854b77b6405e1b892d806cf7f1bf",
+      "triangles": 91076
+    },
+    {
+      "id": "SM_AP_Room36_recovery",
+      "sha256": "bb4b81c5362489cc2485e94236a76c3c9a2c529fddccbe29f0f1f2c9ce4d6cc0",
+      "triangles": 1528
+    },
+    {
+      "id": "SM_AP_Room36_concourse",
+      "sha256": "4759fe486d7dd1521d985f3cc81f23f8a99472a38fec17762d4e2b8801707e36",
+      "triangles": 1528
+    },
+    {
+      "id": "SM_AP_Room36_gate07foyer",
+      "sha256": "ee44fdbe573702beaa234d8324e91ae71f22cf79eeb029a2f760c3e9cc872ff7",
+      "triangles": 1528
+    },
+    {
+      "id": "SM_AP_Room36_gate07",
+      "sha256": "b8ad0473acd9d2bd9f8e3fe21c32089da3c050cd8eb2eec9e08072ded87b8b53",
+      "triangles": 4160
+    },
+    {
+      "id": "SM_AP_Room36_cafe",
+      "sha256": "23fbf43073f118994236841ef421522d076b784a47970c3ca064300a10451584",
+      "triangles": 3516
+    },
+    {
+      "id": "SM_AP_Fixtures36",
+      "sha256": "6a0377ca386c8621b650ee4db755e022309cfe8ed295952a0ff0e767c4027cb6",
+      "triangles": 164760
+    },
+    {
+      "id": "SM_AP_Espresso36",
+      "sha256": "8621abc7c612c4b92d8a0624d8e3833c3f2310365099a627f7d9419068d4f210",
+      "triangles": 36980
+    },
+    {
+      "id": "SM_AP_Tea36",
+      "sha256": "66d0ac6c1a8400ff64d8f14321118ddc016daaaab69b3222dcb7645d88405684",
+      "triangles": 20864
+    },
+    {
+      "id": "SM_AP_POS36",
+      "sha256": "71371538603b7e7279db11850ca4be67be233c11ff60f19d8d514eefae0b021c",
+      "triangles": 25680
+    },
+    {
+      "id": "SM_AP_Identity36",
+      "sha256": "5b28eec96e8a85dc76396ed8977966d8182c098816cb442c61469afa92226ac2",
+      "triangles": 83938
+    },
+    {
+      "id": "SM_AP_ScreeningGlass36",
+      "sha256": "dfc8bc8e41873136c90277ce63c4197a05ffe75b28b00857d7c21e761de634c2",
+      "triangles": 2540
+    },
+    {
+      "id": "SM_AP_Bakery36",
+      "sha256": "24422029cffec4d841da52fb7b08e3c66ec9387fa4302c5b63467a51cb2286f1",
+      "triangles": 56032
+    },
+    {
+      "id": "SM_AP_TableSetting36",
+      "sha256": "6aa66a5d2731ed06f6398fc5a4397706dbf64b40c81772e7c4b217738767a9c2",
+      "triangles": 3840
+    },
+    {
+      "id": "SM_AP_Bins36",
+      "sha256": "5ff6150e20a97eec809d0a820188b807a9ad7062a552c78391d4c0b1fdbf4dd9",
+      "triangles": 12704
+    }
+  ],
+  "runtime_sha256": {
+    "airport_runtime.py": "889c906fded20eab4a98e65a8d40b8770ac7c223a15931945a72b11b21c726d2",
+    "airport_rooms24.py": "9d2ee74e49c3b86a3afe8268d818f918cc07bd86a315c42e94b2bd16baa010a5",
+    "airport_flow35.py": "9de4341626ffeb514855ae3e5b49bf024591a2049a3e4696da079ffd7401618a",
+    "airport_detail36.py": "d5c3dd30d7d85b661c105daad7513228ad1d0e3b971d98ec712481b21743cd7c",
+    "detail36_review.py": "879d59952c5a251dc100748c2a3d1eaed883b595c38492605a21c29a93f10f85",
+    "airport_journey22.py": "13c61479a9b187355d09e0cc47b3a67bd4a52b1fd0e915f0730a35bbdf7857fb"
+  },
+  "walk_report": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\ArtBible\\WalkEvidence36\\QA36.json",
+  "walk_checks": 91,
+  "walk_teleports": 0,
+  "setup_player_teleports": 1,
+  "photo_report": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Detail36\\ArtBible\\Photos36.json",
+  "final_photos": [
+    {
+      "file": "01_RightScreeningExit.png",
+      "sha256": "73a125766bb16c427074528c813e08a571682f1a241eb149efdea6663e0becb9",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "02_ClearRepackingRoute.png",
+      "sha256": "01384f92370d7c7aa16e3407da2d369191da10c2478c26ba817b1bfae0b77f7f",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "03_JunctionDestinations.png",
+      "sha256": "413df7c5b2c894baa240b47ff55f5b253fb9db4bbb435898a529b557d6ca33f1",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "04_CafeEntrance.png",
+      "sha256": "db05604827919efed2899528b256d091962c3b67234a8fc37bd897c9b8ef8de3",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "05_CafeRoom.png",
+      "sha256": "4ad5b4e45361c893f9e0622c627d126424afefd8302c36942e8585f64ecb753f",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "06_CafeDining.png",
+      "sha256": "21990a605c851adb5e3ca97e69b3c8a207376d9c507e9d7f92e1e9437582fe5e",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "07_Espresso.png",
+      "sha256": "5c68cc1f0acd2d7fc8d8c565e5588f2d0492cbf63df1fc1c6eb61f1420d0246a",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "08_Bakery.png",
+      "sha256": "5a84047788d55ea2e98a5b7e5d3fe260c30362c20cd1efd4b42ef0315f33a28d",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "09_TeaAndPOS.png",
+      "sha256": "16a1a7ecd0f13810440018c7070b6c460f71aed57983a1a2a270efab069aba8b",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "10_CafeBins.png",
+      "sha256": "dc843ec62a442264e134938ce8f2619d9cd7938727f3237d1456efef45e74f02",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "11_TableDetails.png",
+      "sha256": "c9a826573fd80c11b48bd73f7eaeaa5fa16c6a9e7ee4a2b0fa4416c26594dda0",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "12_A07Entrance.png",
+      "sha256": "dfe2f6e9bbcb25ac57fbf377d9c5897eff4275c7f8cb28cf91cad080ccb73712",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "13_A07Lounge.png",
+      "sha256": "d6a3932285347dd47a6531f4f1bfbe50a3752a2a3021f24f8d90d782cbdb32ed",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "14_A08Entrance.png",
+      "sha256": "f316c8574124549b8e822e2e872b269c580c5a3c899237ac1290bfc17b127ec4",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "15_A08Lounge.png",
+      "sha256": "4ada85c3a700f32bd45d4e4265ecd781cc3f17d5b018e01680367c6e60f66225",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "file": "16_Gallery.png",
+      "sha256": "cff9b8b721d237c83728d8a0fbe8e5b2e021e24029c5974f1f790c861a433a1e",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "post_walk_change": "Fresh import preserves the correct section/material bindings. Visual lining and pastry-contact corrections only; no room-layout, controls or walking-path changes.",
+  "limits": [
+    "Inherited character art and some poses",
+    "Broad distant scenery",
+    "Café food and equipment are visual models; not every new detail has its own interaction",
+    "No sustained FPS certification, multiplayer or standalone packaging"
+  ],
+  "html_validation": "Local source, image existence and anchors checked; no browser-rendering claim",
+  "visible_session": {
+    "status": "READY",
+    "map": "/Game/Airport36/L_Airport_Detail36",
+    "player": [
+      -18.335483324956105,
+      0.28847925030837296,
+      2.495254667112283
+    ],
+    "viewport": [
+      1920,
+      1080
+    ],
+    "updated": 1793274700.7362304
+  }
+}

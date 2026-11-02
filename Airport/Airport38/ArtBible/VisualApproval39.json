@@ -1,0 +1,635 @@
+{
+  "status": "PASS",
+  "source_sha256": "52d50fa72e86610db32ca5d89e8e8d8e85e98df39876c74419e2a0a445741610",
+  "character_source_sha256": "eac73c0812391bc2f994d24cc9234c529be9a2d74175d41c1d58516c44703dff",
+  "reviewed_utc": "2026-10-30T20:12:08.879463+00:00",
+  "findings": [
+    "A3-01",
+    "A3-02",
+    "A3-04",
+    "A3-06",
+    "AC39-01",
+    "AC39-02",
+    "AC39-03",
+    "AC39-04",
+    "AC39-05",
+    "AC39-06",
+    "AC39-08",
+    "AT01",
+    "AT02",
+    "AT03",
+    "AT04",
+    "AT05",
+    "AT06",
+    "AT07",
+    "AT08",
+    "AT09",
+    "AT10",
+    "AT12",
+    "AT13",
+    "AT14",
+    "AT15",
+    "CH39-01",
+    "CH39-02",
+    "CH39-03",
+    "CH39-04",
+    "CH39-05",
+    "CH39-06",
+    "CH39-07",
+    "CH39-08",
+    "CH39-09",
+    "CH39-10",
+    "E39-02",
+    "E39-03",
+    "E39-04",
+    "E39-05",
+    "EQ02",
+    "EQ03",
+    "EQ04",
+    "EQ05",
+    "EQ06",
+    "EQ07",
+    "EQ08",
+    "EQ09",
+    "EQ10",
+    "EQ11",
+    "EQ12",
+    "EQ13",
+    "F39-02",
+    "F39-03",
+    "F39-04",
+    "F39-05",
+    "L01",
+    "L04",
+    "L05",
+    "L06",
+    "L07",
+    "L08",
+    "L09",
+    "R01",
+    "R03",
+    "R04",
+    "R05",
+    "S2E01",
+    "S2E02",
+    "S2E03",
+    "S2E04",
+    "S2E05",
+    "S2E06",
+    "S2E07",
+    "S2E08",
+    "S2E10",
+    "UG43-01",
+    "UG43-02",
+    "UG43-03",
+    "UG43-04",
+    "UG43-05",
+    "UG43-06",
+    "UG43-07",
+    "UG43-08",
+    "UG43-09",
+    "UG43-10",
+    "UG43-11",
+    "UG43-12",
+    "UG43-13",
+    "UG43-14"
+  ],
+  "final_capture_checks": [
+    {
+      "file": "Screenshots/01_Entrance.png",
+      "sha256": "71a178c509d27a0f411948e2b52a6d962983b142dc9e2710f095ddd1987bcb0e",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/02_Checkin.png",
+      "sha256": "b4a3f5b83100c411b4918adda0f65ecd983f361763bf1da8ed625e6efe2092f9",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/03_BagDrop01.png",
+      "sha256": "31da7f4a0db55b2fe612ee0b66a43880f5d284081197f929c8f33bb726f12dfb",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/04_BagDrop02.png",
+      "sha256": "40719d549cf44a654595ff63b394248501e89244b247aa580b115f8cb0b145c4",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/05_SecurityEntry.png",
+      "sha256": "c4bde3bed28d380152c39bb6c5aecd33c6e82229d30b4da88ee591f09e20bccc",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/06_WestEntryGap.png",
+      "sha256": "b5f2b744e05ac13de0aa327f4192f36b220948dc3dd1cb81feed0531284b6f89",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/07_Curtain.png",
+      "sha256": "07b73719054d6b12d582d0a37f654b7e5d6f2cf5003a72bccf12cf3b492961c6",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/08_ScannerControl.png",
+      "sha256": "a192fa462246320dcec0b70a56b454039fd1be8e3f0a5922a6032d68e670e2db",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/09_ScannerMonitor.png",
+      "sha256": "2504894060e80e9768ca48aaed73ee4e9f1abaf79ae5c32e82013c1ce407e2e9",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/10_StaffDoor.png",
+      "sha256": "76bb658cabb9aa340adf0e3a1b6d28b88b57c9d492c64ac62813a8cc89ea09d4",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/11_StaffStorage.png",
+      "sha256": "a1c38dccc976f78065e653ab112945f88db750a9addb433204817e8bdb8665d2",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/12_Repacking.png",
+      "sha256": "664f228793acce89b285dae3df4fde5981876ad0f64affc943eeccbc974b5534",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/13_Concourse.png",
+      "sha256": "73c8c2b3bf0efbdb54c36df19300e15ddf0d82d97a6f690e37a40a6d51effc26",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/14_A08Marker.png",
+      "sha256": "3e95eddf42968033800c60432e372b790a41ccc2ce575f4f6b5cac94a79b97ff",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/15_A08Arrival.png",
+      "sha256": "ed419708bec7349ee9ffbb350e936c983e407101b696defd113fe6b0bac7a9ef",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/16_A08Ceiling.png",
+      "sha256": "21256443d7632567d84fc8041ce55839045a0c31782df29565c90ef1f98b97bd",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/17_A08Interior.png",
+      "sha256": "4ca7173913602fee410af3f3b865dba7f14998daf762c8b6f8c307d59bf392d0",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/18_WCSign.png",
+      "sha256": "9c87568c6461dbc96ba74f242a1182530e1fb5e75c4dabbdf2acbe57f350ea92",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/19_WCLobby.png",
+      "sha256": "fea0cf62aaeabd9c102611eebac67d4c479c455a9c11c4d8886eb3225ccdc5ba",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/20_WCEastGap.png",
+      "sha256": "c369e3ee0c0d2fbfbc82d8de3ea9dd9d419b45f65dbc0fd3dff2a1f919b55614",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/21_WCInterior.png",
+      "sha256": "94b781108aa707299bb9b4088739c391b93ce22e7c182212ab81fda8847ce3f4",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/22_Arrivals.png",
+      "sha256": "6a2f994d93d9cb7e5af3f67f27e84c0f1379ae15a8032b5b8db43ae21b97bd2c",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/23_Cafe.png",
+      "sha256": "d43df020662a2091d2003ecf835c23597468174b87e2bad9f1b996c1ea782c55",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/24_CafeService.png",
+      "sha256": "b2c65b8d4470a5dd1704e2f4c55fd107a08f19f4e6d8afe8f818f7c5e402c226",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/25_Gallery.png",
+      "sha256": "f2a04366e67f7febd14d6dbb8566fa2b54913b4a542bdbfb00456cc4164caa60",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/26_A07Desks.png",
+      "sha256": "00a978595854a98d3555a9f9dd7c10f4141b7cb5464a6fad57a474b6a093729e",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/27_DeskClearance.png",
+      "sha256": "bcadba5060b9b60d5bd83f31095729e04be356d0840642c24edc94ad203ea94a",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/28_BridgeInside.png",
+      "sha256": "e0892d5bacdf11a540ab019f87c91d3aac8bf481ac3c044c8dc9e1e2e93f4224",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/29_DockingJoin.png",
+      "sha256": "df5d4fa2b959bdfa979b808a12065e50e36484f0f7730bba74f893e6916a6da1",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/30_BridgeWing.png",
+      "sha256": "c5b755943900298406e9b6bbbd080436178b72fb908824f940655df0a75fd212",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/31_FormerServiceRamp.png",
+      "sha256": "2573f489658fdcb398121fb974b16204aeca35c9d62bd0f638ccf6889ad8b443",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/32_Exterior.png",
+      "sha256": "b98d88d70188b383be60c437e7f6be080f3ddb5152bcf23d21264f7332cf99f8",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/36_BaggageBay.png",
+      "sha256": "58a82388a89cf715b81d7ea83b86746f69d01f274a8affb65370e7cc1c2a1175",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/37_BaggageReceiver.png",
+      "sha256": "44ac2e6dd241c5a28635a02cfe88d933c84d6ddaec7561e5807e48bfe99d761f",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/38_Forecourt.png",
+      "sha256": "4d1fc920f38472c0ff95c732d5c802fd21a9802ffd50e26de02411816212831c",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/39_Cockpit.png",
+      "sha256": "8f2bf1e30578fc8caf52d8690f5ed80d334a00b0afbcffd50b5326d405ebe9e7",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/40_Cabin.png",
+      "sha256": "32c1e42d2f00806da7836be5072853273ca67d82a59f32dc55d0bd7b7c228c83",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/44_PreparationRearMounted.png",
+      "sha256": "c4351fca5cdfcefe3633065235abf35ab536f9e8de1c345fcd423b399702cee7",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/48_GlassClose.png",
+      "sha256": "ad3601097f8f8a1fbcb785e16027221b067d114bd7e9365c34f5c3c00689fc0d",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/49_GearContact.png",
+      "sha256": "bd452768832922330a23321cd13d93e3485dc0177ca65b8a7383fa0ebb39919f",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/50_VanityRebuilt.png",
+      "sha256": "546826c973d70c63b94a2c1275464e489d94314fb7b04cd905fb7b8fe7f9f9be",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/51_TravelShelves.png",
+      "sha256": "0dd32b95c65a96ae6e7eeda42bd57d42b963e804d6c9d39da83e5905d851416d",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/52_NoseContour.png",
+      "sha256": "8d871d7e0f6d7cf48c65943c76ddf5e836967fa850a931e7d57a9a44106a13ca",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/55_SeatedCharacter.png",
+      "sha256": "c34c2a443bd93eb4134425d7796225486f57ccf5ab628345781ffa8f6caa9cbd",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/56_CafeCharacter.png",
+      "sha256": "12369628d85d54b65e8f3989b3d0d55a329fd705bda3694516de231b1027f6bd",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/57_GateCrew.png",
+      "sha256": "fbfa2f5ed675d8aca2d026aa438fe0df3fedb8d0e3d66fab109f1c3c7eeee496",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/58_CabinCharacter.png",
+      "sha256": "6a9e00e53efe95e8dca177528fb9a1ca28e939b1ca3a302821d8eac6420691f5",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/59_BusinessCharacter.png",
+      "sha256": "59bb6c5c055f0deed186dce7be7c575908a328c68cde0580ed403adfb2c4881c",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/62_Service12_Mid.png",
+      "sha256": "6b7d5a8e0a53d2e9a1298ba35f3e427bb026af5c4d8b80b51f43cfa2b9c14ee8",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/63_Service12_Ovens.png",
+      "sha256": "77dbe04f407e65c421581497eeb25c36f2f5633eda786d70e4a70dbc596ab11b",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/64_Service12_Rear.png",
+      "sha256": "e904070429cc71597dd01803bedf4e231707873f55cebbabcc33e0b9a45d95a9",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/65_Service12_Phone.png",
+      "sha256": "731f5bef559cc816ef55ac71c62aff1604e9f98b3306c4eeb597da0875f5adb4",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/66_LavatoryEquipment12.png",
+      "sha256": "7f7eb312b47485cf9f4f02da1e8fa36e7d3fb984e9f50f382cabc78001e08132",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/67_SuiteDoorDetail11.png",
+      "sha256": "1f91ac2f33ae42b41d1d198cdce7911c45393979abc18c996d317bc82f6831c2",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/68_CrewServices11.png",
+      "sha256": "fa281c1f989f612437c58af5ec7dabc2f3c1c90ad6866ea402b83c174f97b513",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/69_CargoStairs10.png",
+      "sha256": "bbdd8cb68150029164b9adfc814ea337f4dad5cb3f69c81358e58332eb305c1d",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/70_CargoOverview15.png",
+      "sha256": "fff4ef015571b8651f989c581ec13744d0a88d54665fdd9c9124c8b92fe2f1f3",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/71_CargoMixed15.png",
+      "sha256": "43da9556bb97eea2cf5ab93539118bcefd38af35288d387e4473b04792b55fb4",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/72_ExteriorHero15.png",
+      "sha256": "31c982207c88f5c237704120c2bd67b51ea4aa6ac5d063eb601b579a6a0d9acb",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/73_EngineDetail15.png",
+      "sha256": "b1b8cf15bd416437345eb3ca7f8cabea63f9aedcb6b683168e2c4c76be0c2603",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/74_TailDetail15.png",
+      "sha256": "bcf4e9ea148ad5589f738609acb8e778fc9daef7c9d191f608cee10b000c9cdc",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/53_SecurityGuard.png",
+      "sha256": "1ff1abf61808553fa4cff4c20c24de87ae25863c8d9eb685830036d3c39146a5",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/54_PlayerCharacter.png",
+      "sha256": "f98033b54ea2339118a891da2afd11b0b4d5c5f4f7e6ae6dbab59eb2543c6f74",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/60_WindowClosed.png",
+      "sha256": "afedbb4fbaec6f830d2bfb17c4e0cc1e41641c700f238625b81c13bb6fd535f5",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/61_WindowOpen.png",
+      "sha256": "b45ab5c7efd9f80fa88d88281e2052ba741c27acb34e7cbc3511d38926ac7e82",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/78_ExteriorWindowClosed.png",
+      "sha256": "2f07aa7256c84dac2df93587f6d1afb2e16b2bdc13ae5d0421defdc999624df5",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/79_ExteriorWindowOpen.png",
+      "sha256": "28230e9ecc26e2eb9a6ac5539dec8ad6513ca7927594b59de12cbe0c87e358be",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/84_WindowTopSeated.png",
+      "sha256": "0cb0fb304f1a6379ff1496c6c35e7b2969640721df6884e26342a8bfcfc6028f",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/85_WindowCornerClose.png",
+      "sha256": "93a4a243a1d8dc26d3a5fbda48bcd294fbfbef53c77b51ad895991a51c10c424",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/86_CassetteRackJoin.png",
+      "sha256": "9385484c827f54f1b5b8bb92de7e3df08dcb837ee650dd065e6fd6034128ccb6",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/87_WindowExteriorCorners.png",
+      "sha256": "9debd096b95b41e0307f443e64d84d4a84851504e496d913030dfe802b83c1a1",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/88_WindowOpenAisle.png",
+      "sha256": "b5b8de47cfdf00b4ae504fd01bfd3f07a505debb88fc470522823b06e7ddfd68",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/80_PlayerLOD0.png",
+      "sha256": "c752bb8b3d77b6ced86c8f990eab8cf0468587750ba5c030325dd628f11ba892",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/81_PlayerLOD1.png",
+      "sha256": "569ec0e35283fcf7dd5619c47f8da96d01266104bf550ac3fedadd4b6188652c",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/82_PlayerLOD3.png",
+      "sha256": "bb72db695095523b0155d2cac736eea344e90fcbbc8743eefb423876940ad022",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/Assemblies41_NPCFastened.png",
+      "sha256": "874ac39031decb3e275b0b6996b238ee6a17a37df6cb66d76b765e4665949638",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/Assemblies41_EmptyStowed.png",
+      "sha256": "e048bc7e002992c8874da558e87a52f7d7c21679811c8cbb9be5a38475315865",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/Assemblies41_PlayerFastened.png",
+      "sha256": "bba21b80653620a24587ee1b0087a7cf8e931c4e04a0f30dec5572dd70021715",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/Assemblies41_PlayerReleased.png",
+      "sha256": "064fc9c0ff82361419ca9b0ca6c24612586699b3ec0e5c91285c8136b01be576",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/Assemblies41_WindowClosed.png",
+      "sha256": "170ec8543205eb860b1211b19447aacc83d5fd6d086165959ee3fc56807f34ce",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/Assemblies41_WindowOpen.png",
+      "sha256": "0b0a49d4866f37d67fcd968a61532dd9752e7baee376209be0f1ad241e250941",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/Assemblies41_BinOpen78.png",
+      "sha256": "6b0d55079c0f748aa34107fc5013955a3a7b8901d4b03a2ec8f2b914454d73f7",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    },
+    {
+      "file": "Screenshots/Assemblies41_BridgeBagBlocked.png",
+      "sha256": "6773e243c5e6eee2468a7afd455ec4e4eff13034e8a65aa9d1c39d4454c1c742",
+      "passed": true,
+      "inspection": "Whole-scene contact sheets plus full-resolution critical fittings/character/window/crown views; forced player LOD comparison separately."
+    }
+  ],
+  "import_reports": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\ArtBible\\Native38.json",
+      "sha256": "35ec1140d0004429543d30a31162059aec30d094b8c1ba83a28fbda49246e996"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\ArtBible\\NormalOnly44.json",
+      "sha256": "7fda1851da1990a3d3c9a4194e934cf876ba583c762d36c7f367c6731fc1642f"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Characters\\Revision39\\ArtBible\\NativeCharacters39.json",
+      "sha256": "f0151b697ae9f2bb92838853e0dc81dcf3deb2f692cb07e390cea14967374201"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Characters\\Revision39\\ArtBible\\NativeLOD39.json",
+      "sha256": "89a0a94ce09e6a34afc950d9f03215f4c9ab8a5091d3dcdbc82e6640141c1b70"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Characters\\Revision39\\ArtBible\\UVPrimaryAll39.json",
+      "sha256": "936b8ee160704394801a8ddc811b172aa0f0bd08b3cfd35ca63baff64493c143"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Characters\\Revision39\\ArtBible\\Surface41.json",
+      "sha256": "4b3b1b3788ffba5f0fe1a091e409c552177f25fa0469e268a159ac0a5e2ce0cc"
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Characters\\Revision39\\ArtBible\\Surface41_Overlay.json",
+      "sha256": "be23cbae7b358ad081199dac65e9c4d629a012a89fa709c93812f2caebeb3fe7"
+    }
+  ],
+  "scope": "Explicit bounded visual approval after full current-source inspection; independent runtime/physics/timing reports remain required. Not a universal flawlessness claim.",
+  "method": "Eight current whole-scene contact sheets plus full-size critical assemblies and genuine close-ups. Forced player LOD0/1 retained smooth appearance; forced close LOD3 deliberately coarse, technical-only. Exact native roof40/exterior30 and window87 confirmed after inward crown repair.",
+  "limits": [
+    "Representative native poses and distances; source tests separately cover all24body/chair pairs.",
+    "Graphite feed-guide flanges are backed by actual wall/reveal; exact owners checked separately.",
+    "Distant landscape/airfield is simpler than the furnished passenger spaces.",
+    "Flight timing and audible playback need separate evidence."
+  ]
+}

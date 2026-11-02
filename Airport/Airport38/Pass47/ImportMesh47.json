@@ -1,0 +1,36 @@
+{
+ "status": "SUCCESS",
+ "notes": [],
+ "job": {
+  "build": "LandsideRoad47Build.json",
+  "label": "Airport47 landside road paint",
+  "folder": "Airport38/Pass47/Forecourt",
+  "collision": "none"
+ },
+ "slots": [
+  [
+   0,
+   "MI_AP_F39White",
+   "MI_AP_F39White"
+  ],
+  [
+   1,
+   "MI_AP_P38EAmber",
+   "MI_AP_P38EAmber"
+  ]
+ ],
+ "bounds_m": {
+  "x": [
+   -67.86,
+   -62.14
+  ],
+  "y_source": [
+   -600.0,
+   800.0
+  ],
+  "z": [
+   0.03,
+   0.03
+  ]
+ }
+}

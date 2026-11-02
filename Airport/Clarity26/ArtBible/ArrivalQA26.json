@@ -1,0 +1,207 @@
+{
+  "status": "SUCCESS",
+  "checks": [
+    {
+      "name": "Initial next-step prompt says CHECK IN",
+      "passed": true
+    },
+    {
+      "name": "Foyer has one departure exit",
+      "passed": true
+    },
+    {
+      "name": "Premature left-hand security shortcut is physically closed",
+      "passed": true
+    },
+    {
+      "name": "High-DPI rendering is enabled",
+      "passed": true
+    },
+    {
+      "name": "Short-history clarity profile is active",
+      "passed": true
+    },
+    {
+      "name": "Actual viewport is at least 1600x1000",
+      "passed": true,
+      "viewport": [
+        1600,
+        1000
+      ]
+    },
+    {
+      "name": "No motion blur or depth-of-field blur",
+      "passed": true
+    },
+    {
+      "name": "Journey overlay is a native screen-space material",
+      "passed": true
+    },
+    {
+      "name": "Aim selects Check in / collect boarding pass",
+      "passed": true,
+      "selected": "Check-in desk 01"
+    },
+    {
+      "name": "Interaction prompt matches checkin",
+      "passed": true,
+      "hint": "CheckIn"
+    },
+    {
+      "name": "Check-in issues boarding pass before security",
+      "passed": true
+    },
+    {
+      "name": "Next step updates to Security",
+      "passed": true,
+      "actual": "Security",
+      "hud": "Security"
+    },
+    {
+      "name": "Aim selects Pick up luggage",
+      "passed": true,
+      "selected": "Physical luggage 01"
+    },
+    {
+      "name": "Interaction prompt matches pickup",
+      "passed": true,
+      "hint": "Pickup"
+    },
+    {
+      "name": "Next step updates to BagDrop",
+      "passed": true,
+      "actual": "BagDrop",
+      "hud": "BagDrop"
+    },
+    {
+      "name": "Aim selects Place checked suitcase on belt",
+      "passed": true,
+      "selected": "Bag drop belt 01"
+    },
+    {
+      "name": "Interaction prompt matches bagdrop",
+      "passed": true,
+      "hint": "BagDrop"
+    },
+    {
+      "name": "Suitcase is accepted using native belt physics",
+      "passed": true
+    },
+    {
+      "name": "Next step updates to Security",
+      "passed": true,
+      "actual": "Security",
+      "hud": "Security"
+    },
+    {
+      "name": "Screening entry24 opens after its required clearance",
+      "passed": true
+    },
+    {
+      "name": "Aim selects Security screening",
+      "passed": true,
+      "selected": "Security portal 01"
+    },
+    {
+      "name": "Interaction prompt matches security",
+      "passed": true,
+      "hint": "Security"
+    },
+    {
+      "name": "Blue route reaches and clears screening",
+      "passed": true
+    },
+    {
+      "name": "Next step updates to Gate",
+      "passed": true,
+      "actual": "Gate",
+      "hud": "Gate"
+    },
+    {
+      "name": "Screening exit24 opens after its required clearance",
+      "passed": true
+    },
+    {
+      "name": "Aim selects Board flight SA107",
+      "passed": true,
+      "selected": "Gate A07 boarding desk"
+    },
+    {
+      "name": "Interaction prompt matches boarding",
+      "passed": true,
+      "hint": "Boarding"
+    },
+    {
+      "name": "Boarding pass is validated at A07",
+      "passed": true
+    },
+    {
+      "name": "Next step updates to Board",
+      "passed": true,
+      "actual": "Board",
+      "hud": "Board"
+    },
+    {
+      "name": "A07 boarding opens after its required clearance",
+      "passed": true
+    },
+    {
+      "name": "Gate and bridge lead into the real aircraft",
+      "passed": true
+    },
+    {
+      "name": "Standing eye height remains 1.62m",
+      "passed": true
+    },
+    {
+      "name": "Next step updates to Seat",
+      "passed": true,
+      "actual": "Seat",
+      "hud": "Seat"
+    }
+  ],
+  "captures": [
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\QA26_01_FirstStep.png",
+      "sha256": "60dd009aad2768f508d64b58db87644c9cdcdccfcdc8f536931366a05137e478",
+      "phase": "CheckIn",
+      "position": [
+        -48.495208684936046,
+        -12.5,
+        1.62
+      ]
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\QA26_02_NextSecurity.png",
+      "sha256": "72fb8893ab84a9692a0247493b63c45bc4f1dd52ded042557a6c8e549c96a1f5",
+      "phase": "Security",
+      "position": [
+        -30.600383549269104,
+        -7.452946675532724,
+        1.62
+      ]
+    },
+    {
+      "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Clarity26\\Screenshots\\QA26_03_Aboard.png",
+      "sha256": "b83f5939a071cf55141d92d0860fd8455e71a420fc51da8f45beb8ced3dd28b4",
+      "phase": "Seat",
+      "position": [
+        -1.0767366637637588,
+        0.6749892395462183,
+        1.62
+      ]
+    }
+  ],
+  "step": 65,
+  "elapsed_s": 55.625,
+  "continuous_walk": true,
+  "teleports": 0,
+  "journey": {
+    "checked_in": true,
+    "bag_accepted": true,
+    "security": true,
+    "boarding": true,
+    "aboard": true
+  },
+  "phase": "Seat"
+}

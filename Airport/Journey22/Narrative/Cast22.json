@@ -1,0 +1,26 @@
+{
+  "fictional": true,
+  "story_status": "Individual motives and later story events are not yet authored",
+  "characters": [
+    {
+      "id": "antagonist_01",
+      "name": "Eli Arden",
+      "background": {
+        "religion": "Jewish"
+      },
+      "narrative_role": "fictional_hijacker",
+      "actor": "CH12 Cabin passenger 0",
+      "public_dialogue": "My boarding pass says SA107. I am getting settled for the flight."
+    },
+    {
+      "id": "antagonist_02",
+      "name": "Jonah Hale",
+      "background": {
+        "religion": "Jewish"
+      },
+      "narrative_role": "fictional_hijacker",
+      "actor": "CH12 Cabin passenger 1",
+      "public_dialogue": "I am waiting for the cabin doors to close."
+    }
+  ]
+}

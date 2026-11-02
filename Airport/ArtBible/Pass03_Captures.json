@@ -1,0 +1,34 @@
+{
+  "status": "SUCCESS",
+  "pass_id": 3,
+  "pass_name": "Check-in, bag drop and arrivals reclaim",
+  "captures": [
+    {
+      "file": "Pass03_01_Entrance.png",
+      "sha256": "09bd8f19bd50b0b149fd2dc677bc4a7f4d146d04cd6176d8297f423f59b198f9",
+      "camera": "01_Entrance"
+    },
+    {
+      "file": "Pass03_03_Security.png",
+      "sha256": "51a7fd41aa66482f1c76a5a7b3c6836c25045a52d4a6c8c5372a1ee82c7c63ae",
+      "camera": "03_Security"
+    },
+    {
+      "file": "Pass03_06_Gate.png",
+      "sha256": "896296bee4d87133325c6e0533fafd2003a5361803f09c9c97480c6b8ccf0436",
+      "camera": "06_Gate"
+    },
+    {
+      "file": "Pass03_02_Departures.png",
+      "sha256": "80f375089a489f3ebe8d9332787d8a319c1b2bd2d8b5c1123bd663cb119270bd",
+      "camera": "02_Departures"
+    },
+    {
+      "file": "Pass03_04_Baggage.png",
+      "sha256": "e677c6883d35adbd1b9d5ff1d8697f0c26cded79928e83100c0a229157f85f92",
+      "camera": "04_Baggage"
+    }
+  ],
+  "runtime_sha256": "cb71573c3626e1e41e1d4ff77d8698cde23dea7052d46f92f1a550abec8d3cdc",
+  "native_bodies": 0
+}

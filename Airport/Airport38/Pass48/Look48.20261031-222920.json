@@ -1,0 +1,22 @@
+{
+ "status": "SUCCESS",
+ "airside": null,
+ "captures": [
+  {
+   "name": "T_sec_gi0",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass50\\Look\\GITest\\T_sec_gi0.png"
+  },
+  {
+   "name": "T_sec_gi1",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass50\\Look\\GITest\\T_sec_gi1.png"
+  },
+  {
+   "name": "T_hall_gi0",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass50\\Look\\GITest\\T_hall_gi0.png"
+  },
+  {
+   "name": "T_hall_gi1",
+   "file": "C:\\Users\\zaran\\Documents\\Codex\\2026-10-22\\referenced-chatgpt-conversation-this-is-an\\outputs\\Airport\\Airport38\\Pass50\\Look\\GITest\\T_hall_gi1.png"
+  }
+ ]
+}

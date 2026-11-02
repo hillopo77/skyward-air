@@ -1,0 +1,41 @@
+{
+  "status": "SUCCESS",
+  "method": "per candidate: reachability trace at waist height, then the real airport_journey38.floor_at_source, then the update_floor physical fallback trace",
+  "out_steps_m": [
+    0.05,
+    0.1,
+    0.15,
+    0.2,
+    0.25,
+    0.3,
+    0.4,
+    0.5,
+    0.65,
+    0.8,
+    1.0
+  ],
+  "done": 40,
+  "total": 40,
+  "confirmed": [
+    {
+      "polygon": "Bridge38 docking cab",
+      "edge_point": [
+        13.916,
+        -0.075
+      ],
+      "normal": [
+        1.0,
+        0.0
+      ],
+      "deck_z": 0.0,
+      "wall_blocked_at_m": null,
+      "distance_m": 0.05,
+      "point": [
+        13.966,
+        -0.075
+      ]
+    }
+  ],
+  "blocked_by_wall": 9,
+  "supported": 30
+}
